@@ -1,0 +1,82 @@
+# Building the initial team for seed stage startups at andrewchen
+
+Dear readers, I have moved to Substack and I will be writing here from now on:  
+👉 [andrewchen.substack.com](https://andrewchen.substack.com/)  
+In the meantime, I will leave andrewchen.com up for posterity. Enjoy!
+
+**Seed funding and building out the initial team**
+
+One of the most exciting events for a startup is landing seed funding, which transforms a “2 dudes in a living room idea” into something with much more potential. I wanted to summarize a couple things that are relevant for this stage, learned from personal experiences and conversations with other entrepreneurs. This blog is targeted at startups who have raised their first $500k-1M of funding, which often leads to hiring 4-6 people – this first batch of folks is critical, of course.
+
+Here’s a quick outline of some of the things I’ve encountered:
+
+1.  Hiring T-shaped people versus specialists
+2.  Try to get doers
+3.  More candidate flow solves a lot of problems
+4.  Interview for the actual work you’ll be doing, not skillset trivia
+5.  Raw intelligence is just one factor – don’t overestimate it
+
+There are many more topics, of course, but this is a good start – let’s dig in:
+
+**Hiring T-shaped people versus specialists**  
+One of the truisms in startupland is that everyone has to wear many hats – backend programmers might have to pitch in and do some feature work, designers might have to write some marketing copy, and the CEO might have to vaccuum the office ;-) Just as importantly, if you believe that startups are fundamentally undergoing a process to learn about their customer and the market, then you need people who are  versatile who can see distant connections between a variety of topics. So you want generalists, but a specific kind.
+
+I’ve come to believe that the first batch of people you want on your team are going to be T-shaped, meaning they are broad in a bunch of different areas and deep in a particular one. The breadth of skills gives them enough common context that they can have conversations with anyone on the team about anything, but the depth gives them a source of knowledge that makes them vital to the team.
+
+Testing for this can be as simple as asking a deeper set of questions when interviewing candidates, and asking them to do exercises that are outside of their stated skillset. Most engineering interviews are specialized enough that there are coding questions, but not many that I’ve seen also include an interview around product creation or UI design. Similarly, when discussing candidates, you’ll want to give equal weight to their depth area as their breadth areas.
+
+Watch out for people who are so deep in one area that they seem to be overspecialized – it can be a signal for a lack of interest for pitching in on areas that might be vital for your team, or they may have nothing to do if your startup inevitably changes directions.
+
+**Try to get doers  
+It’s very important to hire people who are execution-focused early on. You just don’t have a lot of room for senior people or “philosophers” that don’t immediately contribute value in the product development process. When it comes to seniority, I’ve often liked to hire people who have recently had titles as team leads or directors, but nothing more senior. That way, you get people who are used to the responsibility of leading a team, yet are still low enough to the ground to have immediate impact. This is why people who are fresh out of consulting or banking backgrounds make for impractical partners – they are too focused on strategy and financials when you really should be focused 100% on concrete products and customers.**
+
+**The other type that you find that’s not execution-oriented is the philosopher type. These folks often interview really well, are familiar with a wide spectrum of things and often experiment with new technologies all the time. The hard part about adding these folks to your early team is that they may be more interested in reading blogs and indulging themselves intellectually than really working hard on a team to get a lot of work done.**
+
+**More candidate flow solves a lot of problems**
+
+For most seed stage startups, getting the first 2-3 people usually won’t be a problem – you’ll have people in mind, or people who are in your immediate group of friends who are easily accessible. What’s much harder is once you move beyond your immediate network, where you may find:
+
+*   People you want have jobs and aren’t interested
+*   As an entrepreneur, you know lots of entreprenurs who want to start something, not join something
+*   Lots of “OK” people who are interested, but who are hard to get jazzed about
+*   etc.
+
+It’s easy to immediately get into a state where bars get lowered, things you don’t want to get accommodated are, and all sorts of other problems. Or you’ll have interviews where the person was OK but not great, and you really want the skillset.
+
+All of this hand-wringing can be solved if you find a repeatable model for contacting qualified people and getting them in the door. I’ve found that when you start hiring for a new job role, it’s hard to figure out who a perfect candidate is – it isn’t until you see 10 candidates that you start to hone into what you really want and like. Figuring out the repeatable process that works for you is the hard part – but you want to find communities where your ideal candidates are already involved, and start talking to as many of them as possible. This may be Newgrounds for Flash people, or the Firefox extensions directory for browser folks.
+
+**Interview for the actual work you’ll be doing, not skillset trivia**  
+I’ve previously written a bunch about my feelings on this topic, so I’ll [just link here](http://andrewchenblog.com/2009/07/28/what-if-interviews-poorly-predict-job-performance-what-if-dating-poorly-predicts-marital-happiness/). The short of it is that I think most interview processes suck because they aren’t actually tests of what it would be like to actually work together. The ideal interview, imho, is just to interview, then work together for 2 months and do a checkpoint to see if it’s working OK. But because most people looking for a job aren’t willing to do that, having a 3-day “working interview” is a reasonable substitute as well.
+
+**Raw intelligence is just one factor – don’t overestimate it  
+All the young, energetic entreprenurs I know want to hire other people like them – high-horsepower people who work hard. As a result, you can organize an entire hiring process around intelligence, full of puzzles and brainteasers, and reward anyone who thinks quickly on their feet. I’ve found that this actually sucks as a minimum bar for hiring people – it’s just as important to evaluate things like passion in the area you’re working in, their reasons and goals for being at your startup, etc. The reason why you need to evaluate this stuff is that startups are really hard, and often take more time than you think they will – as a result, it’s important to understand peoples’ motivations to make sure it’s a good match from the beginning.**
+
+**A couple of the things that are useful to evaluate:**
+
+*   How do they see work fitting in their life? Does the style match? (Mornings vs late, hours, etc.)
+*   Level of process and improvisation – how are decisions made, how well are things spec’d and defined, etc.
+*   Mutual goals and motivations – money versus serving a goal versus learning versus others
+*   What stage of startups do they like? Seed, mid, later on? Why?
+*   Long-term goals – create a great lifestyle company, or try to go big?
+
+I think questions like the above should get equal billing as testing for skillset – these are the kinds of things that impact long-term collaboration and performance as much as mastery of skillsets of knowledge.
+
+Figuring out the alignment of these soft skills reminds me a lot of this great interview with John Doerr of Kleiner Perkins, where he discusses Missionaries versus Mercenaries – [you can watch the video here](https://ecorner.stanford.edu/video/mercenaries-and-missionaries/). Ideally, you find people who really understand and believe in the mission of the company – and if you have really smart mercenaries in the team, it may work well for when things are going well, but there’ll be significant issues if there are any hiccups (which there are bound to be some).
+
+As a side note, this is often a problem with hiring metrics-oriented people, because their passion and interests aren’t as much in the value that’s created through the product as much as figuring out how to make the metrics go up. This can create a very revenue-oriented mercenary culture that leads to weird company vision problems. I think the ideal scenario is to find people who have a passion for the particular product you’re bringing to market, and then training them to be metrics-oriented, versus taking people who love numbers/data/algos and trying to train them to love a particular product area.
+
+**Comments? Any lessons to share?**  
+If so, please comment below – would love to hear from other early stage startups and their lessons in hiring the first 10 or so people.
+
+**Want more?  
+**If you liked this post, [please subscribe](http://andrewchenblog.com/subscribe/) or [follow me on Twitter](http://twitter.com/andrew_chen). You can also [find more essays here](http://andrewchenblog.com/list-of-essays).
+
+**PS. Get new updates/analysis on tech and startups**
+
+I write a high-quality, weekly newsletter covering what's happening in Silicon Valley, focused on startups, marketing, and mobile.
+
+Views expressed in “content” (including posts, podcasts, videos) linked on this website or posted in social media and other platforms (collectively, “content distribution outlets”) are my own and are not the views of AH Capital Management, L.L.C. (“a16z”) or its respective affiliates. AH Capital Management is an investment adviser registered with the Securities and Exchange Commission. Registration as an investment adviser does not imply any special skill or training. The posts are not directed to any investors or potential investors, and do not constitute an offer to sell -- or a solicitation of an offer to buy -- any securities, and may not be used or relied upon in evaluating the merits of any investment.
+
+The content should not be construed as or relied upon in any manner as investment, legal, tax, or other advice. You should consult your own advisers as to legal, business, tax, and other related matters concerning any investment. Any projections, estimates, forecasts, targets, prospects and/or opinions expressed in these materials are subject to change without notice and may differ or be contrary to opinions expressed by others. Any charts provided here are for informational purposes only, and should not be relied upon when making any investment decision. Certain information contained in here has been obtained from third-party sources. While taken from sources believed to be reliable, I have not independently verified such information and makes no representations about the enduring accuracy of the information or its appropriateness for a given situation. The content speaks only as of the date indicated.
+
+Under no circumstances should any posts or other information provided on this website -- or on associated content distribution outlets -- be construed as an offer soliciting the purchase or sale of any security or interest in any pooled investment vehicle sponsored, discussed, or mentioned by a16z personnel. Nor should it be construed as an offer to provide investment advisory services; an offer to invest in an a16z-managed pooled investment vehicle will be made separately and only by means of the confidential offering documents of the specific pooled investment vehicles -- which should be read in their entirety, and only to those who, among other requirements, meet certain qualifications under federal securities laws. Such investors, defined as accredited investors and qualified purchasers, are generally deemed capable of evaluating the merits and risks of prospective investments and financial matters. There can be no assurances that a16z’s investment objectives will be achieved or investment strategies will be successful. Any investment in a vehicle managed by a16z involves a high degree of risk including the risk that the entire amount invested is lost. Any investments or portfolio companies mentioned, referred to, or described are not representative of all investments in vehicles managed by a16z and there can be no assurance that the investments will be profitable or that other investments made in the future will have similar characteristics or results. A list of investments made by funds managed by a16z is available at https://a16z.com/investments/. Excluded from this list are investments for which the issuer has not provided permission for a16z to disclose publicly as well as unannounced investments in publicly traded digital assets. Past results of Andreessen Horowitz’s investments, pooled investment vehicles, or investment strategies are not necessarily indicative of future results. Please see [https://a16z.com/disclosures](https://a16z.com/disclosures) for additional important information.

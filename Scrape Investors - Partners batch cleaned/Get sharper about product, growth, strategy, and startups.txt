@@ -1,0 +1,359 @@
+# Get sharper about product, growth, strategy, and startups
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!R0q5!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70afd691-ddb6-44d7-92f0-2dff22a3c5d0_1200x200.png)
+
+](https://substackcdn.com/image/fetch/$s_!R0q5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70afd691-ddb6-44d7-92f0-2dff22a3c5d0_1200x200.png)
+
+**Today’s** _**5-Bit Friday**_ **is brought to you in partnership with:**
+
+[
+
+![File:Amplitude logo.svg - Wikimedia Commons](https://substackcdn.com/image/fetch/$s_!LdWC!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0fd5bc3f-d091-472b-8391-e2df8c3832a6_5000x1000.png "File:Amplitude logo.svg - Wikimedia Commons")
+
+](https://substackcdn.com/image/fetch/$s_!LdWC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0fd5bc3f-d091-472b-8391-e2df8c3832a6_5000x1000.png)
+
+One of the most important tools in my stack as a PM is **[Amplitude](http://www.amplitude.com/)**, which is why I’m honored and excited to recommend them as an absolute must-have to you guys.
+
+Every single day, I’m inside **[Amplitude](http://www.amplitude.com/)** to better understand how our customers are using our product, and to help me make data-driven decisions around what to build, and how to prioritize things in our roadmap.
+
+We also use Amplitude to find interview candidates, run experiments, power job recommendations for our users, and most recently, for predictive cohorts to find customers most likely to churn.
+
+With actionable reports, powerful ways to cut and segment data, and their new Session Replay product that brings qualitative behavioral context to my data, Amplitude makes me better at my job.
+
+If you **[read my last deep dive](https://www.howtheygrow.co/p/how-amplitude-grows)**, you know they’re just a game changer that brings my team a constant stream of insights. If you want best-in-class product analytics, you can give Amplitude for free. Or just play around with their free interactive demo to see why the best trust them.
+
+Plus, their **[new AI feature set](https://amplitude.com/ai)** is just absolute 🔥
+
+[Get started](https://www.amplitude.com/)
+
+Happy Friday, everyone! 👋
+
+Big welcome to the _**364**_ people who’ve joined us this week, including George, Damian, Ellen, and Ruby! You’re now part of a **19,414** strong bunch of folks who like to make things.
+
+I’ve made some very minor updates to the format of this edition of the newsletter.
+
+First, to increase the visibility of my select partners (that’s just how the lights stay on, folks). Second, to try and keep the posts a little shorter while still conveying key insights (I’ve merged _Insight_ and _Action_ into one), and finally, I’ve added some details at the end around how I can help you.
+
+If you have any thoughts, just drop a reply to this email.
+
+Hope ya learn something new, and of course, enjoy :)
+
+_— **[Jaryd](https://www.linkedin.com/in/jaryd-hermann/)**_ ✌️
+
+*   **Anthropic, the OpenAI rival, is in talks to raise $750M in funding at an $18.4 billion valuation.** That’s still far below OpenAI’s $80 billion valuation, but with their latest model release, **[Clause Opus](https://www.anthropic.com/claude)**, being incredibly performant, that gap could continue to close. (**[Take a look](https://www.cnbc.com/2023/12/21/openai-rival-anthropic-in-talks-to-raise-750-million-funding-round.html)**)
+    
+*   **Elon’s company that aims to allow us to control computers with our minds, [Neuralink](https://neuralink.com/), has started clinical trials with a real human having an implanted brain-chip**. The man is paraplegic, so it is incredible to see him able to do previously impossible things…like staying up all night playing Civilization. You can watch the patient speak at a Neuralink all hands, where he says “_It sounds kind of crazy, but it makes being paralyzed not that bad”_. (**[Take a look](https://www.youtube.com/watch?v=79VvxBStbWY)**)
+    
+*   **Meet Aitana! The first Spanish AI model (insanely realistic) earning around $11,000 per month**. Designed because the creator didn’t like working with real people. The future of advertising, folks. (**[Take a look](https://twitter.com/heyronir/status/1730818748981158299)**)
+    
+*   **Historical rivals Apple and Google might be getting into bed together.** Apple are in talks to build Google’s Gemini AI engine into the iPhone, setting the stage for a blockbuster agreement that would shake up the AI industry. They already have a lucrative search deal, so this may be the next piece. (**[Take a look](https://www.bloomberg.com/news/articles/2024-03-18/apple-in-talks-to-license-google-gemini-for-iphone-ios-18-generative-ai-tools?embedded-checkout=true)**)
+    
+*   **Trump has decided to start selling $60 bibles.** This is not any bible though. No, the Trump bible also features a copy of the handwritten chorus to “God Bless The USA”. In promotion, he posted, "We must make America pray again!". If nothing else, this man loves weird merch. (**[Take a look](https://godblesstheusabible.com/)**)
+    
+*   Oh, and if you’re brand new here, or just plain missed it, my latest analysis went out on Tuesday. I unpack the product and growth playbook of Amplitude. (**[Take a look](https://www.howtheygrow.co/p/how-amplitude-grows)**)
+    
+
+1.  **[Plentiful, high-paying jobs in the age of AI](https://www.howtheygrow.co/i/143037615/plentiful-high-paying-jobs-in-the-age-of-ai)**
+    
+2.  **[The Founders Guide to Optimizing Your Fundraise](https://www.howtheygrow.co/i/143037615/the-founders-guide-to-optimizing-your-fundraise)**
+    
+3.  **[The anatomy of a Super Bowl ad](https://www.howtheygrow.co/i/143037615/the-anatomy-of-a-super-bowl-ad)**
+    
+4.  **[Superlinear returns](https://www.howtheygrow.co/i/143037615/superlinear-returns)**[](https://www.howtheygrow.co/i/143037615/superlinear-returns)
+    
+5.  **[This is the only strategy framework you need](https://www.howtheygrow.co/i/143037615/this-is-the-only-strategy-framework-you-need)**
+    
+
+_\+ Quote, tools, chart, and rabbit holes of the week_
+
+Let’s get to it…
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!MVf_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc418ba51-1e69-4e90-87a4-9507c34affb4_2000x600.png)
+
+](https://substackcdn.com/image/fetch/$s_!MVf_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc418ba51-1e69-4e90-87a4-9507c34affb4_2000x600.png)
+
+A lot has been said about us losing our jobs to AI.
+
+The argument for why we would is pretty simple: We’re literally inventing AI to do stuff for us, and it’s getting better everyday. And by continuously automating our labour, that puts us on some trajectory to eventually have nothing to do, right? Simply…
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!Bacr!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa785391f-ab3f-4d26-b9d0-1abb98743184_1512x657.jpeg)
+
+](https://substackcdn.com/image/fetch/$s_!Bacr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa785391f-ab3f-4d26-b9d0-1abb98743184_1512x657.jpeg)
+
+The same argument of human labour being squeeze by AI implies, because we live in a supply-and-demand world, that the surplus of humans looking for something to do will bring down wages. So….AI automation leads to less jobs, and less pay once you find one.
+
+Sure, we could invent new things for us to do (à la the Agricultural and Industrial Revolutions), but that will take a lot more time to figure out (and retrain ourselves) than it will for AI to be capable of replacing you.
+
+Gloomy news for a Friday morning….
+
+_Well_, thank the Pope, not so fast. [Noah Smith](https://open.substack.com/users/8243895-noah-smith?utm_source=mentions) raises an excellent point **[in this essay](https://www.noahpinion.blog/p/plentiful-high-paying-jobs-in-the)** [](https://www.noahpinion.blog/p/plentiful-high-paying-jobs-in-the)that makes me feel a lot happier: **While AI certainly will be able to do most conceivable things better than you, it won’t make sense for it to because of a two simple yet powerful principles, (1)** _**comparative**_ **advantage, and (2) opportunity cost.**
+
+The result, **we** _**should**_ **have plentiful, high-paying jobs in the age of AI dominance** — probably doing **much the same kind of work that we’re doing right now.**
+
+> When most people hear the term “comparative advantage” for the first time, they immediately think of the wrong thing. They think the term means something along the lines of “who can do a thing better”. After all, if an AI is better than you at storytelling, or reading an MRI, it’s better _compared_ to you, right? Except that’s not actually what comparative advantage means. The term for “who can do a thing better” is “_competitive_ advantage”, or “absolute advantage”.
+> 
+> **Comparative advantage** actually means “who can do a thing better relative to the other things they can do”. So for example, suppose I’m worse than everyone at everything, but I’m a little _less_ bad at drawing portraits than I am at anything else. I don’t have any _competitive_ advantages at all, but drawing portraits is my _comparative_ advantage.
+> 
+> The key difference here is that everyone — every single person, every single AI, _everyone_ — always has a comparative advantage at _something!_To help illustrate this fact, let’s look at a simple example \[…\] illustrating how someone can get paid — and paid _well_ — to do a job that the person hiring them would actually be _better at doing_:
+> 
+> > _Imagine a venture capitalist (let’s call him “Marc”) who is an almost inhumanly fast typist. He’ll still hire a secretary to draft letters for him, though, because even if that secretary is a slower typist than him, Marc can generate more value using his time to do something other than drafting letters. So he ends up paying someone else to do something that he’s actually better at._
+> 
+>   
+> _— Noah Smith, via_ [Noahpinion](https://open.substack.com/pub/noahpinion)
+
+**Comparative advantage is already everywhere**. At work (or at home where you divvy up responsibilities with your partner), everyone ends up doing the thing they’re best at _relative to the other things they could be doing_, rather than the thing they’re best at _relative to other people_.
+
+This all boils down as Noah points out to **producer-specific constraints**, which is significant in the context of AI and our jobs, because the _computing power_ necessary for AI to work is limited and expensive.
+
+Yes, compute is on a path to getting more plentiful and cheaper, but it will always be finite, meaning there is a limit on amount of AI-executed tasks.
+
+Which leads to **the opportunity cost of AI’s time**. As Noah explains, “When AI becomes so powerful that it can be used for practically anything, the cost of using AI for any task will be determined by _the value of the other things the AI could be used for instead_.”
+
+Now, outside of just learning a new perspective, what can you practically do with this concept? 🛠️
+
+Practice switching your thinking in terms of _competitive_ advantage to thinking in terms of _comparative_ advantage. This can bring you a more nuanced approach to strategy, market positioning, and how you use your team resources. Tactically, this means:
+
+*   If you’re a manager, get the maximum leverage from your team by considering how to delegate based on relative strengths and weakness.
+    
+*   Think about not just your product’s strengths, but how those strengths compare to its other capabilities and the market at large, allowing for more precise market positioning.
+    
+
+**[Read the full (paid) post](https://www.noahpinion.blog/p/plentiful-high-paying-jobs-in-the)** by Noah
+
+_p.s_ If you want the flip side to this take…**[this post is great](https://unchartedterritories.tomaspueyo.com/p/ai-and-the-future-of-work)** [](https://unchartedterritories.tomaspueyo.com/p/ai-and-the-future-of-work)by [Tomas Pueyo](https://open.substack.com/users/5362415-tomas-pueyo?utm_source=mentions)
+
+I have mixed feelings at the moment on raising VC money. I always thought it was given step when building a company, but my views have continued to change and lean towards building bootstrapped.
+
+But that’s absolutely a personal thought and just relates to how I’d want to build a businesses if I ever did it again.
+
+There are of course many reasons to raise money, and in a recent essay, [Mario Gabriele](https://open.substack.com/users/9653721-mario-gabriele?utm_source=mentions) spoke to 8 founders who’ve collectively raised over $4B to share some concrete lessons. I really enjoyed the advice…
+
+> Fundraising is a skill. At the earliest stages, storytelling ability is a big differentiator between being a successful founder and an unsuccessful one. When your startup is at an early stage, you often don’t have metrics or even a product to point to, so you have to be able to tell a narrative about what you’re doing and why you’re doing it. For many founders, storytelling doesn’t come easily, but it’s a skill you can build. In later stages, company metrics drive most investment decisions. There are a lot of really smart growth investors out there, and if you feel that you’re getting shut down by them, ask them to be specific about the elements of your company’s metrics that are causing them to be cynical about an investment. 
+> 
+> Founders often treat fundraising like a sales process where they try to use leverage and create scarcity/urgency. In my experience, this doesn’t work. Scarcity and demand are important to driving an oversubscribed process to completion, but those rounds don’t become high demand because the founder has created the _illusion_ of high demand. They become high demand because they are companies that people are excited to invest in. It’s obvious to investors when a founder is playing a game (though it’s often not obvious to the founder how transparent they’re being). It’s incredibly off-putting to investors when they realize you’ve inserted artificial scarcity into a process. 
+> 
+> _— Trae Stephens (Exec Chairman & Co-founder at Anduril), via_ [The Generalist](https://open.substack.com/pub/thegeneralist)
+
+*   Keep investors warm with build-in-public updates and casual talks
+    
+*   Run a tight process to raise as fast as you can
+    
+*   Don’t bullshit and create artificial urgency, it will be sniffed out
+    
+*   Raise on a great story, or strong metrics – not both
+    
+*   Have a strong narrative of your “why now” and your unique advantage
+    
+*   The best way to get investment is to not need investment
+    
+*   Optimize for the right partners, not the highest valuation
+    
+*   Know your business’s risks, ordered from high to low
+    
+*   Don’t get distracted by fundraising. Focus mostly on delivering customer value
+    
+*   You only need a few yeses
+    
+
+**[Read the full (paid) post](https://thegeneralist.substack.com/p/braintrust-8)** by Mario.
+
+I’m not a sports guy. And as a South African, I’m especially not an American sports fan. But, every Monday after the Super Bowl, I read up on and watch all the Super Bowl ads.
+
+It’s the one time of year where I don’t stare at an ad and wonder who keeps getting paid to create such garbage. Because seriously, 99% of general ads are so bad that I cannot wait for AI to take some of those jobs.
+
+Sorry, somehow I just started typing out a rant there….
+
+My point: this year I saw Duolingo’s 5-second commercial. Here it is incase you missed it; their weird “_**Do you lesson, no buts”**_ spot.
+
+As a social-first brand, our approach to marketing is to generate word-of-mouth and conversation. And the goal \[with this ad\] was to create a WTF moment.
+
+— James Kuczynski, Global Creative Director at Duolingo
+
+In our **[How Duolingo Grows](https://www.howtheygrow.co/p/how-duolingo-grows)** deep dive we chatted about their unique marketing. But today, I want to share Jenny Xie’s abstraction of this ad into what makes a successful Super Bowl commercial. Because from here, there’s some obvious lessons on how anyone can make effective content.
+
+> **Creativity thrives in constraints**. The constraint of the five-second spot, plus collaborating with minds from all different teams, added to the diversification of ideas.
+> 
+> _— James Kuczynski (Global Creative Director at Duolingo), [via Shortcut](https://www.figma.com/blog/the-anatomy-of-duolingos-super-bowl-ad/)_
+
+*   You don’t need to spend money to create viral content, because **production-value isn’t what makes something shareable or memorable**
+    
+    *   _Examples of low-cost ads: **[Coinbase](https://www.youtube.com/watch?v=eIUD_NE1BDo)**, **[Reddit](https://www.youtube.com/watch?v=_wkvH0qBMP8)**, **[Yeezy](https://www.youtube.com/watch?v=_BWYyRicB8w)** (bizarre, but cheap)_
+        
+*   Virility boils down to creating surprise in your content, and eliciting a strong reaction
+    
+*   Create constraints, even if artificial ones, to push creative thinking. Vine’s and TikTok’s are successful because of their simplicity
+    
+*   Think about how you can create a meme moment, even if just because the internet will share it
+    
+*   The best campaigns actually extend beyond the campaign through additional content (like Duolingo sending a push notification right after the ad)
+    
+*   Even “boring” software can be sold in a fun way
+    
+*   Don’t be scared to try new things and “push the envelope” in your marketing — nobody is going to share your bland B2B blog post about security. But, tell them you do security in a fun, human, and _different_ way, and you may be surprised.
+    
+
+**[Read the full post](https://www.figma.com/blog/the-anatomy-of-duolingos-super-bowl-ad/)** by Jenny.
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!vQFg!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2ff16985-6329-49fd-8b3d-f1c9d582dd5b_1350x225.png)
+
+](https://substackcdn.com/image/fetch/$s_!vQFg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2ff16985-6329-49fd-8b3d-f1c9d582dd5b_1350x225.png)
+
+_If you want to a) get the most actionable and influential insights into your users, b) make data-driven decisions, and c) help contribute to me and Julia’s honeymoon…then be sure to hit this link and **[check out Amplitude](http://www.amplitude.com/)**, today’s partner._
+
+[I want all of these things](https://www.amplitude.com/)
+
+Crossing thresholds leads to exponential growth, which as Paul Graham (founder of Y Combinator) argues, leads to superlinear returns, which leads to a "winner take all” scenario.
+
+[
+
+![How to make a breakthrough – Dimitri Glazkov](https://substackcdn.com/image/fetch/$s_!V8We!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F79986225-aa9a-43ee-a51d-db59b71da168_616x428.png "How to make a breakthrough – Dimitri Glazkov")
+
+](https://substackcdn.com/image/fetch/$s_!V8We!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F79986225-aa9a-43ee-a51d-db59b71da168_616x428.png)
+
+ignore the math
+
+> One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear.
+> 
+> Teachers and coaches implicitly told us the returns were linear. "You get out," I heard a thousand times, "what you put in." They meant well, but this is rarely true. If your product is only half as good as your competitor's, you don't get half as many customers. You get no customers, and you go out of business.
+> 
+> It's obviously true that the returns for performance are superlinear in business. Some think this is a flaw of capitalism, and that if we changed the rules it would stop being true. But superlinear returns for performance are a feature of the world, not an artifact of rules we've invented. We see the same pattern in fame, power, military victories, knowledge, and even benefit to humanity. In all of these, the rich get richer.
+> 
+> You can't understand the world without understanding the concept of superlinear returns. And if you're ambitious you definitely should, because this will be the wave you surf on.
+> 
+> _— Paul Graham_
+
+**The first takeaway here is this—**absolute numbers are a vanity, distraction, and are generally unactionable. _Rates_ are what matters, and more specifically, _growth rates._
+
+So, focus almost entirely on that metric, especially in the earlier innings of building or doing something measurable. For one, it will help prevent discouragement when the absolute numbers are low early on. But more importantly, it will help you prioritize what areas to focus on.
+
+**The second takeaway is more broad and philosophical**. When picking a startup idea or deciding where you spend your time, try look for things that don’t have thresholds, but rather, a practically infinite potential to compound. And from that list, it’s key to pick things that you care a lot about, because, “_The most obvious way to take advantage of superlinear returns for performance is by doing exceptionally good work, and to do something exceptionally well, you have to be interested in it.”_
+
+There are two obvious ways work can compound.
+
+1.  _**Directly**_, in that doing well in one cycle causes you to do better in the next. For example, building infrastructure or growing an audience
+    
+2.  _**By teaching you**_, in that learning has an unreachable ceiling. Even if feel you're doing badly while you’re doing something, if you're building knowledge, then you're getting exponential growth.
+    
+
+That’s because knowledge grows exponentially. So, go forth and **always be learning**. If you're not, you're probably not on a path that leads to superlinear returns.
+
+**[Read the full post](https://www.paulgraham.com/superlinear.html)** by PJ.
+
+**⚠️ This post is about to get cropped in your email. [Keep reading the full thing here.](https://www.howtheygrow.co/p/5-bit-fridays-60)**[](https://www.howtheygrow.co/p/5-bit-fridays-60)
+
+A lot has been written about how to do strategy well. And with it, a lot of frameworks and templates have been pumped out and pushed, all promising that if followed, will bring you a brilliant strategy.
+
+I’ve said it before, copying and pasting any template usually means key context specific to your product, team, and market, is missing.
+
+However, **guiding questions are not a template. Rather, they help create a mental model for thinking strategically.** [Bandan Jot Singh](https://open.substack.com/users/18104096-bandan-jot-singh?utm_source=mentions) shared 10 questions that can help with just that.
+
+> A strategy document serves as a comprehensive but sharp-like-knife narrative that effectively communicates the directions necessary to succeed in the targeted market.
+> 
+> It goes beyond merely informing leadership, but extending to all levels of the organization, such that team members at every level understand their role in contributing to the strategy.
+> 
+> _— Bandan, via_ [Productify by Bandan](https://open.substack.com/pub/productify)
+
+Tactics are not strategy. Rather, strategy is a simple narrative that should be able to to be condensed to a memorable soundbite. Strategy is clear message that sets the directions necessary to succeed in the targeted market.
+
+**To help craft that narrative, Bandan suggests answering this list of 10 questions as comprehensively and clearly as you can.**
+
+1.  Where do we want to be in 3 years, and how does this goal compare to our current state as a company?
+    
+2.  Which market opportunities (and needs), do we need to address to achieve our goals, and why are these the right opportunities?
+    
+3.  Which target customers do we believe we can effectively serve within these opportunities? What are the problem areas of these people?
+    
+4.  What makes our organization better suited than others to address these opportunities?
+    
+5.  What specific actions will we take to maximize our chances of success in these opportunities?
+    
+6.  Which risks do we need to mitigate along the way, and how will we do so?
+    
+7.  Under what circumstances would we reconsider our chosen actions during the 3-year period?
+    
+8.  What distractions must we avoid to maintain focus on our selected actions?
+    
+9.  What support do we require to execute these actions effectively?
+    
+10.  How will we measure our progress and know that we are moving towards success?
+    
+
+**[Read the full post](https://productify.substack.com/p/this-is-only-strategy-framework-you)** by Bandan.
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!C76z!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf12ef5a-fdaf-4d48-b747-d2cd782c584b_1500x250.png)
+
+](https://substackcdn.com/image/fetch/$s_!C76z!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf12ef5a-fdaf-4d48-b747-d2cd782c584b_1500x250.png)
+
+If you want to make everyone happy, don't be a leader, sell ice cream.
+
+— Steve Jobs
+
+Every week, I’m going to start highlight products I actually use and give them an honest review. **Today, I’m highlighting:**
+
+*   **[Sukha](https://www.thesukha.co/g/how-we-flow):** I use Sukha to reduce stress and burnout, and have a happier and more productive work day. p.s you can **[join me and 76 other readers in our group](https://www.thesukha.co/g/how-we-flow)**
+    
+*   **[Notion](https://affiliate.notion.so/mnn3t2jmweyn):** I use Notion at work to organize research and manage our roadmap, and personally, for all things this newsletter. If you’re not using Notion yet…🤷
+    
+*   **[Arc](https://arc.net/):** I use Arc as my browser because it’s just _so_ much better than Chrome :) You can [read why I think so here](https://www.howtheygrow.co/p/how-arc-grows).
+    
+
+_**👉 [View all my recommendations.](https://how-they-grow.notion.site/Jaryd-s-recommended-tools-8d60225cc0e04250a5e941d27c14988e?pvs=4)**_[](https://how-they-grow.notion.site/Jaryd-s-recommended-tools-8d60225cc0e04250a5e941d27c14988e?pvs=4)
+
+Consumers are spending more than they’re making, especially the younger ones. And for many, this is intentional and based on their worldview that life is worth living now.
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!HtuY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa397ae1b-a2ce-4b60-adf3-aa65392caccc_2268x1010.png)
+
+](https://substackcdn.com/image/fetch/$s_!HtuY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa397ae1b-a2ce-4b60-adf3-aa65392caccc_2268x1010.png)
+
+> Die With Zero, popular among Gen Zs, promotes the idea that once you’ve saved enough to fund your retirement, you should focus on having memorable life experiences. Why die with a bunch of money? Net fulfillment over net worth. Bill Perkins’s book [Die With Zero](https://www.amazon.com/Die-Zero-Getting-Your-Money/dp/0358099765) came out during the pandemic and has fueled the new worldview. This line of thinking is especially predominant among young consumers, and we see the effects in the rise of payment forms like BNPL and in increasing credit card debt.
+> 
+> _— Rex Woodbury_
+
+My favorite reads from the week…
+
+*   **[The State of Culture, 2024](https://www.honest-broker.com/p/the-state-of-the-culture-2024)**, by [Ted Gioia](https://open.substack.com/users/4937458-ted-gioia?utm_source=mentions)
+    
+*   **[Here lies the internet, murdered by generative AI](https://www.theintrinsicperspective.com/p/here-lies-the-internet-murdered-by)**, by [Erik Hoel](https://open.substack.com/users/9379583-erik-hoel?utm_source=mentions)
+    
+*   **[Jeff Bezos Deep Dive](https://www.opensourceceo.com/p/jeff-bezos-deep-dive)**, by Bill Kerr
+    
+*   **[How to reframe capitalism to make sales and marketing work (better) for you](https://www.theauthorstack.com/p/how-to-reframe-marketing-and-sales)**, by [Russell Nohelty](https://open.substack.com/users/8726667-russell-nohelty?utm_source=mentions)
+    
+
+Here are **2 ways I can help you:**
+
+1.  Are you looking to grow your team? If so, I’ve invested in a company (**[Athyna](https://partnerslink.athyna.com/3qcs4c8zlk3o)**) that can help you find incredible talent and build out your global team. Their product, service, and talent pool is just amazing. **Just reply to this email if curious, or [learn more here ↗](https://www.athyna.com/contact?pscd=partnerslink.athyna.com&ps_partner_key=amFyeWRoZXJtYW5uNjM2NQ&ps_xid=lQyC5fWQq5NDBG&gsxid=lQyC5fWQq5NDBG&gspk=amFyeWRoZXJtYW5uNjM2NQ)**
+    
+2.  Are you looking to grow your product by reaching an audience of founders, PMs, marketers, and product builders? If so, maybe we can partner up. **You can reply to this email to get started, or [learn more here ↗](https://www.passionfroot.me/how-they-grow)**
+    
+
+And that’s everything for this week’s edition, folks!
+
+As always, thanks so much for reading and being part of this growing community. It means a lot.
+
+Until next time.  
+_— Jaryd_ ✌️
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!r3Q3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3111276-161d-490b-8917-bc07499cae1c_4032x3024.jpeg)
+
+](https://substackcdn.com/image/fetch/$s_!r3Q3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3111276-161d-490b-8917-bc07499cae1c_4032x3024.jpeg)
+
+have a great weekend!
+
+Start writing today. Use the button below to create your Substack and connect your publication with How They Grow
+
+[Start a Substack](https://substack.com/refer/jarydhermann?utm_source=substack&utm_context=post&utm_content=143037615&utm_campaign=writer_referral_button)

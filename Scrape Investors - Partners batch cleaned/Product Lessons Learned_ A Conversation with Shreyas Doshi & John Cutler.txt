@@ -1,0 +1,876 @@
+Product Lessons Learned: A Conversation with Shreyas Doshi & John Cutler
+
+[](https://amplitude.com/)
+
+[Login](https://app.amplitude.com/login)[Sign Up](https://amplitude.com/get-started)
+
+# Product Lessons Learned: A Conversation with Shreyas Doshi & John Cutler
+
+###### Listen to the interview and peruse the transcript to gain insights about career growth, creative intelligence, product leadership and more.
+
+[Insights](https://amplitude.com/blog/category/insights)
+
+Jul 13, 2021
+
+91 min read
+
+[
+
+![John Cutler](/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl5rq9j6r%2Fproduction%2Fcb25c217191e3387bcfdabb1c69fee93d1764572-400x400.jpg%3Fw%3D80%26h%3D80&w=256&q=75&dpl=dpl_74MxQQEFfdB3hEKLAbhdR3gvPFRX)
+
+John Cutler
+
+Former Product Evangelist, Amplitude
+
+
+
+
+
+](https://amplitude.com/blog/author/john-cutler)
+
+[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Famplitude.com%2Fblog%2F%2Fblog%2Fshreyas-doshi-product-lessons)[](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Famplitude.com%2Fblog%2F%2Fblog%2Fshreyas-doshi-product-lessons)[](https://twitter.com/intent/tweet?url=https%3A%2F%2Famplitude.com%2Fblog%2F%2Fblog%2Fshreyas-doshi-product-lessons&text=Product%20Lessons%20Learned%3A%20A%20Conversation%20with%20Shreyas%20Doshi%20%26%20John%20Cutler)[](mailto:?subject=Checkout%20this%20Amplitude%20Article&body=Check%20this%20out%3A%20https%3A%2F%2Famplitude.com%2Fblog%2F%2Fblog%2Fshreyas-doshi-product-lessons)
+
+![Shreyas Doshi and John Cutler Interview](/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl5rq9j6r%2Fproduction%2F2a080972f8a8bec23c740f1e43ec8ed75256229c-2560x1600.jpg&w=3840&q=75&dpl=dpl_74MxQQEFfdB3hEKLAbhdR3gvPFRX)
+
+In a relatively short amount of time, Shreyas Doshi has become one of the most popular dispensers of product advice on Twitter. Why? His writing is clear, humble, and self-aware—traits often lacking amidst the firehose of hot takes. His format of choice? Threads. And lots of them. Intertwined yet organized. A career’s worth of wisdom packed into strings of 280 characters. Available for everyone [here](https://twitter.com/shreyas).
+
+I was very curious about the person behind the (good kind of) madness. So we arranged an interview! We cover topics like leadership, becoming a better listener, the role of middle management, career and self identity, stubbornness, calendar theater, and treating your dashboards as products.
+
+What stood out? Shreyas has a wealth of product management experience. He has worked as a front-line product manager and a manager of product managers at companies like Stripe, Google, Twitter, and Yahoo. He’s a great writer and speaker. But it is his humility and thoughtfulness that really shines. He warns people not to blindly copy his advice, and openly admits he’s learned many of these lessons the hard way.
+
+The interview is 1hr 30m (see the audio player below). If you want to jump around, we’ve created an outline of the interview below with time-stamps. For each section, Shreyas was kind enough to provide links to related threads.
+
+Have follow-up questions for Shreyas? Please tweet your questions including @Amplitude\_HQ, @shreyas, and #shreyasinterview. If there’s enough interest, we’ll try to schedule a follow up AMA.
+
+[I have a question for @shreyas and @johncutlefish #shreyasinterview](https://twitter.com/intent/tweet?url=https%3A%2F%2Famplitude.com%2Fblog%2Fshreyas-doshi-product-lessons&text=I%20have%20a%20question%20for%20%40shreyas%20and%20%40johncutlefish%20%23shreyasinterview&via=Amplitude_HQ&related=Amplitude_HQ) [Click To Tweet](https://twitter.com/intent/tweet?url=https%3A%2F%2Famplitude.com%2Fblog%2Fshreyas-doshi-product-lessons&text=I%20have%20a%20question%20for%20%40shreyas%20and%20%40johncutlefish%20%23shreyasinterview&via=Amplitude_HQ&related=Amplitude_HQ)
+
+And if you’d like to learn more about product strategy and leadership in product management, be sure to [download a copy of the North Star playbook](https://info.amplitude.com/north-star-playbook). It’s full of guidance and frameworks to help you drive impact for your business and your team immediately.
+
+* * *
+
+## Interview Table of Contents
+
+_The full transcript includes related tweets for context. Thank you to Shreyas for curating these for everyone!_
+
+*   [Introduction \[00:00:00\]](https://amplitude.com/blog/shreyas-doshi-product-lessons#introduction-00-00-00)
+*   [“Don’t believe everything I write…” \[00:01:07\]](https://amplitude.com/blog/shreyas-doshi-product-lessons#dont-believe-everything-i-write-00-01-07)
+*   [Understanding ourselves \[00:04:03\]](https://amplitude.com/blog/shreyas-doshi-product-lessons#understanding-ourselves-00-04-03)
+*   [Becoming a better listener \[00:05:13\]](https://amplitude.com/blog/shreyas-doshi-product-lessons#becoming-a-better-listener-00-05-13)
+*   [IC to manager transition \[00:11:49\]](https://amplitude.com/blog/shreyas-doshi-product-lessons#ic-to-manager-transition-00-11-49)
+*   [Discussing uncertainty and organizational culture \[00:14:10\]](https://amplitude.com/blog/shreyas-doshi-product-lessons#discussing-uncertainty-and-organizational-culture-00-14-10)
+*   [Middle management and the “real truth” \[00:16:52\]](https://amplitude.com/blog/shreyas-doshi-product-lessons#middle-management-and-the-real-truth-00-16-52)
+*   [The role of product leadership \[00:18:01\]](https://amplitude.com/blog/shreyas-doshi-product-lessons#the-role-of-product-leadership-00-18-01)
+*   [Professional identity (and the shift to leadership roles) \[00:21:56\]](https://amplitude.com/blog/shreyas-doshi-product-lessons#professional-identity-and-the-shift-to-leadership-roles-00-21-56)
+*   [The manager’s role in helping people adopt non-default behaviors \[00:25:39\]](https://amplitude.com/blog/shreyas-doshi-product-lessons#the-managers-role-in-helping-people-adopt-non-default-behaviors-00-25-39)
+*   [Mindset, principles, and tactics (and getting stuck on tactics) \[00:30:29\]](https://amplitude.com/blog/shreyas-doshi-product-lessons#mindset-principles-and-tactics-and-getting-stuck-on-tactics-00-30-29)
+*   [The basics/foundations for a high-performance team \[00:35:11\]](https://amplitude.com/blog/shreyas-doshi-product-lessons#the-basics-foundations-for-a-high-performance-team-00-35-11)
+*   [Why do teams with the basics met produce poor products? \[00:37:31\]](https://amplitude.com/blog/shreyas-doshi-product-lessons#why-do-teams-with-the-basics-met-produce-poor-products-00-37-31)
+*   [Intentionality and stubbornness (with the company you want to be) \[00:39:24\]](https://amplitude.com/blog/shreyas-doshi-product-lessons#intentionality-and-stubbornness-with-the-company-you-want-to-be-00-39-24)
+*   [Analytical and creative intelligence \[00:44:14\]](https://amplitude.com/blog/shreyas-doshi-product-lessons#analytical-and-creative-intelligence-00-44-14)
+*   [Impact level, execution level, and the optics level \[00:49:13\]](https://amplitude.com/blog/shreyas-doshi-product-lessons#impact-level-execution-level-and-the-optics-level-00-49-13)
+*   [Cognitive biases and shared vocabulary \[00:54:37\]](https://amplitude.com/blog/shreyas-doshi-product-lessons#cognitive-biases-and-shared-vocabulary-00-54-37)
+*   [Treating dashboards as a product \[01:01:51\]](https://amplitude.com/blog/shreyas-doshi-product-lessons#treating-dashboards-as-a-product-01-01-51)
+*   [Filled calendars, reactivity, self-identity, and positive/ negative habits \[01:08:20\]](https://amplitude.com/blog/shreyas-doshi-product-lessons#filled-calendars-reactivity-self-identity-and-positive-negative-habits-01-08-20)
+*   [Improving the current situation (and gap vs. present thinking) \[01:14:24\]](https://amplitude.com/blog/shreyas-doshi-product-lessons#improving-the-current-situation-and-gap-vs-present-thinking-01-14-24)
+*   [LNO: Leverage, Neutral, and Overhead Tasks \[01:18:10\]](https://amplitude.com/blog/shreyas-doshi-product-lessons#lno-leverage-neutral-and-overhead-tasks-01-18-10)
+*   [Conclusion \[01:21:23\]](https://amplitude.com/blog/shreyas-doshi-product-lessons#conclusion-01-21-23)
+
+* * *
+
+## Interview Transcript
+
+### Introduction \[00:00:00\]
+
+**John Cutler:** Good morning, Shreyas.
+
+**Shreyas Doshi:** Good morning, John.
+
+**John Cutler:** How’s it going?
+
+**Shreyas Doshi:** Pretty good. Good to be here.
+
+**John Cutler:** So this is the second time we’ve spoken. And I remember when we first spoke, you were like, should I keep doing this Twitter thing? Or, what about a book? I don’t know how many months that was. I mean, it feels like pandemic time kind of squishes things in general, but it’s been some time later and things have absolutely blown up for you.
+
+So I just like to note the difference since we last spoke. So I guess, congratulations.
+
+**Shreyas Doshi:** Thank you. It’s been fun. Just writing down some thoughts on product and whatnot. 280 characters at a time.
+
+**John Cutler:** For those who don’t know, Shreyas Doshi, I’m going to give the quickest introduction. He’s a product manager. So most recently at Stripe, he has a background at Twitter, and Google, at Yahoo. Is a prolific writer. And I think that’s it.
+
+I wanted to pierce the veil of invincibility, to start if that’s okay. Because your writing is so concise. What’s a mistake that you were struggling with in the last couple of months.
+
+### “Don’t believe everything I write…” \[00:01:07\]
+
+**Shreyas Doshi:** Yeah. So one thing I like to say about my writing, is first of all, don’t believe everything I write and don’t take everything I write and just implement it because you like my writings, or because the thing got a bunch of likes, so it must be true. John, that is something that throughout the past year that I really started writing about my thoughts on product and strategy and organizations and whatnot.
+
+Before I hit the tweet or, or the send button the, the biggest trepidation that I tend to have is oh, here are the six ways in which what I just said could be harmful, if taken out of context, or if implemented in the wrong context. That’s a constant worry I have about what I write, and sometimes, some of the precision and perhaps some of the power of the writing, if any, can sound truer than it actually is in your particular situation.
+
+The writing is far from perfect. Because it likely misses many, many nuances even when I try to make it clearer or somewhere in the tread. So that’s one. Second thing is I, I think I tweeted this a few weeks ago that you know, I tend to talk a lot about anti-patterns things not to do. And the reason I talk about those and sometimes people tell me, oh, this created great clarity. I saw this anti-pattern within my team, within my company, within myself, within my manager, whatever it is. And how did you get there? And so, I tweeted this point, which is, you know, many of these anti-patterns that I write about, I have been that anti-pattern. Right?
+
+I have seen it within myself.
+
+Sometimes it’s just for maybe a few hours that like, oh, I’m getting into this anti-pattern like, oh, I sensed it, and I stopped it, and I was successful in stopping it. Sometimes, I’ve had a certain anti-pattern that I write about for many months. And there are others that I’ve had for many years and things that I don’t do a really great job of myself.
+
+And so there is that aspect of just, you know, a lot of what I write about, I have seen parts of it within myself, or all of it within myself for different durations of time. And, I think the only difference is perhaps that you know, is the self kind of observation, right? One of the things I like to also share is that we can talk about tactics and we can talk about frameworks, structures, and templates for product management.
+
+### Understanding ourselves \[00:04:03\]
+
+But on the soft side, I think a very important thing for us all as product managers to realize, and to get better as product managers, is to understand ourselves. You know, the hub they talk about, oh, understand the user, understand the customer, understand the market, understand the competitor.
+
+I agree with all of that. But also understand yourself. Start by understanding yourself. Now you’re not going to understand all of yourself at once. But if you start by understanding yourself, you find that some of these other understandings of the user and whatnot become easier.
+
+There are many, many things I’m not very great at. Just recently, I think I was, again, I was having a conversation on Twitter and somebody asked me oh Shreyas, how should one manage up well within an organization?
+
+I said, look, I don’t have an answer to that, because I have been really bad at managing up for many, many years. Andrew Yu had sent me [a book about managing up](https://www.amazon.com/Managing-Up-Move-Work-Succeed/dp/1119436680/ref=asc_df_1119436680/). And so I said, Hey, Andrew, you should probably answer this tweet instead of me doing so. So that’s just an example of a thing that you know, I haven’t quite cracked.
+
+### Becoming a better listener \[00:05:13\]
+
+**John Cutler:** One thing I really enjoy is that through your threads, you are vulnerable and, and humble . I remember one tweet that I really liked, where you observed that your younger self was a better listener and that you slipped into a period where you weren’t listening as well.
+
+And that was extremely impactful for me. Because I thought, I’ve gone through these phases in my life, and it’s not a static situation. You’re always learning. I was wondering specifically with that situation, what was that self-realization like? You know, when you realize that and how did you come to grips with that? And then what, what steps did you take? And you started to detail it in the thread, but I’d be really interested in you explaining it and hearing it in person.
+
+**Shreyas Doshi:** So, I used to be an excellent listener as a young child. Earlier on in my childhood, I also had a pretty strong memory. That is no longer the case. I forget things all the time now. But I started off that way. And so many things in school for instance, were very early on, easy for me because I was just listening to what the teacher said.
+
+And then I was able to retain it for a really long time. That changed in my teens and early twenties. You know, I don’t know why. It must’ve been just what you go through in your youth. Where you just, at some point, I just would just completely tune out in college.
+
+And I had no idea, I was sitting there physically, but I had no idea what was being said. And that continued. It just became this pattern. Whereas when I started my career as a software engineer , it was no longer that degree of apathy about what’s being said in a meeting or what, what another person is saying. But I just lost that skill, due to just not using it for five, six years at that point.
+
+**John Cutler:** Was there a moment when you were like, wait, I’ve lost this? Like, how did you, how did it dawn on you, or was it like a slow burn. Or maybe was it a manager or someone who shared the news with you? How, how did you realize it?
+
+**Shreyas Doshi:** You know, John, I realized this very late. So I want to say I was in the state of being an okay listener, for about 12 or so years as I started my career. What that meant was, of course, I was listening. I was processing, et cetera. But I was in this mode of the classic forming my own thoughts. Forming my response, and preparing my response. Or, not really listening to what was said, but hearing what I wanted to hear.
+
+So I was in that phase for at least 12 years in my career. At some point, the major realization for me was that the key to understanding the other person is going to be to make sure that they know that I understand them. Right? So I started with that first step. And that was a very tactical kind of, it was not based on any principles. It was a tactic like okay.
+
+**John Cutler:** You had to think it through in your head that…
+
+**Shreyas Doshi:** Yes. To be a good manager, I need to make sure that the other person understands that I understand what they are saying. That’s the place I started. And, and then I did that, and I would say like, that maybe took me from being maybe from a four out of 10 to being a six out of 10. Which is fine. It’s an improvement.
+
+But then, the next big realization, and the quantum change I was able to make, was when I realized that when you listen just to what is being said, and you’re fully present, the responses craft themselves. Right? So I don’t actually have to think while you are speaking. Or I don’t even have to think how I’m going to summarize what you are saying, just to make sure that I understood you .
+
+I just want to be a hundred percent present. And I want to be curious. That was the change. Was that genuine curiosity and developing that genuine curiosity, along with the skill of being able to be present and be able to kind of watch my parts, and kind of bring myself back exactly to the words that were being uttered.
+
+Then when I did that, when I approached it from this genuine curiosity and presence, that’s when I saw, oh, wow, when I’m doing this two things are happening. One is, I am \[00:10:00\] just coming across to this other person as being a lot more interested in what they’re saying. And second, the quality of my response is just so much higher.
+
+Whereas previously, oftentimes, the response tended to have a sense of, okay, I’ve heard you, and given my role, it’s often, like I’ve heard you, and here’s my advice. Or here’s my answer. The response became a question, rather than a statement.
+
+This is how they understood that I was really understanding them. And I was making a genuine attempt to further understand them. They said something to me. I was really present. I was genuinely curious. And because of that, I asked them a question that I would have otherwise not asked. And that question led us closer to being able to understand the situation better. As I started doing that, I realized more and more that, oh, this is really effective. Asking people questions is so much more effective, if they are the right questions. And, if they are based on a deep understanding, or as deep as you can and understanding, of what the other person is trying to say about the situation.
+
+**John Cutler:** It sounds like you developed something, over the course of time, and just became way better at it that way. Like, you can ask better questions in one-to-one, et cetera.
+
+**Shreyas Doshi:** Sure. And, you know, I’ve been a manager of PMs at each of the four companies at which I’ve been a PM. Three out of those four companies, I joined as an individual contributor, including my most recent employer Stripe. I joined as an individual contributor and then started managing people.
+
+### IC to manager transition \[00:11:49\]
+
+So I’ve gone through that IC to manager transition. Many people go through that once or maybe twice. Uh, and then they stay managers. I’ve gone through it multiple times. And I don’t mind being in IC where it makes sense. So it has worked out well for me.
+
+Each time though it has been different. Because as I’ve grown as a manager. I think when I started managing, it was nine months into being a product manager. I was told, oh, we like what you’re doing. Why don’t you manage a small team? Looking back, I did not realize it at the time, but looking back, I felt like I was a terrible, terrible manager of PMs. This goes back to, you know, a lot of these anti-patterns. I’ve been that. Because I remember early on, I was so sure that I had the answer.
+
+And so that was one. And second, I thought my job was to provide the answer. If I encountered resistance within my team member to kind of accept or take that answer, then I felt my job was to convince them through very analytical means, why this is the right answer, right?
+
+I was just horrible as a manager back then. And of course now I take a very different approach. A lot of that has to do with just, you know, cultivating that genuine curiosity, I guess, general life maturity as well. But also just being able to watch my thoughts, and also an understanding of what it is that a PM manager ought to do.
+
+What is their job and what is their role? I have a better understanding now, whereas previously I was just asked to start managing people then, like I had no idea what I was actually supposed to do.
+
+**John Cutler:** When you think about the companies you’ve been involved in, I mean, I think one thing I’ve noticed about certain company cultures is that they deal very differently with discussing uncertainty. In some, you know, it’s never, never mention uncertainty unless you have an absolute plan to reduce it.
+
+And in other cultures, they seem much more open for a leader to say, just don’t know right now. So what is your game plan for that? Like you’ve been across these orgs, but how did you understand the culture of vulnerability for leaders?
+
+Because it’s obviously important, but it manifests differently in different cultures.
+
+### Discussing uncertainty and organizational culture \[00:14:10\]
+
+**Shreyas Doshi:** I like that you mentioned culture there, John, because it all goes back to that. There are cultures where. Yeah, you are supposed to be sure. And if you are not sure, and if you don’t have all the justification, the analytical justification, you’re deemed incompetent.
+
+There are other cultures, where a certain amount of uncertainty is viewed as just part of what we do which is, yeah, we won’t know how this is going to work out and that’s Okay.
+
+That doesn’t mean the second category of culture is less rigorous. I would argue that it’s more rigorous. Because it’s not based on illusions about strict mathematical outcomes based on certain inputs. It understands the randomness involved when you take a \[00:15:00\] product and bring it to the outside world. It understands other randomness, the system itself in the market and whatnot.
+
+It works within that kind of real world understanding of these things. Versus some idealized, you know, oh yeah, we should be able to prove this on a spreadsheet kind of approach. Stripe is a good example. Where, you know, we would have product reviews where our founders, or our leaders, would say, yeah, there is no way for us to be sure about this.
+
+Let us understand what the customer feedback is. Let us understand what the market context is. And then based on that, we will make the best decision under the circumstances. But, you know, we don’t have to be certain that this will work out
+
+**John Cutler:** Right. That’s incredible modeling, right? Like from a leader standpoint. And that means it goes a long way. If a leader says that, for sure.
+
+**Shreyas Doshi:** Yeah. Yeah. And, you know, there’s also the classic one way door, two way door, that I really saw practiced at Stripe. This is a decision that we can undo. Right?
+
+So let’s make it. It’s fine. If we are wrong, we will just undo it. The cost of undoing it will not be substantial. And then there are perhaps other decisions that will be harder to undo, or we cannot undo. Let’s actually spend our time to get those right. So again, all of the stuff I’m saying here, John, feels obvious, like yeah, of course you should do it in most cases.
+
+Like, of course you should do it. The question is why does this not happen? Why are most organizations very, sort of, imperfect in this sense? And, I think, you and I have discussed this topic of certainty theater. And, and I think that has a lot to do with the psychological safety that the culture creates for middle management in particular.
+
+### Middle management and the “real truth” \[00:16:52\]
+
+The way I view middle management, is they are the organization’s way of ensuring that you are able to get to the real truth. There is the truth on the ground and, and, you know, the people working very directly on that truth. And then when they see that truth, they will convey that truth to middle management. And then middle management is acting as this proxy, right between the truth you see on the ground. And then the truth company executives are seeing at a macro scale.
+
+So I think it’s really important for middle management to feel free to express the truths they’re seeing on both sides. Without having to worry that their job is going to be jeopardized, or their position is going to be jeopardized, or their career success is going to get jeopardized.
+
+And if they can do that, that is, I think, the key to kind of unlocking a better sort of flow of truth in both directions within an organization.
+
+**John Cutler:** Middle management is not just one layer. In many cases, it’s multiple layers. So how do you keep the truth flowing in both directions across two or three layers of, of that?
+
+### The role of product leadership \[00:18:01\]
+
+**Shreyas Doshi:** The first observation is that we aren’t really talking about what is the job, and what is the role of a product leader. Right?
+
+My observation is that most such product leaders with, you know, tremendous experience, great resumes. If you ask them, what is your role? Like, what is your real role? They will struggle. And I don’t blame them because like, you know, nobody taught them what their role is. So they just started doing things and then whatever they were doing, if it worked, if they got some external validation, they did more of that. And then they suppressed the things that they did not get validation for.
+
+So somehow arrived at a certain style, or a certain approach, or some implicit role definition. That is now so deeply embedded in their habits, that they can’t quite describe it. Like, okay, my role is X, Y, and Z.
+
+And I think that is so important. Once you understand the role, it becomes clear what you need to do, right? What you need to do is to enable product success through others, right? Like that is effectively what you need to do as a product leader in middle management somewhere.
+
+And in order to sort of enable that product success through others, and I talk about it in terms of, and create self managing teams, right?. So creating self managing teams is so vital. Which ideally as a product leader, you know, you’re not just like putting fires out and like having to show up at eight reviews because you need to be there, and you need to vet everything, and nothing happens without you being there.
+
+And I know this is the reality of many product leaders, our day-to-day job, which is why oftentimes it’s very stressful. And I coach many such product leaders fairly regularly, and it’s \[00:20:00\] surprising to them that it doesn’t have to be this way. It doesn’t have to be the way where you are doing, you know, literally 40 meetings or 50 meetings a week.
+
+There’s this joke that I’ve heard many times. Which is like, oh, so you’re a product leader, so you’re never going to be at your desk, right? Like you’re always going to be in meetings. Ha ha. We accept that as reality. I absolutely reject that premise. Actually, as a product leader, you should be spending a ton of time on your desk. And if you’re not doing that, that means you’re not fulfilling the second aspect of your role, which is to create self managing teams. Right?
+
+So I do think it goes back to kind of understanding the role. And once you understand the role your actions will be quite different in terms of how you delegate, how you not only say, well, I don’t like this approach to this flow that you are showing me, but I do like something else, but instead say, look here, here’s how I think about this.
+
+Here’s how I think about the user goals. Here’s how I think about the conversion goals we have. And then here are perhaps some principles for us to consider. Here are perhaps some metrics for us to look for to figure out what the right answer is, right? Like that is the conversation you need to be having as a product leader with your team, because that’s how you create a self managing team versus oh, Bob, Bob just likes a single page flow, right? Like, or single page steps. And like that is just a Bob quirk. And so just make sure, this is the product manager telling the designer, just make sure that you do that, right? Like, but the why of that is missing. It’s more about, oh, if you want to successfully get it through Bob review, you will need to do this. right. Which is meaningless because now you created kind of the opposite of a self managing team.
+
+### Professional identity (and the shift to leadership roles) \[00:21:56\]
+
+**John Cutler:** One thing that comes to mind too, is that often product managers seem to relish this nebulous nature of their role, starting even from the IC PM. They almost self-identify as the shapeshifter. Kind of pushing themselves into everything that needs to be done.
+
+And I could imagine that that person, when they become a director, they move up. Maybe sometimes they can’t let go of that. Maybe that’s one thing that leads to an inability to clarify their role.
+
+**Shreyas Doshi:** Oh, you know, John, what you just said resonates so strongly. I want to share two things in response to that. The first one, is that you have this classic example. And again, this was me many, many years ago. This was me 12, 13 years ago. Seemingly competent product manager, somebody who’s really good at the core work of product management.
+
+Who’s told, okay, we want you to manage PMs. Right, now, what happens in that situation is really interesting. And I think if this happens to many, many competent PMs. Which then makes them slightly less competent product leaders, at least the first or second…
+
+**John Cutler:** Are you saying that PMs get less and less competent as they move up an organization?
+
+**Shreyas Doshi:** Well, the requirements, the bar changes. Right? So for instance, in my case, I was still building out and developing my core product management skill set. It wasn’t fully built out, but I was asked to manage, which is fine, that happens in many other functions as well. But the challenge is that I wasn’t mentally there either, right?
+
+Like I knew that I had these gaps, and somewhere within me, I still had that drive to prove that I am a really great product manager. Not a manager of product managers, but a really great product manager. And the way it manifested with my team is, you know, something comes up and I go, oh, this is clearly not the right answer. This is how we must think about this. Like, just watch my language. Right? Like these are the words I used to use.
+
+And what I was really doing, now I understand it, I did not understand it back then. What I was really doing is just trying to prove to myself that I still got it. And trying to prove and show to others, just like how great I am at the core IC individual contributor job. Ah, and I see this with product managers, especially in their first three, four years, all the time when they get into management of product managers. They are still trying to do the product management role, the core IC role, rather than the manager role.
+
+And then that creates all sorts of challenges for themselves. Because, you know, when you take that kind of IC approach, you’re going to be the manager who says, \[00:25:00\] oh yeah, I need to go to that meeting. Can you please invite me. Because you need that on the ground context for you to be able to form your opinion about product strategy or product direction, right?
+
+Versus, developing the skill to understand that through your people. And then it annoys the person on your team because it’s like, why is my boss showing up for this meeting? It makes no sense. And oh, my boss is a micromanager. Or look, oh, because my boss is showing up at this meeting, I now need to perform at this meeting instead of just being vulnerable, myself, asking legitimate and genuine questions and whatnot.
+
+### The manager’s role in helping people adopt non-default behaviors \[00:25:39\]
+
+I’ll tell you one thing related to this topic we are discussing that’s on my mind, is viewing the manager’s role, specifically in the context of product management, viewing the manager’s role, the director role, the VP role, the CPO role as being about helping people understand when they should adopt their non-default behaviors.
+
+Let’s take a specific example. You will find, you know, somewhere in a blog post, or maybe a Twitter thread, this kind of, oh, here’s what a product manager needs to…
+
+**John Cutler:** We might’ve been jointly responsible for these, by the way. So I think that we can,
+
+**Shreyas Doshi:** Absolutely. This is the stuff where I’m like, oh, I’m nervous hitting send…
+
+**John Cutler:** …I have nightmares about this, so I’ll hold my…
+
+**Shreyas Doshi:** For sure! So, let’s take a hypothetical kind of blog post about what product managers are supposed to do. And it’s like a product manager is there for his or her team. The product manager unblocks the team. The product manager checks in with the team on what the team needs, and delivers what they need so that they can be efficient.
+
+They can be effective. A product manager ensures that they are doing regular check-ins with individual engineers to ensure that they are getting what they need blah, blah, blah. Right. So you can imagine this kind of hypothetical blog post.
+
+And say I’m a product manager, or a new product manager, and say like, okay, all of this makes sense. And I’m going to start doing this. And, guess what happens? Like I started doing it, and it works great. People say, oh, you know, Alice joined as PM for our team. And it’s been amazing. It’s been a night and day difference. I can’t believe we were operating without a PM, and this is amazing, more PMs, you know?
+
+Let’s make sure that we recognize Alice for our contributions as a product manager, et cetera, et cetera. Right. Okay. Works great. So now what happens? If I’m the product manager I make this my default behavior. Because this is my first year doing the job. I don’t know anything about product management in various different contexts.
+
+I assume that I’m getting validation for these actions. So I’ve got to do the same amount or more of these actions, right? Now, transport me to a different team. Or a different company. Okay. Now, in this company, or on this team, let’s just say on this team, well the engineers are very independent. They are already talking to customers directly, right?
+
+They’re talking to sales directly to understand requirements. They are talking to marketing. You know, the designers are doing end to end research and validation as well as again, kind of very customer centric. And it’s generally a very high agency team, right?
+
+Like again, the tech lead, or the lead designer, isn’t afraid to go to the VP or the CEO and ask questions or ask for what they need and whatnot. Right? You can bring in this product manager, who’s performing these defaults, in this situation, what happens, right?
+
+Same product manager, different teams. And the feedback is, oh, you know, we think Alice needs to create more room for ideas. We think Alice can sometimes create an unnecessary obstacle for us. We think that is a lot more process. We think there are many more check-ins than there need to be. We don’t have to provide status on a daily basis for what we are doing, et cetera, et cetera. Right? Same product managers, same actions, different contexts. Doesn’t work. So with this now let’s get back to the thing I’ve been mulling over recently, which is where is the failure here?
+
+I don’t think the failure is at the level of the PM. It’s not Alice’s failure. It’s the manager’s failure, right? It’s the manager’s responsibility to help a PM understand the context within which they are \[00:30:00\] operating and then nudge them towards non-default behaviors.
+
+**John Cutler:** It’s funny you had that conversation. I think there was a thread with Dee Hawk where he said, I talk about principles and these deep things, and you actually made the point where you said most people just want to get ahead.
+
+You know, so talking about principles is a little tougher. I’m paraphrasing. I think I remember this in the back of my mind. But I thought what was interesting — that point — is it’s also the toughest thing, right?
+
+### Mindset, principles, and tactics (and getting stuck on tactics) \[00:30:29\]
+
+**Shreyas Doshi:** So, so a couple of thoughts there. One is it does depend on where one is at, right? There are three things that one needs to understand and use in order to get really good at something.
+
+There’s mindset, there’s principles, and tactics, right?
+
+People often will start with tactics. Which is here is a recipe for how to run this meeting, right? Here’s the template for a product review. Here’s a template for a product strategy doc, or what have you, right. Tactics are amazing. You need tactics to figure out the basics of a role and to be productive in that role and to learn by doing right. So tactics are really, really important.
+
+What happens though, is for many people, they get stuck at tactics for the majority, if not the entirety, of their career. And that’s where there is a problem. Right? Which is once you have reached a certain degree of proficiency, you are not going to be able to, you know, seek the 37th tactic for doing this thing in order to actually be effective. Right. And, and so what you need at that point, is a better understanding of the principles. Because with the principles, what you will do is you’ll know which tactic to employ. But even more amazingly, once you start understanding these principles, you can create your own tactics, right?
+
+And then mindset is the most important thing. All of us know we need to do certain things. I know I need to write that PRD, why am I not writing that PRD? And instead, spending my time on Slack, and replying to email, and convincing myself that I’m being productive by doing that.
+
+And there is a very good reason why I’m not writing that PRD. I need to understand myself. I need to understand what is really going on. What I’m really fearful of when I’m avoiding writing that PRD that I really should be writing. So there’s much more to mindset than that, but the point is to achieve the highest degree of competence in a certain field — and particularly, I think, I can only speak for product management really to achieve the highest degree of competence in product management — you do need to understand each of these three extremely well.
+
+Depending on the context, some of this is just not possible. Look, a lot of what I talk about the implicit background there is it’s, we’re talking about you know, like Marty Cagan calls it empowered teams, right? Where people are given the right tools, and the freedom to arrive at the right answer. Without taking tremendous personal risk in order to do so. I have been fortunate to have largely worked at organizations where the teams have just been empowered by default. My perspective comes from that. I frankly don’t know what it’s like, and what success is like, in environments where teams are not empowered, where individuals are not empowered. A lot of what I might say in that context can probably be boiled down to, grow as much as you can in the environment, such that now you will have the optionality to move to an empowered environment where you can really exercise your skill and achieve, hopefully greater potential.
+
+But even as I say that I’m in two minds, right? Like, I feel like, okay, it makes sense to try to grow as much as one can, based on the cards one is dealt. Right? It seems to make sense to do that. My own personal experience. I was very early in my career. I was in these highly disempowered teams. That’s sort of what I tried to do, but again, I’m a sample size of one. What works for me doesn’t necessarily work \[00:35:00\] for everybody. So that part of me says, okay, yeah, maybe this should work. But the other part I’m not quite sure about is just like is it possible in every environment where teams are disempowered? .
+
+### The basics/foundations for a high-performance team \[00:35:11\]
+
+There are some basics that you need to have in order to have a chance of being a high-performance team or a successful team. Without those basics, yeah, with survivorship bias, you can find one team that managed to, against all odds, to succeed without those basics. But we can’t really bank on that. Right. Because we have one life, we have, you know, we are single threaded. We can’t run a hundred simulations and then just pick the winning simulation. Right. Or even like thread, like do three jobs on a given day. Right. And see which one, see which one worked out better. And just like, uh….
+
+**John Cutler:** A multivariate job experiment. That’s really
+
+**Shreyas Doshi:** So, so we can’t do that. So, you know, any kind of like, oh, there’s all these problems and they, yet we succeeded. So learn from us. Right. Like there’s very little to learn from that in my opinion. Because you’re so single-threaded as a team, as a person, as a company it makes sense to just make bets that have a high expected value.
+
+So let’s assume that the basics are met. And what are some examples of basics that you have the right people in the right roles as an example, Right. It doesn’t have to be the world’s best people doing whatever, but at least there is some match to what the job is, and the people, who are supposed to do the job, as one thing.
+
+You might even put a certain bar of empowerment. It doesn’t necessarily have to be the highest empowered team ever. Because like that could have its own issues. But like a certain bar of empowerment. So anyway, you can make up some reasonable basics around, okay, any team or any situation needs to satisfy these basics, for it to have a shot at creating something that makes an impact, creating something that’s remarkable.
+
+Okay. Now that these basics are covered, what’s next? What do we need to do to increase the probability that we can meet our potential as a team? You know, as a thinker I have been thinking a little bit about a lot of my writing and what the general theme is. And one of the themes that I’ve been able to extract after the fact, is that really I’m trying to answer the following question in many different ways.
+
+### Why do teams with the basics met produce poor products? \[00:37:31\]
+
+And the question is why do smart teams with sufficient resources– by resources I mean, money, all of that, right, not number of people necessarily– so why do smart teams with sufficient resources still produce mediocre or poor products? The current environment, again, sort of certainly you know, with startups and high growth tech companies, is that we all like to think we have smart teams. In this current funding environment, we do have somewhat sufficient resources in most cases, perhaps too many resources in some cases, and yet, many teams are not as successful as they ought to be.
+
+And so why does that happen? Right? I don’t think I’ve answered that question just for myself. First trying to do this for myself, and then for everybody else. But I think the answer lies in a lot of different things that we just talked about. Around, oh, you know, one of the aspects of success is understanding the truth.
+
+A lot of this goes back to things like decision-making, how do you collect inputs, how do you determine outputs? How do you get to those outputs? And then what are the right outcomes for us to achieve? Are we being sufficiently both logical and creative about how we get there?
+
+I don’t have an answer to sort of like the overall question of what distinguishes, you know, either poorly performing teams or high-performing teams and how are they different. I like to think about it as like, you know, this concept of assuming the basics are met, what needs to happen in order to maximize chances of success? And that’s where I think context also plays a pretty large role.
+
+### Intentionality and stubbornness (with the company you want to be) \[00:39:24\]
+
+**John Cutler:** What I’ve observed, at least in some of the companies that I admire the most is that someone is around who is just really stubborn about something, you know. They are stubborn about maybe engineering quality, or they’re stubborn about connecting with customers. So anyway, that’s, I’m offering that up as maybe an area that I’m looking into. That’s what I’ve been thinking a lot about lately is stubbornness. We should connect our threads of research on this because I think it’d be interesting.
+
+**Shreyas Doshi:** Yeah. I want to take that and do a live mashup of what you’re talking about, uh, with this other idea that I \[00:40:00\] often bring up in conversations with startups, particularly as they’re kind of starting to think about scaling that product development efforts. As they’re thinking of adding product management. One of the questions I will often ask is what type of company do you want to create? Concretely. This is in the context of, you know, oh, I’m looking to scale my engineering team, looking to scale my product management. And I ask people to be quite intentional about what type of company you want to…
+
+**John Cutler:** Because it’s easy to give non-answers to that. I’ve heard a lot of non answers to that question.
+
+**Shreyas Doshi:** Yes. And as it pertains to product work, right? Like what is going to be your focus? So that’s one way to look at it. Do you want to be a customer focused company? Do you want to be an infrastructure focused company? Do you want to be a growth focused company? Do you want to be a product focus company?
+
+Do you want to be a sales focused company…
+
+**John Cutler:** I want it all…
+
+**Shreyas Doshi:** And exactly, right!
+
+Like, so that’s what people say quite a bit. But then they start getting it, which is like, oh Yeah, Okay. I like, I need to be like, as a founder, my company is my product. And so I need to be quite opinionated or stubborn– so, this is where I’m connecting to your stubbornness– about what I want to create.
+
+Because what happens is you, you can’t have it all. And if you’re not intentional about it, you are focused on something it’s just, you don’t know what it is and then there’s confusion, right. Like for yourself and for others. And so you take examples, right? It takes time to go through this conversation because, you know, it’s, it’s an odd
+
+**John Cutler:** It starts out very high level too. It’s like…
+
+**Shreyas Doshi:** Right, it’s, it’s very high level…
+
+**John Cutler:** …and then you have to step away and get some coffee and like, wait, we need to go another level down.
+
+**Shreyas Doshi:** Okay. Right. And, and like, so what I’ve observed is that like 10 minutes in 20 minutes in 30 minutes in, there is a light bulb moment typically for the founder. Because the founder is typically also very close to what they want to do. So it’s, again, it’s one of those things where asking the question is the main value-add not necessarily the answer.
+
+But if you take examples, it becomes clearer, which is Google, as an example, and certainly during the time I was there, which was like 10, 10 ish years ago, was very much an infrastructure focused company. That was their implicit focus. When I talked to an engineer and I said, this is what the user needs, how might we go about building it? The answer would be, oh, that is very interesting. It’s an amazing problem. I’m going to have to build this backend infrastructure. It’s going to take me six months to build out this backend infrastructure. And then you will have this feature. And as a product person, of course, I would go wait, but that sounds like a really long time to like, this is not a massive feature.
+
+Like, no, no, no. This is how we do things, right? Like, we need to have the infrastructure. And again, there’s no wrong or right choice. I also like to point that out. Right. Which is like, you know, you have Facebook, which is a very, at least certainly seems to me from the outside and from people I’ve talked to, it’s a very metrics focused company.
+
+They make decisions based on what moves metrics largely. And that’s why Google and Facebook operate very differently. Internally, they operate very differently because of that focus.
+
+The easy choice to make is oh, we want to be customer focused. And then I have to remind people that, okay, if you’re, if you’re saying you want to be a customer focused company, but you are selling enterprise software, know that over time, what you’ll actually become is a sales focused company. And again, there are examples of tremendously successful companies that are sales focused.
+
+So, I’m not saying that’s necessarily a wrong choice. But just by being intentional about that and tying it again back to your stubbornness point, that’s one way of looking at things, right? Which is like, this is how we do things. I know it sounds more negative than it should be, or this works for us, right? This works with the culture that we have. This works with the people and the skills that we’ve hired and so on. And that can be quite powerful, especially if you’re intentional about it.
+
+### Analytical and creative intelligence \[00:44:14\]
+
+**John Cutler:** A couple of times in our conversation, you’ve mentioned that word analytical. And then you’ve talked about the alternative to that, maybe a creative intelligence. Could you dig into that a little bit?
+
+And specifically, I’m thinking about my day job, where we think about measurement. And one thing I’ve observed is there’s a massive difference between using measurement to control people, or control the narrative, or get the perfect answer, and using measurement to learn. They feel very, very different.
+
+What’s the difference between analytical intelligence and creative intelligence in your mind?
+
+**Shreyas Doshi:** At the root they build on each other.
+
+However, that’s not how most of the industry views that. And I think practices across various companies, including highly successful \[00:45:00\] companies, tend to often view one as better than the other. And it’s usually– and again, my context is a lot from, you know, Valley based companies or valley like companies, no matter where they are geographically– is that somehow we tend to view analytical reasons as being extremely important and correct.
+
+We tend to discount product creative, and we tend to discount instinct and judgment and various other kind of aspects
+
+**John Cutler:** There is a duality, right? Like we also very much hype people’s instinct, certain people’s instincts up, but I know what you mean.
+
+**Shreyas Doshi:** Yeah. So that’s an interesting kind of issue that I think, again, it goes back to that core question of like, why do smart teams with adequate resources, still produce mediocre or poor products. What we forget is that many teams and many company cultures make it really hard for people to come up with creative ideas. Even again, in very successful companies overall.
+
+Where does a lot of this start? It starts in the meeting, right? So you take your typical product meeting at like any level. You are going to come across, in most such companies, you’re going to come across as a lot more competent if you show five different charts. You show a couple of tables. And then some qualitative insights. And then you say, and therefore here’s what needs to happen. I don’t think there’s anything wrong with any of that. Right.
+
+But what happens with that approach, and that mindset, is that you’re therefore the, the conclusions or the recommendations are actually quite constraint. They’re in this box. You don’t know that they are actually like in this box. But they are, right? Now, if you allowed for creative intelligence in the same way, what would happen is the conclusions would contain some wacky ideas, right? Like something that doesn’t strictly follow from the data, whether it’s qualitative or quantitative. Maybe it’s even in that envelope of like, oh, we don’t have strong conviction on this, but we ought to try this. What happens to, in again, in the meeting, take a product review meeting, is that the product manager will get confused or odd looks when they bring up a creative idea.
+
+Or anybody, I’m just picking the product manager as one role, but the engineer or whoever. Second thing, they will likely get feedback afterwards from the manager of like– and the way it would be framed as not so much, don’t bring creative ideas, because nobody wants to say that– it’d be like, you need to back up your proposal with data.
+
+You need to back things up better, and so that’s the feedback I’m giving you as a manager, right? That phenomenon occurs very regularly even within very highly successful companies. And that stands in the way of teams being able to create these products that actually achieve the potential, uh….
+
+**John Cutler:** Someone recently said we have too much hippo decision-making in my company. We have to use data, right? We have to use data to make the hippos go away. And then I said, well, what’s going to happen when you’ve got a gut idea?
+
+And they said, well, well, of course, you know, of course we’re going to use the same approach. We’ve got to have all the data to do that. And I was like, look, your problem is not hippos. Because eventually you’re going to want to have creative ideas.
+
+If you only have one idea, that’s terrible. If you have 50 ideas, that’s paralyzing. Do you have maybe three? And my friend Dan North said, no, you want seven. Because the first, the first one is your idea, the second two, three or four ideas basically support your idea. So you want seven because at the fourth one, the fifth, sixth, and seventh are when you’re getting out of your comfort zone
+
+### Impact level, execution level, and the optics level \[00:49:13\]
+
+**Shreyas Doshi:** Yeah. One framework that I think is a very fundamental framework that spans most product contexts, and certainly all product contexts that I have come across, that I think we need to recognize better, is this what I call the fundamental framework of product work.
+
+So we do all this product work, right? How should we think about this? How do we think about this product work? The insight I had recently was that there are three levels of product work. There is the impact level. There’s the execution level. And then there’s the optics level. And a lot of challenges \[00:50:00\] within product teams, product cultures, are because of a mismatch or misunderstanding of the level at which we are having a discussion. Or the level at which we are operating.
+
+Oftentimes you find that one person on the team is operating and thinking at the impact level. And another person is thinking at the execution level. But they’re not talking about that. They’re litigating the minutia of the situation, right? So a classic example is a PM who works really hard. So to say, a PM operating at the execution level works really hard against all odds.
+
+They weren’t dealt great cards, but they made this product happen, right? Like the product is a reality. They are happy. The team is happy. Engineering, product management, design, data science, all of them are, people working on the core product, are very excited that they build something.
+
+Right. And they take it to your executive review, right. Or a launch review. Of course there’s some demo involved in the launch review. And again, the tactics don’t matter how it’s done synchronously or asynchronously. The point is it gets reviewed. You have a product executive who’s operating at the impact level. And so the product executive looks at the product, and the basic message is this isn’t good enough.
+
+**John Cutler:** The threat meter fires.
+
+**Shreyas Doshi:** The cortisol levels go up.
+
+**John Cutler:** …increase…
+
+**Shreyas Doshi:** And the PM is frustrated, maybe the PMs manager is also confused. Can you imagine all the difficulty we had to tackle to even get here? We should just be allowed to launch this. I know that are all these flaws, but no, no, no, no. We should just be allowed to launch this.
+
+So the issue here is the executive– they’re operating at the impact level and they’re thinking about the impact to the brand, right, of launching a product at this quality, which is say lower than the bar that they’ve had. And that’s an interesting situation because people start immediately talking about fixes, right?
+
+Which is like, oh, you know, maybe we change this one thing or the second thing– again, all of that is important to talk about– but it’s first important to recognize that mismatch. And I will also say that it’s gonna be difficult for the PM, or the engineering lead, or the design lead. It’s going to be difficult for folks there to flag this, right, like just from a psychological safety standpoint.
+
+So the way executives can operate better, and this applies to people at all levels, is to recognize why the team is proud of what they’ve done, they’ve actually executed against great odds. And, and they are operating at that execution level. And then call out explicitly– instead of like, ah, this is not good enough, or this doesn’t meet the bar or whatever– this is great at the execution level, this falls short at the impact level, how might we achieve you know, a better outcome here?
+
+The last thing I’ll say about this, as part of the example here, is you find that in many places, people are optimizing the optics level when they’re doing product work. The CEO or the founder or powerful executive coming up with an instinct, or some creative idea, that people just gobble up. Right? Bob said this, so let’s go work on that because like, this is really…
+
+**John Cutler:** …and they were very decisive. It’s like, well, of course they were decisive. They’re the CEO and you’re all listening to them.
+
+**Shreyas Doshi:** Then the other thing is like the side conversations are, often, yeah I don’t think this is going to work. But like, this is what Bob wants, so we are going to do this. And it doesn’t always have to be top down by the way. Right? Like it’s also sometimes the opposite direction. Right? You build something, and you’re kind of framing it as being more successful than it actually is in order to manage optics.
+
+So I’m not saying optics is bad. Actually you do need to manage a certain amount of optics, just so you can faithfully express the impact of your work and the quality of your execution. The optics level should help the other two levels. And so you need to do sufficient work there. But there are many teams that primarily optimize for optics.
+
+People talk about incentives and how people will basically follow incentives. And so on. I don’t use the incentive language. I think a more fundamental issue here is like, how much is your culture and your organization compelling people to manage towards optics, versus managing towards execution, or managing towards impact.
+
+### Cognitive biases and shared vocabulary \[00:54:37\]
+
+**John Cutler:** So one part of my journey with the cognitive bias world, cause I was super into it at a certain point. I started to try to research ways that we’ve been effective at counteracting cognitive bias, even when we know about it. And it didn’t do a lot for my ability to combat sunk cost fallacy every time I encountered it. What have you seen not work, and what have you seen work in terms \[00:55:00\] of trying to counteract these things?
+
+**Shreyas Doshi:** So I think it’s about the shared vocabulary that you create for the team. And I think just shared vocabulary is just another topic that’s much broader than just cognitive biases, that I think is just so vital.
+
+If you want to make your team healthy, or healthier, perhaps think about what is your team’s shared vocabulary around the work you do? And I don’t just mean the industry buzzwords like Scrum or whatever else, right? Like, I mean, no, no, no. What is the vocabulary that you’re not seeing as part of standard product management literature, but that you are going to share with the team. Why does this work in the context of cognitive biases, is it is very difficult for somebody to say Bob, you’re falling prey to a sunk cost fallacy, or availability heuristic, or what have you. It is very difficult in most organizations for somebody to be able to…
+
+**John Cutler:** …not standard fare meeting talk you’re saying, it’s not like, thank you, yeah, I’d like to just point out sunk cost fallacy… the zoom meeting shuts down pretty quickly. If that person starts…
+
+**Shreyas Doshi:** Exactly! Uh, and it’s like, oh, this person doesn’t work well with people. Or whatever. Right. Like people get…
+
+**John Cutler:** …they’ve read too many books. Uh,
+
+**Shreyas Doshi:** They get assigned labels. So I think it’s important to make it known. This is why I don’t talk about individual cognitive biases. I usually talk about our cognitive biases at the level of teams. Right. Because then it’s much easier to have that conversation of like, as a team, this can happen to us. We can fall prey to the execution orientation fallacy. Which is where we decide to do something that we know is easy to execute, even though it may not be the right team to execute on, but it gives us the satisfaction of getting started. And the satisfaction of creating something.
+
+Once you make known to everybody, and second as a leader– the onus for what I’m about to say is entirely on the leader– is to say, look, I’m going to fall prey to this. And as a group, we may fall prey to this. I just want to set the expectation that we will talk about this. And we will flag this when we see this happening.
+
+It’s not a weakness if we flag this. It’s actually the opposite of that. That we are able to be aware of what’s truly happening, and perhaps make a better decision or reach a better conclusion. And so I think the shared vocabulary, and then what I just said is then shared accountability
+
+I generally hate the word accountability, but that’s a separate topic altogether. But I do like it in this context, which is a kind of shared accountability as a team around reminding each other, and reminding ourselves as a team, about mistakes we might be making. Or a lack of clarity that we might have.
+
+As an example, there’s this project I was doing recently, which was an extremely ambitious project with a lot of unknowns. I shared with the team upfront, actually in that case, I shared two things. One was related to the cognitive bias, which is, look you know, we are likely going to fall prey to these, these, these cognitive biases or team cognitive biases.
+
+And so let’s just be aware of those. The second thing I flagged was also– the details are not important, but it was a very complex kind of situation, multiple teams involved, and those teams had not worked with each other very much. They were kind of like working for the first time.
+
+And so I shared with them that one of the main things that’s going to get in our way here, is that we are going to not be direct and open with each other, especially across these team boundaries. That is going to likely, more likely, cause this project to not work out than any analytical sort of mistakes that we make.
+
+I made it even more explicit with that group. I’m more concerned about our ability to work well with each other, and to be direct with each other, and to understand each other’s perspectives, then anything else. Any of the other kinds of analytical things we’re talking about, which is like, oh, how do we fit in these three navigation options within this limited space or whatever. That is not going to determine our success. What’s going to determine our successes is whether we are willing to have the hard conversations with each other about this stuff? And are we willing to listen to each other and each other’s perspectives? The other tactic I like is, I just also point out like, I also want to say that maybe you’re thinking this is a silly conversation to have cause it’s very fluffy, right?
+
+Like it’s not the analytical stuff. But if you are thinking that, then my \[01:00:00\] request is to please actually talk to me about it. We all need to be open with each other. If you’re finding that this is not a useful use of time, then that’s the first thing you need to actually be open to me about. And so…
+
+**John Cutler:** You’re anticipating their skepticism of you urging them to… I like it!
+
+**Shreyas Doshi:** Yeah.
+
+**John Cutler:** You’re trying to cover all your bases here, essentially.
+
+**Shreyas Doshi:** The other thing I had to do in this situation is like, because again, I had not worked with some of the team members that we were going to work with, is I then set up you know, one-on-ones with some of the key team members, just to emphasize this again. It’s like, look, this is my concern as the team leader.
+
+And generally to get to know them enough such that they would feel the ability, and agency, to kind of open up and share when things are not working out. So, you know, this is an example of going against defaults. Generally, I avoid these kinds of regular one-on-one check-ins, right? We just keep adding and at some scope, it kind of takes over your calendar.
+
+**John Cutler:** You would have not made a lot of friends if you had done that every single week, for the last five years. I think that the brilliant part of that answer is when people learn about cognitive biases, it’s crazy. What they do is they’re always like, well, this explains everyone else’s crazy behavior. Aha. Now I know why the executives behave the way they are. It’s like everyone first, when thinking about cognitive biases, everyone experiences fundamental attribution bias, right?
+
+**Shreyas Doshi:** I think if you don’t want to believe if– if as an individual, or as a team, you don’t want to believe in most cognitive biases– maybe it’s okay. As long as you firmly believe two: confirmation bias and fundamental attribution bias.
+
+### Treating dashboards as a product \[01:01:51\]
+
+**John Cutler:** Yes!
+
+Switching gears just for a little bit, I’ve been wanting to ask you this for a really long time. You had this thing about treating dashboards as a product. Like what was the inspiration for that, that thought?
+
+**Shreyas Doshi:** That was a collection of a few different observations that I made over the years about how dashboards are used. And how people generally, product teams, think about dashboards.
+
+**John Cutler:** …the highly analytical people that we’re talking about.
+
+**Shreyas Doshi:** Yeah. And it’s like, oh. you’re supposed to have a dashboard. So fine I’ll have a dashboard. So let me share a couple of those observations that I made along the way.
+
+First was, there are many PRDs that get written about a non-trivial feature or product, that don’t cover what the dashboard is going to look like for this feature or for the product. And it’s fine. Like, what I’m asking for is not here as a detailed mock-up for it.
+
+Show me a bulleted list, right? Like here are the metrics we are going to track to understand the usage metrics, which is like, how is this feature being used? What are users doing with this? And, the second one being the impact. There is a lot of focus on impact metrics sometimes and not enough focus on usage metrics.
+
+**John Cutler:** Absolutely.
+
+**Shreyas Doshi:** But like, I would argue that like…
+
+**John Cutler:** Don’t call it a success metric. Because then talk about psychological safety! It’s all done at that point. Key performance indicator, you know, it’s…
+
+**Shreyas Doshi:** Yes.
+
+**John Cutler:** …nevermind at this point.
+
+**Shreyas Doshi:** So again, vocabulary is very important. That’s a great point. It needs to be owned by the product manager or whoever’s performing that role.
+
+**John Cutler:** You need a lot of domain knowledge to get that, right…
+
+**Shreyas Doshi:** Right.
+
+**John Cutler:** …there’s the unique nature of the usage .
+
+**Shreyas Doshi:** And most, most teams have the other category of metrics, which is the health metric. Because typically engineering teams will make sure that they have the right instrumentation and the right dashboarding for that.
+
+That’s the first observation is like, we don’t adequately spec that out. right. So the second thing is let’s assume a team does spec that out, and a dashboard, or some metrics email, I don’t care what it is. Like something gets built that now starts giving you insight into the things that matter. How people are using it, what’s the adoption, what’s the impact, that’s it, great.
+
+The second observation I made is that nobody is looking at that dashboard.
+
+**John Cutler:** I can confirm this dynamic based on someone who offers one of these tools that a lot of these are like trees falling in the forest. There’s graveyards of dashboards. Let’s put it that way.
+
+**Shreyas Doshi:** For sure. If this is you and your team, like, don’t feel bad. This is 90% of that I’ve come across at different points. Right. Yeah. We’ve spent all this effort creating this dashboard. Hardly anybody is looking at it.
+
+So, that was the second kind of observation. As I noticed this, what I realized is, oh, wait a minute. We’re not doing to our metrics dashboard, \[01:05:00\] what we say is the right thing to do for our products. So there’s a certain kind of self-reference here. Which is, you know, if we build a product, you know clearly the right thing to do is to track its usage, track [product metrics](https://amplitude.com/blog/product-metrics-guide), et cetera.
+
+So if you’re viewing the dashboard, which is giving you insight into your product, why not view that as the product itself. And track the usage metrics of your dashboard. Like a simple counter, for instance. How many people have viewed this dashboard that we spent a ton of time creating in the past week.
+
+Right? Just something as simple as that, just a view count, as an example. And then you can look at that and see, oh, wait a minute, nobody’s actually looking at the metrics. So that creates two possibilities. One is it is not useful in terms of insights or decision-making. Or there is some problem, right, like with us and like that we need to resolve. But you can only start doing that if you sort of think about it as a product, right?
+
+Once you start thinking about the dashboard as the product, of course, you’re going to then create requirements for the dashboard, and make it part of the original PRD. Which is like, this is what we need to track. This is why we need to track it. This is how we’ll track it. And then you’ll obviously instrument things in the dashboard in a way that you understand its usage and so on.
+
+And the last part I will say, is that a large part of all of this is not intention or competence or anything else. I don’t think it’s because people are incompetent that these things happen. I think it’s because it’s hard. I think it’s actually just as simple as friction, right? This is yet another thing that you have to think about doing during your busy day. You know it is the right thing to do. To like view your usage metrics every once in a while. Or at least refer to them when you’re going to make the next decision.
+
+But there is friction. There is cognitive load that you have to manage. And so now, again, thinking about it as a product, you can now start thinking about it in terms of how do you eliminate friction? Cause that’s what we do in our own products, right? Like we think about what’s the user friction and how do we eliminate it?
+
+And that leads to interesting possibilities. Like one of the habits I’ve had for many years, at this point, is I have my pin tabs in Chrome. And I have my email, and my Slack, and my calendar, that are pinned. One of the other things that’s pinned is my main metrics dashboard. So it’s there. I don’t have to open a new tab, type in any URL, it’s just there. Another thing I’ve noticed is people love email metrics. Why? Because it removes friction, right? It just shows up. And there is this kind of contract that we’ve at least made with ourselves that we should look at emails. So what ends up happening is people look much more closely at metrics that get emailed, than, sort of, metrics that they have to proactively seek out.
+
+So oftentimes for important projects, I would say, oh, you know, let’s just also send a summary email. It can be as simple as some teaser high level stats, and just a link to the dashboard. Even that link that gets emailed to you will make it much easier for you, and eliminate the friction. Versus having to think about it and do it.
+
+### Filled calendars, reactivity, self-identity, and positive/ negative habits \[01:08:20\]
+
+**John Cutler:** When you see these calendars of people, and you see these PMs who are in reactive mode all the time. That they don’t even have a moment to think about this stuff. What’s the first bit of advice that you give to them? How do they reign this in?
+
+**Shreyas Doshi:** I spent the first five years of my PM career in extreme stress, and a fair degree of being on the defensive, all the time. I need to make sure that things don’t fall apart. That’s all I’m doing, and that’s taking up all my energy. And I think a large part of it is, of course, I was likely much less competent in the role. And so things used to take me longer, and so on. And so I don’t want to discount that, you know, that there is a learning curve, and there is a cost to that learning curve. And it’s a journey everybody needs to go through. Right. So. Yeah.
+
+I don’t think it’s necessarily a bad thing. You use the word habit and I think that therein is the problem. Which is what happens is because of these early years, our formative years as product managers, we get into certain habits. Assuming, like, we are actually fairly good at what we’re doing, we see success. And so you certainly think, okay, yeah, I seem to be doing the right things. And so I should do more of those things. It really helps to have one-on-ones with every engineer on the team on a weekly basis, check in with them on what’s going on, and then to also connect with them on a personal level, et cetera, et cetera. So I’m going to do more and more of that. Great. It works when you have 10 engineers on the team, now you have more scope. Now there’s 20, then there’s 30. \[01:10:00\] What, what do you do?
+
+**John Cutler:** Right? Then meanwhile they pride themselves, self-identify, as having such great relationships with every engineer. The one-to-one black hole of…
+
+**Shreyas Doshi:** yep. And so John I, and like, I think it triggered something interesting, which is, I think perhaps it’s two things. It’s it’s habit and identity. This is who I am. This is how I do things, right. Oh, that thing that you’re talking about, or that thing that this other person is talking about?
+
+No, no, no, no, that doesn’t work for me. Right. Like I am different. This is my identity, this is how I operate. So there’s the habit, and the identity. And I see all the time, people just in situations where it’s just completely unmanageable. They don’t know what to do.
+
+They just think this is how it is. Sometimes their managers will tell them, yeah this is how the PM job is. Look at my calendar, It’s even worse! And then there is this little bit of comparison as well, which is like, oh, whose calendar is worse. And like, that person is more of a PM, right?
+
+This is so hard because of the habit and identity issue. This is hard for people to accept that there is an alternative path here. If you think about the audiences, they are listening to this , whenever this will be released. There will certainly be a set of people who will say, yeah, whatever is being discussed here it doesn’t apply to my situation. And it doesn’t apply to my company because of my boss, because of this reason, because my team is different, because whatever I am different, I have grander ambitions, whatever. So, you know, what I would say is like, this cannot be solved until you accept that there is actually a better way.
+
+You have to understand that you want to solve this problem, versus thinking this is the way it is. But once you start entertaining that thought, that there are other ways that this problem can be solved or at least should be mitigated, now we can talk. Right? So now we are at a smaller part of the audience that is really stressed, but it’s perhaps more open to sort of exploring those ways.
+
+And then what I would say this goes back to the role of a product manager and particularly the role of a product leader. Remember we talked about building self managing teams. Right. Well, what happens when you actually build self managing teams? You have to do less management, right? Because they’re self managing. That’s sort of the goal. Now, it doesn’t solve the problem because how do we get to the goal?
+
+The way one needs to think about these situations is you know, yes, I can stay on top of everything. And you know, in some cases, like we talked about, the context requires you to stay on top of everything. But, you don’t have to make that your default, and you don’t have to do it in every single situation.
+
+So one of the things I like to tell, especially new managers, is assume there are things you are not going to be on top of. Because then you will have to go to every single meeting. You’ll have to accept every single input in order to, sort of, figure out what to do.
+
+So assume that’s not going to happen. And what you need to do is to figure out ways in which now you’re going to get those inputs through people on your team. And you are going to organize your one-on-ones in a way that you’re able to get those inputs. You’re, uh, you’re going to organize rituals on your team, whether it’s product reviews, or other rituals on execution check-ins or what have you, in order to get the right signal .
+
+This is all easy for me to say, but it is hard to do, and it requires practice. And it requires trying to identify your unique style of doing it, et cetera, et cetera. But the beautiful part, when you cannot like, do this, and do this with some degree of success, is now all of a sudden you are able to be much more useful, and much more effective, right?
+
+You are able to get more clearly to the thing that matters, right? You are able to help your team members. You are kind of like coaching them through experience around expressing to you the stuff that matters. Right. And then you are able to also give them the independence, and the leeway, to be able to operate on their own versus kind of handling them through all of this.
+
+### Improving the current situation (and gap vs. present thinking) \[01:14:24\]
+
+So, concretely, the common sort of argument I hear is yeah, yeah, things are horrible right now, but it’s because I don’t have a full team. Like I have this four or five head count. Once I get these people, and get them to be productive, things will be better. And guess what happens? You get those four or five engineers on the team, or four or five PMs on the team if you’re a PM manager. Situation is worse, not better. But at that time, it’s like, oh, you know the problem is we are not organized properly. My team should not \[01:15:00\] belong to this organization. It should be in this other part of this organization. And that’s what’s creating the problem for me. You know, so it’s like this, kind of, basically we are on the treadmill forever right?
+
+I’m not discounting the validity of these reasons. What I am suggesting is that regardless of external factors, which we should try to improve, and we should feel high agency towards making the organization better, and improving whatever situation we are in. But we need to also be very cognizant of how I can best manage the current situation I’m in. Versus like, basically I noticed that especially the managers and product managers that tend to get extremely stressed, and let the work affect all parts of their personal lives and whatnot is… they’re constantly looking for the next thing that is outside of them that’s going to fix this issue. And then that results in burnout, that results in frustration when it doesn’t happen. And they don’t pay enough attention to, okay, given this current situation, what do I need to do differently?
+
+**John Cutler:** My friend Jabe Bloom has this interesting thing, which is gap thinking versus present thinking. And he makes the point that standard business school, standard consulting is all about the gap. What’s the current thing? Exactly where do we need to go? How are we going to get across that particular gap?
+
+Like that’s a very tried and true way to think about it. And then he presents this other idea that present thinking is not adverse to thinking ahead. It’s like, what’s going on right now? What do we visualize as the better version of right now? Where do I have agency to act right now? Instead of just the gap, you know, it’s like there and you have to go across it. It’s kind of like little mini gaps, right. But the one part, the one thing you said that really resonates there is, you know, in some ways, as humans by, gap thinking is always a way to also “other” the problem.
+
+It’s the tendency of people to combine gap thinking with fundamental attribution bias, which is like, not only is there a big gap that we need to get across and there’s the perfect plan to get across it. But the road involves other things in the org that have to happen, et cetera, to make it to it.
+
+So I don’t know if that’s, I’ve liked that distinction between gap thinking and present thinking. One thing that’s hard is that a good chunk of modern business is centered around gap thinking. What’s the gap, bring me solutions, not problems, you know, like how are we going to get across the gap all the time? So…
+
+**Shreyas Doshi:** Yeah, that resonates a lot. One other thing I want to share around this topic of PM stress and this constant feeling of inadequacy, and I’m not doing enough to move the product forward, and and my schedule is crazy, and I’m just not able to perform at the level I need to et cetera, et cetera. All of which, by the way, again, a common theme is this was me for the first five PM career. And I used to share all of this with my wife all the time and like, you know, huge kudos to her to just like, listen…
+
+**John Cutler:** She taught you how to listen…
+
+### LNO: Leverage, Neutral, and Overhead Tasks \[01:18:10\]
+
+**Shreyas Doshi:** Exactly. So I think one key thing that was a turning point for me was the understanding of —uh, and I don’t even know where I read it, it was some blog posts that I read and what I’m about to share is a paraphrasing of that, I can’t find the blog post anymore for whatever reason— but it’s what I termed as the LNO framework for PM effectiveness. Which is the observation that there are three kinds of tasks that I tend to do as a PM.
+
+There’s a leverage task, there’s a neutral task, and then there’s an overhead task. The leverage task, you know, as the name suggests, gives greater than what you put in. The neutral task will give you the same. And the overhead tasks will give you less. What most PMs do, and certainly what I did during those highly stressful days of my career as a PM, was I approached every task, any given task in the same way. Which is, oh, I’m going to try to do an awesome job. I was like some, you know, inner perfectionist, et cetera, et cetera. So I would spend a ton of time without understanding whether this is a leverage task, a neutral task, or an overhead task, right?
+
+And, and what’s right for the company you work for– and certainly for your team and very likely for you– is for you to understand that upfront. And then, you know, adjust the amount of energy and the amount of time based on that understanding. And I think what that does is, it certainly did for me, is it means spending more time and exerting more energy on certain things.
+
+Because now you understand that this is a leveraged task. So instead of spending two hours on writing that, you know, completing that PRD, maybe you ought to spend four hours today to do that. Now of course, that extra two hours have to come from somewhere else. So find out \[01:20:00\] what are your neutral tasks or overhead tasks.
+
+And so one example of, you know, usually a neutral, sometimes an overhead task, is you will get some requests for certain reports from finance, like, what’s our 24 month projection for how the product is going to– like how much headcount do you need or whatever. Now, you know, I look at those things and, you know, there’s the perfect way of doing it. And I see all these sometimes PM leaders, especially going to these meetings, and talk about all the analytical stuff of what’s going to happen in September of 2022. And, November of 2023. And people are having all these discussions. Again, it goes back to, oh, we think we, we have certainty around what’s going to happen.
+
+They end up spending a ton of time on all of these things. And, what I typically do is like, again, usually– you know, sometimes it’s an exception– but usually when I get these requests, I get them done in five, 10 minutes. Right.
+
+Like these, these are the assumptions. Here you go. And if you need something more detailed, then please let me know how this is going to materially change, you know, things from a budgeting perspective or something else.
+
+So that’s just an example of where you kind of get back that time. And what I found is that as I started doing more and more of this, and on a tactical level what I would do is I created the to-do list, I would actually prefix the task just as a reminder to myself with L, N, or O .Right?
+
+So when I started doing the task, I was like, okay, this is a leveraged as to how I’m going to approach
+
+### Conclusion \[01:21:23\]
+
+**John Cutler:** I love that. I love ending with something really actionable. And so that’s something that I’m going to do with the rest of my day too. To do these things. But, Shreyas, I wanted to thank you. We could have gone on for hours cause there’s just so much, uh, so many questions I have. And I’m amazed too, about your ability to weave in and out your frameworks too. So you’ve actually inspired me thinking about how to be more actionable in these types of conversations. Because you’ve left people with specific frameworks, but we also went really deep into everything about intentionality, and culture, and stuff. So I really, really appreciate it.
+
+And I’m super grateful for the opportunity to chat with you. And yeah, we’ll stop now. But we should do it again at some point. Maybe people will have questions. Maybe we could do a follow-up like rapid fire, uh, answers to those questions if that would work for you.
+
+**Shreyas Doshi:** Yeah, I would love that this was a blast. You’re right. We could have gone on for hours and this is fun stuff. So thanks for that.
+
+**John Cutler:** I want to leave people with that one thing that Shreyas opened with. We’ve both probably learned the hard way. So when you see us tweeting assume that we’ve made the mistake 55 times, and we’ve had to work through it, context always matters, that would probably be like a footnote on those things. And three, I loved your statement too. You know, if you’re in an unhealthy environment, you know, don’t just assume you can just jump in. I think taking care of yourself, that’s my theme, you know, as the tail end of the pandemic, is that people need to take care of themselves too.
+
+* * *
+
+[![Product Analytics for Dummies](/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl5rq9j6r%2Fproduction%2F60173ae5741a22ad29b2ba339800cebe04c7014e-1200x628.png&w=3840&q=75&dpl=dpl_74MxQQEFfdB3hEKLAbhdR3gvPFRX)](https://info.amplitude.com/Product-Analytics-for-Dummies)
+
+About the author
+
+![John Cutler](/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl5rq9j6r%2Fproduction%2Fcb25c217191e3387bcfdabb1c69fee93d1764572-400x400.jpg%3Fw%3D160%26h%3D160&w=384&q=75&dpl=dpl_74MxQQEFfdB3hEKLAbhdR3gvPFRX)
+
+John Cutler
+
+Former Product Evangelist, Amplitude
+
+[More from John
+
+](https://amplitude.com/blog/author/john-cutler)
+
+John Cutler is a former product evangelist and coach at Amplitude.
+
+[More from John
+
+](https://amplitude.com/blog/author/john-cutler)
+
+Topics
+
+[
+
+Growth
+
+
+
+](https://amplitude.com/blog/tag/growth)[
+
+Product Management
+
+
+
+](https://amplitude.com/blog/tag/product-management)
+
+#### Recommended Reading
+
+[
+
+![article card image](/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl5rq9j6r%2Fproduction%2F667aeb805624697978b5fc2c4880ef6e20a745e0-960x720.jpg%3Frect%3D0%2C2%2C960%2C717%26w%3D570%26h%3D426&w=3840&q=75&dpl=dpl_74MxQQEFfdB3hEKLAbhdR3gvPFRX)
+
+Read 
+
+Company
+
+###### Lookback 2025: Your Year in Amplitude
+
+Jan 7, 2026
+
+4 min read
+
+
+
+
+
+
+
+
+
+](https://amplitude.com/blog/year-in-review-2025)[
+
+![article card image](/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl5rq9j6r%2Fproduction%2F759c139964d6bff05dbe07175ed2483edfec10d5-1920x1440.jpg%3Frect%3D0%2C3%2C1920%2C1435%26w%3D570%26h%3D426&w=3840&q=75&dpl=dpl_74MxQQEFfdB3hEKLAbhdR3gvPFRX)
+
+Read 
+
+Customers
+
+###### AskNicely Cuts Analysis Time by 75% with Amplitude AI
+
+Jan 6, 2026
+
+8 min read
+
+
+
+
+
+
+
+
+
+](https://amplitude.com/blog/asknicely-amplitude-ai)[
+
+![article card image](/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl5rq9j6r%2Fproduction%2Fd0f984fa91e88881b94b53c1de1155193c825c3d-1920x1440.png%3Frect%3D0%2C3%2C1920%2C1435%26w%3D570%26h%3D426&w=3840&q=75&dpl=dpl_74MxQQEFfdB3hEKLAbhdR3gvPFRX)
+
+Read 
+
+Insights
+
+###### The Product Benchmarks Every Travel and Hospitality Company Should Know
+
+Jan 5, 2026
+
+5 min read
+
+
+
+
+
+
+
+
+
+](https://amplitude.com/blog/travel-hospitality-product-benchmarks)[
+
+![article card image](/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl5rq9j6r%2Fproduction%2F39aff8564a0ccb575c971eebb14d3c210da1e5cc-1920x1440.png%3Frect%3D0%2C3%2C1920%2C1435%26w%3D570%26h%3D426&w=3840&q=75&dpl=dpl_74MxQQEFfdB3hEKLAbhdR3gvPFRX)
+
+Read 
+
+Insights
+
+###### The Product Benchmarks Every Healthcare Company Should Know
+
+Dec 29, 2025
+
+5 min read
+
+
+
+
+
+
+
+
+
+](https://amplitude.com/blog/healthcare-product-benchmarks)
+
+#### Explore Related Content
+
+[
+
+Integration
+
+###### Using Behavioral Analytics for Growth with the Amplitude App on HubSpot
+
+Jun 17, 2024
+
+10 min read
+
+
+
+
+
+
+
+](https://amplitude.com/blog/amplitude-hubspot-behavioral-analytics)[
+
+Personalization
+
+###### Identity Resolution: The Secret to a 360-Degree Customer View
+
+Feb 16, 2024
+
+10 min read
+
+
+
+
+
+
+
+](https://amplitude.com/blog/identity-resolution-insights)[
+
+Product
+
+###### Inside Warehouse-native Amplitude: A Technical Deep Dive
+
+Jun 27, 2023
+
+15 min read
+
+
+
+
+
+
+
+](https://amplitude.com/blog/warehouse-native-technical-deep-dive)[
+
+Guide
+
+###### 5 Proven Strategies to Boost Customer Engagement
+
+Jul 12, 2023
+
+
+
+
+
+
+
+](https://amplitude.com/resources/boost-customer-engagement)[
+
+Video
+
+###### Designing High-Impact Experiments
+
+May 13, 2024
+
+
+
+
+
+
+
+](https://amplitude.com/designing-high-impact-experiments)[
+
+Startup
+
+###### 9 Direct-to-consumer Marketing Tactics to Accelerate Ecommerce Growth
+
+Feb 20, 2024
+
+10 min read
+
+
+
+
+
+
+
+](https://amplitude.com/blog/direct-to-consumer-marketing-tactics)[
+
+Growth
+
+###### Leveraging Analytics to Achieve Product-Market Fit
+
+Jul 20, 2023
+
+10 min read
+
+
+
+
+
+
+
+](https://amplitude.com/blog/analytics-product-market-fit)[
+
+Product
+
+###### iFood Serves Up 54% More Checkouts with Error Message Makeover
+
+Oct 7, 2024
+
+9 min read
+
+
+
+
+
+
+
+](https://amplitude.com/blog/ifood-amplitude)

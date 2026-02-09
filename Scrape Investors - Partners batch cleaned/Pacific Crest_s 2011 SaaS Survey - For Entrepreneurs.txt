@@ -1,0 +1,222 @@
+# Pacific Crest's 2011 SaaS Survey
+
+Pacific Crest, an investment banking firm with a strong focus on SaaS, has surveyed a 70 SaaS companies with very interesting results. There is some great data on topics such as growth rates, cost of customer acquisition, churn/retention, expense models, capital efficiency, etc. The full survey, which was put together by David Spitz and his team (follow [@dspitz](https://twitter.com/#!/dspitz) on Twitter), can be found [here](http://www.pacificcrest-news.com/saas/). In this article, I include many of their slides, and the associated Pacific Crest commentary. In a few cases, I add my own commentary prefaced by my initials DRS. I highly recommend downloading the entire survey, and signing up to contribute your own data for the 2012 survey (which can also be done at the same link). I’d like to thank David Spitz of Pacific Crest for giving me permission to reprint their results below.
+
+### Details of the participating companies:
+
+*   70 private SaaS company respondents, participating anonymously and confidentially
+*   Administered to CEOs and CFOs, May-July 2011
+*   69% multi-tenant/single instance
+*   Diverse mix:
+    *   –$0-$60M+ in revenues (~$13M median)(1)
+    *   –25-250+ employees (~120 median)
+    *   –10-2,000+ customers (~480 median)
+    *   –$100s to $MMs median ACV (~$37.5K median)
+    *   –~50% horizontal apps, ~50% vertical apps, infrastructure, etc.
+    *   –Primarily U.S. headquartered
+
+(ACV = Annual Contract Value)
+
+## 2010 Growth Rates Vary by Company Size
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image_thumb.png?resize=610%2C348 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image.png)
+
+As expected, the “law of large numbers” generally applies, with smaller companies generally achieving and expecting higher growth.
+
+## 2010 Growth as a Function of Median Annual Contract Value
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image_thumb1.png?resize=610%2C349 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image1.png)
+
+Although companies with smaller average contract sizes appear to be growing faster, there weren’t enough companies surveyed in those groups to make the results conclusive. Contrary to last year’s results, the mid-sized, $5K-$25K group, does not appear to have a significant advantage
+
+## 2010 Growth as a Function of Sales Strategy
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image_thumb2.png?resize=610%2C357 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image2.png)
+
+Respondents used either predominantly field or insides sales as their main mode of distribution (very few participants used primarily Internet or channel sales). Companies with predominantly inside sales seem to be growing more rapidly, mirroring last year’s results.
+
+## Comparison of Fast Growers vs. Slower Growers
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image_thumb3.png?resize=610%2C171 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image3.png)
+
+Just under half of the “fast growers” sell to primarily enterprises, while two-thirds of the “slower growers” do.
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image_thumb4.png?resize=610%2C166 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image4.png)
+
+There aren’t major differences between the average contract size for the “fast growers” vs. the “slower growers”.
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image_thumb5.png?resize=610%2C194 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image5.png)
+
+Churn rates aren’t that different between the two groups.
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image_thumb6.png?resize=610%2C168 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image6.png)
+
+But customer acquisition costs are distinctly lower for the “fast growers”.
+
+## Primary Mode of Distribution
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image_thumb7.png?resize=610%2C504 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image7.png)
+
+Most participants use Field Sales or Inside Sales as their dominant mode of distribution; a small handful focus primarily on Internet or Channel; and less than 10% have a more even mix. Nonetheless, 31% use Internet for some of their sales and 84% use Channel.
+
+_**DRS**: the fact that more of the respondents are using Field Sales than Inside Sales indicates that there are less of the Sales 2.0 SaaS companies in the mix. I hope to see that change in 2012 as more of the new generation companies that use Inside Sales predominantly contribute their results._
+
+## Dominant Mode of Selling as a Function of Median ACV
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image_thumb8.png?resize=610%2C370 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image8.png)
+
+As expected, companies making larger sales tend to rely more heavily on Field Sales. Nonetheless, Field Sales is still actively used even by companies in the $5K-$25K ACV group.
+
+_**DRS**: See my comment on the slide above. It surprises me that companies with ACV in the $5-25k are using Field Sales. To my mind one of the key benefits of the SaaS model is that it can be tried out so easily by the customer. This eliminates a lot of the complexity in the sales cycle, such as the need for on-site proof-of-concept trials. At this contract size, it is my belief that an Inside Sales team can close these deals as effectively as a Field Sales team. the very nature of Inside Sales teams means they can handle many more calls in a day, and they also cost significantly less.  The net result is a far lower Cost of Customer Acquisition (CAC)._
+
+## CAC: How Much Do You Spend for $1 of New ACV from a New Customer?
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image_thumb9.png?resize=610%2C343 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image9.png)
+
+CAC registered at an impressive $0.93. While up from last year’s $0.73, we believe that the question was more clearly framed this year, and the results more reliable.
+
+## CAC on New / New vs. Upsells vs. Renewals
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image_thumb10.png?resize=576%2C427 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image10.png)
+
+Information on CAC for renewals and upsells is new this year, and the relative cost trends are as expected.
+
+## CAC Spend by Mode of Distribution(1)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image_thumb11.png?resize=610%2C464 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image11.png)
+
+Internet Sales CAC looks extremely attractive. The differential between Field and Inside is distinct, but unclear if statistically significant.
+
+_**DRS**: Not at all surprising that the CAC for Internet Sales is far lower than companies using Field and Inside Sales. However I am very surprised that the CAC for Inside Sales is not significantly lower than for Field Sales. this does not tally with my own research conducted with many visits to SaaS companies. I have written a blog post on this topic here:_ [_How Sales Complexity impacts the CAC_](https://www.forentrepreneurs.com/sales-complexity/)_._
+
+## What Percentage of New ACV is from Upsells to Existing Customers?
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image_thumb12.png?resize=610%2C380 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image12.png)
+
+The ability for SaaS companies to upsell to existing customers has been posited by many as an important criterion for success. With only 19% of new ACV from upsells, the opportunity is still a relatively small portion of most companies’ growth. Interestingly, size and maturity do not seem to influence the analysis.
+
+_**DRS**: for readers that missed it, I covered the importance of upsell in my prior blog post:_ [_Why Churn is SO critical to success in SaaS companies_](https://www.forentrepreneurs.com/why-churn-is-critical-in-saas/)_._
+
+## Professional Services Impact on Go-To-Market
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image_thumb13.png?resize=610%2C377 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image13.png)
+
+Professional Services is a surprisingly small portion of respondents’ solutions, and many companies seem to have P.S. margins well above industry averages.
+
+## Freemium / “Try Before You Buy”
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image_thumb14.png?resize=610%2C302 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image14.png)
+
+Freemium is still relatively rare among the respondents, while “Try Before You Buy” is starting to gain traction.
+
+## Median Cost Structure
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image_thumb15.png?resize=610%2C215 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image15.png)
+
+The median cost structure registered this year was almost identical to last year’s analysis.
+
+## Anticipated Cost Structure at Scale
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image_thumb16.png?resize=370%2C277 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image16.png)
+
+(1)Note: Survey describes scale as “e.g.”, $50 million in revenues or higher.”  
+57 respondents
+
+## Comparison: Historical Results of Selected Public Companies
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image_thumb17.png?resize=610%2C396 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image17.png)
+
+Note that compared to the historical cost structures of now-public SaaS companies, respondents’ expectations are significantly more optimistic.
+
+## Sales & Marketing Spend vs. Projected Growth Rate
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image_thumb18.png?resize=610%2C374 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image18.png)
+
+Trade-offs between growth and margins (in the form of increased sales and marketing spend) are as expected, with a slight aberration at the low end.
+
+## Median Annual Contract Value per Customer
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image_thumb19.png?resize=610%2C368 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image19.png)
+
+As this data suggest, our sample group was a little light on lower cost, SaaS solutions and $1M+ enterprise SaaS.
+
+## Median/Typical Contracts for the Group
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image_thumb20.png?resize=610%2C243 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image20.png)
+
+The median contract length is approximately 1.5 years and roughly 60% bill a year or more in advance.
+
+## Contract Length as a Function of Contract Size
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image_thumb21.png?resize=610%2C374 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image21.png)
+
+The phenomenon of longer contract terms for larger contracts is clear. Interestingly, all respondents with greater than $100K contracts are already into mostly 2-year+ contracts.
+
+## Payment Terms as a Function of Contract Size
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image_thumb22.png?resize=610%2C377 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image22.png)
+
+Results on payment terms are very similar to last year’s, despite expectations that we would see more companies achieving 1-year+ advance payments.
+
+## What is Your Primary Pricing Metric?
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image_thumb23.png?resize=610%2C444 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image23.png)
+
+10% fewer respondents than last year indicated seats as the primary pricing metric, with more respondents now indicating usage, transaction and other variable components as drivers.
+
+DRS: for those interested in this topic, I have written about it here: [Multi-axis Pricing: a key tool for increasing SaaS revenue](https://www.forentrepreneurs.com/multi-axis-pricing-a-key-tool-for-increasing-saas-revenue/).
+
+## Annual Renewal Rates
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image_thumb24.png?resize=610%2C385 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image24.png)
+
+87% annual renewal rates on deals up for renewal should not be mistaken for 13% churn, since many companies have longer term contracts.
+
+## Gross Churn
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image_thumb25.png?resize=610%2C405 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image25.png)
+
+In fact, median churn rates among respondents appear to be very low (again). Only 19 of the 57 respondents had annual gross churn rates over 10% and only 10 had churn rates over 15%.
+
+## Gross Churn as a Function of Contract Length
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image_thumb26.png?resize=610%2C354 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image26.png)
+
+Not surprisingly, shorter-term contracts are more vulnerable to churn. Nonetheless, the effect is greater than we expected.
+
+## Gross Churn as a Function of Contract Size
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image_thumb27.png?resize=610%2C390 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image27.png)
+
+Larger ACV deal sizes typically have longer contracts and lower churn.
+
+## Gross Churn as a Function of Primary Distribution Mode
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image_thumb28.png?resize=610%2C360 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image28.png)
+
+Respondents deploying primarily Field Sales sign larger deals with longer terms, and thus have lower gross churn.
+
+## Net Churn
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image_thumb29.png?resize=610%2C458 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2012/06/image29.png)
+
+Accounting for the benefit of upsells, respondents expect the existing base to grow a median rate of 6% annually.
+
+## What Else is in the Survey
+
+Not included in this article are interesting slides covering:
+
+*   2010’s growth rates & 2011’s projected growth rates
+*   Capital efficiency
+*   Capital raised so far
+*   Revenue and growth rates of companies tabulated against capital raised
+*   Expected investment levels to reach various revenue levels
+*   Additional funding required compared to current ACV
+*   Exit expectations
+*   Acquisition plans
+
+## Summary
+
+As you can tell from the slides I included in this article, the survey covers some really interesting topics. I strongly recommend that you contribute your own data to the next survey so that it will continue to become even more valuable.
+
+Once again, my thanks to David Spitz and Pacific Crest for generously allowing me to reprint the survey here. To download the full survey, or to sign up to contribute your data to the 2012 survey, click [here](http://www.pacificcrest-news.com/saas/). I also recommend following David Spitz on Twitter ([@dspitz](https://twitter.com/#!/dspitz)) to stay in touch with their other findings on SaaS businesses.

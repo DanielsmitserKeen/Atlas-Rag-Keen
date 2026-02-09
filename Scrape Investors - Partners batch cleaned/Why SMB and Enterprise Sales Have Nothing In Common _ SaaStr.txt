@@ -1,0 +1,36 @@
+# Why SMB and Enterprise Sales Have Nothing In Common
+
+> SMB SaaS companies have to be at least twice as efficient in almost every sales & marketing motion as Enterprise ones
+> 
+> Why?
+> 
+> Enterprise ones can sort of coast on weak sales and marketing efficiency with their 120%-140% NRR
+> 
+> — Jason ✨Be Kind✨ Lemkin  ???????? (@jasonlk) [April 13, 2022](https://twitter.com/jasonlk/status/1514255343999590403?ref_src=twsrc%5Etfw)
+
+When you go to hire a VP of Sales or even your first sales rep, one of the top qualifying questions I always recommend asking is if they have experience at your deal size, at your ACV (Annual Contract Value).
+
+There are _very_ different cadences, and different skills, in closing $100 vs $1,000 vs $10,000 vs $100,000 vs $1,000,000 deals.  Very different.
+
+There’s obviously a spectrum here, and closing a $100k deal and a $1m deal are more similar than deal sizes another stage away.  And sales professionals certainly can learn skills and go up (and perhaps even down) a deal size in sales.
+
+But moving up or down more than one deal size “bracket” is tough.
+
+Let’s break down, for example, what SMB sales at low price points typically is, and indeed needs to be, to scale:
+
+*   **SMB SaaS companies are overloaded with “leads.”**  They often have so many that they cannot follow up with all of them.  In fact, at the lowest end, reps often have to call 50 customers back a day.  It’s the old 50 cold calls, inverted.  AEs have to talk to 50 customers a day to hit their quota.  That’s nothing like enterprise sales. 🙂  Most SMB SaaS companies I’m working with, after $2m-$3m in ARR, leads aren’t the issue.  SQLs may be, but really it becomes an efficiency, capacity, and closing ratio game.  The key is closing as many leads as possible, as quickly as possible.  At EchoSign, we gave 150 qualified leads a month to our SMB reps ($99/month product).  We could have given them more.  We had thousands of qualified SMB leads a month, even by just a few million in ARR.
+
+![](https://i0.wp.com/www.saastr.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-07-at-2.54.42-PM.jpg?resize=839%2C503&quality=70&ssl=1)
+
+*   **SMB sales reps have to be hyper-efficient.** Again, to do 50 customer calls a day requires an efficiency you just don’t need with a 1 or 2 Demos a Day AE selling $50k deals, or a 1-2 demos a week cadence for a field AE trying to close a $500k-$1m deal.
+*   **SMB sales reps often get no more than 2 touches to close a deal, 3 max**.  There just isn’t enough time otherwise.
+*   **SMB reps will drop any deal that is remotely hard to close**.  You sort of have to.
+*   **SMB reps don’t need to learn to sell to power, map out who the stakeholders in a purchase are, or learn other solution sale skills**.  You just sell to whoever picks up the phone, gets on Intercom, or sends in the SMS or email.
+
+These 5 key elements to SMB sales are, of course, nothing at all like enterprise sales. 🙂
+
+So just realize when you, for example, hire that super-driven SMB rep to do much bigger deal size sales — or vice-versa — you are taking a large risk.  No matter how much you like them, or how smart they are, or their innate charisma, or even their innate selling skills, they just may not have the precise skillset for your deal size.  At least not yet.
+
+At a minimum, you gotta help them a lot if they haven’t sold and closed at your core price point.  If you are going to take this risk, make sure they have a boss who has done it before.  She’ll spot the weaknesses and limitations, and backfill them.  But if that boss is you and you haven’t really done it before — this is probably too risky a hire to make, for now
+
+(note: an updated SaaStr Classic post)

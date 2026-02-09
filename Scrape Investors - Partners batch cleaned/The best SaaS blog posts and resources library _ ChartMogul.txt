@@ -1,0 +1,808 @@
+# The best SaaS blog posts and resources library
+
+For years we have been reading and hand-picking the best SaaS blog posts to share with 24K+ [SaaS Roundup](https://chartmogul.com/resources/saas-roundup/) subscribers. In the process, we’ve selected the creme de la creme of all the content we’ve shared in the Roundup.
+
+Subscriber or not, anyone who wants to increase their SaaS knowledge will benefit by reading the curated posts below. These materials will take you from the basics [SaaS Metrics — 101](https://chartmogul.com/blog/best-saas-blogs/#101) to more advanced topics like [Go-To-Market](https://chartmogul.com/blog/best-saas-blogs/#gtm) and [Product-Led Growth (PLG)](https://chartmogul.com/blog/best-saas-blogs/#plg). Feel free to jump into whichever sections suite your knowledge and experience—this is a library for everyone.
+
+**The library encompasses hours and hours of reading, listening, and viewing material. Please, use it as a reference tool and don’t try to get it all in one sitting!**
+
+ps. Keep an eye out as we will be making regular updates.
+
+Use this index to quickly navigate sections:
+
+*   [SaaS Metrics — 101](https://chartmogul.com/blog/best-saas-blogs/#101)
+*   [SaaS Metrics — 201](https://chartmogul.com/blog/best-saas-blogs/#201)
+*   [Financial Planning & Analysis (FP&A)](https://chartmogul.com/blog/best-saas-blogs/#fpa)
+*   [Investor Reporting](https://chartmogul.com/blog/best-saas-blogs/#IR)
+*   [Fundraising](https://chartmogul.com/blog/best-saas-blogs/#fund)
+*   [Strategy Development](https://chartmogul.com/blog/best-saas-blogs/#strat)
+*   [Go-To-Market](https://chartmogul.com/blog/best-saas-blogs/#gtm)
+*   [Modern Data Stack](https://chartmogul.com/blog/best-saas-blogs/#mds)
+*   [Customer Success and Onboarding](https://chartmogul.com/blog/best-saas-blogs/#cs)
+*   [Sales](https://chartmogul.com/blog/best-saas-blogs/#sales)
+*   [Product-Led Growth (PLG)](https://chartmogul.com/blog/best-saas-blogs/#plg)
+*   [Product](https://chartmogul.com/blog/best-saas-blogs/#prod)
+*   [Pricing](https://chartmogul.com/blog/best-saas-blogs/#price)
+
+* * *
+
+## SaaS Metrics — 101
+
+The terms and metrics used to describe SaaS business performance can often get confusing. Here is a comprehensive list of SaaS blogs that goes through the most common metrics and terms.
+
+### [The SaaS Metrics That Matter](https://sacks.substack.com/p/the-saas-metrics-that-matter?utm_source=SaaS+Roundup+by+ChartMogul&utm_campaign=17c2357c8a-SaaS_Roundup_351&utm_medium=email&utm_term=0_985dd3c6ea-17c2357c8a-)
+
+by David Sacks, Ethan Ruby
+
+> One of the best features of SaaS businesses is how easy they are to measure. Only a handful of metrics really matter.
+
+[![](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-2-1024x842.png)](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-2.png)
+
+[Source](https://sacks.substack.com/p/the-saas-metrics-that-matter?utm_source=SaaS+Roundup+by+ChartMogul&utm_campaign=17c2357c8a-SaaS_Roundup_351&utm_medium=email&utm_term=0_985dd3c6ea-17c2357c8a-)
+
+### [16 Startup Metrics](https://a16z.com/2015/08/21/16-metrics/?utm_source=SaaS+Roundup+by+ChartMogul&utm_campaign=f3885e0ab8-SaaS_Roundup_345&utm_medium=email&utm_term=0_985dd3c6ea-f3885e0ab8-) 
+
+by Jeff Jordan, Anu Hariharan, Frank Chen, and Preethi Kasireddy, a16z
+
+> We have the privilege of meeting with thousands of entrepreneurs every year, and in the course of those discussions are presented with all kinds of numbers, measures, and metrics that illustrate the promise and health of a particular company.
+
+### [5 Core Startup Metrics](https://www.youtube.com/watch?v=RoFzvfP4NEE)
+
+by NFX
+
+### [The SaaS Glossary: A Guide to Understanding Key SaaS Metrics](http://email.chartmogul.com/e/c/eyJlIjoxMjU0MTIsImVtYWlsX2lkIjoiZXhhbXBsZSIsImhyZWYiOiJodHRwczovL3d3dy5pY29uaXFjYXBpdGFsLmNvbS9ncm93dGgvaW5zaWdodHMvdGhlLXNhYXMtZ2xvc3NhcnkiLCJ0IjoxNjgwMTc3ODUyfQ/fc74adb82e97bfa2b34d2db2ae62d8366f29f5203c67a77c013aa7f27a9f48f3)
+
+by Vivian Guo, Iconiq Capital
+
+> One of the best ways to measure the health of your business is to look at what happened with new customers (new logo ARR), your install base (expansion, churn rate), and the sum of all the above (net new ARR) on both a quarterly and annual basis.
+
+### [The Top Metrics for Vertical SaaS Companies](https://www.mostlymetrics.com/p/the-top-metrics-for-vertical-saas)
+
+by CJ Gustafson, Mostly Metrics
+
+> You can’t be everything to everyone. I’ve tried – just ask my in laws.
+> 
+> In all seriousness though, that’s kinda what Horizontal SaaS promises (or tries) to be. You can think of Horizontal SaaS as broad-based tech that is industry agnostic; a sales person at a Cybersecurity company can use HubSpot the same way a sales person at a Health Supplements company might use it. It literally tries to make all industries happy.
+
+### [The SaaS Business Model & Metrics: Understand the Key Drivers for Success](https://www.youtube.com/watch?v=5RR6M_d6eKc)
+
+by David Skok, Matrix Partners
+
+* * *
+
+## **SaaS Metrics — 201**
+
+A slightly deeper dive into SaaS industry metrics. You might want to review the 101 section above before diving in. But if you’re in the know—jump in!
+
+### [5 Reasons I Hate the Rule of 40](https://saasiest.com/5-reasons-i-hate-the-rule-of-40/?utm_source=SaaS+Roundup+by+ChartMogul&utm_campaign=041e7e8f06-SaaS_Roundup_348&utm_medium=email&utm_term=0_985dd3c6ea-041e7e8f06-562078036)
+
+by Mikael Johnsson, SaaS Nordic
+
+> While not necessarily completely useless, I would strongly argue that R40 is a metric applicable to the world of PE and public markets investing and is not a good metric for assessing the quality of venture-stage companies.
+
+### [No Wait, of Course That Is the Single Most Important SaaS Metric](https://blog.asmartbear.com/important-saas-metric.html)
+
+by Jason Cohen, A Smart Bear
+
+> The purpose of a metric is to be a tool in service of your goals, timeline, size, circumstance, even philosophy, not as a master you are thoughtlessly obligated to obey.
+
+### [SaaS Metrics Reporting: A Peek Behind The Curtain](https://dataanalysis.substack.com/p/saas-metrics-reporting-a-peek-behind?utm_source=SaaS+Roundup+by+ChartMogul&utm_campaign=d6c70634a7-SaaS_Roundup_349&utm_medium=email&utm_term=0_985dd3c6ea-d6c70634a7-)
+
+by Olga Berezovsky
+
+> I’ll walk you behind the curtain of reporting to illustrate  how both easy and challenging it can be to create a true story of the business’s health and growth. 
+
+[![](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-3-1024x416.png)](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-3.png)
+
+[Source](https://dataanalysis.substack.com/p/saas-metrics-reporting-a-peek-behind)
+
+### [From Mice to Whales – 5 Ways to Build a $100 Million SaaS Company](https://youtu.be/mFQ03tknhg8?si=HGtg1uzIjsmnDMW9)
+
+by Christoph Janz, Point Nine Capital 
+
+### [Your Guide to SaaS Product Metrics](https://www.growthunhinged.com/p/your-guide-to-saas-product-metrics)
+
+by Kyle Poyar, OpenView Partners
+
+> *   **How do you compare?** Benchmarks across the PLG user journey
+> *   **The hardest part of PLG might actually be… marketing?!**
+> *   **Forget about Threads.** What’s your TikTok strategy?
+> *   **Reverse trials:** We’re talking about them more than we’re doing them
+> *   **Activation:** One of the most misunderstood metrics in SaaS
+
+### [The P9 Guide to Cohort Analysis](https://medium.com/point-nine-news/the-p9-guide-to-cohort-analysis-in-saas-v0-9-63ce366ab427)
+
+by Christoph Janz, Point Nine Capital
+
+> …everyone is now aware of cohort analyses, and every major web, product, or revenue analytics product offers features for cohort analysis, it still requires time to fully comprehend everything you need to know about cohort analyses and, perhaps more importantly, to utilize them to obtain real, actionable insights.
+
+[![](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-4-1024x331.png)](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-4.png)
+
+[Source](https://medium.com/point-nine-news/the-p9-guide-to-cohort-analysis-in-saas-v0-9-63ce366ab427)
+
+### [SaaS Metrics 2.0: The Case For Next Era Metrics Playbook](https://openviewpartners.com/blog/saas-metrics-2-0-the-case-for-next-era-metrics-playbook/)
+
+by Kyle Poyar, OpenView Partners
+
+> Here’s the thing: the traditional SaaS metrics playbook can be extremely misleading when it comes to managing a PLG, vertical SaaS, or usage-based software business. (AKA, it’s misleading for the majority of new software businesses being founded today.)
+
+* * *
+
+## **SaaS Financial Planning & Analysis** (FP&A)
+
+Financial planning and analysis is a multi-faceted subject that can make or break a SaaS business. We’ve gathered several blog posts on the topic. Happy reading!
+
+### [How To Trick Investors & VCs](https://www.onlycfo.io/p/how-to-trick-investors-and-vcs?r=q9cha&utm_campaign=post&utm_medium=web)
+
+by Only CFO
+
+> The purpose of this post is not to educate you on how to commit/detect fraud, but to help you understand some of the accounting/finance nuances that might deceive investors.
+
+### [How CFOs Think About Software Spend](https://www.mostlymetrics.com/p/how-cfos-think-about-software-spend)
+
+by CJ Gustafson, Mostly Metrics
+
+> What I can attest to is that there’s a business case behind why we need each tool, supported by an executive who is directly accountable for results. We trust leaders to make decisions on what tools they need to get the most out of their teams.
+
+### [Guide to SaaS Revenue Recognition and Deferred Revenue in SaaS](https://www.thesaascfo.com/deferred-revenue-saas/?utm_source=SaaS+Roundup+by+ChartMogul&utm_campaign=826a10955d-SaaS_Roundup_340&utm_medium=email&utm_term=0_985dd3c6ea-826a10955d-)
+
+by Ben Murray, The SaaS CFO
+
+> SaaS revenue recognition is an ongoing priority for SaaS accounting teams. Software subscriptions are the life of every SaaS business and must be accounted for properly in your general ledger.
+> 
+> However, most SaaS companies I have spoken with are incorrectly recording their most important revenue stream. That is SaaS subscription revenue and the corresponding deferred revenue balance.
+
+[![](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-5.png)](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-5.png)
+
+[Source](https://www.thesaascfo.com/deferred-revenue-saas)
+
+### [From $10M to $100M+ ARR: Five CFO Learnings](https://openviewpartners.com/blog/from-10m-to-100m-arr-five-cfo-learnings/)
+
+by Mark Khavkin, Pantheon
+
+> I joined Pantheon, the leading SaaS website operations (WebOps) platform, in early 2017 as the company demonstrated its product-market fit (PMF). With the benefit of hindsight, below are my five key lessons that I hope could help someone scale the next SaaS unicorn (I have a lot more to learn myself):
+
+### [How to Read Income Statements – Software Edition](https://www.onlycfo.io/p/how-to-read-income-statements-software?r=q9cha&utm_campaign=post&utm_medium=web)
+
+by OnlyCFO’s Software World
+
+> Every investor, company leader, and aspiring leader should understand how to read an income statement (aka profit & loss or P&L). The income statement is a window into the performance of a company over a specific period of time by reporting on a company’s revenue and expenses.
+
+### [SaaS Forecasting 101](https://www.bvp.com/atlas/forecasting-101/)
+
+by Bessemer Venture Partners
+
+> Whether you’re thinking about expanding into a new geography, launching a new product line, or trying to ensure you’re on track toward your [profit target](https://www.bvp.com/atlas/how-cfos-build-a-just-right-budget), forecasting the next month, quarter, and year can make new terrain can make an unknown horizon feel more certain.
+
+[![](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-6-1024x576.png)](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-6.png)
+
+[Source](https://www.bvp.com/atlas/forecasting-101/)
+
+### [How to Hire a CFO and Build a Finance Team](https://www.bvp.com/atlas/how-to-hire-a-cfo-and-build-a-finance-team/)
+
+by Bessemer Venture Partners
+
+> No startup founder achieves success and growth alone—finance leaders play a mission-critical role in laying the infrastructure for a startup’s growth trajectory and help businesses weather all economic climates.
+> 
+> Seasoned chief financial officers (CFOs) help a business ramp toward IPO, optimize treasury management, and even navigate major external crises, as we’ve seen with recent collapse of Silicon Valley Bank. But it’s not always clear when and how to find the right finance leader. 
+
+* * *
+
+## ******SaaS Business Investor Reporting******
+
+Investor reporting is especially important for SaaS founders. The blog posts below lay out the fundamentals for making financial presentations within the SaaS industry.
+
+### [The SaaS Board Meeting](https://sacks.substack.com/p/the-saas-board-meeting)
+
+by David Sacks, Craft Ventures
+
+> Soon after a startup raises its Series A round, it begins to have board meetings for the first time, and I’m often asked what the agenda and format should be. This post describes my recommendations for SaaS board meetings.
+> 
+> To make things easier, you can use this [board deck template](https://quaestor.com/board-deck/david-sacks-saas-board-deck/) that my team and I developed with [Quaestor](https://quaestor.com/).
+
+[![](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-7-1024x484.png)](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-7.png)
+
+[Source](https://sacks.substack.com/p/the-saas-board-meeting)
+
+### [The Five Must-Have Board Slides for Sales/Revenue Leaders](https://www.battery.com/blog/the-five-must-have-board-slides/)
+
+by Bill Binch, Battery Ventures
+
+> As a revenue leader at large and small technology companies, I’ve spent the last 15 years of my career attending a LOT of quarterly board meetings. These meetings—once-a-quarter events that take countless hours to prepare for—can create a lot of stress. 
+> 
+> The prep and the practice can be draining and, more importantly, distracting from your daily grind. This is all necessary because the board meeting is such a high-stakes event. As a wise mentor once told me, no one ever gets a promotion from a board meeting—but people sure do get fired afterwards.
+
+### [How to Present an Operating Plan to your Board](https://kellblog.com/2022/11/23/how-to-present-an-operating-plan-to-your-board/?utm_source=SaaS+Roundup+by+ChartMogul&utm_campaign=f3885e0ab8-SaaS_Roundup_345&utm_medium=email&utm_term=0_985dd3c6ea-f3885e0ab8-)
+
+by Dave Kellogg
+
+> Finance types on the board might view these as simple canapes served before the meal.  I view them as critical strategic context. 
+> 
+> But, either way, the one thing on which everyone can agree is that the numbers are always the main course. Thus, in this post, I’m going to focus on how to best present the numbers in an annual operating plan.
+
+### [Investor Updates in Tough Times: A Guide for Founders](https://www.nfx.com/post/investor-updates-tough-times)
+
+by NFX Team
+
+> Your communication style, especially during challenging times, says a lot about what kind of leader you are out on the battlefield – and your investor updates will be a leading indicator of your success.
+
+* * *
+
+## **SaaS Fundraising**
+
+For most SaaS startups fundraising is a crucial step for accelerating growth. Here is a collection of the best SaaS blogs covering SaaS company fundraising.
+
+### [Deconstructing VCs’ Decision Making Frameworks](https://medium.com/point-nine-news/deconstructing-vcs-decision-making-frameworks-70fa12058145)
+
+by Louis Coppey, Point Nine
+
+> Most of our daily job as VCs consists of identifying these uncertainties and spending time on trying to build a strong enough conviction on what the distribution of outcomes might look like. Why? Because this drives investment decisions.
+
+[![](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-8.png)](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-8.png)
+
+[Source](https://medium.com/point-nine-news/deconstructing-vcs-decision-making-frameworks-70fa12058145)
+
+### [A Framework and Benchmarks To Assess Revenue Quality](https://www.speedinvest.com/blog/annual-recurring-revenue-a-new-framework-to-assess-quality-of-revenue)
+
+by Frederik Hagenauer, Speedinvest
+
+> The following is supposed to be a quick outline of factors that a VC may look at to assess your traction. It’s also helpful to understand internally for steering your company.
+> 
+> Please be aware that there is a trade-off. The more quantitative a measure is, the more comparable it is. At the same time, the more likely it is that a quantitative measure will overlook something in the aggregate.
+
+### [How Much Dilution Is “Normal”?](https://www.mostlymetrics.com/p/how-much-dilution-is-normal?utm_source=SaaS+Roundup+by+ChartMogul&utm_campaign=ba927cc783-SaaS_Roundup_350&utm_medium=email&utm_term=0_985dd3c6ea-ba927cc783-)
+
+by CJ Gustafson, Mostly Metrics
+
+> Dilution is one of the most misunderstood concepts in startup land. But many employees are afraid to ask for a simple explanation.
+
+### [How to Raise Venture Capital with Poor Customer Retention](https://www.stage2.capital/blog/how-to-raise-venture-capital-with-poor-customer-retention)
+
+by Mark Roberge, Stage 2 Capital
+
+> However, if a startup’s customer retention is off the mark, even significantly, they can still position the company as an attractive investment. This article outlines the strategy, execution details, and resulting investor narrative needed to do so.
+
+[![](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-9.png)](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-9.png)
+
+[Source](https://www.stage2.capital/blog/how-to-raise-venture-capital-with-poor-customer-retention)
+
+### [How Much to Raise in Your First Round?](https://www.antler.co/blog/ability-to-raise-cheat-sheet-a-guide-for-founders-on-how-much-to-raise-in-their-first-round)
+
+by Alan Poensgen, Antler VC
+
+> Since we are usually the very first investors, we discuss this a lot with our founders. So, I have come up with a simplified framework to give some directional guidance.
+> 
+> The framework is most certainly not scientific and you will find exceptions all over the place, but I believe it is directionally right for the Berlin Ecosystem in 2023. So let’s dig into it.
+
+### [How to Sell Your Startup: The Complete Guide to Running an M&A Process as a Founder](https://review.firstround.com/how-to-sell-your-startup-the-complete-guide-to-running-an-manda-process-as-a-founder)
+
+by First Round Capital
+
+> In this exclusive interview, Debow opens up his playbook for running an M&A process at a startup. Debow covers tactics founders can use to settle on the right price for their startup, concrete tips for building sturdy business relationships and analyzes the psychology of a buyer at a larger company.  
+
+* * *
+
+## **SaaS Strategy Development**
+
+SaaS entrepreneurs know the importance of nailing down a business strategy, but also staying agile when the time calls. These blogs cover many important aspects of strategy development in the SaaS industry.
+
+### [Modern Software Moats: 7 Powers and Defensibility in the Software Era](http://email.chartmogul.com/e/c/eyJlIjoxMjU0MTIsImVtYWlsX2lkIjoiZXhhbXBsZSIsImhyZWYiOiJodHRwczovL25hbmR1LnN1YnN0YWNrLmNvbS9wL21vZGVybi1zb2Z0d2FyZS1tb2F0cyIsInQiOjE2ODAxNzc4NTJ9/4c8c2215767b0199e3a87a8201a9c1c7b5563134885cfcdc47dca44fd173c649)
+
+by Nandu Anilal
+
+> For the unindoctrinated, Hamilton’s book describes the 7 ways in which a business can create durable competitive positions over time. While these principles are generalized, the examples lean heavily towards consumer (social networks, marketplaces, goods) or mature, static industries (airlines, railroads).
+> 
+> The purpose of this piece of writing is to extend the 7 Powers framework to examples from modern b2b and software-centric businesses. 
+
+### [Defensibility, Competition & Moats in SaaS](https://blog.eladgil.com/p/defensibility-and-competition)
+
+by Elad Gil
+
+> In this post I argue most SaaS software starts off default non-defensible (hence all the HackerNews [posts](https://news.ycombinator.com/item?id=9224) & Reddit threads saying as much), and tend to build a moat over time. In parallel this post delves into different forms of moats as well as competition more generally.
+
+### [How to Figure Out Your Competitors’ Revenues in About 70 Seconds](https://www.saastr.com/how-to-figure-out-your-competitors-revenues-in-about-70-seconds/?utm_source=SaaS+Roundup+by+ChartMogul&utm_campaign=ba927cc783-SaaS_Roundup_350&utm_medium=email&utm_term=0_985dd3c6ea-ba927cc783-)
+
+by Jason Lemkin, SaaStr
+
+> A friend of mine who heads business intelligence at a public web company taught me a little hack that does seem to work pretty well to figure out the revenues of any pre-public SaaS/web services company.
+
+[![](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-10.png)](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-10.png)
+
+[Source](https://www.saastr.com/how-to-figure-out-your-competitors-revenues-in-about-70-seconds/)
+
+### [How to Build a Successful Consumer Subscription Business](http://email.chartmogul.com/e/c/eyJlIjoxMjU0MTIsImVtYWlsX2lkIjoiZXhhbXBsZSIsImhyZWYiOiJodHRwczovL2V2ZXJ5LnRvL3AvaG93LXRvLWJ1aWxkLWEtc3VjY2Vzc2Z1bC1jb25zdW1lci1zdWJzY3JpcHRpb24tYnVzaW5lc3M_cmVmPXNhYXMtcm91bmR1cC1ieS1jaGFydG1vZ3VsXHUwMDI2dXRtX2NhbXBhaWduPVNhYVMrUm91bmR1cCslMjMzNzdcdTAwMjZ1dG1fbWVkaXVtPWVtYWlsXHUwMDI2dXRtX3NvdXJjZT1jdXN0b21lcmlvIiwidCI6MTY5NDQ1MzExMn0/88e15fbdfb5da52fe9042bf47f11cd6b9dc30141f3758bb09992966839da6c13)
+
+by Casey Winters
+
+> I was the chief product officer at Eventbrite, a business that launched its first B2B subscription product a couple years ago. I’m also a board member of [Beek](https://beek.io/), a B2C subscription audiobook company, and I’ve advised many companies across both models.
+> 
+> So I’ve had to confront their differences many times firsthand. I’ll dig into the reasons for the disparity in their performance, and then explain how to produce superior returns in the consumer subscription category.
+
+### [HubSpot Case Study by Meritech Capital](http://email.chartmogul.com/e/c/eyJlIjoxMjU0MTIsImVtYWlsX2lkIjoiZXhhbXBsZSIsImhyZWYiOiJodHRwczovL2RyaXZlLmdvb2dsZS5jb20vZmlsZS9kLzFWTVgzNTU4Q0F3d05ZVVZlNkYySm5yVnRGLWlNZ21CRS92aWV3P3V0bV9jYW1wYWlnbj1TYWFTK1JvdW5kdXArJTIzMzc0XHUwMDI2dXRtX21lZGl1bT1lbWFpbFx1MDAyNnV0bV9zb3VyY2U9Y3VzdG9tZXJpbyIsInQiOjE2OTQ0NTMyODZ9/36718cf9a1492a97d4741c8dd3ee4f7592a0e69a58e00f25cd5c4105da2eb7f1)
+
+by Meritech
+
+> Almost 10 years later, HubSpot is a $1.9B ARR business (40% revenue CAGR since IPO) with a $21.5B market cap that has executed on a multi-product strategy to become a true platform with almost 170,000 customers.
+
+### [8 Initiatives To Increase Efficiency in an Economic Downturn](http://email.chartmogul.com/e/c/eyJlbWFpbF9pZCI6ImRnVGswd2NEQUxHZ0JiQ2dCUUdHNzM3VVRvQW94aktNbV9zd2taOD0iLCJocmVmIjoiaHR0cHM6Ly95b3V0dS5iZS85c210Wkl4TFR3WSIsImludGVybmFsIjoiZTRkMzA3MDJkMGNiMDFiMWEwMDUiLCJsaW5rX2lkIjo4MH0/8b78ffd22402cb55f92d2153ee3006b527aa5f2859d3626da969ee1ba8e7dbfd)
+
+by Michael Robinson, Craft Ventures
+
+### [A Total Addressable Market (TAM) Masterclass](http://email.chartmogul.com/e/c/eyJlIjoxMjU0MTIsImVtYWlsX2lkIjoiZXhhbXBsZSIsImhyZWYiOiJodHRwczovL3d3dy5tb3N0bHltZXRyaWNzLmNvbS9wL2EtdG90YWwtYWRkcmVzc2FibGUtbWFya2V0LW1hc3RlcmNsYXNzLz9yZWY9c2Fhcy1yb3VuZHVwLWJ5LWNoYXJ0bW9ndWxcdTAwMjZ1dG1fY2FtcGFpZ249U2FhUytSb3VuZHVwKyUyMzM3MVx1MDAyNnV0bV9tZWRpdW09ZW1haWxcdTAwMjZ1dG1fc291cmNlPWN1c3RvbWVyaW8iLCJ0IjoxNjk0NDUzNTg4fQ/dddb4594b8909177cfee51b9797ff973cffbec929b693635b77db204f0bde50a)
+
+Interviewing Sebastian Duesterhoeft, Partner at Lightspeed Venture Partners
+
+> Total Addressable Market is something you can’t unsee once you see it. It changes the way you assess the world around you. To the chagrin of my wife, I can’t visit a bakery without doing the back-of-the-envelope TAM on blueberry muffin sales in the greater Boston area.
+
+### [The Only Thing That Matters for a New Startup](http://email.chartmogul.com/e/c/eyJlIjoxMjU0MTIsImVtYWlsX2lkIjoiZXhhbXBsZSIsImhyZWYiOiJodHRwczovL3BtYXJjaGl2ZS5jb20vZ3VpZGVfdG9fc3RhcnR1cHNfcGFydDQuaHRtbD91dG1fY2FtcGFpZ249U2FhUytSb3VuZHVwKyUyMzM2Mlx1MDAyNnV0bV9tZWRpdW09ZW1haWxcdTAwMjZ1dG1fc291cmNlPWN1c3RvbWVyaW8iLCJ0IjoxNjk0NDU0MTMwfQ/1d4e0ad40102b07d7545cafbb637d16052ba8e0db9b3805d92dcb6ae58ad4c15)
+
+by Marc Andreessen
+
+> And so you start to wonder—what correlates the most to success—team, product, or market? Or, more bluntly, what causes success? And, for those of us who are students of startup failure—what’s most dangerous: a bad team, a weak product, or a poor market?
+
+### [Who Owns “Growth”? It’s Complicated](http://email.chartmogul.com/e/c/eyJlIjoxMjU0MTIsImVtYWlsX2lkIjoiZXhhbXBsZSIsImhyZWYiOiJodHRwczovL3d3dy5ncm93dGh1bmhpbmdlZC5jb20vcC93aG8tb3ducy1ncm93dGgtaXRzLWNvbXBsaWNhdGVkP3JlZj1zYWFzLXJvdW5kdXAtYnktY2hhcnRtb2d1bFx1MDAyNnV0bV9jYW1wYWlnbj1TYWFTK1JvdW5kdXArJTIzMzgzXHUwMDI2dXRtX21lZGl1bT1lbWFpbFx1MDAyNnV0bV9zb3VyY2U9Y3VzdG9tZXJpbyIsInQiOjE2OTQ0NTI3NTB9/dc75584eef68a0fd6c69fee32d32133fa46e18b48b36845145425ca92a322267)
+
+by Kyle Polar
+
+> Rather than simply opine, I wanted to investigate what the data had to say. I combed through the OpenView and Pendo Product Benchmarks report, which featured survey data from 1,000+ companies ranging from pre-revenue to $50M+ ARR.
+
+[![](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-11.png)](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-11.png)
+
+[Source](https://www.growthunhinged.com/p/who-owns-growth-its-complicated?ref=saas-roundup-by-chartmogul&utm_campaign=SaaS+Roundup+%23383&utm_medium=email&utm_source=customerio)
+
+### [Expanding Your SaaS Business to the US](http://email.chartmogul.com/e/c/eyJlIjoxMjU0MTIsImVtYWlsX2lkIjoiZXhhbXBsZSIsImhyZWYiOiJodHRwczovL3d3dy5pbmRleHZlbnR1cmVzLmNvbS91cy1leHBhbnNpb24vP3JlZj1zYWFzLXJvdW5kdXAtYnktY2hhcnRtb2d1bFx1MDAyNnV0bV9jYW1wYWlnbj1TYWFTK1JvdW5kdXArJTIzMzgyXHUwMDI2dXRtX21lZGl1bT1lbWFpbFx1MDAyNnV0bV9zb3VyY2U9Y3VzdG9tZXJpbyIsInQiOjE2OTQ0NTI4MTR9/57b2f7fb335ef0fed0ab08673465a647b4d620ebad7e333c48e4a63c2b874233)
+
+by Index Ventures
+
+> Transforming into a global tech player by making it in the hyper-competitive US environment is a daunting challenge. This guide has been written to help you.
+> 
+> We provide frameworks you can use to plan and execute the right combination of strategic, tactical and practical moves. We aim to help you understand what you need to do, when you need to do it, and how to do it, in order to win in the US.
+
+### [Why SaaS Is Like Walmart](http://email.chartmogul.com/e/c/eyJlIjoxMjU0MTIsImVtYWlsX2lkIjoiZXhhbXBsZSIsImhyZWYiOiJodHRwczovL3d3dy5oZWxsZXJocy5jb20vcG9zdC93aHktc2Fhcy1pcy1saWtlLXdhbG1hcnQvP3JlZj1zYWFzLXJvdW5kdXAtYnktY2hhcnRtb2d1bFx1MDAyNnV0bV9jYW1wYWlnbj1TYWFTK1JvdW5kdXArJTIzMzc1XHUwMDI2dXRtX21lZGl1bT1lbWFpbFx1MDAyNnV0bV9zb3VyY2U9Y3VzdG9tZXJpbyIsInQiOjE2OTQ0NTMyMjJ9/4b9b82eb2d995c22ad0d2fcd9f1d533a2f50d618e96a64c82bb77f881dcbcf71)
+
+by Heller House
+
+Listen to the episode or read the summary [here](https://www.hellerhs.com/post/why-saas-is-like-walmart).
+
+### [Being First to Market Means Nothing](http://email.chartmogul.com/e/c/eyJlIjoxMjU0MTIsImVtYWlsX2lkIjoiZXhhbXBsZSIsImhyZWYiOiJodHRwczovL2Jsb3Nzb21zdHJlZXR2ZW50dXJlcy5tZWRpdW0uY29tL2JlaW5nLWZpcnN0LXRvLW1hcmtldC1tZWFucy1ub3RoaW5nLTRhMWRjMzUzZGVkMC8_cmVmPXNhYXMtcm91bmR1cC1ieS1jaGFydG1vZ3VsXHUwMDI2dXRtX2NhbXBhaWduPVNhYVMrUm91bmR1cCslMjMzNzBcdTAwMjZ1dG1fbWVkaXVtPWVtYWlsXHUwMDI2dXRtX3NvdXJjZT1jdXN0b21lcmlvIiwidCI6MTY5NDQ1MzY0NX0/6168c11a3377bd318fe29e2d96481697fccee8d2294854a754f7557650bafa7c)
+
+by Sammy Abdullah
+
+> There are countless examples of ‘first to market’ not being a sustainable competitive advantage. Comparing the 2018 public offering of Spotify to Pandora’s original IPO in 2011 is a major example.
+
+* * *
+
+## **SaaS Management**
+
+Hear it firsthand from SaaS founders! Real-world accounts of wins, losses, and strategies in Saas business.
+
+### [100 Mistakes I’ve Made Building a SaaS Company](http://email.chartmogul.com/e/c/eyJlIjoxMjU0MTIsImVtYWlsX2lkIjoiZXhhbXBsZSIsImhyZWYiOiJodHRwczovL2RvY3MuZ29vZ2xlLmNvbS9wcmVzZW50YXRpb24vZC8xSzUwZ0d1TjRhTEV4dmNJMEVvZEY2dEttQXNqN3FMZ3BVVzU5OW01R05qRS9lZGl0P3V0bV9jYW1wYWlnbj1zYWFzX3JvdW5kdXBfYnlfY2hhcnRtb2d1bFx1MDAyNnV0bV9tZWRpdW09ZW1haWxcdTAwMjZ1dG1fc291cmNlPWN1c3RvbWVyaW9cdTAwMjZ1dG1fY2FtcGFpZ249U2FhUytSb3VuZHVwKyUyMzM2NFx1MDAyNnV0bV9tZWRpdW09ZW1haWxcdTAwMjZ1dG1fc291cmNlPWN1c3RvbWVyaW8jc2xpZGU9aWQuZzIxNGZkY2JhZTQ1XzFfMzM3IiwidCI6MTY5NDQ1NDAzMX0/83bc600953436d62d9b0e531acec8fed91188852e25dbc97eb11f3584e7ad83d)
+
+by Anand Sanwal
+
+> Some of you will vehemently disagree with the things I say.  
+> And that’s ok.  
+> These are MY learnings.  
+> These are not laws.
+
+### [The Mochary Method Curriculum](https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/?utm_source=SaaS+Roundup+by+ChartMogul&utm_campaign=e480625c1e-EMAIL_CAMPAIGN_2022_11_17_12_44&utm_medium=email&utm_term=0_985dd3c6ea-e480625c1e-)
+
+by Matt Mochary
+
+> Top CEOs trust Mochary Method for the practical tools they need to be effective leaders, provide top-notch products and services to clients, and lead their industries.
+
+### [How Much Should You Pay Yourself?](http://email.chartmogul.com/e/c/eyJlIjoxMjU0MTIsImVtYWlsX2lkIjoiZXhhbXBsZSIsImhyZWYiOiJodHRwczovL21lZGl1bS5jb20vcG9pbnQtbmluZS1uZXdzL2hvdy1tdWNoLXNob3VsZC15b3UtcGF5LXlvdXJzZWxmLTk3ZGY4YjFhMjdlMD9yZWY9c2Fhcy1yb3VuZHVwLWJ5LWNoYXJ0bW9ndWxcdTAwMjZ1dG1fY2FtcGFpZ249U2FhUytSb3VuZHVwKyUyMzM3N1x1MDAyNnV0bV9tZWRpdW09ZW1haWxcdTAwMjZ1dG1fc291cmNlPWN1c3RvbWVyaW8iLCJ0IjoxNjk0NDUzMTEyfQ/233eacef8b1ccf20a209532eaaf22db334406db8acee2674fee843e4a5055233)
+
+by Christoph Janz
+
+> Several years ago, I did a bit of research into founder compensation and created a simple model that calculates what a typical founder salary might look like based on a few input factors.
+> 
+> The post became surprisingly popular — not because it was based on particularly extensive benchmarking research (it wasn’t) but because “How much should I pay myself?” is a question that every founder needs to answer, and there had been little data or guidance available.
+
+[![](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-22.png)](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-22.png)
+
+[Source](https://medium.com/point-nine-news/how-much-should-you-pay-yourself-97df8b1a27e0)
+
+### [Stock Options 101: How to Reward and Compensate Employees?](http://email.chartmogul.com/e/c/eyJlIjoxMjU0MTIsImVtYWlsX2lkIjoiZXhhbXBsZSIsImhyZWYiOiJodHRwczovL3d3dy5pbmRleHZlbnR1cmVzLmNvbS9yZXdhcmRpbmd0YWxlbnQvP3V0bV9jYW1wYWlnbj1TYWFTK1JvdW5kdXArJTIzMzgwXHUwMDI2dXRtX21lZGl1bT1lbWFpbFx1MDAyNnV0bV9zb3VyY2U9Y3VzdG9tZXJpbyIsInQiOjE2OTQ0NTI5MjN9/d4353d9893bf7252a389efdbc7c9c1a65ff34a0bdaef32f78ff4fbc7c93b2615)
+
+by Index Ventures
+
+> A guide to stock options for European entrepreneurs
+
+* * *
+
+## **SaaS Go-To-Market**
+
+These SaaS blogs address GTM strategies from many angles. From metrics to unit economics, check out the posts below to learn more about GTM.
+
+### [Optimizing GTM for PLG](https://www.youtube.com/watch?v=prLzBINL4tI)
+
+by Mark Roberge, Stage 2 Capital
+
+### [Go-To-Market Fit Toolkit](https://www.gtmf.oxx.vc/)
+
+by Oxx.vc 
+
+> Perfecting GTMF means building a repeatable, scalable growth engine. It’s about creating a Go-To-Market (GTM) strategy that drives continuous growth.
+> 
+> In 2022, we published our first version of this GTMF Toolkit, where the Oxx team and our network collected decades worth of B2B software and SaaS expertise and turned it into a guide.
+> 
+> In the 2023 updated version of the toolkit, we go even further. We have doubled the length of the section on Go To Market Fit Accelerators, with a particular focus on further developing the chapters on positioning, pricing and marketing.
+
+### [Why Is It Important to Build for Go-to-Market Fit Before Scaling?](https://open.spotify.com/episode/1z9qSM6379izZ99nJ65bso?nd=1)
+
+by SaaS Nordic & Mikael Johnsson
+
+Listen to the episode or read more [here](https://saasiest.com/mikael-johnsson-general-partner-oxx-ola-sars-ceo-soundtrack-your-brand-why-is-it-important-to-build-for-go-to-market-fit-before-scaling/).
+
+### [SaaS Unit Economics and The Pursuit of Scale Invariance](http://email.chartmogul.com/e/c/eyJlIjoxMjU0MTIsImVtYWlsX2lkIjoiZXhhbXBsZSIsImhyZWYiOiJodHRwczovL3RyaWJlY2FwLmNvL3VuaXQtZWNvbm9taWNzLWFuZC10aGUtcHVyc3VpdC1vZi1zY2FsZS1pbnZhcmlhbmNlLyIsInQiOjE2ODAxNzc4NTJ9/721a05f0c8d8fe6490de3d67a03da1039ef0d0fc8de1ef92fa2c462598f45d0a)
+
+by Tribe Capital
+
+> The concept of unit economics (UE) is quite often discussed amongst founders and investors in the early stage ecosystem.
+> 
+> In this article we will present our approach to UE which goes hand in hand with our previously published quantitative approach to product-market fit (PMF) to form the backbone of how we think about evaluating businesses.
+
+[![](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-13-1024x394.png)](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-13.png)
+
+[Source](https://tribecap.co/unit-economics-and-the-pursuit-of-scale-invariance/)
+
+### [The Four Drivers of a Successful GTM Plan](https://www.stage2.capital/blog/the-four-drivers-of-a-successful-gtm-plan?utm_source=SaaS+Roundup+by+ChartMogul&utm_campaign=0b64eddcf6-SaaS_Roundup_352&utm_medium=email&utm_term=0_985dd3c6ea-0b64eddcf6-)
+
+by Mandy Cole, Stage 2 Capital
+
+> Since it’s the time of year when companies are finalizing annual revenue plans and rolling out quotas, comp changes and KPIs, I am sharing the four drivers you need to monitor to hit your plan this year AND a template you can use to summarize / get buy-in from your executive team.
+
+### [LTV:CAC Is a Misleading Metric. Here’s What to Track Instead](http://email.chartmogul.com/e/c/eyJlIjoxMjU0MTIsImVtYWlsX2lkIjoiZXhhbXBsZSIsImhyZWYiOiJodHRwczovL3d3dy5zdGFnZTIuY2FwaXRhbC9ibG9nL2x0dmNhYy1pcy1hLW1pc2xlYWRpbmctbWV0cmljLXRvLW1lYXN1cmUtcGVyZm9ybWFuY2UtaGVyZXMtd2hhdC10by10cmFjay1pbnN0ZWFkLz9yZWY9c2Fhcy1yb3VuZHVwLWJ5LWNoYXJ0bW9ndWxcdTAwMjZ1dG1fY2FtcGFpZ249U2FhUytSb3VuZHVwKyUyMzM2Nlx1MDAyNnV0bV9tZWRpdW09ZW1haWxcdTAwMjZ1dG1fc291cmNlPWN1c3RvbWVyaW8iLCJ0IjoxNjk0NDUzODk4fQ/1d2c98c9fe13f6c32b55fed7f5dfb086b55a2801b4b705dba447353858ea2818)
+
+by Jay Po
+
+> How are you measuring sales efficiency and customer value?
+> 
+> If you use LTV:CAC, you’re not alone. When I speak with founders about tracking metrics, 90%+ of conversations include this as a north star measurement of success: “4:1 LTV:CAC! We’re doing well.”
+> 
+> But how can you be sure?
+
+### [The Hidden Reason Why A/B Tests Aren’t As Effective As They Look](http://email.chartmogul.com/e/c/eyJlIjoxMjU0MTIsImVtYWlsX2lkIjoiZXhhbXBsZSIsImhyZWYiOiJodHRwczovL2FuZHJld2NoZW4uY29tL2NvbnNlcnZhdGlvbi1vZi1pbnRlbnQvP3V0bV9jYW1wYWlnbj1zYWFzX3JvdW5kdXBfYnlfY2hhcnRtb2d1bFx1MDAyNnV0bV9tZWRpdW09ZW1haWxcdTAwMjZ1dG1fc291cmNlPWN1c3RvbWVyaW9cdTAwMjZ1dG1fY2FtcGFpZ249U2FhUytSb3VuZHVwKyUyMzM2NVx1MDAyNnV0bV9tZWRpdW09ZW1haWxcdTAwMjZ1dG1fc291cmNlPWN1c3RvbWVyaW8iLCJ0IjoxNjk0NDUzOTc3fQ/6c57da6bf79136f737344a9f25da61563b184fd28fb1539588fa36909caef979)
+
+by Andrew Chen
+
+> OK, this is an infuriating startup experience: You ship an experiment that’s +10% in your conversion funnel. Then your revenue/installs/whatever goes up by +10% right?
+> 
+> Wrong :(
+
+### [The Secret Weapon to GTM Scaling: Bottoms Up Model](http://email.chartmogul.com/e/c/eyJlIjoxMjU0MTIsImVtYWlsX2lkIjoiZXhhbXBsZSIsImhyZWYiOiJodHRwczovL3d3dy5zdGFnZTIuY2FwaXRhbC9ibG9nL3RoZS1zZWNyZXQtd2VhcG9uLXRvLWd0bS1zY2FsaW5nLWJvdHRvbXMtdXAtbW9kZWw_dXRtX2NhbXBhaWduPVNhYVMrUm91bmR1cCslMjMzNjNcdTAwMjZ1dG1fbWVkaXVtPWVtYWlsXHUwMDI2dXRtX3NvdXJjZT1jdXN0b21lcmlvIiwidCI6MTY5NDQ1NDA5N30/91ff6ab1fc8539918e856d4ce9597512ba42d581dab90a80307c242a928fb1b0)
+
+by Mandy Cole
+
+> Why do most startups fail?
+> 
+> Sometimes it’s a product or market issue, or sometimes it’s an unforeseen circumstance like Covid-19. Still, 3 of the top 5 reasons involve go-to-market execution.
+> 
+> You can’t execute on anything without a plan, which is where the disconnect begins for a lot of companies.
+
+### [How & When To Hire Marketing Agencies & Contractors](https://newsletter.mkt1.co/p/agencies?utm_source=SaaS+Roundup+by+ChartMogul&utm_campaign=d6c70634a7-SaaS_Roundup_349&utm_medium=email&utm_term=0_985dd3c6ea-d6c70634a7-)
+
+by Emily Kramer, MKT1
+
+> Startups waste way too much money hiring contractors for all the wrong things, mismanaging agencies, placing blame on agencies when the issue is the startup’s own strategy, and leaving contractors to fend for themselves. I’ve even seen an early-stage startup use an agency to manage contractors, who then managed more contractors—it sounds confusing because it is confusing.
+
+[![](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-12-1024x487.png)](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-12.png)
+
+[Source](https://newsletter.mkt1.co/p/agencies)
+
+### [Web Traffic, Conversion, and Deal Insights from 158k+ Companies](https://blog.hubspot.com/the-hustle/2022-business-data-recap)
+
+by Sara Friedman, The Hustle
+
+> HubSpot aggregated data from 158k+ of its global customers across industries, and tracked the changes that took place in 2022 for web traffic, inbound leads, web conversion rates, and more to generate insights. 
+> 
+> To plan for 2023, it’s important to first understand how businesses succeeded — or floundered — in the year before.
+
+### [It’s time to retire the LTV metric](https://mobiledevmemo.com/retire-the-lifetime-customer-value-metric/)
+
+by Eric Benjamin Seufert
+
+> But the LTV metric is an anachronism on mobile. For one, no one thinks about monetization on the basis of some abstract “lifetime”: in this second act of the mobile economy, users are sticky, products are enduring, and monetization streams are complex.
+> 
+> The “LTV paradigm” really represents the first act of the mobile economy, when products could launch and gain traction with relatively modest budgets and users casually, frictionlessly flitted between them as fungible commodities.
+
+### [The Dangerous Seduction of the Lifetime Value (LTV) Formula](https://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula/)
+
+by Bill Gurley
+
+> The LTV formula, when used correctly, can be a good tactical tool for monitoring and comparing like-minded variable market programs, especially across channels.
+> 
+> But like any model, its proper use is entirely dependent on the assumptions used in that model. Also, people who have a hidden agenda or who confuse a model with reality can misuse it. For many companies that subscribe to its wisdom, the formula slowly takes on more importance than it should.
+
+[![](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-14.png)](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-14.png)
+
+[Source](https://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula/)
+
+* * *
+
+## **Modern **SaaS** Data Stack**
+
+Utilize the data you have at hand to make decisions moving forward. How can you build a “Modern Data Stack” and what does it even mean? Check out the SaaS blogs below:
+
+### [Understanding the Modern Data Stack](https://chartmogul.us9.list-manage.com/track/click?u=a4c2738e44c3a9e98f352fbf5&id=cb0e3e1408&e=b4ff010b16)
+
+by Tanay Jaipuria
+
+> This will be more of a 101/102 type explainer than I typically write, but I hope that a portion of you enjoy it. In future posts over the coming month, I’ll build on this and discuss the opportunities and implications of the move to the modern data stack.
+
+[![](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-15-1024x577.png)](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-15.png)
+
+[Source](https://tanay.substack.com/p/understanding-the-modern-data-stack)
+
+### [What’s the Modern Data Stack?](http://email.chartmogul.com/e/c/eyJlbWFpbF9pZCI6ImRnVGswd2NEQUtGOG9Id0JocWRscS1YNnNsSzh4WDlOMS03TyIsImhyZWYiOiJodHRwczovL3RlY2huaWNhbGx5LnN1YnN0YWNrLmNvbS9wL3doYXRzLXRoZS1tb2Rlcm4tZGF0YS1zdGFjayIsImludGVybmFsIjoiZTRkMzA3MDBhMDdjYTE3YyIsImxpbmtfaWQiOjh9/a4bac384ed40f41a1c4bf4e297ef4580517e17c680637e1e04ae05de35c2e28c)
+
+by Justin Gage, Technically
+
+> In this post we’ll cut through the marketing noise and focus on what’s actually important about the MDS, how it helps data teams be more effective, and what specific tools people are using to do that.
+
+* * *
+
+## SaaS Customer Success and Onboarding
+
+Customer success plays a huge role in retention, up/cross-selling, onboarding, and more. Below, you can find the top SaaS blogs on the subject.
+
+### [Best Onboarding Examples From Over 150 Product-Led Businesses](http://email.chartmogul.com/e/c/eyJlbWFpbF9pZCI6ImRnVGswd2NEQUpaZmxWOEJoc3VnNkxRNVFBQ1Z2Z2lZZWx5UiIsImhyZWYiOiJodHRwczovL3Byb2R1Y3RsZWQuY29tL2Jsb2cvYmVzdC11c2VyLW9uYm9hcmRpbmctZXhhbXBsZXMiLCJpbnRlcm5hbCI6ImU0ZDMwNzAwOTU1Zjk2NWYiLCJsaW5rX2lkIjoxNn0/294c0c56f7dac15fc4dbf119654c9dc3cc14b3df9476b5ab7c99d6551619a43c)
+
+by Laura Kluz, Ramli John, ProductLed
+
+> That’s why we set out to analyze more than 150+ [user onboarding](https://productled.com/blog/user-onboarding/) experiences. We looked at emails. We looked at product tours. We looked at social proof.
+> 
+> Guess what? The world’s best [product-led companies](https://productled.com/blog/product-led-growth-definition/) share some common user onboarding traits. 
+> 
+> And today, I’m going to share them with you. 
+
+[![](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-16-1024x549.png)](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-16.png)
+
+[Source](https://productled.com/blog/best-user-onboarding-examples)
+
+### [You’re (Probably) Using NPS Wrong](http://email.chartmogul.com/e/c/eyJlIjoxMjU0MTIsImVtYWlsX2lkIjoiZXhhbXBsZSIsImhyZWYiOiJodHRwczovL3d3dy5yZWZvcmdlLmNvbS9ibG9nL2hvdy10by1tZWFzdXJlLW5wcy8_cmVmPXNhYXMtcm91bmR1cC1ieS1jaGFydG1vZ3VsXHUwMDI2dXRtX2NhbXBhaWduPVNhYVMrUm91bmR1cCslMjMzNzNcdTAwMjZ1dG1fbWVkaXVtPWVtYWlsXHUwMDI2dXRtX3NvdXJjZT1jdXN0b21lcmlvIiwidCI6MTY5NDQ1MzM0N30/632d3f804a88b96df4249dc9958b9c29ddbd4c1e89ec19e0c695f0e350f8bd60)
+
+by Behzod Sirjani
+
+> Despite becoming the poster child for measuring how customers feel about a product, most companies misuse NPS, either by measuring it incorrectly (often at the wrong time), or using it to measure something it can’t possibly measure. 
+> 
+> The reality is: Most of us don’t go around sharing our favorite enterprise software, and more problematically, NPS doesn’t directly tell you how well you are meeting customer needs.
+
+### [Your Guide to Product-Led Onboarding](https://kylepoyar.substack.com/p/your-guide-to-product-led-onboarding?utm_source=SaaS+Roundup+by+ChartMogul&utm_campaign=0b64eddcf6-SaaS_Roundup_352&utm_medium=email&utm_term=0_985dd3c6ea-0b64eddcf6-)
+
+by Kyle Poyar, Esben Friis-Jensen
+
+> Whether you’re implementing a PLG strategy for the first time or optimizing from a strong foundation, odds are you’re thinking about product-led onboarding. You might have questions like:
+> 
+> *   How do you get new users to see value as fast as possible?
+> *   How do you enable users to try and buy via self-service rather than through a rep?
+> *   Which experiments should you run to improve product activation and conversion?
+
+### [Trying To Reduce Churn Rate? Avoid These 3 Common Myths](http://email.chartmogul.com/e/c/eyJlIjoxMjU0MTIsImVtYWlsX2lkIjoiZXhhbXBsZSIsImhyZWYiOiJodHRwczovL3d3dy5yZWZvcmdlLmNvbS9ibG9nL2NodXJuLXJhdGUtbXl0aHMvP3JlZj1zYWFzLXJvdW5kdXAtYnktY2hhcnRtb2d1bFx1MDAyNnV0bV9jYW1wYWlnbj1TYWFTK1JvdW5kdXArJTIzMzc1XHUwMDI2dXRtX21lZGl1bT1lbWFpbFx1MDAyNnV0bV9zb3VyY2U9Y3VzdG9tZXJpbyIsInQiOjE2OTQ0NTMyMjJ9/0f294425d6d70cee3f8cd6840a36400c905c3ad2bf0b8dee427dada3e67a4dcd)
+
+by Natalie Rothfels, Behzod Sirjani, and Ely Lerner
+
+> Reducing churn is frustrating because most product teams approach it incorrectly:
+> 
+> *   They see all churn as bad and avoidable
+> *   They myopically focus on customer resurrection
+> *   They assume churn is the end of a journey
+
+### [I Was Wrong. NPS is A Great Core Metric](http://email.chartmogul.com/e/c/eyJlIjoxMjU0MTIsImVtYWlsX2lkIjoiZXhhbXBsZSIsImhyZWYiOiJodHRwczovL3d3dy5zYWFzdHIuY29tL2ktd2FzLXdyb25nLW5wcy1pcy1hLWdyZWF0LWNvcmUtbWV0cmljLz91dG1fY2FtcGFpZ249c2Fhc19yb3VuZHVwX2J5X2NoYXJ0bW9ndWxcdTAwMjZ1dG1fbWVkaXVtPWVtYWlsXHUwMDI2dXRtX3NvdXJjZT1jdXN0b21lcmlvXHUwMDI2dXRtX2NhbXBhaWduPVNhYVMrUm91bmR1cCslMjMzNjVcdTAwMjZ1dG1fbWVkaXVtPWVtYWlsXHUwMDI2dXRtX3NvdXJjZT1jdXN0b21lcmlvIiwidCI6MTY5NDQ1Mzk3N30/112f2cdf1a0ab16c3caca996403b4f48d7e7fc3cf0ce7c02af96dd90106aaa91)
+
+by Jason Lemkin
+
+> I was wrong.  Track NPS as a core, monthly metric.  Share it with everyone.  And, importantly — use it for a cross-functional discussion across Sales, Support, Customer Success, Marketing, Engineering, and Product.  It’s the one metric all of them directly impact, _and_ all of them are equally responsible for.
+
+### [How to Improve Retention](https://reidtandy.substack.com/p/how-to-improve-retention/?ref=saas-roundup-by-chartmogul)
+
+by Reid Deramus
+
+> Improving retention is an intricate topic, so let’s break it down into a few separate posts:
+> 
+> 1.  How to reduce voluntary cancels — the growth tactics
+> 2.  How to reduce voluntary cancels — delivering more value
+> 3.  How to reduce involuntary cancels
+
+[![](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-17-1024x549.png)](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-17.png)
+
+[Source](https://www.reidtandy.com/p/how-to-improve-retention)
+
+* * *
+
+## **SaaS Sales**
+
+If you want to broaden your SaaS sales knowledge look no further. Here are the best SaaS blogs (we’ve read) on the subject:
+
+### [SaaS SDR Data and Metrics](http://email.chartmogul.com/e/c/eyJlbWFpbF9pZCI6ImRnVGswd2NEQUpaZmxWOEJoc3VnNkxRNVFBQ1Z2Z2lZZWx5UiIsImhyZWYiOiJodHRwczovL2Jsb3Nzb21zdHJlZXR2ZW50dXJlcy5tZWRpdW0uY29tL3NhYXMtc2RyLWRhdGEtYW5kLW1ldHJpY3MtYTY1MTEyYmM3NGI0IiwiaW50ZXJuYWwiOiJlNGQzMDcwMDk1NWY5NjVmIiwibGlua19pZCI6MTV9/3ed4c3192fa88f1cf2664e2e723c2a99a9a4fd41a348103fb8af7ab899c9a2ab)
+
+by Sammy Abdullah, Blossom Street Ventures
+
+> We got another great survey from Bridge Group which looks at the SDR teams of 406 B2B businesses. The survey is dominated by SaaS companies, and while it’s well worth the read, our favorite findings are below…
+
+### [Founder’s guide to B2B sales](https://www.balderton.com/playbooks/balderton-b2b-founder-ceo-sales-guide/welcome/?utm_source=SaaS+Roundup+by+ChartMogul&utm_campaign=e480625c1e-EMAIL_CAMPAIGN_2022_11_17_12_44&utm_medium=email&utm_term=0_985dd3c6ea-e480625c1e-)
+
+by Dave Kellogg, Michael Lavner, Balderton Capital
+
+> This guide is written for founders and CEOs of early- and growth-stage startups.
+> 
+> It starts at the beginning — how to do sales yourself and builds from there. We’ll cover everything from how to be your company’s best salesperson to how to manage your VP of sales and align your marketing team.
+
+### [How Cheap a Product Can You Have And Still Have Salespeople?](https://www.saastr.com/smb-sales-reps-how-low-can-you-and-your-acv-go/?utm_source=SaaS+Roundup+by+ChartMogul&utm_campaign=826a10955d-SaaS_Roundup_340&utm_medium=email&utm_term=0_985dd3c6ea-826a10955d-)
+
+by Jason Lemkin, SaaStr
+
+> But how low can you go? Can you really sustain a sales team around a $299/mo product? A $2000 ACV? What about a $199 or even a $99/mo price point?
+
+### [Simple Math to Set Up a Sales Team](https://sacks.substack.com/p/simple-math-to-set-up-a-sales-team)
+
+by David Sacks, Craft Ventures
+
+> Oftentimes, the biggest hurdle in hiring the first sales rep is not knowing how to incentivize them. This post provides simple rules that you can use to set up a sales team. Structured properly, the process is surprisingly mathematical.
+
+[![](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-18-1024x319.png)](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-18.png)
+
+[Source](https://sacks.substack.com/p/simple-math-to-set-up-a-sales-team)
+
+### [Why SMB and Enterprise Sales Have Nothing In Common](http://email.chartmogul.com/e/c/eyJlIjoxMjU0MTIsImVtYWlsX2lkIjoiZXhhbXBsZSIsImhyZWYiOiJodHRwczovL3d3dy5zYWFzdHIuY29tL3doeS1zbWItc2FsZXMtYW5kLWVudGVycHJpc2Utc2FsZXMtaGF2ZS1ub3RoaW5nLWluLWNvbW1vbi8_cmVmPXNhYXMtcm91bmR1cC1ieS1jaGFydG1vZ3VsXHUwMDI2dXRtX2NhbXBhaWduPVNhYVMrUm91bmR1cCslMjMzODJcdTAwMjZ1dG1fbWVkaXVtPWVtYWlsXHUwMDI2dXRtX3NvdXJjZT1jdXN0b21lcmlvIiwidCI6MTY5NDQ1MjgxNH0/bd683f99f7bf03ac0864ac30af71fb61abd83509582555d46da1f810b12f51a9)
+
+by Jason Lemkin
+
+> When you go to hire a VP of Sales or even your first sales rep, one of the top qualifying questions I always recommend asking is if they have experience at your deal size, at your ACV (Annual Contract Value).
+
+### [SaaS Sales KPI Report: Scale up by the Numbers](http://email.chartmogul.com/e/c/eyJlIjoxMjU0MTIsImVtYWlsX2lkIjoiZXhhbXBsZSIsImhyZWYiOiJodHRwczovL3d3dy5pbnNpZ2h0cGFydG5lcnMuY29tL2lkZWFzL3NjYWxlLXVwLWJ5LXRoZS1udW1iZXJzLXNhYXMtc2FsZXMta3Bpcy1mcm9tLW92ZXItMzAwLWNvbXBhbmllcy8_cmVmPXNhYXMtcm91bmR1cC1ieS1jaGFydG1vZ3VsXHUwMDI2dXRtX2NhbXBhaWduPVNhYVMrUm91bmR1cCslMjMzNzBcdTAwMjZ1dG1fbWVkaXVtPWVtYWlsXHUwMDI2dXRtX3NvdXJjZT1jdXN0b21lcmlvIiwidCI6MTY5NDQ1MzY0NX0/1c27a6ca2ee8411077194a94edcad5c1f855694153a6a1e7e2301547d9abf81d)
+
+by Pablo Dominguez, and Dawit Wondimagegn
+
+> This report measures software sales operating performance by:
+> 
+> *   ScaleUp company stage, represented by company size (2022 year-end ARR)
+> *   Go-to-market motion: Transactional, solution, or consultative motions represented by average selling price (ASP)
+
+### [The Size of a Deal Must Be Large Enough to Justify the Effort](http://email.chartmogul.com/e/c/eyJlIjoxMjU0MTIsImVtYWlsX2lkIjoiZXhhbXBsZSIsImhyZWYiOiJodHRwczovL3NhY2tzLnN1YnN0YWNrLmNvbS9wL3RoZS1kaWZmaWN1bHR5LXJhdGlvP3V0bV9jYW1wYWlnbj1TYWFTK1JvdW5kdXArJTIzMzYyXHUwMDI2dXRtX21lZGl1bT1lbWFpbFx1MDAyNnV0bV9zb3VyY2U9Y3VzdG9tZXJpbyIsInQiOjE2OTQ0NTQxMzB9/dcc5491a920c59f924f8ae16ada371a6921af7ba98f0629eb2af3875c0f43e47)
+
+by David Sacks, and Brian Murray
+
+> However, all successful SaaS companies share a trait in common: the size of their deals is commensurate with the time required to close them. We call this the Difficulty Ratio (deal size/cycle time). Larger deals can take longer to close; smaller deals must close quickly.
+
+[![](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-19-1024x613.png)](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-19.png)
+
+[Source](https://sacks.substack.com/p/the-difficulty-ratio)
+
+* * *
+
+## Product-Led Growth (PLG)
+
+PLG or SLG? Whichever route you choose read these blogs to find out more about product-led growth.
+
+### [Not All B2B Companies Should Be Doing Product-Led Growth](http://email.chartmogul.com/e/c/eyJlbWFpbF9pZCI6ImRnVGswd2NEQUpaZmxWOEJoeE9MT0RsZ0N2ZnU4S2hKQTk5ZyIsImhyZWYiOiJodHRwczovL2FtcGxpdHVkZS5jb20vYmxvZy9ub3QtYWxsLWNvbXBhbmllcy1zaG91bGQtZG8tcGxnIiwiaW50ZXJuYWwiOiJlNGQzMDcwMDk1NWY5NjVmIiwibGlua19pZCI6ODZ9/c605da57c74300de237567cf64979a799e805eab99d4678ff9d0835d66b23bf1)
+
+by Elena Verna
+
+> In some situations, you need to postpone PLG and work to evolve other areas of your business first. I’ll walk you through four of those situations and explain what needs to happen before you can move on to a product-led motion. But first, let’s be clear on what PLG is and what all the fuss is about.
+
+### [Trial or Freemium? Get the Best of Both with a Reverse Trial](https://amplitude.com/blog/reverse-trial?utm_source=SaaS+Roundup+by+ChartMogul&utm_campaign=17c2357c8a-SaaS_Roundup_351&utm_medium=email&utm_term=0_985dd3c6ea-17c2357c8a-)
+
+by Elena Verna
+
+> Companies considering a free trial model and a freemium plan don’t need to choose. A reverse trial gives you the best of both while minimizing the downsides.
+
+[![](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-20-1024x640.png)](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-20.png)
+
+[Source](https://amplitude.com/blog/reverse-trial)
+
+### [How to Choose Between a Product-Led and a Sales-Led Go-to-Market Motion](https://www.notion.vc/resources/how-to-choose-between-a-product-led-and-a-sales-led-go-to-market-motion?utm_source=SaaS+Roundup+by+ChartMogul&utm_campaign=f3885e0ab8-SaaS_Roundup_345&utm_medium=email&utm_term=0_985dd3c6ea-f3885e0ab8-)
+
+by Harrison Rose, Notion VC
+
+> There are a few topics to cover to provide a basic framework for GTM model decision-making:
+> 
+> *   A breakdown of the SaaS landscape today
+> *   Some surprising trends around how many Sales Led vs. PLG companies are out there and how they’re performing.
+> *   The evaluation criteria for picking your GTM motion; and finally 
+> *   Some real-world stories of what different GTM motions have looked like 
+
+### [Inside Hotjar’s Bootstrapped PLG Strategy](https://openviewpartners.com/blog/inside-hotjars-bootstrapped-plg-strategy/?utm_source=SaaS+Roundup+by+ChartMogul&utm_campaign=ae081155f5-SaaS_Roundup_344&utm_medium=email&utm_term=0_985dd3c6ea-ae081155f5-)
+
+by Kyle Poyar, OpenView Partners
+
+> Today folks are under pressure to do more with less. We’re seeing calls to extend runway, slow down hiring plans, and be prepared for capital to be harder to come by.
+> 
+> One company in particular stands out: Hotjar, the product experience insights software.
+> 
+> I had a wide-ranging fireside chat with Hotjar CEO Mohannad Ali at SaaStock in Dublin, and it’s my pleasure to share that conversation here (lightly edited for clarity).
+
+* * *
+
+## **SaaS Product**
+
+Product-market fit. For many, it’s a huge goal and an even bigger accomplishment. These SaaS blogs cover the marketing, metrics, benchmarks behind PMF, and more.
+
+### [Finding Language/Market Fit: How to Make Customers Feel Like You’ve Read Their Minds](http://email.chartmogul.com/e/c/eyJlbWFpbF9pZCI6ImRnVGswd2NEQUtGOG9Id0JocWRscS1YNnNsSzh4WDlOMS03TyIsImhyZWYiOiJodHRwczovL3Jldmlldy5maXJzdHJvdW5kLmNvbS9maW5kaW5nLWxhbmd1YWdlLW1hcmtldC1maXQtaG93LXRvLW1ha2UtY3VzdG9tZXJzLWZlZWwtbGlrZS15b3V2ZS1yZWFkLXRoZWlyLW1pbmRzIiwiaW50ZXJuYWwiOiJlNGQzMDcwMGEwN2NhMTdjIiwibGlua19pZCI6OX0/8f266416d549dcf3a0c06a5241e416baeee0bc9dff09eb776e461e25c9ba67c7)
+
+by Matt Lerner
+
+> What’s going on here isn’t magic, nor is it “just marketing tactics.” It’s language/market fit at work — when you find the exact right words to explain your product or service to prospective customers, words that resonate with goals and struggles that are already in their brains.
+> 
+> When you talk about your product, a lightbulb in their heads switches on that says, “That is EXACTLY what I’m looking for” — they feel like you’ve read their minds.
+
+[![](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-21-1024x727.png)](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-21.png)
+
+[Source](https://review.firstround.com/finding-language-market-fit-how-to-make-customers-feel-like-youve-read-their-minds)
+
+### [The Never-Ending Road To Product-Market Fit (PMF)](https://brianbalfour.com/essays/product-market-fit?utm_source=SaaS+Roundup+by+ChartMogul&utm_campaign=93f9b85807-SaaS_Roundup_354&utm_medium=email&utm_term=0_985dd3c6ea-93f9b85807-)
+
+by Brian Balfour
+
+> Instead of thinking about product/market fit as a definitive point on the startup path, I think about it as a series of tests and check points that increase in difficulty, but also in definitiveness. Knowing where you are along this path also helps you understand when to go from traction, to transition, to growth.
+
+### [A Quantitative Approach to Product-Market Fit](https://tribecap.co/a-quantitative-approach-to-product-market-fit/?utm_source=SaaS+Roundup+by+ChartMogul&utm_campaign=826a10955d-SaaS_Roundup_340&utm_medium=email&utm_term=0_985dd3c6ea-826a10955d-)
+
+by Tribe Capital
+
+> This article will first go into greater detail of why we believe a quantitative approach to product-market fit is important. Then it will outline in detail three types of analyses we employ at Tribe Capital to understand product-market fit in a given company.
+> 
+> Finally, there are some closing thoughts regarding opportunities for further analysis as well as an appendix that addresses some frequently asked questions.
+
+### [Think $1M ARR Means You’ve Achieved Product-Market Fit? Think Again](http://email.chartmogul.com/e/c/eyJlIjoxMjU0MTIsImVtYWlsX2lkIjoiZXhhbXBsZSIsImhyZWYiOiJodHRwczovL29wZW52aWV3cGFydG5lcnMuY29tL2Jsb2cvMW0tYXJyLWFjaGlldmVkLXByb2R1Y3QtbWFya2V0LWZpdC10aGluay1hZ2Fpbi8_cmVmPXNhYXMtcm91bmR1cC1ieS1jaGFydG1vZ3VsXHUwMDI2dXRtX2NhbXBhaWduPVNhYVMrUm91bmR1cCslMjMzNjZcdTAwMjZ1dG1fbWVkaXVtPWVtYWlsXHUwMDI2dXRtX3NvdXJjZT1jdXN0b21lcmlvIiwidCI6MTY5NDQ1Mzg5OH0/fabea714c10cf961f5d96e9620bb90dbdd7b337840bdf931b6c04ca0913ec6e1)
+
+by Kaitlyn Henry
+
+> It’s an enticing idea, but it’s shallow thinking at best. Having evaluated hundreds of companies for signs of product-market fit, I can assure you that there’s no specific revenue benchmark that definitively signifies product-market fit.
+
+### [Product-Market Fit Report](http://email.chartmogul.com/e/c/eyJlIjoxMjU0MTIsImVtYWlsX2lkIjoiZXhhbXBsZSIsImhyZWYiOiJodHRwczovL3BtZi5oaWdoYWxwaGEuY29tLz9yZWY9c2Fhcy1yb3VuZHVwLWJ5LWNoYXJ0bW9ndWxcdTAwMjZ1dG1fY2FtcGFpZ249U2FhUytSb3VuZHVwKyUyMzM3OVx1MDAyNnV0bV9tZWRpdW09ZW1haWxcdTAwMjZ1dG1fc291cmNlPWN1c3RvbWVyaW8iLCJ0IjoxNjk0NDUyOTkwfQ/0bf40fc0a4279802c439f65f78a463a84126d405975654f417032fb9b108ac7d)
+
+by High Alpha
+
+> Product-market fit (PMF) is the key that unlocks a start-up’s growth. Therefore, finding PMF is the most important job for a start-up founder or founding team. This report was created to help those founders benchmark their own progress against others on the same exact journey.
+
+* * *
+
+## **SaaS Pricing**
+
+Here you can find a plethora of blog posts from all over the SaaS community on a variety of pricing topics.
+
+### [The Hidden World of Pricing: Uber, Trulia, Etsy, Superhuman & More](http://email.chartmogul.com/e/c/eyJlbWFpbF9pZCI6ImRnVGswd2NEQUtGOG9Id0JocWRscS1YNnNsSzh4WDlOMS03TyIsImhyZWYiOiJodHRwczovL3d3dy5uZnguY29tL3Bvc3QvdGhlLWhpZGRlbi13b3JsZC1vZi1wcmljaW5nIiwiaW50ZXJuYWwiOiJlNGQzMDcwMGEwN2NhMTdjIiwibGlua19pZCI6MTB9/b5451dfa052d946e1691f403231ca62858cf5a5a30f19032162d1ef4b4bfc1ad)
+
+by Pete Flint, NFX
+
+> Pricing is often treated as an afterthought at many startups, and a study of nearly 2,000 companies shows that pricing has an extremely high 72% correlation to startup failure.
+
+### [A Data-Driven Framework for SaaS Packaging and Pricing](https://medium.com/inside-personio/developing-a-data-driven-packaging-for-your-saas-product-703a67648dc4?utm_source=SaaS+Roundup+by+ChartMogul&utm_campaign=93f9b85807-SaaS_Roundup_354&utm_medium=email&utm_term=0_985dd3c6ea-93f9b85807-)
+
+by Jonas Rieke, Personio
+
+> With this article, I address SaaS enthusiasts, executives and founders who look for a comprehensive and data-driven approach how to improve their packaging and pricing.
+
+### [Which Type of Usage-Based Pricing Is Right for You?](https://www.bvp.com/atlas/linear-volumetric-or-bundling-which-type-of-usage-based-pricing-is-right-for-you?utm_source=SaaS+Roundup+by+ChartMogul&utm_campaign=ba927cc783-SaaS_Roundup_350&utm_medium=email&utm_term=0_985dd3c6ea-ba927cc783-)
+
+by Sameer Dholakia, Bessemer VP
+
+> Far from a passing fad, usage-based pricing is well on its way to becoming standard practice for SaaS businesses. As an alternative to traditional subscription models, usage-based pricing offers attractive advantages that let software companies grow as their customers grow—a win-win for all.
+
+### [3 Steps to Changing Software Prices Successfully](https://www.battery.com/blog/three-steps-to-changing-software-prices-successfully/?utm_source=SaaS+Roundup+by+ChartMogul&utm_campaign=d6c70634a7-SaaS_Roundup_349&utm_medium=email&utm_term=0_985dd3c6ea-d6c70634a7-)
+
+by Morad Elhafed, Battery Ventures
+
+> In [my last article](https://www.forbes.com/sites/forbesbusinesscouncil/2022/09/07/the-dangers-of-inflation-for-software-ceos-and-one-way-to-fight-it/?sh=2c84380507d1), I shared three reasons companies should consider a price increase. First, internal costs are rising faster than you realize–including the costs of investing in your product. Second, the competitive market has probably evolved since you last looked at pricing. Third, raising prices can act as a vote of confidence in your product.
+> 
+> If you’re ready to adjust your product pricing, where to start? Here I’ll offer a more-tactical guide to pricing increases in three steps.
+
+### [How To Optimize Your Pricing Page](http://email.chartmogul.com/e/c/eyJlIjoxMjU0MTIsImVtYWlsX2lkIjoiZXhhbXBsZSIsImhyZWYiOiJodHRwczovL2t5bGVwb3lhci5zdWJzdGFjay5jb20vcC9ob3ctdG8tb3B0aW1pemUteW91ci1wcmljaW5nLXBhZ2U_dXRtX3NvdXJjZT1wb3N0LWVtYWlsLXRpdGxlXHUwMDI2cHVibGljYXRpb25faWQ9MzExNDMwXHUwMDI2cG9zdF9pZD0xMzMyMjQ2MjkvP3JlZj1zYWFzLXJvdW5kdXAtYnktY2hhcnRtb2d1bFx1MDAyNnV0bV9jYW1wYWlnbj1TYWFTK1JvdW5kdXArJTIzMzc1XHUwMDI2dXRtX21lZGl1bT1lbWFpbFx1MDAyNnV0bV9zb3VyY2U9Y3VzdG9tZXJpbyIsInQiOjE2OTQ0NTMyMjJ9/e023d35c86366ecd108599d6d93bc73555c4dcf5ba0270d6c6d6319830737736)
+
+by Kyle Poyar
+
+> Your pricing page is the 2nd most important page on your website. Are you neglecting it?
+> 
+> Many prospects (👋) use it as a go-to resource for learning about a product and deciding whether to try it. In my experience, an optimized pricing page can lead to increases in signups even as you raise prices (💰).
+
+[![](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-23.png)](https://chartmogul.com/blog/wp-content/uploads/2023/09/image-23.png)
+
+[Source](https://www.growthunhinged.com/p/how-to-optimize-your-pricing-page)
+
+### [Your Guide to PLG Pricing 201](http://email.chartmogul.com/e/c/eyJlIjoxMjU0MTIsImVtYWlsX2lkIjoiZXhhbXBsZSIsImhyZWYiOiJodHRwczovL2t5bGVwb3lhci5zdWJzdGFjay5jb20vcC95b3VyLWd1aWRlLXRvLXBsZy1wcmljaW5nLTIwMS8_cmVmPXNhYXMtcm91bmR1cC1ieS1jaGFydG1vZ3VsXHUwMDI2dXRtX2NhbXBhaWduPVNhYVMrUm91bmR1cCslMjMzNjhcdTAwMjZ1dG1fbWVkaXVtPWVtYWlsXHUwMDI2dXRtX3NvdXJjZT1jdXN0b21lcmlvIiwidCI6MTY5NDQ1Mzc0Nn0/fbd5491715413ecc500c8b04a5895b700e7be55ff4d87c47bb40260fd74f3d7f)
+
+by Kyle Poyar
+
+> Here I’ll start to unpack PLG pricing 201. I’ll walk through the most common PLG pricing mistakes that I see time and again – and what to do instead. Be on the lookout for real-life examples from Canva, Notion, Figma, and more.

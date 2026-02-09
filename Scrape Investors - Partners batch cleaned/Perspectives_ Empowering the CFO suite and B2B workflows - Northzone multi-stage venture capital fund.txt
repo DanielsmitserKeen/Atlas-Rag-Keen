@@ -1,0 +1,85 @@
+# Perspectives: Empowering the CFO suite and B2B workflows
+
+*   Opinions
+*   20 February 2024
+*   12 min read
+*   Words: Sarah Noeckel, Dominik Esen, Jeppe Zink
+
+At Northzone, we see reconstructing the CFO suite as one of the most dynamic segments within the financial software landscape. In Europe alone, companies spend over $18 billion annually on ERP software. ERPs such as Netsuite are incredibly sticky, with an LTV/CAC that surpasses industry standards. Most conservative CFOs are loath to rip and replace them. Yet, the uniform market feedback we received underscores that existing ERPs are falling short of meeting the evolving needs of agile companies.
+
+![](https://northzone.topleftdesign.com/wp-content/uploads/2024/02/key-stats-1024x530.png)
+
+Today’s ERP systems were designed 20+ years ago, and copied and pasted into a cloud environment. They are complex and can’t keep up with rising integrations, offering little to no automation or AI functionality. They are also costly and lengthy to implement, with a ‘per set pricing’ that leads companies to only onboard a limited number of users. Historically, ERP emerged as a bundling of tools, serving and connecting different operational and financial parts of an enterprise. That made sense in an era where software development and data storage costs were high and organisational interconnection was low.
+
+Nowadays, APIs enable seamless connections between services, whereas data is spread across various stand-alone SaaS platforms within the CFO suite, their banks, and the ERP system. Data is also increasingly sourced from channels that carry significant signals beyond what traditional business data structures can capture. ERPs can no longer own the breadth of that data, and users and teams have much higher expectations for UI and workflows. Thus, we believe there’s less justification for consolidating all of these functional areas under a single ERP umbrella. This leaves companies with people and data silos.
+
+Various local payment methods, regional ERP systems, and diverse banking systems and regulations expose different product requirements for companies. The European Commission’s intricate 650 tax codes have contributed to fragmentation within Europe, giving rise to geo-specific ERP and accounting systems. Despite their costliness, old-school ERP systems remain the only solution capable of handling the sophistication, volume, and multi-geographical and multi-currency demands of multinational enterprises. Typically, companies don’t purchase all modules, opting rather to onboard a limited number of users within the organisation — even though these modules are designed to work in tandem.
+
+Due to the ERP complexity, CFOs have resorted to deploying ad-hoc custom solutions and third-party best-of-breed software solutions (expense management software, accounts receivable/accounts payable systems, and treasury management tools) to patch the gaps. 
+
+Over the past year, we have spoken to dozens of mid-market CFOs to gain a better picture of their finance stack and understand their pain points. We learned that most use several point solutions, don’t buy all ERP modules, and want to cut back on tools but still aggregate and disseminate financial data. This paves the way for a platform rebundling of the stack \[or\] for a platform to rebundle the stack \[or\] for the stack to be rebundled.
+
+**Mid-market customers are currently underserved**
+
+SMEs have a good range of new software to pick from when it comes to accounting, cash flow management, and payments automation. Mid-market companies, however, have a higher level of sophistication, and different integration and security needs — but currently lack access to the array of software tools typically found at the enterprise level.
+
+**_“Netsuite doesn’t communicate well with our internal tools. We are specifically looking for an orchestration layer around financial data on top of our ERP systems across our global entities that is agile and customisable without IT having to be involved.”  – CFO at 6K FTE company_** 
+
+**_“We need a tool with a strong approval flow, and permission and cross-functional collaboration capabilities so that everyone can interact with and enrich financial data. We want to consolidate our data and tools, and have a strong preference for an all-in-one platform to automate all of our manual tasks and get more context on financial data.” – CFO at 350 FTE company_** 
+
+**_“We have outgrown our spend management solution, and Kyriba is pretty clunky. Due to our high-transaction volumes and challenges with Netsuite, we have to manually reconcile hundreds of transactions every day. We are looking for a more flexible treasury management solution and want to manage our purchase orders in one single tool so that we can easily follow our flows for bank reconciliation purposes. The most important part is that it has to tie back to our financial flows.”__– CFO at 600 FTE company_** 
+
+**_“No one in the industry is really happy with their ERP, neither are we. But it is such a mission-critical piece of infrastructure and the implementation was such a pain that replacing it would be really hard. Also, there are no real better alternatives — all of the players are legacy tech.” – CFO at 1K FTE company_**
+
+**_“Multi-banking is more prominent in Europe vs. the US. A big catalyst is the cloud migration as thousands of companies — and even more those in the mid-market segment without IT teams — have to restart their treasury project because the whole connectivity will fall down after the ERP migration. Having one system for everything related to liquidity, from treasury management to payments, is a major trend in the industry today. Connectivity with the bank and the ERP is a strategic priority. The better you are, the more value you bring to the customer.” – Former SVP Strategy at Leading Treasury management platform_** 
+
+**How to create a differentiating product experience and a strong wedge** 
+
+We have seen the emergence of companies building next-gen finance automation platforms with different approaches to product:  
+
+**1\. Vertical players challenging incumbent point solutions** — in particular procurement (Coupa) and TMS (Kyriba). The likes of [Pivot](https://www.pivotapp.ai/), [Omnea](https://www.omnea.co/), [Zip HQ](https://ziphq.com/)  are essentially building a next-gen Coupa in a greenfield environment, or a wedge as an orchestration layer around Coupa in a brownfield setting. The play is to be 10x better at one thing than the existing ERP, i.e. workflow automation, UX, and time-to-utility, then expand from there. 
+
+We believe that intake/approvals and supplier management are natural entry points into the procure-to-pay process in companies that are establishing or upgrading their purchasing. The entry is narrow and universal enough to address a broad range of customers. [ZipHQ](http://ziphq.com/) have proven that the entry point of intake works extremely well and enables explosive growth rarely seen in SaaS – they have grown from $0 to approx. $60m in ARR within 3 years. The big challenge for any next-gen generational winner is about tapping into the ‘old economy’ customer segment. 
+
+Treasury is another attractive entry point as there is a clear gap for a cash management solution that serves mid-market customers with more complex multi-currency and multi-banking setups. The enterprise solution Kyriba, is outdated, implementation heavy, hard to customise and simply too expensive for mid market companies. It’s those mid-tier enterprises without an IT team or bandwidth that are more likely to opt in for cloud-first solutions because they can have the same level of service without any maintenance issues.
+
+**2\. Orchestration layer around ERP on top of the general ledger** — [Payflows](http://payflows.io/), [Atlar,](https://www.atlar.com/) [Embat](https://www.embat.io/). These companies unbundle a suite of products and offer collaboration around financial data with a big emphasis on banking and ERP connectivity. The idea is to carve out 25-30% of the ERP add-on module surface area’s weak spots by wedging in through one module, for example procurement, AP, or TMS, and then upsell.
+
+We believe these players have higher odds of penetrating larger customers tied to their ERP, and thus commanding larger ACVs. While succeeding with a multi-module approach is difficult as a young company and requires you to be best-in-class across your offering, it enables a strong positioning for competitive RFPs which increases the odds of signing a customer throughout the year. We learned that finance teams in the upper mid-market prefer to replace one piece of the stack at a time.
+
+**3\. Fully-fledged ERPs** — [Light](http://light.inc/). This is a full ERP platform with a general ledger at the core and an integrated suite of applications across for example procurement and TMS. These could provide a radical change and offer an alternative to incumbents’ built-on legacy database infrastructure and sub-par UX.  
+
+Having repeatedly heard that customers are not satisfied with their ERPs, we feel the need for new solutions, but also see that CFOs and accountants are very careful and hesitant to make big changes to their key infra. Given the massive scope of an ERP, it is also a heavy lift both product-wise and commercially. Moreover, the incumbents have a well-established network of implementation consultants and often offer generous starting prices to mid-sized customers, knowing how sticky they are.
+
+It will be very hard to be 10x better at everything than existing ERPs, given these tools have been built over decades. We are probably years away from that. The road will likely be to initially offer specific solution sets and functionality that are currently underserved across the mid market — such as  procurement and treasury — always with a full ERP integration in mind so that the functional need for an ERP abates over time, making the eventual rip-and-replace less scary.
+
+**Where will we eventually end up?** 
+
+We witnessed how Netsuite took on the existing systems and won the market with cloud-based offerings. With the initial wedge being a few, critical modules, they kept adding new modules which eventually led them to emerge as category leaders. Netsuite as we know it today took ~15 years to build, before Oracle bought it for $9bn. Now a new row of challengers is forming and we believe that several companies have what it takes to thrive, as we don’t view this as a winner-takes-all market. That said, it will likely take longer than many other software categories due to the complexity in both product and commercialisation.
+
+Execution aside, the leap of faith in this category is whether new entrants will be able to combine their solutions into a platform that eventually enables them to rip and replace a chunk or most of the ERP setup. The current ERP setup could also fragment into a small number of key areas that produce large new, deeply interconnected companies that are better at serving organisational needs. We might eventually see a re-bundling of operational and financial information into new ERPs using modern data structures with better role-based prioritisation and actioning, and a number of powerful new automation traits.
+
+We also predict that spend management players like Payhawk and Yokoy will successfully expand beyond cards into AP automation and procurement. We are keeping a keen eye on their move to the mid- and enterprise-level market.  
+
+**What we find most promising in early-stage opportunities:** 
+
+*   **A differentiated product wedge that stands out in competitive RFPs  
+    **  
+    While neglected for a while, CFOs are currently being targeted by a variety of providers, and punching through the noise is key. Differentiation can come in many forms — e.g. strong coverage and robustness of ERP, or banking connectivity collaboration capabilities — and the ROI to both finance and non-finance users should be clear. This is not only about building a great product, but also about building the smartest path into customers and crafting a strong sales story. Time-to-utility matters too. It takes many months and consulting dollars to get ERPs implemented. A modern alternative will have to do better.
+*   **A clear ICP and the ability to integrate into existing systems**The mid-market segment is where customers are most frustrated with incumbent solutions, yet flexible enough to change parts of their stack. For scale-ups, the pain point might not be strong enough to justify sacrificing margin for a third-party solution. The ability to co-exist in brownfield settings, i.e. alongside SAP or multiple ERPs across geos, will also ease adoption. Finally, challengers need to figure out how to integrate without requiring customers to acquire additional licences.
+*   ****An ability to attain sizeable ACVs with room for growth****Discounts for the first big logos are fine in order to build out vertical case studies, but price should not be the key selling point. Why? Because horizontal players can afford to undercut vertical players on pricing given that they have a clearer path to upsell. We see a lower willingness to pay for tech-first companies than traditional industries. Based on our research, individual modules across AP, P2P, or treasury within mid-market are largely sold for up to €20-30K; there should be a clear path to €100K+ ACVs and being considered within a mission-critical spend bucket.
+*   **A product-centric leadership team that speaks the language of finance teams and has the ability to navigate a complex sales motion** 
+
+Selling outside a home market is a big bonus.
+
+If you’re building in the space, want to brainstorm, or challenge our thinking, please reach out to Sarah Noeckel, Dominik Esen, or Jeppe Zink!
+
+Stay in the know about the future our founders are building. The Northzone newsletter is a monthly round-up of interviews with key people, our latest investments and portfolio news.
+
+#### Next Story
+
+###### Our investment in Spektr: automating workflows within ongoing due diligence
+
+[Read more](https://northzone.com/2024/02/21/our-investment-in-spektr-automating-workflows-within-ongoing-due-diligence/)
+
+#### Related News

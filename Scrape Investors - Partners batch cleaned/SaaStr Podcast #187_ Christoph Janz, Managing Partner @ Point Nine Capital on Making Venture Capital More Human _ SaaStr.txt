@@ -1,0 +1,333 @@
+# SaaStr Podcast #187: Christoph Janz, Managing Partner @ Point Nine Capital on Making Venture Capital More Human
+
+![](https://i0.wp.com/www.saastr.com/wp-content/uploads/2018/08/podcast-featured-187-Christoph-Janz-300x200-1.jpg?resize=300%2C200&quality=70&ssl=1)
+
+**Welcome to Episode 187!** Christoph Janz is the Managing Partner @ Point Nine Capital, one of Europe’s leading early stage funds, with a portfolio that includes the likes of ZenDesk, Algolia, Delivery Hero, Revolut, Contentful, and many more incredible companies. Before that, he co-founded two Internet startups (DealPilot.com in 1997 and Pageflakes in 2005). In 2008 he became an angel investor and discovered Zendesk, Clio, FreeAgent – and his love for SaaS. Christoph is also the writer of the phenomenal blog, The Angel VC, a must read for me.
+
+**In Today’s Episode You Will Learn:**
+
+\* How Christoph made his way from serial founder to angel in ZenDesk to today, founding one of Europe’s most successful early stage funds in the form of Point Nine Capital.  
+\* Product market fit is one of the most used words in the industry, so wtf really is product market fit? What does product market fit look like in terms of metrics across the core disciplines: MRR, churn and conversion from free to paid?  
+\* What is the hailed question that all Series A and B investors want to know? What does it take to make the graduation from Seed to Series A today? In terms of scaling, why does pouring fuel on the marketing fire not always equal more leads? How does Christoph view the role of outbound? Why is it such high hanging fruit? What is core to executing outbound successfully?  
+\* Point Nine did a comprehensive assessment of how founders view the fundraising process. What were the biggest elements founders dislike about the process? From now on, what is the thinking behind the strategy that Point Nine will always do their pro-rata in the Series A? How does this affect reserve allocation?
+
+**Christoph’s 60 Second SaaStr**
+
+\* What does Christoph know now that he wishes he had known in the beginning?  
+\* What does it take for European founders to make it big in the US?  
+\* Most common mistakes CEOs make in the scaling process?
+
+[http://traffic.libsyn.com/saastr/187\_SaaStr\_187-\_Christoph\_Janz\_Managing\_Partner\_\_Point\_Nine\_Capital.mp3](http://traffic.libsyn.com/saastr/187_SaaStr_187-_Christoph_Janz_Managing_Partner__Point_Nine_Capital.mp3)
+
+You can also take your SaaStr to go:
+
+Listen on [iTunes](https://itunes.apple.com/us/podcast/official-saastr-podcast-saas/id1089973241?mt=2#).
+
+Listen on [Google Play Music](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Iujpacmn436bab7jmtcubd4ylny?t%3DThe_Official_Saastr_Podcast:_SaaS_%257C_Founders_%257C_Investors%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16).
+
+Listen on [Spotify](https://open.spotify.com/show/58GtfFTGnjgKCT5wqpF9QH?si=k7Fs3MjlRpaGM7kBvA-MqA).
+
+If you would like to find out more about the show and the guests presented, you can follow us on Twitter here:
+
+[Jason Lemkin](https://twitter.com/jasonlk)  
+[Harry Stebbings](https://twitter.com/HarryStebbings)  
+[SaaStr](https://twitter.com/saastr)  
+[Christoph Janz](https://twitter.com/chrija)
+
+**Transcript**
+
+**Harry Stebbings**:  We are back on “The Official SaaStr Podcast” with me, Harry Stebbings. It would be great to see you behind the scenes on Instagram, @hstebbings1996 with two Bs, where you can both ask questions for future shows and suggest guests.
+
+It’d be great to see you there. However to the show today, and I’m very excited to welcome back a guest that I’ve wanted to have on the show for a very special round two for a long, long time. With that in mind, I’m excited to have Christoph Janz rejoin us in the hot seat today.
+
+Now Christoph is the managing partner at Point Nine Capital, one of Europe’s leading early‑stage funds with a portfolio that includes the likes of Zendesk, Algolia, Delivery Hero, Revolut, Contentful, and many more incredible companies. Before that, he co‑founded two Internet start‑ups, dealpilot.com in 1997 and Pageflakes in 2005.
+
+In 2008, Christoph became an angel ambassador and discovered Zendesk, Clio, FreeAgent, and his love for Saas. Christoph’s also the writer of the phenomenal blog, “The Angel VC.” It is always a must‑read for me, and if you haven’t checked it out, then that is a must. The links can be found in the show notes.
+
+That’s quite enough from me. Now, I’m very excited to hand over to Christoph Janz, managing partner at Point Nine Capital.
+
+\[background music\]
+
+**Announcer**:  Good. That’s perfect. I think we’re warmed up.
+
+**Harry**:  Christoph, it’s absolutely fantastic to have you on the show for a very special second time. Thank you so much for joining me again today, Christoph.
+
+**Christoph Janz**:  Thanks for having me, Harry. It’s great to be on your show again.
+
+**Harry**:  Not at all. I’ve been stuck in the treasure chest that is your blog for the last few days. I want to kick off with, for anyone that missed our first episode, how did you make your way into SaaS, and what I call the wonderful world of VC?
+
+**Christoph**:  Yeah, sure. I’ve been an entrepreneur for pretty much my entire life. I started trading Commodore C64 computers when I was 12, built a mail‑order business during high school, started my first Internet startup back in 1997. I sold that company after a few years, started another one, sold that after a few years as well.
+
+After that second exit in 2008, I was looking for what’s next. It wasn’t quite clear to me if I should start another company or look for angel investments. I started to look around, browsed the Web for new ideas, and then I stumbled on a website that looked interesting. It was a website that talked about Help Desk 2.0.
+
+Harry, you’re probably too young for this, but around that time, everything had to be 2.0, so that was the Help Desk 2.0. That website talked about making customer support better. It had a large picture of a friendly Buddha smiling at you. I thought that it was interesting, so I reached out to the founders.
+
+Harry, you probably know the rest of the story, but for everybody else, that company was Zendesk, which at that time was a four‑person startup, just getting started, didn’t have an office yet, operating out of the loft in Copenhagen of one of the three co‑founders.
+
+Today, Zendesk is one of the leading cloud‑based software vendors for customer support, went public a couple of years ago, and is worth a couple of billion dollars. Zendesk is really what got me into SaaS. If you talk about beginner’s luck, it doesn’t get much luckier than that.
+
+During that experience, after a couple of weeks or months of working with Zendesk, I started to look for other SaaS companies with somewhat similar characteristics, mainly around the consumerization of enterprise software.
+
+I made a couple of angel investments over the next three years or so, and then I finally teamed up with Pawel Chudzinski to raise a fund, Point Nine Capital, and that’s what I’ve been doing since.
+
+**Harry**:  What a journey it has been since. I do have to ask though, Christoph. One question that I’m always fascinated by is you said there about your entrepreneurial endeavors, you saw firsthand many boom‑and‑bust cycles in the market.
+
+How do you think seeing the boom‑and‑bust cycles of the early 2000s and then 2008 informed how you think today when investing?
+
+**Christoph**:  Yeah, I think it probably does have an impact when you’ve seen some really high highs and then shortly afterward, some really low lows as far as the level of enthusiasm or the hype cycle is concerned.
+
+It makes people like me, who are a bit older and have seen the dot‑com boom and bust maybe a bit more skeptical when they see things like ICOs getting all the hype and so on.
+
+Maybe it also means that you get too cautious, and then maybe younger people are better at spotting some of the greatest new opportunities. Maybe you get a little bit more careful when you’ve see some of these things, but overall it’s probably a helpful or a valuable experience to have seen some of these cycles.
+
+**Harry**:  For sure. I do want to break this show though up today into a couple of different but really aligned parts, starting with the question that’s always on the lips of founders and VCs, being product/market fit.
+
+Moving to that subsequent stage, post‑product/market fit, scaling the product/market fit from there, and then finishing on your operations at Point Nine and a brilliant piece you recently wrote. Does that sound good?
+
+**Christoph**:  Sounds great.
+
+**Harry**:  I love the title of this, “WTF is Product/Market Fit?” I have so many founders say…Jason Lemkin says it’s 10 unaffiliated customers. Brad Feld says it’s 500k in revenue. What does product/market fit really mean to you, Christoph?
+
+**Christoph**:  I probably have a bit of a love‑hate relationship with the term or concept of product/market fit, because on the one hand, it’s incredibly important, and as you as say, everybody says you need product/market fit, and that’s true.
+
+Mark Andreessen famously said that the only thing that really matters is product/market fit, and you should be obsessed about finding product/market fit until you have it. It’s an incredibly important concept, and it really defines a lot of what you should do.
+
+There’s almost like a before‑product/market fit phase and a once‑you‑have‑it phase, and it determines a lot of the strategies and tactics that you have to apply.
+
+On the other hand, there is really no generally accepted definition of this. You already mentioned two definitions that may not be completely compatible, or at least may be similar, but not the same.
+
+There are other people, like Paul Graham, who, I think, said, “Product/market fit simply means that you make stuff that people want.” Others have somewhat more sophisticated definitions.
+
+I think Mark Andreessen said that product/market fit is being in a good market with a product that can satisfy that market. I think you mentioned Brad Feld said you don’t have product/market fit until you have, I think, a half a million in ARR or something.
+
+There is a pretty broad definition of product/market fit, so the term is maybe a bit overused and under‑defined. There is not just one correct definition of it.
+
+What I personally like is to define product/market fit as having a product that solves a problem for a significant number of independent customers, quite similar to how Jason put it when he says you need three, four, or five independent customers. I think that’s a pretty pragmatic and useful way of looking at it.
+
+**Harry**:  He said that about significant number of customers. The hallowed word for all VCs is often TAM, total addressable market. I’m interested, Christoph, to what extent does market size really play a role in your investment consideration today?
+
+**Christoph**:  It does play an important role for us. We, like pretty much all other investors out there, aspire to invest in companies that eventually become very large, so we do look at market sizes whenever we consider making an investment.
+
+At the same time, we’re also aware that it’s really, really hard to predict market sizes, and it can be a pretty humbling experience. For some of the best companies out there, maybe there was no market initially. Maybe they created their market.
+
+If you think about Twitter or Snap, or maybe even some companies on the B2B SaaS side, such as Slack or UiPath, where arguably maybe there was no market, or it would have been very hard to estimate.
+
+We do look at the market size, but we try to be not too dogmatic or religious about only wanting to invest in companies that target a certain TAM, because the TAM can change so much over time. The best teams find ways to expand into new markets, and so on and so forth.
+
+**Harry**:  Going back to the product/market fit element, we had Peter at Segment on the show recently. He suggested a kind of poignant catalytic moment when they realized that they had product/market fit. It doesn’t always seem to be the case that it’s this one moment.
+
+How do you think about product/market fit as a single moment versus a continuous evolution towards it?
+
+**Christoph**:  I actually saw a fantastic presentation of Peter Reinhardt at SaaStock in Dublin a few years ago where he described Segment’s journey towards a product/market fit. I think they’d been trying various things for months, if not years, and they didn’t really work out.
+
+Suddenly, they hit on something. He described it as if a landmine had exploded. That was when they suddenly got to this incredibly strong product/market fit.
+
+I think this is an amazing experience for Peter and Segment, but in my experience, it’s not the rule. It’s more like the one exception. I think it’s much more typical that product/market fit isn’t that black and white. It’s more a gradual process, more like you continuously increase the degree of product/market fit.
+
+It may not necessarily only go always upright. You might think to have product‑market fit, and then things happen in the market, maybe you lose some customers or there is a new competitor. Then you are maybe less sure that you actually have product/market fit.
+
+I think it’s very rare that it’s so black and white as in the Segment case. Definitely made things very clear and easy for them, and probably gave them a strong signal to say, “Now it’s really time to put the…
+
+**Harry**:  Pedal to the metal, fuel on the fire.
+
+**Christoph**:  “…pedal to the metal.” I think most founders don’t find themselves in that situation where it’s so clear. It’s more as search for product/market fit that may take two or three years, where you’re not really sure, how strong is your product/market fit really?
+
+**Harry**:  I’m going to ask a really unfair question here, \[laughs\] but I would love to hear your thoughts. Obviously, we’re going to take into account that all businesses are very different, and this doesn’t encompass every business.
+
+If we’re looking at data and measurements, and assessing product/market fit across different disciplines and metrics, and taking three in particular, what kind churn rate would suggest a positive assessment towards the product/market fit lens to you?
+
+**Christoph**:  Harry, that’s a really unfair question indeed.
+
+\[laughter\]
+
+**Christoph**:  It really depends. I think it’s hard to generalize. It depends on various factors. It starts with a question like, “How qualified are the prospect, and then the customers that you onboard in the first place?”
+
+I will mention some numbers, because you asked for it, but I think you really have to take them with a big grain of salt. I would say, as far as churn is concerned, if you’re an enterprise SaaS, and you only look at the properly onboarded customers, the churn rate for them should be pretty close to zero.
+
+If you’re an SMB SaaS, then it’s always somewhat higher. It might be 1.0 or 1.5 percent per month, just because SMBs go out of business at a certain rate, maybe 10 percent per year or so.
+
+I also mentioned properly onboarded customers, because your churn rate might be higher if you have some customers among your customer base which shouldn’t have been customers in the first place, because maybe there is no great fit between what they need and what your product offers.
+
+I think the churn rate in the first couple of months of the lifetime of your customers can be higher, until you really figured out what the ideal customer looks like, and you only get this type of customer. In the beginning, when you look at the churn on a cohort basis, then it’s not too worrying if there is a drop‑off during the first one, two, three months or so.
+
+If you look at all those customers that survive the first couple of months, then I think you should expect that most of them will stick around.
+
+**Harry**:  Again, another very unfair one. A lot of founders assimilate product/market fit to where they are in terms of MRR. They often actually have the two questions. They think, “What sort of MRR suggests product/market fit?”
+
+Maybe one which, again, is very challenging, but what sort of MRR suggests a series A raise today and that graduation from seed to A? How do you think about MRR in relation to those two?
+
+**Christoph**:  I think it’s really difficult. You might get to hundreds of thousands of ARR, like tens of thousands of MRR, without having product/market fit, if the founders are great salespeople.
+
+You just sell to clients whatever they want, and you somehow manage to get away with it, and you deliver a product that might need a lot of customization, and so on.
+
+I think it’s almost impossible to say, “This is how much MRR you need, and then you know you have product/market fit.” As a very, very general rule of thumb, I would maybe say, just in terms of the order of magnitude, if you are going after what we tend to call the rabbits types of customers or deer, then maybe that’s around 10k of MRR.
+
+If you are, however, aiming for those large customers, which we tend to call elephants or whales, then that number might be significantly higher, because product‑market fit requires some degree of repeatability.
+
+If one customer is worth hundreds of thousands of dollars in ACV, and you think you need a couple of them to know that you have product/market fit, then you obviously get to a higher number.
+
+**Harry**:  Absolutely. Now I’ve grilled you enough so unfairly, I would love to discuss the phase, post‑product/market fit. Assuming that we have that critical stage, when speaking to series B or C investors, a lot ask the fundamental question. I’d love to hear your thoughts on what the fundamental question is and what they really mean by it.
+
+**Christoph**:  I think it’s very different if you compared series A and series B. At the series B and later rounds, I think it’s all about scaling and about the confidence that a company is able to scale, meaning scaling customer acquisition, but also meaning scaling the organization and everything that comes with that.
+
+At the series B and maybe even more so at the series C level, I think VCs want to understand your customer acquisition channels, your CACs, your payback ratios, lifetime values, all of these great metrics, and want to get a sense for whether you have something that is repeatable and whether you have channels that you can scale.
+
+On the other hand, at the series A level, I think sometimes the series A can have more like the characteristics of a seed round. It depends on, obviously, the type of investor. The level of proof that series A investors want to see at that stage is much, much lower.
+
+It’s more about getting some confidence of product/market fit, again, hard to define. Series A investors usually want to get some proof that there is product/market fit. For some investors, that means they want to see something in the order of a million or one‑and‑a‑half million in ARR, but not for everybody.
+
+It greatly also depends on the founding team and the track record of the founding team, the size of the opportunity, and all of these factors. At the series A level, it can sometimes be somewhat more qualitative, whereas, starting from the series B, it becomes much more quantitative and metrics‑driven.
+
+**Harry**:  You said that about the scaling of customer acquisition costs. I was with a founder the other day, and he said, “If I spend 10k, then I get 100 leads, so if I spend 100k, I’ll get 1,000 leads.” I’d love to hear your thoughts on this and maybe the dangers and inherent challenges around this.
+
+**Christoph**:  In what you just described, the ability to scale your budget by 10x, and then also get 10x the amount of customers, is actually very rare in B2B SaaS. For a consumer Internet business, let’s say an e‑commerce business, I think this is more frequent, because you can do mass‑market advertising, maybe TV ads, whatever.
+
+In B2B SaaS, I think it’s pretty rare that you can so easily scale advertising budgets. The reason for that is that almost naturally when you start, you capture the lowest‑hanging fruits first.
+
+You get the warmest leads first, because those are the ones that are actively looking for whatever you offer. You get the cheapest keywords to start with. That makes it very hard to extrapolate from the results of the early paid advertising trials that you might make as a founder.
+
+**Harry**:  You said about the warmth of the leads there. You also said before that making outbound sales work is an indicator of maybe a scalable customer acquisition. It’s also expensive and timely. You’ve seen many successful businesses scale their outbound sales. What have been your learnings on making outbound successful, and why it presents such a scalable acquisition channel?
+
+**Christoph**:  I’m actually not sure if we’ve seen so many companies make it work. I think it’s pretty hard to make it work. If we talk about the low‑hanging fruits, then I think outbound is actually a very high‑hanging fruit. It’s very difficult, but it also means that if you can crack it, then you potentially or probably have a highly scalable channel.
+
+If you are able to cold‑call prospects and turn them into customers, then you can basically call up every potential customer on the planet. It can be highly scalable, but it’s really, really hard to make it work economically. It’s usually not something which I would recommend an early‑stage SaaS founder to do as one of the first things.
+
+It’s usually something that you should consider doing when you are starting to exhaust other channels. It should also never be your only customer acquisition channel. If you get really no inbound interest and no organic demand for the product, then I would be concerned that product just isn’t great enough, and that customer acquisition, in the end, will be too expensive.
+
+**Harry**:  A final question before we discuss Point Nine and the recent fantastic blog post. You mentioned about scaling outbound. I often meet a lot of founders who want to scale outbound on the enterprise side, but often, obviously, there’s a long payback period for the enterprise sales cycles.
+
+They suggest about doing SMB and smaller deals in that meantime. How do you think about doing both at the same time, the effectiveness of it, and the concerns for the founder of the long payback period if doing it enterprise‑only?
+
+**Christoph**:  For most founders, most SaaS companies, I think they are probably better off if they have quite a lot of clarity on the type of customer that they serve ‑‑ again coming back to these animal metaphors that we like so much ‑‑ if you only serve either the rabbit‑type customers, or the deer, or the elephants.
+
+It has so many implications on how you run the entire company, on your cost basis, and how you do, what language you use on your website, and how you do marketing and sales. If you try to sell to tiny customer and large customers at the same time, that can add a lot of complexity and make things more difficult.
+
+I would, however, say that there are definitely exceptions to this general rule. I think one exception are companies often that have a product addressing developers. Then you often have this situation that developers are the people who first discover the product. Maybe you have a free plan for them or a very cheap entry‑level plan.
+
+Eventually, you get into a larger enterprise. Algolia from our portfolio would be a great example for a company that has been very successful like this, and which is now generating a significant share of their revenue from large customers, but they still have a product that is loved by developers. They managed to make that work.
+
+We see Slack would be another great example of a company that is managing to serve a large variety of different types of customers at once. Unless there are strong reasons for that strategy, or unless you feel a really strong pull from the market to serve various types of customers, you’re probably better off simplifying things a little and really focusing on a customer segment that is not too wide.
+
+**Harry**:  You mentioned your portfolio and Algolia there. I do want to touch on, before we move into the quick fire, Point Nine, that today.
+
+You recently wrote the fantastic blog post about making VC more human. You did a great survey on European fundraising for founders and the experience. You found that founders were still frustrated with the process. What were the commonalities, Christoph, in terms of their biggest frustrations?
+
+**Harry**:  We did a survey. I think it’s been one or two years ago or so already. We asked founders to rank the various things that they don’t like about fundraising. Our experience is that fundraising can still be a major distraction, if not a pain in the ass, for founders, because it take so much time away from the real business.
+
+There were several things which founders don’t like about fundraising. One is that it takes so much time. You often don’t know where you are in the process. I think that was probably the number one thing which people pointed out.
+
+They talked to a lot of VCs, and then people failed to close the loop. You follow up and you just don’t know where you are. I think that is one thing.
+
+Another thing is having to deal with complicated term sheets, due diligence checklists, legal contracts. All that legal side of fundraising is something which founders tend to hate. I think they rightfully don’t see a lot of value in that.
+
+Another factor is something which we addressed in this recent initiative and blog post that you mentioned. This is not something we asked about in the survey some years ago, but which we also know is an issue, that founders are worried what their existing investors do.
+
+Are they going to participate in the next round of funding or not? If not, what kind of signals does that send to the next‑round investors? Those are some of the things that we tried to address in the initiative that you were referring to.
+
+**Harry**:  Christoph, you’re making my life incredibly easy there by saying about the previous‑round investors following on. You said in the post that you always do your pro rata. Talk to me about the thinking behind this and how it maybe affects your thesis on reserve allocation.
+
+**Christoph**:  For everybody who hasn’t read that blog post, what we decided to do was that we announced and made a pledge that we will always do our pro rata in a series A for all of the seed investment that we’re doing from now on.
+
+It may not actually have such a dramatic impact on our reserve allocation. In most cases, we would probably have done the follow‑on investment anyway, even without that pledge. We’re now a bit more careful to make sure that we reserve enough money to fulfill that pledge, but it doesn’t make a huge difference.
+
+I think it’s mainly about the peace of mind that we’re helping to create here for the founders, just having the certainty. Maybe we will do our pro rata in 90 percent of the cases anyway, because we want it, but as a founder, until the round is done, you may not know that this is the case. You may not know that you are, in fact, in the 90 percent bucket and not in the 10 percent bucket.
+
+Our intention was to just take one topic off the table, because we think there are enough topics which you have to worry about as a founder, as you go through that process.
+
+Frankly, it also make our life a little bit easier, because we don’t have to debate these decisions anymore. We have a default now. Whenever a company goes on to raise a series A, we don’t even have to debate it internally anymore.
+
+**Harry**:  You mention debate there. I’m playing slight devil’s advocate here, Christoph, but there is the caveat that only if the round is done by a legitimate A‑round investor is this the case of certain follow‑on.
+
+Most often there, with these rounds, with legitimate A‑round investors, actually the founders don’t need it. Often, the A‑round investors want to maximize their ownership as much as possible. I’m intrigued. Is this caveat not a slight contradiction in the case?
+
+**Christoph**:  It’s true that, in some cases, even though we commit to doing our pro rata and want to do it, maybe it’s hard for us to do it. Maybe the new investor in some of these very hot rounds maybe feel like there is not enough volume, and they want to try to reduce the allocation to the existing investors.
+
+In the cases where things go really well, it’s true. There, that commitment isn’t really needed, but I think it helps founders in the beginning. At that time, they don’t know yet if they are going to be one of these hot companies where there is too much money rather than too little on the table.
+
+On your point about being legitimate A‑round investors, it’s not like we have strings attached there or a footnote like, “Here are the qualifications or what a series‑A investor should look like.” We will do this regardless of the quality of the series‑A investor.
+
+It’s not like this has to be a tier one or some other kind of definition. We will also do it regardless of the performance of the company and how bullish we are. The only thing that we said there was it should be an externally‑led A round.
+
+If it’s some weird financing like a government loan or an internal bridge for a few hundred thousand, that is not an A round. That is the only thing that we wanted to make clear. Other than that, there really are no strings attached. That’s the whole idea around it.
+
+**Harry**:  I love it. That clarifies that for me. In terms of the step further into the weeds, there’s the term sheet. It’s often immensely confusing for founders. You standardized and published yours. Why do VCs sometimes have very long and complex terms sheets, Christoph? It maybe seems unnecessary to have 10‑12 pages.
+
+**Christoph**:  I think there probably is no good reason for that. I think it’s more a historic reason. Maybe years ago or decades ago VCs used that, basically maybe just used the leverage which, back in those times, they had, at least in Europe, to secure rights which go beyond what you should get as a VC.
+
+I think a certain amount of detail in a term sheet might be reasonable. You want to be clear that, if you sign a term sheet, both sides really know what they get. The last thing you want is to sign a term sheet, and then later on the deal doesn’t get through because maybe there was a misunderstanding.
+
+I don’t blame any VC who has a term sheet that has a couple of pages instead of maybe just one or two, but it shouldn’t be 10 pages, and it shouldn’t be super complicated. It doesn’t have to be written in the language that only lawyers understand.
+
+I think it’s about finding the right balance between making sure that the key provisions are in there so that both sides know what they’re getting, but at the same time trying to avoid making it unnecessarily complicated.
+
+**Harry**:  I’m thrilled I was not the only one struggling with the complexity of some term sheets. I would love to move into my favorite of any interview, being the 60‑second SaaSTr. As you know, I say a short statement, and you give me your immediate thoughts. How does that sound?
+
+**Christoph**:  I will give it a try. I will do my best.
+
+**Harry**:  What does it take to start in Europe and make it big in the US?
+
+**Christoph**:  As a founder, you have to be super committed. Every founder has to be incredibly driven and committed to building a successful company. For European founders who want to make it in the US, I would say the bar is even higher.
+
+If you look at, for example, the founders of Zendesk or Algolia, they took their families and moved them from Europe to the US. That’s a huge step which requires a lot of conviction and commitment, and a very strong desire to build a very large and successful company.
+
+I think you also have to be incredibly smart and fast‑learning. Some things work different in the US, so you have to be able to adapt to that and be able to survive in that hyper‑competitive environment.
+
+**Harry**:  What are the most common mistakes that CEOs make in the scaling process?
+
+**Christoph**:  I think maybe the most common mistake is trying to scale too early, like trying to hire too many salespeople before you have a product that is worth selling or before you’ve figured out the first sales yourself. I would say that’s probably the most common mistake.
+
+Then maybe underestimating how long it takes to build a team, let’s say, on the sales side, basically how much lead time you need to find the right salespeople, train them, make them effective.
+
+If you have a certain goal of your sales targets for 12 months from now, and then you try to work your way backwards there, if you don’t do this very carefully, I think you can easily end up in a situation where you realize you’re missing your targets, but it’s way too late to address that, because you should have hired more people months ago.
+
+Maybe the last thing I would add ‑‑ and this is also a topic that I feel very strongly about and wrote a blog post about ‑‑ that if you don’t really invest in people enough early enough, one of the things that we see that differentiate experienced serial entrepreneurs from first‑time entrepreneurs is that the experienced people hire a dedicated full‑time HR person.
+
+Like Head of Talent, Head of HR, Chief People Officer, or whatever the title might be, much earlier than the less experienced ones, because they know that a person like this can really be almost like the magical secret weapon who can help the CEO scale in a much better and much faster way.
+
+**Harry**:  What would you most like to change in the world of SaaS today?
+
+**Christoph**:  That’s a good question, Harry. I’m not sure. I think we live in a pretty good world and time to start a SaaS company. There are so many APIs, tools, and building blocks that you can use, so I think it’s a pretty good time to start and scale a SaaS company.
+
+If I could change something or have a wish, maybe it would be that there are more, better financing options for those SaaS companies that are not on the unicorn path, if you want to put it that way.
+
+As you know, VCs ‑‑ and I don’t exclude ourself from that ‑‑ everybody is focused on these gigantic outliers, on these very, very rare outcomes. I think for every SaaS company that can get to $1 billion in eventual evaluation, there are probably 10 that can get to $100 million, and maybe 100 that can get to $10 million, or tens of millions.
+
+There can be lots of great, profitable, viable businesses which are worth pursuing, but which don’t produce the kind of returns which make sense for venture capitalists. I think there is an increasing supply of capital for this type of company from PE investors and different types of investors.
+
+It seems like this is getting started now, or we’re seeing more and more of that, and this is something which I am hope we’ll see more of, because that is, I think, a difficulty for SaaS founders who are building great companies, but not the type of companies that just doubles or triples for many years in a row.
+
+**Harry**:  Should early‑stage companies take multi‑stage VC fund money?
+
+**Christoph**:  My answer to this might sound a little bit self‑serving, because as you know, we’re an early‑stage fund. We are exclusively focused on seed early‑stage investments.
+
+I think in most cases, the answer to your question is no. I think there might be exceptions, but in most cases, if you are a seed‑stage startup, and you’re raising half a million or a million, then it’s not a great idea to take this check from a fund that is managing hundreds of millions or maybe a billion or several billions.
+
+It’s unlikely that you will really get the same attention, like a company where that fund puts in 10 million, 20 million, 30 million. All the great benefits that some of these large funds have, you will probably not get them if you are just an investment, which from their perspective is really tiny.
+
+You are kind of like an optionality ticket in most of these cases, and then you have the signaling risk. What happens when you raise the next round, and the market knows that this was just an optionality ticket?
+
+The market cannot expect that if things go decently well that investor will take the lead in the next round. I’m sure there are exceptions, but usually I think it’s a good idea to choose an investor where there’s a fit between what they typically do in terms of the stage, and the stage that you are currently in.
+
+**Harry**:  Especially for maybe slightly less‑funded ecosystems like the UK and Europe in general, it also often takes up, kind of, the biggest prices up of the next round of a seed, because they’re disincentivized to price it up, I think that’s often something that’s not considered enough.
+
+I do want to finish, though, on what do you know now that you wish you’d known at the beginning, Christoph? This can be the beginning of your entrepreneurial career. It could be the beginning of your angel investing, or the beginning of Point Nine, but the beginning of…
+
+**Christoph**:  I think when I started with SaaS investing, then it was probably quite helpful that I didn’t know so much about Saas, because all the investors who knew a lot about enterprise software at that time, a lot of them looked at Zendesk in the early days and passed on it, because there were lots of good reasons why this wouldn’t work.
+
+I think a certain amount of naivete that I had was probably useful. If I think about, what do I wish I had known then, maybe it’s just the knowledge or the experience that what massive success looks like.
+
+Where the companies that I started before I became an investor had various degrees of success, like lots of complete failures and one or two companies that had a decent level of success, but nothing even remotely close to the order of magnitude of the success of Zendesk.
+
+I never experienced that kind of growth and that kind of ambition. Maybe if I had had known that, yes, it’s actually possible to create a company that gets to $100 million in revenues within a couple of years and that eventually becomes worth billions of dollars, that would probably have helped me maybe make some better decisions at the time.
+
+**Harry**:  Christoph, as you can tell, I’ve certainly enjoyed having you back on the show. Thank you so much for joining me again today.
+
+**Christoph**:  Thank you very much to you, Harry.
+
+\[gong\]
+
+**Harry**:  I have to say, it’s always such a pleasure to have Christoph on the show, and such a fantastic chat there. If you’d like to see more from Christoph, you can find him on his blog, The Angel VC, or on Twitter @chrija.
+
+Likewise, it’d be great to see you behind the scenes here at SaasTr. You can find us in Instagram @hstebbings1996, with two Bs. It’d be great to see you there.
+
+As always, I so appreciate all your support, and I cannot wait to bring you a very special episode next week.

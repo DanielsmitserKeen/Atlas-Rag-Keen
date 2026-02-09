@@ -1,0 +1,191 @@
+# Pricing and Packaging Strategy for Early-stage Startups
+
+Most early-stage startups spend more time scrolling on social media in a single week than they do on [their pricing and packaging strategy](https://www.paddle.com/blog/frequency-pricing-change) throughout their company’s entire lifetime. Only 6% of SaaS companies have ever done pricing research on buyer needs and willingness to pay, according to [OpenView](https://openviewpartners.com/blog/saas-pricing-insights/). And, frankly, I don’t blame them because pricing and packaging feels closer to a dark art than an understandable driver of business.
+
+##### Traditional pricing strategies don’t work for early-stage
+
+In the early stages, there aren’t thousands of data points to analyze or hundreds of buyers to survey. That means that sophisticated pricing research methodologies and analyses that require large volumes of data just don’t work.
+
+So, instead, startups end up guessing. They pick a random price out of the air, or base it on what competitors are charging, and they see how the market responds. Unfortunately, that typically leads to two issues: 
+
+1.  **Undercharging** – leaving money on the table 
+2.  **Overcharging** – losing prospects due to a high pricing
+
+But, early-stage startups don’t have to resort to guessing. They can leverage a straightforward, 9-step pricing and packaging methodology designed for early-stage startups. Let’s dig into it now.
+
+[Download the pricing and packaging template here](https://www.productmarketinghive.com/pricing-and-packaging-template-for-early-stage-b2b-saas-startups/).
+
+## Step #1: Identify your key objectives 
+
+Packaging and pricing changes don’t just randomly happen – they’re prompted by shifts in the market, competition, customers, or products. 
+
+Maybe you’re getting crushed by competitors, launching a product, or entering a new market. Whatever the reason, define what you’re trying to achieve in a few bullets to get everyone aligned on _why_ you’re changing pricing and packaging. Here’s an example:
+
+Evaluating Packaging and Pricing for ACME Startup 
+
+*   **Situation:** We’re losing 30% of opportunities to Competitors A and B. They have more comprehensive product portfolios. We don’t have the bandwidth or resources to invest more into product development to match them.
+*   **Objective:** Evaluate whether we can better compete (i.e., win more deals) if we lower our pricing or repackage our offerings. Perhaps we can appeal to a subsegment of our market that doesn’t need as many bells and whistles and is more price sensitive.  
+
+The situation and goal should be specific and based on your startup’s situation. 
+
+**Pro Tip:** It’s helpful to identify an executive sponsor that will champion this initiative and spur leadership when needed. They’re typically either the CFO or the C-Suite leader of product marketing, such as the CMO or CPO.
+
+As a first step, I’d suggest sharing this framework and the situation and goal you identified with your executive sponsor to ensure they’re aligned and to make any adjustments as needed. You’ll also want to run each step of this process by your executive sponsor for feedback and/or confirmation.
+
+## Step #2 Establish your pricing committee
+
+It’s much more effective to develop pricing and packaging as a small group than for one person to go it alone. You get varied perspectives from the people involved and it’s easier to get company-wide buy-in if key stakeholders from major teams are involved.
+
+Keep in mind you’ll want to keep it to the smallest effective group possible – I typically aim for three to five people, with a max of six members. You’ll want to include: 
+
+*   **Product marketing leader** – drives the pricing and packaging process
+*   **Marketing leader** – provides context on demand generation and helps with experimentation
+*   **Sales leader** – delivers the Sales perspective, shares sales goals, and facilitates pilots
+*   **Finance leader** – establishes financial goals, including key metrics such as target margins
+*   **CEO** – should identify the startup’s key business goals and be the ultimate decision maker 
+
+Next, you’ll want to get this group together for a kick-off call where you’ll review your project’s objective and get alignment on your startup’s business goals.
+
+## Step #3: Define your startup’s business goals
+
+For the kick-off call, start by reviewing the situation and objective of your pricing and packaging project. 
+
+Next, discuss your startup’s key business goals. In my experience, startups usually want to do it all and tend to have many goals. Try to guide the committee to identify a maximum of three goals and to stack rank them (note: these goals shouldn’t conflict). If there’s uncertainty, ask the CEO to make the final call.
+
+These business goals will play a major role in the pricing and packaging strategy you decide to adopt. Below are the most common business goals for B2B SaaS startups and how they impact your pricing and packaging strategy.
+
+*   **Maximizing Profitability**  
+    Raising prices coupled with reducing or recouping costs support higher margins. Charging for implementation is a common way to recoup the cost of onboarding.
+*   **Increasing Market Penetration**  
+    Pricing can be a barrier to a sale or make the sales cycle longer. To quickly penetrate a market, startups might offer lower pricing or introduce an entry level product with lower pricing to get in the door. From there, they can upsell or cross-sell (land and expand).
+*   **Preparing for Next Funding Round or Acquisition  
+    **[Net Revenue Retention (NRR)](https://churnzero.com/churnopedia/net-revenue-retention/) is one of the most important metrics for raising funds or being acquired. And it’s largely driven by cross-sells, upsells, and retention. As a result, pricing and packaging can have an outsized impact. 
+*   **Maximizing Revenue**  
+    In addition to raising prices on existing products, another way to maximize revenue is to bundle multiple products into a single offering for a higher price.
+
+As you can see, these business goals have a major impact on pricing and packaging strategy.
+
+**Pro tip:** Reach out to the CFO to ask what key metrics and targets are important to them. For example, one CFO I worked with asked me to keep margins at 60% or higher.
+
+## Step #4: Run the numbers
+
+The most important part of pricing and packaging is understanding your customers – their needs and pain points, how they want to buy, their consideration set, and their price sensitivity. You’ll want to approach this in two ways: looking at the data and talking to your customers. 
+
+There are a ton of ways to slice and dice sales data, that is, if it’s available and plentiful in your CRM. Here are a few ways you’ll want to analyze your sales data:
+
+|     |     |
+| --- | --- |
+| – Customer segments and key personas | – Average discount |
+| – Industry | – Customer acquisition cost and lifetime value |
+| – Company size | – Churn |
+| – Average contract value | – Product adoption and usage |
+
+That analysis will help you get a picture of your current situation. Are there certain segments that are more price sensitive and request more discounts? Are there certain sales reps that have significantly higher ACV than others? Are there certain customers that stick around longer? Etc. 
+
+You’ll want to supplement this with a quantitative survey of your buyers, if you have access to 100+ of them. Your survey should include: 
+
+If your survey platform doesn’t automatically calculate the results of the Pricing Sensitivity Meter, [check out Conjointly’s guide](https://conjointly.com/guides/manual-calculation-of-van-westendorp/) to manually calculate them.
+
+*   An overview of your product  
+    Provide a high-level overview of your product, detailing the key features and benefits. This should strike a balance between enough information to show the value without being overly detailed, giving buyers enough information to answer questions on packaging and pricing.  
+    
+
+*   Questions asking buyers how they’d prefer to consume and purchase the product  
+    There are many questions you can ask, but here are a few I’ve found particularly helpful:
+
+1.  Which features do you consider most valuable in our product?  
+    _Note: Create a multi-select question and a write-in option. Follow up by asking respondents to rank these features. Then, ask about additional features that might encourage upgrading to a higher-tier package._
+2.  Do you prefer having all products bundled in one package or the ability to purchase individual products as needed?
+3.  How would you prefer to consume our product? _Note: Share relevant options, such as flat rate, tiers, usage-based, seat/license-based, etc. Use examples to illustrate the differences between options._
+4.  How would you rate the value of our product compared to other products?
+
+*   Questions asking buyers how much they’d be willing to pay
+
+1.  I recommend using [Van Westerndorp’s Pricing Sensitivity Meter](https://www.surveymonkey.com/market-research/resources/van-westendorp-price-sensitivity-meter/) to gauge pricing. This entails asking four questions about pricing perceptions to find the ideal range for your product’s pricing. 
+2.  If your survey platform doesn’t automatically calculate the results of the Pricing Sensitivity Meter, [check out Conjointly’s guide](https://conjointly.com/guides/manual-calculation-of-van-westendorp/) to manually calculate them.
+
+## Step #5: Talk to your customers
+
+Interviewing customers will provide more in-depth qualitative insights to help you better define your Ideal Customer Profile(s) and key customer segments.
+
+Leverage the segment and persona insights you gathered from the quantitative analysis to guide your decision on who you should interview. 
+
+You’ll want to target interviewing 5-7 customers about their pain points, valued features vs. least valued features, packaging desires, etc. At some point, you should start hearing similar responses and not much new information, that’s when you know you’ve done enough interviews. In my experience that’s in the 5-7 interview range, but sometimes takes up to 10. 
+
+Once you’ve conducted the interviews, analyze the interviewees’ responses and see what common themes and trends you can pick out. Those insights should give you what you need to form the basis of your packaging and pricing strategy.  
+
+## Step #6: Identify your product’s value metric
+
+Price is reflective of value. We all know that the more valuable a product is, the higher the price. That implies that you have to identify your product’s value to know how to price it.
+
+A great way to do that is to ask buyers to stack rank your features – both in the survey and in the interviews. You can also create a feature/benefit matrix that maps your key features and the benefits they provide. I’d suggest keeping it to a maximum of 10 features. 
+
+Below is an example of accounting software for small businesses:
+
+| Problem | Feature | Solution | Benefit/Outcomes |
+| --- | --- | --- | --- |
+| Manually entering in expenses is manual, tedious and often results in errors. | Automated Expense Pulls | We automatically pull in expenses from your credit card statements, checking accounts, and payment services such as Zelle, Venmo, and CashApp. | – Eliminates manual, tedious expense tracking by automating it   <br>– Reduces human error   <br>– Saves small business owners ten hours a month  <br>– Ensures accurate expense tracking and reporting |
+
+I recommend collaborating with Product Management to create this matrix. Rank the features from most to least valuable using a combination of internal feedback from Product and customer-facing teams, as well as customer survey and interview feedback, and product usage data.
+
+Your number one goal is to identify your product’s value metric. A [value metric](https://www.paddle.com/blog/value-metrics-pricing) is the way you measure your product’s value. That’s kind of abstract, so here are a few examples.
+
+If you’re a messaging platform, your value metric will likely be the number of messages sent. Or if you’re a video service, it’s likely the number of videos stored. Or if you’re a CRM, it’s probably based on the number of contacts. In all these cases, the value a customer receives increases with every additional unit – every additional message, video, or contact, provides more value.
+
+Make sure to identify your value metric and make it the basis of your pricing.
+
+## Step #7: See what competitors are up to
+
+Your startup doesn’t exist in a vacuum – you likely have competitors offering similar products and services. And inevitably, your pricing and packaging will be compared to those other providers, so it makes sense to make the comparison yourself and see how you stack up.
+
+You’ll want to evaluate the 3-7 competitors that: show up most often in sales conversations, that you lose to, that are most like you, and that have the most market share. Along with scouring their website, you can: leverage sites like G2, TrustPilot, Capterra, etc. to see reviews, ask customers and prospects about competitors, scour social media sites like Reddit, look up analyst reports, etc. 
+
+The goal is to get a sense of their positioning and messaging, as well as their packaging and pricing. I’m certainly not recommending competitor-based pricing, but it is helpful to be aware of their positioning and pricing, and their value metric.
+
+Pricing is a key element of positioning and can serve as a major differentiator. And it doesn’t just have to mean lower or higher pricing. 
+
+If everyone in the market is using the same value metric – say seat-based pricing – and through customer interviews you learn that seat-based pricing limits product adoption and stickiness, then it makes sense to change your value metric. Adopting an unlimited user pricing model will help you stand out and enable buyers to purchase and consume your product how they’d like to, which should increase adoption and retention.
+
+## Step #8: Create packaging & pricing options
+
+At this point in the process, you’ve gathered enough data to start coming up with packaging. 
+
+There are many different types of packaging, but for B2B SaaS startups the most common package is leveraging [good-better-best tiers](https://www.paddle.com/studios/shows/pricing-tips/pricing-tip-9-good-better-best-pricing). The idea is that most prospects will choose your middle tier, prospects with simpler needs or that are more price sensitive will choose your lowest tier, and larger organizations or those with more needs will choose the most expensive option. The GBB tiering system is a great way to capture as much value as possible from the market.
+
+If you’re interested in exploring other models, highly recommend checking out [Paddle](https://www.paddle.com/resources/pricing-strategy#top-7-pricing-strategies) for theory and explanation and [PricingSaaS](https://pricingsaas.com/) for current examples, benchmarks, and analysis. Regardless of the packaging you choose, the key is to center around the value metric you’ve identified and the feedback your customers have provided. 
+
+As far as pricing, that should be based on the answers to the Pricing Sensitivity Meter questions in the buyer survey and/or interviews. Along with competitor research and internal feedback, that will give you a good range to start with.
+
+## Step #9: Test your theory 
+
+Packaging and pricing at the early-startup stage is more art than science. 
+
+Many of the complex techniques they teach in the CPG world or in MBA programs don’t apply because there just isn’t enough data. As a result, you’re taking some guesses, and you need to validate them before launching your new pricing and packaging.
+
+In my experience, the best way to do that is to run a pilot to test the packaging and pricing. Depending how your startup is organized, you can select one or a few sales regions or specific sales reps to test the new packaging and pricing with prospects for a defined period, say 3-6 months. 
+
+The reason you want to isolate this pilot to a few sales reps or regions is so that you have a control to compare to, in this case, the other sales regions or sales reps. This will help account for seasonality, sales slumps, and market or competitor changes.
+
+Partner with the sales leader to identify the right sales reps or regions for these pilots. You’ll want to train these reps and arm them with the sales collateral they need to explain the new pricing and packaging, as well as objection handling. 
+
+Before you get started, make sure to set specific goals for your pilot and ensure you can track associated metrics. For example, your goal could be to maintain win rate while increasing ACV. You’ll also want to track these opportunities and metrics in your CRM and to report on them monthly. 
+
+Frequent check-ins are helpful to gather feedback and results from the reps. I recommend once a week for the first month, then moving to bi-monthly. Take feedback with a grain of salt – you’ll be tempted to change your packaging and pricing immediately as soon as you hear whiff of difficulty, but don’t. Instead, wait until you hear the feedback repeatedly from multiple sales reps and multiple customers. Listen to call recordings and try to interview customers to learn more. Adjust accordingly after you’ve heard the feedback consistently, a good rule of thumb is if you’ve heard the same feedback 3 weeks in a row, it’s probably right.
+
+**Pro tip:** ask your sales leader if it’s possible to guarantee the sales reps’ income during the pilot. That will make them much more likely to participate in this test. In these cases, income is typically based on past performance.  
+
+## Step #10: Finalize and launch 
+
+Now that the pilot is over, take a few days to analyze the results and compare them to your stated goals. Compile key metrics for the pilot including ACV, win rate %, sales cycle length, average discount, etc. Compare those metrics to:  
+
+*   The control group – aka the other sales reps or regions that didn’t participate in the piliot
+*   Past performance – look at the past performance of the sales reps involved; for example, if the pilot was three months long, compare the performance of the sales reps that participated to their own performance for the three months prior to the pilot
+*   Historic performance – to account for seasonality, compare the sales reps’ performance to their own performance in the same time period the year before
+
+If you’ve met or exceeded your goals, congratulations! If not, talk to the sales team and ask them what they think happened, watch recorded calls to see it for yourself, conduct win/loss analysis with prospects and customers, and consider extending the pilot or going back to the drawing board.
+
+Regardless, you’ll want to circle back with the pricing committee to share results and align on next steps. If you agree to move forward, update and finalize packaging and pricing changes based on prospects feedback and sales reps’ suggestions.
+
+Treat this like a mini product launch and create a launch plan, complete with company-wide training, sales team training, discount policies (including necessary approvals), website updates, reseller/distributor notifications, etc.
+
+And then go for it! Once you launch, monitor key metrics for a few months to make sure the team is doing well and check-in once a week for the first month or two.With any luck, you’ll have shorter sales cycles, higher ACV, and higher win rates!

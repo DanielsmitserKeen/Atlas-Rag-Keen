@@ -1,0 +1,43 @@
+# Pricing heuristics
+
+If you’re an early-stage founder and you’re not charging for money for a product that you intend to eventually charge money for, you should start doing it, _now_. That’s because the best way to tell whether you’ll be able to charge money _tomorrow_ is to see if you can successfully charge money _today._  
+
+If early customers refuse to pay for your product then you have a strong signal that you need to change something with your approach. Many founders avoid this at first because it’s uncomfortable and because it’s a big hairy problem. It’s so abstract that it’s partly philosophical.
+
+That’s why there’s almost as many theories of pricing around as there are entrepreneurs. In my opinion, the best way to approach a hairy, abstract problem like this is to simplify it by using a heuristics, or rules of thumb, as a starting point.
+
+Below are a few common heuristics that worked for me at [Firefly](http://www.usefirefly.com/).
+
+While none of these are particularly ground-breaking, I hope it’s useful to see them all in one place and explained for early-stage founders (instead of MBAs).
+
+**Heuristic #1: Value-based**
+
+If what you’re doing really hasn’t been done before (much less common than most entrepreneurs think) and there aren’t any comparable products for you to base your price on, then a good model is called value-based pricing. It works like this: estimate the amount of value your product brings to a customer, and then charge some small percentage of that.
+
+In practice, this is much more difficult than it seems because in most cases you have no idea how much value you bring to a customer. So you start with a bunch of assumptions – and depending on whether you think you should charge a lot or a little you fit your assumptions to your preference – and _boom_ out comes the number that you wanted all along.
+
+But this approach has the advantage of forcing you to make your assumptions explicit so that later on you can modify the price as you falsify or change them.
+
+**Heuristic #2: Cost-plus**
+
+You can look at how much it will cost you to build and support your product and charge some multiple on that. Generally the cost in cost-plus is referring to unit cost – the cost to produce one unit of a product. However, because many software companies have very low unit costs, this heuristic may not seem to apply to a lot of you.
+
+However, sometimes adding a customer will increase the overhead required to run the business. In this case, it can be good to incorporate the overhead costs into the cost-plus model when pricing to be sure that you won’t end up losing money by signing a new customer.
+
+For example, at Firefly we were signing contracts that required us to support the product 24/7, so we looked at what it would cost us to hire enough people to do that support so that we could estimate whether the value of the contract made that worthwhile.
+
+We didn’t end up hiring 24/7 support people, we just always had our cell phones turned on and under our pillows, but it was a good exercise nonetheless.
+
+So, for software, cost-plus can be a good _defensive_ pricing strategy, or a good way to set your floor.
+
+**Heuristic #3: Look at your competitors**
+
+What are your competitors charging? This is often the best place to start because they already have much more information than you. Map out every offering and its price. Then either go higher if you’re trying to create a premium product, or go lower if you’re trying to provide the same value at a lower price.
+
+Even if a competitor doesn’t do exactly what you do, it’s still a useful barometer. For example, when we were starting Firefly and were doing pricing for the first time, we looked at other co-browsing companies but because there weren’t many out there we also looked at screen sharing companies.
+
+This allowed us to come to market with a price that was _reasonable_, that we could get in the door with and justify.
+
+Then we modified it from there.
+
+### 28 Sep 2016, 11:23am | [1 comment](http://danshipper.com/pricing-heuristics#comments)

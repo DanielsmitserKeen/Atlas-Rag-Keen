@@ -1,0 +1,842 @@
+# Seed Investing Today: What’s Changed, What Hasn’t with Aileen Lee and Jason Lemkin (Video + Transcript)
+
+What Nobody Tells You About Seed Investing with SaaStr CEO Jason Lemkin and Cowboy Ventures Founder and Partner Aileen Lee
+
+**Aileen Lee | Founder @ Cowboy Ventures**
+
+**Jason Lemkin | Founder @ SaaStr**
+
+Jason Lemkin:  
+… founders what, how things really work, what it’s really like. And not only is Aileen one of the investors that many of us all look up to-
+
+Aileen Lee:  
+Oh, God.
+
+Jason Lemkin:  
+… but she also… What’s that?
+
+Aileen Lee:  
+Oh, God.
+
+Jason Lemkin:  
+Well, we admire, but also she’s very early in the micro VC trend. We won’t talk about it too much today, but we will talk about a little bit. When Aileen founded Cowboy Ventures in 2012…
+
+Aileen Lee:  
+12, yep.
+
+Jason Lemkin:  
+2012\. Now you open up TechCrunch or StrictlyVC or anything, you’ll see a dozen firms a week literally sometimes. Five or 600 since then, but back then, you could probably count the seed firms on one hand or two hands.
+
+Aileen Lee:  
+Yep. And I was not the earliest. We can talk about that.
+
+Jason Lemkin:  
+But you were in the… Let’s call you Gen 1, even though… At this new wave. I think it gives us a perspective that maybe we don’t get in some other places, in addition to many great investments over the years. I thought we could talk about really what’s changed, what hasn’t. And it’s funny, just to kick it off, I’ll tell you we’ve heard two… First of all, two things. We’ll have some time. I know I’m not always great at it. But put your questions in the Q&A and we’ll answer as many as we can, right in the Zoom, put them in.  
+But what I want to do… Oh, I had forgot about this slide. Oh, hold on. Just one take pause. Sorry, I’ll come back to this. I don’t want to go out of order, but I did want to highlight one thank you and whatnot. We’ve been doing these SaaStr events since 2015, the SaaStr Annual. This is just a funny story. You can learn a lot from people on how they act and treat people backstage. You can learn a lot from the COs that bail the last two weeks and how they quit. They say that they have other issues. Then, you see them heli skiing on Instagram. There’s one like that. Those are the unicorns that always bail.  
+You can learn what founders think of VCs. I will tell you how many COs I’ve talked to that say, “I’ll come to SaaStr, but I don’t want my series B or series C VC interviewing me,” which is sort of interesting. And then you can learn about the people that are for you and this is maybe too nuanced for some of the folks here, and I want Aileen to do most of the talking, but we had to reschedule SaaStr Annual this year right during COVID-19. It was terrible.  
+The last speaker I was talking to was Aileen and she was like, “I’m coming. I’m here.” We were going through these slides, and not that many people are troopers and supportive. It sounds minor or technical, but if you want to due diligence on a human being, I get to do it a few 100 times a year. And to see someone that is supportive… Even if it’s something that seems minor, most people don’t do it. Most people don’t don’t go the extra yard, so that meant a lot to me. It’s another reason just to take their money as an aside \[crosstalk 00:02:58\].
+
+Aileen Lee:  
+Both of our money, actually. Not just mine. Jason’s, too.
+
+Jason Lemkin:  
+But it meant a lot to me. I want to talk about this slide. I used it in kind of my breakfast pre warm-up, the crazy times we’re in. But before we even get there, we had two talks today. I sat in on all of them and I heard different opinions. From Satya from Homebrew, we just heard that seed’s at an all time high. People have to deploy money. Deals are getting done left and right. They’ve done four or five deals since March and valuations are down a bit and the bar’s gone up, but seed investors know they only get one bite of the apple.  
+They can’t do the A or the B if they miss the seed. We heard, in a way, like an 11, right? And then I asked Keith Rabois this morning how it’s doing. He said, “Seed is at 10% of what it was.” So, we’re \[inaudible 00:03:48\]. If you had to summarize, then I want to talk about this slide, just where are we? On either a scale of 1 to 10 or a percentage basis, where is seed investment?
+
+Aileen Lee:  
+I would say… I don’t know if I can put a number on it, but also, thank you for having me, Jason.
+
+Jason Lemkin:  
+Thank you for coming.
+
+Aileen Lee:  
+And hi, everyone. Thanks so much for coming to hang out with us. When shelter in place started, the conversation we’ve had internally on our team is we have to think of ourselves as Navy SEALs, where we’re at base camp right now, and we’re going to train and we’re going to work on our playbooks and do our research. Obviously, our first priority was working with our portfolio companies, but if you’ve got your investing engine on and you’re rearing to go, it didn’t feel like in February or March or April or May was really the time to deploy. I have that feeling we will get super deployed probably maybe end of summer, this fall, and the winter, because I think a lot of the people who are raising right now are still raising on ideas and plans that were pre-COVID.  
+And I think we need to give people time to adjust their plans and their mentalities, and also, we also need to give folks time, folks who’ve been laid off who have a little time to decompress, and then they think about an idea and they spend the summer working on it and they’re planning it out. Maybe they’ll come out and raise the fall, but if you look at historical recessions, at least in tech, those are just one of the best times to be an investor and the best times to start a company that people are scrappier, they’re really on a mission, they’re clearly not going to get rich quick, and they attract really great hardworking people who are on the mission with them.  
+I think that’s going to be an awesome time to invest, but I don’t think we’re quite there yet. Personally, our team has been holding back a little bit. We’re taking a ton of meetings, but I think in terms of quality, the best time will probably be… It hasn’t really started yet.
+
+![](https://i0.wp.com/www.saastr.com/wp-content/uploads/2020/06/Aileen-Lee-NewNewVentures001.png?resize=958%2C543&quality=70&ssl=1)
+
+Jason Lemkin:  
+Let’s just-
+
+Aileen Lee:  
+I don’t know. What do you think about that?
+
+Jason Lemkin:  
+Well, I don’t know the answer. My view… I want to depack your term deploy, because it’s an insider term and I want to explain it to founders and \[inaudible 00:06:00\] what deploy means, because it’s not obvious. I want to hear more views. My views… First of all, March 15th, today has been utterly exhausting on many levels. The rate of change, right? I think whether it’s doing portfolio triage or learning to take pitches over Zoom or whatever people are doing, it’s hard as human beings. We can only process so much change, and I feel like we’ve been through three worlds since early March. I think everyone needs some stability, whether it’s good, bad, or ugly or in the middle to survive.  
+So, I’m just trying to learn. What I personally have seen in my little portfolio and the founders I work with is what I call the COVID beneficiaries. The ones that have accelerated since March. I mean, it’s what you see on the BBP cloud on the left. They’re on fire. They are on fire, the ones that have grown faster and I’ve seen, and I want to get your views on this. I’ve seen the folks that are the ones that are even growing a little bit less fast where you would think a VC should take a bet.  
+Look, okay, let’s say half your business sells to eCommerce, but 20% sells to live events. Okay. Well, do the math in your head. You should still be growing, but growing more slowly. I see those folks struggling, which maybe isn’t totally logical, but if you’re a COVID beneficiary, it’s like the money is there at least from someone you’ve met. At least from someone you’ve met, the money’s there.
+
+Aileen Lee:  
+But these are also super… I mean, you were talking about growth stage companies where they’ve got strong product market fit.
+
+Jason Lemkin:  
+Anyone post-revenue.
+
+Aileen Lee:  
+Yeah, and they’ve got referenceable customers, they’ve got pipeline, they’ve got funnels. Seed is just a totally different game, right?
+
+Jason Lemkin:  
+Yes.
+
+Aileen Lee:  
+But I think, yeah, for … I mean, the cloud index is not even post-revenue. That’s way post-revenue.
+
+Jason Lemkin:  
+Yes.
+
+Aileen Lee:  
+And so, they’re just way easier due diligence, I think.
+
+Jason Lemkin:  
+I want to get your thoughts on this slide on the best of times and the worst of times, but when you say deploying capital, let’s just \[inaudible 00:08:00\] for a minute. How big is your… I was going to tease on this in a later slide, but how big is your current fund?
+
+Aileen Lee:  
+95 million.
+
+Jason Lemkin:  
+Okay, 95 million. And you have two GPs, right?
+
+Aileen Lee:  
+Mm-hmm (affirmative).
+
+Jason Lemkin:  
+\[crosstalk 00:08:11\]. You have two partners and one or two other investing?
+
+Aileen Lee:  
+Yeah. We’ve got two awesome other people on our team, Amanda and \[Jamara 00:08:18\]. \[crosstalk 00:08:19\].
+
+Jason Lemkin:  
+Okay, but roughly that means you and Ted each have 50 million. It could vary, but it doesn’t really matter. 50 million. How long before COVID were you planning to take to deploy that 50 million? Because, that’s what this deploy means. It means over a timeframe. Right?
+
+Aileen Lee:  
+Yeah, it’s … I mean, my version of deploys is kind of deploy capital, but kind of deploy yourself as an investor. \[crosstalk 00:08:40\] So, when you think about there are … Sometimes, on work it’s super intense and then you have a little … You have to take advantage of the lulls, because sometimes it gets super intense, whether you’re an operator or you’re an investor.  
+Sometimes, when it rains it pours, right? There’s just, you’ve got five really interesting companies in diligence and parallel and you think they’re all potentially things that you could invest in and founders you really want to work with, and there’s times that you’re not really seeing things that you think are going to get there on the other side.  
+And so, I think probably it will be really intense this fall and in the winter in terms of great ideas, new waves. Now, the one thing we don’t have that’s new is … Some of the waves have been because there have been new platform shifts, because of mobile or because of cloud or because of security or because of a bunch of other stuff. We don’t…  
+That’s not clear what the next big tech platform shift opportunity is, so I think that will dampen the intensity a little bit, but I think in terms of some investors feel anxious, like “I need to be writing checks all the time” or “I need to be making investments all the time”, I don’t think that’s true.  
+You got to … Sometimes it’s slow and let it be slow, and then sometimes it’s really fast and really intense and you’ve got a lot going on, and that’s when you make your investments and sign up to work with new folks.
+
+Jason Lemkin:  
+So, traditionally in normal and good times, there is a sort of very slow-paced pressure as a VC, which is to do X deals a year. There’s many types of pressure. As time goes on, it’s how many unicorns, what’s your multiple, what’s your DPI, but in the earliest it’s just if you don’t do enough investments, you just can’t make money, right?
+
+Aileen Lee:  
+Yes.
+
+Jason Lemkin:  
+If you do no investments, you’re toast. So, and if you’re … How many investments do you and Ted each do a year, roughly? What’s the target?
+
+Aileen Lee:  
+It’s a wide range. We might do six to 12 a year.
+
+Jason Lemkin:  
+Together as a team, right?
+
+Aileen Lee:  
+Yeah. Mm-hmm (affirmative).
+
+Jason Lemkin:  
+So, each of you will do three to six.
+
+Aileen Lee:  
+Yeah.
+
+Jason Lemkin:  
+Okay, that’s a classic seed portfolio. And then as you get \[crosstalk 00:10:37\].
+
+Aileen Lee:  
+It’s probably actually a slower pace than I think. We’re probably on a three, three and a half year fund cycle where we’ll make our initial investments. Whereas, other funds are maybe on two years.
+
+Jason Lemkin:  
+Got it. So, that’s why you were less, right?
+
+Aileen Lee:  
+Yeah. Yeah.
+
+Jason Lemkin:  
+And then later-
+
+Aileen Lee:  
+We’re definitely more \[crosstalk 00:10:51\]-
+
+Jason Lemkin:  
+… it’s one to two.
+
+Aileen Lee:  
+… hopefully a quality, not quantity kind of a thing.
+
+Jason Lemkin:  
+And so, usually what happens… Let’s say I’m working at Cowboy and I’m supposed to do three or four a year. We’re coming up on June and I’ve done none. I start to feel pressure, don’t I?
+
+Aileen Lee:  
+Yeah.
+
+Jason Lemkin:  
+Even if no one says it.
+
+Aileen Lee:  
+Totally.
+
+Jason Lemkin:  
+Do you think that pressure is going to come back at the end of the year and therefore … When you talk about deployment, do you think folks will want to do a lot of deals in the back half of the year because they’ll feel the pressure to hit their quota?
+
+Aileen Lee:  
+It’s very possible.
+
+Jason Lemkin:  
+Okay, so let’s talk about this slide for a minute. And you have a broad exposure. You have exposure to segments that are, I call COVID beneficiaries. You have exposure to segments that probably are heavily impacted, right?  
+How do I … How you get your arms around the fact that cloud stocks on the left are at an all time high and we almost, and California is one of the worst economies in the Western world? How do I … How are you thinking about this?
+
+Aileen Lee:  
+I mean, the multiples that folks are trading at right now on the left hand, I don’t totally understand it. I think it’ll be interesting to see, because also the numbers, we don’t have Q2 numbers yet. When Q2 numbers come out, for some folks they may be softer because budgets were not really locked up for most of Q1.  
+And so, I mean, I think if you are Zoom, obviously, or maybe an infrastructure, you probably won’t see a lot of the budget freezes and the layoffs and your sponsor being laid off. But I think for a lot of vertical SAS, they’ll see impacts when the Q2 numbers come out. And so that may change what this chart looks like maybe in July or August.
+
+Jason Lemkin:  
+Yep. When you look at Main Street versus the cloud index, what are you excited about today? Are you more excited about eCommerce? I mean, what especially non-obvious things are you more excited about?
+
+Aileen Lee:  
+Yeah. I mean, I think in a bunch of categories like healthcare and distance learning and infrastructure, this recession, which super sucks for a lot of people, it is going to be an accelerator for tech, because businesses are going to rely on technology and are also going to adopt technology faster.  
+So, it’s like in healthcare, one of my friends who’s a doctor says she feels like she fell asleep in 2020 and woke up in 2030 in terms of …
+
+Jason Lemkin:  
+Yeah, I bet.
+
+Aileen Lee:  
+… the industry’s willingness to adopt technology. Because it’s been a fight and it needs to be adopting technology across the board. And so, but now they have to.
+
+Jason Lemkin:  
+Yes.
+
+Aileen Lee:  
+And so, I think for a lot of states and regulatory agencies and businesses that have been pushing back to enable remote work, they’re going to have to change a lot of stuff and that’s going to take … A lot of investment’s going to happen in software. It’s not going to be like …  
+If the question would be like, “Do you feel like we have too many unicorns?”, we are going to have more unicorns. There’s no question in my mind there’s going to be more in the US and more in China, and then an increasing number in Latin America and in India and other markets that are really huge because this is… We’re in a good sector, tech is only going to get more important and more valuable.
+
+Jason Lemkin:  
+So even if you feel that multiples on the left are a little aggressive, if you’re bullish on unicorns, having coined the term. If you’re bullish on unicorns, what does that mean overall for seed investing and venture investing? If folks feel good about unicorns, does that mean it should still be easier? There’s room for many, many more startups. What does that mean for a founder?
+
+Aileen Lee:  
+Wait, hold on a second. I have kids in the background.
+
+Jason Lemkin:  
+Bring them on.
+
+Aileen Lee:  
+Thanks.
+
+Jason Lemkin:  
+Lunch time?
+
+Aileen Lee:  
+Yeah, exactly. It’s lunch break at school. Wait. What was the question?
+
+Jason Lemkin:  
+What does it mean… So we’re in these weird times, the cloud shares are at an all time high, NASDAQ’s closed, this crazy recession we’re in, but you’re bullish about unicorns. Right?
+
+Aileen Lee:  
+Yeah.
+
+Jason Lemkin:  
+Unicorn generation, how does that inform your thinking in terms of types of investments? Pace, valuations, anything? Does it inform your… Does it change your thinking?
+
+Aileen Lee:  
+Yeah. No, I mean, I think … Look, I was an AEB investor for 12 years and did some growth too and I switched to seed. Partially, I think, for personal reasons. I think it’s a better fit for me and it’s more fun. I’m really passionate about seed investing. And there are lots of really good folks that we partner with at A and B and C and D, who they’re really good at that, and this is the one thing that we want to focus on. We think it’s also a great category for like, you are getting in at the riskiest time where the valuations are lower, but there’s way more upside. It’s also more collaborative as you know.  
+I had lots of friends in seed who were co-investing with each other and helping each other build companies. Whereas, at A and B and C, you generally, you can be friends with everyone in BC, but you have to beat all of them to win the A or the B. And then you’re carrying the water with the founders for the next decade as a lead board member, and you don’t get a ton of help from other people. So, I love seed and I’m super excited about it.
+
+Jason Lemkin:  
+So I want to dig into that next, on the next point. But before we leave this slide, do you have any portfolio companies that have benefited from this time that you didn’t expect? Maybe even Zoom, we didn’t fully expect it would be this big. But are there any that folks could learn from they’re like, “Wow, I’m just kind of surprised that one is a COVID beneficiary.”
+
+Aileen Lee:  
+Not really a surprise. I guess probably one of the more notable companies that we work with is Guild Education. And I think because a lot of the folks that they work with, they basically help hourly workers who work for big companies like Disney and Walmart get high school diplomas or college educations or get vocational training. And I think because there’ve been a lot of layoffs in hourly workers, I think there could be a question about whether that was going to hurt a company like Guild. But it’s turned out that a lot of enterprises who have furloughed workers are suggesting that people who are furloughed use the time to actually get an education.  
+It’s also being used as an off-boarding benefit. So like, “We’re really sorry, we have to let you go. But we’re going to help you get on a career path, so you can get this benefit of trying to figure out where you’re going to get your next job.” So there’s been a bunch of things that actually have helped accelerate Guild that I think could have been a question. And obviously just the fact that they built this incredible infrastructure for remote learning is great.
+
+Jason Lemkin:  
+Yeah. It’s an interesting one because on the one hand, it’s remote learning, right?
+
+Aileen Lee:  
+Mm-hmm (affirmative).
+
+Jason Lemkin:  
+And very powerful. On the other hand, it’s a benefit, right?
+
+Aileen Lee:  
+Yeah.
+
+Jason Lemkin:  
+You know the company much better than I do. But it’s a benefit, that’s where the budget comes from. That’s why it’s done well. But it’s a benefit, and as soon as folks cut at traditional companies and cut people, you would think the benefits … We’ve seen many folks in the benefits space be exactly linearly impacted.
+
+Aileen Lee:  
+Totally.
+
+Jason Lemkin:  
+Linearly impacted with layoffs and it’s natural. Right? It’s like cutting back on rent. We’ll cut back on benefits.
+
+Aileen Lee:  
+Totally. Totally. So that was the one, it was like, “Uh-Oh.” But so far it’s going great.
+
+Jason Lemkin:  
+That is interesting. What’s your gut? What percent of startups you think are COVID beneficiaries? Have you looked at it? Do you have a sense? What do you think?
+
+Aileen Lee:  
+I think, unfortunately, it’s a pretty small, it’s a small percentage.
+
+Jason Lemkin:  
+Yeah. \[crosstalk\] percent are benefiting.
+
+Aileen Lee:  
+I’d say 10 to 15. I don’t think it’s …
+
+Jason Lemkin:  
+10 to 15?
+
+Aileen Lee:  
+Yeah. What do you think?
+
+Jason Lemkin:  
+I made up a number just based on a very limited data set. I think it’s, in SaaS, in cloud, if you define it that way, I think it’s about 15 to 20%.
+
+Aileen Lee:  
+Yeah.
+
+Jason Lemkin:  
+And it’s more of the folks on the left than we would have thought, which maybe there’s some learning from that. We missed it. We knew Slack would benefit, but actually Atlassian’s benefited much more than Slack. Did we know bill.com would benefit as much as Zoom? I don’t know. If you didn’t analyze its business model, you would think that intuitively. Right?
+
+Aileen Lee:  
+Yeah.
+
+Jason Lemkin:  
+But I feel the question, and let’s maybe transition to that. Let’s assume it’s 10 or 15 or 15 or 20, it’s a big delta. But you’re not saying it’s single digits, right?
+
+Aileen Lee:  
+No.
+
+Jason Lemkin:  
+For the rest of the year, or at least for the next quarter too, would you only invest in COVID beneficiaries or would you invest in folks in heavily impacted industries? Like how you thinking about that?
+
+Aileen Lee:  
+It’s a spectrum. I don’t think I’m going to be going to try and find a lot of travel startups right now. But I do think … we’re investors in a company called Homebase that basically sells SaaS for small-medium size businesses to do hourly work management. Like scheduling shifts, paying folks, giving them cash advances, communicating with the manager. Obviously, the majority of the people who they were managing the shifts and the payments for who were working in February, they were not working in March or in April.  
+But when businesses reopen, I think they are going to rely on technology more than ever before. Some of the older businesses that were a little hesitant about technology, they may not reopen. And the people who start businesses in the next generation are going to be like, “I need a full stack of modern software to run my business, so it’s flexible and it’s nimble and I have good transparency and I can do it from anywhere.” And so they will adopt things like Homebase at a faster rate than businesses that have been around for 30 years. And so I think if you time it right, I mean, you can basically ride the wave of all these businesses reopening.
+
+Jason Lemkin:  
+For your existing portfolio and new investments, can you model that? I mean, you have to have at least have a position, right?
+
+Aileen Lee:  
+Yeah.
+
+Jason Lemkin:  
+Is it six months? 12 months? They just announced today, Disney World’s going to start to reopen.
+
+Aileen Lee:  
+Wow.
+
+Jason Lemkin:  
+When will Homebase get back-
+
+Aileen Lee:  
+When is it going to reopen? Is it going to be like six feet apart and every other? Like on the rollercoaster.
+
+Jason Lemkin:  
+July. Yeah. They’re going to adopt the Shanghai processes. Attendance will be half. You can’t hug a prince or a princess and you have to get reservations.
+
+Aileen Lee:  
+Is the price going to be double?
+
+Jason Lemkin:  
+Well, that’s a question for a lot of things down the road. If the price doesn’t double, I mean, that’s a restaurant question too, right?
+
+Aileen Lee:  
+Yeah.
+
+Jason Lemkin:  
+I mean, if prices double, it all works. And obviously Disney can carry a business for a little while. Those are some of the scarier questions for our economy. Is can we adapt to things? Can we adapt to Coachella when we’re 20 feet apart? I mean, I don’t know. I don’t know if Coachella $4,000 a ticket works, does it?
+
+Aileen Lee:  
+No, but also it was funny. I was in San Mateo County. I think they had a rule that some camps can open, but they have to, you have to sign up for four weeks at a time because they don’t want kids in and out. But it’s like that really disadvantages people who cannot afford four weeks of camp.
+
+Jason Lemkin:  
+Oh yeah.
+
+Aileen Lee:  
+It’s not good. Yeah. There’s a lot of challenges.
+
+Jason Lemkin:  
+A lot of challenges. A lot. And I think a lot of, probably beyond the scope of what can we get into today, but a lot of these flattening things you might… and we can talk about it in deal flow. You might think some flattening helps less advantaged, but I don’t know. Do you think pitching over Zoom helps outsiders more? Do you think it helps the founder that didn’t go to Stanford and didn’t go to YC? Or is it maybe not help as much as you think pitching?
+
+Aileen Lee:  
+I am hopeful. I mean, I think there’s two things, there’s the pitching, but there’s also, where’s the company going to be based? That’s all up in the air now. So before, I mean, look, when I was at Kleiner, I spent a year spending a lot of time in New York, there was a lot of stuff going on in New York. And when I came back and I was like, “Hey, I found all these cool companies like Mongo and Warby and Stack Overflow.”  
+And some partners were like, “Why are you wasting your time? No big companies are ever going to be built outside the Bay Area. We clearly didn’t teach you well.” And same thing with HomeAway actually, it was the same thing. It’s like, “Why are you wasting your time?” And so things have changed a lot in the past 10 years, but I am hopeful that I was just on the phone with one of the CEOs we work with today, who is in New York and they’re moving to Denver. I think over the summer, people are going to be moving all over the place and trying to figure out how to run remote or partially distributed or clustered companies. And I think that will advantage founders who are in different places and are not on the coast.
+
+Jason Lemkin:  
+I think it started like last week.
+
+Aileen Lee:  
+You think so.
+
+Jason Lemkin:  
+I think that folks that live in San Francisco, founders and executives that live a crummy lifestyle in San Francisco, in gross parts of the city that have sacrificed that maybe even have families, that have sacrificed a lot, are looking around. Like several conversations I’ve had with looking around, like, “What is the point of being in San Francisco today? I cannot visit Salesforce. I can not visit Twilio. I cannot visit a customer. And I have a baby and a husband or a wife or significant of living in not just a small apartment, but a gross part. I’ve traded off so much.” And I three people I know packed up the minivan and left.
+
+Aileen Lee:  
+Totally. I agree. Like we had another CEO that we worked with, they packed up their car and they rented an apartment, or a house on a Lake in South Carolina. They had never been there before. They’d never been to the town and they just drove there and they lived there for the past month and a half. And he’s been so much more productive and so much happier. There’s a whole nother thing we won’t get into around mental health and all. Especially if you’re by yourself in a small apartment, it’s not happy making.
+
+Jason Lemkin:  
+Yep. And how do you think, like, let’s just, maybe this is a, not a good example, but when you invested in Guild, they were based in Denver, right?
+
+Aileen Lee:  
+No they’re based in Palo Alto.
+
+Jason Lemkin:  
+Oh, I thought it was based in Denver.
+
+Aileen Lee:  
+They moved to Denver. It’s funny because Rachel came to us and said like, :Hey, I know we just had a meeting and we discussed, we need to hire a VP of engineering and a VP of product and a VP of marketing. But we also want to move the company in Denver.”  
+And we were like, “What? How are we going to find those people in Denver?”  
+And she was like, “Trust me. There are some really good companies there. And some tech like Facebook and Gusto are opening offices. It’s a great place to live. I think I can get people from the east coast and the West coast to move to Denver. Because if you want to have family or if you want to buy a house, you want to send your kids to public school. It’s a great place. And I want to build a company where people can have a family and have a good home life and have a great job.”  
+And I’m so glad that we were like, “Okay, do it.” Because it was a really smart move in probably three or four years ahead of her time.
+
+Jason Lemkin:  
+Yeah, it was. So she’s built a unicorn now. And let’s compare today. I mean, you had no choice, but did you have reservations? Did you try to talk her out of it?
+
+Aileen Lee:  
+Oh, definitely. I didn’t try to talk. But I was like, “Are you sure?” But I mean, I think it gets a lot of the stuff on a slide. Which is we are seed, I would say half the time that we invest, they haven’t built a product yet. There’s no technology, they need money to actually build software. And then half the time they’ve built like some MVP we do about, we’re probably 75% enterprise, 25% consumer, we’re generalists. We usually invest between 500 K to one and a half million. We like to co-leader co-anchor seed rounds and we almost always co-invest with other folks, angels and institutional seed folks like yourself.  
+And so at Guild, they had basically had an idea for kind of reboot your career boot camps. And they came up with a three hour bootcamp and they posted it on Craigslist. And they rented strip mall, vacant space and they were holding these free three-hour boot camps. And then they were texting the people afterwards asking for. And then they charged 40 bucks and then 80 bucks. But that’s basically what they had when we invested. And so it doesn’t have to be perfect at seed.
+
+Jason Lemkin:  
+And so I want to make sure we hit the bullets on this slide, but so today let’s fast forward today. So, four years ago when Rachel said, “We’re moving to Denver to build my management.” And now that I understand kind of how raw the vision was in the beginning, I get it. Because it wasn’t technology heavy in the beginning, that’s for sure. So I get it. But today, how are you feeling about not just New York or Denver, how are you feeling about Baton Rouge or Sioux Falls or Tampa? How does that strike you today for new deals? And what would you advise founders that are thinking about leaving the Bay area now?
+
+Aileen Lee:  
+Yeah. I mean, it’s a better time than ever to both, to start a company in a different part of the United States. People are going to have to be way more purposeful around culture building and about communication. Because it’s still been a rarity to build a really successful scaled company without having formative team members live and work in the same place and be next to each other. A lot of times we recommend for portfolio companies that are opening up second or third office, it’s like you have people all in the headquarters and then you send out people who really understand the culture and how to have a lot of internal credibility and they start the new offices.  
+In some cases, I’m really curious as like, founders may start companies they’ve never been in the same office when they start the company. When we hear pitches this fall, we’re probably going to hear people who have not seen each other. But SVT Robotics is a company that is based in Virginia, Virginia Beach, actually. And it’s kind of like MuleSoft for warehouse robotics for integrating. If you’ve got a third party robotic arm and you want to integrate it with your conveyor belt or your WMS, you’ll use SVT instead of writing custom code. The founders know warehouses and they know warehouse automation really well. And they’ve lived in Ohio and Pennsylvania and Virginia, and all the places where warehouses are. And we’re super psyched to be investors in that company. And we’d love to find more like them.
+
+Jason Lemkin:  
+Those are all really interesting examples. Today if you met with a startup and you’re doing seed, so it’s early, but it’s the kind of company that clearly could benefit in a year or two from some Salesforce alums or Box alums or Twilio alums. They’re doing a classic playbook and they want to move to Arkansas or Ohio or Bismarck, is that a no in this flattened world, in this distributed world? Do you think you can get VPs to join a company, Bay Area style VPs, to join nonbearing companies in 2020? Do you think that’ll change?
+
+Aileen Lee:  
+I think we can do it. It’s funny at Textio, another company that I work with, which is based in Seattle, we tried hard to make the whole team Seattle-based and when we were doing our head of revenue search, we said like, “Maybe we should open it up and look at people who are not based in Seattle.” And we found a great person who’s based in the Bay area. I mean, at the time we had a deal where he was going to spend a week or two in Seattle, a month and then a week or two at home or on the road.  
+And so we’re fortunate that we had that time together before we wanted to go into shelter in place, but it works. And he’s a huge part of the team and they’re making it work. So I think we’re all learning fortunately or we have been learning over the past couple of years how to make kind of commuter style jobs work and distributed team work which is a good warmup for the next three years we’re about to live through.
+
+Jason Lemkin:  
+Yeah. Yeah. I think especially for B2B in the next couple of months to watch is can we flatten management teams? Not just the Gitlabs and the Zapier’s, but can bury a type executive, whether they’re based in the Bay area literally or in New York. But folks that come out of the traditional folks where we poach… I mean, once you scale, you want to hire someone to set up \[inaudible 00:31:06\]. You really do. I mean, everyone that runs Salesforce today came from Oracle and everyone that runs Twilio came from Salesforce. There’s a reason. And if folks in Virginia Beach or wherever it is can hire these folks now is easily, it changes everything. Doesn’t it?
+
+Aileen Lee:  
+Well, I mean, like internally at Cowboy every other week, we have scenario planning time where we just kind of think about like, “Okay, what if this is 24 months? What if this is 36 months? What if nobody can get on a plane until summer of 2021 the earliest?” From a sales perspective, how is that going to change sales? How’s that going to change marketing? The fact that a lot of our portfolio comes in enterprise, they got a lot of sales done or relationship building done around conferences whether it’s-
+
+Jason Lemkin:  
+Up in 40%, it turns out yeah. Like 40%.
+
+Aileen Lee:  
+Like HR Tech Yukon, whatever it is. You may not have been spending a lot of money getting a booth, but like you were hosting dinners, you were meeting up with people and when that doesn’t happen, how is that going to change sales?  
+I think maybe that’s going to be better for startups because having a lot of money to buy people expensive dinners is not going to be as important and it sounds like COVID has for at least in the folks that we’ve been talking to the past couple of weeks, it’s now a common bond. You make small talk over Zoom for five or 10 minutes about like what’s been hard or how the family time’s been good or whatever, then you get right into the sale process. And the customer on the other end is like, “This sounds really good. I need this. Let’s do it.” And so in some ways, it’s like more efficient, but we’re staying really close to it.
+
+Jason Lemkin:  
+Yeah. For what it’s worth. And I want to talk about how you’re sourcing deals now. But my personal view just for the conversation is I actually think this selling over Zoom at least for now, is substantially benefiting folks with brands because if I don’t know you yet, and I can actually meet the CEO and I’m meeting \[inaudible 00:33:08\] over Zoom, don’t get me wrong, but we’re all taking more vendor risks. We’re taking more investment risks. More risks just has to be taken in the shelter world. And it’s comforting to know it’s BOXX. It’s comforting to know that well it’s a unicorn now.  
+Maybe Gild isn’t as great as Schmild or whatever. I don’t know, but if there’s risks during discovery, maybe I don’t want to take risk today. Now if you’re the only vendor in the space, it’s different, if you’re the notion or tandem, but I wonder if one of the reasons these cloud stocks are going to keep growing is because, “I’ll just stick with JIRA.”
+
+Aileen Lee:  
+I kind of worry a little bit about whether we’ll move into this like nobody ever got fired for buying IBM for buying certain brands. And I do think like if you are a seed stage founder who is listening to this right now, or you’re pre-seed, or if you’re not a brand, it’s going to be hard to make new sales I think in the next two or three quarters at a minimum.  
+So being willing to give your product away for free or like changing the packaging so that it’s virtually free for the next six months, and then people pay for it, but getting people to use it and showing that it’s super valuable. And so that when people have budgets again, they’ll buy it. They’ll pay for it and that’s referenceable. I think for a lot of seed stage companies that’s the thing to do because it’s really hard to get new budget, even if you’re an existing brand, but as a new brand, it’s even harder.
+
+Jason Lemkin:  
+It is harder. Yeah. It is a fun topic we could dig into, but we can if you want. But tell me on this. First, I want to talk about how you find deals and how founders can pitch you. But just the micro topic, say in today’s world, I know you’re slowing down a little bit to learn, but how you’re feeling about being pitched on Zoom? What’s your personal view of not meeting in real life? What’s your \[inaudible 00:35:00\] one to 10?
+
+Aileen Lee:  
+I think it’s a bummer on both sides, right? I mean, the benefit is things have been so hot that the velocity of decision making and relationship building was I think untenable. Founders were optimizing for getting it done fast. And I think in many cases, they weren’t really getting to know the people that they were getting married to and who were… Because once you get people on your cap table, you can not get them off.
+
+Jason Lemkin:  
+Never.
+
+Aileen Lee:  
+So I was really bummed about how fast the process was happening, where we weren’t really having a chance to get to know people, and they weren’t really getting to know who they were taking out to their cab table. So I think this will actually be better in terms of giving people…  
+Then we were thinking about, when we moved in shelter in place, “Okay, how are we going to get to know people?” We already had a diligence process, but in marketing, in old fashion marketing, I don’t know if you remember the four P’s? There was price, place, promotion, and product.
+
+Jason Lemkin:  
+Mm-hmm (affirmative).
+
+Aileen Lee:  
+Right? So I was thinking about, “Okay, we have our own four P’s that we generally try and figure out.” So our four P’s are people, product, potential, and plan.
+
+Jason Lemkin:  
+Okay.
+
+Aileen Lee:  
+So we’ll say to someone, if we kind of have a first meeting and we think it’s interesting and they like us, we’ll be like, “Okay, we have this thing, we’re not going to probably get to meet face to face. So we want to get to know you over a course of meetings and maybe some of them will be dinners,” or something like that. Where we’re like, “We want to get to know the people, where you came from, what you’ve done before, what you’ve learned, what you think of your strengths and weaknesses, your self awareness, where you want to be complimented, what kind of a team you want to build.”  
+Then on the product, obviously really understanding both, what’s their vision for the product? Competitive landscape, differentiation, how much better it is, the potential. What could this become? Right? Both how big is the market? And if we’re really successful, what are we building? Then the plan.  
+How much do you want to raise? Valuation range, what are we going to get done during the seed period? Who do you need to hire? All that stuff. So basically just going through those four things is our way of getting to know each other. I think that that’s probably going to be the way we do it first of the year.
+
+Jason Lemkin:  
+So more time can balance out the lack of the ability to schmooze in person?
+
+Aileen Lee:  
+Yeah. I think it might, in a way, be better. I mean, obviously in person’s better, but I think a slowing, and I’m also think the velocity and optimizing for speed and just low overhead check… I think there are plenty of founders who will tell other founders that that was a mistake. I think this downturn is hopefully going to give people pause around a lot of… There’s going to be a lot of shitty ups and downs. I want to be careful about who’s going to be helpful to me in a time of a lot of uncertainty.
+
+Jason Lemkin:  
+Yeah. This morning, the first speaker, I don’t know if you know, Krzysztof Jans from Point Nine Capital?
+
+Aileen Lee:  
+Hold on one second. Sorry. I just told the kids to go to the other room.
+
+Jason Lemkin:  
+Oh no, we’re in the lunch session. I don’t know if you know Krzysztof Jans from Point Nine?
+
+Aileen Lee:  
+I don’t.
+
+Jason Lemkin:  
+He’s great. His first angel investment, he was the first angel into Zendesk, after he was a CEO. Then he started doing SAS really in the beginning, and we kind of became SAS content buddies before we co-invested.  
+He’s done half his investments remote since then, because he’s in Berlin. So he couldn’t always get on a plane and pop up for an angel or seed deal. His advice, he had a great… Because he is a veteran, although none of us foresaw shelter, but his point was it’s like anything in sales, but make it easier. So his point was, have the best diligence together, have the references built, do a video, have the best email pitch, if you weren’t going to build the deal room, build the deal room. If folks need more time, bake it in, and just turbocharge the amount of disclosure and transparency you would have to make up for the kind of informal type decisions people are making in those high velocity advice.
+
+Aileen Lee:  
+Yep. Good. I like it.
+
+Jason Lemkin:  
+Okay. On this, so just to folks that understand, how do you find… Just some insider stuff to help folks learn. How do you find deals and how do founders pitch you?
+
+Aileen Lee:  
+Yep.
+
+Jason Lemkin:  
+Maybe a few case studies from some last deals. How did they find you? How do you discover \[crosstalk 00:39:35\].
+
+Aileen Lee:  
+Yep. We get a ton of referrals from angels, from co-investors who we want to work with, from founders, from folks that we know. I think Ted and I, I’ve been doing this for 20 years. Ted’s been in tech for 20 years too.
+
+Jason Lemkin:  
+Yes.
+
+Aileen Lee:  
+So we like to say, “Hopefully when you work with us, you’re going to get really experienced, thoughtful, patient, supportive advice, with a huge Rolodex.”
+
+Jason Lemkin:  
+Yep.
+
+Aileen Lee:  
+So we get a lot. But also, you and I are both super passionate about using our privilege to try and make tech more equitable and less bro-tastic. So, I’ve been told that the need for the warm intro really disadvantages a lot of people. So we read all of our inbounds. So you can email hello@cowboy.vc. Someone will read it and if it’s a potentially a fit, we will get back to you. You don’t have to get referred to pitch us.
+
+Jason Lemkin:  
+So let’s break that down for just a second. So if you had a pie chart, number one source of deals, you do is \[crosstalk 00:40:39\].
+
+Aileen Lee:  
+Referrals.
+
+Jason Lemkin:  
+Warm referrals, right?
+
+Aileen Lee:  
+Yep.
+
+Jason Lemkin:  
+For better, mostly for better, but for better or worse. Right? They do have some bias and issues associated with them. But the inbound. So the inbound is… Sorry, it’s hello@cowboyventures.com?
+
+Aileen Lee:  
+Hello@cowboy.vc.
+
+Jason Lemkin:  
+cowboy.vc.
+
+Aileen Lee:  
+Yep.
+
+Jason Lemkin:  
+I got to get this one right, folks.
+
+Aileen Lee:  
+Yep.
+
+Jason Lemkin:  
+We’ll layer it on top of the YouTube.
+
+Aileen Lee:  
+Thank you.
+
+Jason Lemkin:  
+Hello… Well, it’s probably on the website too. Right?
+
+Aileen Lee:  
+It is. hello@cowboy.vc.
+
+Jason Lemkin:  
+If that email is good, if it’s good… If it’s, “Dear cowboy, we’re the team that built the top product at Square. We’re pre-revenue, but we have 10 beta customers. All of them said we’re changing the way finance works. Here’s where we come from. Here’s who we know, here’s our friends.” What are the odds that email gets read and how seriously… I’m just making my…
+
+Aileen Lee:  
+Well, it’s 100% going to get read.
+
+Jason Lemkin:  
+100\. So let’s \[crosstalk 00:41:34\].
+
+Aileen Lee:  
+100% going to get read. Yes.
+
+Jason Lemkin:  
+Right? I can’t find you. I can’t track you down. I met you at a conference, but that email is going to… This is things founders don’t get, that great email is going to get read isn’t it?
+
+Aileen Lee:  
+Even a crappy email is going to get read.
+
+Jason Lemkin:  
+Even a crappy email is going to get read.
+
+Aileen Lee:  
+Even, “Dear Sir,” gets read.
+
+Jason Lemkin:  
+Okay. But the good one, if you liked what I just wrote, right? What are the odds someone’s going to read a deck that’s attached? And what are the odds I’m going to get at least a Zoom?
+
+Aileen Lee:  
+I mean, that email you described is probably a 100% going to get read.
+
+Jason Lemkin:  
+100% getting read. Yep.
+
+Aileen Lee:  
+And 95% going to get a, “Hey, let’s have a meeting,” or, “Let’s set up a call.”
+
+Jason Lemkin:  
+Yeah.
+
+Aileen Lee:  
+Yeah.
+
+Jason Lemkin:  
+What percent of emails that come to hello@cowboy.vc are great like that? What percent of these emails are great?
+
+Aileen Lee:  
+Not that many. I would say we only invest in the US.
+
+Jason Lemkin:  
+Yeah.
+
+Aileen Lee:  
+We get some from different countries, and unfortunately we just don’t invest outside the US. But when I was at Kleiner, this is before email was really how we got most pitches, people would mail business plans and pitch decks and the EAs would put them in folders and just put them into giant L.L. Bean bags and just drop them off at my office and I would go home every night and basically order Chinese food and read business plans every night.
+
+Jason Lemkin:  
+You were like a script reader.
+
+Aileen Lee:  
+I was single and my girlfriends were making fun. They were like, “Should we buy you cats nor or later?” Because basically my life was just reading business plans. But the business plan for Bloom Energy was a cold inbound from a professor of space technologies at University of Arizona and at the time we had heard about fuel cells and we knew that there was different kinds of fuel cells and we were kind of getting interested in alternative energy and green, and he seemed interesting and so I wrote him and I was like, “Hey, I got your business plan. Do you want to do a call?” Bloom is a public company now and it was a cold inbound.
+
+Jason Lemkin:  
+Cold inbound. Let’s just finish this because I think this is … It’s not perfect but it does flatten a bit. These emails are going to get read \[crosstalk 00:43:44\] and you don’t need-
+
+Aileen Lee:  
+Are you really surprised by this? You sound surprised.
+
+Jason Lemkin:  
+No, no, no. I’m not surprised. I think founders are surprised and I want to talk about how to hack it because so much of the advice you get on the internet … The fact that warm referrals are your number one source and that a great cold email will get read just seems inconsistent to people, right? I’m happy to share some personal stories. I even published two cold emails that I funded, one of which crossed 100X last… It’s the best made. It’s 100X on a double digit ownership, cold email, and it was an outsider.  
+There are advantages to being an outsider. You don’t know. You don’t do as much diligence. You don’t have to have gone to Stanford and have done the perfect thing, but I think founders are surprised that investors are so busy. They’ll see you on social media, they’ll see you traveling, they’ll see that you have 20 portfolio companies, and they’ll be like, “How could I get Cowboy’s attention?”  
+But the reality is there’s only so many great deals a year, and it’s sales for founders and it’s sales for VCs and if the pitch is amazing, the cold email works. Email is profound, and yet people don’t spend enough time on it. They ask you for coffee. “I saw your \[crosstalk 00:45:01\] on stage. Can we get together some time and talk?” What are the odds you’re going to get coffee?
+
+Aileen Lee:  
+Right. Yeah, too much coffee.
+
+Jason Lemkin:  
+Too much coffee, right?
+
+Aileen Lee:  
+Yeah, or can I pick your brain? That’s one of my-
+
+Jason Lemkin:  
+Can I pick your brain?”
+
+Aileen Lee:  
+I do not like that.
+
+Jason Lemkin:  
+“I have an idea. Can I pick your brain?” Right?
+
+Aileen Lee:  
+Yeah.
+
+Jason Lemkin:  
+I think the best founders figure that out but the earlier stage it is, the less they figure it out, right? The less they know, and I think if you write the world’s best email, and it has to be real … It can’t be imaginary but if you even have some hints of excellence, it’s going to get read, isn’t it?
+
+Aileen Lee:  
+Yeah, yeah. But I do think for years I was kind of fighting the “will read everything” just because I felt like it was the mark of a good founder that knows how to hustle and is a relationship builder and is a talent magnet, that a good founder knows how to somehow get it started. Cold email someone, you, and be like, “Hey Jason, I really admire you. I like this thing that you wrote. I’d love to talk to you about this thing,” and then they didn’t know you but also now you know them and then you introduce them to someone and they introduce you, and then before you know it, the person’s kind of kick started a network of relationships that can be helpful to her or him. And I do think that’s a really valuable skill.  
+So for years I was like, “Well, if a founder can’t figure out how to get some credible person with some venture capital universe, some founder cred, someone who’s the VP of engineering at a decent company or someone who’s a product manager at a decent company who knows a venture capitalist, maybe it’s going to be harder for them to recruit people or sell customers.” But I’ve kind of let go of that because I think a seed is a really raw stage and I’ve seen founders change over the course of 10 years from where they start to hopefully being a unicorn founder that’s managing thousands of people, and people change.
+
+Jason Lemkin:  
+Yeah, I used to think that. I used to think… I came up with a simple bar which is a founder that was better than me with more going for them can build a unicorn. And so I felt like if you couldn’t penetrate, if you couldn’t be that aggressive founder that found their way through the door literally by email, physically showing up to Cowboy, whatever it is, if you weren’t that person, you weren’t aggressive enough to build something big. And what I’ve still done, anyone that wants to talk to me, if they want to talk to me about community or SaaStr in general, there’s a million ways to reach me. If they want to reach me about investing, I used to always say, “Well, find my email.” “If you can’t find my email somewhere …” “Then what’s your email, Jason?” “No. How are you going to sell Procter & Gamble or Google if you can’t figure out a prospect’s email?”
+
+Aileen Lee:  
+Yeah, and it’s also in a way… If you’re in a consumer space, you can be an introvert and just an awesome product person especially if your product has network affects. You can not be able to talk and you can build a huge company. In the enterprise space, I think it’s a little more important that you can talk.
+
+Jason Lemkin:  
+I think it is. I will say, for what it’s worth, I don’t… Like you said you read more of the emails today. I realize that while that is … It’s too tight a noose. It’s too much of a forcing function. There are other ways to build traction. You can build an incredibly developer-centric product and \[crosstalk 00:48:13\].
+
+Aileen Lee:  
+Totally. Exactly, yeah, yes.
+
+Jason Lemkin:  
+Even if you’re not good at things. And so if you require that almost alpha-esque, put your boot through the door, there’s a lot of privilege and other issues, but you’re also going to miss people, I think \[crosstalk 00:48:26\].
+
+Aileen Lee:  
+Totally. I think that’s totally true. I have so many lessons learned about companies that I’ve passed on that I shouldn’t have, but I’ve learned that early on in the process I have to figure out … Or just ask the person if they are more of an extrovert or an introvert.
+
+Jason Lemkin:  
+It’s a good question, right?
+
+Aileen Lee:  
+And if they’re an introvert we have a different conversation.
+
+Jason Lemkin:  
+Yep. All right, we’re going to run out of time \[crosstalk 00:48:48\].
+
+Aileen Lee:  
+I know, we have so many questions and we could chat for a long time.
+
+Jason Lemkin:  
+No, I know. We can do them later if you have the energy but let me just pick a couple because some are tactical. This one’s super tactical but I think it is actually helpful. One attendee asked, “Who would you look for for references?” Talk just a minute about references. What if you don’t have great references? Is that a gating item for folks that come out of nowhere? How important are… especially if yours are funky?
+
+Aileen Lee:  
+I think it’s important, especially now, like you said. That it’s people that you’ve worked with or worked for, people who’ve worked for you, people who’ve been your boss. We recently did diligence on a company and the founder gave us references and gave us their friends. That was not helpful.
+
+Jason Lemkin:  
+I used to think that was a no. A close to a no, like such a fail, but I don’t know today.
+
+Aileen Lee:  
+We’re very … I think as a person, like an immigrant person who has in many ways been underestimated in many different ways in different situations, I have a lot of empathy for being underestimated for giving people chances. And at series B, you got to know this shit. But like at seed, if you never raised money before, sometimes there’s stuff that someone tells you and then you were like, “Oh duh. Yeah, I get it.” And then they move on. So it’s not a no for me, but yeah. I was like, “Hey, don’t give me your friends. I don’t really want to know what your friends think of you. I want to know what you’re like to work with.”
+
+Jason Lemkin:  
+Yeah. This one’s interesting because it’s not necessarily obvious. This says when you invest seed or pre-seed, what do you expect MRR will be in three to six months? It’s actually not a silly question because you’re not the only VC. You’re betting that someone in the next 12 to 24 months is going to write a check at two to five times the price you did. So what does that have to mean in terms of the window in which you can invest in terms of growth?
+
+Aileen Lee:  
+Especially right now, that is a really tricky one, right? Because let’s say if you’re going to… We’re basically recommending, in March, we recommend to all of our portfolio companies to basically plan. Come up with a bunch of plans, so that ideally you have money to get you into ’22. 2022.  
+So either raise money right away, or you’re going to do some cuts because assume that Q2, Q3, Q4 are going to be really hard for new sales and that maybe things will pick up in Q1, but maybe not. Maybe they won’t pick up until Q3 next year. And so you’re going to be going out to raise your A if your seed unpotentially not a lot of revenue growth, especially if you have to go out in the first half of 2021.  
+And so I think depending on what the product is that you’re selling and what business you’re in, are there other metrics that you can show around customer engagement and customer use or value or, because otherwise you’re going to be competing against people who are starting from scratch in March or in June who are like, “I have no traction, but I just started this thing.”
+
+Jason Lemkin:  
+That’s a tough thing, right?
+
+Aileen Lee:  
+Yeah.
+
+Jason Lemkin:  
+It’s like folks graduating from college this year. It may be a lost generation compared to next year.
+
+Aileen Lee:  
+Well, I hope not.
+
+Jason Lemkin:  
+What?
+
+Aileen Lee:  
+I hope not.
+
+Jason Lemkin:  
+Well I know, but this may be a year where they don’t get to go through traditional recruiting processes and are impacted. And you’re like, “Well, there’s next year.” But by next year, there’s another-
+
+Aileen Lee:  
+Yeah. They’re going to be-
+
+Jason Lemkin:  
+… 50,000 seniors graduating from great colleges and you’re in this weird phase.
+
+Aileen Lee:  
+Yeah. And the other thing we didn’t get to, I know it was one of your questions was just, there’s so many funds and this is, and that there are multi-stage funds, right? When you look at venture capital, there’s a whole thing going on about how many funds are and how many seed funds there are.  
+But the other thing that we, I feel like we don’t talk about enough is how many gigantic funds there are and how much of the money is in multi-stage funds that each fund is bigger than $500 million. And so how that changes the ecosystem in terms of when you put someone on your cap table, like we co-invest with multi-stage funds all the time and we partner with them all the time, but you have to be really savvy about when you do take one of those folks on or multiples of them onto your cap table and onto your board it’s a different ball game in terms of their incentives and their portfolios and the size checks they want to write and versus like us simple seed people.
+
+Jason Lemkin:  
+Yeah. I think for each big fund on the cap table, you need to create $1 to $2 billion in exit value. So once you have four or five of those big names, you’re con is committing to a decacorn.
+
+Aileen Lee:  
+Yeah, exactly. And that reality is like, I mean, Thomas Jeung has published a thing recently about, I think you’re 26 times more likely to be acquired than to go public, and so the reality is I mean, people can joke about how many unicorns there are, but it’s still extremely hard to build a billion dollar company.
+
+Jason Lemkin:  
+It is. I keep waiting for your tech crunch article number three.
+
+Aileen Lee:  
+Are you there?
+
+Jason Lemkin:  
+I don’t think you put the third one, did you?
+
+Aileen Lee:  
+I haven’t no. Actually it’s funny because I have, now that we have a little bit more time at home, I’ve gotten back to it actually to kind of get up to speed on the new set and to try and learn where they came from and all that stuff and how it’s different than the original set.
+
+Jason Lemkin:  
+I think it’s time. I mean, I think-
+
+Aileen Lee:  
+Oh, thank you. I’m working on it. I’m a really slow writer.
+
+Jason Lemkin:  
+The first one was like… This is probably the last thing we’ll have to chat about, so maybe it’s a little off topic, but I think it’s helpful. I think the first one was one of the best pieces of venture content marketing ever, right? Which was probably part of the goal. Right?
+
+Aileen Lee:  
+No, it was completely an accident.
+
+Jason Lemkin:  
+It was an accident?
+
+Aileen Lee:  
+Totally. I did not think anyone was going to read it at all.
+
+Jason Lemkin:  
+Really?
+
+Aileen Lee:  
+Oh my God.
+
+Jason Lemkin:  
+Oh, wow.
+
+Aileen Lee:  
+I worked on it for months just for myself just because I had this new fund-
+
+Jason Lemkin:  
+Months? Months?
+
+Aileen Lee:  
+Months. Because I-
+
+Jason Lemkin:  
+No one had ever assembled that type of data, but now there’s analysts and everyone’s firm does it, but no one had ever seen that whenever the first one was, 2014 or something like that.
+
+Aileen Lee:  
+2013\. Yeah. I did it for myself just because I had this new fund and I was like, “What should I invest in?” If I had to do an analysis of the most successful companies of the past decade, what would they have in common, so I could try and look for those for the next set. And then there was all this stuff that came out of it. I was like, “Oh, actually I think this would be useful for founders and for investors for a bunch of different reasons.”  
+And so I published it, but I gave it to some friends to read it. I actually was on the way back from the lobby conference and I gave it to a couple of people on the plane to read it. I was like, “Hey, I’m thinking about publishing this blog post, what do you think?”  
+And they were like, “It’s okay.” Nobody even said like, “Wow, this is really great.” Or like, “This is going to become a thing.” And so it was a big surprise.
+
+Jason Lemkin:  
+Yeah, the second one was great because it had even more data.
+
+Aileen Lee:  
+Actually to bring it full circle, when I published it, I was at Disney World, I was at Disneyland with my family, the day that it went up, the Saturday morning it went up and so I’m on line for rides and I was like, “Jason,” my husband’s name is Jason. I was like, “Oh my God, people are liking this and sharing this. This is so crazy.” And he’s like, “Hey, we’re at Disneyland. Focus.” And I’m like, “You don’t understand. People are actually reading this thing.”
+
+Jason Lemkin:  
+It’s funny, speak from… I mean, it’s the great lesson of all writing, speak for what you’re passionate about. You’re passionate about it because you had to learn how to deploy the fund. So this was your homework and you forced yourself to distill all that work into an article because it was your investment thesis. This was your investment thesis. A piece of it, right?
+
+Aileen Lee:  
+And also, I mean our industry is huge, right? It manages almost like $500 billion and there was so little data or analysis on our industry. No transparency of… I mean, there’s not even… In universities, there’s no professor on the history of technology who studies the history of the technology business and all the forks in the road of companies, like if you did A instead of B, what happened to the company? I just think it’s fascinating.
+
+Jason Lemkin:  
+It is. All right. We’re out of time. I’d like to do all these questions.
+
+Aileen Lee:  
+I know. Sorry.
+
+Jason Lemkin:  
+Maybe if you’re bored someday, let me know. We’ll do it again on Zoom and answer them together.
+
+Aileen Lee:  
+Okay. That’d be fine.
+
+Jason Lemkin:  
+I have time. But I’m looking forward to-
+
+Aileen Lee:  
+But I always really enjoy chatting with you.
+
+Jason Lemkin:  
+… the third piece.
+
+Aileen Lee:  
+Okay.
+
+Jason Lemkin:  
+I want the third article on TechCrunch. It’s okay if it takes a while. I’ve been waiting for a few years so that’s-
+
+Aileen Lee:  
+Oh, you’re so nice. Thank you.
+
+Jason Lemkin:  
+All right. Aileen, thank you for doing this. This was great and we’ll talk to you soon.
+
+Aileen Lee:  
+Thanks everybody.

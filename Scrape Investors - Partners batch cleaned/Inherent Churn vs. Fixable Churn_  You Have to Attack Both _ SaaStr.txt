@@ -1,0 +1,29 @@
+# Inherent Churn vs. Fixable Churn: You Have to Attack Both
+
+So there’s a theme I’ve been working on with all the SMB-focused founders I work with and have invested in:
+
+#**1\.  The Goal for SMB SaaS is 100%+ NRR**.  Easy in enterprise, hard in true SMB.
+
+#**2\.  However, SMBs have a certain level of inherent churn.  That’s often 3% a month or so**.  You can still make them super happy, but a subset of small businesses will churn at that rate anyway.
+
+#**3\.  Your job is either to go a least a bit more enterprise to get to 100% NRR — or to make your product into the OS for an SMB**.  Into an ERP.  Into the #1 most important app they use, and can never rip out.  And then — your NRR will cross 100% with SMBs.  And that will mean building a lot more product.
+
+Brian Halligan, Chairman and co-founder of HubSpot did a deep dive recently on LinkedIn and how HubSpot got from 60% to 100% NRR **[here](https://www.linkedin.com/pulse/how-hubspot-fixed-retention-brian-halligan-rbxce/?trackingId=hzCMdtnzSOuqjBHCNGz%2FSw%3D%3D)**.  Brian talks about a lot of things that moved the needle in getting HubSpot to 100% NRR.
+
+### But the one that really shined for me was that their initial 1.0 product, which was just top of the funnel — had _inherent_ churn.
+
+It was a great product, folks loved it, but without building middle of the funnel functionality like Marketo / Pardot / later Klaviyo had, they’d never get to 100% NRR.  Eventually, they bought a start-up called Perfomable (the Drift co-founders’ previous start-up) to get there.
+
+### **And this is the similar journey I see with many SMB SaaS start-ups.  Growth gets strong, customers are happy — but churn still remains stubbornly high.  It comes down a bit, but not enough.**
+
+They improve onboarding, and integrations, and training, and sales comp plans, and more, and that all helps and is crucial.  All that does in fact drive up retention, to an extent.
+
+But even there, with SMBs, it’s often not enough.  You often simply need more product to get to 100% NRR.  HubSpot needed to add marketing automation and then CRM to get there.
+
+We recently did a deep dive with the CEO of MangoMint, SaaS for spas and salons that SaaStr Fund is an investor in.  At the time, they were at $12m ARR, growing 100% — with 110% NRR.
+
+Daniel did a great deep dive on how they did it here.  But in a nutshell, it’s a _series_ of great products integrated together to create an OS / ERP for their customer.  Not just super-slick bookings and scheduling for salons and spas, but also payments and payroll, and front office and back office automation.  All of it is necessary to hit 110% NRR from SMBs:
+
+The story is similar at Toast.  They built all of this and more to get to 100%+ NRR.
+
+**To get to 100%+ NRR with SMBs, you often have to do _both._**  Relentlessly attack the causes of churn.  But also at the same time, building more and more of the core functionality the SMB needs.  Enough so they’ll truly never leave.

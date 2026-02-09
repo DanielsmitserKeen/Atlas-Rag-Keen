@@ -1,0 +1,51 @@
+# Bootstrapping SMB-centric GTM: Insights from our SaaS portfolio
+
+If you’re an early-stage SaaS company focused on SMBs, how do you start your GTM engine? Early experiments in GTM are intertwined with achieving PMF, and also define the velocity, cost and scalability of the eventual GTM motion. We, at Stellaris, strongly believe that while your ‘right to exist’ comes from the product, your ‘right to succeed’ will come from your GTM!
+
+We recently invited two entrepreneurs who have seen these journeys in multiple companies – [Girish](https://www.linkedin.com/in/girishredekar/) (co-founder, Sprinto), and [Chara](https://www.linkedin.com/in/charanyan/) (co-founder, [RevenueHero](https://www.stellarisvp.com/optimizing-for-speed-to-lead-why-we-invested-in-revenuehero/)). Drawing from their experiences as well as ours across a large number of current and past portfolio companies, here are some suggestions for early stage founders:
+
+> **We strongly believe that while your ‘right to exist’ comes from the product, your ‘right to succeed’ will come from your GTM!**
+
+## **1\. Drive the first 50-100 customers yourself and create a playbook for the team**
+
+**‍**Conversations with early prospects/customers helps in understanding PMF – these should not be delegated to others. These conversations also reveal the true pain points, what delivers value and the “hero” features of your product. Document these to build a playbook for sales teams that you will hire.  
+
+## **2\. Know the difference between demand harvesting and demand generation**
+
+**‍**Your GTM motion will depend on whether it is an existing category (demand harvesting) or a new category (demand generation). In the former, customers will usually look for solutions to known pain points, and you need to figure out channels where they hang out. In the latter, you may need to create awareness of the category and often educate prospects. Latter is usually a much harder motion, though can be exceptionally rewarding for successful category creators.
+
+## **3\. Make a deliberate choice between inbound motion and outbound motion**
+
+**‍**In an established market, particularly with lower Annual Contract Values (ACVs), it is advisable to go for inbound motion. Inbound strategies like SEO, SEM and content marketing can help attract higher-intent customers actively seeking solutions in a relatively shorter duration at cheaper costs. While outbound motion offers better targeting capabilities, it may require a longer gestation period and higher costs to yield results. You will eventually need to successfully build both motions, but choose the timing of these based on your experimentation bandwidth.
+
+## **4\. Don’t be afraid of established competitors**
+
+**‍**Established competitors often struggle to provide the personalised attention that smaller customers require. As a founder, your willingness to go the extra mile, whether in your product offerings or services, in addition to the enthusiasm you demonstrate, can go a long way in acquiring your initial customer base. In this scenario, passion outweighs brand recognition.
+
+## **5\. Resource and staff your team deliberately**
+
+**‍**In the early days, companies find themselves in the learning phase. During this phase, it’s always helpful to have full-stack individuals (generalists). They generate demand (SDR), sell (AE) and support customers in being successful (CS). The goal in this phase is to understand the processes, products, and channels, channelling feedback to enhance the product. However, as the company scales, the priority shifts from learning to building processes. At that stage, continuously segment and specialise roles.
+
+**Watch:** [_SaaS Talks #33: Winning GTM Strategies for SMB SaaS_](https://www.stellarisvp.com/saas-talks-33-winning-gtm-strategies-for-smb-saas/)
+
+## **6\. An experiment always works better with two**
+
+**‍**In your GTM experiments, relying on only one person to test your hypotheses can become challenging – it is difficult to determine what was wrong – the experiment or the individual. Conducting the same experiment with two people makes it easier to identify potential shortcomings and pinpoint areas for improvement.
+
+## **7\. Don’t be intimidated by churn**
+
+**‍**In the early stages, churn is not necessarily a key metric, especially while you’re in the process of identifying your Ideal Customer Profile (ICP). As you experiment with different customer segments, you may achieve some initial successes, only to eventually realise later that the segment isn’t the right fit for your product. Churn is an inevitable aspect of this process, but it’s crucial to delve deeper into understanding who is churning, why they’re churning, and what underlying factors are at play. Instead of focusing solely on minimising churn as a metric, use churn as a tool to refine your ICP and PMF during this formative stage.
+
+## **8\. Measure your volume and velocity** **diligently**
+
+**‍**For SMBs, GTM strategy often revolves around volume and velocity. GTM is inherently a process-oriented exercise that lends itself well to measurement. As you approach the 0.5-1 million ARR mark, it becomes relevant to integrate comprehensive measurements into your processes. This phase allows for in-depth tracking of the entire funnel, from demand generation to sales, including metrics like time cycles and costs. Given the emphasis on numbers, it’s imperative to heavily prioritise measurement throughout this journey.
+
+If you’re interested in diving deeper, check out our blog [**_Tired of too many SaaS metrics?_**](https://www.stellarisvp.com/tired-of-too-many-saas-metrics/) Or if you’re looking for a place to get started on your first SaaS MIS, take a look at this [**_template_**](https://www.stellarisvp.com/yourfirstsaasmis/).
+
+## **9\. Focus on ACV over LTV**
+
+**‍**In SMB sales, the aim is to ensure that Customer Acquisition Cost (CAC) is lower than Annual Contract Value (ACV). This equation between CAC and ACV should be clear before reaching the 1 million ARR milestone. While Lifetime Value (LTV) metrics may seem enticing, they are often unclear at this stage of the business. SMB SaaS, characterised by higher churn rates, places greater emphasis on ACV as the key metric of success.
+
+## **10\. Monthly and quarterly payments can be deceiving**‍
+
+Be wary of the allure of monthly and quarterly payments in sales. SaaS businesses derive their value from collecting cash upfront for annual subscriptions. It’s important to prioritise annual customers from the outset, as the financial viability of the business hinges on this model. Instituting this discipline early on is essential. While there may be a temptation to delay this practice in pursuit of acquiring customers, it’s seldom worth it in the long run.

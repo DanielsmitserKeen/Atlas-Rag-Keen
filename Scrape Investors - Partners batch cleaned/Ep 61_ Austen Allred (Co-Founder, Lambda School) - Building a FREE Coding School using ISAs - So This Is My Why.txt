@@ -1,0 +1,581 @@
+# Ep 61: Austen Allred (Co-Founder, Lambda School) - Building a FREE Coding School using ISAs
+
+**STIMY Ep 61:** Austen Allred \[Co-Founder & CEO, Lambda School\]
+
+**Austen Allred:** We want to bring a highly effective vocational system to the US because when I go back to central Utah and talk to people there, four years of school and a hundred thousand dollars in debt doesn't make sense for people making 30,000 a year, it's just fundamentally not a right move. You can risk it all and hope that on the other end, you make enough to pay off the loans. But if it doesn't work out, you're financially ruined forever. So it just doesn't make any sense to me.
+
+And then you have a code school that might only be $15,000, but you still have to move somewhere. You still have to spend three months. And the percentage likelihood that it works out is pretty high, but it's not a hundred percent. So what happens if it doesn't work out and it a rational person, you're not willing to, if you could, if there's a 90% chance that you double your income and a 10% chance that you're financially ruined for life, it still might not be a rational bet.
+
+So we had to fix the incentive structure of vocational schools. And now we're actually just starting to make that work sustainably. And then it's a matter of, let's do this for everything and everybody everywhere. That's been the journey of Lambda school.
+
+We're trying to create a new system of education, not just a school, a new system of education that doesn't exist in the U S and really anywhere else either once you lay around the risk management piece.
+
+**Ling Yah:** Hey everyone!
+
+Welcome to episode 61 of the So This Is My Why podcast, I'm your host and producer, Ling Yah, and today's guest is Austen Allred. Austen is the co-founder of Lambda school, which is a Y Combinator backed, virtual coding school based in the States. I was really excited to have Austen because I thought Lambda has a really interesting business model that makes use of the income sharing agreements or the ISA.
+
+Now the problem that Austen noticed was that a lot of people wanted to become a developer, but that there were a lot of inherent risks involved. Coding schools tend to take several months to complete, require thousands of dollars.
+
+And at the end of it, there's no guarantee of a job that would justify the upfront investment made To combat that and take the risk out of the equation, Lambda makes use of the ISA.
+
+Students can complete the course at Lambda for free and upon graduation and only after they start making over $50,000 a year, do the graduates pay back 17% of their income for the next 24 months to Lambda with a cap of 30,000.
+
+This new model of coding school seeks to change the way that virtual education is being done. And throw open the doors to aspiring developers.
+
+We explore all that as well as Austen's upbringing, which includes being a Mormon missionary in Eastern Ukraine, vagabonding around China, being homeless and Silicon Valley, and having to go through five rounds of interviews before being accepted to Y Combinator, all in this episode.
+
+So are you ready?
+
+Let's go.
+
+You grew up in a Mormon family in Utah. I wonder what that was like for you
+
+**Austen Allred:** I mean, for me, it was all I knew at the time.
+
+But now that I've seen some different experiences grew up in a very religious, very family oriented community and grew up in a family that was kind of moving from the lower to the middle-class for the first time. So my mom grew up in a family of nine kids.
+
+And she still talks about to this day, like what it was like when she bought the first pair of jeans and how guilty she felt buying clothes instead of selling her own. There wasn't a lot of money, but we didn't know any different, that just was what life was.
+
+**Ling Yah:** Was education a very big feature in your life then?
+
+**Austen Allred:** Yeah. So both of my dad's parents were teachers. One was a high school teacher. One was an elementary school teacher. My grandma was actually a first generation college graduates. my grandma was the breadwinner, which is a little more conventional now, but in Utah at that time was very unconventional.
+
+So she raised nine kids and had a master's degree and worked full time and like her work ethic was out of control. And also, both my parents went to college and Well, they got married while they're in college. We were taught that the most important thing in life is, , going to college and getting a degree and getting good grades. And now we have a family with a few dropouts which was a little bit interesting. and I can talk later about what it was like when I dropped out of college because I was the first in my family drop out of college.
+
+And it was a controversy for sure.
+
+Education, funnily enough was much more important for my parents than it was for me. And partially because I had frankly, a pretty miserable experience in school. I didn't appreciate it. I didn't feel like I was getting nearly as much out of it.
+
+And relevant to that story is my dad was an accountant still is an accountant. So we were among the first people to have a PC at home. That was a big, big deal. And I fell in love with the computer instantly. And I didn't grow up with many kids around me.
+
+So we grew up in a trailer park. In Utah, it's the cheapest housing you can get. So all of the kids were either at daycare all day or at school all day because all the parents worked or were gone. So there wasn't much of a friend group to hang out with there weren't kids, my age to play with.
+
+So it was being in the backyard or being on the computer. And so I fell in love with the computer. So I got the internet as a birthday present when I turned eight , and back then it was dial up and you had to have a separate modem and it was super slow, but that was my window into the rest of the world.
+
+Growing up, we had books, everybody has books, but there was so much that I didn't have access to in a small town that the internet opened up for me. So I much preferred the internet to going to school is there short answer and that caused a lot of consternation at home.
+
+**Ling Yah:** Did you feel like the world opened up further when you learned HTML at the age of 11? How did that happen?
+
+**Austen Allred:** Yeah. I, , was originally just a consumer of the internet and the internet then was very different. It was a lot of academia, a lot of blogs. Companies were just starting to come online.
+
+So maybe a couple of magazines or newspapers here or there, but it was really more about bulletin boards and blogs and stuff like that.
+
+So my grandma was a technical writer at a company called Novell, which was one of the earliest tech companies.
+
+So she, , to this day is very tech savvy, which you wouldn't expect if somebody her age She saw that somebody at Novell and Novell was one of the earlier operating systems. So they built an operating system for companies and schools and was by far the biggest tech company in Utah.
+
+And a lot of what exists in tech now in Utah came from Novell. And my grandma didn't join because of the tech. She was a writer and just happened to work there. But she saw on the bulletin board, one of her colleagues was going to teach a free class on HTML and CSS. And that's really all the internet was at the time was a bunch of HTML pages.
+
+And so I went to that class and I need to find that guy and figure out who he is. And it was like, it was heaven. It was a bunch of nerdy kids like me. I didn't know anybody else who cared about computers. Like it was still a very nerdy, , thing at the time. And kids my age, just wanting to play sports and video games and not play with computers.
+
+So it was, , instantly there was like, it was my tribe of people. I thought they were all pretty smart. I was, , a bunch of 11 and 12 year old kids. And we wrote our first HTML, which was super, super simple and not sexy. But you're actually doing something in the computer that you did.
+
+And the guy bought us pizza and it was free. And I just couldn't believe that , this world existed. And that kind of set me off into a path where not only can you consume with the internet, you can be a creator.
+
+And also importantly for me, there weren't very many kids my age around. So I always was hanging out with adults. Like even when I was super young, I would just want around the neighborhood and talk with all the adults. So I always felt even at a very young age, more comfortable around adults than people, my age, and on the internet, you can be an adult and people will treat you like an adult.
+
+And if your English is proper enough and later on, if your marketing copy is good enough, nobody knows the difference and you can just start living like an adult.
+
+And that was actually really important for me at the time. I wanted to escape childhood and start being able to be an adult which is probably not what everybody wants at that age, but that was really valuable for me and important for me.
+
+**Ling Yah:** So were you thinking at the time, I want to enter into tech?
+
+**Austen Allred:** I didn't know that tech was a thing then. I knew about people who started their own business and I knew about entrepreneurship and I knew I wanted to do that. And I love tech, but honestly it wasn't until I basically dropped out of college and this is much later on, but I knew I loved international stuff and I was living in China and I thought that was just really interesting.
+
+I just moved to China to see what it was like. And when I was there, I realized, I liked the idea of international stuff, but I thought for a while, I wanted to be an importer exporter because that's what I had done to sell stuff online. At home I'd buy stuff from China and sell it on eBay.
+
+That's when I was like, actually these things, these two things that I love, like entrepreneurship and tech, they actually worked really well together. But there wasn't like a tech startup scene.
+
+There are a few tech startups, but it wasn't an obvious career path the way it is now. it wasn't obvious to me that those two worlds would intersect in the way that they do today.
+
+**Ling Yah:** So before China, you actually went on the Mormon mission to Donetsk in Eastern Ukraine. You can speak fluent Russian after two years there.
+
+What was the whole experience like? Because I looked up, Donestk and it's an industrial city. It's got landmines. Armed conflicts. Foreigners are generally prohibits it from entering. It doesn't sound like a very peaceful existence there.
+
+**Austen Allred:** No, it was, it was not. Yeah, a lot of people in Donetsk could not fathom the idea that an American was in Donetsk. So they would assume either you work in mining somehow because it was a very mining centric culture or that you're a spy. Which shows you kind of the former Soviet union was still very real in Donetsk.
+
+And now this didn't happen after I left, but now there's the Russian Ukrainian conflict happening there. And a lot of the people that I know have either now left or few have died, but it's even less hospitable environment today than it was when I left. So a couple of years after conflicts broke out and depending on who you trust or who you're listening to either a Pro-Russian group decided to separate from Ukraine or Russia invaded Eastern Ukraine, depending on which side you listened to.
+
+A lot of the places that I lived are now destroyed and a lot of the people have either left or it's, I mean, it's a war zone to this day, less so than it was five years ago.
+
+But it was a very interesting place for an American who had never left Utah and had never seen a drunk person to be dropped into a very, very different culture.
+
+The other thing that was meaningful for me there is I grew up whenever I went to school, whenever I did anything, what everybody said about me was that I was very talented and very smart, but had zero work ethic.
+
+So it was always, all of this wasted potential. I skipped more than half of my classes in school, but I still ended up with good grades and being an honor student and high enough percentile and all the tests that I could still get into good colleges. But I, never attended class which is technically illegal.
+
+So there's some problems with doing that. But Ukraine is where I learned two really important things. I learned to work incredibly hard regardless of what was happening externally to me.
+
+The life of a missionary is you get up at 6 30, am you work out, you eat breakfast. And then by, I think it's 9:00 AM or no, it's 8:00 AM to 11:00 AM.
+
+You're studying. So you spend an hour studying on your own. You spend an hour studying with a companion, which is the person you live with, and then you spend an hour studying Russian language. And then you're out the door at 11:00 AM until 9:00 PM with an hour break for lunch. And all day you are either doing service.
+
+You're teaching English, you're knocking on doors, you're going into people's homes. I still know parts of Eastern Ukraine better than the people that live there. I know every single street. I know every single house I know to some extent who lives in most of the houses.
+
+And you spend all day walking around. Working, , whether it's, summer and it's 40 degrees Celsius, which is something like a hundred Fahrenheit or whether it's negative 40, which is negative 40 Fahrenheit. you just don't stop no matter what. And that was a really important lesson for me.
+
+And the other important lesson that I learned was that it is okay to be different than everybody around you. And growing up in Utah, everybody is more or less the same. And if you're different in any way, you're ostracized. Even the most rebellious people will feel a lot of pull to fit into culture.
+
+And then Ukraine, that wasn't an option.
+
+There was no way I could feel like a Ukrainian. , I was a missionary, which is weird and after many years of communism and government enforced atheism, to be a religious preacher on the street is to be a crazy person. And so you come to terms with the fact that everybody around you thinks you're crazy and, becoming okay with that, where you are comfortable thinking differently than everybody around you.
+
+You're comfortable seeing the world differently than everybody around you was. As important I think is learning to work really hard. Because until then I would decide whether what I was doing was a good idea, slightly based off of what everybody else would think about it. I think that was one of my greatest weaknesses growing up.
+
+And if you can learn to truly think for yourself and truly think individually as an entrepreneur, that can be one of your greatest strengths. When I invest in companies now, that's one of the things that I look for is how much are you influenced by what is normal? And I don't know that I would've had the courage to drop out of college or to move to China or to do a lot of the stuff that I did had I not had that missionary experience in Ukraine.
+
+I probably would have just felt like, this is what you do. You go to college and then you get a job and maybe you start a business on the side, but I wouldn't have felt as confident in forging my own path I guess.
+
+**Ling Yah:** You still in the Ukraine when you start to Stubtopia? Because you were eBay junkie.
+
+**Austen Allred:** No, that was actually before.
+
+So another aspect of my growing up is that you paid for everything yourself from the time you turn like 12 and that's part of how my parents grew up as well is your parents provide food, they provide shelter. They'll make sure that you don't die. But if you want the clothes that you think are cool. You have to earn the money to buy them yourself if you want to.
+
+It's not a big thing, but I played soccer and the club soccer fees were $200 a year. , it's not very much, but for a 12 year old, that's a lot. , if you want to play soccer, you can do that, but you have to earn those fees on your own.
+
+My parents would give you a low, hourly wage to work in the garden or to do stuff around the house. I think they wanted to instill in us a work ethic of, we'll pay for things as a family, but you have to be contributing to the family.
+
+And the easiest way to measure that is just we'll pay you and you can do whatever you want with it. But pretty quickly learned that , making $5 an hour to weed, the garden for mom is not the most efficient way to earn money. So , me and my brothers and my sisters as well, we were all, , starting little businesses, whether there was a lemonade stand or shoveling snow or selling stuff.
+
+And so when eBay came around, I was one of the earliest eBay buyers and sellers. that was the thing for me. I could make money that way I could buy stuff that I wanted cheaper. eBay was like the Amazon of today, but much more chaotic. You could buy everything on there for less than retail.
+
+If you knew how to search really well, you could get discounts. And I made a ton of money.
+
+As a kid, being able to find stuff that nobody else could find, because if E-bay is weird, the way that eBay listed things and buying it and turning around and selling it, with good marketing behind it. and that's how I made thousands and thousands of dollars in my teens doing that.
+
+And there's no way I could've made anywhere near that kind of money working a job or working for my parents or whatever else. I think that turned me and all of my siblings onto a path of entrepreneurship in a way that I'm actually hoping to replicate for my kids. , and as a kid, you can only earn like $7 an hour if you want to go get a job.
+
+So you can either spend all of your nights and weekends working a job for $7 an hour, or you can learn to use eBay and I was probably making a couple hundred dollars an hour and then you can hang out with your friend and have everything you want. So it was a lesson in what different paths in life look like.
+
+So my family went on a trip to New York city. None of us had ever been to New York. It was very, very exciting. My parents never really went on vacations unless it was camping. So this is a big deal for the family.
+
+And we wanted to go see a Broadway play because my, family's also very musical. Everybody plays several musical instruments. Everybody's sings sometimes willingly, sometimes unwillingly. My mom had heard about a Broadway play called Wicked. Which was brand new at the time. And so, we started looking for wicked tickets a year in advance.
+
+And I said, well, let's look on eBay. I buy everything on eBay. It turns out if you look on eBay for tickets, you see the tickets that are, , for this weekend. And it was sold out months in advance. And if you didn't have a ticket, you know, you had to pay more.
+
+And another feature of eBay at the time. Once you could see all of the completed auctions. You had a complete history of what everything had sold for going back, as long as you wanted, which you can't really see that today. You don't know how many items sell on Amazon, other than trying to look at reviews.
+
+And I guess eBay is still around.
+
+So there's that Realized that tickets were not at a discount, they're actually much more expensive. And so looking at the completed auctions, trying to figure out why that was. My brother and I noticed a pattern of a select set of tickets for if you get this night and these seats, those tickets will sell for three or four X, the retail price.
+
+So for the, the mission I served in Eastern Ukraine, another aspect of Mormonism as you pay for that yourself. your entire, and it's the only, it's like 10 or $11,000 that you save up by the time you're 19. So when we were earning money, 50% automatically went to the mission fund and then you could spend the other half.
+
+So me and my older brother both had pretty significant mission funds at the time. And without telling our parents, we bought like $5,000 worth of tickets. So we spent our entire life savings on these tickets. We turned around a few months later, we sold them all and we doubled our money and we put the money back in the savings fund.
+
+And then we told my accountant of a father that we had just gambled our life savings on what we were convinced was a really good business idea. And he was livid, but , we now have capital to play with in a way that we didn't have. So I was doing that on the side, but my brother had done that with his money and I didn't have enough money to do that at any reasonable scale without taking out my mission fund.
+
+And my dad wouldn't let me so I downloaded like this b usiness plan template. And I had written like a 35 page business plan on exactly what I would do if I wanted to scale up buying and selling tickets and the right way. And then my uncle who was an entrepreneur and it sold a couple of companies had bought another company that was selling office furniture online.
+
+So after I graduated from high school so that I could finish saving up for the mission I was working for him and the furniture store was going okay. But over lunch, I was talking to him about, , he'd heard about some of the ideas that I'd had in buying and selling tickets. And he was interested in it.
+
+And I brought in my 35 page business plan and showed it to him and he, he read it through over lunch. And basically said like, we should do this. I can provide the capital. I can do whatever you want but this is super interesting. And this is really well thought out.
+
+So in a way, he was the first investor.
+
+But he said, , I want to pull you off of the stuff that you're doing now and have you do this, which to me was a dream. And he said, you have two options. I can give you half of the company and we can do it 50 50, and I'll provide all the capital and you run the thing because he was quasi retired and didn't want to work.
+
+Or you can just run it and I'll take all the risk and I'll pay you $14 an hour. And I said, $14 an hour sounds incredible.
+
+So I took the salary instead of the equity. And part of that was because I wanted to pay for my mission, which was a few months away. But yeah, by the time I left from my mission, we were buying and selling millions of dollars worth of tickets.
+
+And eventually that company became worth millions of dollars and I made $14 an hour. So It was a really good learning experience for me. I mean, there are a few flaws in my thinking that I discovered between the business plan and the actual execution of it. I learned where I'm strong and where I'm weak from a business management standpoint.
+
+And I learned the value of equity and , the value of taking risk as meaningful in building wealth. Yeah. So that was a phenomenal learning experience for a 17, 18 year old kid.
+
+**Ling Yah:** What do you think was your secret sauce? I imagine people must have noticed suddenly you were not earning $7, you were earning thousands and they would want to replicate it.
+
+So how did you stay ahead of everyone else?
+
+**Austen Allred:** And that was a problem that I always had when I was buying and selling stuff on eBay. It would be like, well, I can buy this soccer ball for $10 and I can sell it for $30. Like, why is that still an option? And I puzzled over that for a long time. Why had nobody else figured that out? Why had the market not corrected?
+
+And then when I was older and was making real money, I realized, oh, because it's actually not worth anybody's time to spend half an hour buying and selling a soccer ball to make $5. So I think there's an element of it where there's the old efficient market hypothesis, economist joke that if an economist sees a $20 bill on the ground, they'll say, oh that's not real because somebody would have picked it up.
+
+Sometimes it's real.
+
+And sometimes your incentives are different than other people's incentives.
+
+I think one of the traps that people can fall into is the assumption that if a business idea is a good one, it's already done. I've now found that that's just nowhere close to true. There are millions of businesses that could be started and grow really big and be really profitable that people haven't started. Sometimes it's because they don't have the time sometimes it's because they don't have the resources. Oftentimes it's because they don't even realize that that opportunity is there or are willing to do what it takes to make that opportunity real.
+
+And I think in the ticketing instance, there are a few people that learned that it was real, but that industry was so big that everybody could carve their own niche.
+
+And we had talked to other people that are doing way more than us in volume, and they're like, yeah, but I'm really good at Oakland Raiders tickets. And that's my thing. And I understand that really well.
+
+And a lot of the people that got into buying and selling tickets, it was a more gruff crowd and they were very into sports oftentimes. So the Broadway crowd was very small people. Weren't thinking that way for the more artistic types of tickets.
+
+So actually one of the people that I've seen that made some of the most money in buying and selling tickets was buying and selling opera tickets. But nobody even knows the opera tickets have that kind of a marketplace. So you know, if you go to a sporting event, you see people on the street buying and selling tickets, that's there. But opera. So they had an arbitrage that I didn't even realize at the time.
+
+**Ling Yah:** You went to your mission trip and came back. What was the thinking behind going to college?
+
+**Austen Allred:** Yeah, that was always the plan. And that's just what you did. My grandma was a first-generation college grad, both of my grandmas on each side were first-generation college graduates. They both went to the same college. My parents went to the same college and it was like, it's actually pretty hard to get into. It was an honor to be able to do that for all of them.
+
+And so that was the expected path, growing up, it was always, oh, I hope that if you're really, really smart, you can get into BYU one day and if you work really hard, like that was the goal.
+
+And I got in and so, Yeah, it's just the expected path.
+
+**Ling Yah:** As you alluded earlier, your family, the last thing they're going to expect is for you to drop out. So that would have been pretty difficult.
+
+**Austen Allred:** Yeah. Short answer is I was miserable. I didn't enjoy the classes. I didn't enjoy the environment.
+
+I mean, at that point I had just been kind of off on my own learning on my own in Eastern Ukraine. I had started companies and then I went back to what felt like a very rigid, very expensive, very uninteresting place, frankly. And maybe before I went to Ukraine, it would have felt more interesting.
+
+And the social life did nothing for me. I didn't care to go to parties. , I could have my own set of friends if I wanted to outside of that. So I didn't feel a need for that. I was really bored one semester and I just felt trapped. One of the things that I enjoyed the most about Eastern Ukraine is it, everything was a challenge.
+
+Even getting to the grocery store, taking all the buses. Learning what to buy and then buying it and then getting home. Whether it's, you're talking to a taxi driver and bartering with him to take you home cheaper or , figuring out what the bus schedule was or what the tram vice schedule was like, , everything was a challenge and I love that.
+
+And then I got home and the college that I went to was 20 minutes from home. I had grown up going to the sporting events there. So I kind of already knew that the campus. The classes were boring and uninteresting. I didn't feel challenged or excited at all. Every weekend I would get in my little car and I would just drive somewhere because I needed it to get out.
+
+I needed to escape.
+
+Like the beach in California was like 12 hours away of driving. But every weekend I would just get out of class at 3:00 PM and I'd drive through to California through the night. I would sleep in my car for a couple of nights and I'd drive through the night back. And that was like the only way that I could feel like I was doing something interesting or exciting.
+
+And then I was sitting there with one of my roommates who is also one of my mission buddies we've we have went to the same school and, we had an experience on the mission where we kind of said, something along the lines of, what's the one thing in your life right now that basically you're just not brave enough to do?
+
+And like, think about it instantly. And on the mission, it was like, I hate talking to people on public transport because it's kind of weird to do that in former Soviet states.
+
+A lot of people are quiet. You don't talk to people you don't know generally. But as missionaries, you're supposed to be talking to everybody all the time. So we said, all right, we're going to spend all day doing nothing other than taking public transport and talking to people on every trip that we take, which was hell, honestly.
+
+But like going through that, you kind of learned that you can do the thing that scares you and that you don't want to do. And that's a really rewarding experience.
+
+So we're In our dorm at college, kind of having the same discussion where like he was watching me be completely miserable in school.
+
+And I would talk with him all the time about how much I wanted to go do something different. And I think he kind of recognized that the only thing holding me back from doing that was like my lack of courage, frankly. And so he said, all right, same thing we did on the mission. Respond instantly, what's the thing that you want to do, but you don't even dare let yourself think about. I was like, I want to move to China.
+
+And that shocked him.
+
+This was 2009, 2010, like China was just starting to become the China that it is today in some ways. And so everybody was really interested in it, but most people didn't really understand what was happening.
+
+And I'd read a bunch about it. And he was like, well, how much money is in your bank account? And it was like a thousand dollars. How much is a one way ticket to Shanghai costs? Well, first we Googled all of the cities in China and decided, which looked the best based on Google images.
+
+So that took about 10 minutes. But then he's like, yeah, just like buy a one way ticket to China and see what happens. I was like, what, that's what I'm going to do. So I did that.
+
+After I bought the ticket, I realized you have to figure out visa stuff. So that was a tight turnaround. And then I called my parents and said, hey um, Dropping out of college, I'm moving to China.
+
+And at that point, my mom was just like, whatever Austen. I know I can't convince you otherwise. So you do whatever it is that you do. And we'll be supportive, but make sure you're safe. I'm going to help you with your visa stuff.
+
+So I moved to China, had a great time crazy experience. Ended up in a free apartment for a bunch of reasons and then got kicked out of that apartment. And then I didn't have a place to live. So I just bounced around and lived in hostels and trains and spent all my time and money just vagabonding around China.
+
+I had a single backpack with everything I owned in it and it was, it was awesome. It got old after a while. Like, you can only go see so many Chinese cities before they all start to feel the same and you're like, I get it. I can't really speak Chinese, but I understand what China's like.
+
+And outside of like Beijing or Shanghai, it starts to feel the same and the way that a lot of, , Ukrainian cities, like you get comfortable. And when I got comfortable, I knew that it was time to head back. So, , by that time I was like, okay, I've read my thorough.
+
+I've had my experience. It's time to like, go join society and go back to college. So I went back I did another semester and then I dropped out again. And that time I got in my car, my really cheap car, I drove to Silicon Valley. When I was in China's when I realized that I wanted to be a tech entrepreneur.
+
+So, because I was selling stuff on eBay and I'd buy stuff and import it and sell it. I was really interested in manufacturing and importing. So I spent a ton of time in China with importers and a ton of time in factories and learned that it just didn't excite me as much as I thought it would have.
+
+So when I decided I really didn't want to scale up what I was doing on eBay and become an importer it was time for me to go back. So. Yeah, I went back to college and then ended up dropping out the next semester and moving to Silicon valley and living in my car.
+
+**Ling Yah:** Just before you moved to Silicon Valley, didn't you write this viral article in 2012, successful entrepreneurs are usually liars, which is a very provocative titled article that if you don't read the content, you would think it suggests otherwise. What was the story behind that and how did it impact you?
+
+**Austen Allred:** Honestly, I'm having a hard time remembering.
+
+I'd spent a bunch of time with entrepreneurs, both in the U S and in China.
+
+And I learned that the stories they told about their businesses were, we're very sexy. They had painted a narrative that felt really good, but at the end of the day, a lot of what actually worked was just a lot of trial and error, a lot of work.
+
+And then after you're successful, you go backwards and paint the really pretty path that feels natural and like it was destined to be and even in my story, right, like the story that people tell is that, Austen always wanted to be a tech entrepreneur, but you didn't have enough money.
+
+So he moves to Silicon valley and he taught himself to code. And that's a story. And as we already see, that's part of the story, but there was a decade of trial and error before that. Before I figured out what that path was.
+
+My path of learning to code and getting a job was riddled with trial and error and failure.
+
+And starting Lambda school is still, some of the original assumptions we had didn't bear out and, , have to change this or twist that. It's really easy to kind of looking backwards, find the five points that makes sense. And , you can paint a really pretty narrative there.
+
+So I also underestimated how much, my words would be taken out of context because I didn't think anybody would ever care about a blog post I wrote when I was that age and I deleted the blog like 10 years ago, but people still like, Hey, when you were 20, you wrote this.
+
+I'm like, did I?
+
+Then I have to go back and read it and put myself back in that mindset and remember what I was saying, but yeah, I mean, it was provocatively titled. But also nobody read it. Well, people read that one, but I was surprised that people cared about what I said.
+
+**Ling Yah:** Blogging was quite a big deal, right. When you were living in your car, you also blogged about that whole experience and that allow you to connect with really important people in your life?
+
+**Austen Allred:** Yeah. When I lived in my car, just talking about doing that, I've always kind of been public about what I've been doing more for me than for anybody else. Even the way I tweet today, it's not too- well in some ways now it is like the marketing team at Lambda school is saying, Hey, you need to tweet about this. But it's always just been, this is what I'm working on. And I think it's interesting. And if you think it's interesting too, feel free to follow along, but it's for me to process my thoughts for me to in many ways, some people have figured out that you can tell what I'm thinking about by reading my tweets and my blogs better than by having a meeting with me in some ways.
+
+I was discovering what it was like in America to carve a new path. But there are people that, that really resonated with. So one particular person who is an entrepreneur in Utah, that's now started a number of successful companies is now the CEO of a multi-billion dollar company called MX.
+
+At the time it was money desktop. He reached out and said, and he had also dropped out of BYU. He'd also grown up in a Mormon family. So, our paths aligned there and said, Hey, you know, I noticed that you're living in a car. I slept in a broom closet when I was getting my company started.
+
+Like, let's go to lunch sometime. And we can talk about this experience because I see a lot of you and myself and we should chat, , just get to know each other. That wasn't the intention of writing the blog. It was something. Yeah. I mean, I'm still always surprised when people care about what I have to say, honestly.
+
+But it was a little bit of, you know, this is, and when I was living in a car, I didn't have very many friends and it was like, this is the only way for me to connect with anybody. That is not the one person that I know in Silicon valley. And a little bit of like, if you want to try this, like, this is how you can do it.
+
+That was a lot of the audience in my opinion was, if you are somebody who feels like I do and you're in college or you're wondering what your options are, you're thinking of adopting an Uber minimalist lifestyle, this is what it's like, and this is what's good about it. And this is what's bad about it. But yeah, that resonated with a few people that ended up being really impactful later on.
+
+**Ling Yah:** Yeah. I mean, he ended up wanting to and in fact, invested in your company as well.
+
+**Austen Allred:** Yeah. Yeah, he did.
+
+**Ling Yah:** Because you were living in the car, how did you end up finding a job in Silicon valley?
+
+**Austen Allred:** Actually this is another one where people draw a straight line and a path that's actually much more jagged. I've been working on a company, was living in the car and that guy that read the blog posts actually funded the company.
+
+In retrospect there are a few aspects of the idea that were really bad, but the notion was let's create a crowdsource newsroom. So there's all this social media content. I mean, there are reporters that it's their job to like read it and try to make sense to them and put out an article.
+
+But I noticed a bunch of times that the journalists who are trying to parachute into a story just didn't have the context they needed. There are people on social media who were experts at that. And sometimes it was about geography where I understand that place better than you.
+
+Anyway, so the idea was let's allow people who know a space really well to do the work of journalism without being a journalist.
+
+It actually worked really well.
+
+The problem was that you have a news publication that is crowdsourced, and it's not that much better than anything else out there. And it's really difficult to make money as a news publication anyway. And all the publications that are still around make their money by gaming social media for likes and clicks.
+
+And we didn't do that. We just wanted to create a better publication and it was better in a way that 10% of the people who had heard about it really loved, but that's not enough to make a business. So it didn't really matter a day.
+
+The other thing that we could have done is sell a Newswire or fact checking to news organizations, but it was basically us asking news publications to pay us, to tell them when they were wrong and they don't want to pay us and they don't want to be told that they're wrong.
+
+So neither of those things worked.
+
+After that failed, I got a job in Silicon valley and I didn't know how to code. I wasn't incredible coder. But people that I'd met while I was doing that introduced me to other people who hired me. And then as I actually did a lot of that from Utah and then I moved out to Silicon valley and stayed there quasi permanently.
+
+**Ling Yah:** But there was a period, right, when you were living in that small town, Utah and traveling to silicone valley and that must've been very disorientating just because of the people, the opportunities that you were seeing every single day.
+
+**Austen Allred:** It was completely different worlds.
+
+Yeah, I was living in small town, Utah, and then I'd spent a bunch of time in Silicon valley.
+
+I still wasn't integrated into Silicon valley of the way that I am now. There were a ton of people for me to meet with. I didn't have a network. I didn't have a brand yet. So there are a few random people who would meet with me and few investors, but very different world than I'm in today.
+
+I would spend time in Silicon valley, but I still felt like I was looking at Silicon valley from the outside instead of being a part of it. And so when the company ended up failing, I wanted to be a part of it. I wanted to actually go work in a Y Combinator backed Andreessen Horowitz backed company.
+
+And I optimized for that over really anything else. And I only lasted a couple of years in that company before I started Lambda school. But yeah, that's the much messier path to get to where I am today.
+
+**Ling Yah:** So how did the whole concept of Lambda come about?
+
+**Austen Allred:** There are a bunch of different things that kind of came together.
+
+So the company that I was working at was lending company. Like, I didn't understand how money worked when I joined at all. , it was really like money was the thing that I spent to live so that I could try to figure out how to do what I wanted on the side, but I didn't understand how a risk works.
+
+I didn't understand how the stock market worked. I didn't understand how lending works. So I spent a ton of time with the risk and capital markets teams. I read every investing book. I started investing in the stock market. I started analyzing companies. And so that 18 months was really about me understanding finances as deeply as I could and financing and how wall street works and how debt works and how asset management works and , all of that stuff.
+
+And we're a lending company, where does this money come from? And how are we lending it and who gives it to us and how much do they expect in return and what happens if the money doesn't get returned? So just really trying to understand finance from first principles.
+
+And then the other thing that I was interested in is kind of helping people. I felt like I'd made it. I was successful in many ways. I was getting paid really well. I was working at the company I wanted to work at. And I wasn't making a ton of money. It was like barely above six figures.
+
+But coming from small town, Utah, the average income in the town that I moved to San Francisco from is like $30,000 a year. And so people didn't adjust for cost of living. They were just like, oh, you, you're making four X, what everybody else is here.
+
+Like, how did that happen?
+
+And people would ask me, how do I do what you did? And I didn't have a good answer. You can't say, well, first you need to go live in a car and then you need to get somebody who reads your blog. And then at the same time, my little brother was an early employee at one of their first code schools.
+
+They were doing really well. There are things that I admired about that company. There are a lot of things I didn't admire about it. And I have the most respect for the founder of that company, but I felt like some of the incentives were off. Some of the things you had to do to make the business work were weird to me.
+
+Specifically there were a lot of people that went to that school and didn't end up finding a job and ended up stuck with loans. And the founder of grass wire. He had $200,000 in student loans and had taught himself to code as a way to pay off those loans because he had a law degree, but he graduated in 2008 with a law degree, which was the worst time you could possibly graduate with a lot degree.
+
+And so I was very cognizant of how difficult loans can be in an environment where it doesn't work. And I was surrounded by loans and risk management and all of that stuff all the time. So originally I started what is now Lambda school, just to, I felt like I could do a better job teaching people to code.
+
+I could do it online so I could do it at a lower cost basis. And I was also kind of burned out on VC because I had bad experience with VCs. The VC backed company, we'd only raised like $650,000. In today's world, that's not even new VC. That's like a small pre-seed round.
+
+We call it a series a I think at the time we're like, ah, we need to go raise our series B. We've had no idea what we're doing. And so originally started Lambda school just as a way for me to start my own thing. And it felt like I can do a better job teaching people to code than some schools can. I can do it online. So it can be a little bit longer. Cause I felt like the 12 week code school was just fundamentally too short. I can have a lower cost basis and I won't have to raise VC ever. And if it's just me and a friend and we can charge $10,000 a student. We're only ever going to have 50 students a year.
+
+And then we're each going to pay ourselves $250,000 and life is going to be great.
+
+We were on that path. I mean our first cohort I did all the marketing and my co-founder was doing all the teaching. We got 20 people signed up, they paid us seven to $10,000, depending on which one they did.
+
+Neither of us started taking a salary. We just stored that away just in case for later days. And it was working. There's another universe where we just decided to keep doing that. And each of us paid ourselves $250,000 a year and we trained 50 students a year. But along the way, , having spent years thinking about risk and risk management and insuring risk and all of that stuff, I would talk to students or prospective students for our new school and say, Hey, why don't you pay us $10,000?
+
+And they would say, well, I don't have $10,000. Like entire purpose of me learning to code is so that I can make enough money. And after that, sure, I'm totally fine to pay you $10,000 if I'm successful. So it started looking at loans And I still have the emails where talking to lenders and saying, hey, what would it take to offer loans?
+
+And well, how many students are you guys going to do a year? And I say 50, and they're like, we can do that. But you're like the smallest school ever. So it didn't end up going that path. But as I talked to prospective students, there were bunch that said, it's not just the loan, right?
+
+Like I can get a loan. It's if I get a loan and it doesn't work out, I'm in trouble. Is there another way that I can show you how likely I am to get hired? Can I get a scholarship and can I pay you back after I'm hired? And so a couple of people, we ended up saying, what, if you'll pay me a thousand dollars, then I will pay for the rest, Pay myself. And then after you get hired, you pay that and maybe interest or something and people like, yeah, that makes a ton of sense. And so we had, in our second cohort, we had like 15 people signed up which was an up, that's all we needed, but I was like if we add another five people, it won't make a difference to anybody's experience.
+
+And we were teaching the class anyway, should we find a way to throw five more people in? my co-founder said, let's tell. We had a little mailing list going that do you want to pay us a thousand dollars up front? We're going to try something new where we'll float the rest and then you'd pay us back after you get hired.
+
+So we had this little email list that we would email once a week and every time we did, we would get a person or two to apply. And we emailed that mailing list and there were 200 people that were like, oh, I'm in. And I was like, oh, I didn't expect that to be the response. We definitely can't do this for 200 people.
+
+But then we started talking, well, actually, what if we did it? What if we did it for 50 people? Me and you, let's do it for 50 people, four times a year, that would be $200,000 in upfront deposits. We each pay ourselves a hundred thousand dollars, which is enough. You don't have any money for marketing, but then like, that's actually pretty cool.
+
+Our incentives are totally aligned with the students where we don't make our money unless you get hired. And then that kind of expanded into well, if we have a few people that pay up front in full, then we can float the rest. And what if we made it zero? What would happen?
+
+What if we said we're going to own all of the risks? Like that probably signals confidence to students that we're serious and our incentives are aligned and like and let's see what happens. So we sent out an email and said, hey, we're going to try crazy experiment where it's nothing upfront.
+
+But you're gonna have to pay us on the back end and, , even a little bit more. And we had 2000 people, it'd be like, okay, I'm in. And that's where like, oh, that's very different, right? So originally we said, if we could, find an investor, just gives a hundred thousand dollars, we would actually be able to float the rest ourselves.
+
+We can live on ramen for a year and we can train 400 people. And then if those 400 people are paying us back, maybe 80% of them get hired. Oh my gosh, that's so much more money on the other side. That's a risk that you can't take if you're too big. You can only take that when you're a couple people with a low cost basis sitting in a basement.
+
+And so we were talking about where could we get a hundred thousand dollars? I felt like an infinitely large amount of money at the time. Yeah, we spend that in a day at Lambda school today. But we said, well, we could apply for Y Combinator. Is this even a VC backable thing though?
+
+So we ended up applying to Y Combinator and it was by the skin of our teeth we got in. Y Combinator changed everything for us.
+
+**Ling Yah:** 'That's interesting for me because you said earlier that you were burned by VC. I think there's one point where you said, you never wanted to raise VC again, so that mentality completely changed.
+
+**Austen Allred:** Yeah. And that was the conversation we had. Neither of us wanted to particularly raise venture capital. But we felt like Y Combinator was different enough that, I was working at a YC company. We knew other YC companies and they basically said, look, these guys are good people. It's different than the VC experience you've had in the past which for the majority of the time continues to be true today. I just had a really weird experience.
+
+But it was a trade off of there've been several times throughout the Lambda school experience where we had an opportunity to not try to go bigger or to not in my mind, make as much of an impact.
+
+And for us it would have been fine financially.
+
+But we decided that like, this is something the world needs enough that we should be willing to take the risk. What if it fails? We can just go back to what we were doing before so it's not a one-way street.
+
+And so when we were in Y Combinator we started growing a little more quickly. But we were still cashflow positive through most of Y Combinator including paying ourselves a small salary, not maybe enough to live on, we both had a little bit of savings from some other stuff. I had put all my money in Tesla stock and it blew up and I had written a book and sold that. And my co-founder taught himself to code and was living in a different part of small-town Utah in like his in-law's basement. And so his expenses were zero.
+
+So we both you know, didn't feel like we needed very much to live on. And Lambda school is profitable. We got to this point where we were decid ing, almost at demo day, which for Y Combinator is when you have incredible opportunity to pitch, to hundreds of investors, probably the best fundraising chance you'll ever have.
+
+And we were talking with our white Combinator partners about do we even want to participate in demo day? And we were still not quite anti VC, but like nervous about it at a minimum.
+
+We built like a forward-looking financial model that basically said, what do we expect the dilution will be from raising money? Call it 15, 20%, something like that. So, okay. Let's say we're going to sell 20% of the company. What happens in each of these paths, if we don't raise money and if we do raise money?
+
+And pretty quickly we realized that if we were willing to raise a little bit of money, that Lambda school could have literally thousands of times the impact that it would have had if we didn't raise VC.
+
+So I feel my first company, the goal was raise VC because that would be awesome. But in this company it was very much like let's figure out what type of financing is right for the business. And let's make a decision very intentionally. And I think that's something that all founders should do even now.
+
+I talk with founders that are bootstrapping and my advice is keep doing that. Don't raise VC. It depends on what the first principles of the company are, what the unit economics are, what the cash needs are. And so, I had no desire to raise VC for the sake of raising VC and we wanted to have a profitable company that was a fantastic business and a little VC kind of made that easier along the way, which by the way, is the easiest way to raise VC.
+
+if you're talking to investors and you're saying, yeah, , we could raise from you, but we don't need to, it would just let us get bigger, faster and have more impact. , you'll never raise an easier VC round than one. That's the truth of it.
+
+**Ling Yah:** Do you feel then that, that was the perfect time for you to raise retrospectively?
+
+**Austen Allred: Yeah. I mean, if that's the story, when you're talking to VCs:** we don't need you, but we can be way more impactful if we work with you. It's the best story you can possibly tell. The hard part about raising in the early days for us was actually like, isn't this just a marginally better code bootcamp?
+
+Isn't this the same thing that a hundred other companies have done? How does this get big? And we had to point out that actually aligning incentives of the school with the student is meaningfully different. It takes a completely different approach. And if it works, it starts to take over everything in a way that a bootstraps pay us $10,000 and we'll train you to code company cannot.
+
+And I think that actually remains true to this day that it's a fundamentally different model that is much harder to make work than we realized at the time. But when it works, you can't compete with it as a school if you're not willing to take on the risk.
+
+And I can philosophize about this for hours, but in many ways, what happened to education in the United States is in the 1980s with title 4, the government basically said, we will give all sorts of money and free loans and everything to the university system.
+
+So we're all in on the four year, everybody go to college university system tons of free money, infinite debt And that made everybody start to go to college. That made the prices go way up. I made it feel like there was only one system in the United States. Whereas in a lot of countries, there is a university system, which is for people who want to do research or philosophy or more liberal arts stuff.
+
+And then there is a vocational school system where if you're going to be an engineer. You go to an IIT or you go to a technical school and you train there's university and college, and there are two different things. And you asked it's all just one.
+
+We want to bring that system to the U S. We want to bring a highly effective vocational system to the US because when I go back to central Utah and talk to people there, four years of school and a hundred thousand dollars in debt doesn't make sense for people making 30,000 a year, it's just fundamentally not a right move. You can risk it all and hope that on the other end, you make enough to pay off the loans. But if it doesn't work out, you're financially ruined forever. So it just doesn't make any sense to me.
+
+And then you have a code school that might only be $15,000, but you still have to move somewhere. You still have to spend three months. And the percentage likelihood that it works out is pretty high, but it's not a hundred percent. So what happens if it doesn't work out and it a rational person, you're not willing to, if you could, if there's a 90% chance that you double your income and a 10% chance that you're financially ruined for life, it still might not be a rational bet.
+
+So we had to fix the incentive structure of vocational schools. And now we're actually just starting to make that work sustainably. And then it's a matter of, let's do this for everything and everybody everywhere. That's been the journey of Lambda school.
+
+We're trying to create a new system of education, not just a school, a new system of education that doesn't exist in the U S and really anywhere else either once you lay around the risk management piece.
+
+In retrospect if we want it to do that and if we want it to run a slightly better code school, we didn't need to, I'd probably be making more money in that path than I am now in the short term, but the impact and the future would be much less exciting.
+
+**Ling Yah:** So was it you coming to present this new way of learning something that excited Y Combinator? Because you had been teaching your own coding school for a couple of months, and then you had an insight into how people wanted it to be completely derisked.
+
+And then you went to Y Combinator. So what was that unique advantage that both of you were bringing where they decided to invest in you?
+
+**Austen Allred:** So when we interviewed at Y Combinator, normally you have one 10 minute interview and then right after the interview, like an hour after the interview, they call you and it's yes or no.
+
+So we had our first 10 minute interview and Y Combinator is in mountain view and then we were done and we said, okay, let's, we did it, let's go get pizza at Palo Alto twenty-five minutes away. So we went out, we ordered pizza. We were waiting for the pizza and we'd figured we were done.
+
+And then we got a call from somebody at Y Combinator and said, Hey, can you be back here in 20 minutes? We need to interview you again. You're on the margin. So we paid for the pizza, didn't eat it, just ran back to Y Combinator had another interview and they said, okay, this time, don't leave, go sit on those couches. We have a couple other companies we need to interview, but we'll just tell you in person, whether you're in or not.
+
+And so, you know, we waited on the couch. It was 20 minutes, then it was an hour and it was an hour and a half. And we're like, know, do we need to talk to somebody? Is this like a test to see if we're too submissive and we'll just sit on the couch and wait for things or again, and then they came out again and said, all right, we're still on the bubble.
+
+We need one more interview with you guys. So same thing, went in interviewed. They're basically trying to figure out, is this different than the other hundred code schools that exist? Yeah and there is a part of it that we were entirely online versus in brick and mortar locations.
+
+So you can acquire more and different students. You can do things a little bit differently. But really at the end of the day, it came down to actually a school that holds the risk itself is meaningfully different than a school that doesn't. And if you're a school that doesn't, it's really difficult to start to say for 10% of the students were willing to hold the risk because the other 90% will say, well, wait, Why just those students? Why not everybody?
+
+Basically said, look, this is going to be really difficult to make work. But if it works, it takes over everything. So we had that fourth interview now they said, all right, go out on the couches. We're going to talk amongst ourselves and then we'll come tell you whether it's a yes or a no.
+
+And then it came out 20 minutes later said, we need to talk with you one more time. We're still not sure. So we had five Y Combinator interviews. And that time they brought in all of the ed tech people, all of the people that knew code schools really, really well. There's a panel of, I think, seven or eight Y Combinator partners.
+
+This is not the normal, like Y Combinator interview experience. It's normal 10 minutes and yes or no. And we talked for 20 minutes. And they were probing every weakness of Lambda school in every way. And they said, all right, you're good to go, we'll call you tonight. So we went to a hotel down the street and we got food and we were like, well, at this point we've done everything we can and certain certainly like if we were in, they would have just told us. So we're probably out. Let's go figure out how to do this on our own. So we spent the rest of the night figuring out how to scale up, bootstrapping. I mean when you're two people running a company like that, there's barely enough time to like, think ahead.
+
+You're just managing all the day-to-day stuff. You're getting bank accounts set up, you're getting registered in the right states. You're getting payroll for the two of you set up. And we'd started a part-time class, which was a bad idea because now we were literally teaching for 12 hours a day and then trying to do all the other stuff outside of those 12 hours a day.
+
+So my co-founder had flown in from Utah, so he was staying in a hotel room. And I was like, it's already 10 30. We've got to head home, I've got to head home. Like, I guess they're just not going to call us. I don't know. And right then they called us and told us we were in.
+
+So we got in to Y Combinator barely and by the skin of our teeth and with some level of skepticism about whether it makes sense. But. have the utmost respect for Y Combinator. And it was a game changer for Lambda school in ways that many people don't appreciate.
+
+It changed the way that I thought about Lambda school. It changed the way that we were executing. And not just, should you raise money or no, but actually what does Lambda school look like? How does it operate? Very fundamental things that we discovered there that I don't think we would have discovered on our own.
+
+**Ling Yah:** You had access to Geoff Rolston, Daniel Gross. What was your big takeaway from your time with Y Combinator?
+
+**Austen Allred:** So Geoff Rolston is now I think the president of Y Combinator and Daniel's now started another company. But they're our partners. They're the two that we spent a ton of time with. There are few times that were really important.
+
+The first thing that those two did is help us not get distracted. There are all sorts of things happening. it seems a little silly now, but that was in the middle of the ICO craze. And people were saying you should create a Lambda school token and you should have an offering and you should, instead of investing in students with traditional paper, you should tokenize everything.
+
+And I was really interested in that. I love crypto but the infrastructure wasn't there and if we would have done that, it would have been a distraction that killed us.
+
+That was more with, Daniel who was also very into crypto and following the space but had seen like those waves come and go and that that's always something you can do later.
+
+I was really excited about it, but that was adding risk to the company where we had more than enough risk already, and we should be focusing on taking the risk away. And then probably the most impactful single investor meeting that we've ever had at Lambda school. Actually there are a couple that are in contention with it, but this is true for a very long time.
+
+As me and my co-founder been talking with Geoff Ralston. And we were like, yeah, we're going to do cohorts back to back. So we have our first cohort of 40 people. A few people paid up front, so it's profitable.
+
+We extended the length to six months so that we could get , all the education that we wanted in. And we're like, so, six months from now, we'll start to get results and we'll start to know what the cashflow of Lambda school will look like, and we'll start to see outcomes.
+
+And he was like, well, that's really slow, right? You're only going to train 80 people a year. Let's extrapolate that out. How many people can you train in 10 years? And it's like 800. Okay. Would you be happy having trained 800 people within 10 years? Let's say they all get a job and they're all paying you $10,000. Now you can make that amount of money over 10 years. What if you started another cohort next month? And I had not even considered the fact that we could have multiple cohorts running simultaneously. And he's like, that's important for two reasons.
+
+One, you could just make the cohorts enormous. And we were at Y Combinator, which does cohorts twice a year. So I was like, yeah, we're actually following a really good model. And you can just scale the cohort size when you need to.
+
+But one of the most difficult things about Y Combinator in the early days is if you are only graduating cohorts every six months, you're going through one iteration of the curriculum and you might tweak it, but you're going to have eight iterations between now and 10 years from now. if you start a new cohort every month, you will have 12 times, I guess, 10 times the iteration cycles.
+
+So we said, okay, well, what would it take to start a new cohort next month? And so we ran all the numbers and said, well, we'd have to hire two new people. And that makes it so that we either have to get more people paying upfront or we have to raise money.
+
+It's so funny looking back, we're like, Jeff, if we can't raise $25,000 at demo day, then we won't be able to teach out with these students, right. We would go bankrupt. So I'm not willing to like, take that risk. And Jeff was like Austen, if you need $25,000 to make this business work, and that's the Delta, you basically said you have free $250,000 for me, if you can't raise it demo day.
+
+I think he might've said something like, and it's non-diluted. I'll just give you $250,000 at demo day. A little bit of that is charity from Geoff Ralston. A lot of that is him knowing that there was 0% chance that we couldn't raise at demo day.
+
+But in a funny way, like him saying that was very much like me telling Lambda school students, you will only pay for this if you're like, he eliminated the risk for us in the same way we eliminated the risk for Lambda school students. So having that in the background, I now can t ake risks that make sense for everybody.
+
+I wouldn't have been able to do without that. And I would wonder if Jeff even remembers that meeting or, and I'm sure the I'll give you $250,000 was said somewhat sarcastically, but for me that was meaningful. Raising $500,000 for the first company was tremendously difficult and took six months.
+
+And we ended up raising $4 million in two weeks after demo day. So it wasn't necessary and was nowhere close to necessary. And now we've raised $120 million. But at the time that was really impactful.
+
+**Ling Yah:** You mentioned the derisk part, that the whole thing lies on this thing called the ISA, which is I think, quite unique to the States.
+
+And I actually read that there were critics like Senator Elizabeth Warren, who said that the ISA actually carries pitfalls of traditional private student loans. With the added danger like its deceptive rhetoric and marketing. I wonder what your thoughts are about that.
+
+**Austen Allred:** Yeah, it doesn't make any sense to me, honestly.
+
+The argument that Elizabeth Warren has against ISA is that people will not understand the terms and that they will end up being burned. I don't know, first of all, I feel the terms are pretty straight forward. Like you pay us a percentage of your income. If you're making more than 50,000 annualized, like it's not that difficult to understand.
+
+If that is abusive, a student loan is incredibly abusive. All of the arguments against ISA that the Warren camp put out are well, what if it doesn't work? Then students will have to report their income before before the ISA is forgiven.
+
+Whereas with a normal student loan, it's just never forgiven. So is it better to tell somebody like, you owe this no matter what, or is it better to tell them you owe this if you're successful and if not, you have to report your income so we can verify that you weren't successful and then it's forgiven.
+
+In my mind, that's way more forgiving than the other. I think over time, loans and ISA will converge.
+
+So an ISA is a few things. It's an advance of money so that you don't have to pay money out of pocket. It is insurance that if the school you're attending doesn't provide the outcome you're looking for, you don't have to pay.
+
+And then on top of that, it's a little bit progressive where if you make more money, you pay more. If you make less, you pay less. I don't know if that third piece will be able to- that's the one that people have the hardest time with.
+
+People are fine with interests. They're fine with guarantees. Different people don't like the fact that if you make more, you pay more. I think it actually makes a ton of sense and it feels a little weird to me that it's the people, the progressive folks who advocate a tax policy that does exactly that, that are fighting that.
+
+But I think at a minimum at the end of the day, what will withstand the test of time is some advance of money where if it doesn't work out, you don't owe anything. And that's the most critical piece of an ISA. And you can structure that out of loans. You can structure that out of new financial agreements in some states where the regulations are different. We've structured that out of a retail installment contract.
+
+So the bones are going to be the same. It will evolve over time. But the most important aspect of an ISA is the guarantee. And my lawyers don't like it if I use the word guarantee, but it's the alignment of incentives.
+
+If it doesn't work for you, you don't have to pay. And that is a complete game changer in education. And there are ways to bring that to other countries that aren't even based on an ISA. But guaranteeing outcomes changes everything.
+
+**Ling Yah:** How COVID has impacted the way that you have running Lambda? You said earlier in this article with protocol that you were nervous about how the perception of online education would be harmed because people won't be doing it right.
+
+As a result of studying from home.
+
+**Austen Allred:** Yeah. So building an online school versus building a physical school are super different. Online schools have to have a lot of stuff built into them. So my nervousness was around the idea that if your kid is used to going to physical school and they're going to move that online at the last minute, it will probably be a bad experience.
+
+That definitely played out. A lot of people had really bad experiences with online schools. The impact to the notion that online school doesn't work was actually the opposite of what I anticipated because some schools, , thought about it from first principles and did it really well.
+
+And some people realized, oh, I can learn even faster in an online school environment than in a physical environment. So I'm excited that that didn't seem to pan out the way I was nervous about.
+
+**Ling Yah:** Well, thank you so much Austen, for your time. I normally end with these questions. So the first one is this.
+
+Do you feel like you have found why?
+
+**Austen Allred:** I think so. Yeah. I mean, helping people increase their incomes is something that I could work on until I die and be perfectly happy.
+
+**Ling Yah:** And what kind of legacy do you want to leave behind?
+
+**Austen Allred:** I think the most important thing for me is a legacy where people feel like they can actually fulfill their potential. I feel like the average person and far too many people are living far below their privilege, far below their potential. And that's sad. So I'm going to fix that.
+
+**Ling Yah:** What do you think are the most important qualities of a successful person?
+
+**Austen Allred:** Oh, this one I actually think about and study all the time, because we're trying to predict that within Lambda school This one is harder to show in the data, but I actually think the single most important trait is whether or not a person believes they will be successful and everything kind of hinges upon that.
+
+Which is interesting for a bunch of reasons, but yeah, whether or not you believe you'll be successful.
+
+**Ling Yah:** Where can people go to find out more about you and Lambda School?
+
+**Austen Allred:** Lambda school. Lambda school.com. Me I'm AustenAllred.com or at Austen, A U S T E N on Twitter.
+
+**Ling Yah:** And that was the end of episode 61. The show notes and transcript can be found at www.sothisismywhy.com/61.
+
+And if you want to get even more clued into the community, sign up for their weekly newsletter for this podcast too.
+
+And stay tuned for next Sunday, because we will be meeting our first Michelin star chef who is known to serve the world's cheapest hawker stall meals.
+
+He talks about his childhood growing up in Ipoh, to working in KL and Singapore. And how winning the Michelin star multiple times has transformed his life and business.
+
+Want to learn more?
+
+See you next Sunday.

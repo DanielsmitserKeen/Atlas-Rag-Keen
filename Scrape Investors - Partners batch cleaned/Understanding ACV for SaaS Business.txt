@@ -1,0 +1,277 @@
+# Understanding ACV for SaaS Business
+
+Running a SaaS business has many perks. 
+
+One of them is the ability to keep tabs on your product and follow your customers on their user journey, which allows you to stay agile and make small improvements that can have a major impact on your company’s results. 
+
+You can do that by collecting data and analyzing different metrics that point to actionable insights. However, there is a veritable sea of metrics out there. Some of them are incredibly useful, while others don’t really tell you anything helpful. 
+
+In these circumstances, knowing what to track has become a bit of a science in itself.
+
+This article covers a metric that is uniquely useful for the SaaS business model—ACV, or annual contract value. 
+
+Read on to find out what ACV is, how you can calculate and use it in your analytics efforts, as well as how to improve it to generate more revenue from your SaaS product.
+
+## **Table of Contents**
+
+*   [What Is ACV?](https://trevor.io/blog/acv-saas#what)
+*   [Calculating ACV](https://trevor.io/blog/acv-saas#calculating)
+*   [How to Use ACV](https://trevor.io/blog/acv-saas#how-to)
+*   [ACV in Relation to Other Metrics](https://trevor.io/blog/acv-saas#relationship)
+*   [Tips on Improving Your ACV](https://trevor.io/blog/acv-saas#tips)
+
+## What Is ACV?
+
+The SaaS business model’s innovative approach to customers lies in offering them recurring subscriptions instead of one-time purchases.
+
+The SaaS model breaks down the cost of the software product into monthly or yearly increments instead of requiring a large payment upfront. This makes paying for software more digestible.
+
+Therefore, to correctly calculate yearly revenue, SaaS business owners needed a metric that would allow them to express the value they obtain from individual customers within a year. 
+
+**Annual contract value (ACV)** was created for precisely that purpose.
+
+_ACV is a metric that measures the total revenue one customer brings to your company in one year._
+
+This metric can be applied to all paying customers, whether they subscribe to **monthly plans, multi-year contracts, or differently priced plans**. 
+
+Depending on your preference, ACV can also include additional fees, such as **sign-up and training costs**. In that case, the annual contract value for the first year would be higher than in the following years, increased for the amount of those initial fees.
+
+Consequently, ACV is a metric typical for subscription-based businesses only. As a SaaS company owner, you will likely find it a useful addition to your data analysis.
+
+**Want powerful analytics software for your SaaS business?** [Trevor.io](https://trevor.io/) makes it easy for anyone to track analytical metrics in your company. [**Try it for FREE for 14 days**](https://app.trevor.io/login/sign-up/)
+
+## Calculating ACV
+
+Calculating ACV is pretty straightforward. All you need to do is take the total value of a customer’s contract and divide it by the number of years that make up the contract period.
+
+![](https://cdn.prod.website-files.com/630f7eedf78ec082332cf4e6/630f8151ea3a1677291a6a28_image-17-1024x597.png)
+
+Source: [Trevor.io](https://trevor.io/)
+
+As you can see, the calculation is simple. Let’s look at an example to see what kind of results it can yield.
+
+Let’s say you signed a 2-year contract with a customer and that the contract is worth $10,000. In that case, the annual contract value would amount to $5,000.
+
+Even if your clients prefer to subscribe for a period shorter than one year, you can still use ACV to determine how much revenue a customer would bring to your company in a year.
+
+For example, if someone uses your software over a six-month period, and the value they generate for your company in that period amounts to $5,000 dollars, the ACV for that customer is still $5,000.
+
+Once you’ve determined the base ACV, you can modify it by adding one-time fees or the value of upselling and cross-selling as the customer’s needs expand.
+
+If you’re wondering what a typical ACV for SaaS companies might be, the answer is that there really isn’t one. Annual contract values vary a lot across industries, according to the type of software offered and the targeted audience.
+
+Let’s look at the available data to support this.
+
+![](https://cdn.prod.website-files.com/630f7eedf78ec082332cf4e6/630f8151ea3a16b5cb1a6a29_image-18.png)
+
+Source: [Pacific Crest Securities](https://www.key.com/kco/images/2016_Pacific_Crest_Securities_Private_SaaS_Company_Survey.pdf)
+
+A SaaS company’s normal ACV can be less than $1,000 or more than $1 million, as this survey from [Pacific Crest Securities](https://www.key.com/kco/images/2016_Pacific_Crest_Securities_Private_SaaS_Company_Survey.pdf) shows.
+
+Obviously, companies use different ACV strategies to achieve their goals. The following section will show you how ACV can be used as a part of a broader strategy to generate your desired revenue.
+
+**Related posts:** [How to Increase Sales in Your SaaS Business](https://trevor.io/blog/increase-saas-sales/)
+
+## How to Use ACV
+
+ACV is an essential metric for SaaS companies because it can inform your financial strategy and show you how you can reach your next revenue target.
+
+However, ACV is only valuable when interpreted in context. It may seem logical to simply aim for higher ACV to generate larger revenue, but that’s not always the case. 
+
+For example, Netflix’s ACV is relatively low, as they pull in around $155 annually per customer. Nevertheless, they managed to generate [$25 billion in revenue in 2021](https://www.statista.com/statistics/272561/netflix-net-income/#:~:text=Video%20streaming%20giant%20Netflix%20had,reached%2025%20billion%20U.S.%20dollars.). That’s because their service targets an enormous audience worldwide with a low-cost product.
+
+SaaS companies like Netflix and Spotify are examples of B2C companies that, logically, offer their service at a low price to attract many customers and achieve their goals. 
+
+On the other hand, B2B companies have a much smaller number of clients and usually need to charge much more for their products.
+
+![](https://cdn.prod.website-files.com/630f7eedf78ec082332cf4e6/630f8151ea3a16de9d1a6a27_image-19.png)
+
+Source: [RJ Metrics](https://blog.rjmetrics.com/2015/08/05/whats-a-typical-saas-acv/)
+
+The graph above shows you just how big the difference between B2B and B2C companies is in terms of the average ACV.
+
+We can conclude that ACV impacts revenue significantly, but it doesn’t tell the complete story.
+
+![](https://cdn.prod.website-files.com/630f7eedf78ec082332cf4e6/630f8151ea3a160fb81a6a2a_image-20.png)
+
+Source: [Christoph Janz](https://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html)
+
+As Christoph Janz, entrepreneur and angel investor, illustrates in the graph above, you can arrive at $100 million in revenue with one thousand large contracts worth $100,000 or more. Or, you could arrive at the same target by appealing to 10 million small customers who bring in just $10
+
+It follows that ACV is valuable when you’re trying to establish how many customers you need to sign on to reach your revenue goal. 
+
+All you need to do is take your target revenue and divide it by your current ACV. Compare that number to the current number of your customers, and you should get a clear idea of how many users you’ll need to sign on to reach your target.
+
+Consequently, different experts in your company can use it to develop their strategies to reach company goals, such as your sales and marketing staff, as well as CEOs, CFOs, CSOs, and other C-suite executives.
+
+**Related post:** [Sources of Funding for SaaS Startups Explained](https://trevor.io/blog/funding-for-saas/)
+
+## ACV in Relation to Other Metrics
+
+As we’ve already established, little can be gained from analyzing the ACV metric in isolation. However, comparing it to other metrics can produce valuable conclusions and point to concrete actions toward maximizing revenue.
+
+ACV is commonly analyzed alongside metrics tied to expenses, such as **CAC (customer acquisition cost)**. 
+
+And this makes sense because the value of your customer should outweigh the costs incurred in the process of acquiring her.
+
+However, sometimes the cost of acquisition may exceed the annual contract value but that doesn’t mean the customer won’t bring you revenue. The customer’s value might only begin to exceed the cost of acquisition in the second or third year.
+
+For example, say you acquired a new customer at the cost of $200. If your ACV for that customer is only $100, it would seem like the costs outweigh the value in this case. 
+
+However, if the client was signed on for three years, you’d ultimately bring in $300 in revenue. That means you’ve earned $100 from that customer.
+
+Therefore, to ensure you’re not operating at a loss, it makes more sense to compare CAC to LCV (lifetime customer value).
+
+Furthermore, ACV is often interpreted in relation to **ARR (Annual Recurring Revenue)**. The two metrics are sometimes confused for one another, so let’s explain the difference.
+
+While the annual contract value metric can tell you the **average** value for individual contracts, annual recurring revenue is the **total** value of all contracts within one year.
+
+In other words, ACV focuses on a **single** contract over the years, while ARR measures **multiple** contracts in one year.
+
+Here’s a sample calculation of both metrics to illustrate the difference between ACV and ARR.
+
+![](https://cdn.prod.website-files.com/630f7eedf78ec082332cf4e6/630f8151ea3a16e7371a6a2b_image-21-757x1024.png)
+
+Source: [Trevor.io](https://trevor.io/)
+
+As you can see, ARR tells you the total revenue you can expect within one year. Therefore, it’s useful when you want to track the growth of **your company’s revenue year after year**.
+
+On the other hand, ACV informs you of the average value of individual contracts. 
+
+When examined alongside other metrics like CAC or churn rate, it can tell you **how your company is performing** right now so you can quickly conclude how many new users you need to sign up and at what cost to achieve your target revenue.
+
+However, keep in mind that bragging about your high ACV is more or less meaningless as ACV says nothing about your results or performance when looked at in isolation. 
+
+To really understand how your company is doing, you need to analyze ACV in relation to other metrics, such as CAC, ARR, and churn.
+
+**Want powerful analytics software for your SaaS business?** [Trevor.io](https://trevor.io/) makes it easy for anyone to track analytical metrics in your company. [**Try it for FREE for 14 days**](https://app.trevor.io/login/sign-up/)
+
+## Tips on Improving Your ACV
+
+To reiterate our previous point, a high ACV shouldn’t be a goal in itself. Nevertheless, small improvements in ACV can result in big changes to your total revenue—especially if your software has a large number of subscribers. 
+
+So let’s go over some tactics to improve ACV and [increase your revenue](https://trevor.io/blog/recurring-revenue/).
+
+### Focusing on Qualified Leads
+
+This strategy involves focusing on the leads who are more likely to skip the basic package and subscribe to more advanced tiers right away.
+
+To go after the bigger fish, you will first need to do proper lead segmentation.
+
+![](https://cdn.prod.website-files.com/630f7eedf78ec082332cf4e6/630f8151ea3a1601271a6a2c_image-22-1024x396.png)
+
+Source: [Trevor.io](https://trevor.io/)
+
+As the image above illustrates, lead segmentation is the process of dividing your leads into categories instead of putting them all “in one basket.”
+
+You can segment your leads into categories according to demographic, geographic, and psychographic criteria.
+
+Once you’ve determined which segments are most likely to subscribe to more expensive packages of your software, you can concentrate your efforts on converting the leads from those categories into paying customers.
+
+Take [Zendesk](https://www.zendesk.com/) for example. They offer customer service software to companies of all sizes. 
+
+Zendesk started out by targeting SMBs to provide a cost-efficient solution to as many clients as possible but soon shifted efforts to large corporations.
+
+![](https://cdn.prod.website-files.com/630f7eedf78ec082332cf4e6/630f8152ea3a1627841a6a2f_image-23-1019x1024.png)
+
+Source: [Zendesk](https://www.zendesk.com/pricing/#enterprise) 
+
+As Zendesk’s pricing page clearly indicates, not all leads are created equal.
+
+Increasing your ACV in this way can come at a high price, so keep an eye on CAC and make sure that it doesn’t exceed the value you’re getting from high-profile clients. 
+
+Additionally, this strategy will require close cooperation between several teams in your company, mainly marketing and sales, so make sure they have unobstructed access to your data and metrics.
+
+A business intelligence platform like [Trevor.io](https://trevor.io/), which gives your team access to your company's real-time data, can help your team calculate ACV and lots of other metrics.
+
+### Upselling
+
+If you’re operating a SaaS startup, it may take you a while to generate enough user data to be able to qualify leads and focus on the most valuable segment of your target market.
+
+In the meantime, you can offer more advanced plans to your existing customers. In other words, you can improve your ACV with an upselling strategy.
+
+To take proper advantage of upselling, you’ll need to develop several product packages and offer them to customers at different prices.
+
+![](https://cdn.prod.website-files.com/630f7eedf78ec082332cf4e6/630f8151ea3a16074f1a6a2d_image-24.png)
+
+Source: [Chargebee](https://www.chargebee.com/blog/upselling-saas/)
+
+In the example above, customers can choose one of four differently priced packages according to their needs.
+
+As customers use your product, their proficiency with your software will develop, and their needs will expand. As that happens, users may become interested in upgrading to a program that offers more advanced functions.
+
+This is where your marketing, [sales](https://trevor.io/blog/how-to-increase-sales-in-your-saas-business/), and customer success teams come in. They’re the ones who need to showcase the added value of upgrading to a more expensive version of the product.
+
+They can do that by continually training customers to use your software successfully and regularly reaching out to suggest upgrades.
+
+![](https://cdn.prod.website-files.com/630f7eedf78ec082332cf4e6/630f8152ea3a16a4421a6a2e_image-25.png)
+
+Source: [Single Grain](https://www.singlegrain.com/saas/acv-saas/)
+
+The example above comes from [Grammarly’s](http://grammarly.com/) promotional email, which communicates the potential benefits of upgrading to a premium plan.
+
+Every time you upsell your product, you’re raising your ACV. If you use every opportunity for upselling, these individual bumps in contract value can add up to tremendous increases in your revenue.
+
+### Raising Prices
+
+This plan of action is almost self-explanatory. If you raise the price of individual subscriptions, the change will compound, likely resulting in higher overall revenue.
+
+But, raising your prices may cause discontent among your customers, and lead to increased churn rates. With a higher ACV but a lower number of customers, your revenue could actually drop, instead of growing.
+
+Therefore, you should be extremely careful with this tactic and only apply it at appropriate times. For example, after you’ve expanded your product with new features.
+
+Also, it’s a good idea only to raise prices for new customers while keeping the costs intact for existing ones. This is called grandfathering, and it’s guaranteed to cause minimal friction.
+
+The eCommerce revenue engine, [Drip](https://www.drip.com/), had to learn this the hard way, as their former CEO, Rob Wailing, pointed out on Twitter.
+
+![](https://cdn.prod.website-files.com/630f7eedf78ec082332cf4e6/630f8152ea3a1668611a6a30_image-26.png)
+
+Source: [Rob Walling on Twitter](https://twitter.com/robwalling/status/1081396605167689728)
+
+If you do find yourself in a situation where you need to raise prices for all users, do everything you can to soften the blow. 
+
+That means notifying the customers ahead of the increase and giving them a chance to cancel your service if they really want to. As you inform your customers of the impending changes, do your best to emphasize the value of your product. 
+
+With a carefully crafted message, you should be able to appease a large part of your customer base and [prevent them from churning](https://trevor.io/blog/churn-management/).
+
+![](https://cdn.prod.website-files.com/630f7eedf78ec082332cf4e6/630f8152ea3a1669601a6a32_image-27-1024x897.png)
+
+Source: [Trevor.io](https://trevor.io/)
+
+Revolut does a good job cushioning the blow of their price increases by letting customers know about them on time and reminding them why they’ve subscribed to the service in the first place.
+
+### Keep an Eye on the Churn Rates
+
+As already established, your decision to improve your ACV may cause some friction with customers.
+
+Being too pushy in your upselling efforts or raising prices can frustrate a part of your customer base, potentially leading them to decide that your service isn’t worth the effort.
+
+In other words, attempts to raise your ACV can sometimes result in higher churn rates, defeating the entire purpose. After all, improved ACV might not have a positive effect on revenue if it’s followed by a drop in user numbers.
+
+That’s why you should keep an eye on churn rates and halt any attempt to raise ACV that increases churn.
+
+Here’s the most basic way to calculate churn. All you have to do is divide the number of churned customers by the total number of customers.
+
+![](https://cdn.prod.website-files.com/630f7eedf78ec082332cf4e6/630f8152ea3a162fb11a6a31_image-28-1024x597.png)
+
+Source: [Trevor.io](https://trevor.io/)
+
+Churn is a huge problem for most SaaS companies, and especially for ones with a low ACV.
+
+That’s because larger SaaS companies with millions of users can lose massive amounts of customers, even with a churn rate as low as 10%, as the illustration above shows.
+
+To sum up, raising your ACV can result in a significant increase in revenue, but not if it causes customer churn. Therefore, as you’re implementing your ACV improvement strategies, keep a close eye on churn rates.
+
+If you notice a spike, cease your efforts and reevaluate. Otherwise, you might be doing more harm than good.
+
+## Conclusion
+
+The too-often neglected metric ACV is the star of this article. It’s a metric that can help you strategize and plan your way to your next revenue goal.
+
+Beware, though, as this little metric packs a powerful punch. Manipulating it carelessly may cause upset among your clients and cause them to drop your product faster than you can say “churn rate.”
+
+ACV is at its most beneficial when paired with other metrics and KPIs. You can use it to gauge the performance of your software, and even the most minor changes to it can compound and result in giant leaps in your revenue.
+
+In conclusion, keeping an eye on ACV is a part of a healthy company growth strategy. Your goal should always be to enrich your customers’ lives with your excellent software at a fair price while leaving enough room for yourself to grow into a SaaS powerhouse.
+
+**Want powerful analytics software for your SaaS business?** [Trevor.io](https://trevor.io/) makes it easy for anyone to track analytical metrics in your company. [**Try it for FREE for 14 days**](https://app.trevor.io/login/sign-up/)

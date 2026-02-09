@@ -1,0 +1,267 @@
+# Talking venture, B2B and thesis-driven investment with Work-Bench's Jon Lehr
+
+Earlier this week, [the Equity crew](https://podcasts.apple.com/us/podcast/equity/id1215439780) caught up with [Work-Bench](https://www.work-bench.com/) investor [Jon Lehr](https://twitter.com/fendien?lang=en) to get his take on the current market, and how his firm goes about making investment decisions.
+
+The conversation was a treat, so we cut a piece of it off for everyone to listen to. The full audio and a loose transcript are also available after the jump.
+
+What did [Danny](https://twitter.com/DannyCrichton) and [Alex](http://twitter.com/alex) learn while talking to Lehr? A few things, including what Seed II-level investments need these days to be attractive (Hint: It’s not a raw ARR threshold), and what’s going on in SaaS today (deals slowing, but not for select founders; relationships are key to doing deals today), and why being a VC is actually work.
+
+But what stood out the most was how Lehr thinks about finding investment opportunities. While some VCs like to cultivate images of being gut-investors, cutting checks based on first meetings and the like, Lehr told TechCrunch about how he researches the market to find pain-points, and then the startups that might solve those issues.
+
+You can listen to that bit of the chat in the clip below:
+
+Extra Crunch subscribers, the rest of the goodies are below. (A big thanks to Danny for cleaning up the written transcript.)
+
+## The audio
+
+## A loose transcript
+
+**Danny Crichton**: Let’s get started with Jonathan Lehr of Work-Bench. So, I’m Danny Crichton, managing editor here at TechCrunch. Partnered with me is Alex Wilhelm out of Providence, Rhode Island. Alex, welcome.
+
+**Alex Wilhelm**: Hey, I love doing these. I’m glad we’re here, it’s Monday. I’m caffeinated and we have Jon, so it’s going to be good one.
+
+**Danny**: It’s going to be great. So, Jon has been a long-time leader in the enterprise investing space here in New York City. He was the co-founder of Work-Bench, which correct me if I’m wrong, it started as just a co-working space, and then it evolved into a multi-stage fund over the years. Is that about right?
+
+**Jon Lehr**: Generally, in our earliest days we were stealthy with a $10 million proof of concept fund, and then we became more public with it. And now we’re primarily a fund, but we still do have a community workspace that we run.
+
+**Danny**: Fantastic, and then Jon also runs one of the largest tech meetups here in New York City, the New York Enterprise Tech Meetup where I was fortunate to… I guess, I hosted a panel on FP&A systems, so Financial Planning and Analysis SaaS systems, which Alex is giving me a look, but this is the future of enterprise tech. This is what we’re going to talk about, and if you’re not interested in FP&A and all kinds of other sub-verticals of the enterprise SaaS world, you’re probably in the wrong conference call, and you better find Elmo on HBO for this afternoon. Alex, go for it.
+
+**Alex**: I like enterprise SaaS, but even I find FP&A a little bit dull, if I’m being totally honest.
+
+**Jon**: Danny found a way to make it fun.
+
+**Alex**: Okay.
+
+## What’s happening in SaaS today?
+
+**Danny**: We’re going to talk a little bit on the call today around the investment climate, particularly in the SaaS enterprise space. What does seed look like given the market today? And of course, taking questions from the audience. You can ask questions on Zoom using the Q&A feature here, and if you’re also on Twitter, feel free to tweet at me or Alex or Jon, and we’ll include it in the conversation.
+
+But let’s just start. Set the scene for us Jon on where things stand for you. What are you seeing in the marketplace today? How are you approaching the situation with your portfolio?
+
+**Jon**: Sure thing, so for the one-liner of context on this, I work for an enterprise VC fund. Our whole team is based in New York City, we do invest across the country, with an emphasis on New York, which represents 70% of portfolio. Our sweet spot for investing is what we call Seed II, so it’s usually when a company has raised two-and-a-half to $3 million, has a live product, but doesn’t necessarily have traction yet on the go-to-market front because with our enterprise focus, deals can take 12-18 months. So, we love getting in before that Series A, which today is like $15-20 million.
+
+So, what we’re seeing on the earlier side of the spectrum, really looking at seed, and even seeing, but frankly living in the pre-seed world, one can say business as usual today, but I think that a lot of people still have powder in their seed fund. I think seed and pre-seed fund have been used to historically doing deals over Zoom at a pretty rapid pace. You see those annoying people on Twitter saying, “I met a guy, five minutes later I signed a term sheet.”
+
+So, I think that has hopefully slowed down a little bit, but great deals targeting enterprise opportunities are still getting done. We are still active. We actually are closing a deal today, but in full disclosure, the founder we’ve known for five years in a space that we’ve researched for over 12 months. So, that’s one where because of our thesis-driven nature, which we can get into, there’s always opportunities that we’re looking at. We’re starting to see a little bit of a bottleneck at Series A, Alex.
+
+## What metrics are required for Seed II companies?
+
+**Alex**: I’m just curious about the Seed II, and I want to go back to that because it’s a fascinating place to invest. Do you have an ARR threshold you tend to shoot for, for those companies, or does it vary based on how mature they are?
+
+**Jon**: Not at all. So, our tagline on the Seed II, and my co-founder Jess [has a great post on our blog about it](https://medium.com/@jerseejess/the-rise-of-the-seed-ii-round-and-why-it-is-great-for-enterprise-founders-b89862b90582), is that we’re proud because we have a deep corporate network that we leverage as part of diligence, we actually invest ahead of oftentimes ARR. So, as long as we have the thesis and they have a live product, we can put it in front of our corporate network for diligence, and that’s our way of investing ahead of other people who rely on pure metrics-based approaches.
+
+**Alex**: I got it, so you get feedback from the field, and that’s more important to you than plus or minus 50k in ARR or whatever?
+
+**Jon**: Exactly.
+
+**Alex**: Okay, lovely. And then… Oh please, Danny.
+
+## How do you approach building investment theses?
+
+**Danny**: No, I was going to say, you emphasized thesis proven development. I’m curious, obviously theses take a long time to build up, you spend a lot of time researching or evaluating the market, and then this massive thing happens, right? In the last couple of weeks, where all of a sudden out of nowhere you have this discontinuity, there’s a complete change in the market. Are you still doubling down on the same theses? Do you put some of them on hiatus and say, “Hey, we’re just going to wait six to 12 months and see what happens next?” How do you approach that?
+
+**Jon**: So, the four areas we’re investing in are AI/ML, cybersecurity, future of work, and infrastructure and DevTools. I would say it really is dependent on the category and what the thesis is. Many of them are still active today, I mean, a company we just invested in is in the application modernization space. And this company in particular is really helping move Fortune 500 companies to the cloud.
+
+So, we’ve actually heard from a lot of corporates in our network that tools that can increase that velocity are actually going to be needed more in this environment. Now, there are a lot of SaaS companies that do things that may be seeing hits in the HR space for instance as people are doing layoffs or whatnot. Maybe some of the perks may be cut back, but we have a company in the future workspace Spring Health that’s a mental health benefit for Fortune 500 employers. They’ve seen unprecedented inquiries about customers signing up because in addition to the health pandemic going on and the economic issues, there’s potential mental health crisis looming as well with everyone working from home, juggling unemployment.
+
+So, I’d say it’s pretty case-by-case in terms of the thesis, but we are taking a long-term view. So, we’re trying not to let a momentary, and I hope it’s, let’s say a sharp V turn in the economy. We’re trying not to let that impact our broader thesis development.
+
+**Danny**: Well, certainly. I mean, I was reading this weekend that COBOL developers, which actually develop a lot of the unemployment systems for New Jersey and other large states are suddenly in high demand, which you’re a long time enterprise executive before you got into investing, and so, I’m sure you can appreciate. Just so I understand though, the application modernization thesis, what does that exactly mean?
+
+**Jon**: So, right now as much as cloud has proliferated in the SaaS world, and everyone’s using a million SaaS tools, if you actually look at the underlying infrastructure that powers Fortune 500 companies, especially a lot of the heavy consumers like financial services, pharma and media, they’re actually not on cloud infrastructures as much as you think they would be. So, yes, they’ve tested new application development in AWS, in GCP and Azure, but for a lot of applications that may not be as old as COBOL applications, but a lot of Java, .NET applications that were developed 20 years ago. For anyone that knows Office Space, by that Milton in the basement who had since left the firm, how do you actually understand, “Can I decommission this? Can I lift and shift it? Do I rewrite it?”
+
+And this is actually a source of a lot of angst for a lot of corporate executives, because every year the maintenance alone is extremely expensive, and also holds back from having the agility of cloud and whatnot. So, we spend a lot of time with executives, both from infrastructure as well as application development teams and architecture teams understanding exactly where the pain point lies, because in this particular case there have been solutions in the past, and a lot of good services driven, but where we’re investing is really in a tool that’s able to productize it and really enable the efficiencies of software margins.
+
+## How long is legacy software going to stick around?
+
+**Alex**: So, these big companies that are pretty well tracked in the past, what’s the timeframe like to get all these legacy systems onto more modern software, because I’ve been hearing about the client migrations since I was in utero, and we’re not done yet, and that’s okay. But what I don’t have a good grasp on is the rapidity at which the changes that you’re talking about are happening. So, is this a five-year window we’re talking about? Or just more like 15-20 years to get rid of the last bit of spaghetti code stuck in a server in a basement?
+
+**Jon**: So, there’s a lot of nuance in that. When we invest, we look to understand is there a customer base that might be on the more sophisticated end that could move nine, 12, 15, 18 months. And we map and understand, look, we are venture investors, will they be able to get enough metrics for the Series A so that they can show some go-to-market proof? In the cloud question in particular, I think to call it a five-year journey is fair for now. You have some people like Johnson & Johnson who we know really well. Their CIO has said in the Wall Street Journal a few years ago that they were fully moving to cloud. You’ve got Capital One who’s known in financial services, they’ve been public in the Wall Street Journal and other media outlets.
+
+You do have, for instance, a lot of the top-tier banks that are doing it cautiously, and they’ve tried to figure out… It’s not really just a tech issue, and it’s not just some of these legacy applications, but of course a lot is around liabilities. There’s legal elements, there’s different negotiations that go on. So, there’s even things like policy enforcement, which another of our companies does. So, every layer you go deeper, you find ten more problems and I will say that compared to even 2010 when I was still at Morgan Stanley, we’ve made huge strides because back then people were talking about it and obviously nothing was getting done. We were focused on consolidating something like 70 data centers down to seven.
+
+But with the rise of technologies like Kubernetes, with [VMware buying Heptio](https://techcrunch.com/2018/11/06/vmware-acquires-heptio-the-startup-founded-by-2-co-founders-of-kubernetes/), and with people seeing a need, right? The biggest thing here is going to be that Fortune 500 companies in this work-from-home environment, in this focus on really, developers being distributed, how can they get applications developed rapidly? How can they serve their customers? And cloud’s going to be integral, so you can bet that, that’s going to be as we come out of this a top initiative from a lot of boards for their companies.
+
+## Raising a Series A
+
+**Danny**: So, I want to follow up. Obviously, I think GitLab is a good example of a company that is both remote native itself as an organization, but also tries to empower a lot of that stuff. So, it’s interesting to also see if there are repositories in the data and the cloud, but now the workflows need to actually move that and you’re not stuck in the IDE, you’re not stuck in the code reviews, which a lot of organizations are still live. But I want to hang on the Series A point.
+
+You’re trying to set up the companies, you’re in the Seed II phase. You’re not necessarily yourself metrics-driven, but you are ultimately making sure that the next set of metrics-driven investors are showing up and being like, “Oh, this is great. This fits my model,” or whatever. But what’s happening now in that space? Your companies are coming up, you’re trying to look at the Series A, you’re talking to these investors. What are they saying about what they want to see today?
+
+**Jon**: So, to be candid, with us we’re actually in a very fortunate position where many companies have actually come off raises in the last three months. A couple are going to be hitting up some of your team members for coverage in the next few weeks for raises that got done. One just got done last week, a preemptive Series B that you’ll hear about soon. Another closed at the end of February. Spring Health, which your colleagues wrote about closed a $22 million Series A in January.
+
+So, we’re very grateful and we’re in a great spot where what we’re guiding them on actually is, they had these huge growth plans off these Series As, and then the Series B. And right now, that war chest is actually itself powerful. So, being very thoughtful in go-to-market, maybe not hiring X number of salespeople, but figuring out really the pulse check of the market. There is a ton of uncertainty still in the buyer universe. We did a podcast last week with two Bank of America IT executives, and one of the lines they said is that you could be mission critical today, and 48 hours later things just change on a dime because of… Look, they’re doing SBA loans, they have more trading volume than ever. So, you also have to have empathy for those environments, paired with people with their kids running around at home.
+
+So, just to bring it back to your specific question, we are making sure that the metrics will be there, but we’re doing it in a very thoughtful way of how they burn. But in general though, from other companies that we speak to at the Seed II stage or seed stage getting ready for an A, look, the Series A funds right now have over the last few years because of the SoftBank effect, a lot of Silicon Valley firms raised bigger and bigger funds than ever, deployed bigger and bigger checks, right? Series A was $15-20 million.
+
+So, metrics thresholds actually have increased every year the last few years, but everyone expected, that Series A investor expected the Series B would be right behind them. Six months later and these crazy preempts and crazy valuations, and the growth-at-all-costs mentality that started already getting chinks in his armor when SoftBank had those blow ups in December with Wag and WeWork a few months before that. So, that was looming already, and what’s happened is Series As from what we see and all the people we talk to, it’s a little bit on pause.
+
+The best deal with crazy metrics is going to get funded in any environment, let’s be real. But that is such a tiny percent of overall deals in the world. What if you’re actually a really strong company, and you are growing and you are using the capital like your investors told you to. Now you’re ready for that Series A, and maybe a couple of big customers just lagged a little bit on what you needed. Those are going to be tough conversations around what you do with your burn, and it’s where a lot of the early investors are going to get put to the test because a lot of seed funds don’t have significant reserves. So, what is that model going to look like? Who’s going to come in and save these companies? That’s going to be a big question to watch.
+
+**Alex**: Okay, so I agree with you on everything you said about Series As getting larger, the bar going up and expectations rising for later stages, but in this new risk-off world I have a guess, this might be wrong, that we’re going to see smaller Series As. And therefore, the bar actually ironically might come down in some ways regarding expectations for maybe metrics or whatever, because if people are going to write smaller checks, they might not demand the same ARR thresholds or growth metrics or et cetera, et cetera. Could you see that happening, or do you think the Series A thresholds remain the same and the dollar amounts will go down, squeezing founders that are looking to bring on more capital?
+
+**Jon**: So, that is one of the things that I’m honestly watching the closest to be candid because the issue is also a math perspective of, you’ve raised a bigger war chest than ever if you’re one of these tier-one Silicon Valley funds. So, from a pure dollar perspective you have to deploy bigger checks to make it worth your time. An investor that has capacity for what? 10 boards or something like that, can’t have 10 boards of $2 million, $5 million techs if they were used to writing $15-20 million Series A rounds.
+
+So, there’s going to be an interesting trade-off where, sure some rounds may do $8 million Series As or $10-12 million, but I think structurally, there’s just a lot of capital that has to figure out where to be put to work. And the other trade-off that we’re seeing is that a lot of people have to focus on their existing portfolio companies. So, between the uncertainty and between figuring out who’s going to actually get through Q2 who is a tier-one VC not going to support anymore and who will they double down on? Maybe we’re going to see higher reserve ratios out of those bigger funds in order to support the companies that they think are still strong, and think that will grow.
+
+So, it’s something we’re tracking closely especially as Seed II investors. Who’s going to be coming a little bit lower, and who can we partner with on some of these?
+
+## What metrics are most important today?
+
+**Danny**: Well, I think that’s absolutely true. That was the classic model for a lot of enterprise startups. I’m thinking more than a decade ago, but it’s cheap today to create an enterprise SaaS company with a lot of tools, a lot of leverage, a lot of scale. In the past, you would have to go two, three rounds with the same firm. You’d hit a milestone, you’d keep going, either in the hardware or even in the software space. I’m thinking like the aughts.
+
+So, in some ways, it’s an interesting reflection back to what the model used to be, but I want to follow up on one question. So, on the metrics, do you see that it’s more a change to profitability and cashflow break even, or do you think that there are some other metrics like, I don’t know, customer concentration or retention rates or other things that are coming more to the fore?
+
+**Jon**: Yes, so I think it depends if you’re targeting SMBs or enterprise. We have a couple of companies that are at the end of the day, tech companies may be their first customers, but it’s really a Fortune 500 play. And two of our recent raises that got done weren’t with your typical Series A metrics so to speak that you would read about on any SaaS blog. So, this comes back to the point that I think the opportunity for Fortune 500 is bigger than ever, and if you could use your seed capital to build a product that is fully modern, solves a customer pain point in a massive market, VCs can look ahead and bet ahead of metrics.
+
+I do think though that we’ve seen over the last two years in these glory days of venture and SaaS, it used to be the kind of like, “Oh, you’re just a YC company selling to another YC company.” I think the SaaS universe has expanded so much that you don’t have to be snarky when you say it anymore. There is a market of selling to other SMBs. What’s going to happen though for people that really were building a more consumerish SaaS-friendly offering is that we are going to see a lot of the companies just go bankrupt. No one in the last ten years has had to go through that since the financial crisis.
+
+So for us, we’ve always been Fortune 500 heritage because it’s our strategy. We’re never going to outmodel someone with SaaS metrics. We’re not going to play the game running around Silicon Valley outpricing people. Our strategy has always been, we’re ex-IT people ourselves, I used to work in IT at Morgan Stanley, my co-founder Jess was at Cisco, our colleague Kelley was a Forrester analyst, right? We’re the nerds that no one wanted to talk to, but we have that domain expertise, and hopefully you can tell the passion for enterprise software.
+
+So, when we go talk to our corporate network, we can surface these pain points that are going to be massive, and they’re going to be here for a while, and they’re felt cross industry. So, for us we actually will not have to change our approach at all because that’s what we’ve spent seven years validating here at Work-Bench, but we are watching closely for these SaaSy companies who can grow up, so to speak, and actually solve a Fortune 500 problem and make sure that their product has the necessary security and scalability requirements that if you’ve never spoken to a Morgan or B of A day-to-day your jaw’s going to hit the floor when you actually realize the requirements, and the amount of legacy spaghetti stuff that you’re going to have to integrate with, and you just thought the world was all rosy and SaaSy.
+
+So, it’s going to be interesting to see how these next few months in particular play out.
+
+**Alex**: That’s the best phrase I’ve ever heard, legacy spaghetti. It’s like the enterprise version of Eminem. I’m very impressed with that.
+
+**Danny**: I think there’s a great restaurant name there. There’s a startup idea right there.
+
+## Time management for VCs these days
+
+**Alex**: A few minutes ago you talked about portfolio concentration and people focusing in-house versus looking externally for more opportunities, hearing this from a couple of VCs, I’m curious from your personal time perspective, what percent of your effort is currently going into supporting portfolio companies who’ve you already put checks into, is it 80%? Versus going outside. Well, not outside really, but digitally going outside and looking around, meeting new people, new companies and trying to find new places to put fresh capital?
+
+**Jon**: So, we’re in a fortunate position where we still have bullets left in our fund, so we are actively looking at deals. The thing that we do the most of is spend time with our corporate network within that framework of sourcing and evaluating. So, we’re still talking to corporate, we’re still validating problem points. And then my colleagues Kelley, Priyanka, Jess, me, we’re all meeting new companies, we’re juggling Zooms.
+
+What I will say in in all honesty though is because we lead with these theses, I’m not focusing or probably writing a check tomorrow. But as we get to know companies, there are people… One company just came back to us when we met them a year ago after their seed, and they’re going to be raising probably a Seed II now. So, we already know them in person, we know the space and we’re doing our homework right now.
+
+But to answer your question on what percent of overall time is with the portfolio, that 80% is probably an accurate figure because in general we’re pretty hands-on investors specifically around hiring and then go-to-market support in terms of customer intros, customer backchannels. Helping you hire your sales person, feeding you candidates to hire. And all of that activity persists especially as, look, we’re in an unfortunate place right now in the economy where already we’re seeing a lot of layoffs occurring in the startup ecosystem, and when we can take great comp from one company and bring it to another. I mean, our friends at FireHydrant, which we’re seeing unprecedented demand because it’s basically a tool for SREs by SREs that helps with internal response to triage, especially when you have downtime.
+
+People don’t have patience for Netflix to be down right now, and something critical like a BoA mobile banking app can’t be down now. So, when your developers are not all on the same space and able to just talk to one another, everything from communication to the workflow becomes critical. They actually on Twitter found somebody that was let go of a job in developer relations, just flagged it to Bobby the CEO. Within a couple of days, he was able to make that hire. He knew the guy in the ecosystem, great person, just unfortunately was let go.
+
+So, companies that can opportunistically bring on this great talent if they have the balance sheets to afford it and do some interesting stuff right now and position themselves for the long haul.
+
+**Alex**: I’m fascinated to see what the talent market looks like. I’ll hand this baton back to Danny in a second, but six months ago every single person was telling me, “We can’t hire enough. We can’t get enough people. We can’t find the right people. Everyone’s leaving, we’re being poached left and right.” It was this talent 100 Years’ War, and now all of a sudden overnight people are now saying, “It’s opportunistic. If you have cash go out there.” So, it’ll be fascinating to see who can be the most aggressive with their balance sheet that they have, if they have one to go out there and get the best people and really lever up people-wise for the eventual return to form, because the economy hopefully, according to my 401(k), won’t stay dead forever.
+
+**Jon**: The hardest part, the one I don’t envy founders here is nailing the timing. Some of our companies tend to be a little bit earlier, so they do have a couple spare hires that they can make right now. But if you’re a later-stage company you’re making cuts left and right and you may actually not be able to pounce on those opportunities, at least in the short term. So, the CEOs, they’re wearing so many hats right now and juggling them as they figure out, “Can we make the time? What will this do to our burn? Are we making the right estimate through the customer term and things like that?”
+
+## Is now the right time to start a company, and if so, where?
+
+**Danny**: So, Jon I have a question. You obviously work with a lot of early stage companies and oftentimes just a founder, thinking about ideas and what they might work on next. So, I have two questions. One is, do you recommend people to start a company today if they’re thinking about it? Maybe they just got laid off or maybe they’re just fed up with the last couple of years and they think there’s an opportunity. And second, what theses or markets would you have them go to?
+
+**Jon**: One of my good friends in the New York ecosystem is a guy Zac Smith. He sold his company Packet a few months ago — great outcome and great entrepreneur. Now, we’re just talking the other night, and he was so excited about the opportunity and the companies that are going to get built frankly up and down the IT stack over the next few years. I mean, it’s not the cliché thing that everyone talks about ’08, ’09 how many great companies got built. It’s because there was so much uncertainty in the market, so much good talent to be had. And the forcing function right now, Aaron Levie had this great tweet that a lot of these digital initiatives, work from home, collaboration, et cetera, were half in half out. On the backend of this every company is going to have to adapt because this is what the future is looking like.
+
+So, for us in particular, we’re looking a lot in two key areas right now. Number one is within AI/ML, I think a lot of companies that were cool tech, looking for a use case, looking for a solution, unfortunately are just going to fizzle out. But there’s going to be great data science talent that can join companies that really focus on operationalizing AI for a particular use case that can have immediate integration and immediate ROI. Really triple emphasis on that immediate ROI.
+
+And then I have an example I can walk through in a moment, but the other thing is really developer tools. A lot of companies now with modern developers especially in the Fortune 500 vantage point are going to have to bring in DevOps best practices, SRE best practices, and just emulate more best practices from the cloud world. And look, this has always been done. When I was still at Morgan 2010, ’11, we used to do an annual trip to the West Coast, and we met Jay Kreps and the Kafka team before they started Confluent. The reason is because in the early 2000s banks had the biggest data processing needs, the most servers, yadda yadda, the most interesting security requirements.
+
+But you fast forward into the 2010s and web-scale giants actually overtook them. The security issues that Google has to deal with, I’m sure are more severe than any bank on earth. The scalability challenges of your data infrastructure in that LinkedIn example taught us things about streaming. So, I do think that in this next wave of the 2020s now, we’re going to go through that next shift on the infrastructure side and on the developer side, and this pandemic is unfortunately a forcing function.
+
+So, the caveat is that the tool will have to integrate with these legacy environments. I don’t think you can go full cloud from day one, but the folks that are OG enterprise or at least come with empathy and understand how can I build there and solve these big pain points, are going to find huge budgets and very sticky customers.
+
+**Alex**: So, it’s kind of a yes to the question like, “If you go out there and do this, there are good places to do it, and that’s one of them.” But I’m going to be rude and go all the way back to the beginning. You talked about theses that you have or theses. I don’t know, is it thesises, thesi? Is it like cacti-
+
+**Danny**: I like theses, but it sounds really bad.
+
+## How many theses should you actually have?
+
+**Alex**: I wanted to bring this up earlier, but it didn’t really fit in the conversation. You mentioned a number of things, like eight different places where you invest. It felt like it was almost a very large bucket that you were putting money into.
+
+So, at some point are you still thesis-driven if you have that many different places you can put capital? And I want to push this because I don’t disagree, but it feels like you almost have to be unfocused to have that many areas of interest.
+
+**Jon**: Yeah. No, it’s a great nuance. So, our team splits our times at a high level. I’m the AI/ML guy, Jessica, Kelley is security and cloud native. So, you could say AI/ML is the biggest thing on earth, sure. But the way that we actually break down our theses, our investment research is not just the market, but also the timing nature of it. So, a big activity that we do in every single quarter, and we’re about to experiment with our third Zoom line is the last five years we bring together 20 executives across industry for a machine learning round table.
+
+These are not CIOs because they don’t spend money, but they’re actually one, two, three levels down where they have a pain point, they’re the experts in their field, and they have budget dollars to spend. So, if you look back to 2017, the big topic of conversation then was, “Hey, how do we even hire a data scientist?” Google, Facebook are taking all the talent. And at the session we’re doing it to be value-add people, it doesn’t help us with the thesis at all. But people were sharing notes of how they position themselves, yadda yadda.
+
+Fast forward to the next quarter, they said, “Hey, we hired these data scientists, but we’re having trouble getting models into production. How do we focus on model deployment?” That scenario where we’re the only VC in the room, there’s no startups there, we start taking copious notes and doing research around model deployment. We then spoke to every single one of those people and then some in our network, and then we were able to figure out, “Hey, this is actually a very topical pain point. Companies are going to face this across the Fortune 500.”
+
+We found a company Algorithmia where the founder Diego had great experience, great product for model deployment, and boom, we invested there. Then the next quarter was, “Hey, how do we get clean data? We have 50 ERPs in our supply chain group, how do we integrate that? And then in a quick way get this to our data scientists who do the work, right?” That led to an investment in the company Datalogue that focuses on data process automation.
+
+I could go on and on, but the next one was around model explainability that led to a company Arthur. So, it’s using that overall topic like AI, and then drilling down into the topical pain points where, again, timing and budget dollars are going to be spent, so that as VCs, we don’t get too ahead of the curve, and we could find the right investments.
+
+**Alex**: You’re making VC sound like actual work, which I don’t think is… That’s counter-narrative to what I’ve been told, or what I’ve seen on _Silicon Valley_.
+
+**Jon**: That is the best compliment that we get from our LPs actually because we’re emailing them at all hours of the day, and me and my co-founder Jess, we joke all the time. We’re like, “Are we doing this wrong?” But the good news is we’re enterprise enthusiasts, we love what we’re doing. But between work and with corporates, we’re passionate, but we work our butts off. So, you are right, those insights don’t come for free.
+
+**Danny**: I was going to say Alex, they do have work in the name, right? With a dash, it’s Work-Bench.
+
+**Alex**: But bench implies sitting down, which is restful. I don’t know, I didn’t want to read too much into the name.
+
+## What’s next for AI/ML?
+
+**Danny**: Jon, I want to focus a little bit on the data science side because I find this stuff super fascinating. We’ve seen, I think, Scale.ai and a bunch of other companies get to really large scale, but what’s the next phases there? Who are the leading customers from your perspective who are saying, “Hey, right now in 2020 this is the key challenge in AI/ML that’s coming up”? Which are the industries who are setting the tone there?
+
+**Jon**: Yeah, so for us the three main industries we’ve spent time with are financial services. That includes big banks, that includes regional banks, European banks and then insurance companies, pharma companies, healthcare space, and then media. And what’s interesting and why, getting back to Alex’s point, we do so much work is that one company could actually need something from model deployment and not want explainability yet. Or another one could be focused on data process automation, but not want the other things.
+
+So, we always like to use the word “tentacles,” because within the companies in New York, it’s accurate Alex, we have so many different touchpoints because those people are the budget owners and there’s various sophistication levels, there’s various priorities. So, a large part of our work is understanding the now factor of, “All right, you said you need this, but do you really? What project is this tied to?” And we’re doing a ton of that backchannel work on behalf of our companies, so that when we make intros, it’s to the right person at the right time, and they’re not getting put on some innovation team that’s going to waste their time, or frankly a group that means well, but may not actually have authority and power to act.
+
+So, there’s no one-size-fits-all answer that X industry needs data science. It really is about talking to everybody in those three early-adopter groups. I will say though that things like retail sound cool. Between their earnings pressure that they face and the blackout periods just during the calendar year, we actually have not found them to be good buyers of enterprise software. Telco is horrible to deal with unless you have a good reseller partner.
+
+**Danny**: Apologies to our Verizon corporate overlords.
+
+**Alex**: Yeah, do you recall who owns TC?
+
+**Jon**: Sorry about that! Come talk to us and we’ll help you engage better with startups.
+
+**Danny**: I hear 5G and AI is really hot these days.
+
+**Alex**: Yeah, it’s a big deal.
+
+**Jon**: But another one like manufacturing, they come to us all the time with different questions, but internally they can’t actually move. So, we actually do a lot of blocking and tackling on behalf of our companies because every day your net burn is ticking when you’re a seed-backed company, Seed II-backed company, and we want to make every customer interaction really optimized for that.
+
+## Raising bigger funds
+
+**Alex**: Okay, I don’t know how much time we have left Danny, so cut me off if you need to. But I want to talk a little bit about fund size because you raised a $10 million fund, you called this your early on “figuring things out”
+
+**Jon**: Like a proof of concept.
+
+**Alex**: There you go. And then you had a $47 million fund back in 2018, Work-Bench Ventures II. Innovative name, just fantastically creative.
+
+**Jon**: Right?
+
+**Alex**: You have a couple of bullets left you said earlier, I’m curious how much capital you’ve left, and then if you’re fundraising goals or hopes have changed now that the world has gone from risk on to risk off.
+
+**Jon**: So, to clarify for all the entrepreneurs out there, we have several investments left that we can do in this fund. So, we’re fortunate that unlike other VCs that we’ve seen deploy in 12, 18 months, we really bide our time and we have a pace that we do something like a few bullets a year. Whether it’s good times or bad times, and we do like a concentrated portfolio, but ample powder and then we do reserve follow on.
+
+When you ask about our fundraising. So, right now we’re not… It’s hard when you ask a VC that because there’s all these regulatory issues of what you’re allowed to say publicly, but it doesn’t change our plans for the future because me and Jess, we’re very lucky that we have a stable team, which in today’s environment you don’t see a lot. We’ve been focusing on this very focused strategy for almost seven years now. So, we’ve really just been putting in the work and building to make this a franchise for our lives that will last many funds. We’re not thinking just one, two, three, but we’re thinking five, six, seven, eight, nine.
+
+And the cool thing behind the scenes is when we launched in 2013, if you said enterprise in New York you got blank stares. Mongo was still early days. You fast forward, Datadog’s IPO capped off a great year for us where we passed $10 billion in aggregate external VC financing into our ecosystem in our narrow view of enterprise startups.
+
+Then you started off January with our friend Dimitri of BigID raising another $50 million six months after his last one. We had Amir from Sisense at the Enterprise Tech Meetup in February before COVID really hit bad, and he had just come off $100 million raised.
+
+So, New York is better than ever. Building next to your customers is more helpful than ever, and we think the prospects of enterprise New York and all those factors just bode really well for our ecosystem in the long haul.
+
+**Alex**: So, your next funds going to be bigger, is what I just heard.
+
+**Jon**: There’s good prospects in the world right now.
+
+**Alex**: No, I mean, why not. If your thesis is that stable and your view of your local ecosystem is that strong, it sounds like you might put 60-70 down instead of 47 next time. I mean, it wouldn’t hurt. Rounds aren’t going to get smaller forever.
+
+## What are people not talking about these days that should be?
+
+**Danny**: So, we are coming up on our time, but Jon I want to bounce back to you. Obviously, we hear the same themes, everything’s coronavirus related, and I’m curious, what are some of the things that people aren’t seeing in the market that maybe because you’re closer to customers or you’re closer to the revenue sources. What are you hearing that’s maybe a little bit out of sync with what some of the Twitterati are talking about these days?
+
+**Jon**: So, there is the sense that there is uncertainty out there, so I do think budgets will be deployed slower. But like I shared a few of these examples already, that any tool that can increase a Fortune 500 velocity to cloud is going to see acceleration in its need. There’s the obvious around collaboration. I will say collaboration could be a tricky one because whether it’s Zoom or Microsoft Teams that get used and everyone’s on Slack, what whitespace is actually out there that a Fortune 500 will actually use is going to be an interesting one versus an SMB tool. So, I would just caution people to be very thoughtful in their customer research if they’re building in that space.
+
+A lot of stuff in DevOps that is related to the cloud stuff, and then I do think that as people are doing more with less, getting back to my previous point, but operationalizing AI. So, Alex, this is another one similar to your FP&A snoring reaction, compliance software. Right now, we have a company Merlon Intelligence that brings AI and NLP to new customer opening, and specifically they’re focused on negative media screen. This is an area that a lot of us at Morgan Stanley after the financial crisis, all banks basically hired a gazillion, an actually technical term, compliance analysts, and they spent a ton of money on it.
+
+What this kind of software lets you do is it’s focused on an MS, and it’s focused on, again, these compliance analysts. It’s a workbench that reduces false positives by 80%. So, right there, instant cost savings. You have a company Alchemy that provides data inbox for asset managers. You would be shocked at how many people in today’s enterprise workflow and financial services get an email, copy and paste data and put it somewhere else, right? Into another system. They used their domain expertise in financial services and built what they call a data inbox. And Ron actually wrote about it maybe three weeks ago when they announced their financing, and they launched off just perceived capital, they launched with a partner SimCorp, that’s a public company in Europe selling into the asset management world.
+
+So, they’ve been so efficient with their burn because they know the problem and the ROI is instant. So, they have more banks than ever coming to them, because if you can bring automation, in a normal environment people’s jobs are on the line, so people get a little scared of how you sell into that. Right now, if you can help someone bring efficiency and cut costs, you’re a hero.
+
+So, we’re looking actively in other areas within AI/ML in vertical use cases where you have the domain expertise. You can deploy immediately; you can maybe test with public data instead of needing access to their sensitive data. Because that helps the Fortune 500 raise the bar in terms of sensitivity of data that they’ll share, and what kind of requirements they would have on a POC and whatnot.
+
+The name of the game is speed right now. Can you deploy quicker and can you come with ROI stories from perhaps other customers, and if it’s the first customer, you’re at an angle that can really sell them.
+
+**Danny**: Awesome. I will say, it’s amazing to hear DevTools because I just looked it up. So, in August of 2014 I had a piece on TechCrunch called “[Will Developer Tools Startups Ever Find Investors?](https://techcrunch.com/2014/08/22/will-developer-tools-startups-ever-find-investors/)” And I think this is the classic law, Betteridge’s law of headlines, but eventually the answer is true in the asymptote and six years later clearly people are still really excited about that space, and it’s going to do super well. Alex, any other things before we close up here?
+
+## AI margins
+
+**Alex**: Jon, if you can give me the sound bite answer to this so I don’t get in trouble there because we’re going too long, but I wanted to sneak one more in. Back in February Andreessen Horowitz did a blog post about AI startup gross margins and how they were going to come in a little bit under SaaS. I’ve been working on this in the background because I love me some gross margin stuff, because it’s my favorite bit of the startup world. Some VCs said yes, that Andreessen was right, that AI-focused startups will have lower gross margins due to compute costs and a couple of other inputs that go into COGS. Some didn’t agree with that.
+
+I’m curious given your focus on these types of companies, if you see gross margin improvement over time for AI-focused startups, and if they can break into the SaaS-ish GM section and therefore earn the same revenue multiples and valuations.
+
+**Jon**: So, the sound bite answer is it depends because the infrastructure when selling… Yeah, the infrastructure wants to operate like SaaS, but if you’re talking mainly about the vertical ones, like more in applications. I would say you don’t need to necessarily compare them to SaaS, they’ll be their own beast. And yes, they use services to grow. If you can do that for Fortune 500, you’ll become so sticky and the TAM will grow so big. And then over time you can build a very sustainable business.
+
+**Alex**: Okay, that’s a sound bite, and I’m out of time. Thank you, sir.
+
+**Danny**: Thank you Alex, and Jon, thank you so much for joining us today, really appreciate the time. Jonathan Lehr of Work-Bench, who is @fendien on Twitter. Thank so much for joining us.

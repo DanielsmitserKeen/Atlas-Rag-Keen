@@ -1,0 +1,110 @@
+# Why Most Companies Fail At Moving Up or Down Market
+
+This is part five in a series about 4 Frameworks To Grow To $100M+. [Subscribe to get the rest of the series.](https://brianbalfour.com/email-list)
+
+In the [introduction](https://www.brianbalfour.com/essays/product-market-fit-isnt-enough) I explained there are two types of companies:
+
+*   Tugboats, where growth feels like you have to put a ton of fuel in to get only a little speed out.
+*   Smooth sailors, where growth feels like wind is at your back.
+
+The difference between these two are not the common mantras of build a great product, product market fit is the only thing that matters, or growth hacking. 
+
+In part two, I talked about why we should think about Product Market Fit as [Market Product Fit](https://www.brianbalfour.com/essays/market-product-fit), how to lay out your Market and Product hypotheses, and how understanding whether you have Market Product Fit comes down to Qualitative, Quantitative, and Intuitive indicators.
+
+In part three, I covered [Product Channel Fit](https://www.brianbalfour.com/essays/product-channel-fit-for-growth) - the concept that products are built to fit with channels, channels are not built to fit with products.  
+
+In part four I covered [Channel Model Fit](https://www.brianbalfour.com/essays/channel-model-fit-for-user-acquisition) - that channels are determined by your model.  I went through the ARPU ↔ CAC spectrum and how your product and product tiers need to align on this spectrum. 
+
+In part five I covered [Model Market Fit](https://www.brianbalfour.com/essays/model-market-fit-threshold-for-growth) - your model influences the target market and vice versa.  
+
+Through out the series I've tried to highlight three key points:
+
+1\. You need all four Fits to grow to $100M+.  
+2\. You can't think about the four Fits in isolation because together they form an ecosystem for growth.  
+3\. You need to constantly revisit the fits because they are continuously changing, or breaking down.
+
+Let's walk through each of them individually in more detail. 
+
+## You Need to Find All Four Fits to Grow to $100M+
+
+Do you need all four Fits to build a profitable company? No. But, you do need to have all four to build a $100M+ product on a venture timeline. If you lack one of the fits, you either don't reach the scale of $100M+ or grow so slowly that venture investors aren't interested.
+
+Evidence of the four Fits is most apparent in the SaaS space. We can look at almost any category in SaaS and find multiple $1B+ companies who all essentially have the same core product.  
+
+I look at that and ask how that can be? If they are essentially the same core product, why can't one company dominate the entire market?  
+
+The reason comes back to the four Fits. Let's look at some examples.
+
+In the email marketing space, we have multiple companies valued at $1B+: Marketo, HubSpot, and Mailchimp.  
+
+When you strip away all the outer layers, they all have essentially the same core product — a tool that lets you send and automate emails to your customers and audience.  
+
+**Marketo**
+
+Their market is the enterprise. As a result they've differentiated their product on the things that enterprise customers care about: customization, security, and scale (that's their Market Product Fit). 
+
+Because of that, they use Outbound Sales to sell (Product Channel Fit). Because they use Outbound Sales they must have High ACV's to support the channel (Channel Model Fit). There are thousands of customers in the enterprise space times their ACV's equal a greater than $100M revenue business (Model Market Fit).
+
+**HubSpot**
+
+Their market is the mid-market. As a result they've differentiated their product on “All In One” since thats what mid-market customers care about.  
+
+Since the product still requires a fair amount of setup and education to work they use Inbound Sales (Content) and Channel Partnerships (Product Channel Fit). Because those channels hit a medium CAC, they have medium ACVs to support the channel (Channel Model Fit). There are hundreds of thousands of mid-market customers, multiplied by their ACV ends up being $100M+ revenue business (Model Market Fit). 
+
+**Mailchimp**
+
+Their market are small businesses. As a result they've differentiated their product on being simple and touchless (Market Product Fit).  
+
+Because their product is focused on simplicity and touchless they can use virality via the free tier as the primary acquisition channel (Product Channel Fit). Because their channel is virality they use a freemium model with lower price points to have low enough friction (Channel Product Fit).  There are millions of small businesses so even at the low ACV, they have a far greater than $100M business (Model Market Fit). 
+
+We can play this scenario out in almost any SaaS Category. Let's take a look at a few more examples.
+
+As you can see, no company (that I know of) has ever dominated all three tiers of the market (however, LinkedIn and Slack might be the closest).  
+
+The reason for that, again, is the four Fits. All four Fits are like the pieces of a puzzle. Plenty of enterprise companies have tried to move down market by making small changes to their pricing or product. But, to properly attack any new tier of the market requires locking in all four Fits, which means potentially changing all four elements and building new expertise. 
+
+The reverse also happens. Plenty of startups try to attack all three tiers of the market with the same product/channel/model. **But it doesn't work.** 
+
+Attacking all three tiers will pull your product in different directions, require you to build expertise in multiple channels at once, communicate to three different types of customers at once, etc. It's better to focus on one tier of the market. 
+
+If that goes well, then over the long term it's possible that you'll get the opportunity to attack another. Mailchimp is now just moving up to the mid-market with their automation features, and it has been 10+ years.
+
+## You Can't Think About the Fits in Isolation
+
+Startups are commonly instructed to just focus on product market fit in the early days. This leads to teams ignoring the other fits. While I agree in the earliest phases you focus on proving [Market Product Fit](https://www.brianbalfour.com/essays/market-product-fit), that does not mean you can ignore the others.    
+
+Why can't you just focus on Market Product Fit? Because as we know from [Product Channel Fit](https://www.brianbalfour.com/essays/product-channel-fit-for-growth), products are built for channels. That means that as you lay out your Product hypotheses, you need to include your channel hypotheses as well.  
+
+Why can't you just focus on Market Product Fit + Product Channel Fit? Because as we know from [Channel Model Fit](https://www.brianbalfour.com/essays/channel-model-fit-for-user-acquisition) your model hypotheses influence your channel hypotheses.  
+
+Get the point? **All of the fits influence each other.** Your hypotheses for each work together to build an ecosystem. You need to have hypotheses for all components at once. **Don't think about them in silos.** 
+
+This doesn't mean that you try to prove all of the hypotheses at once. There is a difference between formulating a hypothesis, and proving a hypothesis.  
+
+In the world of startups with constrained resources, proving them all at once is impossible. You spend the majority of the earliest phases proving Market Product Fit, but you need to do that in context of having hypotheses for the other fits at the same time. 
+
+## You Have to Revisit All of the Fits on an Ongoing Basis
+
+In my post about [Product Channel Fit](https://www.brianbalfour.com/essays/product-channel-fit-for-growth) I told a story about Pinterest:
+
+_In late 2011 Pinterest hit an inflection point and their growth started to take off. One of the reasons were they hit product channel fit. The channel was viral sharing to Facebook's feed through their API. But around end of 2012 Facebook started killing off the API's that enabled this channel. Many reported on [Pinterest's slowing growth](https://memeburn.com/2012/04/pinterest-growth-may-be-slowing-shock-horror/)._
+
+_This is an example of when you have Product Channel Fit, but it breaks due to a channel getting killed off. Many companies were also effected by Facebook killing off this channel. Pinterest was one of the few that transitioned successfully. They ended up transitioning to a UGC SEO channel which has driven their growth ever since._
+
+_Part of that transition over the long term was that Pinterest also changed their product focus from a social product to more of a personal utility. Once again, you have to mold the product to the channel. You can't think about them in silos._
+
+Pinterest is a perfect example of why you have to constantly revisit the fits on an ongoing basis. The fits are always doing one of two things:
+
+**1\. Evolving** - Your market, product, channel and model are always evolving and changing.
+
+Sometimes this evolution happens because of your own changes — moving into new markets — and sometimes it's because of the changes of others (i.e. channels).
+
+**2\. Breaking** - An element gets killed off. Typically this happens with the channel, as was the case with Pinterest. 
+
+When one evolves, changes, or breaks, you once again need to revisit all of them rather than just trying to fix one. Facebook faced a similar situation to Pinterest when the channel and market started to shift from web to mobile. Zuckerberg recalls this time in the [Masters of Scale podcast](https://mastersofscale.com/) episode 5:   
+
+> _“\[26:58\] We made one really important strategy decision, which was, often when companies need to take two years or so to rewrite their whole app or software for a new platform, they believe that they can't slow down feature development. So they do two things at the same time: they try to design a new product, while rewriting the existing product. I think that that ends up dragging everything out for longer, and increases the chance that you fail and die. So we made what was a pretty hard decision at the time, which was basically, **no new features for two years,** which is kind of a crazy thing.”_
+
+In addition to making a radical product shift to mobile, Facebook also spent billions on acquiring Instagram and WhatsApp. Once again, when one of the fits changes, you need to revisit all of the fits to ensure growth. 
+
+In earlier stage companies you need to constantly revisit for a different reason. You are constantly proving or disproving your hypotheses as you learn. When you disprove a hypothesis, you make a change. But when you make that change you need to revisit the four fits to make sure they all still fit together.

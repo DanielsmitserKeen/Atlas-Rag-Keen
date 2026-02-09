@@ -1,0 +1,540 @@
+# Stripe: The Internet's Most Undervalued Company
+
+_Welcome to the 936 newly Not Boring people who have joined us since last Monday! If you’re reading this but haven’t subscribed, join 12,206 smart, curious folks by subscribing here!_
+
+🎧 _To get this essay straight in your ears: **[Stripe (Audio)](https://notboring.substack.com/p/stripe-the-internets-most-undervalued) or on [Spotify](https://open.spotify.com/show/6k1YLBvORRMyosKy3x1xIl?si=_Z7mdecqTSSYrwhHexwGEA)**_
+
+Hi friends 👋,
+
+Happy Monday! The subject of today’s essay, Stripe, is a company I’ve been wanting to write about for a long time. So many smart people are so bullish on the company that I thought they must be missing something. I came away even more impressed by Stripe and optimistic about its ability to transform money on the internet.
+
+_Speaking of internet money… my friends at The Hustle are Not Boring’s first ever Sponsor! I’m excited about this one, because I read Trends religiously. Trung Phan’s monster [newsletter report](https://trends.co/articles/how-newsletters-make-money/) has been critical in thinking through how to turn Not Boring into my real job._
+
+_Trends is offering Not Boring readers a $1 two-week trial, which gives you access to all of their in-depth industry research reports and an excellent community of entrepreneurs. Show them the love and **help keep Not Boring free by signing up for a trial at this link**:_
+
+[Sign Up for Trends](https://trends.co/notboring)
+
+Let’s get to it.
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!kpz6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2041764-9b09-4cf8-9950-aa1fab2f4154_1080x1080.png)
+
+](https://substackcdn.com/image/fetch/$s_!kpz6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2041764-9b09-4cf8-9950-aa1fab2f4154_1080x1080.png)[
+
+![X avatar for @iankar_](https://substackcdn.com/image/fetch/$s_!TnFC!,w_40,h_40,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Favatars%2Fdefault-light.png)
+
+Ian Kar 💸 Fintech Today@iankar\_
+
+what early stage fintech company would you work at? (don't say stripe, we'd all work at stripe)
+
+6:46 PM · Jun 17, 2020
+
+12 Reposts · 383 Likes
+
+
+
+
+
+](https://twitter.com/iankar_/status/1273326270328311809?s=20)
+
+Stripe is a payments company that describes itself using the word “infrastructure.” It doesn’t get more boring than that in tech, and yet, Stripe is fanatically adored. 
+
+People love the company’s co-founders, the charming, intellectual Irish brothers Patrick and John Collison. Its mission is audacious: to increase the GDP of the internet. Engineers rave about its simple-to-use product that makes something as complex as payments just work.
+
+And yet... Stripe is underrated. 
+
+Because everyone loves Stripe, the company is under analyzed. Ben Thompson hasn’t written a Stripe-centered piece since [2017](https://stratechery.com/2017/apples-business-model-privacy-and-developers-chip-industry-structure-stripe-sigma/). Sure, there are plenty of product comparisons: Stripe vs. Adyen, PayPal vs. Stripe, Stripe vs. Braintree vs. Square. CB Insights did an [excellent deep dive](https://www.cbinsights.com/research/report/stripe-teardown/) on its history, funding, and offerings earlier this year. There are interviews and podcasts with the Collison brothers galore. The Information did one with Patrick on [Saturday](https://www.theinformation.com/articles/stripe-ceo-patrick-collison-never-flashy-is-fired-up). 
+
+But there is very little in the way of strategic analysis on the company, because writing good things about Stripe just feels cliché. As a result, most people know _that_ Stripe is an incredible company, but very few know _why_ Stripe is an incredible company. 
+
+So I dug in, looking to write a balanced take. I searched high and low for a bear case for the company -- so many once-gleaming unicorns have faltered recently that I wondered if Stripe didn’t also have some fool’s gold at the end of its rainbow. But clichés exist for a reason, and I came away even more impressed and excited about its future. Stripe is undervalued, and I’ve got the numbers to prove it. The company’s recent $36 billion valuation was a steal and its strategy is underappreciated.
+
+Let’s analyze Stripe.
+
+Stripe’s mission is ambitious: to increase the GDP of the internet. Here’s how it describes itself:
+
+> Stripe is a technology company that builds economic infrastructure for the internet. Businesses of every size—from new startups to public companies—use our software to accept payments and manage their businesses online.
+
+But before it was an “economic infrastructure” company, Stripe was simply an easier way for startups to accept payments online with a few lines of code.
+
+Stripe’s founding story is well-documented. In 2010, two prodigious brothers from a small village in Ireland, Patrick and John Collison, dropped out of MIT and Harvard, respectively, to start Stripe. It was their second company. They sold their first, Auctomatic, for $5 million in 2008, when they were 19 and 17. 
+
+While running Auctomatic, the Collisons realized that, despite PayPal’s success and banks’ participation, accepting payments online was too hard. They felt that with more businesses starting online, engineers would decide which payment tools to use, not finance people, and built a product that engineers loved. To this day, everything from their products to their communications are designed to delight engineers. 
+
+Stripe’s first product was simple. Copy a few lines of code. Start accepting one-off payments. Since then, Stripe has expanded its payments offering to include: 
+
+*   **Connect.** Payments for platforms. Booking.com accepts payments from travelers and pays out hotels using Stripe. 
+    
+*   **Billing.** Subscription and invoice payments. Were I to make this newsletter paid, Stripe would handle collecting money each month from those of you kind enough to subscribe.
+    
+*   **Terminal.** Offline payments for online native brands. Warby Parker uses Stripe for both online and in-store purchases. Unlike Square, Stripe doesn’t have a salesforce knocking on bodegas’ doors. This, like everything else Stripe does, is a product for internet businesses, just the ones who happen to have a physical presence, too. 
+    
+*   **Stripe Payouts.** Payments to service providers, sellers, or freelancers. StyleSeat pays out hair stylists instantly for the jobs they’ve completed. 
+    
+*   **Stripe Issuing.**  Virtual or physical cards for specific uses. Postmates gives its couriers cards that they can use only at specific merchants to purchase items that their customers order, and Clearbanc issues one-time virtual cards to its lending customers to be used only for online ads. 
+    
+
+Because of Stripe, internet businesses barely have to worry about payments. Typically, Stripe charges 2.9% of total value and $0.30 for each transaction. After paying banks and credit cards, Stripe’s take rate is typically somewhere between 0.5-1% of the transaction value. Clearly, Stripe succeeds when more people buy more things online.  
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!8w_H!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7d49fd6b-a3a7-4699-95e3-088ca99c9e6d_1122x358.png)
+
+](https://substackcdn.com/image/fetch/$s_!8w_H!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7d49fd6b-a3a7-4699-95e3-088ca99c9e6d_1122x358.png)
+
+Stripe is evolving, though, to leverage the relationships it has with customers and the massive amount of data it sees to expand into higher-margin products. 
+
+*   **Corporate Card.** Company credit cards that compete with AmEx and Brex. Stripe automatically provides limit increases based on growth and offers rewards aimed at startups and engineers. 
+    
+*   **Capital.** Loans for growing businesses. Stripe is able to see its customers’ revenue from the Payments side and costs from the Corporate Card side, and give them access to capital based on their performance. Stripe can lend next-day. 
+    
+*   **Radar.** Fraud and risk management. Because it has so much data, Stripe is better able to prevent fraud _and_ prevent legit customers from being flagged as fraud. 
+    
+*   **Sigma.** Custom reporting.Sigma lets users pull insights directly from their Stripe data instead of having to purchase Looker or another data analytics tool.
+    
+*   **Atlas.** Company incorporation. Atlas makes it easy for companies anywhere in the world to establish a Delaware corporation and a bank account. I used it for Not Boring, and it was cheap, fast, and easy. 
+    
+
+In a decade, Stripe has gone from accepting payments, which is now a commodity business, to providing an increasingly comprehensive suite of products that make it easy to start and run an online business.
+
+In Stripe’s July website redesign, the first in over three years, Stripe went back to an old description of itself: instead of “The new standard in online payments,” it calls itself “Payments infrastructure for the internet.” 
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!bJEY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe37e5db-a4f1-4151-a8a5-daa55f194c28_1600x474.png)
+
+](https://substackcdn.com/image/fetch/$s_!bJEY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe37e5db-a4f1-4151-a8a5-daa55f194c28_1600x474.png)
+
+Small copy changes on its website point to larger strategic priorities. Stripe shifted from focusing solely on engineers via a self-serve product by building out a sales function for larger or less technical accounts. Can you tell the difference between these two home pages, from December 2016 and August 2017? 
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!qN06!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F45d676d6-e1f2-4cb9-b150-8b59fb3d661a_1600x417.png)
+
+](https://substackcdn.com/image/fetch/$s_!qN06!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F45d676d6-e1f2-4cb9-b150-8b59fb3d661a_1600x417.png)
+
+Instead of “Explore the Stack” and “Create Account,” its new buttons read “Create Account” and “Contact Sales.” Engineers who want to just copy and paste some code are still welcome to do so, but now so are the larger companies with more complex needs and purchasing decisions.
+
+Some of the biggest and fastest-growing companies use Stripe -- clients include Salesforce, Amazon, Shopify, Slack, and Zoom -- not because they don’t have the engineering talent to build payments products, but because a company dedicated to payments like Stripe (or competitors like Adyen) can focus on all of the local integrations and edge cases that add up to a faster experience, higher acceptance rates, and less fraud. 
+
+In many ways, working with large companies today is a way to improve the product for countless companies yet to be built. It’s also a defensive play against competitors and a way to accumulate the data Stripe needs to continue to build products that benefit all of its customers. 
+
+While it sells to corporates, Stripe's long-term vision is predicated on the companies around the globe that will launch, grow, and compound in the decades to come. As an example, Stripe has retained its soul and commitment to new companies by launching [Stripe Press](https://press.stripe.com/) in 2018 to publish books that can inspire and guide hopeful entrepreneurs. 
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!RBv7!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F06fb7db4-cc17-4906-b5a5-2a2d183ad123_1600x250.png)
+
+](https://substackcdn.com/image/fetch/$s_!RBv7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F06fb7db4-cc17-4906-b5a5-2a2d183ad123_1600x250.png)
+
+Yup, a payments company published these beautiful books, each containing stories and lessons meant to educate and inspire. Stripe Press is more strategic than it appears on the surface -- it celebrates entrepreneurship and craft, both encouraging people to start companies and attracting the type of employees that Stripe needs to attract in order to build the best products. 
+
+The internet economy is already 10-15x bigger than it was when the Collisons launched Stripe a decade ago, and it has ridden that growth to become the second most valuable private startup in the US. But it is still deeply undervalued.  
+
+Last September, I [tweeted](https://twitter.com/packyM/status/1171765995247063040?s=20) that Stripe could be worth more than Goldman Sachs in two years. 
+
+At the time, Goldman had a market cap of $76 billion and Stripe’s valuation was $22.5 billion. Today, Goldman’s market cap is a hair lower at $72 billion, while Stripe’s April Series G extension valued the company at $36 billion post-money. 
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!kLGB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F037d7098-997e-47dc-bc51-5eabea85ba56_1600x849.png)
+
+](https://substackcdn.com/image/fetch/$s_!kLGB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F037d7098-997e-47dc-bc51-5eabea85ba56_1600x849.png)
+
+Just four months later, $36 billion looks like a steal. In fact, **were it public, Stripe would be worth more than Goldman today.**
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!L4OJ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff147cae0-e500-4264-ada9-1f3bbb192f22_1600x1011.png)
+
+](https://substackcdn.com/image/fetch/$s_!L4OJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff147cae0-e500-4264-ada9-1f3bbb192f22_1600x1011.png)
+
+Here’s the logic. 
+
+Stripe announced its $600 million round on April 16th, in the beginning of the Coronavirus pandemic. Since then, ecommerce has absolutely exploded. As we discussed in _[Shopify and the Hard Things About Easy Things](https://notboring.substack.com/p/shopify-and-the-hard-thing-about-a05)_, ecommerce penetration has more than doubled since the pandemic began. Before, we bought 16% of things online; now, we buy 34% of things online. 
+
+That has been a boon to ecommerce companies, and Stripe’s payments competitors’ stock prices reflect that growth. Since April 16th, PayPal is up 88.5%, Adyen is up 103.4%, and Square is up an astounding 150.5%.
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!9tyw!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F33077fab-07c9-4103-a0cd-77d9d3dd9b4b_1199x534.png)
+
+](https://substackcdn.com/image/fetch/$s_!9tyw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F33077fab-07c9-4103-a0cd-77d9d3dd9b4b_1199x534.png)
+
+On average, those companies have grown 114.1% since Stripe raised at a $36 billion valuation. Applying that same growth rate, **Stripe’s valuation would be over $77 billion, or $5 billion higher than Goldman Sachs’ current market cap.**
+
+Is it fair to assume that Stripe would perform as well as its competitors during the pandemic? It’s really hard to say, because Stripe isn’t public and doesn’t disclose much in the way of financial information, but we can do some back of the envelope checks. 
+
+*   **Stripe is the most heavily online company of its competitors.** In fact, its underdeveloped offline product is one of competitors’ main selling points against it. But it’s a good time to be very online. Square, which has a large point-of-sale business, actually saw a decline in Q2 payments volume, revenue, and profits. 
+    
+
+*   **Stripe is likely growing faster than its payments competitors.** Given that the vast majority of Stripe’s business is online, Shopify is probably a better comp than its omnichannel payments competitors. While PayPal Q1 Total Payment Volume increased 16% from Q1 to Q2, Adyen and Square _decreased_ by 7% and 11% respectively. Shopify _grew_ its volume 73% from Q1 ‘20 to Q2 ‘20. 
+    
+*   **Stripe is likely processing more payment volume than competitors.** In its September 2019 funding announcement, [Stripe said](https://stripe.com/newsroom/news/stripe-expands-global-infrastructure-with-new-funding#:~:text=Stripe%20processes%20hundreds%20of%20billions,%2C%20GitHub%2C%20and%20The%20RealReal.) that it processes “hundreds of billions of dollars.” In the most conservative interpretation, let’s say they processed $200 billion in transactions in 2019. At 73% growth, Stripe would be at around $350 billion in Total Payment Volume, larger than both Adyen and Square, and nearly halfway to PayPal. If you assume “hundreds of billions” means $400 or $500 billion, Stripe may have passed PayPal already.
+    
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!TS7v!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F33eaa035-c35d-44fd-810f-a58ada850ecc_488x129.png)
+
+](https://substackcdn.com/image/fetch/$s_!TS7v!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F33eaa035-c35d-44fd-810f-a58ada850ecc_488x129.png)
+
+*   **New businesses are launching on Stripe.** As of August 10th, Patrick Collison tweeted that businesses launched on Stripe since the start of the pandemic have generated $10 billion in revenue. 
+    
+
+> [
+> 
+> ![X avatar for @patrickc](https://substackcdn.com/image/fetch/$s_!TnFC!,w_40,h_40,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Favatars%2Fdefault-light.png)
+> 
+> Patrick Collison@patrickc
+> 
+> This number will shortly pass $10 billion.
+> 
+> ![X avatar for @patrickc](https://substackcdn.com/image/fetch/$s_!TnFC!,w_20,h_20,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Favatars%2Fdefault-light.png)
+> 
+> Patrick Collison @patrickc
+> 
+> Businesses launched on @Stripe since lockdowns began in March have -- somewhat incredibly -- already generated more than $1 billion in aggregate revenue. We're very glad to be able to play our part in helping them sell, adapt, and grow.
+> 
+> 11:18 PM · Aug 10, 2020
+> 
+> 259 Reposts · 3.1K Likes
+> 
+> 
+> 
+> 
+> 
+> ](https://twitter.com/patrickc/status/1292963488470462464?s=20)
+
+Pandemic-fueled growth seems to be accelerating. On May 20th, he tweeted that businesses started on Stripe during the pandemic had generated $1 billion in revenue. Assuming March 1st as a rough pandemic start date, they did $1 billion in new revenue in two months, and $9 billion over the next three months. 
+
+While it’s not scientific -- it can’t be without public numbers -- it feels almost conservative to say that Stripe would be worth more than double its last valuation if it were a public company. 
+
+But Stripe also faces some challenges in the short-term that may prevent it from reaching its long-term potential.
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!6w-t!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff114c18a-c1d8-4c85-83f2-c2bc470ad0b6_1600x939.png)
+
+](https://substackcdn.com/image/fetch/$s_!6w-t!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff114c18a-c1d8-4c85-83f2-c2bc470ad0b6_1600x939.png)
+
+Often, when something seems too good to be true, it is. So I asked Twitter to help me uncover Stripe’s weaknesses:
+
+[
+
+![X avatar for @packyM](https://substackcdn.com/image/fetch/$s_!TnFC!,w_40,h_40,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Favatars%2Fdefault-light.png)
+
+Packy McCormick@packyM
+
+What are the biggest knocks on Stripe? Anyone have bearish takes?
+
+1:16 PM · Aug 27, 2020
+
+2 Reposts · 37 Likes
+
+
+
+
+
+](https://twitter.com/packyM/status/1298972677764460544?s=20)
+
+This is the bear case for Stripe: 
+
+> _**Payments is a commodity business and Stripe faces competition on every side - vertical solutions, more international players, cheaper options, and products more closely integrated with the banks - meaning that it will need to compete on price, particularly with larger customers, compressing its margins.**_
+
+More specifically, the responses fell into a few categories: 
+
+**Payments is a Commoditized Space**
+
+The biggest knock on Stripe is that the payments space is increasingly commoditized. Ten years ago, it was revolutionary to let companies accept payments online with some code. Now, a lot of companies do it. While Stripe probably wouldn’t disagree with the general categorization, I think it would argue that its data and scale allow it to build a differentiated and superior product. 
+
+**Stripe is Expensive**
+
+Commoditization generally means that companies need to compete on price. And some people think Stripe is too expensive. Its merchant account competitors are often a few basis points cheaper, which adds up for large companies.
+
+Stripe handles this in three ways:
+
+1.  Lower fees for bigger customers.
+    
+2.  Focus on smaller clients who prioritize ease and brand over price at the margins.
+    
+3.  Generate more revenue and cost savings for customers through superior product.
+    
+
+**Stripe isn’t Everywhere Businesses Want to Be**
+
+For global companies, Stripe’s spotty international coverage is also an issue. While Stripe accepts payments from people in 195 countries, it only allows businesses in [40 countries](https://stripe.com/global) to accept payments. Adyen positions itself as a more global solution, and as a result, has more large corporate customers including Uber, Microsoft, eBay, and Spotify. 
+
+Stripe is moving quickly to remedy this, and realizes that it’s a hole in its offering. It’s also acquiring and investing in international payments companies, like Paystack in Africa, where it has no coverage. 
+
+**Customer Concentration**
+
+Large customers and partners are an issue for Stripe right now because they have more negotiating power. By one estimate, even before the pandemic, Stripe was [generating $350 million in revenue from Shopify alone](https://twitter.com/investing_city/status/1220482887906033664?s=20). That number has likely nearly doubled since January. That gives Shopify a lot of power over Stripe - the threat of spinning up their own payments solution on the back-end to match its front-end Shop Pay solution keeps Stripe’s take rate with Shopify razor thin. If Shopify leaves, that’s a material hit to Stripe’s revenue. 
+
+Stripe’s strategy, however, is focused on the long tail. It has millions of customers (including 1 million via Shopify) compared to ~3,500 for Adyen. It likely makes its margins on the long tail, while keeping prices low for big companies like Shopify for two reasons: 1) to keep Shopify away from competitors and 2) to collect the massive data from Shopify transactions that it can use to improve the product for all of its customers. 
+
+**Light on Integrations**
+
+Stripe is also light on integrations - it doesn’t come integrated with third-party accounting software out of the box, for example - and on vertical-specific features. Until recently, it didn’t have a point-of-sale solution, and Square, Adyen, and PayPal all market against Stripe highlighting that weakness.  
+
+Competitors with better integrations can steal customers who need those integrations from Stripe, force its margins down, and arrest Stripe’s long-term trajectory. Stripe’s competitors break into a few different categories:
+
+*   **Merchant Accounts.** Companies like Adyen and Visa’s Authorize.net are individual bank accounts for each business that typically have lower fees at high volumes.
+    
+*   **Direct Competitors**. PayPal’s Braintree is directly competitive with Stripe’s payment processing products. Plaid Payments (owned by Visa) offers a competitive product abroad with tighter bank integrations. 
+    
+*   **Vertical Solutions.** Companies like Toast offer products designed to solve more of a company’s need within a specific industry. Toast gives restaurants point-of-sale tools, online ordering, and even payroll management designed specifically for that use case. 
+    
+*   **SMB Solutions.** Square gives SMBs a full suite of tools, from its original POS product to online payment processing to online storefronts in addition to building direct relationships with end users through the Cash App. 
+    
+*   **Do it Yourself.** Startups like Finix and Moov.io give companies the tools to build their own payment solutions in house. 
+    
+
+On certain individual features, Stripe falls short of its competitors. Stripe’s bet is that by integrating more of the products that businesses need in one easy-to-implement, constantly improving solution while racing to fill gaps, it will be able to acquire and retain customers and move them to higher margin products. 
+
+It’s hard to take a Stripe bear case too seriously, because there is no way that the Collisons haven’t thought much more deeply about the challenges it faces than anyone else in the world. Even most of the people who responded to my tweet to offer bear cases responded with caveats like, “I’m so bullish on Stripe, but if I had to build a bear case…” The first response I received was from Cameo CEO Steven Galanis, who said:
+
+[
+
+![X avatar for @Mr312](https://substackcdn.com/image/fetch/$s_!TnFC!,w_40,h_40,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Favatars%2Fdefault-light.png)
+
+Steven Galanis@Mr312
+
+@packyM No. Best business I know of tbh
+
+1:17 PM · Aug 27, 2020
+
+7 Likes
+
+
+
+
+
+](https://twitter.com/Mr312/status/1298973008711704576?s=20)
+
+Stripe is explicitly organized to move quickly, and it fills gaps in software, hardware, and internationalization almost daily. This year alone, it has added five new countries, with plans to add more through the rest of the year. Despite the real challenges it faces, I could not be more bullish on the company. Y’all know how I feel about a good strategy, and Stripe’s is brilliant. 
+
+The bear case for Stripe largely exists in the present, whereas its strategy is built to compound the impact of a growing internet economy over a long time horizon. When Ezra Klein asked Patrick Collison which working CEO he admires most in a [2016 interview](https://open.spotify.com/episode/3xRJefpMnEJB3Qh42VnU8X?si=m0sNJAURRGuNUDqGizsqpA), he replied: 
+
+> _The way in which Jeff Bezos has been persistently and continually able to use time horizons as a competitive advantage is something I have deep respect for. There’s something quite deep about the notion of using **time horizons as a competitive advantage**, in that you’re simply willing to wait longer than other people and you have an organization that is thusly oriented._
+
+Stripe similarly uses time horizons as a competitive advantage. It began by serving an overserved segment of the market -- engineers at startups -- with a product that traded features for simplicity and speed. And it’s grown with them. Like Slack and Snap, Stripe takes advantage of the compounding effects of young users. At an increasing rate, startups become big companies, and young people become decision makers. While incumbents and other competitors focus upmarket, on the most lucrative opportunity in the present, Stripe focuses on compounding over time.  
+
+In his 2019 [Stripe Sessions keynote](https://www.youtube.com/watch?v=3WoA6mhNqwQ), Patrick Collison said that: 
+
+> > _Our strategy is very deliberately to serve both ends of the continuum (startups and enterprises), and every point in between. This ensures we can provide the most powerful functionality to the youngest companies in the world, and that we can provide the most forward thinking technology to the largest and most established._
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!9N8F!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F15ae1dd5-c154-4be0-8371-c81bdec5cee7_1600x461.png)
+
+](https://substackcdn.com/image/fetch/$s_!9N8F!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F15ae1dd5-c154-4be0-8371-c81bdec5cee7_1600x461.png)
+
+It is both moving upmarket and riding its growing customers upmarket, and is building out more features to capture more revenue from each. The high-end of the market is actually less profitable for Stripe’s core payments product (recall that large customers negotiate lower fees), but becomes more profitable as those companies buy more products from Stripe. It seems to be working -- 94% of enterprise customers use multiple Stripe products, and 84% use Stripe in multiple countries. 
+
+That builds a double compounding advantage -- Stripe’s revenue grows both as its customers’ revenue grows _and_ as they buy more Stripe products. The thing that I’m most excited to see in Stripe’s S-1 is its net dollar expansion -- how much more customers spend with Stripe each year. 
+
+This strategy relies on building moats around its business so that customers don’t switch to a competitor before becoming more profitable. Stripe, consequently, is a world-class moat builder. 
+
+In _7 Powers,_ Hamilton Helmer writes about the seven moats that a business can leverage to make itself “enduringly valuable.” The case studies in the book highlight companies that use one or maybe two of the seven to build moats that sustain profits over a long time period. 
+
+*   Netflix takes advantage of **scale economies** and **counter positioning**.
+    
+*   Facebook and LinkedIn build **network economies**. 
+    
+*   Oracle has high **switching costs**.
+    
+*   Tiffany’s has a powerful **brand**. 
+    
+*   Pixar’s “Brain Trust” is a **cornered resource**.
+    
+*   Toyota’s Toyota Production System demonstrates **Process Power**.
+    
+
+Stripe has all seven. 
+
+**Scale Economies**
+
+_The quality of declining unit costs with increased business size._
+
+Netflix is celebrated for spreading content development costs over such a large user base that it can develop new shows and movies for much less per subscriber than any competitor can. Stripe does the same thing for payment processing products. 
+
+On Invest Like the Best, John Collison told Patrick O’Shaughnessy: 
+
+> _This really is a scale business, and you can just go arbitrarily deep in improving the product in all sorts of incredibly detailed ways that would never be worthwhile for any individual business._
+
+As one of many examples, Patrick Collison tweeted that Stripe built a machine learning engine “to automatically optimize the bitfields of card network requests” that will generate an incremental $2.5 billion in revenue for Stripe customers in 2020. 
+
+[
+
+![X avatar for @patrickc](https://substackcdn.com/image/fetch/$s_!TnFC!,w_40,h_40,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Favatars%2Fdefault-light.png)
+
+Patrick Collison@patrickc
+
+We just launched a major new version of this optimization engine. We expect it will generate an incremental $2.5B of revenue for Stripe businesses \*this year\*.
+
+![X avatar for @patrickc](https://substackcdn.com/image/fetch/$s_!TnFC!,w_20,h_20,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Favatars%2Fdefault-light.png)
+
+Patrick Collison @patrickc
+
+We've been building an ML engine to automatically optimize the bitfields of card network requests. (Stripe-wide N is now large enough to yield statistical significance even in unusual cases.) It will soon have generated an incremental $1 billion of revenue for @stripe businesses.
+
+12:04 AM · Feb 22, 2020
+
+93 Reposts · 1.31K Likes
+
+
+
+
+
+](https://twitter.com/patrickc/status/1231006841129312262?s=20)
+
+I have no idea what a bitfield of card network requests is, but Stripe has enough customers that it’s able to make little optimizations like this that add up to huge numbers much more cheaply than competitors could, or customers could themselves. They can provide better performance for the same price. 
+
+**Network Economies**
+
+_The value realized by a customer increases as the installed base increases._
+
+There is debate about whether or not Stripe has network effects, but it does: Data Network Effects. This is related to, but subtly different than, Stripe’s economies of scale. 
+
+Economies of scale allow Stripe to work on edge cases because they are able to spread the cost of building niche solutions across millions of customers, many of whom will benefit from Stripe’s having built a solution to a very specific problem. 
+
+Stripe’s network effect comes from more users giving Stripe more data to use to detect fraud and improve acceptance rates. If I commit fraud on one website that uses Stripe, the other companies that use Stripe benefit from that information. Multiply that across billions of transactions, and Stripe has a treasure trove of data that any startup would have a nearly impossible time replicating. 
+
+**Counter-Positioning**
+
+_A newcomer adopts a new, superior business model which the incumbent does not mimic due to anticipated damage to their existing business._
+
+This is deeply related to the compounding effects of young users. Banks provided most of the payments infrastructure for the early internet economy, and selling into finance teams at large companies was in their DNA. While competitors targeted finance teams at large companies in a long, complex sales cycle that ended in long, complex integrations, Stripe let thousands and then millions of developers integrate their product quickly, no meetings required. While others focused on sales and marketing, they focused on product. Competitors couldn’t react, both because they couldn’t risk alienating existing clients, and because they couldn’t build excellent products. 
+
+On a 2018 [podcast](https://open.spotify.com/episode/4z0Zxl65r024gnIBkQHKLB?si=zOiUmaBVTV-9jD0n9SJg1w), Patrick Collison told Tim Ferriss: 
+
+> _If they \[startups\] can create a product that is so much better than the status quo that they start to get organic traction, once you attach a real sales and marketing engine to that, it’s going to be really frickin hard for a big company to effectively compete because this organizational transformation to being good at software is just profoundly hard._
+
+It’s easier for a product company to build a sales and marketing function than for a sales and marketing company to build a product culture.
+
+Stripe is clearly an excellent product company, and it attached a sales and marketing engine years ago. But it’s a very Stripe sales and marketing engine that focuses on quality content and audience expansion versus paid acquisition. If you want to see this for yourself, try searching things like “payment processor,” “online payments,” etc… I tried everything I could think of, and except for branded search (“Stripe”), Stripe was the only one of its competitors that doesn’t pay for search ads, because Stripe has always focused on building organic traffic through well-written content.
+
+Counter-positioning gave Stripe a multi-year head start on product and written communication. Along with its product, Stripe built a brand. 
+
+**Brand**
+
+_The durable attribution of higher value to an objectively identical offering that arises from historical information about the seller._
+
+In my search for contrarian takes on Stripe, I spoke to someone at a large ecommerce company about how they chose their payment processing tool. He told me that they went through a process with both Stripe and Adyen, and that the products had practically identical features. His point was that Stripe isn’t that special. 
+
+“So which did you choose?” I asked. 
+
+“We went with Stripe.” 
+
+That’s the power of brand. When the decision is neck-and-neck on features, you go with the one with the stronger brand. 
+
+So how does a company that essentially collects a tax on all payments build a glowing brand? Stripe does it in four ways, all designed to build loyalty early in a company’s life. 
+
+1.  **Build an Excellent Product Experience.** It’s impossible for a software company to build an enduring brand with a weak product. Stripe’s just works and adds delightful (read: revenue-generating or cost-saving with no additional dev work) features over time. 
+    
+2.  **Publish Great Content.** Patrick McCkenzie, a Stripe employee better known as [@patio11](https://twitter.com/patio11), [said that](https://www.kalzumeus.com/2019/3/18/two-years-at-stripe/), “Stripe is a celebration of the written word that happens to be incorporated in the State of Delaware.” Its API documentation is loved by engineers the world over. Stripe also publishes technology-related books and documentaries under [Stripe Press](https://press.stripe.com/), and an engineering magazine, _[Increment](https://increment.com/)_. It seems a bizarre move for a payments processing tech company, but both show a commitment to progress, expertise, and a passion for high-quality communication and craftsmanship to potential customers and employees alike. 
+    
+3.  **Help Companies Get Their Start.** Atlas allows companies to incorporate seamlessly. In the US, it makes a long, annoying, expensive process seamless. In other parts of the world, it makes the impossible possible. Over 15,000 companies have used Atlas to incorporate, one in four of which said they _would not have started their company without Atlas_. Additionally, Stripe bought Indie Hackers, a community for early stage product builders, to increase the probability that those young companies succeed and grow. Atlas and Indie Hackers expand the Total Addressable Market and build loyalty early. 
+    
+4.  **Smart, Passionate, Public Employees.** In an era when so many employees, even those at startups, are disgruntled with their employers, it is remarkable to see so many “Stripes” praising their employer so consistently. From the onboarding to the culture to the mission, Stripes seem to genuinely enjoy working together to grow the GDP of the internet. Stripe has attracted some incredible talent, and encourages them to publish their own thoughts on both related and unrelated topics freely. That sends signals to potential employees and customers that these are knowledgeable people you want to work with. 
+    
+
+In a head-to-head battle, Stripe will win on brand.  
+
+**Switching Costs**
+
+_The value loss expected by a customer that would be incurred from switching to an alternate supplier for additional purchases._
+
+Once a company uses Stripe, switching to a competitor like Adyen isn’t technically difficult, but it does require prioritizing resources to make it happen. One person I spoke to mentioned that they wanted to switch because Stripe’s customer support is spotty, but that they haven’t done it yet because of other, more pressing priorities. 
+
+In many cases, switching payment solutions is a bigger risk than it’s worth. Imagine that you sell a subscription product, like a paid newsletter. You collect your subscriber’s information once, and then every month, Stripe collects money from the subscriber and sends it to you. Now imagine you want to switch to a new provider. That would require going back to all of your subscribers and asking them to re-enter their credit card information. Many won’t re-enter their info, and you lose those subscribers and their revenue. 
+
+Switching costs increase as companies use more Stripe products. If my corporate card is with Stripe and I take loans from Stripe Capital, is it worth lowering my spending limit and losing access to next-day loans to save 10 bps in fees? For many companies, it’s generally a better financial decision to stick with Stripe.
+
+**Cornered Resource**
+
+_Preferential access at attractive terms to a coveted asset that can independently enhance value._
+
+Cornered resources can include very tangible things like patents or property rights, but Stripe’s cornered resource is that excellent people want to work together there. This point is directly related to some of the things we discussed in Brand, and also to the company’s co-founders. The Collisons seem to inspire genuine respect and loyalty from otherwise cynical people. 
+
+I don’t want to work for anyone, but Stripe is the one company for which I would seriously consider working. I’ve heard a variant of that idea from people who either wouldn’t work for anyone but Stripe or wouldn’t leave their current role to go anywhere except Stripe. PayPal and Adyen, while both seemingly well-run companies, don’t seem to inspire that same fervor. Over years and decades, the effect of hiring the best people and setting them loose on big problems together compounds and lengthens Stripe’s lead. 
+
+**Process Power**
+
+_Embedded company organization and activity sets which enable lower costs and/or superior product, and which can be matched only by an extended commitment._
+
+Stripe’s process power comes from the way that it works, its clear written communication, the people who work there, and the speed with which it works. 
+
+Stripe is an engineering company that focuses as much on the quality of its internal tooling as it does on the quality of its communications. A culture predicated on written communication and a dedication to internal tooling allows Stripe to work effectively remotely. It has more than 2,800 employees in 16 offices worldwide, and 22% of its engineering population is remote. Being good at remote is more important now than ever.
+
+Stripe also prioritizes speed. In his Invest Like the Best interview, John Collison said that, “When a paradigm changes, speed is of the essence. And speed is a defensible trait in companies.” Clear company objectives, powerful internal tools, and written communication combined with an exceedingly high caliber of employee allow Stripe to move faster by pushing decision making down in the organization. As a result, Stripe publishes updates to its core API 16 times per day. Its product gets better at an accelerating rate because of a series of linked decisions that would be nearly impossible for competitors to match. 
+
+This ties back into Stripe’s overarching strategy of compounding growth -- the more turns, the more compounding. 
+
+(@Patio11’s _[Two Years at Stripe](https://www.kalzumeus.com/2019/3/18/two-years-at-stripe/)_ essay is chock full of examples of things that contribute to Stripe’s process power.)
+
+Stripe’s 7 Powers work together to build moats around a business that is reliant on acquiring young customers, keeping them as they grow, and expanding the capabilities it offers them. As one example, Stripe’s Brand allows it to attract top talent, which is its Cornered Resource, which gives it much of its Process Power. While competitors can match Stripe on certain features and put downward pressure on price in the short-term, Stripe will win in the long-term, because its linked actions and accumulating advantages are nearly impossible for any competitor to match. 
+
+Stripe is undervalued today relative to its public peers, and its strategy sets it up to capture multiples more value in the future than it is today. So there are two questions: 
+
+1.  Why isn’t Stripe going public? 
+    
+2.  What is Stripe building towards long-term? 
+    
+
+Last week was an S-1 bonanza. Unity, Snowflake, Ant Financial, Asana, Desktop Metal, Amwell, GoodRX, and JFrog announced that they were going public, joining Palantir and Airbnb, which had already filed confidential S-1s. Stripe, worth more than all of them except for Ant on the private markets, is a glaring omission. So why isn’t it going public? 
+
+Elon Musk has said that he isn’t taking SpaceX, the only private US startup with a higher valuation than Stripe, public until it’s doing regular trips to Mars. Stripe isn’t going to Mars (although I’m sure it will power payments there one day), but it has a similarly big vision. Since its private market investors are likely aligned to Stripe’s time horizon, and with no financial pressure to go public, the company is optimizing for the freedom to make long-term decisions that may not make sense to the public market in the short-term.
+
+In an [interview with The Information](https://www.theinformation.com/articles/stripe-ceo-patrick-collison-never-flashy-is-fired-up) this weekend, Patrick Collison said: 
+
+> _As for any sort of IPO, there are core pillars of the product and the functionality we want to build for customers that we just haven’t finished. At some point, it’s likely we’ll either seek to \[go public\] or have to, but it’s just not a focus right now._
+
+Plus, it simply doesn’t have to. Stripe’s $600 million April raise brought cash on its balance sheet to $2 billion. Stripe has only raised $1.6 billion, suggesting that either it is profitable now, was very profitable at some point, has been able to borrow large amounts of money, or some combination of the three. 
+
+Its recent executive hires are the types of hires a company makes before it goes public. On August 5th, it [hired Mike Clayville](https://stripe.com/newsroom/news/mike-clayville) from AWS as its Chief Revenue Officer to lead its enterprise efforts and six days later, it [hired Dhivya Suryadevara](https://stripe.com/newsroom/news/dhivya-suryadevara) away from GM as its Chief Financial Officer. Suryadevara made $6.76 million last year at GM, most of which was in equity, suggesting that Stripe had to back up the truck. 
+
+If Stripe isn’t going public, what do those moves mean combined with everything else we’ve discussed? 
+
+In the short-term, Stripe is clearly going to move aggressively to fill holes in the map and its product in order to better serve enterprise customers. AWS is a canonical example of a product that pursued the same strategy as Stripe -- get into startups early and grow with them, while also moving upmarket to serve large enterprise clients. GM is a complex international business with a large lending arm. 
+
+Longer-term, Stripe is building not just the infrastructure on top of which money moves -- what it calls the Global Payments and Treasury Network -- and the platform on top of which companies are built. It is moving to own every piece of the journey. What can it do then?
+
+*   Provide access to increasingly large amounts of non-dilutive capital. 
+    
+*   Make equity investments in businesses based on its data, a la [Tencent](https://notboring.substack.com/p/tencent-the-ultimate-outsider). It already has an increasingly active venture arm. 
+    
+*   Understand the economics of any internet industry better than anyone in the world and suggest where budding entrepreneurs might build. 
+    
+*   Augment or replace large portions of finance teams with software, improving profits for its businesses. 
+    
+*   Forecast with a greater degree of accuracy than any internal model for a more complex and wide-ranging set of companies than something like Facebook’s [Prophet](https://facebook.github.io/prophet/). 
+    
+*   Advise governments on how to leapfrog the banking system. Africa is a noticeably large hole in the map, and one that Sqaure’s Jack Dorsey was planning on  physically inhabiting himself until his board stopped him.
+    
+*   Facilitate M&A among and between customers. 
+    
+*   Take companies through the entire journey, from incorporation to going public. 
+    
+
+Regarding that last bullet, I wouldn’t be surprised to see Stripe acquire Carta to build a robust secondary market for startup equity that competes with the notion of going public. One more potential reason that Stripe isn’t going public might be that it’s planning to change the way that going public gets done. 
+
+One of Stripe’s biggest points-of-failure right now is that it’s built on top of existing banking and economic infrastructure. It’s hard to imagine that Stripe will remain content to pass on hefty bank and credit card fees to customers. How much more creative leverage would entrepreneurs unlock if they got ~2% of their revenue back to spend on more productive uses? 
+
+To that end, Stripe was an early supporter of crypto project Stellar, and I expect to see much more activity either in crypto or other areas that enable Stripe to rebuild economic infrastructure from the ground up. While Stripe has long touted its desire to work with the existing system, it started calling itself economic infrastructure for a reason -- it wants to improve the way we transact at a more foundational level. 
+
+Building the economic infrastructure for the internet, and ultimately the Metaverse, is a massive responsibility. I wouldn’t trust Mark Zuckerberg with it. But Stripe possesses another cornered resource - the Collisons themselves. Their demonstrated thoughtfulness, appreciation of nuance, and dedication to intellectual rigor make them the most appropriate stewards of a new economy. 
+
+Sadly (since there’s almost no equity I’d rather own), Stripe is not going public any time soon. It is at the very beginning of a decades-long journey during which it will compound the internet’s growth, and compound with it to become one of the world’s most valuable companies. If Stripe is successful, it will transform the economy, and I’ll be here telling everyone to appreciate it even more. 
+
+_Thanks to [Dan](https://www.linkedin.com/in/dan-mccormick-969117101/) and [Puja](https://www.linkedin.com/in/puja-bhatt-9062ba65/) for editing, and to [Michele](https://twitter.com/michelecanzi) for help with the research!_ 
+
+Thanks for reading, and see you on Thursday!
+
+Packy
+
+#### Discussion about this post
+
+### Ready for more?

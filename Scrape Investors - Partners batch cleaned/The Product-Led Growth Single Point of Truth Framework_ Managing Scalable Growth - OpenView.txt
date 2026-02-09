@@ -1,0 +1,206 @@
+# The Product-Led Growth Single Point of Truth Framework: Managing Scalable Growth
+
+I once discovered an AI-powered content optimization product while reading an article. Captivated by what the author, a [SaaS content marketing](https://victoreduoh.com/content-marketing-for-saas/) expert I respect, said of the product, I signed up for a free trial.
+
+I spent the next 23 minutes fumbling around, trying to get value from the product. And then I gave up.
+
+Two weeks later, they offered me a free, three-month pro subscription in this follow-up email:
+
+![Email screenshot](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+After my first experience with this product, any email I get from them just makes me remember how much I struggled. So despite their offer being worth almost $1,000, I haven’t taken them up on it.
+
+Is it that this product isn’t valuable to my work? If I thought it wasn’t, I wouldn’t have bothered to sign up in the first place.
+
+My experience is a classic example of the impact of the empathy gap between products and their end users.
+
+There’s a graph from UserTesting a few paragraphs down that shows I’m not alone on this. In short, a [study by PwC](https://www.pwc.com/us/en/advisory-services/publications/consumer-intelligence-series/pwc-consumer-intelligence-series-customer-experience.pdf) revealed that speed and convenience mattered to over [70% of customers](https://www.pwc.com/us/en/advisory-services/publications/consumer-intelligence-series/pwc-consumer-intelligence-series-customer-experience.pdf). Also, [research by Adobe/eConsultancy](https://cmo.adobe.com/articles/2020/2/digital-trends-study--2020-is-the-year-of-cx-centric-business-tr.html) showed companies that prioritized and managed customer experience effectively were [3X more likely than](https://cmo.adobe.com/articles/2020/2/digital-trends-study--2020-is-the-year-of-cx-centric-business-tr.html) their competitors to exceed outlined business goals in 2019.
+
+As you can imagine from these stats, the empathy gap (or customer experience) problem is a deal-breaker. If not tackled, it can make or break your business, as prospects would churn before they reach user-retaining product value points.
+
+**Related: [Let’s Stop Calling Churn a Customer Success Problem](https://openviewpartners.com/blog/churn-customer-success-problem/)**
+
+On the other hand, manage it well and the statistics are in favor of you growing your business.
+
+So how can you manage the empathy gap in your product, get new users to see value quickly, and retain them to grow your SaaS business?
+
+First, let’s talk about the empathy gap between SaaS products and end users.
+
+## The extent of the empathy gap between products and end users
+
+Since launching in 2007, UserTesting, a product that uses real human insight to bridge the gap between products and users, has helped thousands of companies deliver better customer experiences.
+
+Despite this achievement and the abundance of other CX SaaS tools out there, the problem of poor customer experience persists.
+
+It’s still such a big deal that on [UserTesting’s homepage](https://www.usertesting.com/), you can’t miss this giant graph that highlights the current, huge empathy gap between products and end users:
+
+![Graph](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+Think about the information in the graph above for a second. At the same time, think aboutthis question: Are you among the 75% of companies that think they’re user-centric—but only 30% of your users believe that you are?
+
+## How to manage the empathy gap (and drive scalable growth)
+
+The first critical question when embarking on any business endeavor is “Why?”
+
+So let’s begin there: Why should you manage the empathy gap in your product? And by doing this, would it help grow your business?
+
+I found answers to both questions in a [study by PwC](https://www.pwc.com/us/en/advisory-services/publications/consumer-intelligence-series/pwc-consumer-intelligence-series-customer-experience.pdf). Findings showed [42% of end users would pay](https://www.pwc.com/us/en/advisory-services/publications/consumer-intelligence-series/pwc-consumer-intelligence-series-customer-experience.pdf) more if given a friendly, welcoming experience. And across the US, [65% of customers](https://www.pwc.com/us/en/advisory-services/publications/consumer-intelligence-series/pwc-consumer-intelligence-series-customer-experience.pdf) said a positive experience with a product was more influential than great advertising.
+
+Do you agree those are excellent answers to _why_ you should take the management of the empathy gap in your product seriously as a way to drive growth?
+
+Good.
+
+Going back to my story about struggling to see value in the product I discovered in an article, you can manage the empathy gap (and scalable growth) by:
+
+1.  Leaning towards product led growth
+2.  Leveraging the product led growth single point of truth framework
+
+### **1\. Leaning towards product led growth**
+
+In 2016, OpenView founder Scott Maxwell discussed the increasing need for product management to go beyond its usual limits. [He said](https://expand.openviewpartners.com/product-managers-its-time-to-move-from-whole-product-to-product-based-go-to-market-304467093357):
+
+_“…the role no longer revolves only around making the product more valuable to_ **_users_**_. It now includes making the product more valuable to the_ **_business_** _by identifying ways to leverage the product as a tool to execute critical go-to-market activities.”_
+
+OpenView had just begun to talk about product led growth (PLG), a term they coined.
+
+Now in 2020, moving towards PLG isn’t just a dependable go-to-market strategy for hundreds of SaaS companies—it aligns with what end users want.
+
+Again, recent data prove this. TrustRadius asked over 1,035 software buyers what influenced their software purchase decisions in their [**_2020 B2B Buyers Disconnect_** study](https://www.trustradius.com/vendor-blog/buying-b2b-software-2020).
+
+Their top four responses:
+
+![Responses](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+And when asked what boosted their trust to buy a software product, their answers were no different:
+
+![](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+Based on this research by TrustRadius, the top three things prospects trust—referral, free/trial account and personal experience with your product—also influence their buying decisions.
+
+Add those up and what you get is a call for you to move towards PLG:
+
+![What is product led growth?](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+Are you finding it hard to make sense of how leaning into product led growth helps you manage the empathy gap in your product? Do you want to know how aligning with the three things prospects trust the most when buying software grows your business?
+
+Consider the experience I shared earlier in this post:
+
+*   ✅ I discovered a product I didn’t know existed from an article by someone I trusted (**_a referral_**)
+*   ✅ I signed up to take the product for a spin (**_free/trial account_**)
+*   ❌ I didn’t go back to use the product after struggling to get to a meaningful value point (**_my experience with the product_**). You can tackle this one with the product-led growth single point of truth framework. More on that later.
+
+The first thing that got me to consider the product was a referral, which is a core trait of [successful product-led companies](https://medium.com/high-alpha/5-traits-of-successful-product-led-growth-companies-a4cbc26af29). Blake Bartlett, a Partner at OpenView, lists it as the top trait of PLG companies.
+
+In a discussion, Blake advised companies to invest “heavily in user research, UX and UI design, and product marketing, focusing on building product features [**to engineer virality.**](https://medium.com/high-alpha/5-traits-of-successful-product-led-growth-companies-a4cbc26af29)”
+
+When you do this and achieve some level of virality for your product, you’ll get free referrals—just like that product I discovered in an article.
+
+And as [Blake also highlighted](https://openviewpartners.com/blog/what-is-product-led-growth/#.XyRxlZ5KjIV) in another post, it’s how most new users discover Slack. Once you get people to start talking about your product in the form of referrals and notable mentions, new customers discover it too.
+
+But if you’re an early-stage SaaS product no one’s talking about yet, you can still capture and convert relevant attention with a formula called [product-led storytelling](https://openviewpartners.com/blog/product-led-storytelling/):
+
+![Product led storytelling](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+\[[source](https://victoreduoh.com/saas-content-formula/)\]
+
+Whether people talk about your product or you talk about your product, the next step in moving towards PLG is to ensure your sign-up process is easy.
+
+Discussing this next trait of thriving PLG companies, Blake advised:
+
+“The second key trait of a PLG company is an incredibly easy sign-up process. Whether it’s offering account creation without a credit card, sign-sign-on, or other hacks, you should be looking to minimize all friction in your sign-up process.”
+
+The third trait mentioned by Blake—deliver value quickly—is where most SaaS products fail to close the empathy gap.
+
+If you recall, it’s where the product I discovered via an article (through an expert referral) lost my attention and business. I just couldn’t see the value.
+
+As observed by Scott Maxwell, closing this empathy gap goes beyond general product management. It goes beyond building your product to leverage some form of virality and get referred. It goes beyond making it discoverable or with an easy sign-up process.
+
+To win, Scott advised you make your“product more valuable to the **business** by identifying ways to leverage the product as a tool to execute critical go-to-market activities.”
+
+In order words, managing this empathy gap to achieve scalable growth isn’t only about building a great product. There are many great products out there backed by fantastic engineering and design talents.
+
+In an [interview with Better Product](https://betterproduct.community/better-product/how-a-product-led-company-utilizes-storytelling-instead-of-feature-pushing/), Lessonly CMO Kyle Lacy addressed this: “There’s just way too many competitors; the market is wide open. It’s your ability to tell a story that delivers a different value to somebody than just a feature set.”
+
+It’s not also exclusive to having an excellent onboarding experience that augments your marketing and sales teams’ efforts.
+
+Wes Bush, convener of the Product-Led Summit, dealt with this in a piece detailing [how to build a user journey map](https://productled.com/how-to-build-a-user-journey-map/). He said, “You can have the best onboarding experience, but if you don’t get people to experience that final outcome, everyone would think your product sucks.”
+
+[Growth is a team sport](https://openviewpartners.com/blog/building-system-for-growth/), according to Scott Hanford, who noted growth in a tech company to be “a [system of many factors](https://openviewpartners.com/blog/building-system-for-growth/#.XySOrZ5KjIW) that go beyond traditional team structures. Knowing this, you must build the right infrastructure and approach to solve these problems cross-functionally.”
+
+Going beyond _traditional team structures_ that _solve the empathy gap problem cross-functionally_ is where the product-led growth single point of truth framework comes in.
+
+### **2\. Leveraging the product-led growth single point of truth framework**
+
+The product-led growth single point of truth framework is a visual illustration, showing how all teams in your company can focus on the two most important things: the customer and the product.
+
+![PLG SPoT Framework](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+Since 1998, the SaaS industry has been on a steady rise. Today it’s incredibly competitive with over [15,529 SaaS tools](https://cardconnect.com/launchpointe/tech-trends/rise-of-saas)—customers have many options in almost every niche.
+
+And among these many similar product options vying for users’ attention in every niche, most have identical features and make the same claims. This duplication of products doing and saying the same things has pushed us into the end-user era of building software.
+
+[TrustRadius’ study](https://www.trustradius.com/vendor-blog/buying-b2b-software-2020) cited earlier reflects the current scenario. It also explains why users increasingly want to try out your product for themselves before committing to a paid, long-term subscription.
+
+As I’ve outlined so far, leaning towards the product led growth traits of virality and an easy sign-up process helps you take the first steps towards attracting new users to your product.
+
+But attracting prospective users’ attention to visit, sign up to experience and decide if your product is worth the hype is only half the battle.
+
+To win, you also need to deliver value quickly. That means all teams in your organization must bring their A-game every time.
+
+And that A-game requires your teams’ collective focus on **_a single point of truth_**—what keeps any business alive: Customers’ satisfaction and the continual optimization of your product to meet customers’ changing needs.
+
+Doing this forms a significant [pillar of successful product led growth](https://openviewpartners.com/blog/pillars-of-plg/#.XyQWrZ5KjIV) companies, as observed in a recent article by OpenView Partner Mackey Craven:
+
+![User-driven feedback loop](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+The product-led growth single point of truth provides the compass to navigate this continuous user-driven feedback loop across your organization.
+
+It ensures all teams keep their focus on the customer and optimizing the product for them.
+
+Ultimately, everyone gets judged on a single goal: Delivering value as fast as possible to convert, retain and turn prospects into paying customers and loyal advocates.
+
+## How the product led growth single point of truth helps manage the empathy gap (and growth)
+
+At its core, this framework unifies your teams’ focus. Its goal is to get everyone across your company, irrespective of their function, to improve the romance between users and your product for optimal value delivery.
+
+And with this framework, the initial arrangement doesn’t matter. What matters is how it binds each team in your organization to a three-dimensional view. Take the position of marketing below, for example:
+
+![Framework](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+As this diagram shows, it doesn’t matter which teams the unique arrangement in your company places to the right or left of the marketing team.
+
+What matters is that your marketing focuses primarily on satisfying the customer and doing its part to optimize the product for the same.
+
+Then, to its left and right, it must make timely information available to its closest teams and seek their insights on their take on optimizing its function to deliver value to users quickly.
+
+When everyone does this, data obtained from how customers use your product becomes available to relevant stakeholders.
+
+Ultimately, this data gives outward facing teams relevant insights to win new business when talking to your target audience:
+
+![Product data](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+## How to use the product-led growth single point of truth framework to drive business outcomes
+
+First, identify the empathy gap in your product by gathering customer feedback to understand how users feel about the experience you think you’re delivering.
+
+[UserTesting’s CX solutions](https://www.usertesting.com/solutions/executives) come highly recommended for this—they use real human insights to outline the disparity between how your customers feel compared to what your product is offering.
+
+![UserTesting screenshot](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+Second, get team leaders on the same page. Once you’ve identified the empathy gap, get team leaders to experience it first hand.
+
+In a recent LinkedIn post, [Okta CEO Todd McKinnon](https://www.linkedin.com/feed/update/urn:li:activity:6695129021539221504/?commentUrn=urn%3Ali%3Acomment%3A\(activity%3A6695129021539221504%2C6695214988216279040\)) shared the importance of taking this next step:
+
+![Okta CEO](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+And finally, use the product-led growth single point of truth framework to arrange your team to bind and align relevant teams. Aim for an arrangement that gets information to relevant teams as quickly as possible.
+
+A [work management tool like Workfront](https://www.workfront.com/) can help you achieve this optimal team and information distribution organization:
+
+![Workfront screenshot](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+When you take these steps, you can reduce the time to deliver users value.
+
+And when you deliver value faster, the bond between your product and users gets much stronger. As this happens, the empathy gap shrinks and customers get a better experience.
+
+Your reward? Growth.

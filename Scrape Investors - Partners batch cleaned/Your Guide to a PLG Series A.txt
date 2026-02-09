@@ -1,0 +1,110 @@
+# Your Guide to a PLG Series A
+
+It’s time to stop judging product-led companies by the same old SaaS metrics — or we’ll overlook the next Canva or Slack.
+
+Real talk: [product-led growth (PLG)](https://openviewpartners.com/product-led-growth/) companies don’t grow exactly like traditional SaaS companies. While this can work in their favor—especially at scale—it can haunt early-stage PLG companies who don’t quite check the usual fundraising boxes.
+
+Investors tend to expect SaaS companies to generate revenue by the time they’re raising a Series A. The high-potential PLG company, on the other hand, might have cracked the code on acquiring new users on the cheap and hasn’t yet turned their attention to monetization.
+
+VCs have traditionally looked for evidence of sticky products (high renewal rates) that solve a genuine pain among deep-pocketed enterprises (large deal sizes). Again, that doesn’t apply to your average PLG startup that might have turned on self-service purchasing for individual users or small teams, and therefore sees deal sizes and retention rates that look more like a B2C business.
+
+I wanted to shine a light on the specific characteristics and metrics that forward-thinking investors look for when backing a PLG startup at Series A. To help, I sought out a powerhouse of early and expansion stage PLG investors from OpenView along with our friends at Boldstart, CRV, Point Nine, Primary, Stage 2, True, and Wing.
+
+Read on to learn what metrics investors look for at this stage, differences in investing approaches across folks, and my swag at a PLG Series A checklist.
+
+_Special thank you to the investors who contributed to this piece. In alphabetical order by last name: [Blake Bartlett](https://www.linkedin.com/in/blakebartlett/) (Partner @ OpenView | [PLG123](https://openview.vc/3QKdptT)), [Liz Christo](https://www.linkedin.com/in/lizchristo/) (Partner @ Stage 2), Louis Coppey (Partner @ Point Nine), [Zachary DeWitt](https://www.linkedin.com/in/zachary-dewitt-a5a8b816/) (Partner @ Wing | [Notorious PLG](https://notoriousplg.substack.com/)), [Shomik Ghosh](https://www.linkedin.com/in/shomik-ghosh-a5a71319/) (Partner @ Boldstart | [Software Snack Bites](https://shomik.substack.com/)), [Caitlin Bolnick Rellas](https://www.linkedin.com/in/caitlinbolnick/) (Principal at CRV), [Ariel Winton-Jones](https://www.linkedin.com/in/arielwintonjones/) (Principal @ True), and [Cassie Young](https://www.linkedin.com/in/cassyoung/) (Partner @ Primary)._
+
+## The PLG Series A checklist
+
+When asked about the top three characteristics they look for in a PLG company at Series A, one answer threw me for a loop. Is the company \*actually\* PLG or just PLG-in-name-only (the dreaded PLino 🤣)?
+
+> “This may sound obvious, but given that many seed-stage companies rely on some degree of founder-led selling even if the plan is to be a PLG organization, by the time of the Series A companies must have real data to support that the GTM motion is indeed a PLG one. This is important for the sake of CAC/unit economic implications.” – Cassie Young, Primary
+
+Blake @ OpenView—the creator of the [PLG123 video series](https://openview.vc/3QKdptT)—had a simple litmus test:
+
+*   Is the product live?
+*   Can someone sign up for the product themselves within a couple of minutes?
+
+It’s important for the founding team to “get” PLG at a fundamental level. This entails the founder deeply understanding their user persona, the user’s workflows, and how the product fits into that workflow to drive real outcomes.
+
+Zach @ Wing—author of the [Notorious PLG](https://notoriousplg.substack.com/) newsletter—summarized it well, emphasizing that PLG founders have a keen eye on both product and distribution:
+
+> “The first thing I look for at the Series A is if the founder understands both the user pain point and the user journey. It’s rare that a founder has a product mindset and a deep understanding of how the product will be adopted and spread inside and across organizations at scale.” – Zachary DeWitt, Wing
+
+Other founder characteristics that folks cited include:
+
+*   Data-driven decision making (Liz @ Stage 2)
+*   Relentlessness (Caitlin @ CRV)
+*   Thoughtfulness around GTM strategy and vectors to create a distribution advantage and/or [virality](https://openviewpartners.com/blog/how-to-position-nearly-any-plg-product-for-virality/)/network effects (Ariel @ True)
+*   Strong vision on how to win the market (Louis @ P9)
+*   Growth mindset and fast pace of learning and iterating on ideas (Liz @ Stage 2)
+
+From there, it comes down to demonstrating early signs of product-market fit and initial traction. As Caitlin @ CRV described, “It could be free or paid usage, but at Series A I should be able to get an understanding of who your customers are, why they choose your solution, and how they ultimately use it and can’t live without it.”
+
+PLG companies can do this through a variety of metrics—although product usage behavior is the best source. Specific metrics folks cited include usage frequency (Cassie @ Primary), usage growth (Shomik @ Boldstart), and PLG funnel metrics such as activation or usage retention (Blake @ OpenView).
+
+I took a shot summarizing these characteristics into a handy PLG Series A fundraising checklist. (Feel free to share it 😊).
+
+## ![](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+## The $1 million question: monetization
+
+Given the market meltdown, I suspected that investors would need to see PLG companies monetize ahead of their Series A fundraise.
+
+I thought wrong. Revenue is still optional \*as long as\* companies demonstrate willingness to pay and have a good understanding of how they’ll monetize (pricing model, value metric, where the paywall goes, etc.).
+
+Of course, revenue is the clearest signal to prove willingness to pay beyond a reasonable doubt. As Zach @ Wing described, “if a startup is growing users quickly with high retention, it should be able to turn on monetization and scale revenue quickly.” (He also caveated that in today’s environment, more and more investors are requiring revenue.)
+
+Ariel @ True agreed, referencing that “there are a number of free and open-source software tools that users are willing to leverage as long as they’re not asked to pull out their credit cards.”
+
+Blake @ OpenView summarized the sentiment well:
+
+> “If you have monetization and can show it’s working, that’s nice to have,” he said. “But it’s not a prerequisite. You can have evidence of product-market fit and of growth momentum by looking at the other PLG funnel metrics, but stopping on conversion… You still should have a hypothesis about where the paywall will go, how much it will cost, etc.”
+
+It’s worth noting that turning on monetization too early can potentially backfire. Monetization experiments too early could go against growing the user base exponentially, said Louis @ P9 who cited viral product examples like Loom and Typeform. Or a company could put up the paywall, but find that monetization isn’t yet predictable and it slows down after an initial burst.
+
+Still, don’t let that stop you from testing monetization. “As long as you can tell a logical story about the results (good or bad) and describe a sound strategy going forward, I wouldn’t artificially delay monetization to improve fundraising results,” Blake @ OpenView warned.
+
+## PLG metrics that matter
+
+If monetization isn’t required, what metrics do investors want to see?
+
+“There’s a balance between only PLG metrics versus metrics weighted more heavily for PLG companies,” explained Shomik @ Boldstart, author of the [Software Snack Bites](https://shomik.substack.com/) newsletter.
+
+In addition to standard SaaS metrics like gross and net retention, investors cited the following PLG metrics (in no particular order):
+
+*   **Acquisition**: “What are top-of-funnel high-intent leads?” (Shomik @ Boldstart)
+*   **Sign up growth**: “Sign ups and in particular the growth rate of sign ups.” (Blake @ OpenView)
+*   **PLG funnel metrics**: “I like to analyze the funnel metrics from sign ups to activations to conversion to paid.” (Zach @ Wing)
+*   **Activation**: “Has the company uncovered a ‘gateway’ behavior or use case that is tied to stickier retention downstream?” (Cassie @ Primary)
+*   **Time to value**: “How quickly does a user actually start using the product?” (Shomik @ Boldstart)
+*   **Usage behaviors**: “I definitely pay more attention to usage behaviors. For example for an open-source company, what does the community around it look like and how does that community translate into product/real use cases?” (Caitlin @ CRV)
+*   **User engagement**: “Greater emphasis on weekly active users/monthly active users (WAUs/MAUs) and user engagement over time.” (Liz @ Stage 2)
+*   **User love**: “Evidence of end-user love for the product and the value it provides.” (Ariel@ CRV)
+*   **User retention**: “It’s important to me that we see where it’s stabilizing on a cohort basis rather than an absolute number. Ex: if we see that there is 40% user retention at month three and it’s stable from then on, we have a baseline to work from.” (Liz @ Stage 2)
+
+The volume of different PLG metrics to consider can be overwhelming even for the most data-driven founder. With that in mind, Liz @ Stage 2 urged founders to pick a clear North Star metric that the entire team rallies around during each stage of growth.
+
+## Breaking down ‘good’ vs. ‘great’ PLG benchmarks
+
+If you’ve made it this far, you know that there’s plenty of nuance that goes into evaluating and backing a PLG company at Series A.
+
+Caitlin @ CRV summed it up well: “I really struggle giving benchmarks because it’s just so variable based on team and market they are going after, but typically you are looking for greater than 3x growth (ideally in either/or users and revenue!) and then standard best-in-class Series A metrics.”
+
+But nuance doesn’t give you a clear way of understanding whether you’re on the right track.
+
+So I put each investor on the spot to name a ‘good’ and ‘great’ benchmark across four metrics: ARR (if relevant), user growth, net dollar retention (NDR), and user-level cohort retention (includes free and paid users). Here’s the TL;DR.
+
+![PLG Series A Fundraising Metrics](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+Unless otherwise noted, these metrics are shown on an annualized basis. PLG Series A companies may not have a full year of data on renewals or upsells—and that’s OK. Plan to measure these on a cohort basis in order to get investors comfortable with how the metrics will look as more time has elapsed. When looking at user-level cohort retention, keep in mind that high churn is acceptable in a PLG business as long as the retention curve flattens out over time and your loyal users stick around.
+
+## Final thoughts
+
+In order to break away from the pack, here are some bonus metrics to \*really\* start a VC feeding frenzy:
+
+*   PLG characteristics: You have an opportunity to embrace PLG characteristics such as [usage-based pricing](https://openviewpartners.com/usage-based-pricing/), FinTech revenue, network effects, or community-led growth (Blake @ OpenView)
+*   Virality: “If you can get to a viral coefficient close to one, then monetizing too early isn’t right. I wrote about this [here](https://medium.com/point-nine-news/understanding-viral-growth-in-saas-45eea50d8900).” (Louis @ P9)
+*   Customer love: “When customers are vocal about your product solving an acute pain point publicly, the company is onto something big.” (Shomik @ Boldstart)
+
+Leverage these resources as a quick check to see whether you’re on the right track to position your PLG startup for a successful Series A. And remember, most businesses aren’t succeeding at everything all of the time—the story you tell around your metrics is as important as the metrics themselves.

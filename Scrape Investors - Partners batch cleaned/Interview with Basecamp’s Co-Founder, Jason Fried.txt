@@ -1,0 +1,656 @@
+# Interview with Basecamp’s Co-Founder, Jason Fried
+
+## Founder Coffee episode 040
+
+![](https://images.storychief.com/account_481/jason-fried-on-founder-coffee_cb95340dc755c827db9307ee782a86eb_800.JPG)
+
+I’m Jeroen from Salesflare and this is Founder Coffee.
+
+Every few weeks I have coffee with a different founder. We discuss life, passions, learnings, … in an intimate talk, getting to know the person behind the company.
+
+For this fortieth episode, I talked to a very special guest, Jason Fried, Co-Founder and CEO of Basecamp, the famous project management and communication platform.
+
+Jason loves creating things he wants and selling them to other people like him. That’s how he started way back with selling stereo equipment and cordless phones and is now selling software to help teams do a better job.
+
+The very first thing we did when starting Salesflare was reading his first book and almost manifesto “Getting Real” and it shaped a lot of our early thinking at Salesflare, so I’m very glad to have him on the show.
+
+We talk about how to go about remote working the right way, why he puts sustainable growth over investor fueled growth, and how to apply stoicism in life and in business.
+
+Welcome to Founder Coffee.  
+
+  [![Try Salesflare's CRM](https://lib.salesflare.com/images/sf-blog-footer-transparent-800.png)](https://salesflare.com/)
+
+* * *
+
+Prefer listening? You can find this episode on:
+
+*   [Spotify](https://open.spotify.com/show/5mAWNhuDfHqkQcpQWHbkHq)
+*   [iTunes / Apple Podcasts](https://itunes.apple.com/be/podcast/founder-coffee/id1361209224)
+*   [Google Play](https://play.google.com/music/m/Itm3izqy3zjcn3w6lmhmveqofhe)
+*   [Soundcloud](https://soundcloud.com/foundercoffee/040-jason-fried-basecamp)
+
+* * *
+
+Jeroen:
+
+Hi everyone, we’re all live here today with Jason Fried of Basecamp. Hey, Jason!
+
+Jason:
+
+Hello.
+
+Jeroen:
+
+It’s great to have you on Founder Coffee and today we’re even recording this podcast interview live in the SaaS Growth Hacks group on Facebook. You’re the co-founder and CEO of Basecamp and for the few people listening to this that don’t know yet, what do you guys at Basecamp do exactly?
+
+Jason:
+
+Sure. Well, we’ve been around for about 20 years in Basecamp. The product’s been around for about 16 or 17 years. Basecamp, it would be described to most people as a project management tool. It’s a place to keep track of all the work that has to get done, who’s responsible for doing it, when are things done, all the discussions about the project in one place – documents, files, schedules, all that stuff happens in one place. And what’s different about Basecamp than most tools is that Basecamp keeps it all in one place so all the tools you need, chat, messaging, tasks, scheduling, file storage, that kind of stuff all happens inside Basecamp. You don’t need four or five or six separate tools all trying to patch together just to do a project work, so that’s what Basecamp is all about.
+
+Jeroen:
+
+So in a sense it’s also more like a communication tool than a normal project management tool.
+
+Jason:
+
+Yeah, it’s not about broadcasting charts or graphs, it’s about communication. So internal communication, project communication, [client communication](https://getuku.com/articles/client-communication-best-practices-for-accounting-firms), and then keeping all the different assets and resources that you’re going to need to get the project done all in one place. So everyone knows where everything is and no one has to wonder, “Where do I go to find that?”
+
+Jeroen:
+
+That makes sense. I read that. And actually Basecamp started like many of us listening and many fellow entrepreneurs had on Founder Coffee from scratching your own itch from the web design agency you had and from trying to build a great tool there to collaborate. But where did your journey really start? Like before the web design agency and all that, what was the earliest thing you sort of did in your childhood or youth that you would qualify as entrepreneurial?
+
+Jason:
+
+I’ve always been interested in selling stuff. So back when I was, oh gosh, I don’t know, 12-13, something like that, I started selling stereo equipment and at the time cordless phones, so I got cell phones but like cordless phones. I’m 46. So back then there weren’t cell phones when I was really, really young. So I would just sell electronics equipment to my friends. Like these are things that I wanted so I’d find out how to buy them cheap and I’d sell them to my friends for more money.
+
+Jason:
+
+I started doing that and I started making software at some point. I started learning how to do that and I started selling that and then I started selling shoes. I would sell everything I could find. It was just something I’ve always been interested in. So I’ve been doing that ever since I’ve been, I’d say probably 12 or 13 or older and it’s always been the same thing though. I would only sell something that I wanted to buy for myself. So I’m not someone who likes to just sell stuff. I like to sell things that I like, that I want, which is why today I make software that I use, that I want. That’s the only way I’ve ever known how to do things and I think it’s the best way to do things.
+
+Jeroen:
+
+Yeah. And at some point, from selling all these different things, you went into software. I’ve been reading and listening to some of the interviews you did in the past and you mentioned at some point you built a music library tool for yourself.
+
+Jason:
+
+Yeah. So I was collecting music when I was younger – CDs and tapes and stuff and I would loan them out to friends and I’d never get them back. I don’t know where they went. So I was kind of sick of losing things so I ended up learning how to make software in this thing called FileMaker Pro, which most people probably don’t know. But back then it was a really nice way to make a database of something and then layer your own graphical interface on top of it. So it was a way for me to make something.
+
+Jason:
+
+I didn’t know how to do programming. I mean FileMaker Pro is a database so I don’t have to figure out how to make a database but I can make an interface and then attach things together to make it work. And so I did that for myself and then I started selling it on AOL actually way before the internet was around and I said, “If you like this thing, send me 20 bucks.” And I started getting $20 checks in the mail. So I had made one for my video collection and then I made one for my book collection. I just started making these things that I needed for myself and then other people would need them too and I put a price on them and sold them. And that’s what I ended up doing – even today.
+
+Jason:
+
+Basecamp is something we use at Basecamp every single day to run our entire company and communicate. We don’t use email. We don’t use Slack. We don’t use any of that stuff. We use Basecamp alone to do everything that we do at Basecamp. And we’re about to launch a new product called Hey, hey.com, which is a new email service. We built it for ourselves. I wanted something better than what we had so we built something for ourselves and now we’re going to find other people who want it too. That’s how I’ve always done things – it traces all the way back to the music collection thing, to me it’s a very direct line between then and now.
+
+Jeroen:
+
+Yeah, it’s still all SaaS-y in a way you could say.
+
+Jason:
+
+Yeah. I want something to exist in the world because I’m not satisfied with the things that do exist and so I will make that thing and then I will find other people like me. So what I don’t do is I don’t ask people what they want. I don’t go around asking them what they want. I don’t do market research. I just build something that I want and then my task is to find other people like me who have similar problems, who want similar things that I do. So that’s how I put my energy into it versus trying to find the people to sell to. Initially, I just sell to myself and then find other people like me.
+
+Jeroen:
+
+Yeah. It makes it easier I suppose to put your passion in it to understand what people want instead of having to really go into another person’s mind and try to dissect that.
+
+Jason:
+
+Yeah. It’s really, really hard to truly know what someone else wants or needs because you’re relying on them to describe it to you. And it’s hard to describe exactly what you want really. It’s hard to describe exactly what you’re struggling with and people reach for the most convenient descriptions but those aren’t necessarily the real reasons and the real things. So when you scratch your own itch and make your own thing for yourself, you have a much deeper understanding of what you need to solve the problem for or what you’re struggling with and then you also know when that problem kind of goes away. When that itch has been scratched because you go, “Ah, that thing I’ve been wanting to do, I can now do.”
+
+Jason:
+
+I know that for certain that’s true to me, versus when you build something for other people you have to keep asking them, “Is this right? Is this right? Is this what you want? Is this what you wanted?” And people again have a hard time really answering me.
+
+Jeroen:
+
+No, I feel the same way when we use our software at Salesflare itself. We get such a deeper insight into the thing we’re building for other people. If it helps you, then it helps them as well.
+
+Jason:
+
+Yes.
+
+Jeroen:
+
+But in one of the interviews I checked out, you were saying that at some point you got this first cheque from Germany for the music library and you understood the power of SaaS. And I think more and more people nowadays, like you were very early in that, but the Facebook group in which we’re broadcasting this has 20,000 people and I also have more and more friends who are asking me like, “Oh, I would like to do something in software.”
+
+Jeroen:
+
+Because for instance a friend of mine is doing a drone certification but because that recurring business model seems so interesting, they want to get in SaaS as well. So I would like to hear from you, what do you think about people wanting to get into SaaS and what would be good reasons for them to do this, and what would be some of the bad reasons?
+
+Jason:
+
+Well I think the bad reason is always just do it because of the money. If you’re like, “Well I hear that, that’s the hot place to be. I want to be there because it’s…” That’s just not enough of a reason. SaaS is good when you have a product that is something people are going to use for the long-term. SaaS is not particularly good when you have something that’s only going to be useful for a month or two. So sometimes people build software that’s utility-based. Someone needs it right now but they’re not going to need it in three months and that’s hard to get recurring revenue on. So something like Basecamp, for example, is something a company will use for years and years and years. Emails, something people are going to use for years and years.
+
+Jason:
+
+So I’d make sure that whatever it is that you have or whatever it is that you’re working on, it’s something that can be woven into a company’s or a person’s life or workflow where they can’t imagine not having that thing, then it’s probably a good fit. So that’s kind of the thing. So you got to be careful because I know the model is very lucrative and very seductive and people want recurring revenue because it’s a nice thing to have in a business. But your product has to align very well with that model, otherwise people might subscribe for a month and then cancel. Then you’re no different than just selling software one-off. So make sure the model’s applicable to the problem we’re trying to solve with them.
+
+Jeroen:
+
+So truly recurring revenue then. But does that then also imply that whatever you make requires more work?
+
+Jason:
+
+Not necessarily. But here’s the thing about recurring revenue too and software as a service is that everyone thinks the hard thing is launching the thing and building the thing. That’s actually the easy part. The hard part is maintaining it for many years. Once customers are paying you on a monthly basis or an annual basis they expect improvements, they expect you to be there, they expect great customer service, they expect improvement in maintenance. There’s a lot of things that they expect. And so what you also can’t be is you can’t be someone who wants to move on to the next thing immediately.
+
+Jason:
+
+If you always want to move on to the next thing immediately, it’s going to be a problem because when people are paying you for a service they really expect consistent long-term improvement, versus just launching something and then moving on to the next product and moving on to the next product and moving on to the next product, which is something you can do for just selling things one-off because you don’t have that sense of obligation to the customer forever as much.
+
+Jason:
+
+It’s like they bought the thing, they have the thing, we’re done. But software as a service is like they have the thing and I’m providing a service. I’m not just providing software, I’m providing a service and that service is something that’s continual. And so you have to have the right mindset to be okay with that. Some entrepreneurs love to just move on to the next thing all the time and that’s not really a good model for SaaS.
+
+Jeroen:
+
+That’s some advice. A thing when I asked people for questions to ask you in the Facebook group was, they all wonder why you are so controversial with your opinions. My personal theory is that you really care, like you just said, you really care about being there in the long-term for your team, for your customers and that by doing so you’re very thoughtful about it and are not afraid of taking sort of a controversial stance in that matter. Am I sort of getting close there? What’s exactly behind this?
+
+Jason:
+
+Well, it’s funny because I ultimately don’t think my point of view is controversial. It’s like build a good business, sell something for a price that you make more money than you spend, earn more money than you spend, don’t grow too fast, aim to be in business for a long time, be profitable, be honest with your customers and your employees, treat people well, make things simple. These are not actually controversial ideas but in our industry they are, because our industry’s obsessed with growth at all costs and it just wants to grow and dominate and destroy everyone else. Our industry is obsessed with giving things away for free and trying to figure out how to make money later. Our industry is obsessed with raising a bunch of money that you don’t need, putting unnecessary pressure on entrepreneurs to perform at levels that are unreasonable.
+
+Jason:
+
+Our industry is obsessed with super long hours. They think that you have to work all day, all night, all weekend, bust your ass to get anything done. I don’t agree. I think 40 hours a week is plenty, eight hours a day is plenty. But my point of view is not really controversial in the world, it’s just controversial in our industry and that’s the thing that’s so weird about it. I mean look, here’s the thing, we’re willing to speak our mind and call things like we see them and we do have strong opinions, whether or not they are controversial is for someone else to decide but our opinions are strong and we believe in what we say.
+
+Jason:
+
+And we have a 20-year track record of backing it up and I think a lot of companies and a lot of founders and CEOs and whatever are actually afraid just to tell people what they think and they’re afraid of upsetting a potential customer or they’re afraid of turning somebody off so they stay quiet and they don’t share. What we believe in is sharing everything we’ve learned. There’s no reason to keep anything a secret and here we are.
+
+Jason:
+
+Again, in our industry where we’re a little bit different but in business we’re not, that’s the thing. The pizza shop in the corner, the dry cleaners, the small business down the street, they would not think we are controversial. They think that we’re spot on. You got to make more money than you spend, you can’t sell pizzas at a loss forever, yeah with that. But our industry is kind of weird and wrong I think in a lot of things, so that’s why we push back and why we’re seen this way.
+
+Jeroen:
+
+And if you would have to sort of think back, where do you think that pressure comes from? Where did that originate?
+
+Jason:
+
+Which pressure?
+
+Jeroen:
+
+The pressure to grow at all costs, let’s summarize it like that.
+
+Jason:
+
+I think there’s a number of sort of core reasons why but I think the primary reason is probably the prevalence of a lot of cheap money, meaning there’s a lot of money, a lot of people are investing a lot of money in technology companies and a lot of people think that if they raise money, they’re going to be rich and famous and powerful and all these things and there’s always a few examples to point to, it’s like, “I want to be like that person.” And so what do they do? They raised a bunch of money and they did the whole thing and so people think they should do that too. And then the thing is that when you raise a lot of money, expectations are different for you. It’s not about how good your business is. It’s about how big a return can you return to the investors.
+
+Jason:
+
+And so investors naturally are going to say, “Well, I want you to bust your ass for me because all I care about is a return ultimately.” And so hire as many people as you can, go as hard as you can, do all of these things as hard as you can so we can get the multiple that we want down the road. And the thing is that there’s a handful of businesses where that’s true. Most of them are not but well-served by that kind of model. Most of them would be much better off growing slowly, growing in control, growing manageably, growing profitably and not trying to be the unicorn that most people are never going to be.
+
+Jason:
+
+So I think a lot of it is the mythology of the billionaire, the mythology of the world domination, a lot of it comes down to ego as well, people wanting to feed their ego and they think that if they raise a bunch of money that they’re validated by other rich people who’ve done well in their lives and so they’re going to be rich and famous as well. It’s just this whole ugly cycle of trying to be something that you’re not and trying to do it for someone else, so I think that’s the main reason why. And there’s of course, people are, “What about Amazon? What about Apple? What about them?” Okay, there’s always going to be some of those companies but think about how many other companies are not like them, pretty much everybody else is not like them.
+
+Jason:
+
+And so most people, if they try to go down that path are not going to get anywhere near the level of achievement or success that they’re looking for and they’d be much better off building a nice solid company with 30 people generating nine million bucks a year. And be able to do that for 20 years and have a great life and a great business and take great care of customers and take great care of employees. That’s a much healthier business for most companies than trying to go all out and trying to dominate an industry or dominate market share, whatever. So anyway, it’s sexy, it seems exciting, everyone loves to talk about how much money they’ve raised but it’s really, I don’t think it’s a really good path for most companies.
+
+Jeroen:
+
+Yeah. And if you would advise other people on, apart from, you haven’t taken VC money, right? Apart from somebody from Jeff Bezos, what other advice would you give them to help them stay grounded like yourselves?
+
+Jason:
+
+Well, the key is to not get ahead of yourself. If you go out and hire a bunch of people and all of a sudden you’re deep in the black or deep in the red, I’m sorry, and you’re spending a ton of money, you’re in trouble. You’re in trouble right from the start and so now you’re going to make probably poor decisions, you’re under the gun, you’re under pressure, it’s going to be crazy. I think the key is to never get ahead of yourself really. So if you feel like you can afford to hire two people, then that’s it; don’t hire your third until you can afford to, don’t hire your third and your fourth and your fifth and your sixth in anticipation of trying to get to the point where you can afford them, just don’t hire people you can’t afford.
+
+Jason:
+
+Don’t spend the money on things you can’t afford, don’t spend much money on marketing that you can’t afford. Don’t get ahead of yourself because you put yourself in a really dangerous position, in a really desperate position and some people thrive in those environments most people do not. So I would say keep things under control, grow slowly and organically and don’t spend a lot of money, keep your costs in check. This is the thing that everyone seems to forget, everyone talks about revenue and sales they forget about costs.
+
+Jason:
+
+Keep your costs in check. Don’t get ahead of yourself. Don’t put unnecessary pressure on yourself and there’s no rush here, there’s no race here. Just go smart, get smart, stay small and move slowly and carefully and deliberately and you have a better shot. This is all like the odds are against you no matter what but I think you have a much better shot, you have better odds if you’re just trying to build this basically solid, sustainable business than trying to be the next Amazon. You’re not going to be the next Amazon, that’s the news for you by the way, you will not be, so what are you going to be? What can you be? I think the whole key is to improve your odds, that’s the thing.
+
+Jason:
+
+And growing in control and keeping your company small, keeping your costs low, improves your odds, and then you can always go somewhere from there but you gotta start there so you have a solid footing and then you can go somewhere else. So I think people are in a rush, people want to be something they’re not and they put unnecessary pressure on themselves and a lot of businesses die. Good businesses die because they try to be something that they’re not, they try to get bigger than they need to be too soon and they flame out, so avoid those kinds of things, I think you’re in a much better position.
+
+Jeroen:
+
+Cool. Zooming in a bit more on you. A thing I like to do in these founder interviews is really understanding how founders like you and others spend their days. So if I would ask you what you put focus and energy into right now, what would that be? What would a typical week look like for you? Like what are the things you put your time in?
+
+Jason:
+
+So there is no typical week. My schedule is pretty open. I don’t have meetings. We don’t have meetings at Basecamp. I do what I need to do any given day, any given week. We’re launching this new product in about a month so I’m really focused right now on finishing that up and so what am I doing with that, I’m doing a lot of writing on the marketing site for hey.com. So hey.com, right now there’s not much there but I’m going to be writing the whole marketing site. I’m really kind of honing in on the final little details of the product itself, final features, final interface, design tweaks, bouncing around between teams and kind of helping them solve some problems that are kind of coming up at the last minute, that kind of stuff. So I’m just kind of jumping around right now on a bunch of little things because we’re trying to get stuff in order.
+
+Jason:
+
+It’s like if you’re going to have a dinner party at 7:00 and it’s 6:00, you’re just making sure all the house is clean and this is right and that’s right, like that’s kind of what I’m doing right now. Typically, though, that’s not how we are because we don’t launch new products very often. So it just sort of depends on what we’re working on, on a given week or a given cycle which is six weeks in our world. But there’s nothing typical. I don’t start my day in a certain way, work on these sorts of things, I don’t meet with people that often, I’m just figuring out what projects I need to work on, what do I need to be good at today, what do I need to be good at this week, and I’ll do one or two things a week and focus all my energy on those things but right now I’m just bouncing around.
+
+Jason:
+
+But my days are about eight hours, sometimes I work from 9:00 to 5:00, other times I work from 9:00 to 3:00, I’ll take a couple hour break and then I’ll work a little bit at night but I don’t put in more than eight hours a day. I don’t work on the weekends. And I just do what needs to happen, I mean I’m focused primarily on longer term vision stuff as a CEO. I’m helping different teams solve problems. I’m making sure the product feels right, looks right, acts right. I’m interacting with customers all the time on Twitter or via email. I’m doing a lot of writing, I’m doing a lot of design work and thinking about the next set of features that we’re going to build into our products. That kind of stuff, but I wouldn’t say there’s a typical week.
+
+Jeroen:
+
+No, so you basically decide where you’re needed and then that’s where you put your time. Is there any method, there’s maybe a big word that you use to decide where you’re needed?
+
+Jason:
+
+No, I’m a very sort of ‘go with the flow’ kind of person on that. Like right now, let’s say we’re about a month away from launching this thing, we’re making some major interface design tweaks. We started making them a couple of weeks ago, I’ve been working very closely with one designer on that and we’re going to ship those changes today or tomorrow to the internal team who’s using the product and the beta testers. And so I’m just kind of like, “Right now that’s where I’m needed, I’m needed on honing that in and making sure that’s right.”
+
+Jason:
+
+Come Tuesday once we’ve shipped that, I’m going to jump over to something else and I don’t necessarily know what that’s going to be right now but on Tuesday I’ll know. I’ll just know. You just know, like if you’re involved in things you know where you’re needed, you know what needs to be done. And also I’ll pick out things that I think need to be better and so I’ll focus my energy on that or I’ll talk to someone about that. We haven’t really talked much, we’ve talked a little bit about this product, Hey, this email thing, but we haven’t shown any screenshots, we haven’t talked about any specifics yet, over the next few weeks we’re going to start doing that.
+
+Jason:
+
+So I’m going to start doing some videos. I’m going to start doing some live streams. I’m going to start sharing some of the details out so I’m going to be thinking about which ones are the first ones I want to share? Why do I want to share those? How do I want to share those? How am I going to write the post? Am I going to do a video? Am I going to share screenshots? Am I going to do this on Twitter? Am I going to do it on a blog? I don’t really know, but it’ll come to me and each one might be different.
+
+Jason:
+
+But I know that’s roughly the next few weeks of my time. I’m going to be thinking a lot about early promotion and sharing the philosophy and the ideas behind this product. I just don’t know exactly how that’s going to be. And I don’t have a checklist, I don’t have a method, it’s just whatever I feel is the right way to do something on a given day is kind of how I do it and how we do it as a company.
+
+Jeroen:
+
+Okay.
+
+Jason:
+
+We’re scattered in a sense and like we make it up as we go, that’s just how we’ve always been and how I think we work best. I don’t want to come off saying this is how I think everyone should work. This is just what works for me and works for us and I think what’s most important is to know yourself. If you’re a very structured person and you need the checklist, you need the to-do list and you need the regimented week and you need the meetings every day, you should do what works for you.
+
+Jason:
+
+That doesn’t work for me. I’d be miserable. I would quit tomorrow if that was my life. I like to bounce around and find the things I need to do and then focus deep on those things. So I don’t want to bounce around on 12 things in a given day but I want to be able to be flexible enough to jump in and help with something and really think it through and really get it right. And when I’m done with that, then find the next thing to work on.
+
+Jeroen:
+
+This also sort of ties into one of the top questions that came up in the Facebook group leading up to this interview which was, why you don’t use any software to track metrics and to track how people are using your software? If I’m not mistaken, you also don’t believe in sort of numeric goals in general but if you would use some software to track how people use your product, wouldn’t you have more information to improve it? Or how do you get that instead if you don’t do that?
+
+Jason:
+
+Yeah, so we do have internal tracking on page views and that kind of stuff and screening and we have the data internally, what we don’t use third party analytics, so that’s what we don’t use. We don’t use Google Analytics, we used to use something called Clicky. We don’t use that anymore, we have our own internal analytics. So we do have the data but we don’t use third parties, that’s what that’s about. The reason we don’t use third party data is because we don’t want to share our customer data with third parties. We don’t want to have tracking pixels all over the place, we don’t like that invasion of privacy so we stay away from that.
+
+Jason:
+
+So we do look at data to help us make some decisions but primarily most of our product decisions are by gut and again, by what we want for ourselves. Getting back to the first thing about scratching our own itch, the more we build things for ourselves, the better off those things turn out. The more we try to build things by painting by numbers, basically by looking at data and asking other people what they want, we’re just not as good at that and other companies are much better at that. We’re just not and we know ourselves.
+
+Jason:
+
+So we look at data when we need to help clarify something we’re not totally clear about. We don’t look to data necessarily for insights and truths about what we should do. But we use the data to help us make decisions when we already have a pretty decent sense but we want to know like, how critical is this? Or is there any additional information we could pull from this that would help us make a decision? But we don’t look at the data and decide where to go next. So that’s kind of a different way of thinking about data. Data is to help us clarify and not to help us discover.
+
+Jason:
+
+And by the way, to your other point like we could be doing it wrong, maybe if we look at data more often we’d be doing it better, it’s all possible. So I’m not here to argue this is the best way, it’s just this is the way that works well for us and the way that we want to build products. This is the thing I’m most surprised by when I talk to entrepreneurs is how little they run the business the way they want to run it. They end up running business for other people, either for investors or because they read something somewhere and this is how you’re supposed to do it and they’re miserable but that’s what you’re supposed to do, right? So I do it this way, it’s like, “No,” do what works for you, do what you enjoy doing. There’s no other reason to do this than to do it for that reason anyway. And find your other way and know yourself and know what you enjoy.
+
+Jason:
+
+For example, if I had to have meetings all day, like I said, I would quit. If I couldn’t make a product decision without having to go through reams of data to justify every decision I make, I would be unhappy. I would not be running this company anymore. Maybe the company would be better without me, that’s possible too. But for whatever it is like I run it, I run it my way, we do things our way and that is we find the ways that we feel most comfortable doing the work that we do that makes us happy and the outcome is the outcome. So we’ve been in business for 20 years. So far that’s been working out pretty well but it might not work at some point. It might not work and that’s okay too. But I don’t want to do something every day that I don’t enjoy and I would not enjoy having to justify every possible decision with data. It’s just not something I enjoy doing.
+
+Jeroen:
+
+Cool, that makes sense. Let me switch to a slightly different topic, which is at remote work. There’s a lot of remote work going on nowadays and that you guys have almost, I think two decades of experience in. So it would be interesting to hear some of your advice on how to avoid some of the beginner’s mistakes on remote working. Let’s say, what are some of the mistakes you’ve been making over the years and how did you fix those mistakes?
+
+Jason:
+
+Yeah, I think the biggest mistake companies are making right now is that they’re treating remote work as local work remotely. Meaning, they’re working the same way they work in their office. They’re just working far apart. Remote work is a different method of working. It’s not just working separated from people physically, it’s actually a different method. So fewer meetings, more time to yourself, more long form writing, less chatting, less real-time communication, more what we call slow time or asynchronous communication. Giving people their schedules back, giving people their days back, giving people their space back, giving people their attention back, that’s what’s wonderful about remote work.
+
+Jason:
+
+If you’re sitting in Zoom calls in meetings all day or in Skype or whatever you use because that’s what you did in person, in person you were in meetings all day in meeting rooms, that’s the wrong way to do remote work. It’s actually worse. I think meetings are pretty bad to begin with but to have them to be sitting in video conferences all day is way worse. It’s harder, it’s a whole lot less fun. It’s really emotionally draining. So I think that what I’m seeing smart companies do is embrace the fact that because they’re working remotely, they don’t have to communicate in real time anymore. Before, they support people in the rooms or they yell across the room or go up to someone’s desk and just start chatting, they can’t do that anymore and they shouldn’t do that anymore.
+
+Jason:
+
+They should give people more time to think things through. They should write things up in long form and disseminate that information. We use Basecamp of course to do this. And then give people time to think about their response and write it up, maybe it’s even the next day they respond, versus this feeling of having to respond to everything immediately which is what real-time communication’s about. Real time communication is very reactionary. You don’t even get time to think. We want people to think. Smart companies work remotely, give people time to think and to deliberate and to sit on it and to sleep on it. That’s what great remote work companies do.
+
+Jason:
+
+So I think every time, and we make this mistake too sometimes even though we’ve been doing this forever, we’ll get into some discussion – we’ll be in Basecamp, we’ll be chatting about something in Basecamp and there’ll be a bunch of back and forth and someone has to chime in and go, “Hey, someone needs to write this up.” Chatting is the wrong method for this, someone write it up. And so someone will step back and take a minute or an hour or five hours or two days to write up the idea, a thousand words like in long form, write up the idea. And if it’s never written up, it’s because it didn’t matter anyway.
+
+Jason:
+
+And it’s a great, wonderful way to kind of push aside things that don’t matter but if people are really motivated by this thing they’re discussing, someone will write it up. Now we can discuss it properly that way. So we find ourselves falling into the trap of chat all the time. Chat’s a terrible way to work remotely for the most part, it’s handy occasionally for sure but as the primary method of communication it’s a real step backwards. And I think a lot of companies fall into that trap as well because they’re trying to simulate real time because they’re so used to real time in person.
+
+Jeroen:
+
+So why do you think it’s a step backwards, chats? I mean you’ve launched one of the first team chat products, I think with Campfire?
+
+Jason:
+
+Yeah, we did and we learned our lesson. The problem is that most discussions have nothing to do with ‘right now’ but when you talk right now in real time, people feel like decisions have to be made in real time. You have to be watching the conversations that are going on in real time, you have to jump in, in real time otherwise you’re not going to be able to participate in that conversation. And so everyone all of a sudden is being pulled off their work all day long to participate in this conveyor belt of real time conversations that have nothing to do with right now, that don’t need to be discussed right now, that everyone’s trying to jump in and everyone’s trying to react. This is a terrible way to make decisions and a terrible way to debate things and discuss things.
+
+Jason:
+
+It’s a handy way to show someone something really quickly. It’s a handy way to ask a quick question or whatever but as far as working on something and really thinking something through and giving it the time it deserves and giving it the deliberation it deserves, real time is a terrible way to do it. For example, right now you and I are talking, if my company was having a real time conversation, I’m going to miss this for an hour because you and I are going to talk for an hour. And what if I have something to say about that conversation? Well, if it’s happening in real time, it’s already going to be over by the time I get off this call and then what? Am I going to jump in and rehash the whole thing and read back a transcript? It’s like, no, I’m not going to do that, that’s a terrible way to talk.
+
+Jason:
+
+What should be happening instead is if someone has something they want to share with the company, they should write it up, post it to Basecamp and then when I’m off this call and someone else is off their call or someone else frees up in three hours, they can read that thing and they can respond in kind in a proper comment thread that has a permanent place, it’s not part of a transcript where tons of other discussions are happening. Every discussion at Basecamp has a proper individual page where you can have the discussion and all the comments about that discussion are left on that page, versus having dozens and dozens and dozens and dozens and dozens of different conversations sometimes happening all at the same time in an endless transcript with no differentiation and no descriptions, just a mess of conversation, only organized by time.
+
+Jason:
+
+It’s a terrible way to catch up on things. It’s a terrible way to try to have a conversation about things. It’s a terrible way to make people feel like they’re going to miss out if they don’t jump in right now. It creates anxiety and a fear of missing out which is not really a healthy environment for a company. So I’ve written up on it. If anyone’s curious about this, you can just Google Group Chat, Group Stress, and you’ll find a long article I’ve written about my concerns of group chat. And like you said, we were basically the first team to really build a group chat tool back in 2006 so we’ve had more experience with this technology than anybody else and we’ve seen the downfalls and the pitfalls.
+
+Jason:
+
+And other companies are now beginning to see these as well, they’re like, “I thought Slack was going to be okay. They promised to make things more organized and to help us get more things done. All I’m doing is being distracted all day long now by a bunch of different conversations I need to pay attention to. People are dealing me left and right. I have no time to myself, stuff scattered everywhere, I mean I don’t know where to look for things. Am I supposed to scroll back? How do I know that this chunk of the conversation is the only part of the conversation? Maybe this conversation also happened four hours earlier on top of these other three conversations that happened.”
+
+Jason:
+
+It’s a mess. It’s a mess and it’s disorganized and we learn that eventually. And we have chat in Basecamp, we still use chat but not as a primary method of having conversations. It’s a secondary, tertiary, perhaps way of having conversations. But mostly it’s used for sharing quick things when we need to, not for actually making real decisions and really talking things through.
+
+Jeroen:
+
+Yeah, same thing for us. I think chat is more of a thing like pinging each other, asking a quick question but if we have discussions we personally do that in Google Docs. We have a document, you write the whole thing up and then we start putting comments and you can put comments and comments and then the whole thing grows and at some point the comments get resolved into the text, let’s say. Is that sort of the way you would prescribe or do you see any issues with that?
+
+Jason:
+
+No, that’s better, I think that’s much, much better. The problem with Google Docs is that you’ve got all these individual documents all over the place. There’s no sense of a place. You could have a thousand docs in Google Docs and you can have a thousand different conversations in Google Docs. And they’re just spread out but it’s better than chat because chat is an endless single transcript where you don’t really know what’s being discussed, everything’s just interwoven or whatever.
+
+Jason:
+
+So comments in a Google Doc are good, the problem with Google Docs is that it’s essentially a text document that can be ever changing. You don’t know what you’re really discussing because you’re just sort of discussing the current state of whatever you’re looking at but a comment might have tied back to something that was a different version of that document in the past. It’s just a little bit less fluid, or no, I should say a little bit too fluid in my opinion than having a fixed statement, a fixed thing.
+
+Jason:
+
+And then the changes are actually happening in the comments. That’s like how it works in Basecamp, where any updates are happening in the comments. So you always know the original is the original and then updates happen in the comments themselves not in the original document, because now you don’t really have the original source material anymore and you don’t really know what you’re discussing in the first place, you can’t really see how it changed. You can track changes but that’s also really complicated. But anyway, it’s still much better than trying to discuss things in chat.
+
+Jeroen:
+
+Yeah. And talking about video calling anyway, I know you said you don’t have a lot of meetings, maybe not a lot of video meetings but for all of those who are using Zoom right now, there’s a huge amount of users on zoom now.
+
+Jason:
+
+Yeah, sure.
+
+Jeroen:
+
+What are some of the tips you could still give away and where would you like to see video calling going perhaps in the future?
+
+Jason:
+
+Yeah, I mean we use video calls when we need to elevate something beyond writing. So for example, if we’re writing something and there’s a long comment thread and we just find after 10, 15 comments or something back and forth like we’re just not getting anywhere, we’ll then maybe elevate it to video. But video is not the first resort, just like meetings are not the first resort. Meetings are failures in many cases of the inability of a team to solve a problem on its own in other ways.
+
+Jason:
+
+The fact that you have to stop work to get together to talk about something often means that something isn’t going well in work or you just meet too much because that’s what you do on a repetitive basis like, “That’s just what we do, every Monday morning we just meet, we aren’t even thinking anymore, we don’t think, we just do this.” That to me is also a little bit of a failure. Failure is a bit of a strong word but most things can be worked out in conversations written up over a matter of hours, days, whatever, without having to stop work.
+
+Jason:
+
+Meetings are very expensive, seven people need to talk about something for an hour, it’s not an hour, it’s seven hours. Seven hours of work have been lost because you have to talk about something for an hour that probably could have been worked out over time in gaps between work versus stopping work for everybody at the same time. It’s very costly to do that. So here’s the thing, video, we do it small groups, two or three people max. Anything bigger than that, I think it’s a disaster and I think typically it’s usually one or two people max. And also it’s only after almost, not always but almost always after a discussion couldn’t be resolved in a writing fashion or through writing it up first.
+
+Jason:
+
+So debates or nuance, little things sometimes that you just can’t get quite through in writing or people just aren’t listening to each other that way then you elevate it to chat or elevate it to videos. To me it’s a wonderful medium for when you need to really clarify something that hasn’t been clarified before versus the default thing. Because what ends up happening is you pop on a video call and you sit there for an hour and you just talk about something that could have been handled many other ways and you’ve lost an hour of your day and two people have lost or three people lost or five people or 10 people have lost all the same time. It’s very costly, it’s not worth it.
+
+Jason:
+
+But again, video is wonderful. It’s just you don’t want to use it all the time. Just like in a physical space you don’t want to be going up to people all the time and asking them questions. It’s like in a physical space you’re pulling people off their work all the time, pulling them into meeting rooms all the time. It’s very inefficient, it’s very expensive and this is why people end up working longer hours, not because there’s more work to do but because they don’t have time to get work done at work anymore because they’re being pulled off their work all day long. So they’re expected to do stuff but they have no time to do it because they’re being pulled off into conversations they don’t need to have in real time all the time. It’s a busted metaphor, it’s a busted method, I mean.
+
+Jason:
+
+And I think people are going to begin to realize this more and more and more, especially with working from home or hopefully you get a chance to have a little bit more time to yourself and people are going to realize how much more productive they are when they’re not being pulled off and pulled into meetings constantly. So I think people are going to begin to see the benefits of this soon. Although there’s some downsides too – isolation, feeling independent, working on your own all day can be hard too and people are going to have to adjust to that as well but there’s some real advantages to working remotely and I hope people start to pick up all these.
+
+Jeroen:
+
+Yeah. Do you think this is also one of the reasons why you guys, I think, according to LinkedIn, are at around 90 people at Basecamp?
+
+Jason:
+
+No, 55 or 56 people.
+
+Jeroen:
+
+LinkedIn has completely overestimated. I mean despite working with 55 people, I think you have over a hundred thousand customers, if I’m not mistaken.
+
+Jason:
+
+Yeah, there’s millions of people using Basecamp and we got a lot of people. So it’s a small company that generates tens of millions of dollars in annual profits every year. We’ve been profitable every year we’ve been in business and we have 55 people, 56 people. So we’re a very small company intentionally. We have a lot of customers. We price our products in a way where no customer can pay us more than anybody else. So we don’t sell Basecamp by the seat, by the person, we sell it at 99 bucks a month, unlimited users, unlimited projects, unlimited everything essentially and that way, no customer can take advantage of us in a sense.
+
+Jason:
+
+So here’s the thing. This is one of the things that happens with SaaS. When you sell per seat, you might have one customer, you might land a customer that has 10,000 seats and that’s a huge contract and all your other customers have 40 people, 20 people, 18 people, 105 people. Who are you going to work for? You’re working for the 10,000 person companies. So basically what you have become is a consulting business again, you’re not a software company, you don’t run your own business anymore, you work for them because if they leave you, you’re screwed. And the key is, in my opinion, in business, is you never want a customer that you can’t afford to lose. We can lose, I mean we don’t want to but we can lose, you can pick 20% of our customers, you can pick any ones you want, we’d be okay because none of those customers in that batch would be a customer that’s paying us a hundred thousand dollars a month. They are a million dollars a year.
+
+Jason:
+
+All of our customers pay us basically the same amount of money so of course we don’t want to lose them but we’re more resilient because we price things the way we price things versus everyone else pricing things per seat and then you end up having to be afraid to lose customers. And you end up doing things for your product and for your company that you don’t want to do, but you do because if you don’t do them you’ll lose the big customer. And then again, it’s not your company anymore, you don’t work for yourself anymore, you work for them and you didn’t start a business to work for someone else.
+
+Jeroen:
+
+I’m sure there’s other ways than not pricing per seat to stay away from this sort of dilemma.
+
+Jason:
+
+Yeah, I mean there are many ways but pricing per seat can get you into that dilemma pretty quickly, project-based pricing can also get you into that dilemma. So for example if you’re a consultant and you sign up one customer for a nine-month project, I’m just making up numbers, a million dollars or something and all your other customers are paying you a hundred thousand dollars, I guarantee you when the customer paying a million dollars ask for more of your time, you’re going to give more of your time.
+
+Jason:
+
+And when they ask you to work on the weekend, you’re going to work on the weekend and when they ask you to do some change and make a change for them at 11:00 at night, you’re going to do that, why? Because they’re paying you million bucks and no one else is, so you’re going to be working for them again. And this is the thing why entrepreneurs fall into this trap all the time where they start a business to work for themselves and then they screw up the pricing and they work for someone else.
+
+Jason:
+
+And they get stuck because now they cannot do that. They have to do that because that’s just the way they’re set up and it’s unfortunate and it happens. So you just want to be really careful and really thoughtful about that and realize that your pricing model has so much to do with the kind of business that you can build and the kind of business that you can run and the kind of time you can spend and the kind of resiliency that you have and the kind of profitability you can attain and the kind of flexibility that you’ll need.
+
+Jason:
+
+It all ties back to that and I don’t think a lot of companies think enough about that. They go, “Oh, well they’re doing it this way, I’ll just do it that way.” That’s it, maybe you picked the right way but you can also end up building a business you don’t want to run. For example, if a company came to us today and said, “I’ll pay you $10 million a month for Basecamp if you do X, Y, and Z.” The answer would be no, absolutely, unequivocally, no, we don’t want you as a customer paying us $10 million a month.
+
+Jason:
+
+How can we turn away that kind of money? Because we don’t want to run a business that way and it’s not worth it to us to run a business that way, it just isn’t. I don’t want to do this every day in a way, I don’t want to run a business every day in a way I don’t want to run a business. It’s just not worth it, it’s not worth it, the money’s not worth it. We can make plenty of money in other ways – the way we’re doing it today. So you have to be willing to know where you’re going to say no and to what and you have to be willing to put limits on what you’re willing to do, otherwise you’re going to end up basically not being in business for yourself anymore.
+
+Jeroen:
+
+Yeah. Apart from flat pricing for every customer the same, what are some of the secrets you can share on serving that amount of customers with such a small set of employees?
+
+Jason:
+
+Yeah, a really important thing is to make a very simple, straightforward product. So we’ve got all these customers, we get about 500 customer service emails a day which might seem like a lot to some but it’s really not based on our usage and that’s because Basecamp is a very simple, straightforward product. And so if you make a complicated product that requires someone to onboard a team and requires a lot of hand holding and walkthroughs and requires a lot of customization, you can’t have a small business, you’re going to have a big, complicated business because the product and the sales process and the requirements are big, hairy and complicated.
+
+Jason:
+
+If you make a simple product – we don’t do any customizations, we don’t do any custom agreements, we have fixed flat pricing, we don’t have salespeople, it’s all self-service so it has to be simple enough for people to go to basecamp.com and sign up and get started. We have very good onboarding so people don’t ask a lot of questions about how to do this and do that. Of course we’re not as good as we could be, we’re not saying we’re perfect in any way, we’re certainly not but we’ve put a lot of effort into making things clear and straightforward and simple for people so they can do their own work, they can figure things out themselves and they don’t need a lot of handholding. And if they do, we’re here for them, but most people don’t need it.
+
+Jason:
+
+And so the thing is though, I’ve seen so many products that I’ve had to sign up for like a vendor requires a sign up or something and it requires a call with a salesperson and it requires custom customization and it requires a ton of onboarding and it requires all this stuff and it’s like, I’m thinking to myself, “You’re making this hard on yourselves, why are you making a product that’s so complicated? No wonder you have a company of 700 people and 2% profit margins because you’ve made this incredibly complicated and challenging for everybody.” So that’s really important. You’ve got to make things straight forward for people so they can figure out on their own and then you don’t need as many people internally to sell a customer, to help a customer, and that sort of thing.
+
+Jeroen:
+
+When we actually started Salesflare six years ago, very much following that philosophy, the very first thing we did was reading your book, Getting Real.
+
+Jason:
+
+Oh, cool. That’s an old one, first one.
+
+Jeroen:
+
+It was actually really a nice read for me. I had done business school in the past, like six years before that and it went straight into everything I learned at business school where basically our entrepreneurship project would be writing a business plan for a few months and then that was it. We wouldn’t actually do anything else and you were just advocating to go out there and test things. And I know that a lot of the founders I also had on the podcast tell me similar stories of how they read Getting Real or Rework. How do you sort of reflect on the impact you’ve made there with these books and on the industry?
+
+Jason:
+
+Well, it’s humbling to hear that people read our stuff and find it useful because what we’ve always tried to do is just to share and teach as much as we possibly can. We don’t feel like there’s anything that’s worth keeping so tight to your chest that it’s so proprietary that you can’t share it. And we always want to be an alternative to again, we talked about earlier in this call, the VC model, the raise a bunch of money model, the make things complicated model, the hire a bunch of people model, the grow really fast model, and so we want to put alternative materials out there and help. And we do think it’s, like I said, I’m not out to tell people exactly what they should be doing but we do believe this is a really great way to run a business.
+
+Jason:
+
+And if you just pay attention to mainstream tech press and business press, all you’re going to hear about is company’s raising a bunch of money, getting really big, selling for big multiples and you don’t even have an alternative to that. So I’m glad people are picking up these books and reading this stuff and the thing that’s I think really important about our books is that they’re not prescriptive. Typically they’re stories about what we’ve done. Here’s what we have done, what you may do is maybe part of what we do or you may do 10% of what we do or you may do 0% or you might do 90, you should do what works for you but here’s what’s worked for us and here’s why this worked for us and why we believe in these things.
+
+Jason:
+
+So I like to give people ideas and suggestions and share experiences. Not like, “Here’s the 14 things you should be doing to be successful.” There’s no such thing as that. So I think that’s why our books resonate with people. We’re not telling you what to do, we’re sharing what we’ve done and giving you some ways to think about things a little bit differently so you can expand your own mind and think about things differently and become a thinker as well. So I’m glad we’ve had an impact, we continue to try and share but we don’t do it to try to create carbon copy companies.
+
+Jason:
+
+We don’t want to see more Basecamps. I don’t mean Basecamp. We want to see more people starting businesses where they’re in control of their businesses. We don’t want to see more businesses that run just like ours, that’s not the important part. I want to see people thinking for themselves. I want to see people challenging what they hear out there, I want to see people running sustainable businesses that are profitable, that they can stay in business for a long time and do things their own way, on their own time, that’s what’s interesting to us and that’s how we share the ideas that we put together.
+
+Jeroen:
+
+Now reflecting all that, I actually also thought about what content marketing should be about in a way because a lot of content marketing out there is like you said, it’s just like, “Here are six things you should do,” or something. Well, involving people in the product or the company you’re building, building up a tribe, getting the story, helping other people to do good for the world, that’s sort of proper content marketing, I would say. Because it doesn’t only help other people, it also sort of pulls other companies into your story, your beliefs, your philosophy at Basecamp, which I do think must have had a great impact on your growth.
+
+Jason:
+
+Yeah, I’m certain that it helped our business considerably for sure. We don’t measure that, we don’t do that for that purpose. Our latest book is something called Shape Up, so if you go to basecamp.com/shapeup, S-H-A-P-E-U-P, and it’s a book, it’s a web-based book and a PDF so it’s not a hard copy, it’s not available in stores. We self-published this one. We just launched it last year and it’s a very detailed account of how we work day to day and how we work over six weeks. We have these six week cycles that we work, it’s our process called Shape Up. We put it all out there, it’s a process we essentially invented and we could keep it to ourselves, but why?
+
+Jason:
+
+So it’s better than other people hearing about it, not just because maybe they should do it but that there’s another way of working because a lot of people use agile methodologies and whatnot or scrum and they think that’s the only way to work and they’re struggling mightily with it but there’s no alternative. So here’s how we do, we don’t do it that way, we do it in a different way, maybe it makes sense to you, maybe it doesn’t, but at least you can understand there’s another way of doing things. And we put this book out, it’s free, we don’t even ask for an email address, we’re not out to market to you, we just want to share.
+
+Jason:
+
+We wrote this thing here, check it out and hey, if that helps you understand who we are and maybe you checked out Basecamp because of it, that’s a great side effect. But really it’s about sharing the information and helping teams see that there’s another way to do things that we think is a better way. Your mileage may vary but we think it’s a better way and we’ve been just hearing from people for years how much they struggle with all the ways that everyone else tells them how to work. They keep working that way because they didn’t know there’s any other way to do it and so oftentimes we put material out just to show that there’s another way of doing things.
+
+Jason:
+
+And yes, some people latch onto that, they support us, they like what we have to say and they check our products out and that leads to sales I’m sure, at some point, but we don’t track that or measure that or care, that’s not the whole point. So yes, in a sense it’s content marketing but we don’t do any of the things that a content marketer would do which is track these things, know what works, know what doesn’t, change the headlines to make sure they’re more link baby or SEO friendly. We just write and share and whatever happens, happens. It’s kind of how we do it.
+
+Jeroen:
+
+Yeah, sort of the same thing but differently again. I mean it’s like you said earlier, all the things that are in a certain way in the industry, people are doing that way because of growth at all costs while you’re doing it for the sake of helping people, which doesn’t make it not content marketing but it’s from a whole other perspective in a better way.
+
+Jason:
+
+I hope so. And look, there’s a lot of people out there who don’t like what we have to say and think that we’re saying the wrong things and we’re hurting people by telling them not to go try build a billion dollar business and raise money and all these things and they point to all these examples and like that’s all fair too, it’s all fair. They’ve got their perspective, we’ve got ours. We think ours is the right one for us and we’re going to put materials out so you can make your own mind up but read at least, check it out, because who knows? You’ve got to be exposed to new ideas to know if the one you’re following is the right one for you and there just aren’t a lot of people out there putting out alternate ideas pushing against the tide.
+
+Jason:
+
+So if that’s our role and that’s our legacy ultimately, great. And if we can spawn a hundred thousand successful businesses, it wouldn’t have been successful, and would have flamed out because they tried to go too big. But instead our ideas lead to people actually running businesses that they can run for a decade or two, wonderful. And pay people fairly, wonderful, and treat people well, wonderful. That’d be an amazing thing to have. And it’s similar to when we release rails, and open source rails, or David did, my business partner, like Rails is open source, we don’t make any money from Rails but Rails has led to hundreds of thousands of, I don’t know, maybe a million careers for programmers. And that’s wonderful, we’re happy about that. We’re super happy about that. That’s the case, that’s wonderful.
+
+Jason:
+
+It’s not that like it helped us sell this or helped us sell that, it did or didn’t, I don’t even know. Certainly it probably helped our reputation, but again, we don’t track these things, we don’t do it for those reasons, we do them truly to help and it puts it out there in the world that we wish was out there in the world and there it is.
+
+Jeroen:
+
+Starting to wrap this up slowly, I usually ask guests what the latest good book was that they read and why they chose to read it. But as I know that you like to avoid being influenced too much by other people’s thinking, I’m going to ask it slightly differently.
+
+Jason:
+
+Okay.
+
+Jeroen:
+
+Of all the books you’ve read over the past few years or maybe longer, which one of those did influence your thinking in a big way and in what way?
+
+Jason:
+
+I have a copy of it right here, so let me just grab it. This book which is only 60, think it’s 60 pages, hang on, about 60 pages long, it’s probably been the most profound thing I’ve read in a long time.
+
+Jeroen:
+
+We cannot see it.
+
+Jason:
+
+It’s called The Manual, Epictetus, the stoic philosopher. This is of course the translation and it’s thin and it’s a series of very short essays just like our books. I mean our books are like this book, one essay per page basically. Some are like two paragraphs, some are shorter, a sentence, some are like actually maybe two pages. I’m not going to say anything else about it but I would just say that this book has really helped me change my approach to thinking about it right. It’s not a business book. It’s more a book about life and it’s fantastic. So I would say this book, it’s like 10 bucks and you can read it in an hour and I think it will be one of the most important things you’ve read in a long time, so please do check this out if you get a chance.
+
+Jeroen:
+
+Is it better than the Guide to the Good Life by William B. Irvine?
+
+Jason:
+
+I love that book. I would start here because this is a really quick read and then I’d go to the Guide of the Good Life.
+
+Jeroen:
+
+Because that one is much more sort of, it gives you a nice framework let’s say, while I’m supposing I didn’t read that one yet. It’s only one writer, so it’s not the whole stoic philosophy going on.
+
+Jason:
+
+Exactly. This is more like a series of thoughts and observations about situations and A Guide to the Good Life is definitely more of a collection of a bunch of different stoic philosophers’ points of view put into a really beautifully written, digestible book that helps you sort of understand the philosophy and the background. There’s no background in this, it just goes right into some ideas. Anyway, it’s wonderful, I highly recommend checking this out, it’s very profound. And I try to read it once a month. I’ll just go back to it and read it because I slipped and I don’t live by it sometimes and like, “Man, I should remember that.” And I kind of go back and read the book, check it out.
+
+Jeroen:
+
+I guess the nice thing about this one is that it’s just an hour read.
+
+Jason:
+
+It’s an hour.
+
+Jeroen:
+
+You can just pick it up, read it again.
+
+Jason:
+
+Boom. It’s easy and it’s clear. It’s wonderful, so please do check that out.
+
+Jeroen:
+
+Yeah, I’ll put it on my Goodreads list right after this.
+
+Jason:
+
+Cool.
+
+Jeroen:
+
+I was wondering like, have you applied any of the stoic concepts at Basecamp already or is it purely a life sort of thing?
+
+Jason:
+
+I think we probably indirectly applied a lot of these things permanently around control, being clear about what’s in your control, what’s out of your control. Especially when it comes to how people feel about things and recognizing it like, I can be frustrated by something at work but that’s really just my reaction to the thing. The thing itself is, it’s my reaction that’s kind of a more meaningful side of it or like the more destructive side or the more helpful side, whatever it is, they’re really paying attention to like, “Why am I reacting this way?” And I’m in control of that but I’m not in control of the thing. The thing is going to happen, the thing is the thing. And really kind of keeping like when we have debates like heavy, hard hitting debates about certain things, just like staying a little bit more grounded in those conversations has really been something I think that’s been quite helpful.
+
+Jason:
+
+And also, I think just understanding the downsides, really thinking about things in terms of bets which is not really necessarily a stoic thing but negative visualization is like, “What’s the worst that could happen?” Like I said, what’s the work? So we’ve been building this new product for a couple of years now like what’s the worst that can happen? The worst that can happen is it doesn’t work. I mean it works but it doesn’t take off, it doesn’t do what we maybe hoped it would do and we’ll be okay. We’ll just go back to focusing on Basecamp. Basecamp’s a wonderful business, we’ll be alright. It won’t be this existential threat. We won’t be horribly depressed, it’s just like it might not pan out. It’s totally possible that it might not pan out.
+
+Jason:
+
+And this new feature we’re working on for Basecamp may not pan out. It might be six weeks’ worth of work that doesn’t really go anywhere. That’s okay, it’s okay. We always try to manage our downside risk by imagining what the downside would be and coming to terms with that and if we can’t come to terms with the downside on something, we typically don’t do it. We also try not just to put ourselves at risk, we’ll take a risk but we don’t want to put our business at risk. So there’s little pieces of that built-in into how we think that come from that philosophy but also come from other philosophies as well. But I think really negative visualization has been another big thing.
+
+Jason:
+
+David and I have often talked about this. We’ve been in business for 20 years. We’d like to be in business for another 20, but what if we go out of business in five? What if someone just destroys us or some terrible thing happens or there’s a data breach? Whatever, right? A business after being in business for 25 years or going out of business next year, like let’s say that happens for some reason. That would be really unfortunate but we also had a 21 or 25 year run, that’s not so bad. That’s an amazing thing to have been in business for 20, 21, 23, 25 years, that’s not bad.
+
+Jason:
+
+Again, like everyone at Basecamp would be able to get new jobs somewhere else. It would be terrible for a moment but they’d be able to get new jobs, we’d help them to get new jobs. David and I, we’ve done well for ourselves, everything will be fine. And that’s not the case in all moments but we’d have thought about that in terms of business like, “Hey, we’ve got a business.” Not a bad run, that’s okay, everything dies at some point, every business ends at some point. Those kinds of realizations I think are really healthy versus feeling like you have to hold onto this for dear life forever and the amount of stress that that creates I think is very unhealthy.
+
+Jason:
+
+So anyway, it also helps us decide just to go for it like ‘Hey, if we had got this crazy like this Hey thing, this new email thing, it’s pretty ambitious to build a new email service to take on Gmail let’s say or Outlook’. We’re a small company trying to take on Gmail and Outlook. That’s kind of nuts but we’re going for it because, why not? Why not go for it? And if it doesn’t work out that’s okay because we have something else too. It just helps us give us some of that grounding and say like, “Let’s just have some fun with this and take some chances.” As long as we understand what the downside would be.
+
+Jeroen:
+
+Cool. Last question, if you would take one thing, the one thing questions are hard of course. If you would take one thing from the last 20 years and you would take it into the next 20 years as advice for yourself, what would you take?
+
+Jason:
+
+Probably getting really good at saying no to things that take your time and don’t leave you feeling like it was worth it. I think especially early in your career, people tend to just say yes to everything like every networking opportunity, yes, every deal, yes, in every sale, yes, in every customer, yes. And I understand that those feelings and those pressures and the feeling like you don’t want to miss this but you can then look back in five or 10 years and go, “I’m really unhappy doing all this stuff that I’ve been doing, but I did it because that’s what I had to say yes to. Now I don’t have any time to myself and my calendar is full, in the next three months I have no flexibility and no optionality and I’m just stuck.”
+
+Jason:
+
+And I had met a lot of entrepreneurs who’ve done that. They’ve like on textbook have done well for themselves but they’re really miserable because they’re running a business that they don’t really like to run in a way. They don’t like to run it but they have no choice anymore because that’s just what they’ve gotten used to doing. And the thing is that you form habits – whether you like them or not and so if you just say yes to things and do a bunch of stuff you don’t want to do and make excuses for the things you’re doing at work, you’re just going to form that habit and do more and more and more of those things. So I think the thing I would probably focus on early is trying to focus on setting up really good habits around my time and attention and getting better and better, making sure I really want to do something before I do it.
+
+Jason:
+
+Because that way I’ll get better and better at moving forward versus getting better and better doing things you don’t want to do and then looking back and going, “Oh, I’ve just done a crappy spot, I don’t like to even go to work anymore.” So I think we’ve been pretty good at that but I would love to have gotten better at that earlier, I think that’s something I think that’s really important. And then the other thing is to grow slowly and in control because you can very quickly lose control of your business by getting out ahead of yourself and putting yourself behind the eight ball and finding yourself in a hole that you have to constantly be digging out of every day.
+
+Jason:
+
+And then you finally dig out of it and other ones right next to you and you have to jump into that one and you can really make things hard on yourself very quickly. So I think just figuring out ways to make things easy on yourself and not feel like that’s being lazy or something. You do want to make things easy on yourself and not every problem requires the most elaborate solution. There’s a lot of very simple solutions to a lot of problems and kind of finding those things I think I would hope to continue to do that over the next 20 years.
+
+Jeroen:
+
+Cool. Thank you, Jason.
+
+Jason:
+
+All right, this is fun, thank you.
+
+Jeroen:
+
+Yeah, nice to have you on.
+
+Jason:
+
+Yeah, take care, bye now.
+
+* * *
+
+Enjoyed it? [Read Founder Coffee interviews with other founders.](https://blog.salesflare.com/founder-coffee) ☕  
+
+  [![Try Salesflare's CRM](https://lib.salesflare.com/images/sf-blog-footer-transparent-800.png)](https://salesflare.com/)
+
+_We hope you liked this episode. If you did,_ _**[review us on iTunes](https://itunes.apple.com/be/podcast/founder-coffee/id1361209224)**!_
+
+👉 _You can follow @salesflare on_ _[Twitter](https://twitter.com/salesflare)_, _[Facebook](https://www.facebook.com/salesflare/)_ _and_ _[LinkedIn](https://www.linkedin.com/company/salesflare)._
+
+### _You might also like 👇_

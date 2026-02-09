@@ -1,0 +1,79 @@
+# FJ Labs’ B2B Marketplace Thesis
+
+For consumers, the Internet has made everything cheaper, better, and faster. We have extraordinary user experiences and infinite convenience. Digital penetration is above 20% in many categories. We can order almost anything online on Amazon and get it within a day or two. We can order food on Doordash and get it in 30 minutes. We can get a car on Uber to take us anywhere within minutes. We can book delightful stays on Airbnb and Booking.
+
+Such a revolution has not yet happened in the B2B world. In most industries we have digital penetration below 5%, and it’s often below 1%. In most categories, there is no online catalog. There is no online pricing. There is no connectivity to the factories to understand manufacturing capacity and availability. There is no online ordering. There is no online payment, no order tracking. Insurance and financing cannot be ordered online. Whether it’s at large enterprises or small businesses, much is still done via pen and paper.
+
+The opportunity is large. B2B accounts for a large percentage of GDP. Many categories have trillions of dollars of annual GMV potential. Given the low penetration, it will take decades to digitize B2B supply chains, so this trend has a long runway ahead of it with the potential for hundreds of startups covering every vertical and geography.
+
+![B2B Market](https://fabricegrinda.com/wp-content/uploads/2024/03/image-3.png)
+
+The timing is ripe for B2B marketplaces to come of age. The technology is now available to weave the various parts of supply chains together online cost effectively. Baby boomers are retiring, leading to a shift in preferred purchasing behavior. Baby boomers preferred picking suppliers through RFPs (requests for proposals). Millennials, however, are digital natives and prefer ordering on online marketplaces.
+
+![](https://fabricegrinda.com/wp-content/uploads/2024/03/image-4.png)
+
+B2B marketplaces are capturing a larger share of VC money going into marketplaces, reaching 20% of marketplace funding in 2023 for the first time and $6.3 billion in funding that year.
+
+![B2B Marketplace](https://fabricegrinda.com/wp-content/uploads/2024/03/image-5.png)
+
+This is not to say that all B2B marketplaces are attractive. Many have struggled to make their unit economics work. Some markets have concentrated supply or demand and are monopolistic on one side of the market or the other. It’s also not enough to look at industry fragmentation at a national or international level. For instance, quarries are rather fragmented in the US, with the largest ones only having a small share of the entire market. You would think you could create a marketplace for gravel like Schuttflix in Germany which is a three-sided marketplace between construction sites, truckers, and quarries. However, private equity companies have rolled up quarries creating local monopolies and oligopolies. Given that you are not shipping sand from one side of the country to the other, you are beholden to your local supplier. These suppliers have pricing power. Should you try to sell their products you would merely be a distributor for them with no pricing power, rather than a real marketplace. 
+
+There are also many categories where there is such price sensitivity on the demand or supply side and thin margins that you cannot charge a take rate. The European B2B marketplaces for food between restaurants and their suppliers Choco and Rekki come to mind. We also suffered from this problem with Katoo, the Spanish version of Choco and Rekki which we invested in. Katoo grew to millions in monthly GMV but was never able to monetize.
+
+In general, given that B2B margins are lower, so it’s important to avoid being operationally intensive and try to remain asset light. Likewise, when industry participants are not tech savvy, it can be extremely expensive to convince them to digitize, so it’s important to pick your industry wisely.
+
+![](https://fabricegrinda.com/wp-content/uploads/2024/03/b2b.png)
+
+On the bright side, you can more commonly find marketplaces with both high average order value (AOV) and high frequency in B2B.
+
+![](https://fabricegrinda.com/wp-content/uploads/2024/03/image-7.png)
+
+Given these constraints, there are 5 ideas that FJ Labs is focusing on under the broader subheading of digitizing the B2B world.
+
+![](https://fabricegrinda.com/wp-content/uploads/2024/03/image-8.png)
+
+1.  **B2B Marketplaces for Inputs**
+
+As described in the preamble, the sourcing of inputs represents massive categories and is mostly done through relationships, email, and Excel. This is true whether the inputs are raw materials such as chemicals or gravel, heavy machinery, or precision parts that go into other products.
+
+We invested in many companies in the industry. While these businesses tend to have high AOV, recurrence, and stickiness, which makes them inherently attractive, there are several important lessons. It’s hard to switch incumbent behavior, so the founders of these businesses are often industry insiders with credibility. Even when the industry has fragmented supply and demand, the take rate tends to be low, so it’s important to have multiple revenue streams which can take many forms: SaaS, advertising, financing, insurance, logistics, etc. Start by focusing on the highest pain point to shorten sales cycles.
+
+![](https://fabricegrinda.com/wp-content/uploads/2024/03/image-9.png)
+
+**2.** **SMB Enablement**
+
+Small business owners often have a romantic vision of what they will be doing when they start their business. The restaurant owner may see himself as the maître d’hôtel of his own restaurant. However, they soon realize that they must spend all their time dealing with everything other than what they imagined. Their work involves a never-ending list of tasks: creating a website, answering comments on Google and Trip Advisor, negotiating with Uber Eats and Doordash, managing their inventory, getting a point of sale, managing a delivery fleet, doing their accounting, and much more.
+
+This is essentially true in every category. As a result, as much as anything else, our investments in this category represent an investment in the future of work. We want small business owners to be able to do the jobs they love while the marketplace does everything else. The role the marketplace plays depends on the category. Odeko is a supplier of coffee beans to coffee shops. It uses its purchasing volume to provide lower prices to coffee shop owners while providing an amazing service as they have the keys to the stores and replenish the inventory at night not bothering the owners during business hours. Slice picks up the phone for pizzeria owners, creates their website and answers comments on Yelp. They also provide a point-of-sale solution. Fresha provides a seat management solution for barbershops to manage their hairdressers and appointment calendar.
+
+Monetization varies as well per category. Odeko sells the beans with a margin. Slice takes a flat fee per order as well as a small take rate. Fresha is free for barbershops for their existing clients and makes a small margin on payments instead.
+
+![](https://fabricegrinda.com/wp-content/uploads/2024/03/image-10.png)
+
+**3.** **Friendshoring**
+
+Given geopolitical concerns and the advent of Cold War 2 pitting China/Russia/Iran/North Korea against the West, companies around the world are urgently diversifying their supply chains outside of China. As a result, there are massive tailwinds in favor of onshoring (moving supply chains domestically), nearshoring (moving them nearby – say Mexico for the US), and friendshoring (moving them into friendly countries).
+
+The biggest beneficiary of this trend is India as it is one of the few countries that has the scale to meaningfully replace China, though the broader trend also favors Indonesia, Malaysia, The Philippines, Vietnam and many more. India is reasonably unique in the sense that it has thousands of individual factory owners. Factory owners typically want to manufacture. They don’t love answering RFQs, prototyping, dealing with shipping, customs, and invoicing. As such marketplaces in the category also fall in the future of work category. Zyod for handles the RFQs, design, prototyping and invoicing and picks the factory that will manufacture.
+
+That said the job to be done varies by category. For ceramics, buyers want direct factory relationships. As a result, Ximkart is a supplier to the factories, but does not intermediate transactions between buyers and sellers.
+
+![](https://fabricegrinda.com/wp-content/uploads/2024/03/image-11.png)
+
+**4\. B2B Labor Marketplaces**
+
+To support these various industries, we have also seen the emergence of B2B labor marketplaces for both in person and remote labor. In this category, staffing businesses are typically more attractive as you can have recurring revenues rather than one time placement fees.
+
+It’s worth noting that this is a secondary thesis for us. Job marketplaces are often advertising arbitrage businesses rather than true marketplaces. Many employers do not know how to advertise effectively online to generate leads. Instead, they hire job sites like Zip Recruiter who in turn advertise on their behalf to find leads. It can be an attractive business, but not a true marketplace as it does not have network effects.
+
+You can tell if your business has network effects if your customer acquisition costs (CACs) start declining as you scale, and more of your supply and demand comes organically. LinkedIn is a real marketplace with powerful network effects. Workrise (formerly called Rig Up) is as well given that the profiles of the welders live on Workrise and it’s their go to destination for everything work related.
+
+![](https://fabricegrinda.com/wp-content/uploads/2024/03/image-12.png)
+
+**5\. Infrastructure to Support B2B Marketplaces and Global Trade**
+
+We are also investing in the infrastructure that supports all these marketplaces and global trade – the pick and shovels of the B2B digitization revolution covering everything from logistics to payments and robotization. For instance, Flexport is a digital freight forwarder that helps coordinate logistics from factory to customer door. Shipbob does ecommerce fulfillment helping online merchants with warehousing, packing, shipping, and returns. Stripe is a global payments provider. Figure aims to replace workers in last mile warehouses.
+
+We even incubated a startup in the space. [Mundi](https://mundi.io/en) is a fintech platform for SMB Mexican exporters for their global sales, financing exports to 43 countries. They are doing over $50M in monthly volume and have processed over $1 billion since inception. They also do collections, FX and cargo insurance. As such they are the ultimate support tool for companies in the nearshoring space.
+
+![](https://fabricegrinda.com/wp-content/uploads/2024/03/Infrastructure-Large.jpeg)

@@ -1,0 +1,77 @@
+# OpenView's Kyle Poyar shares how to build a standout software company in the 2020s
+
+It’s no secret that 2022 has been a brutal year for software companies. Valuations have been slashed, inflation keeps climbing and layoff announcements abound. The whispers of a potential recession have morphed into full-throated shouts. Once high-flying companies now struggle to attract new capital to sustain their growth, causing SaaS executives to pivot hard toward profitability.
+
+The silver lining on this dark cloud: Downturns coincide with a rush of startup activity. Folks who’ve been laid off or have woken up to realize their stock options are suddenly worthless will opt to bet on themselves. They’ll finally take a chance turning that nagging idea into an actual product. And they’ll build a company with the discipline that comes with a macro environment that prizes capital efficiency rather than growth at any cost.
+
+In short, the best software companies of the 2020s will be built over the next 12 months. But the way to build and scale a standout company in the 2020s doesn’t look like it did in the past.
+
+Let’s unpack what’s changed and principles for how to build, distribute and monetize products in this new era, [the Age of Connected Work](https://openviewpartners.com/blog/age-of-connected-work/). I’ll focus on six of the most fundamental principles that apply to nearly every PLG product.
+
+![](https://techcrunch.com/wp-content/uploads/2022/06/1.jpg)
+
+**Image Credits:** OpenView
+
+## Build for the user
+
+The classic B2B playbook focused almost exclusively on executive buyers. The actual end users of a product were an afterthought.
+
+Now, the B2B buyer journey starts with the end user. They discover software products, share them with colleagues and tell their boss what to buy. Product engagement sets the tone and then buyers follow users. You should think deeply about the needs and experiences of the folks who will actually use your products, not just those who will sign the PO.
+
+## Build to be discovered
+
+Software companies used to throw money and bodies at getting noticed by big company executives. Expensive customer acquisition costs weren’t an issue as long as you could maintain healthy top-line growth. Now, prospective buyers feel bombarded by the constant barrage and want to opt out (more and more are even using tools like [Gated](https://techcrunch.com/2022/03/24/too-much-email-try-gated-which-asks-unknown-senders-to-make-a-donation-first/) to mute the unwanted emails).
+
+Techcrunch event
+
+San Francisco | October 13-15, 2026
+
+Today’s best products are discovered by users rather than pitched to executives. Users find winning products in their moment of need through word of mouth, Google, marketplaces or users’ chosen communities. An added bonus of building to be discovered: These modern acquisition channels have low or no marginal costs, letting you scale quickly even on a bootstrapped budget.
+
+Consider the case of Calendly, the scheduling software platform recently [valued at $3 billion](https://techcrunch.com/2021/01/26/how-atlantas-calendly-turned-a-scheduling-nightmare-into-a-3b-startup/) . (Disclaimer: Calendly is an OpenView portfolio company.) Calendly appeals to everyday folks — like recruiters, salespeople, teachers or freelancers — who are fed up with the back-and-forth of scheduling external meetings. Folks discover Calendly organically; someone else shares a Calendly link, exposing non-users to a better way of booking meetings.
+
+![](https://techcrunch.com/wp-content/uploads/2022/06/2.jpg)
+
+**Image Credits:** OpenView
+
+## Build to meet your users where they work
+
+Software products used to be a destination that users had to seek out. As the number of software products inside of an enterprise explode — large companies now have an average of 187 apps, according to [Okta](https://www.okta.com/sites/default/files/2022-02/Businesses-at-Work-2022-Annual-Report_0.pdf) — the old approach simply can’t continue.
+
+The next generation of products will follow users where _they_ spend time, not the other way around. Software products will live where users live, whether that’s their web browser, mobile phones or other software products like Shopify and Slack.
+
+If you’re going to meet users where they are, you’ll need to build for openness and treat your API as a core part of the product experience.
+
+## Build for flexibility
+
+Software companies have traditionally considered too much customization a bug, not a feature. Customization required expensive professional services or engineering work, which meant it was reserved only for the largest, highest-paying customers. Everyone else had to make do.
+
+Now the rise of low-code and no-code technologies are giving individual users the tools to build for themselves. Modern products let users build customized solutions for their own needs. As users become creators, they feel ownership over their software and talk up the products they love.
+
+Look to Airtable, the low-code platform for building collaborative apps, for inspiration. Airtable gives users powerful tools to create their own apps including databases, a drag-and-drop interface designer, automation runs and pre-built scripts. Users can either start from scratch or accelerate the process by turning to Airtable’s library of hundreds of app templates.
+
+## Deliver instant product value
+
+The previous generation of software products shunned self-service. Having a fast time-to-value used to be measured in weeks or months. Not anymore.
+
+Today’s leading products deliver tangible value to users almost instantaneously — sometimes before the user even creates an account. Recall what it was like to get started with Uber, DoorDash or Instacart. That’s the quality of experience users expect in their B2B products, too.
+
+HubSpot, the CRM and marketing software giant, started out with a sales-heavy model. The company has since pivoted to freemium, letting users try out HubSpot’s products for themselves without talking to a salesperson. This pivot has clearly paid off; the company has [grown its customer base](https://www.hubspot.com/hubfs/Analyst%20Day%202021%20Slides.pdf) from 42,000 to more than 121,000 from 2017 to 2021 since going all-in on freemium.
+
+![](https://techcrunch.com/wp-content/uploads/2022/06/3.jpg)
+
+**Image Credits:** OpenView
+
+## Monetize after you deliver value
+
+In the past, software companies monetized on the basis of product access. If a customer wanted a new advanced feature, they’d have to pay for it. If they wanted an integration, there’s a fee for that as well. R&D was expensive and companies needed a way to fund innovation.
+
+This approach doesn’t work if you want to reach the end user or deliver value quickly. Modern software products put their best foot forward with new users, even letting folks try out advanced functionality before asking them to pay. Once trust has been established and users are seeing real value, then — and only then — is it time to ask users to pay.
+
+The best software companies take this mindset even further by introducing flexible, usage-based pricing models. In a usage-based model, customers aren’t required to make a big upfront commitment before using the product. They simply start for free, pay as they’re seeing value, and then opt into a committed-use plan on their own terms.
+
+## A new era for software
+
+In the Age of Connected Work, winning products will be built to be discovered and championed by users, not just executives and managers. They’ll be open and API-based, playing well with the ecosystem of other software products rather than being treated as a walled garden. They’ll be embedded in the existing context of users rather than being a destination that requires users to change their behavior. And they’ll monetize on the basis of product usage rather than expensive seat-based subscriptions.
+
+By embracing these product-led growth principles, you’ll be in a position to leapfrog your legacy competition who won’t be able or willing to reengineer their products for the modern buyer. And you’ll set your company on a path of efficient growth — more important than ever — since growth will be largely driven by the product itself rather than by expensive marketing and sales investments.

@@ -1,0 +1,33 @@
+# Retention Benchmarks
+
+Is 100% net revenue retention bad, good, or great? Questions like this lead teams to seek out benchmarks. I've previously written about the [traps of benchmarks](https://brianbalfour.com/essays/growth-benchmarks) where I made a few points:
+
+1.  **Averages Are Useless -** Most benchmarks are averages. Averages are useless. You want to benchmark against best in class. One of my favorite quotes is from Fareed Mosavat (Reforge EIR, Former Slack) - "Never benchmark against averages. The average company fails."
+    
+2.  **Same Metric, Different Measurement -** CAC is CAC. LTV is LTV. Retention is Retention. Right? Definitely not. I've seen each of these measured in very [different ways](https://brianbalfour.com/essays/average-cac-mistakes-growth) at different companies. So when someone reports these metrics for benchmark reports, its almost never apples to apples.
+    
+3.  **Context Is Everything -** Most benchmarks lack context and we end up with a deceptively incomplete picture.
+    
+
+But there is no denying it, people love benchmarks. Casey Winters and Lenny Rachitsky rounded up [good and great retention benchmarks](https://caseyaccidental.com/what-is-good-retention) from leaders within the Reforge community, which I participated in.
+
+The post triggered a pretty hot convo on Twitter. Some of my takeaways and favorite points:
+
+1.  **Wake Up Call -** I think the good/great values were a wake-up call for some venture-backed founders on what it truly takes to hit that kind of growth. If you don't have these numbers, and you are venture-backed, you need to have an honest discussion if you have a viable strategy to get there because driving [retention is not getting easier](https://www.reforge.com/blog/retention-is-hard-and-getting-harder).
+    
+2.  **When Low Retention Is Ok -** One of my [favorite points](https://brianbalfour.com/essays/growth-benchmarks) was from Dan Hockenmaier ([Basis One](https://www.basisone.com/), Former Thumbtack) who is a co-creator on [Reforge's Monetization program](https://www.reforge.com/monetization-pricing). His point:
+    
+    *   "Low retention can be a good thing, when you have low acquisition and marginal costs, and exponential returns to scale for those that do retain. An example from Ben Thompson is Shopify - “The more companies that use Shopify and fail is a positive indicator for Shopify, because that means they are getting more rolls at the dice at that one thing that hits it big.”
+        
+3.  **Retention Is An Output -** We try to hammer this home in the [Retention program](https://www.reforge.com/retention-engagement-series). You do not improve retention by brainstorming against ideas to improve retention. You have to identify the input that creates retention. That is most often Activation as [Josh Elman points out here](https://twitter.com/joshelman/status/1270740254790520832?s=20).
+    
+
+At the end of the day, my advice is to build bottoms-up model to truly determine whether your retention (or any metric) is bad, good, or great. Your retention has to support sustained growth. Some of the things you need to account for:
+
+*   **Acquisition Motion -** Think about your acquisition motion and whether it supports your ability to grow the product at your current retention rates. For example, if you are a consumer social app with retention that flattens out at 10%, and you need 100M active users to build a big business, that means you need to acquire 1B users. Does your acquisition motion support that? Some recommended reading - [Product Channel Fit](https://brianbalfour.com/essays/product-channel-fit-for-growth) and [Model Channel Fit](https://brianbalfour.com/essays/channel-model-fit-for-user-acquisition).
+    
+*   **Expansion Motion -** The expansion motion also influences what is good and great. If you are a bottoms-up SaaS tool, 100% net revenue retention is not good and won't build a venture scale business. You are acquiring at low ACV's and you need those to expand. But others don't have this motion. In that case, the strategy is to capture more upfront (via 1 year plans, etc) and maintain the dollars.
+    
+*   **What You Can and Can't Influence -** There are levers you can influence, and those you can't. Take Gusto for example. Their pricing primarily expands on the number of employees you have. Is Gusto going to influence how many employees their customers hire? No. That means most of their efforts need to go into **maintaining** their customers vs expanding. The only way to influence expansion is to offer more product lines/tiers which take years to develop.
+    
+*   **Stage + Strategy -** Not all companies had great retention from the start. HubSpot for its first 5 years had below 100% net revenue retention. But that was ok. There was a multi-year strategy to develop add ons, higher-priced tiers, and additional products to drive additional expansion. These strategies don't happen overnight. They take years to develop. By the time HubSpot went public, they had >100% net revenue retention. So while the retention wasn't great early, **_it was good enough to give the company the opportunity to execute those things_**.

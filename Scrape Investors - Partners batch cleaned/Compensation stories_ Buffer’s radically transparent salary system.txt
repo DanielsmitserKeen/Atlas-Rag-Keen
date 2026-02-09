@@ -1,0 +1,443 @@
+# Compensation stories: Buffer’s radically transparent salary system
+
+*   [Buffer’s Compensation Philosophy](https://ravio.com/blog/compensation-examples-buffer#buffers-compensation-philosophy)
+*   [Salary transparency at Buffer](https://ravio.com/blog/compensation-examples-buffer#salary-transparency-at-buffer)
+*   [How salaries are calculated at Buffer](https://ravio.com/blog/compensation-examples-buffer#how-salaries-are-calculated-at-buffer)
+*   [How compensation reviews work at Buffer](https://ravio.com/blog/compensation-examples-buffer#how-compensation-reviews-work-at-buffer)
+*   [How career progression works at Buffer](https://ravio.com/blog/compensation-examples-buffer#how-career-progression-works-at-buffer)
+*   [Total Rewards at Buffer](https://ravio.com/blog/compensation-examples-buffer#total-rewards-at-buffer)
+*   [The future of compensation at Buffer](https://ravio.com/blog/compensation-examples-buffer#the-future-of-compensation-at-buffer)
+
+**🏢 Company name:** Buffer
+
+**🏭 Industry:** MarTech
+
+**🚀 Founded:** 2010
+
+**👥 Headcount:** 50-100
+
+**🌍 HQ location:** San Francisco, USA
+
+**💸 Compensation approach:** Market-leading compensation; full salary transparency
+
+In recent years Buffer has become synonymous with the term ‘salary transparency’. 
+
+Buffer’s CEO, Joel Gascoigne, made ‘default to transparency’ a [core principle of Buffer](https://buffer.com/resources/buffer-values/) back in 2013 when the company’s values were first defined.
+
+The same year, the salaries of all Buffer employees were made publicly available for the first time – having already been shared internally before this.
+
+The company has since become well-known as an example of radical salary transparency.
+
+In this instalment of our ‘compensation stories’ series, we’ll take a look at how salaries are calculated at Buffer and why an open salary system makes sense for the company – as well as looking beyond salary transparency to explore other key elements of the [total rewards strategy](https://ravio.com/blog/compensation-strategy-advice).
+
+Plus, there’s also expert commentary throughout from the Ravio team on compensation best practices.
+
+“Something that I’ve thought about a lot over the years is just how hard salaries are to do right. And also how important they are. People really care about not only what their salary is but the way that a company approaches salaries… we’ve put a lot of time and energy into compensation because we believe it really matters.”
+
+![Joel Gascoigne, CEO of Buffer](https://images.prismic.io/ravio/Z7X7xZ7c43Q3f-a9_Joel-Gascoigne.webp?auto=format,compress)
+
+Joel Gascoigne
+
+CEO at Buffer
+
+## Buffer’s Compensation Philosophy
+
+Buffer’s [compensation philosophy](https://ravio.com/blog/compensation-philosophy-guide) is made up of 4 key principles that guide how compensation decisions are made: 
+
+1.  **Transparent** – the compensation approach and individual salaries are shared to ensure accountability, build trust, and serve as a valuable resource for the wider industry.
+2.  **Simple** – ensuring it’s easy to understand how an individual’s salary is defined.
+3.  **Fair** – team members with the same role, responsibilities, and experience level are paid consistently and equitably. 
+4.  **Generous** – employees are compensated at above the market average to attract the right talent and ensure all team members have the means to thrive.
+
+![Buffer's compensation philosophy](https://images.prismic.io/ravio/Z7X6uJ7c43Q3f-ZA_Buffercompensationphilosophy.png?auto=format,compress)
+
+These compensation principles are derived from [Buffer’s overall company values](https://buffer.com/about#values]), which are:
+
+1.  Default to transparency
+2.  Improve consistently
+3.  Be a no-ego doer
+4.  Show gratitude
+5.  Choose optimism
+6.  Reflect to unblock.
+
+Buffer’s company values tell a story of striving to create a workplace that employees genuinely want to be part of, one where open and honest communication, optimism, reflective time, diverse perspectives, high-level thinking, and humility are embedded in day-to-day work – all of which culminates in the gradual improvement of the team and, therefore, the product.
+
+## Salary transparency at Buffer
+
+Transparency is central to Buffer’s compensation philosophy – and they haven’t held back on putting the principle into practice.
+
+Since 2013 all salaries of Buffer employees have been [publicly available on the Buffer website](https://buffer.com/salaries) (prior to this, salaries were already transparently shared internally), including the employee name, team, role, location, and salary in US dollars. 
+
+![Buffer's open salaries](https://images.prismic.io/ravio/Z7X6vZ7c43Q3f-ZF_Bufferopensalaries.png?auto=format,compress)
+
+The database also includes a link to a [detailed spreadsheet view](https://docs.google.com/spreadsheets/d/1hFb6AtXHCFejAdS-Ianib00oGN-Qi_idp2hM9tuhPY8/edit?gid=1913221096#gid=1913221096) of employee salaries, which includes information on how each individual salary has been calculated. 
+
+![Buffer open salaries – spreadsheet version](https://images.prismic.io/ravio/Z7X6vZ7c43Q3f-ZE_Bufferopensalaries%E2%80%93spreadsheet.png?auto=format,compress)
+
+Buffer also has an open Notion site for their employee handbook, which includes publicly documenting the company’s [‘salary system’](https://buffer.notion.site/Salary-System-7c2c554b303e4462bb3017b875e669ee): the full process and rationale behind how salaries are determined at Buffer _(explored in-depth in the next section of this article)_.
+
+![Buffer salary system notion](https://images.prismic.io/ravio/Z7X6wZ7c43Q3f-ZK_Buffersalarysystemnotion.png?auto=format,compress)
+
+It isn’t just salaries – Buffer is designed to be an open company, with transparency as the “true North Star” for the business, as we saw in the company values. As well as salaries, Buffer’s user metrics, shareholder updates, company spend, and product roadmap are also all [publicly available](https://buffer.com/open).
+
+Buffer's open salaries represent a much more radical approach to salary transparency than typical.
+
+More common approaches would be to share all salary bands internally (but not externally) like [Typeform](https://ravio.com/blog/pay-transparency-examples-open-salary-bands), or to implement a standardised salary formula with a public pay calculator available to job candidates, like [Checkly](https://ravio.com/blog/compensation-strategy-examples-checkly).
+
+So why does this fully open approach make sense for Buffer?
+
+### Why does radical salary transparency make sense for Buffer?
+
+A [compensation strategy](https://ravio.com/blog/compensation-strategy-advice) should always be tailored to fit the unique needs and culture of an individual company. 
+
+So, whilst open salaries are right for Buffer, that doesn’t mean it’s the best choice for every business.
+
+The key reasons that an open salary system makes sense for Buffer are:
+
+*   **Open company, open salaries.** As we’ve seen, transparency is a core tenet of Buffer, with the company making many metrics and processes externally visible that would traditionally be kept private. This stems from the company’s belief that transparency builds trust, holds the leadership team accountable, and drives the industry forward. An open salary system is a natural extension of this for Buffer.
+*   **Pay equity as a company priority.** ‘Fair’ is another of Buffer’s compensation philosophy principles: employees who have the same role, responsibilities, and level of experience are paid equitably. Pay equity and pay transparency are closely intertwined because when compensation decisions are visible, employees gain more control and are able to identify any discrepancies and bias that may be influencing their pay (hence new laws like the [EU Pay Transparency Directive](https://ravio.com/blog/everything-you-need-to-know-about-the-eu-pay-transparency-directive)).
+*   **Company size.** It’s also important to note that Buffer is a relatively small company: as of January 2025 Buffer has 75 employees in 30 different roles. Establishing and maintaining a transparent process and public salary database is always going to be much more manageable in a small and agile company. 
+
+### The business benefits of Buffer’s transparent salaries
+
+Buffer’s compensation philosophy highlights that **transparency builds trust** – and this heightened trust has proved to have a significant positive impact for Buffer in terms of hiring and retaining great team members. 
+
+“We believe that trust is the foundation of great teamwork, and we’ve learned from over a decade of experience that transparency breeds trust.”
+
+![Joel Gascoigne, CEO of Buffer](https://images.prismic.io/ravio/Z7X7xZ7c43Q3f-a9_Joel-Gascoigne.webp?auto=format,compress)
+
+Joel Gascoigne
+
+CEO at Buffer
+
+Buffer’s open salary system goes way beyond normal pay transparency practices and, because of this, the company gained significant press and media coverage when originally announcing their public salary database. 
+
+Salaries have traditionally been shrouded in secrecy, so it’s no surprise that the database attracted significant attention from people curious to see the salaries of Buffer’s employees.
+
+![Buffer salary transparency press attention](https://images.prismic.io/ravio/Z7X6wp7c43Q3f-ZL_Buffersalarytransparencypress.png?auto=format,compress)
+
+Buffer has continued to build on this attention through the years, developing a [dashboard](https://buffer.com/open) for all open metrics about the organisation, and publishing additional content to thoroughly explain how salary transparency works at Buffer and any changes implemented to that process – the most recent being a [blog post by Joel Gascoigne](https://buffer.com/resources/salary-system/), Buffer’s CEO, reflecting on a decade of transparent salaries and introducing their new and improved salary system.
+
+![Buffer new salary system 2024](https://images.prismic.io/ravio/Z7X6u57c43Q3f-ZD_Buffernewsalarysystem2026.png?auto=format,compress)
+
+All of this creates clear employer brand differentiation. 
+
+Buffer is now known as a company with published salaries. This external transparency is a novelty for job candidates looking for a new role, who typically face unknown salaries or vague salary ranges. Applicants know exactly what to expect and can assess whether the company is a good fit for them – plus, they can see that salaries are fair and generous too. 
+
+So it isn’t surprising that it has [improved talent acquisition](https://www.raconteur.net/talent-culture/why-pay-transparency-is-back-in-the-spotlight). Immediately after publishing the open salary database, Buffer saw a [229% increase](https://bettermarketing.pub/how-buffer-got-229-more-applicants-by-embracing-radical-transparency-f5c30fba293a) in applications for open roles. 
+
+Perhaps more importantly, transparency about how compensation decisions are made has also built trust internally with existing employees – supporting retention goals.
+
+Hailee Griffiths, Head of Communications and Content at Buffer, has been an employee since 2016. She shared her perspective on why she has remained loyal to Buffer in a [blog post for her 8th work anniversary](https://buffer.com/resources/8-years-at-buffer/). 
+
+![Hailee Griffiths on why she's been at Buffer for 8 years](https://images.prismic.io/ravio/Z7X6up7c43Q3f-ZC_Buffernewsalarysystem2025.png?auto=format,compress)
+
+One of the key factors for Hailee is compensation, both how competitive and generous Buffer’s compensation is, but also the “transparent and fair salary system” which has “continued to adjust with me over time.” 
+
+She also highlights that she’s “not the exception by being at Buffer for eight years”. It’s clear that employee tenure at Buffer is way higher than standard – in fact “49% of the team has been at Buffer for over five years, another 39% have been at Buffer for seven years, and 6% have been on the team for more than a decade”.
+
+### The downsides of Buffer’s transparent salaries
+
+When [announcing Buffer’s updated salary system](https://buffer.com/resources/salary-system/) _(explored in detail in the next section of this article)_, Buffer’s CEO Joel Gascoigne outlined a few disadvantages of the company’s salary transparency commitment:
+
+*   **Additional work.** The need to design and maintain a compensation approach that the leadership team is accountable to and happy to have scrutinised by existing employees, job candidates, and the general public means close involvement in the process and details.
+*   **Slow decisions and lack of flexibility.** If an issue with compensation arises or a new element is added (e.g. a brand new role added to the taxonomy) then the whole system must be checked and improved, which can slow down processes and decision-making – as well as adding further work, as above.
+*   **Additional costs.** Committing to fair and generous salaries for all employees inevitably means higher payroll costs – and having this information public holds the leadership accountable to maintaining that commitment regardless of budget.
+*   **Employee hesitancy on public salaries.** Some employees or new hires have been reluctant to have their personal salary shared openly, which can be difficult to handle.
+
+These downsides of open salaries are a useful reminder that whilst the system works for Buffer, it isn’t right for every company.
+
+## How salaries are calculated at Buffer
+
+Buffer’s open salary database shows individual employee salaries – but how are those salaries actually determined?
+
+Luckily, Buffer also has publicly available information on how their salary system works, so we can explore that question in-depth.
+
+For a long time, Buffer used a [simple salary formula](https://buffer.com/resources/compensation-philosophy/) to determine individual salaries, using [Radford’s](https://ravio.com/blog/radford-alternatives-for-compensation-management) median salary benchmark for San Francisco for each role, and multiplying this by a cost of living differential to account for employee location. 
+
+Over time, this formula became too simplistic to account for all compensation needs, and inconsistencies started to creep in between teams. 
+
+So in 2024 Buffer [announced a new ‘salary system’](https://buffer.com/resources/salary-system) with the aim of ensuring consistent and fair compensation for all employees.
+
+Buffer salaries are now calculated using the following formula:
+
+![Buffer's salary formula: (Buffer benchmark + COL multiplier) + salary choice](https://images.prismic.io/ravio/Z7X6wZ7c43Q3f-ZJ_Buffersalarysystemnotion-1.png?auto=format,compress)
+
+The ‘Buffer benchmark’ calculation is key to how this works – let’s take a closer look.
+
+### Step 1: Market benchmarks form the foundation
+
+Buffer uses [salary benchmarking data](https://ravio.com/blog/what-is-salary-benchmarking) by [Carta](https://ravio.com/blog/the-best-tools-for-salary-benchmarking) to gauge the current compensation market, aiming to ensure that fair and competitive compensation lies at the foundation of the calculation. 
+
+Buffer filters the benchmarking data as follows:
+
+*   The benchmarking data is filtered for company size, using Carta’s data pool for $10-25M company revenue.
+*   The market benchmark for each role in Buffer’s taxonomy at level 5 is used as the foundation – this is mid-career, as Carta’s level framework runs from 1-11 (and Buffer has adopted the same levels internally) 
+*   Buffer looks at the benchmarks within the 70th-90th percentile for each role to [lead the market on pay](https://ravio.com/blog/lead-the-market-pay-strategy) – the target percentile used for the benchmark currently varies per role as Buffer previously used [Radford’s benchmarking data](https://ravio.com/blog/radford-alternatives-for-compensation-management) at the 50th percentile, so this variance is to ensure consistency in employee salaries with this switch of data provider, with the aim over time to bring all employees to a consistent percentile.
+
+![](https://images.prismic.io/ravio/Z7X6xZ7c43Q3f-ZO_Buffer%E2%80%99stargetpercentilesperfunction.png?auto=format,compress)
+
+### **🕵️ Ravio POV: Is Carta a reliable salary benchmarking data source?**
+
+In their [documentation on how market benchmarks are used](https://buffer.notion.site/Buffer-Benchmarks-c664b9faea39427eaa54c8c489243f7d), Buffer highlights that they have found data gaps within the data they use from Carta – which is the primary reason that they create their own ‘Buffer benchmarks’.
+
+_“We start to run into data issues due to low sample size at certain levels. This inconsistency of sample size leads to significant variance in salaries over time as we pull fresh market data…The Buffer Benchmark helps address the challenges of sample size.”_
+
+They use Carta’s level 5 as the foundational market data because _“the data appeared to be most consistent at mid-levels”._
+
+Carta’s core software is for managing [equity compensation](https://ravio.com/blog/the-complete-guide-to-equity-compensation-for-startups) for privately held, VC-backed startups, mostly US-based. From this, they harnessed their existing database of equity data as the starting point to build their compensation benchmarking database.
+
+However, their core focus on privately held startups with a small headcount means that the data typically skews low due to the small headcount and early stage of these companies – the database has [500,000 datapoints](https://carta.com/data/startup-compensation-h1-2024/#methodology) (i.e. employee salaries) from 45,000 companies, making the average headcount just 11 employees.
+
+Buffer is a privately held startup with a relatively small team of 75 employees, so this dataset does align with the company’s size and stage – an important consideration when evaluating [compensation data providers.](https://ravio.com/blog/the-best-tools-for-salary-benchmarking) 
+
+### Step 2: Extrapolate pay at all levels based on standard employee progression at Buffer
+
+Buffer’s career growth model is then applied to the level 5 market benchmark to determine the difference in each salary for the role.
+
+There are two standardised paths for career progression at Buffer: standard growth, and fast early growth. Fast early growth is used for all roles in Finance or Advocacy (their customer support function) in recognition of the fact that there is a lower entry level for these functions and, therefore, fast progression through the first few job levels.
+
+![Buffer's career progression framework](https://images.prismic.io/ravio/Z7X6xJ7c43Q3f-ZN_Buffer%E2%80%99stargetpercentilesperfunction-1.png?auto=format,compress)
+
+Here's a hypothetical example to put this into context. 
+
+Let’s say Buffer is calculating salaries for each level of their Software Engineering role and the market benchmark at level 5 at the chosen percentile is $150,000.
+
+Buffer would then determine the salary at each other level by applying the career growth model:
+
+*   Level 1: $87,432 (inverse percentage calculation)
+*   Level 2: $104,918 (inverse percentage calculation)
+*   Level 3: $120,656 (inverse percentage calculation)
+*   Level 4: $135,135 (inverse percentage calculation)
+*   **Level 5: $150,000 (market benchmark)**
+*   Level 6: $168,000 ($150,000 + 12%)
+*   Level 7: $191,520 ($168,000 + 14%)
+*   Level 8: $214,502 ($191,520 + 12%)
+*   Level 9: $227,372 ($214,502 + 6%)
+*   Level 10: $241,014 ($227,372 + 6%)
+*   Level 11: $255,475 ($241,014 + 6%)
+
+The resulting salaries are the ‘Buffer benchmarks’.
+
+Whilst a standardised career progression model like this seems logical, the set [salary increases](https://ravio.com/blog/average-pay-rise) at promotion won’t always reflect the reality of fair and competitive pay. 
+
+The reality is that the market moves independently for [each job level](https://ravio.com/blog/how-to-create-a-best-practice-job-levelling-framework) – so the salary for each level should always be determined using [up-to-date market benchmarks](https://ravio.com/compensation-benchmarking) for that level.
+
+Without this market reference point, over time employee compensation for some team members will fall behind market rates. This could cause heightened attrition, as employees look elsewhere to increase their salary, so it’s something to be careful about in your compensation approach. 
+
+In Buffer’s case, this shouldn’t be too much of an issue.
+
+Their compensation philosophy is deliberately ‘generous’ so the benchmarks they do use are focused on paying above market rates. 
+
+Plus, as we’ll see later in this article, Buffer also regularly refreshes the underlying benchmarking data for each role, so if there are significant market shifts happening, they should be alerted to this before it becomes an issue.
+
+However, for most companies, we wouldn’t recommend this approach of using a market benchmark for one level to extrapolate all other levels.
+
+### Step 3: Apply cost of living multiplier 
+
+A cost of living multiplier is then applied to the salary to account for an individual employee’s location.
+
+Buffer uses San Francisco as the core location for making [cost of living comparisons](https://buffer.com/resources/location-independent-salaries/). They compare the cost of living in each employee’s location to San Francisco (a city known to have a very high cost of living), using [Numbeo’s Cost of Living Index](https://www.numbeo.com/cost-of-living/rankings.jsp). 
+
+Numbeo’s COL Index uses New York as the base city, represented as 100 in the index. San Francisco is rated at 90.5, meaning that cost of living is 9.5% lower in San Francisco than in New York.
+
+Included in Buffer’s ‘high cost of living’ band are: Zurich (104), New York (100), San Francisco (90.5), Seattle (81), Washington (81), London (78), Los Angeles (77). 
+
+Buffer doesn't explain exactly how they decide which locations have a high cost of living compared to San Francisco, and which aren’t – but we can infer from the above list that the cut off point is somewhere around Los Angeles at 77% of New York’s cost of living.
+
+Employees in these locations receive a salary at 100%.
+
+All other locations have a 90% cost of living multiplier applied to account for the lower cost of living compared to colleagues – aiming to keep pay equitable across the team. 
+
+So, to continue with the same example, a Buffer level 5 software engineer based in San Francisco would have a base salary of $150,000, but one based in Germany would have a base salary of $135,000 (90% of $150,000).
+
+### **🕵️ Ravio POV: The problem with cost of living multipliers**
+
+Many companies choose a [location-based pay model](https://ravio.com/blog/3-approaches-to-location-based-pay), wherein employee salaries differ depending on their location – relevant both to large global companies who have teams based in several office locations, and also to [remote or hybrid companies](https://ravio.com/blog/employee-benefits-trends) who have employees working remotely in locations outside of the company HQ. 
+
+Competitive market pay varies depending on location, so reflecting this within employee compensation is a strong positive.
+
+However, many companies determine the salary for one location and then rely on cost of living adjustments to calculate how salaries should differ across locations. 
+
+This is exactly what Buffer is doing – using benchmarking data for San Francisco, USA, to base all other locations upon, with a 90% cost of living multiplier for locations with a lower cost of living.
+
+Localising pay is hard and there are a large number of nuanced factors that go into global salary variances. Cost of living is just one factor, alongside others like supply vs demand for a specific role and location – which can actually have much more of an impact on market data. Therefore, relying on cost of living alone to determine salary differences per location is unreliable. 
+
+Furthermore, it’s also very hard to objectively measure the cost of living in different locations. This is especially true outside of major cities, where data is not readily available in databases like Numbeo’s.
+
+Plus, using manual cost of living calculations and building your own benchmarks in spreadsheets (like Buffer is) is time-consuming, unscalable, and leaves a lot of room for error.
+
+Instead, the best practice approach here would be to use compensation benchmarking data for each location, by a provider like [Ravio](http://ravio.com/benchmarking).
+
+Ravio transforms the way you approach compensation, making it easy to build compelling packages in any market. With live, accurate compensation insights, you can align decisions with global market standards across 45+ countries, and understand local benchmarks relative to your HQ base location – all without the hassle of spreadsheets or unreliable cost of living calculations.
+
+### Step 4: Apply ‘salary choice’
+
+The final part of Buffer’s salary calculation is ‘Salary Choice’. 
+
+All new employees at Buffer previously had the option to optimise their compensation package for cash or [equity](https://ravio.com/blog/the-complete-guide-to-equity-compensation-for-startups) – either they’d be granted additional stock options, or have an additional $10,000 added to their base salary.
+
+This is no longer an option in the new evolution of Buffer’s salary system and is being phased out, but it does still apply to several existing employees and so remains part of the salary calculation for now.
+
+### What is the CEO of Buffer’s salary?
+
+The base salary of Joel Gascoigne, CEO of Buffer, is currently **$298,958** per year.
+
+![CEO salary at Buffer](https://images.prismic.io/ravio/Z7X6xp7c43Q3f-ZP_CEOsalaryatBuffer.png?auto=format,compress)
+
+The [CEO salary at Buffer](https://buffer.notion.site/CEO-Salary-3d88f5808df94f32b1002bab773cdbaf) is a deliberate departure from the overall salary system.
+
+Buffer primarily ties CEO pay to company performance, aiming to limit factors and discrepancies that would mean that company executive pay vastly outpaces that of the rest of the team. 
+
+To enforce this, the CEO salary is a more simple calculation: CEO benchmark x cost of living multiplier – and Joel Gascoigne is based in Boulder, so has the 90% cost of living multiplier applied to his salary. 
+
+There are no job levels involved and the percentile used for the benchmark is consistent with all other team members (currently between 70th-90th, in future all will be the same percentile). 
+
+This effectively means that the only way that CEO pay can increase is:
+
+*   Company revenue increases and so the company size filter applied when benchmarking is changed – directly connected to company performance, and the change would also see a salary increase for all employees
+*   The market benchmark used for the CEO increases
+*   The target percentile used for benchmarking is changed – again, this would be changed across all employees.
+
+However, it’s also important to note that as the founder of Buffer, [Joel Gascoigne also has a significant equity stake](https://buffer.notion.site/Ownership-ea68c64db76a4914b4103738fbf1faf5) in the company, which is where his main economic upside comes from.
+
+Joel currently holds 56.78% of issued shares in Buffer – a significant majority. Investors hold 38.25%, ex-employees 3.87%, and current employees 1.09%.
+
+![Buffer equity pool – founder vs investors vs employees](https://images.prismic.io/ravio/Z7X6uZ7c43Q3f-ZB_Bufferequity.png?auto=format,compress)
+
+There’s no information given on whether the CEO / founder is eligible for [equity refresh grants](https://ravio.com/blog/how-to-use-equity-refresh-grants-for-employee-loyalty-and-retention) or other elements of compensation which may bolster the base salary.
+
+### Can new hires at Buffer negotiate their salary?
+
+Salary negotiation is not allowed during the Buffer hiring process. 
+
+This is in order to maintain consistency in how individual employee salaries are calculated – for Buffer, salary negotiation is a key time when discrepancies arise that benefit individual team members, leading to pay equity issues, and so this has been eliminated.
+
+### **🕵️ Ravio POV: Does salary negotiation impact pay equity?**
+
+The gender pay gap is most likely to arise during the hiring process – new hire salaries for women are systematically lower than for men performing work of the same value.
+
+This was a key finding of our [Ravio Pay Equity Report](https://ravio.com/pay-equity-report-2024).
+
+To give one example, we found that for P4 Software Engineers in the UK the median new hire salary for men is £85,000 whereas for women it is £82,288 – an adjusted pay gap of 3.3%.
+
+In contrast, there is no statistically significant difference in promotion rates or promotion pay increases between men and women.
+
+This indicates that discriminatory hiring practices are leading to lower new hire salaries for women – and the [salary negotiation process is absolutely part of that](https://www.pon.harvard.edu/daily/salary-negotiations/the-backlash-effect-for-women-negotiators-in-hollywood-and-beyond-nb/). So, Buffer’s no salary negotiation policy definitely makes sense for eliminating discrepancies. 
+
+![Promotion rates and promotion pay increases: men vs women](https://images.prismic.io/ravio/Z7X6x57c43Q3f-ZR_image124.png?auto=format,compress)
+
+## How compensation reviews work at Buffer
+
+At Buffer, [compensation reviews](https://ravio.com/blog/complete-guide-to-compensation-reviews) focus on [‘rebenchmarking’](https://buffer.notion.site/Rebenchmarking-1c0df96cdb4240a68d711266236931de) i.e. updating the salary benchmarking data that is used within salary calculations, to reflect any changes in the market and ensure employee salaries keep up with market rates.
+
+Buffer’s benchmarking data is currently updated once a quarter, and the Buffer benchmarks are updated twice a year (June and December) to reflect any market changes, with individual salaries adjusted at this point if required.
+
+There is no [pay for performance](https://ravio.com/blog/pay-for-performance-the-pros-and-cons) element in Buffer’s compensation review process. Again, this is to maintain consistency – salaries are only increased due to [market adjustments](https://ravio.com/blog/market-adjustment-raises), where changes are made to the underlying salary calculations, or due to career progression for individual employees.
+
+### **🕵️ Ravio POV: Does the choice not to reward performance put employee motivation and retention at risk?**
+
+The benefits of a [pay for performance model](https://ravio.com/blog/pay-for-performance-the-pros-and-cons) are:
+
+*   Supporting the retention of top talent by recognising and rewarding them for their contributions
+*   Increasing employee motivation and improves output through incentivising high performance
+*   Improving strategic alignment through connecting business goals and priorities with employee rewards.
+
+So, Buffer does potentially put motivation and retention at risk by not including performance within their compensation review cycle.
+
+However, Buffer already has a ‘generous’ compensation philosophy, paying above the market and regularly adjusting salaries based on market changes. Plus, Buffer employees also receive equity compensation (_see section below)_, which naturally incentivises them to perform well to ensure the business is successful – increasing the upside potential of their equity.
+
+Therefore, that motivation and retention risk is less likely here, and as we saw earlier in the article, it does seem that Buffer has a much higher than average employee tenure.
+
+Pay for performance does have disadvantages too.
+
+[Studies](https://ideas.repec.org/a/iza/izawol/journl2022n152.html) have found that it can encourage a competitive, individualistic, high-stress culture as employees are incentivised to meet targets before pay reviews.
+
+It can also cause pay equity issues and inconsistencies if [approached incorrectly](https://ravio.com/blog/how-to-ensure-merit-increases-are-effective) – which, given their core principles, is likely why Buffer avoids rewarding performance. Rewarding performance inevitably relies on subjective performance reviews to an extent, which can introduce bias and, therefore, pay inconsistencies and inequities.
+
+## How career progression works at Buffer
+
+Buffer’s new salary system (from 2024 onwards) also included the introduction of a new level framework. 
+
+Previously, each department had autonomy over how job levels and titles were used, but this was leading to inconsistency and confusion, so standardised levels are now in place.
+
+Here’s a snapshot of the framework, and the full descriptions can be found in [Buffer’s salary system Notion wiki.](https://buffer.notion.site/Buffer-Career-Framework-Levels-Steps-2c37beef51ff407599c36a463cec3113)
+
+![Buffer's level framework](https://images.prismic.io/ravio/Z7X6w57c43Q3f-ZM_Buffer%E2%80%99slevelframework.png?auto=format,compress)
+
+Each level also has two ‘steps’ within it, to enable career progression within an employee’s existing level to be recognised:
+
+*   **Step 1:** The default step for all employees who are fulfilling expectations for their level. 
+*   **Step 2:** The ‘halfway point’ between one level and the next, to recognise employees who are starting to show the skills and impact expected at the next level and are very experienced within their level.
+
+No details are given on the expected timeline in terms of how long it takes a typical Buffer employee to move from step 1 to step 2, to a promotion to the next level. 
+
+In terms of pay progression at Buffer, then, there are three ways that employee salaries can increase: market adjustments during rebenchmarking, underlying changes made to the salary system e.g. [target percentile](https://ravio.com/blog/the-compensation-metrics-every-hr-team-should-be-tracking) increased, company size filter increased, salary calculation changed, or a promotion to the next step or level.
+
+## Total Rewards at Buffer
+
+Buffer is well known for their transparent salaries, so much of this example has focused on how salaries work at Buffer.
+
+But salary is just one element of compensation. 
+
+So, what does total compensation look like at Buffer?
+
+### Employee equity at Buffer
+
+Buffer does offer equity compensation to all employees on top of base salary, but the [stock option approach](https://buffer.notion.site/Our-approach-to-stock-options-923abb3ff51a4b4689f731f4e6f46488) is currently being re-designed and there has been no public announcement about this yet.
+
+The information on the Buffer Notion wiki suggests that there will be three elements to equity compensation at Buffer:
+
+1.  A new hire grant for all new joiners
+2.  Promotion grant issued at the point of promotion to reflect increased impact 
+3.  Evergreen grant issued at pre-defined employee tenure milestones to encourage employee retention and loyalty. 
+
+### Profit-sharing bonuses at Buffer
+
+Since 2017 Buffer has had a profit sharing programme in place, where employees are rewarded [profit share bonuses](https://ravio.com/blog/employee-bonuses-pros-and-cons) to share in the financial success of the company. 
+
+Employees received these profit share bonuses from 2017-2021, but did not in 2022 and 2023 because the company was not profitable in those years. 
+
+In 2024 Buffer [returned to profitability](https://buffer.com/resources/2024-profit-share/), and so employees received their profit share bonus. 
+
+![Buffer profit share bonuses – employee reaction](https://images.prismic.io/ravio/Z7X6vp7c43Q3f-ZG_bufferprofitsharebonuses.png?auto=format,compress)
+
+15% of the company’s net profit was distributed to employees through this bonus structure, totalling around $30,000 for 2024.
+
+With 73 team members, this gave an average bonus of $416 per employee – but the exact amount did vary depending on the following factors: 
+
+*   40% was distributed equally across all team members
+*   40% was distributed weighted by base salary, to reflect the level of responsibility and impact of each team member
+*   20% was distributed weighted by tenure, to reflect the value of long-term commitment.
+
+![Buffer profit share numbers for 2024](https://images.prismic.io/ravio/Z7X6v57c43Q3f-ZI_bufferprofitsharenumbers.png?auto=format,compress)
+
+### Employee benefits and perks at Buffer
+
+Flexibility and work/life balance is a clear priority for [Buffer’s employee benefits package](https://buffer.com/journey), including:
+
+*   **100% remote:** employees are free to live and work wherever they like
+*   **4 day work week:** Buffer adopted a 4 day work week as an experiment in 2020 and has maintained it due to the [hugely positive impacts](https://buffer.com/resources/4dww/) on employee health and wellbeing.
+*   **Office holiday closure**: all Buffer employees [take the last week of the year off](https://buffer.com/resources/closed-for-the-holidays/) as an opportunity to recharge and reset without relying on holiday allowance 
+*   **Sabbaticals**: once employees reach their 5 year Buffer anniversary they are able to take a fully paid 6 week sabbatical 
+*   **Home office stipend**: a one-off $1,000 stipend to spend on home office improvements
+*   **Working smarter stipend**: additional funds for home working needs e.g. paying for a co-working space.
+
+Buffer also has particularly strong [benefits](https://ravio.com/blog/employee-benefits-guide) for parents, which, given [the role of childbearing on the gender pay gap](https://ravio.com/blog/3-reasons-why-there-is-a-gender-pay-gap), aligns with the company’s focus on fair and equitable pay:
+
+*   **Dependent stipend**: all employees with dependent children are granted an additional $250 per month per child in recognition of the significant additional expense of raising a family – this is issued separately from salary to maintain consistency
+*   **Family leave**: all parents receive 16 weeks of fully paid family leave.
+
+## The future of compensation at Buffer
+
+Buffer plans to continue to refine and improve the salary system over time, to continue to simplify the approach and further align with the guiding principles of the company’s compensation philosophy.
+
+As it stands, [the top priorities for future adjustments](https://buffer.notion.site/Future-Iterations-896bdd5e299f482ea661cafe23e0343a) include:
+
+*   **Location-independent salaries.** Removing the cost of living multiplier from salary calculations and instead pay all Buffer employees at the high cost of living rate.
+*   **Consistent target percentile.** Align the target percentile used across all departments to bring consistency. Two scenarios are being explored: bringing all employees to the 80th percentile (additional payroll cost of $314,467) or to the 85th percentile ($802,551) – something that would be easy to investigate using the scenario modelling feature in [Ravio’s salary bands software](https://ravio.com/bands).
+*   **Eliminate ‘salary choice’**. Whereas many companies are exploring more flexible compensation models, Buffer has removed the ability for new hires to opt for additional stock options or additional base salary. In time, Buffer will also remove the additional base salary from employees who chose this option at the time, to bring further consistency – likely at the same time as they move to location-independent salaries. 
+
+### 📊 Get the data on how other companies approach compensation with Ravio
+
+[Book a demo](https://ravio.com/get-started) to see how easy it is to find the data you need on market benchmarks and compensation trends in Ravio – or get started yourself with [3 free benchmarks](https://ravio.com/get-3-benchmarks).

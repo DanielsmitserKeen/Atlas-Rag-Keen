@@ -1,0 +1,121 @@
+# An A/B Testing Story
+
+Hiya guys!
+
+Patrick (patio11) here. You're getting this email because you signed up on my blog for thoughts on software. As promised last week, I've got a story for you about A/B testing.
+
+\[Edit: Actually, it's possible that you've never gotten an email from me. Somebody might have just given you the link to this page, which is an online archive of an email that I sent to folks who had asked for it. If you'd like to get articles like this in your inbox, totally free, about once a week or two, [give me your email address](https://training.kalzumeus.com/).\]
+
+So I haven't written that much over the years about Appointment Reminder. This is principally because I like writing about things which are interesting to me, and while _building_ Appointment Reminder was great fun, _operating_ it was a slog for a number of years. Partially for focus reasons, partially for lack of interest, and partly because business is hard, AR had a four year period of low, slow, almost linear growth. It was on the [Long Slow SaaS Ramp of Death](http://businessofsoftware.org/2013/02/gail-goodman-constant-contact-how-to-negotiate-the-long-slow-saas-ramp-of-death/).
+
+The cliche in the Valley is that you want to be riding rocketships. AR was like riding a rickshaw. Not the trendy San Francisco hipster-approved rickshaw, either.
+
+I did have one great success back in 2014, though -- I shipped an A/B test. Well, technically speaking, I shipped a handful of A/B tests... and one worked.
+
+## The Cobbler's Children Have No Shoes
+
+I'm reasonably good at conversion optimization. Implementing A/B tests for companies, or teaching their engineers/marketers to self-serve on the same, was one of my bread-and-butter consulting engagements.
+
+(I used to consult for software companies. In broad strokes, the goal was to turn $20 million a year B2B SaaS companies into $22 million a year B2B SaaS companies. In specifics, it was mostly lifecycle emails and conversion optimization. For more on these dark magicks ^H^H^H^H pedestrian applications of cron jobs, copywriting, and high school math to the problems of software companies, see the last 10 years of my blog or HN comments.)
+
+Anyhow. Total number of A/B tests implemented in first 3 years Appointment Reminder was in business: zero. At first I justified that by saying "There is no traffic", which is a good reason to not A/B test, and then I was more focused on churn, which is a middling reason to not A/B test, but by the third year of it we're left with "I'm lazy and don't really care about improving the business."
+
+## The Test That Worked
+
+There are a few points of anomalously high leverage in a software business, assuming a low-touch sales model. A few of them:
+
+*   The homepage
+*   Landing pages, if you do PPC or scalable SEO
+*   The trial signup
+*   The first-run user experience
+*   The point at which you capture the credit card (pre-trial or towards the end of it, depending on your model)
+
+Let's focus on the trial signup.
+
+Appointment Reminder uses a fairly standard 30 day free trial, with the wrinkle that it is card-up-front. This is largely an anti-abuse measure. AR can make phone calls with essentially arbitrary content. I didn't want one of the Internet hate machines to discover that and try DDOSing the phone of the momentary target of their affections.
+
+One nice thing about card-up-front trials: conversion rates to paying subscribers are much higher than they are in no-card-required free trials. AR's comes in at about 40%. Most of my SaaS buddies think that net you get more paying customers by gating on a credit card unless you have a really stellar mid-trial outreach program, but this is probably [one of the more contentious](http://www.startupsfortherestofus.com/episodes/episode-179-when-to-ask-your-customers-for-credit-cards) topics in the scintillating world that is small business SaaS.
+
+Here's what the trial signup used to look like:
+
+[![](http://images1.kalzumeus.com/blog-images/ab-test-manual/ar-signup-one-step.png)](http://images1.kalzumeus.com/blog-images/ab-test-manual/ar-signup-one-step.png)
+
+## What Is Wrong With This Signup Page?
+
+One of the reasons why most software companies, probably including yours, don't actually do A/B testing is because identifying areas for improvement is tricky. What's wrong with this signup page? It's tempting to say "_Everything_ is wrong with this signup page!", but that isn't actionable. And some parts of it aren't horrific -- the right hand sidebar is ugly as sin, but contains some meaningful risk reducers. The H1 isn't half bad.
+
+But the number of form fields required -- too high. The sheer visual weight of the signup task bludgeons customers into submission. The password confirmation is just a straight-up error; I literally told a consulting client "I will never ship a password confirmation box in a B2B product" and they said "We copied ours from AR", which was a face-palm moment for me. (Password confirmation fields delay task completion, are annoying for users, make using password managers harder, and optimize for reduced support requests rather than for user success.)
+
+I considered cosmetic tweaks to the page -- wordsmithing here, taking off a field there, etc -- but eventually hit upon a better idea: try testing this flow in two stages, instead.
+
+## Multi-stage Signup Flows
+
+It is well known in the survey industry that you get higher survey completion rates if you break up huge forms into an achievable number of steps asking only a few questions each, but this isn't used as frequently in software. I wasn't entirely sure it would work out, and implementing it required some engineering changes on the backend.
+
+I did some very minor changes to the structure of the form (eliminating the plan selector, since customers could always change that later, and eliminating the password confirmation) and split it in two:
+
+[![AR two stage signup 1](http://images1.kalzumeus.com/blog-images/ab-test-manual/ar-signup-two-steps-1.png)](http://images1.kalzumeus.com/blog-images/ab-test-manual/ar-signup-two-steps-1.png)
+
+[![AR two stage signup 2](http://images1.kalzumeus.com/blog-images/ab-test-manual/ar-signup-two-steps-1.png)](http://images1.kalzumeus.com/blog-images/ab-test-manual/ar-signup-two-steps-2.png)
+
+## Why Didn't I Just Ship That Change?
+
+Some changes are clear improvements and you'll always ship them. Some changes have too low business saliency to bother optimizing. One develops a sense for this after having run hundreds of tests.
+
+This change was not obviously a win. Some UX folks would argue, forcefully, that best-practice is reducing the number of steps a user has to go through. One might sensibly posit that customers might feel bait-and-switched when the first page lead to the second rather than straight into the application, and therefore bail immediately on Appointment Reminder and complain about us on Twitter.
+
+Most changes don't move the needle, at all. If it were as easy as tweaking your UX to victory, companies would do little else. Sadly, in the real world, even among tests your team feels great about, roughly 3/4 will get a null result (insufficient evidence to reject the null hypothesis, i.e., you don't have clear signal that either variant was better than the other). Of the remainder, half develop a significant result... in the wrong direction. A/B testing is a lifetime subscription to Humble Pie Magazine.
+
+## So How Did It Work Out?
+
+If 7 of 8 A/B tests or so are a waste of time, this one was the 8th. (Yeah, I know stats doesn't work like that. Roll with me.)
+
+The test ended up running for several months. One thing I like about A/B testing is that it is set-it-and-forget-it. And, indeed, I forgot it.
+
+The conversion rate for original trial signup was 1.40%. The two-stage signup got 2.11% -- roughly a **50% lift in trial signups**. ("Did you check for statistical significance, Patrick?" Yes.)
+
+Appointment Reminder's traffic has been roughly steady over the last several years (largely due to lackluster marketing), and at 1.4% conversion to the trial, new signups per month barely covered churn. We were growing, but it was a long, long uphill slog.
+
+## Escaping The SaaS Plateau
+
+SaaS companies have a really unpleasant mathematical fact about them: if traffic is constant, you **will** plateau at a certain number of customers. You can even calculate the number: solve for TRAFFIC\_PER\_MONTH \* CONVERSION\_TO\_PAID = PLATEAU\_CUSTOMER\_COUNT \* MONTHLY\_CHURN. It will take you longer or shorter to get there, but once you are there, you're done. The business just _cannot_ grow customer count until you grow traffic or reduce churn.
+
+A happy consequence of this unhappy law: if you increase trial conversion by 50%, you will start to approach a new asymptote, 50% higher than your old asymptote, without needing to increase ad spend, sacrifice a goat to the SEO gods, or dig deep to find the product improvements that structurally alter churn.
+
+**50% increase in the trial conversion basically doubled the enterprise value of the business**.
+
+That sounds like malarky, right? Nope, true. Here's the handwavy math: assume small software businesses are valued proportionate to their free cash flow, which is [largely accurate](http://www.kalzumeus.com/2016/08/26/kalzumeus-podcast-episode-13-selling-online-businesses-with-thomas-smale/). AR, like most SaaS businesses, has fat margins on the last customer (90%) but fairly high fixed costs (servers, support, etc), which resulted in it having approximately ~40% net margins. If you model its pre-test asymptote as $X of revenue, then it has 0.4X seller discretionary earnings, which implies a valuation of approximately 1.2X to 1.6X.
+
+Now add 0.5X of revenue at the higher asymptote, which contributes 0.45X of margin (no need to buy additional servers or support staff at such low absolute numbers; we're overprovisioned by lots). This brings seller discretionary earnings to 0.85X, implying a valuation of 2.55X to 3.4X. **More than doubled.**
+
+## If You Run A Business, And It Works, You Should Be Testing
+
+Is this the best A/B test I've ever shipped? Oh, heck no. I've had headline tests at software firms produce plural orders of magnitude more money. But this is the one that won't get me sued to death to tell you about.
+
+If you work at a software company where the economic engine fundamentally works, you should be doing A/B testing for the same reason you have an accountant do your taxes. It is a low-risk low-investment high-certainty way to increase economic returns. (It also helps you optimize for other things, like getting data to support whether UX changes increase or decrease task success for your customers, but the economics are why savvy businesses buy A/B testing.)
+
+But there is no glide path to starting A/B testing. Most companies that successfully adopt it arrive at that organically, by having one or a small number of internal champions spend a few weeks of reading on the Internet, experiment with it skunkworks style, and eventually get buy-in from the rest of their team to do it For Real. Or they hire consultants to do it for them.
+
+A/B testing consultants are in the business of quantifying to the penny how much value they can produce in a two week engagement. Good ones are not cheap; cheap ones are not good. My rack rate when I quit consulting was $30k a week, and I got it, and that isn't top of the market.
+
+I've been blogging and speaking about this subject for years now, but that didn't actually change behavior at most companies whose founders/employees read my blog. (Direct quote from a client: "We've read your blog for 4 years. I love the stuff on A/B testing!" "Awesome, what are you testing right now?" "We've never run an A/B test!")
+
+If you want a more focused guide to A/B testing than paging through 3 million words on my blog and HN comments, you will soon have an option. I had been working on-and-off on a video course on A/B testing for the last few years. Nick Disabato helped me finally get that project over the finish line. (If you don't know [Nick](http://draft.nu/), he's who I would be if I had fashion sense, could design to save my life, or focused more on e-commerce than SaaS specifically.)
+
+Nick is taking pre-orders for the course on A/B testing which we put together. We intended it to be the one-stop, get-it-done guide to successfully starting A/B testing at your company, and getting over the process, logistical, and political impediments to success.
+
+It's described in more detail [on his site](https://draft.nu/manual/). If your business is operating at scale, you should buy it. (And if you buy it by Friday the 23rd, that will save you a bit of money.)
+
+If you’re not ready to invest a few hundred dollars into A/B testing, or you don’t really learn best from video, no worries. He is also producing a book, the A/B Testing Manual. It is also [available for pre-order](https://draft.nu/manual/). Nick takes books _very seriously indeed_ -- his Cadence and Slang is a beautiful designed take on user experience and interaction design. I expect the A/B Testing Manual will be up to his usual standard.
+
+Getting this done with Nick was my last major project before joining Stripe, and I'm looking forward to seeing what you do with it. Drop me a line when you have a fun story to share, too.
+
+Regards,
+
+Patrick McKenzie
+
+P.S. If you pre-ordered the Software Conversion Optimization course from me a ways back, you'll get the course finally delivered when this ships, and I'm buying you a copy of the A/B Testing Manual. Sorry for the delay: had a baby, did startup, two years vanished, and now I find myself _employed_ and wondering how the heck that happened.
+
+|     |     |
+| --- | --- |
+| ### Contact us<br><br>Kalzumeus Software  <br>1608 S. Ashland Ave  <br>Suite #95114  <br>Chicago, IL 60608  <br>patrick@kalzumeus.com  <br>www.kalzumeus.com | ### Feel Free To Share This<br><br>Anybody interested in seeing these emails on a regular basis should go to [my site](https://training.kalzumeus.com/) and give me their email address. If you'd like to share [this link](https://training.kalzumeus.com/newsletters/archive/ab-testing-story) around, though, go right ahead! Copyright by Kalzumeus Software, LLC & Patrick McKenzie 2026, yadda yadda yadda, I trust you not to abuse it. |

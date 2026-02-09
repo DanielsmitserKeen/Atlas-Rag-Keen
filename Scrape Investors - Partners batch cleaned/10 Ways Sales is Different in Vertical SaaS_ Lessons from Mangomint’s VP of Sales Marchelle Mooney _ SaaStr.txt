@@ -1,0 +1,154 @@
+# 10 Ways Sales is Different in Vertical SaaS: Lessons from Mangomint’s VP of Sales Marchelle Mooney
+
+Marchelle Mooney, VP of Sales at Mangomint joined us at 2025 SaaStr Annual + AI Summit for one of our best deep dives on sales and GTM in vertical SaaS yet.
+
+Marchelle brings a unique perspective to vertical SaaS sales—she’s a former hairdresser and salon owner who transitioned into SaaS sales leadership. At Mangomint, she leads sales for a deep vertical SaaS platform serving salons and spas. Her journey from thinking “SaaS just meant you had attitude” to becoming a VP of Sales at a fast-growing vertical SaaS company gives her insights that bridge the gap between traditional enterprise SaaS playbooks and the reality of selling to SMB vertical markets. She credits much of her learning to Jason Lemkin and the SaaStr community.
+
+MangoMint today processes well over 1,000,000 appointments a month and a $2B GMV run-rate for over 5,000 salon and spa customers.
+
+* * *
+
+## Top 5 Learnings: The Vertical SaaS Sales Playbook
+
+### 1\. Deep Domain Credibility is Non-Negotiable—Build Trust From the First Click
+
+**The insight:** Your founding team needs deep insider knowledge of the vertical before shipping a single line of code. This isn’t about market research—it’s about speaking the language fluently.
+
+Marchelle emphasizes that credibility builds trust instantaneously. From the moment a prospect lands on your website, they should see language that feels like their own world. At Mangomint, this means understanding the difference between how a hair salon refers to their “client” versus how a med spa calls them a “patient.”
+
+She’s witnessed demos end immediately because a rep used the wrong terminology. In one case, calling a “patient” a “client” was enough for the prospect to disconnect—that’s how critical getting the language right is in vertical SaaS.
+
+**The key principle:** You’re solving problems for customers who don’t know what they don’t know. Many verticals have been using antiquated playbooks for years. Your product needs to answer questions they haven’t even thought to ask yet, and you can only do that with genuine insider knowledge.
+
+**Why it matters:** When Marchelle started at Mangomint in 2018, every tenth call involved unseating pen and paper booking systems. Today, it’s maybe once a year. The market has evolved, but the need for domain expertise hasn’t—it’s just shifted to different problems, like introducing AI to customers who’ve only used ChatGPT to decide between sushi or Thai for dinner.
+
+* * *
+
+### 2\. Win by Eliminating Choice—Your SMB Customers Have Analysis Paralysis
+
+**The insight:** Vertical SaaS customers, especially SMBs, struggle with too many options. Unlike enterprise buyers who might want flexibility and customization, your vertical customers want you to tell them the right way to do things.
+
+Marchelle uses a simple analogy: “What are we doing for dinner? We could do sushi. We could do Thai.” As soon as there are two options, she’s in analysis paralysis. Her customers feel the same way.
+
+**The approach:** At Mangomint, they’ve eliminated choice not by limiting features, but by presenting a clear, opinionated path forward. They’re going after a vertical where customers aren’t using any AI products except ChatGPT for personal decisions. This creates an opportunity to be prescriptive about the right solution.
+
+**Why this works in vertical SaaS:** Your customers are busy operators. A salon owner is literally doing a demo while bleach is processing on a client five feet away, and they might need to pause the call to shampoo someone. They don’t have time to evaluate ten different workflow configurations—they need you to show them the one that works.
+
+* * *
+
+### 3\. PLG + SLG = The Perfect Vertical SaaS Motion (When Done Right)
+
+**The insight:** The debate about “PLG is dead” versus “SLG is back” creates a false dichotomy. In vertical SaaS, you need both—but PLG serves a different purpose than in traditional SaaS.
+
+Mangomint offers a 21-day free trial (not a freemium product), but they don’t use it to replace sales—they use it to supercharge sales conversations.
+
+**How it works:**
+
+*   Prospects can start a trial and explore the product independently
+*   But the trial becomes a data goldmine for sales reps
+*   When Sally from the waxing studio goes straight to the memberships tab, rage clicks, and leaves, the AE gets an alert
+*   The rep sends a personalized text: “Hey Sally, I’m Marshelle with Mangomint. Thanks for starting a trial. Looks like you’re building memberships. What memberships do you currently offer? Would you like to see how Jessica’s spa down the street does $30k a month in memberships using Mangomint?”
+
+**The framework:** “The product proves, the humans frame the value.”
+
+The trial isn’t about product-led conversion—it’s about conversation-led conversion informed by product data. This is personalization at scale, using PLG as a tool rather than a replacement for sales.
+
+* * *
+
+### 4\. Master Sub-Vertical Dominance Through Micro-Niche Fluency
+
+**The insight:** Within your vertical, there are sub-verticals, and each one thinks they’re unique and special. Treat them like the unicorns they believe they are.
+
+At Mangomint, a hair salon owner doesn’t use the same terminology as a med spa owner. These aren’t just semantic differences—they represent different mental models, different workflows, and different Facebook groups (literally—hair salons don’t join the same Facebook groups as med spas).
+
+**The strategic approach:** Marchelle calls this “breaking through the silence.” Unlike horizontal SaaS where you’re cutting through noise, in vertical SaaS you’re often dealing with silence—isolated communities that don’t cross-pollinate. Each sub-vertical lives in its own bubble.
+
+**The execution:** Go on “sub-vertical dominant sprints.” Master one micro-niche completely before expanding. Know the words they use, train your reps with 100% fluency, and dominate that sub-vertical before moving to the next.
+
+**Why this matters:** This isn’t about having a tighter ICP or a cuter logo—it’s about fundamentally different go-to-market execution. The playbook is flipped upside down from traditional SaaS.
+
+* * *
+
+### 5\. Make Onboarding Your Sales Weapon—Trust Before Revenue
+
+**The insight:** In 2022, Mangomint moved their customer success team into the new revenue organization and transformed them into an onboarding team. This wasn’t just an org chart change—it was a strategic repositioning of how they build trust.
+
+**The approach:** Mangomint offers completely complimentary white-glove onboarding. They migrate client lists, client history (sometimes medical history), sales history, service menus, staff schedules, and payroll setup—all for free, often before the customer has paid a single dollar.
+
+**Why SMB vertical SaaS is different:** These customers don’t want to pay to migrate their mission-critical data. Unlike enterprise customers who might have budgets for implementation services, SMB customers in vertical markets expect you to make it easy.
+
+**The payoff:** By building trust first through free onboarding, you can later layer in charging for premium outcomes and growth features. Trust is Mangomint’s number one company value “by design, not by default.”
+
+This approach also extends to support. While many SaaS companies are moving to AI-first support, Marchelle heard the HubSpot CEO and others say “support is done, it’s AI-owned” multiple times at SaaStr. But when she asked her VP of Customer Operations about their AI support tool Finn, the response was revealing: “Finn doesn’t know who canceled the haircut on Tuesday at 2pm with Jessica.”
+
+**The vertical SaaS reality:** You need a different support playbook. Problems that come up might not be software problems—they’re vertical problems. You need to show customers you can help them with these issues and teach them to solve them over time. (Good news: They eventually have a report for that, so the person won’t reach out again about canceled appointments.)
+
+* * *
+
+## Top 3-4 Mistakes Marshelle Made (and What She Learned)
+
+### 1\. Initially Underestimating the Importance of Vertical Athletes in Hiring
+
+**The mistake:** Early on, there was likely too much emphasis on finding reps with SaaS experience and big logos on their resumes, without enough weight on their ability to operate at the altitude of the vertical.
+
+**The learning:** A Salesforce enterprise rep with an impressive resume might be completely wrong for selling to a salon owner doing a demo while processing bleach. The mismatch isn’t about capability—it’s about altitude and agility.
+
+**The correction:** Marchelle now focuses on hiring “vertical athletes”—reps who are agile enough to understand the customer and operate at their level. While she still values SaaS sales acumen, the persona is most important: “I’m looking for the Grade-A top tier USDA approved beef, grass-fed, all of it.”
+
+She notes that all their top performers now have prior vertical experience, but she’s confident they could perform in other companies too. The key is being holistic about team building, not fixating on either domain expertise OR SaaS experience—you need both.
+
+**Current approach:** She’s now focused on immersing reps in the trade during onboarding and exploring AI simulators that can plug in actual conversations from the vertical, allowing reps to practice until they’re fluent in the language their customers speak.
+
+* * *
+
+### 2\. Not Moving Fast Enough on Trial Response Times
+
+**The mistake:** Not initially understanding that the window for connecting with business owner/operators is measured in minutes, not hours or days.
+
+**The learning:** When a salon owner is taking 30 seconds out of their busy day to search for software and start a trial, they’re looking RIGHT NOW. If you don’t call them within minutes of trial signup, you’ve probably missed the initial window.
+
+**The correction:** Marchelle implemented a strict SLA: contact within minutes, with no exceptions. The sequence is automated message + phone call + text follow-up—always from a human, always immediately.
+
+**Why this matters differently in vertical SaaS:** Unlike traditional SaaS buyers who might be doing structured vendor evaluation, vertical SMB customers are often impulse shopping during a brief break in their operational chaos. Speed isn’t just important—it’s everything.
+
+* * *
+
+### 3\. Trying to Be Everything to Everyone (Learning to Say No to Non-Ideal Customers)
+
+**The mistake:** Getting caught up in the hype cycle and not proactively disqualifying prospects who aren’t a great fit, particularly franchises in Mangomint’s case.
+
+**The learning:** Growth loves focus, and this is even more critical when you’re trying to be the default leader for a specific vertical. Being “proudly not for everyone” isn’t just positioning—it’s a crucial strategic decision.
+
+**The correction:** Now, if Marchelle sees any indication that a prospect might be a franchise (something that “gives her an itch on her spine”), she proactively has that conversation and lets them know Mangomint isn’t great for them—before they self-identify this during the trial.
+
+**The framework:** Don’t push into markets that aren’t pulling you there. Stay niched down enough that you can be genuinely best-in-class for your ICP rather than mediocre for a broader market.
+
+* * *
+
+### 4\. Misunderstanding What “Customer Success” Means in Deep Vertical SaaS
+
+**The mistake:** Initially thinking about CS as a separate team function rather than as a company-wide responsibility.
+
+**The learning:** In vertical SaaS, you can’t afford to have CS as a siloed function. The problems customers face are too intertwined with product, sales, and operations.
+
+**The correction:** Mangomint “killed their CS team” but made customer success more important as an organizational principle. They implemented shared ownership across the entire company:
+
+*   **Product** owns success metrics and time-to-value
+*   **Sales** owns reality—helping customers understand both what the product can and can’t do for their specific situation
+*   **Customer Operations** (live in-app support) owns the inevitable problems that arise
+
+**The vertical SaaS insight:** This isn’t just a “nice to have” or aspirational—it’s foundational. When you’re serving very specific verticals with deep operational needs, everyone needs to be aligned on customer success, because the problems don’t fit neatly into traditional support categories.
+
+* * *
+
+## The Big Takeaway
+
+Marchelle’s final point encapsulates the entire vertical SaaS philosophy: **Don’t be just another software—be the only software they’ll need.**
+
+Mangomint’s mission is to make every salon and spa more profitable. Right now, they’re focused on being best-in-class, the default software for their ICP. But down the line, they’ll be the software that teaches every salon and spa to bolt on AI.
+
+In the future, customers will likely book appointments through AI agents—but Mangomint will get there by building trust first, ensuring their vertical feels safe migrating in that direction, and making sure customers don’t feel like they’re ripping out the human element of their business.
+
+As Marshelle jokes with a woman working the speaker room about having “a job AI cannot take,” only to learn about a shop down the street where robots are doing eyelashes—the future is coming. But in vertical SaaS, you guide your customers there. You don’t just sell them software. You become their trusted partner for navigating change in their industry.
+
+That’s the vertical SaaS playbook. It’s not just a tighter ICP or a cuter logo. It’s fundamentally different from the ground up.

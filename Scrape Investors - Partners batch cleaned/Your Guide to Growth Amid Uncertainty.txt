@@ -1,0 +1,118 @@
+# Your Guide to Growth Amid Uncertainty
+
+In the old world of… just a few months ago… software companies had plentiful access to cheap capital and were seeing extremely strong demand for their products. The name of the game was to grow at (almost) all costs, leading to ever-increasing performance expectations, sky-rocketing valuations, and a knife-fight for top talent.
+
+**Well, things have changed.** 😱
+
+And they’ve changed seemingly overnight. Valuations are down, capital is harder to come by, and companies are bracing for a potential recession—and a subsequent slowdown in demand.
+
+I won’t pretend to know where the bottom is or exactly what will happen in the macroeconomic landscape. But I do know that in cases of uncertainty, it’s important to preserve optionality and to be in a position to quickly adapt to changes in the market. No one comes out of a recession unscathed, but some will come out of it stronger than they went in and be better positioned to thrive in the market that emerges.
+
+![VC Black Swan Memo Meme](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+Rather than sending you yet another [Black Swan](https://techcrunch.com/2022/05/21/everyone-is-drafting-up-their-own-startup-black-swan-memo/) memo (🙄), I wanted to focus on how to _efficiently grow_ in the face of increased market uncertainty. Here are some tips that I’ve accumulated along with colleagues at OpenView and expert operators in our portfolio.
+
+## 1\. Protect your core business
+
+Retaining customers is more efficient than acquiring new customers. It demands even more attention when your customers face challenging financial circumstances and look to cut discretionary spend. Do you have a plan for how to handle customers who ask for a discount or who plan to spend less?
+
+A [customer health scoring model](https://openviewpartners.com/blog/customer-health-assessment/) will help your customer-facing teams prioritize their time and proactively maintain retention rates. You’ll also want to develop a playbook for what concessions to make when your customers inevitably ask.
+
+> Pro-tip: Where possible, make your concessions ‘give to get.’ There are valuable things that customers can do outside of the financial relationship (case studies, references, intros to other teams, etc.) — it’s important to keep those in mind.
+
+## 2\. Plan for different scenarios
+
+Most software companies set up a contingency plan at the beginning of the COVID-19 crisis. It’s time to dust those off and rebuild them for 2022. Your goal should be to create scenarios around potential economic futures: no impact, economic ripple, recession, or a full economic reset. For SaaS companies, a recession tends to mean:
+
+*   Churn increases
+*   New Annual Recurring Revenue (ARR) growth decreases
+*   Cash burn accelerates
+*   Runway is critical to control your own destiny
+
+While the macroeconomic scenarios are out of your control, you do control how you choose to respond. You’ll want to prepare which operational strategies you would employ under these different scenarios.
+
+Then define the signals that you’d see in your data that would trigger you to move from one scenario to the next. That way you’re prepared for any probable event and can focus on executing the plan, not coming up with the plan from scratch in the moment.
+
+> Pro-tip: Use a recession planning framework like the one below.
+
+![recession Planning framework chart](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+## 3\. Keep an eye on burn and cash runway
+
+Financial sustainability is critical to successfully navigating any crisis. Aim to have enough cash for 18-24+ months of runway. It may be prudent to lock in funding even if that means alternative financing (e.g. line of credit) or a bridge investment with less favorable terms compared to before the market reset.
+
+It might go without saying, but I’ll say it anyway. This also means paying close attention to payments and cash rather than just the core SaaS metrics like ARR or retention. You’ll want to monitor aged receivables and categorize late payments to assess any potential risk to your company.
+
+> Pro-tip: Days sales outstanding (DSO) is a popular way of understanding how efficiently invoices are being converted to cash. [Below are benchmarks from OpenView and Tesorio](https://openviewpartners.com/2021-financial-operating-benchmarks-report/).
+
+![Days Sales Outstanding from OV 2021 Financial and Operating Benchmarks](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+## 4\. Track leading indicators
+
+In a period of uncertainty, it’s important to have up-to-date information and processes to make the best decisions. Many folks have dashboards that track important SaaS KPIs like pipeline, win rates, and closed won ARR. In times of uncertainty, these are usually lagging indicators that tell you what happened in the recent past. You’ll want to supplement those with leading indicators that help you get clarity on what will happen in the future.
+
+Example leading indicators could be top-of-funnel activity (ex: website traffic, sign-ups, demo requests, cost-per-lead), demo no-show rates, support tickets, late payment requests, or changes in weekly active users. Seeing softness in these metrics gives you time to prepare for eventual softness in actual ARR.
+
+## 5\. Manage the performance of your existing team
+
+While there’s been lots of publicity around layoffs ([here’s a list from Crunchbase](https://news.crunchbase.com/news/tech-layoffs-2022/)), they aren’t the norm — at least not yet. Layoffs can, of course, be quite harmful for morale, can send a bad message to the market, and can put your valued team members in a difficult financial position. Instead, most SaaS companies are pulling back on opening new roles as a way of buffering against future layoffs.
+
+The name of the game is to do more with less—to equip your _existing_ team to be as productive and motivated as possible. Do you know which folks on your team are overperforming versus underperforming — and do you have plans for each group? This is a great time to motivate and retain team members who are already performing. Have you invested enough in your ongoing enablement and career development paths?
+
+You might just find that your team performs better than expected: leads are routed to more experienced reps, team members have more time to execute rather than recruit, and your A players stay with you as they may be hesitant to switch companies in times of uncertainty.
+
+> Pro-tip: Track productivity-related KPIs such as revenue per FTE and participation rate among your sales team (participation rate = what % of reps achieve at least 70% of quota).
+
+## 6\. Hone your ROI and value messages
+
+Software budgets are often viewed as discretionary purchases (although hopefully that’s changing). When times are lean, CFOs may block or delay new software investments that they don’t see as essential for the business. Have you adjusted your messaging and sales process accordingly?
+
+You’ll want to get in front of Finance earlier in the sales process and make sure they’re on board with the purchase. And you may need to adjust your messaging to align with changing customer priorities. How can you prove that your solution helps your customers reduce cost, reduce risk, or simply do more with less? Can you help your customers consolidate vendors or spend less on outside consultants?
+
+> Pro-tip: Dust off your value-selling framework and retrain your sales team on how to consistently deploy business cases in the sales process. Tools like [DecisionLink](https://www.decisionlink.com/) can help.
+
+## 7\. Look for ways to enable self-service
+
+There’s always a classic product trade-off between building more new features vs. building for self-service/time-to-value. In a recession, the scale starts to tip toward self-service. The more you can automate, the more you can save on onboarding, services, pre-sales, etc. — all while offering a better customer experience and potentially helping you attract more new customers (#PLG).
+
+It’s no wonder that a recent survey by Gainsight revealed that 91% of SaaS companies plan to increase their PLG investment despite the current environment. Leading PLG companies tend to grow faster and more efficiently than their traditional sales-led peers because their products help drive customer acquisition, expansion, and retention. Now that’s a win-win.
+
+> Pro-tip: Evaluate your company against the 11 principles of PLG in order to uncover where you’re doing well and where you’ll want to proactively invest in your PLG strategy.
+
+## Bonus: Selectively capitalize on new opportunities
+
+Many companies raised jaw-dropping amounts of capital in 2021 and have plenty of runway. For these companies, the SaaS crash and potential downturn creates an opportunity to use your balance sheet to outpace your peers. Some example tactics to consider:
+
+### Launch a strategy around competitive switch campaigns.
+
+During a downturn, it’s much easier to swap vendors when a budget already exists as opposed to carving out a new budget item. There can be a tendency to turn inwards during a crisis, but it’s important to keep an eye on competition as well.
+
+*   **Step 1.** Build a process to monitor competitive moves including their websites, hiring activity, and field activities. (Example tool: [Crayon](https://www.crayon.co/))
+*   **Step 2.** Identify at-risk or weak competitors that could be prime candidates for a targeted switch campaign.
+*   **Step 3.** Target your competitors’ customers by combing through your closed-lost data, third-party review sites, and market intelligence sources.
+*   **Step 4.** Run campaigns with special offers (ex: first six months for free with a two-year commitment) that are targeted for that audience.
+*   **Step 5.** Collect data from these campaigns and iterate.
+
+### Develop a strategy towards roll ups or selective acquisitions.
+
+Not all companies are well-positioned to successfully emerge from a valuation crash or future recession. You may have an opportunity to become a market leader and expand your product vision by buying small players.
+
+### [Get creative with flexible pricing models and payment structures](https://openviewpartners.com/blog/revisit-your-pricing/).
+
+When COVID hit the US and lock-downs started in earnest, we saw SaaS companies experiment with more flexible pricing models and payment options to push deals through the funnel. Some potential models to consider:
+
+*   Annual contracts paid quarterly and with a 4-month opt-out provision
+*   Adding value to existing plans to help your customers consolidate vendors
+*   Short-term promotions for new customers (ex: 50% off for the first 6 months)
+*   [Usage-based pricing](https://openviewpartners.com/usage-based-pricing/) so customers only pay when they’re actively using the product
+*   Introducing a freemium version of your product to make it easier for prospects to start seeing value even when budgets are frozen
+
+## Additional resources
+
+I hope you’ve found this guide to be helpful as you navigate growth during this uncertain market environment. Here are a few additional resources to go deeper.
+
+*   [Y Combinator warns startup founders of economic downturn](https://news.crunchbase.com/news/y-combinator-startup-warning-letter-downturn-2022/) \[Crunchbase\]
+*   [A third straight week of tech layoffs in the books](https://techcrunch.com/2022/05/20/startup-tech-layoff-may-week-3/) \[TechCrunch\]
+*   [2022 SaaS crash](https://www.meritechcapital.com/blog/2022-saas-crash) \[Meritech\]
+*   [Have we hit the bottom?](https://cloudedjudgement.substack.com/p/clouded-judgement-52722?utm_source=email&s=r) \[Clouded Judgment\]
+*   [How to grow during a downturn: marketing strategy for lean startups](https://olivinemarketing.substack.com/p/special-edition-how-to-grow-during?s=r) \[Inside Olivine\]

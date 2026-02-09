@@ -1,0 +1,125 @@
+# HubSpot’s Journey to The First $2 Billion in ARR: How Co-Founders Dharmesh Shah and Brian Halligan Scaled an SMB SaaS Giant
+
+_Co-founders Dharmesh Shah (CTO) and Brian Halligan (Chairperson) shared at SaaStr Annual the unfiltered truth on building an SMB powerhouse, pivoting to product-led growth, and why the “M” segment is SaaS gold._
+
+At SaaStr, we’re obsessed with knowing how the best SaaS companies scale from zero to IPO and beyond. At SaaStr Annual, HubSpot founders Dharmesh Shah and Brian Halligan shared some incredible insights on their journey from scrappy startup to a $2B+ run rate behemoth.
+
+### And come watch 200+ sessions like this [at 2025 SaaStr Annua](http://www.saastrannual.com/)l!  May 13-15 in SF Bay!
+
+HubSpot CEO Yamini Rangan and 100s of other SaaS leaders will be there!
+
+> We're gearing up to bring together 10,000 of the best in SaaS, Cloud and AI at 2025 [https://t.co/5gjWmKLjC5](https://t.co/5gjWmKLjC5) May 13-15 in SF Bay! Come meet the best — including [@HubSpot](https://twitter.com/HubSpot?ref_src=twsrc%5Etfw)'s CEO [@yaminirangan](https://twitter.com/yaminirangan?ref_src=twsrc%5Etfw)!
+> 
+> It's Where The Cloud Meets! [pic.twitter.com/rrlJWuLTEw](https://t.co/rrlJWuLTEw)
+> 
+> — Jason ✨👾SaaStr 2025 is May 13-15✨ Lemkin (@jasonlk) [March 6, 2025](https://twitter.com/jasonlk/status/1897478490791797005?ref_src=twsrc%5Etfw)
+
+## HubSpot: The Contrarian Bet on SMBs That Paid Off
+
+HubSpot made a massive contrarian bet early on: **focus on SMBs when everyone else was chasing enterprise deals**. This went against conventional VC wisdom.
+
+“The mindset from the beginning was to be right about something that everyone thinks is wrong,” Dharmesh explained, echoing Peter Thiel’s philosophy. “To be successful, you have to be right about something everyone else thinks is wrong for a long period of time.”
+
+While investors constantly pushed them toward the enterprise market, the founders stubbornly stuck with the SMB thesis: **the internet would disproportionately benefit small businesses**, leveling the playing field against larger competitors.
+
+Their conviction came from personal experience. Enterprise sales cycles were painfully long with limited data points. The SMB market offered a sweet spot between enterprise complexity and consumer scale.
+
+## 4 Unexpected Learnings From HubSpot’s Founders:
+
+1.  **It took 10 years to become product-led** — Despite being a tech company, HubSpot was sales-led for its first decade, and only later shifted resources from sales to product development.
+2.  **Lowering prices dramatically increased growth** — During the pandemic, HubSpot ran an experiment slashing starter tier prices that defied economics and drove massive customer acquisition with strong upsells.
+3.  **The co-founders have only disagreed 1-2 times in 16 years** — Their unique “lay on the tracks” decision framework has sustained one of tech’s longest founder partnerships.
+4.  **They were told repeatedly that focusing on SMBs would fail** — VCs constantly pushed them toward enterprise, but their conviction in the underserved “M” market (10-2,000 employees) built a $1.7B business.
+
+## 4 Things That Didn’t Work Well for HubSpot
+
+No success story is complete without acknowledging the stumbles along the way. Here are four areas where HubSpot struggled:
+
+1.  **Early Customer Economics Were Brutal** — For years, HubSpot operated with customer dollar retention around 70% and minimal upsell (5%). As Sequoia’s Pat Grady pointed out, their unit economics were fundamentally broken compared to SaaS leaders. It took 12 years to fix these metrics.
+2.  **Product Quality Lagged for Too Long** — By prioritizing sales over product for the first decade, HubSpot created technical debt and customer experience issues. Brian admits it took 10 years for the product to become “truly legitimate and something to be proud of” – an eternity in SaaS.
+3.  **Initial International Expansion Struggles** — While not explicitly detailed in their conversation, HubSpot’s early international moves faced challenges with localization, go-to-market strategies, and adapting their inbound motion to different markets. The company had to retrench and restart their global efforts multiple times.
+4.  **Overinvesting in Sales Before Product-Market Fit** — HubSpot acknowledges they became “addicted” to the revenue growth from aggressive sales hiring, even when the product wasn’t ready. This created a vicious cycle where high churn required even more sales to maintain growth, leading to even more customer dissatisfaction – a classic SaaS death spiral they barely escaped.
+
+## The 5 Keys to Scaling an SMB SaaS Company
+
+Scaling SMB SaaS is notoriously difficult, but HubSpot cracked the code with five key strategies:
+
+1.  **Keep CAC low with viral marketing**. HubSpot pioneered inbound marketing (creating the category!), generating 10M blog visits monthly and driving viral lead flow.
+2.  **Focus obsessively on churn**. They improved customer dollar retention from an initial 70% to around 90% over time.
+3.  **Build expansion revenue**. The team grew upsell opportunities from 5% to approximately 20%, creating a powerful growth engine.
+4.  **Establish a path to $100M ARR and profitability**. This focus on unit economics became critical when Sequoia’s Pat Grady joined the board and pushed for a 5:1 or 10:1 LTV:CAC ratio.
+5.  **Eventually shift from sales-led to product-led**. After 10 years of being sales-driven, HubSpot pivoted significant resources into product, hiring more engineers and designers to drive customer delight.
+
+## The “M” Market: SaaS’s Underrated Goldmine
+
+One of the most fascinating insights was HubSpot’s definition of the “M” market – companies with 10-2,000 employees. This segment is often overlooked but represents a massive opportunity.
+
+“There is a huge market in the mid-sized business range,” Dharmesh noted. “They have money and pain points that small business products and enterprise companies often cannot solve.”
+
+HubSpot segments this “M” range into three tiers:
+
+*   2-20 employees
+*   20-200 employees
+*   200-2,000 employees
+
+The company has built a scalable product that serves all segments, starting with freemium tools that capture the smallest companies, then growing with them. While most VCs believe it’s impossible to serve both the low and high end simultaneously, HubSpot proved them wrong.
+
+“The 2-20 segment is important because it’s hard for a company to become a 20-person company without first being a 2-person company. The goal is for companies to start with HubSpot and not have to replace it as they grow.”
+
+## From Marketing App to CRM Suite: The Pivotal Product Bet
+
+Eight years ago, HubSpot made another contrarian move: expanding from marketing automation into a full CRM suite.
+
+“When deciding to add a second product, you need a clear understanding of why – whether it’s a natural adjacency, a defensive move, or an offensive strategy,” Dharmesh explained.
+
+The founders committed fully to making CRM work rather than treating it as an experiment. While success wasn’t guaranteed, the company’s aggressive investment in the product eventually paid off.
+
+Today, HubSpot has built its application from “primary colors” – data, reporting, and workflows shared across the suite – creating a unified experience unlike competitors cobbling together acquisitions.
+
+[![](https://i0.wp.com/www.saastr.com/wp-content/uploads/2025/02/frontrow.webp?resize=656%2C140&quality=65&ssl=1)](http://www.saastrannual.com/)
+
+## The 10-Year Pivot From Sales-Led to Product-Led
+
+Perhaps the most surprising revelation was how long it took HubSpot to become a product-focused company. For the first decade, they were heavily sales and marketing driven, reflecting Brian’s sales background.
+
+“It took about 10 years for the product to become truly legitimate and something to be proud of,” Brian admitted. “Most companies start by investing in R&D, but we did the opposite.”
+
+The pivotal moment came during a founders’ dinner when they decided to halt all sales and marketing hires until the product reached a certain quality level. This led to an acquisition to revamp the product team and heavy investment in designers.
+
+## The Price Experiment That Changed Everything:  Going Cheaper — Partially
+
+During the pandemic, HubSpot ran an experiment that defied economic theory: they dramatically lowered the price of their starter edition.
+
+The result? A massive influx of customers and significantly improved business metrics. The starter bundle – which includes the entire suite of sales, marketing, service, content management, and operations – generated strong upsell rates with a low-touch motion.
+
+Unlike competitors that abandoned their lower-tier offerings as they scaled, HubSpot doubled down on serving the smallest customers, and it paid off beautifully.
+
+## The 16-Year Co-Founder Partnership That Defied the Odds
+
+How have Dharmesh and Brian maintained their partnership for 16+ years when most founder relationships implode?
+
+They attribute their success to the hard questions they asked each other before founding the company:
+
+*   What do we want to achieve?
+*   How would we handle acquisition offers?
+*   What happens if one of us becomes disenchanted?
+
+They also developed a unique decision-making framework:
+
+*   If both agree, proceed
+*   If one person feels strongly enough to “lay on the tracks,” go with their decision
+*   Break ties rarely (only 1-2 instances in 16 years)
+
+This approach has helped them navigate everything from product decisions to the CEO transition to Yamini after Brian’s near-fatal snowmobiling accident.
+
+## The Bottom Line
+
+There’s no single playbook for building a $1B+ SaaS company. HubSpot’s journey proves that contrarian bets on underserved markets can yield massive returns if you have:
+
+1.  **Conviction in your strategy** even when investors push other directions
+2.  **Patience to build for the long-term** (10+ years to reach product excellence)
+3.  **Willingness to evolve** from sales-led to product-led as you scale
+4.  **Strong founder alignment** on vision and decision-making
+5.  **Focus on the metrics that matter**: churn, expansion, and unit economics
+
+The SMB market isn’t just viable – it can be the foundation for a multi-billion dollar SaaS business with the right approach and patience to make it work.

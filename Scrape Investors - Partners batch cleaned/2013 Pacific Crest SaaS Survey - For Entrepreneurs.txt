@@ -1,0 +1,382 @@
+# 2013 Pacific Crest SaaS Survey
+
+We worked together with [Pacific Crest](http://http//www.pacificcrest.com), an investment banking firm with a specific focus on SaaS, to survey 155 SaaS companies on a variety of topics such as growth rates, CAC (cost to acquire a customer), gross margins, churn rates, etc. The goal of the survey is to provide useful operational and financial benchmarking data.
+
+Many of the readers of this blog participated in the survey, and I would like to thank them for their time. I’d also like to thank David Spitz at Pacific Crest (@dspitz on Twitter) who did most of the work putting together the survey. The results of the survey are posted below.
+
+A broad diversity of SaaS companies participated:
+
+*   $0-$60MM+ in revenues ($5MM median)
+*   25-250+ employees ( 50 median)
+*   10-2,000+ customers ( 78 median)
+*   $100s to $MMs median annual contract value ( $20K median)
+*   Participants from around the world, although primarily U.S.
+
+### Survey Participant Revenue Distribution
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb.png?resize=610%2C367 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image.png)
+
+### Survey Participant Geography
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_3.png?resize=610%2C362 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_3.png)
+
+## Growth Rates
+
+### How Fast Did / Will You Grow GAAP Revenues?
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_4.png?resize=610%2C429 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_4.png)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_5.png?resize=610%2C24 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_5.png)
+
+Historical revenue rates for the group are centered just over 40%, while the median projected growth is 47% for 2013. Comparison with previous surveys: very similar historical growth rates, but more optimistic about forecast.
+
+### How Fast Did / Will You Grow GAAP Revenues? (Excluding companies <$2m in Revenue)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_6.png?resize=610%2C390 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_6.png)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_7.png?resize=610%2C24 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_7.png)
+
+We suspected that the high concentration of participants with >100% growth comes from the large number of small companies. Excluding companies with <$2m in revenues, we found growth rates showing a more traditional bell curve centered in the mid 30%s.
+
+### Median Growth Rate as a function of Size of Company
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_8.png?resize=610%2C318 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_8.png)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_9.png?resize=610%2C19 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_9.png)
+
+Looked at more directly, it’s clear that the smallest companies experienced the highest growth rates. It’s also interesting to see that, at least among the sample, the mid-tier ($15MM to $40MM) is the slowest growing group.
+
+### Median Growth Rate as a Function of Contract Size
+
+(Excluding Companies <$2MM in Revenue)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_10.png?resize=610%2C415 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_10.png)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_11.png?resize=610%2C42 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_11.png)
+
+Looking at the impact of median contract size on growth, we excluded the smallest companies (<$2MM in revenues), since most of them sell small deals. The resulting analysis, reveals marginal correlation between contract size and growth, with the fastest growers having median contract sizes between $1K and $25K.
+
+### Median Growth Rate as a Function of Sales Strategy
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_12.png?resize=610%2C329 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_12.png)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_13.png?resize=610%2C31 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_13.png)
+
+Across the entire group, companies which mainly use internet distribution are realizing the highest growth rates.
+
+### Median Growth Rate as a Function of Sales Strategy
+
+(Excluding Companies <$2MM in Revenue)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_14.png?resize=610%2C340 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_14.png)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_15.png?resize=610%2C31 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_15.png)
+
+However, eliminating the smallest companies again, we found growth rates for companies using mainly internet distribution actually lagged. Meanwhile, those using primarily inside sales experienced growth rates 10 points higher than field sales.
+
+### Median Growth Rate as a Function of Target Customer
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_16.png?resize=610%2C257 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_16.png)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_17.png?resize=610%2C50 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_17.png)
+
+Growth rates among companies selling to very small businesses (VSB) are higher than those selling to SMB, which in turn are higher than those selling to Enterprise. The trend holds even after removing the smallest companies.
+
+## Go-to-Market
+
+### Primary Mode of Distribution
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_18.png?resize=610%2C336 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_18.png)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_19.png?resize=610%2C31 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_19.png)
+
+Field sales remains the most popular way to sell, with 37% of participants employing it as their primary mode of distribution (50% if we exclude companies with <$2MM in revenues). Inside sales is not far behind, however, at 29%. Comparison with Previous Surveys: We saw a strong increase in the use of inside sales. For the 2012 survey, inside sales was the primary mode for just 20% of participants.
+
+### Primary Mode of Distribution as a Function of Median Initial Contract Size
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_20.png?resize=610%2C362 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_20.png)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_21.png?resize=610%2C37 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_21.png)
+
+As expected, companies with larger median contract sizes tend to rely more heavily on field sales. Comparison with Previous Surveys: We found much heavier use of inside sales among companies in the mid-tier – in this survey, 54% of respondents in the $5-25k group used inside sales vs. only 33% in 2012.
+
+### CAC: How Much Do You Spend for $1 of New ACV from a New Customer?
+
+(Excluding Companies <$2MM in Revenue)
+
+Note: we used this question as a way to get at the metric “Months to recover CAC” that you will have seen me recommending in other blog posts such as [SaaS Metrics 2.0](https://www.forentrepreneurs.com/saas-metrics-2/).
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_22.png?resize=610%2C358 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_22.png)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_23.png?resize=610%2C41 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_23.png)
+
+Respondents (excluding the smallest companies) spent a median of $0.92 for each dollar of new ACV from a new customer. The result drops to $0.85 if we include companies with <$2MM in revenues. Comparison with Previous Surveys: The result is consistent with the $0.90 and $0.93 we derived in the 2012 and 2011 surveys, respectively.
+
+### CAC on New Customers vs. Upsells vs. Renewals
+
+(Excluding Companies <$2MM in Revenues)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_24.png?resize=567%2C339 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_24.png)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_25.png?resize=610%2C24 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_25.png)
+
+The median CAC for upsells is $0.17, or 19% of the CAC to acquire new customer dollars. The CAC for renewals is $0.14, or 15% of the CAC to acquire new customer dollars. Comparison with Previous Surveys: Similar result for upsells (was 20% in 2012); however, the renewal CAC is markedly higher this year (was just 10% in 2012).
+
+### CAC Spend by Primary Mode of Distribution
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_26.png?resize=610%2C407 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_26.png)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_27.png?resize=453%2C29 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_27.png)
+
+The data suggest that field sales has the most expensive CAC at $0.96, with inside sales 10% lower at $0.86 and online distribution 43% lower at $0.55. Comparison with Previous Surveys: These trends were consistent with what we saw in our 2011 survey results, but not with our 2012 results, which showed less differentiation between field and inside, and surprisingly more cost for online distribution.
+
+### What Percentage of New ACV is from Upsells to Existing Customers?
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_28.png?resize=610%2C333 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_28.png)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_29.png?resize=610%2C19 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_29.png)
+
+The median respondent gets 13% of new ACV sales from upsells; the largest companies rely more heavily on this “land and expand” phenomenon. Comparison with Previous Surveys: Consistent with our 2012 survey results.
+
+### Are the Fastest Growing Companies Relying More on Upsells?
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/09/image_thumb.png?resize=610%2C314 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/09/image.png)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_31.png?resize=610%2C19 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_31.png)
+
+When we divide our respondent pool by growth rate, we find that the top growers in each size class generally upsell more than the slower growers.
+
+### Professional Services Impact on Go-to-Market
+
+(Excluding Companies <$2MM in Revenue)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_32.png?resize=610%2C311 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_32.png)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_33.png?resize=503%2C29 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_33.png)
+
+Professional services play a minor role for most of the group, with the median company booking P.S. revenues equivalent to 11% of first year contract value. P.S. margins are in the high 20s%. (Note that we excluded companies with <$2MM in revenues, as most do not have significant P.S. revenues). Comparison with Previous Surveys: Very similar results to last year.
+
+### Professional Services (% of 1st Year ACV) as a Function of Target Customer
+
+(Excluding Companies <$2MM in Revenue)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_34.png?resize=610%2C311 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_34.png)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_35.png?resize=610%2C27 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_35.png)
+
+As expected, companies which are focused mainly on enterprise sales have higher levels of P.S. However, at just 21% of first year ACV, we were surprised the number wasn’t higher.
+
+### Subscription Gross Margins
+
+“What is your gross profit margin on just subscription/SaaS revenues?”
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_36.png?resize=610%2C444 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_36.png)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_37.png?resize=552%2C29 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_37.png)
+
+Median subscription gross margins are 76% for the group. Note that, while not depicted here, the result does not change materially when removing the small companies from the group.
+
+### Freemium / “Try Before You Buy”
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_38.png?resize=610%2C382 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_38.png)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_39.png?resize=586%2C29 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_39.png)
+
+Approximately 25% of companies make use of freemium in some way, although very little new revenues are derived here. Try Before You Buy is much more commonly used: two-thirds of the companies use it and many of those derive significant revenues from it. Comparison with Previous Surveys: Very consistent results with previous years.
+
+### Sales Commissions
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_40.png?resize=610%2C442 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_40.png)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_41.png?resize=543%2C29 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_41.png)
+
+Median sales commission rate for the group is 9%. Comparison with Previous Surveys: Consistent with 2012 results.
+
+### Sales Commissions as a Function of Median Contract Size
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_42.png?resize=610%2C310 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_42.png)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_43.png?resize=610%2C28 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_43.png)
+
+We were surprised to see very little relationship between sales commission rates and average contract sizes (except at the very low end). Comparison with Previous Surveys: In 2012, we saw the highest commission rates for the <$1k deal companies, and the lowest rates for the “elephant hunters” . That was not the case here.
+
+### Commissions for Renewals, Upsells and Multi-Year Deals
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_44.png?resize=610%2C174 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_44.png)
+
+Not surprisingly, commissions on renewals are typically deeply discounted, with a median rate of 2%. Upsells command a median rate of 6%, although roughly half of the companies pay full commissions on upsells. Comparison with Previous Surveys: Very similar results to 2012. The biggest change is in the third column, analyzing commissions on multi-year deals. In the 2013 survey, only 24% of respondents paid no additional commissions on the additional years; in 2012 almost half of the participants paid no additional commissions.
+
+## Cost Structure
+
+### Cost Structure
+
+(Excluding Companies <$2MM in Revenue)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_45.png?resize=610%2C353 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_45.png)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_46.png?resize=510%2C45 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_46.png)
+
+The median numbers reflect the most operating leverage from improvements in gross margin, R&D and G&A, surprisingly more so than improvements in Sales & Marketing (Note that results from companies <$2MM in revenues have been excluded, and can be viewed in the breakout on the following page). Comparison with Previous Surveys: Very similar results as in previous years.
+
+### Median Cost Structure by Size
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_47.png?resize=610%2C205 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_47.png)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_48.png?resize=610%2C78 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_48.png)
+
+### For Comparison: Historical Results of Selected Public SaaS Companies
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_49.png?resize=557%2C468 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_49.png)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_50.png?resize=610%2C134 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_50.png)
+
+### Sales & Marketing Spend vs. Projected Growth Rate
+
+(Excluding Companies <$2MM in Revenue)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_51.png?resize=610%2C368 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_51.png)
+
+Surprisingly and interestingly, there is virtually no correlation in the survey results between sales & marketing spend (as a % of revenue) and growth rates. While this goes against conventional wisdom, it may simply reflect that CAC in some businesses is more efficient than in others. (Note that the smallest companies skew results due to more inflated growth and were thus removed from this analysis). Comparison with Previous Surveys: In the 2012 and 2011 surveys we saw the conventionally expected correlation, with higher S&M spend leading to higher growth rates.
+
+## Contracting & Pricing
+
+### Median Annual Contract Size (ACV) per Customer
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_52.png?resize=610%2C363 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_52.png)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_53.png?resize=563%2C29 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_53.png)
+
+The median annual contract size (subscription component only) for the group was $20k per year. Comparison with Previous Surveys: As expected, with the increase in smaller-sized participants, this was lower, with the 2012 survey at $24k and the 2011 survey at $37.5k.
+
+### Median / Typical Contracts for the Group
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_54.png?resize=610%2C326 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_54.png)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_55.png?resize=610%2C29 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_55.png)
+
+The average contract length is 1.5 years; and the average billing terms are quarterly (three months in advance). Comparison with Previous Surveys: Virtually the same median contract length as in the 2012 survey; however the median billing in the 2012 survey results was much longer at just under a year.
+
+### Contract Length as a Function of Contract Size
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_56.png?resize=610%2C382 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_56.png)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_57.png?resize=610%2C29 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_57.png)
+
+The phenomenon of longer contract terms for larger contracts is pretty clear. Comparison with Previous Surveys: We did see more use of shorter contract lengths than in previous surveys – e.g., roughly 30% of companies in the $5-$25k group used month-to-month or less than one year contracts (vs. none in 2012). Even some companies in the “elephant hunter” groups had shorter contracts.
+
+### What is Your Primary Pricing Metric?
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_58.png?resize=610%2C466 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_58.png)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_59.png?resize=610%2C39 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_59.png)
+
+Comparison with Previous Surveys: These results are virtually identical to 2012 and 2011.
+
+## Churn
+
+### Annual Gross Dollar Churn
+
+(Excludes Companies <$2MM in Revenue)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_60.png?resize=610%2C344 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_60.png)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_61.png?resize=263%2C45 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_61.png)
+
+Annual gross dollar churn (without the benefit of upsells) is 9%. Note that although we excluded companies <$2MM in revenues, the result was similar when including these companies. Comparison with Previous Surveys: This result is a lot higher (and more conventionally sized) compared with results from 2012 and 2011, which both had very low median gross dollar churn rates of 5%.
+
+### Annual Unit Churn (Customer Churn)
+
+(Percentage churn of # of paid customers at year-end 2011 that were still customers at year-end 2012)
+
+(Excludes Companies <$2MM in Revenue)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_62.png?resize=610%2C318 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_62.png)  
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_63.png?resize=310%2C30 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_63.png)
+
+We introduced unit churn (by customer count) for the first time in this survey, and derived a median annual unit churn of 9% – the same as gross dollar churn. (This is somewhat surprising as conventional wisdom is that unit churn is generally higher than gross dollar churn, as smaller customers tend to churn more often).
+
+### Annual Gross Dollar Churn as a Function of Contract Length
+
+(Excludes Companies <$2MM in Revenue)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_64.png?resize=610%2C330 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_64.png)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_65.png?resize=508%2C30 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_65.png)
+
+Not surprisingly, companies with very long-term contracts (2+ years) have the lowest churn. It is surprising, however, that month to month contractors do not churn higher than the median. Comparison with Previous Surveys: Fairly consistent with previous years.
+
+### Annual Gross Dollar Churn as a Function of Contract Size
+
+(Excludes Companies <$2MM in Revenue)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_66.png?resize=610%2C347 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_66.png)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_67.png?resize=607%2C30 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_67.png)
+
+Companies with the largest deal sizes (>$250K) have the lowest churn, and those with the smallest deal sizes have the highest churn. However, churn rates in the broad middle range, for companies with average deal sizes between $1k and $250k, don’t show much of an explainable pattern. Comparison with Previous Surveys: Lack of correlation in the broad middle ranges was not the case in 2012 or 2011.
+
+### Annual Gross Dollar Churn as a Function of Primary Distribution Mode
+
+(Excludes Companies <$2MM in Revenue)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_68.png?resize=610%2C311 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_68.png)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_69.png?resize=430%2C30 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_69.png)
+
+Those companies employing primarily field sales have lower churn rates than those employing primarily inside sales or online distribution. Comparison with Previous Surveys: Consistent with 2012 and 2011 survey results.
+
+### Annual Net Dollar Retention From Existing Customers
+
+“How much do you expect your ACV from existing customers to change, including the effect of both churn and upsells?”. We define this as the “net retention rate”
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_70.png?resize=610%2C354 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_70.png)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_71.png?resize=253%2C29 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_71.png)
+
+The median annual net retention rates, including churn but also including the benefit of upsells, is 110%. Comparison with Previous Surveys: Very similar (slightly higher) than 2012 and 2011.
+
+## Capital Requirements
+
+### Capital Raised So Far
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_72.png?resize=610%2C370 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_72.png)
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_73.png?resize=196%2C29 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_73.png)
+
+Companies in the survey group have raised a median of roughly $9MM in capital so far. Comparison with Previous Surveys: Well below the $23MM and $22MM in capital raised by participants in the 2012 and 2011 surveys, respectively.
+
+### Analysis of Companies by Capital Raised
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_74.png?resize=586%2C386 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_74.png)
+
+Comparison with Previous Surveys: The 2013 group has generally received more investment relative to their size than the 2012 or 2011 groups (e.g., those receiving $5-$15M in investment so far had median revenues of $4MM, versus the same group in the 2012 survey having $8MM in revenues).
+
+### Capital Efficiency Expectations – Median Levels for the Group
+
+[![image](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_thumb_75.png?resize=610%2C270 "image")](https://i0.wp.com/www.forentrepreneurs.com/wp-content/uploads/2013/08/2013PacificCrestSaaSSurvey_75E6/image_75.png)
+
+Comparison with Previous Surveys: Identical median historical growth vs. last year (40%). More conservative outlook (38% vs. 44% last year).
+
+## Conclusion
+
+The survey contained some incredibly valuable data, as well as some surprising results. I look forward to seeing your comments on what you found to be surprising.
+
+My strong thanks to David Spitz and Pacific Crest for allowing me to reprint the survey here. To sign up to contribute your data to the 2012 survey, click here. I also recommend following David Spitz on Twitter (@dspitz) to stay in touch with their other findings on SaaS businesses.
+
+### Important Disclosures from Pacific Crest:
+
+Analysis of these survey results have been prepared by Pacific Crest Securities. Pacific Crest cannot verify accuracy of responses.
+
+Observations and commentary contained herein relate solely to the survey results and cannot necessarily be applied elsewhere.  Certain other information contained herein has been obtained from sources believed to be reliable, but the accuracy and completeness of the information, and that of the opinions based thereon, are not guaranteed. This analysis is for information purposes only and is not an offer to buy or sell or a solicitation of an offer to buy or sell any securities mentioned.
+
+Pacific Crest Securities and entities and persons associated with it, including its analysts, may have long or short positions or effect transactions in the securities of companies mentioned in this report, and may increase or decrease such holdings without notice. Pacific Crest Securities may make a market in the shares of any such company. These markets may be changed at anytime without notice. Pacific Crest Securities may have acted as lead or co-managing underwriter in one or more of such company’s U.S. equity offerings, and it may perform or seek to perform other investment banking services for any company referenced in this document.
+
+Pacific Crest’s specific disclosures can be seen here:
+
+[http://www.pacific-crest.com/disclosures/](https://www.forentrepreneurs.com/2013-saas-survey/%22)
+
+Pacific Crest’s privacy policy can be seen here:
+
+[http://www.pacific-crest.com/privacy-policy/](https://www.forentrepreneurs.com/2013-saas-survey/%22)
+
+Survey respondents participated anonymously and confidentially.

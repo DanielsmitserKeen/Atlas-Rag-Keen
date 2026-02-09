@@ -1,0 +1,297 @@
+# Evolving Skillsets: The Modern and Future CFO's Playbook
+
+**Randy Wooton (00:04):**
+
+Well, hello everybody. This is Randy Wooton, CEO of Maxio and your host of SaaS Expert Voices where we bring this SaaS experts to you to talk about what’s happening today and what could be unfolding tomorrow. I’m delighted to have Michelle Valentine join me today. She’s CEO of Anrok, but has had a really interesting career starting off at Stanford in civil engineering, discovering a love for computer science there that she went on to Oxford and got a master’s. And actually did coding at Airtable and then she describes, did the first version of Anrok. But before she got into product and engineering, she worked in finance and she also worked in VC. And so what an incredible background you’ve had. I look forward to chatting a little bit more about that as we talk about the office of the CFO and your success as a CEO. So welcome, Michelle.
+
+**Michelle Valentine (00:51):**
+
+Excited to dive in.
+
+**Randy Wooton (00:53):**
+
+So yeah, let’s go back to that. We were talking about my son and the fact he’s all about computer science. And talk a little bit about your undergraduate experience. You started off with civil engineering, you fell into computer science. What attracted you and then what then was compelling for you to make that your destiny?
+
+**Michelle Valentine (01:09):**
+
+It’s always easier to connect the dots backwards than it is to really know what you were doing at the time. And for me the theme was following your passion. So funnily enough, at Stanford I was more focused on architecture, which led me to water in my grad studies, which led me to infrastructure at Goldman, which then led me to infrastructure software investing at Index Ventures where I was really doing early stage software investing. And really the theme here is that you can be curious about a lot of things, but you might not be passionate until you’re an expert. So it was really following curiosity over passion that led me to all the different meandering chapters to get me to Anrok today.
+
+**Randy Wooton (01:51):**
+
+I love that point around, it all makes sense in hindsight, though it seems like it’s wild, crazy shifts and left turns, right turns while you’re actually going through it. I’ve done a background in the military and now I’m in software selling to CFOs. You would never have connected the dots from where I started to where I am. But talk a little bit about the computer science part, I think that’s really interesting. So you were doing civil engineering, how did you get into computer science? And then that was something you kept doing and then clearly you’ve been extremely successful at it because you’ve started a company, got funded and has had a great success over the last three years.
+
+**Michelle Valentine (02:28):**
+
+Funnily enough, software engineering is only something I discovered later in my studies and it’s something I invested more on the side. And while I was at Airtable, the product I was working on were the applications that would run on top of the database. It was called Blocks at the time, it’s now called apps. And one thing that I was focused on is how can we work with partners to build applications together with let’s say a Loom for example, to work with a Loom, that video editing app that now got acquired by Atlassian but embed Looms into Airtable for example. And one of the things that I wanted help with was take my programming to the next level, and funnily enough found someone to help be that coach and be that tutor for me to help keep leveling my programming skills up. Again, connecting the dots backwards, but he ended up being our founding engineer at Anrok. Really when you hire your own tutor and your own coach, that means you know they’re good.
+
+**Randy Wooton (03:28):**
+
+Yeah, and I think the thing that you have that I don’t have is you are technical at the level of where you can call it BS on the code. When I go in, I was like a product manager and I could say, “Well, these are the use cases I want to get done.” And the engineers would say, “Oh, we’ll take 12 sprint points.” Whatever. And I was like, “Okay.” But I could never actually check the code.
+
+**Michelle Valentine (03:47):**
+
+You give me too much credit. I would also say even the average engineer once your code base gets quite large, it’s really hard to hold all of that in your head. And so I think for me, the thing that it was most helpful with is to really understand how to break problems down into small pieces. A lot of programming is breaking things down into different functions. And for product that’s also really helpful. For building company strategy that’s also very helpful. So these are some of the things that I’ve taken with me, even though I’m quite useless with that today and I do not touch the code today.
+
+**Randy Wooton (04:22):**
+
+You never touch the code, you don’t ever just dust it off once in a while and go in and throw some lines in?
+
+**Michelle Valentine (04:27):**
+
+No.
+
+**Randy Wooton (04:27):**
+
+Okay.
+
+**Michelle Valentine (04:28):**
+
+I was allowed to touch the marketing website code for a while and again, that’s being taken away from me and we’re now on Webflow.
+
+**Randy Wooton (04:36):**
+
+We will absolutely talk about what it means to be a successful CEO and delegation I assume is going to be part of that. But what’s so fascinating to me is just this transition points that you made from finance to VC to product to Anrok, a company focused on the office of the CFO. We’re partners, we have joint customers. I think we’re both looking at this broader monetization ecosystem and how can we unlock the value through applications for the office of the CFO and the CFO in particular. I would love to shift the conversation now to the current disruptions that we’re seeing and specifically from your point of view, because I think you have some great advice having been on the investment side for CFOs. And do you want to talk a little bit about that, the investor model that you think about and why that’s important for CFOs to consider at this point?
+
+**Michelle Valentine (05:23):**
+
+Yeah, maybe starting with that investor skill set that is useful for CEOs and CFOs, which is really to see the present clearly. I think as an investor it’s obvious why that’s important, how to make good bets, but also for CEOs and CFOs where you’re really capital allocators. And so figuring out where your company is, where the market is at present, and where you should be allocating your resources in the future is critical. And one thing that I worked on a lot when I was investing as a VC was how to update my prize such that when the world is changing so quickly around you, how do you update your mental model? How do you update where you think the world is going to make the most accurate bets possible? So one tool to give you an example of what I find useful, is think about your truths or your beliefs. Not as binary. yes, no, I believe X, but really to think about it in probabilities.
+
+**(06:18):**
+
+Like my credence or my probability that I ascribe to believing in this strategy is about 70%. And knowing what your crux is and what you might need to change your mind is very useful. Very few company strategies are truly black and white and it’s the combination of time, place, different factors, especially when the world is changing so, so quickly.
+
+**Randy Wooton (06:42):**
+
+A couple of questions on that. One is, it feels like you’re ascribing a percentage to something where you don’t really have numbers to-
+
+**Michelle Valentine (06:50):**
+
+Yes.
+
+**Randy Wooton (06:51):**
+
+Right. So you could also say, I don’t know, high, medium, low. I was an English major, so that’s what I’m going to use versus the 70%. But how do you as an executive develop that capability to do the pattern matching, the understanding of what’s happening in reality and to have a certain level of confidence on the outcome of that strategy?
+
+**Michelle Valentine (07:10):**
+
+You’re absolutely right with numbers, it’s subjective. And for me to say, oh, I’m confident 60% is probably different if Randy were to ascribe a 60% percentage. And so a lot of that is numbers that I keep to myself, or maybe the ones you work really closely with could really grok what your scale looks like. At Anrok when we write docs, we often write the epistemic confidence at the top of the doc and we use exactly what you suggested, high, medium, low. I have medium confidence in this proposal or I have low confidence in this proposal. And that really helps other people quickly grok the state of the draft of the doc, like is this a yes I’m pounding the table for this or is this, I have no idea. And so that helps you also understand how much commenting do I need to do to change this person’s mind because this is a terrible idea, or this is a great idea.
+
+**Randy Wooton (08:05):**
+
+That’s great. How do you align with your investors on that or when do you bring your investors in? I was talking to Jeff Epstein, a former CFO of Oracle who’s been at Bessemer for 15 years and we talked about the budgeting process. And he said, most budgets if they’re effective only have a certainty of 50%. I’m like, really? You really have the comfort to have that much variability where I feel like what I’ve grown up with is your budget you’re delivering it no matter what and you have your comp plans tied to it. But for you as you’ve aligned with your investors, how do you bring into the conversation this idea of a spectrum of potential results without having specific data to inform it. But it’s around aligning gut feels, like aligning pattern matching. When you were an investor you’re doing that pattern matching. How do you get your investors today aligned around a way of defining the possible?
+
+**Michelle Valentine (08:58):**
+
+I think aligning your thinking before you present a model is crucial. I’m someone who’s much more written than I am verbal. And so what I do is I write down a few bullet points of what I think will drive the model, as well as frameworks and assumptions that I would like to make and get feedback on that. And so one example is how much should we increase spend after a fundraise on marketing and sales. And sharing, “Hey, there’s this magic number framework that actually could be helpful in guiding the upper bound of what we should be spending assuming that we keep up efficiency. Would you agree with this framework?” And I got signed off on that. And based on that, that’s how we built a lot of S&M costs into our model. And so when it came to comments on the budget, we were actually very much aligned and it was a very quick process. But it’s crucial to have those bullet points up front over email before you even present the numbers.
+
+**Randy Wooton (09:52):**
+
+Yeah, I think that is one thing you find with VCs, especially in a B2B SaaS is they oversee a bunch of companies and they’re doing pattern matching. And they think you should spend this amount of money on gross margin. Like any true SaaS application that is south of 85% for gross margin, there’s something wrong. Gross retention, anything below 90% is going to pop a flag. And so I think part of the challenge is if you are not within the realm of what they think is reasonable based on their experience, then you have some explaining to do.
+
+**(10:23):**
+
+I know for me, my biggest aha coming to work for a PE company which solves more about EBITDA than growth, was they became much tighter in terms of thinking about where I was spending money versus, oh no, we’re just going to make some bets and we’re just going to grow. Very specifically, it was around I used to use sales and marketing as a percent of revenue for the size company and for our ACV to triangulate on, well, how much should we be spending on it? And Chelsea Stoner disabused me of that and convinced me that new CAC ratio was the only thing that mattered. And it was a really fruitful conversation in terms of how to think about it and the investments you’re making, and whether you’re seeing the efficiency that you were alluding to.
+
+**Michelle Valentine (11:04):**
+
+And maybe to ask you a question there. Do you care about the segmentation within that new CAC ratio or do you just care about the blended CAC?
+
+**Randy Wooton (11:12):**
+
+So two different ways of doing segmentation, one, blended CAC being new CAC versus expansion CAC. So we do split that out. We allocate dollars from marketing that are going for customer marketing initiatives. So there is an expansion CAC that we’re doing. And then within the new CAC, we’re working on moving to a segment based on four segments like startup, SMB and what we call mid-market and scale. And we have different sales models, so AEs, SEs. And so we are trying to aggregate all the costs and then put that against the new logo revenue to come out with a CAC by segment. Is that what you meant by segment in terms of go-to-market?
+
+**Michelle Valentine (11:58):**
+
+Exactly, yes.
+
+**Randy Wooton (11:59):**
+
+Yeah, and I think companies that it’s germane to the idea of your PLG versus SLG at the highest level. What you would do for PLG, making sure you’re including all the costs because it’s product-led, you’re also including the cost associated with producing the product. There’s a CAC ratio for that go-to-market channel, which is different than your sales-led motion. But if you’re only using a segment like for us in our startup segment, it’s only covered by a early-stage, what we call full-cycle AE. So they have to generate their own SAOs, they’re closing their own deals so they’re not getting any marketing dollars associated with it. So that allows us to offer a lower price at that segment because we don’t have to cover the full loaded costs of AE plus SE plus all the management plus \[inaudible 00:12:43\].
+
+**Michelle Valentine (12:43):**
+
+Tracking it by segments is so important, especially for a lot of software companies where your holy grail a lot of the time is to move up market. Very rarely do you as a startup decide, oh, I actually want to go further down market. You usually starts smaller, folks that might adopt you and then you try to expand into the enterprise. And when that happens, your CAC will increase. And so if you’re looking at blended, you actually might have a very efficient motion and that’s just a product of your team winning larger enterprise deals. But you can only tell if it’s efficient if you can segment and point to, hey, my SMB or my mid-market that CAC is staying pretty flat. And so that I think is great that you’re segmenting in four ways.
+
+**Randy Wooton (13:27):**
+
+And I think there’s inflection points when companies move from one product. You were the person who identified a specific opportunity, a pain that was the vision for Anrok. And then you have one product you’re selling really to one ICP to be super focused. You get the product market fit, you start to scale that. And at some point you hit an inflection point, I don’t know, five, 10 million bucks where now you’re like, oh gosh, I need multiple products. I might need to serve multiple segments or multiple regions and there’s an investment curve. It’s the bow wave of investment. Well, now I got to go invest there. And so I think to your point, the more that people can do segment-based approach to go to market and what McKinsey uses is that three horizon model in terms of product investments. Where are you going to get your money over the next 12 months? What are you investing in the capabilities that are going to provide you money over 18 to 24 months?
+
+**(14:17):**
+
+And then what are the things that are going to be your next stack, that you’re going to change your business in the three years out? And you bring those two pieces together in terms of thinking about, okay, we have this product, we put a bunch of money into it, what’s our expectation on return? I think each of those inflection points you have different decisions and it adds levels of complexity.
+
+**Michelle Valentine (14:35):**
+
+Something that I think a lot of people miss is the idea that product market fit is the destination and it rather is a continuous process. As you mentioned, every time you grow into a new segment, you might be selling to a new persona and so you’re refinding product market fit. And so to me the best companies are the ones that are continuously evolving and continuously finding product market fit. So you can say, “Hey, I found product market fit for my segment.” That’s great. But if you win the market opportunity fast enough, you’re going to be on that search again. So that’s the first thing that I would say in reaction to what you mentioned, is people often miss product market fit is really a continuous journey. The other thing that I’ve learned through looking at a lot of software companies as a VC is that you really have to earn your right to go multi-product. If you truly believe your market is massive, you should go deep and really make sure that you’ve put a big stake in the ground.
+
+**(15:32):**
+
+And that you are the standard in that market before you branch out to too many products and spread yourself too thin. Funnily enough, I was chatting with the COO at ServiceNow, one of the top three biggest software companies out there. And I asked him, I was like, “When did you go multi-product?” And he was like, “Post IPO.” That’s how big their belief in their market was. And I think that was one of the reasons why at IPO a lot of investors they had a great public offering, but I think it could have been even bigger because a lot of investors were worried about that TAM. And their belief was like, no, our market is so big, we can wait until after we go public to really invest in our next act. That said, I do think it’s important to know where you’re going. You might not invest in that now, but you need to invest in that vision and do all of the preparation ahead of making that capital investment.
+
+**(16:22):**
+
+Something that we’ve done at Anrok is to write down our five-year plan and really build the model. And it’s funny when I look at the model, so much is about to change. It’s almost if I put a confidence level to that, it’s like a 5% confidence that the future is going to look like that. But it helps tell me, oh, if we want that product line to be making that much revenue in five years time, we need to think about resourcing it two or three years earlier.
+
+**Randy Wooton (16:48):**
+
+That’s great. I think that was one of the things I talked about Jeff as well in setting up the budget and how a strategy and a budget connect. And one of the things I like to do is have a strategy conversation with the board around September. And I only use three years, but what are we trying to achieve over the next three years? And I think there’s a growth plan. You get aligned in terms of this is what the shape of the business needs to be because they’ve invested a certain amount of dollars, and they expect a certain amount of return over a certain period of time. And so at the very high level, you have to get aligned on this is how the business is going to unfold. And then you have a strategy underneath that which says, oh, if we’re going to do that, well, then these are the set of products we’re going to invest in or these are the segments we’re going to go after or these are the regions we’re going to grow in.
+
+**(17:30):**
+
+And then that informs your budget, which you present in December. And your budget is a one-year budget within a three or five-year plan that you’re ticking and tying. I have one more question on this topic for you because I think it’s really interesting, how as an investor would you coach CFOs, at what stage for them to think about M&A? So inorganic growth versus organic growth because a lot of the initial fire and effectiveness comes from having a focused engineering team on a specific product that they’re building on their own. And you get to a certain stage at which you’re like, we could go build that but there are already other companies out there that are out in front, so let’s go buy it. What would be your coaching for a CFO and for the CEO in terms of capital allocation, organic versus inorganic at different stages?
+
+**Michelle Valentine (18:19):**
+
+Again, it depends on the stage as you alluded to, but also the type of M&A outcome you’re looking for. So if you are looking for more of an aqua hire, you can do that pretty early on. I think there are a lot of startups where they could be good acquisition targets right now. Really talented team, they got funding in the zero interest rate environment, they’re really struggling to raise their next round. Those could be great acquisition targets. Even if you’re a series B / C company, that might be something you do early. I would say if you’re more looking for a strategic M&A target, there is so much more complexity in connecting back end systems and tech stacks, that I would be really careful with looking at something really shiny and say, “Wow, there are so many synergies here.” That there’s probably a lot of financial synergies that could happen. But to really truly integrate the products is hard.
+
+**(19:14):**
+
+And so you might be fine with an acquisition as long as they’re standalone products and it’s really having a joint sales force going after them. So if you’re in that situation, that’s easier to do. But if you’re truly trying to integrate the products, I would say think really hard of how difficult this will be to build versus buy.
+
+**Randy Wooton (19:33):**
+
+Yeah, so from your lips to God’s ears, that was my experience coming to Maxio, it was a merger of equals which I had not really ever heard of before or seen in play. Usually when I’ve done acquisitions both as the integrating team or when I was a chief strategy guy at Seismic and oversaw a couple of acquisitions, you have the big company and the smaller company just comes in and adopts the systems and processes of the big company. For the MOE, when you bring two companies that are of the same size, same number of customers, same number of employees. It was like the Bloods versus the Crips. And one stack was built on Ruby, the other stack was based on Python. There’s no one right answer, but boy, there was a lot of internet scene battling. And I remember at the point I just started and we had to make one of those one-way door decisions, which was which platform we were going to have as the basic and which one was going to be the module.
+
+**(20:23):**
+
+And we picked one and the other team felt like we were shortchanging them and we didn’t love them. And it was like, “Oh, my God, no, that wasn’t it at all.” It was just for us to move the integration forward, we had to make that commitment. And I think everyone under appreciates how tough it is to do a platform integration if you’re trying to do instantaneous data syncing, if you’re trying to use services across, it’s just really, really hard
+
+**Michelle Valentine (20:50):**
+
+Yeah, tech debt is real.
+
+**Randy Wooton (20:51):**
+
+Yeah, tech debt is real.
+
+**Michelle Valentine (20:51):**
+
+It’s easy to build, it’s hard to maintain, and it’s hard to convince your talented engineers to maintain a system.
+
+**Randy Wooton (20:59):**
+
+Right on. Well, this is not where I thought we were going to go. So it’s been awesome. Let’s talk a little bit about the CFO maybe just at this part of the conversation, the changing skillset of modern CFOs and the future outlook for the role. So what are you seeing, as the CFOs you’re talking to a bunch of them, you’re talking more than I am probably. What are you seeing as the role today versus the role tomorrow? And what does the next gen CFO need to realize and think about to be successful in that reality?
+
+**Michelle Valentine (21:25):**
+
+Yes, I think the big elephant in the room is all of the changes going on right now in the AI landscape. If you sift through the noise and there is a lot of noise, the one thing to really pay attention to is where foundation models are going because it’s changing the way that we all work. Whether you’re a CFO or not, it’s going to change the way how you build your team, how you work every day. And maybe the most helpful thing is to share my perspective on how I see the landscape today, because I think that informs how one might build their team in the near future. So today, I think we’ve all experienced truly the magic of interacting with an LLM. The thing that people don’t realize is that we’ve only really interacted with the very beginning models of what it could be.
+
+**(22:14):**
+
+Most of us if we’ve used ChatGPT, used GPT4, maybe GPT3.5 when it first came out. But we truly haven’t experienced a step function change between GPT3 and GPT4. And that’s significant because the difference between 3.5 and four is a 10X scale up in compute. And the difference between three and four, so the full step function change, that’s 100X scale up in compute. So that’s an exponential difference between the two. And so for many of us that haven’t experienced that step function change, we’re probably going to in the very, very near future. And so the big update when I think about what’s changing for a CFO, is what happens in that landscape where I can have a very intelligent AI assistant, maybe embedding them into my operations. Maybe even changing the way in which I need to think about my company and my software company’s positioning in the market landscape.
+
+**Randy Wooton (23:10):**
+
+Right. And I think that’s awesome. And so I think we were chatting a little bit earlier about the three ways that AI can augment your company and your team. One is there’s off the shelf AI tools that you can use. So you mentioned ChatGPT that you’re using just to get better at what you’re doing. Number two is maybe applying some of the models internally against your own data. So for example, like many folks, we’ve aggregated all of our Zendesk and Notion articles. And it’s informing an LLM that our customer success reps are using to better answer questions. And it’s amazing because it ingest so much information more than any one human could hold in their head. We’re making all of our customer success reps better because of the model, but it’s trained on our data. And then the third level, which I think you were pointing to with regards to the strategic positioning is if you’re a system of record, how do you take the data, structure it in a way so that the models can be applied on top of it? And so you move from workflow automation to intelligence and intelligence engine.
+
+**(24:12):**
+
+And then that becomes part of your strategic positioning in the market, is you’re not just about workflow automation. You’re taking data, you’re transforming it into insights and making it easy for your customers to be more efficient and more effective. Is that sort of what you mean by strategic positioning and how to embrace the future or how are you thinking about it at Anrok. Without sharing the secret sauce, how have you evolved your strategic positioning?
+
+**Michelle Valentine (24:37):**
+
+So I like that with what you said, I’d say it’s more like strategic positioning around product. For me, it was more even strategic positioning about the market opportunity altogether. So I was zooming out even further, which is thinking about how does your business not only survive this paradigm shift but thrive in this paradigm shift in a world where creating software will be so cheap. If you think about the world we’ve lived in the past decade or two, software has been eating the world and AI accelerates software. LLMs make it even today so much more efficient to program. And very soon they’ll be helping build a lot of software themselves. And so there’ll be types of software which people will choose to build rather than to buy because it’s so easy to build custom software. And the interesting thing for me, for a lot of financial tools is that you don’t always want custom software with finance because you want something that auditors know and trust in the structure.
+
+**(25:38):**
+
+And so in some ways, there is some defensibility in some types of finance tools because you don’t want to build your own ERP. You want to use something like a NetSuite or a Maxio because auditors, fractional CFOs, they know it and they understand it.
+
+**Randy Wooton (25:56):**
+
+And you don’t want the models hallucinating on your financial data.
+
+**Michelle Valentine (25:59):**
+
+True. I think in future models that probably will get less and less.
+
+**Randy Wooton (26:04):**
+
+Right. Sure. Got it. Well, good. So you’re telling me we’re not going to be out of business at Maxio. I appreciate that. But maybe, and I appreciate also the fact that you’re thinking about the company strategic positioning. Clearly that’s your investor chops coming out. As an operator for many years, my biggest worry is that the investors are going to come and say, “Okay, your fiscal year ’25 plan needs to include an AI augmentation efficiency gain.” And we want to see for example, that you’re not hiring as many coders as you said you were going to because they’re all using copilot and your marketing is going to be 30% more efficient. You’re not going to need as many BDRs. You’re not going to X, Y, and Z. And what I tell people is it’s common. And if it’s not fiscal year ’25, it’s going to be official year ’26 when you need to show that you have been able to embrace the tools as a forward-looking software company. And that you’re showing how AI is augmenting your operations and your product, or you’re just going to get beat down.
+
+**Michelle Valentine (27:02):**
+
+Totally agree. One thing that we’ve encouraged the team to do is to get really good at prompting models because there is a skill set in knowing how to talk to Claude or to ChatGPT, and really prompting to get the highest quality answers. So one example is asking it to not impersonate, because sometimes the model will freak out and say, “I can’t impersonate this person.” But really to say, what would a CMO at a public company like Salesforce critique on this marketing plan? What would they be worried about? And really go back and forth on that. Another example is any product PRD, put it through Claude and get some feedback on what an engineer might think or what questions they might have with the CFO. I think things that I’ve done is to look at marketing spend plans and ask it to synthesize and think through, like are we missing anything? Are there levers we should be including? Is this actually efficient or not?
+
+**Randy Wooton (28:02):**
+
+That’s great. Lots of interesting things there in terms of product engineering. You made me think of, we did a training with… And so I think there are people out there now that are making their life about how to do AI well. And so they’ve gotten off the hamster wheel and they’re like, I’m going to become the AI expert for marketing. And we had someone come in, I just talked to a guy, Nicolas out of Germany who runs the AI Finance Club. And this is all he does, is training people on how to use AI for finance. And he’s got this huge following. I recommend it to anybody to go check it out. But on the marketing one, we had this great woman come in and give a presentation to our team and help us become better prompt engineers.
+
+**(28:42):**
+
+And she said, “The models actually respond to being polite.” If you say, please do this for me or say thank you, or if you say something like, this is really, really important for my board meeting, the model will work harder, because it’s being trained on human interactions and human language that it responds to that. And I was like, “No way. That’s not true.” And now I’ve talked to 10 experts and they’re like, “No, just treat it like your mother.” Be nice and polite and it’ll give you a better output.
+
+**Michelle Valentine (29:08):**
+
+And if you tell it to think it through step-by-step, it thinks it through step by step and you get a high quality answer.
+
+**Randy Wooton (29:14):**
+
+I think there’s something to that that’s a great point. I think everyone should be doing a little AI every day in how are they playing and learning how to write the prompts better. And at some point there’ll be like a neural net and it’s just going on back and forth your conversation with your personal AI. Well, good. Well, tell you what, why don’t we… Given the time, let’s shift to the speed round. And so the speed round as we talked about was your favorite metric and why. We already tore apart CAC, if you want to use that, that’s fine or if you have a different one. Your favorite book doesn’t have to be a business book, it could be any book that you find inspirational. And then your favorite influencer, someone who you find is offering new content, not just the recycling of current whatever’s going on in the echo chamber. So favorite metric?
+
+**Michelle Valentine (29:57):**
+
+Favorite metric I would say net dollar retention, especially if you’re a usage-based business there are so many ways to think about it. There’s the time it takes to really get activated and ramped up. So do you measure net dollar retention from month zero, or do you measure it from what you thought the annual contract would be? And so I think that’s a metric that is underappreciated because it can tell you many different things depending on how you measure it.
+
+**Randy Wooton (30:20):**
+
+And in usage it gets really complicated, right?
+
+**Michelle Valentine (30:23):**
+
+That’s right.
+
+**Randy Wooton (30:24):**
+
+Okay. Favorite book.
+
+**Michelle Valentine (30:26):**
+
+Excession by Iain M. Banks. He’s a British author. He wrote science fiction in the ’80s. I think Excession is the best post-singularity representation of how AI minds might talk to each other. And I think it’s phenomenal. It’s part of the culture series. You don’t need to read it in order. Highly recommend Excession.
+
+**Randy Wooton (30:48):**
+
+Excession by, it was Ian Brooks?
+
+**Michelle Valentine (30:52):**
+
+Iain M Banks.
+
+**Randy Wooton (30:53):**
+
+Iain M. Banks. Okay, I’m putting it on my list.
+
+**Michelle Valentine (30:56):**
+
+Iain is spelled I-A-I-N.
+
+**Randy Wooton (31:00):**
+
+Oh, okay. Great. Well, thank you for that clarification. We’ll put that in the show notes. It’s funny doing these expert voices, I’ve ended up with 10 new books that are sitting on top of the 20 other books that I should be reading. But that one sounds really interesting. Okay, finally, your favorite influence. So the person that you’d like to read in the morning either their emails, you listen to their podcast, who’s helping you think deeper?
+
+**Michelle Valentine (31:22):**
+
+I have to pick two. So for reading it’s Matt Levine, who’s fantastic. And then his newsletter is great. And then for podcast it would be Patrick O’Shaughnessy’s Invest like the Best.
+
+**Randy Wooton (31:34):**
+
+Invest like the Best. What’s the name of the newsletter that Matt Levine puts out?
+
+**Michelle Valentine (31:38):**
+
+Matt Levine puts out Money Stuff.
+
+**Randy Wooton (31:41):**
+
+Money Stuff.
+
+**Michelle Valentine (31:42):**
+
+He’s pretty prolific, so it’s hard to keep up. But he goes down rabbit holes, he gets obsessed with different things and it’s just fun to see how he breaks down why the finance world is weird. That’s great.
+
+**Randy Wooton (31:55):**
+
+Oh, that’s awesome. Great. Well, I’m going to add those two, just adding more work to my life. But Michelle, it was just great chatting with you. What a great background experience. And congratulations on your success to date and look forward to working with you and your team going forward.
+
+**Michelle Valentine (32:08):**
+
+Likewise. Thanks, Randy.

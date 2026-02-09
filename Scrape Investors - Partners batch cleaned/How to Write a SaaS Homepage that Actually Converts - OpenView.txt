@@ -1,0 +1,193 @@
+# How to Write a SaaS Homepage that Actually Converts
+
+**_Editor’s Note:_** _This article first appeared in Kyle Poyar’s newsletter, Growth Unhinged, which explores the unexpected behind today’s fastest-growing startups._ [_You can subscribe to get the latest from Kyle here._](https://www.growthunhinged.com/)
+
+SaaS companies have at least one thing in common: they need a great website. While a great website is life-or-death in a product-led business, it’s also crucial for attracting enterprise prospects. There’s perhaps nobody who’s been as prolific or insightful about this topic as [Anthony Pierri](https://www.linkedin.com/in/anthonypierri/), a founder of [Fletch PMM](https://www.fletchpmm.com/) (although co-founder [Robert Kaminski](https://www.linkedin.com/in/heyrobk/) might give him a run for his money).
+
+Anthony argues that most SaaS messaging is garbage. It doesn’t have to be. He’s now sharing his comprehensive framework for writing a SaaS homepage.
+
+Homepages are a bit like Product Marketing Managers: everyone expects them to do everything.
+
+*   Founders want them to reflect their big vision (to impress investors).
+*   Product wants them to show off the coolest features (to intimidate competitors).
+*   Sales wants them to display compelling ROI numbers (to wow prospects).
+*   HR wants them to demonstrate the amazing culture (to entice applicants).
+
+In reality, the homepage is a marketing asset – and even more specifically, it is a product marketing asset.
+
+For startups of all sizes, its purpose is to answer fundamental questions like…
+
+1.  What does the product do?
+2.  How does it work?
+3.  What does it look like?
+4.  When would I use it?
+5.  How does it help me make progress in what I’m trying to accomplish?
+
+Until the majority of your TAM can easily answer these questions, you must resist the natural pull (usually from executives) towards vague, broad, and ambiguous messaging. And if companies like Loom (valued at $6B), Notion (valued at $10B), and Rippling (valued at $11B) are still primarily doing product marketing on their homepage, you probably should be too.
+
+With that in mind, let’s write a homepage together.
+
+![How to write your SaaS homepage](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+## Step 1: Choose your audience
+
+The first step to writing a homepage is choosing an audience. It can be helpful to map your potential segments across three dimensions: company type, persona or department, and situation.
+
+![SaaS Homepage Audience](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+Anchoring your messaging to a specific type of department (sales teams) or type of company (accounting firms) can be considered a “vertical” audience.
+
+But what if your solution helps multiple types of companies and departments?
+
+In these cases, you can anchor on a shared “situation” — what could be considered a “horizontal” audience.
+
+![Horizontal and vertical audiences](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+The “situation” box can either describe a process (“I’m trying to patch a hole in my drywall”) or a desired outcome (“I’m trying to get more sales leads”).
+
+For fans of Tony Ulwick or Bob Moesta, this is essentially the Job-to-be-Done box.
+
+In both cases, the important piece is that this is something your target is actively expending energy to accomplish.
+
+Once you’ve mapped out your audience options, you then can weigh the pros and cons of each to find the right target.
+
+Some questions to consider as you prioritize:
+
+*   Where do we want our growth to come from in the next 6-12 months?
+*   Which group can we reasonably expect to reach given our current go-to-market muscle?
+*   Are we trying to create or capture demand?
+
+![Potential audiences](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+## Step 2: Pick your champion
+
+Now that you’ve decided who you should target at a high level, you need to figure out exactly which person within your target accounts you’d want to land on your page.
+
+A common mistake is writing the page for the buyer or decision maker – an executive who is higher in the org chart.
+
+While they have authority, in most cases they are too far removed from the problem to care about your product.
+
+Most B2B sales cycles are 6-12 months long, which means you want to pick a person who has the time, energy, and motivation to convince all relevant stakeholders, work with legal and procurement, and ultimately get the deal pushed through.
+
+This person is known as the champion, and they are the ones you need to write the page for.
+
+The champion isn’t always the end user, but they do need to be close enough to the problem to see its negative effects and understand how a product would solve the issue.
+
+## Step 3: Map their situation
+
+At this point, you need to lay out what your champion is trying to do (i.e. their “situation”).
+
+The key to powerful homepage messaging is to connect your product’s capabilities, features, and benefits to the current situation of your champion.
+
+Your first answer to this question (i.e. “what are they trying to do?”) will likely be too high level. “Increase revenue” or “save time” is not going to cut it. You need to bring this 40,000 ft. message to ground level.
+
+As much as possible, try to list the functional activities they are trying to accomplish rather than the outcomes of those activities. To give you some examples…
+
+1.  **“Ensure compliance” is the outcome:** Doing reviews with employees and standardizing procedures are the activities
+2.  **“Increase uptime” is the outcome:** Routinely fixing bugs, using load balancing, and monitoring service health and performance are the activities
+
+The situations/activities you list should be tool-agnostic. They should be able to be accomplished by a variety of different tools. If your situation is “trying to clean your hands,” this could be accomplished by hand sanitizer, bar soap, water, etc.
+
+![Champion company type](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+Once you have a loose map of what they are trying to do, cross out all of the areas your product doesn’t address.
+
+With the levels that remain, continue to drill down until you reach a slightly uncomfortable level of specificity. When you’re worried you’ve gone too specific, chances are you’ve reached a level where your message will actually resonate with your champion.
+
+## Step 4: Map limitations and problems associated with the current way
+
+Once we’ve chosen an audience, picked a champion, and determined the right level of specificity related to their given situation, we need to document their current way of addressing the situation – as well as the limitations and problems of their chosen method.
+
+To accomplish this, we will fill out the left half of the Fletch Value Proposition Messaging Canvas.
+
+![Fletch Value Proposition Messaging Canvas](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+You read the canvas left to right, and then vertically by column similar to how you read a user story map.
+
+The canvas can be used to address one main use case or to cover three different use cases (as seen with the grayed out boxes). For startups, the smarter option will almost always be to focus on one main use case for your homepage.
+
+In this example, we’ll focus on the single use case of re-writing a homepage.
+
+The current way can be broken down into a summary (the top black box) along with detailed steps to address the situation (the three black boxes below).
+
+The current way (should) have limitations that are improved upon by your product. These limitations aren’t inherently positive or negative (as you can see from the example). However, we want to show how these limitations cause problems for the champion.
+
+## Step 5: Map your product’s capabilities, features, and benefits
+
+Once the left side of the canvas is complete, we can begin to make connections to your product.
+
+The three key concepts you’ll need to understand are 1) capabilities, 2) features and 3) benefits (using 1Password as an example):
+
+1.  **Capabilities:** What someone actually does with your product, for example “store your passwords online.”
+2.  **Features:** The technical aspects of the product that power the capabilities, for example “encrypted vault.”
+3.  **Benefits:** The outcome of applying the capabilities, for example “so you never forget your password again.”
+
+As you see in the completed canvas below, there are inherent links between capabilities and limitations, and problems and benefits.
+
+Your product’s capabilities improve upon the limitations of the current way your prospect approaches a situation.
+
+Your product’s benefits are the reversal (or removal) of the problem that blocks progress in your prospect’s situation.
+
+![Fletch Value Proposition Messaging Canvas_2](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+## Step 6: Modify an existing product category (or highlight a key feature)
+
+The last box to cover in the canvas is the purple Product Category box.
+
+The startup ecosystem is filled with incredibly strong opinions related to category creation (looking at you, Category Pirates 🏴‍☠️).
+
+Their thought process is that you should create a new category that you can dominate rather than competing for a small portion of an existing category.
+
+If your “current way” box is filled with “using a named competitor,” you’re likely in an existing product category.
+
+If instead it says something like “using spreadsheets and manual processes,” then you’re likely creating a new category (or at least a new sub-category).
+
+Our biggest difference from the Category Pirates is we believe you should almost always anchor your product to an existing category with an added modifier (rather than choosing a new name).
+
+![Category creation vs differentiation](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+In some cases, the existing categories may be so far off from what your product does that it would hurt you to use their nomenclature. In those instances, you’re better off avoiding the topic of a product category at all and replace the purple box with a green box that lists your most compelling feature.
+
+## Step 7: Translate strategic messaging into copy
+
+Over time we have developed a narrative flow for the top half of the B2B startup homepages we design.
+
+The sections are:
+
+**Hero**
+
+*   In the Value Proposition Canvas, this is a combination of messages from the top row and the key capabilities (see the white box behind those specific elements.
+*   This should include a picture of your product and a trust building section.
+
+**Problem Section**
+
+*   This creates a point of empathy for the visitor that they are in fact in the right place
+*   This helps turn away bad fit customers and entice good fit customers
+*   These messages are pulled from the current way, limitation, and problem boxes in the Value Proposition Canvas
+
+**Solution Intro Section**
+
+*   This is how you introduce your new way of addressing the situation that replaces their current way.
+*   These messages come in the product category, main/summary capability, and main/summary benefit boxes in the Value Proposition Canvas.
+
+**Value Propositions 1-3**
+
+*   These are the three arguments you would make to convince your product to take the next step (booking a demo or trying the product.
+*   These messages comes from the capabilities, features, and benefits in rows 2-4.
+
+![SaaS homepage mock up](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+Beyond these initial sections, the bottom half of the page can be tailored to specific needs of the company and drive visitors to other pages on the website.
+
+Potential sections could include:
+
+*   Other use cases
+*   Case studies
+*   “For enterprises” section
+*   Full page testimonials or testimonial walls
+*   Persona-based segmentation (”here’s how sales teams use the product, here’s how marketing teams use the product, etc.”)
+*   Company-based segmentation (”here’s how manufacturing companies use the product, here’s how healthcare companies use the product, etc.”)
+*   Feature wall
+*   ROI section (numerical results of using your product)
+
+### For more SaaS homepage resources, view the original post [on Growth Unhinged here](https://www.growthunhinged.com/p/how-to-write-a-saas-homepage).

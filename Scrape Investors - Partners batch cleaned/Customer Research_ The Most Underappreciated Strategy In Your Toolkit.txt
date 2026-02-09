@@ -1,0 +1,551 @@
+# Customer Research: The Most Underappreciated Strategy In Your Toolkit
+
+These ecommerce scenarios all have something in common:
+
+*   Glossier names its cult-hit cleanser “Milky Jelly” 
+*   Harry’s launches a new deodorant and shifts from a shave brand to a personal care   
+*   Katelyn Bourgoin positions Charboyz meat kits as a social solution for suburban dads
+*   A maternity brand figures out how to present its proprietary sizing, which improves conversions and decreases returns 
+
+The answer: good customer research. 
+
+Each of those bullets came about because the brand or founder listened closely to stories their customers and prospective customers told. 
+
+These brands know something too few ecommerce companies have taken to heart: customer research has far-reaching implications for businesses. With the right resources and process, it’s possible to collect meaningful insights that help you improve many areas of your business, from marketing to customer support to product development. 
+
+And although it may seem intimidating first, the time and financial investment customer research requires is manageable for most teams — especially in light of its ROI. 
+
+This article is a step-by-step guide to formulating a research plan, interviewing customers, and turning the qualitative data you collect into meaningful improvements for your brand. 
+
+**The rest of this articles outlines how to:**
+
+*   Think about the benefits of customer research
+*   Put together a research plan
+*   Run effective customer interviews
+*   Gather indirect customer research
+*   Put your research data to good use
+
+## What is customer research?
+
+Customer research is a structured way to find out why customers do and don’t buy. It’s an effective way to step out of your head and into the buyer’s journey, so you can provide better products and experiences. 
+
+### Why is it especially important for ecommerce? 
+
+For ecommerce leaders, the biggest benefits of customer research include: 
+
+*   Getting outside the jar 
+*   Knowing what to improve (instead of guessing)
+*   Providing better customer-centric experiences
+
+**Customer research gets you outside the jar**
+
+Imagine sitting inside a jar (an empty one) and trying to read the label. Even if you could make out a letter or two, or perhaps a fine print medical warning, it’d be impossible to piece together what the whole label looks like from the outside.
+
+That’s a bit like trying to imagine a new customer’s experience from inside your brand. You know your site inside and out, and that’s a strength in many contexts. But it’s also a weakness because your proximity to the brand makes it impossible to know what it’s like for new customers to hit your homepage or try to purchase something.
+
+You’re stuck inside the jar, and one of the best ways to get out is customer research. 
+
+But that’s not the only benefit. 
+
+**Customer research helps you identify data-backed improvements**
+
+There’s a marketing approach Katelyn Bourgoin calls “[liquor and guessing](https://customercamp.co/the-time-honoured-marketing-tradition-that-customers-hate/).” It’s the old formula of gathering smart, creative people in the same room, giving them a cool product to work with, and letting them guess their way (occasionally with liquor) to more sales. 
+
+While that occasionally works, it’s a bit like throwing a dart with your eyes closed — you could hit the board, but it’s not likely. Customer research provides a more guaranteed path. 
+
+Some of the most common benefits folks cite is clarity around their messaging strategy — who to speak to, how to speak with them, and when to do so. 
+
+> Just wrapped up my 1st customer interview. 🕺Walked away with an entirely new approach, at least 10 content ideas, and a plethora of vocabulary I hadn't used before.
+> 
+> Future copy has written itself. [@KateBour](https://twitter.com/KateBour?ref_src=twsrc%5Etfw) never stop pushing this narrative. This changed my marketing world. 🙏
+> 
+> — Kristen LaFrance (@kdlafrance) [May 2, 2019](https://twitter.com/kdlafrance/status/1124016478947348487?ref_src=twsrc%5Etfw)
+
+But depending on what you set out to discover, customer research can do way more than that. 
+
+Harry’s for example, crowdsourced some of their newest products from current shoppers. Jaime Crespo, GM at Harry’s, [told Retail Brew](https://www.morningbrew.com/retail/stories/2021/01/11/another-new-product-line-harrys-transforming-shave-brand-personal-care-brand) the brand had 1,600 customers call in or send emails requesting deodorant. And 120,000 customers said in a survey they wanted to see deodorant or antiperspirant. Harry’s leaned into this.  
+
+Crespo says, “We have a very strong, close connection with the customers. So we start talking with the customers and asking them, okay, why do you want a new product in deodorant? What’s wrong with the products that you’re currently using? And that’s how we develop our proposition.”  
+
+This ties into the third major benefit for ecommerce brands.
+
+**Customer research shows you how to build better customer experiences**
+
+One of the biggest strengths of ecommerce, and especially DTC, is the unique opportunity brands have to influence or control every aspect of the [customer experience](https://thegood.com/insights/customer-experience-success/). 
+
+And better experiences pay off:
+
+*   PwC surveyed 15,000 consumers and found 65% of them said they were more [strongly influenced by a positive experience](https://www.pwc.com/us/en/advisory-services/publications/consumer-intelligence-series/pwc-consumer-intelligence-series-customer-experience.pdf) than a great ad campaign
+*   Coschedule found marketers who do audience research at least once per year are [303% more likely to hit marketing goal](https://media.coschedule.com/uploads/State-of-Marketing-Strategy-2018-1.pdf)
+*   McKinsey says brands that improve the customer journey see [revenue increases as much as 10-15%](https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/best-of-both-worlds-customer-experience-for-more-revenues-and-lower-costs) — while lowering service costs by 15-20%
+
+When you start [dialing in the customer experience](https://thegood.com/insights/consumer-experience-optimization/), metrics like conversion rate, lifetime value, average order value, return on ad spending, and others improve as well. 
+
+Customer research shows you, with astonishing clarity, how visitors are experiencing your brand. Meaning, it also shows you where to improve, where to double down, and where missed opportunities are, too. 
+
+Here’s how to get started. 
+
+## How to build a foundation with a one-page research plan 
+
+If you’re doing DIY research for your brand (DIY as in not hiring outside) help, start with a plan. This doesn’t have to be complex, either. 
+
+To put together a one-page customer research plan, you’ll want to define:
+
+*   Your goals for researching
+*   Who will “own” the research
+*   Who you’ll talk with 
+*   What success looks like 
+
+Below are each of those pieces in more detail.
+
+### What are your goals for customer research? 
+
+While it’s admirable to simply want to know your customers better, your research will be far more effective (read: impactful for a specific area of business) if you start with some goals.
+
+I say “goals” because Hannah Shamji, [Customer Researcher](https://hannahshamji.com/), emphasizes every customer research project should have two goals:
+
+1.  A research goal
+2.  A business goal
+
+Your research goal is typically in the form of a question. Be careful of going too broad here though. Shamji says a question like “why are customers buying?’ is too vague to be useful. It’s not something you can actually measure and answer. Instead, try something like, “why are customers in the past 6 months buy or not buying?” This is more specific, measurable, and directive. 
+
+Once you have your research goal, your business goal outlines how you’ll use the research — what decision it’ll drive internally or what it will inform. Hannah explains this as, “stepping away and peeling back the future state of where this data is going to live and be used.” For example, if you want to know why customers have and haven’t bought in the last six months, perhaps you’re looking to improve new customer conversion rates.  
+
+### Who is going to be doing the research?
+
+Ideally, you want to appoint one person to lead the research efforts. This person “owns” the research project. 
+
+They can be an internal team member or an external expert, like Shamji or an agency. The point is, you identify one person who’s responsible for running the research and organizing the findings. This, among other things, ensures the research actually happens. 
+
+### How will you find customers or prospects to talk to?
+
+Once you have your goals and your project owner, you now need someone to research. 
+
+Figuring out who that “someone” is involves two steps: 
+
+1.  Identifying which type(s) of customer you need to talk with
+2.  Outlining how you’ll engage them 
+
+**1\. Identifying who to talk with** 
+
+You’re no doubt aware you have different types of customers. These different types include distinct personas with distinct needs. Your different customer types also include action-based segments — customers who just purchased, signed up for the email list, or canceled a subscription. 
+
+Each type of customer provides a different type of insight. For example:
+
+*   **Prospective visitors** can help you understand why folks come to your site, what they’re looking for, and where they get tripped up.
+*   **Customers who just purchased** can give insight into what triggers and contexts motivate other new customers to buy. 
+*   **Repeat customers** can help you see what’s both delightful and frustrating about the experience you’re providing.
+*   **Higher average order value customers** can provide insight into what drives brand fanatics.  
+
+And that’s just to name a few. 
+
+Ultimately, who you focus on depends on your research question. Let’s say you’re a DTC drink subscription company, and you want to understand why subscribers canceled their recurring soda subscription last month. Your goal is to reduce churn. To do this research, you’ll want to speak with subscribers who canceled last month and dig into why they moved on. 
+
+The general rule is, speak with the customer segment or prospective customer segment that’s best equipped to answer your research questions. 
+
+**2\. Outlining how you’ll engage them**
+
+Once you know who you’d like to talk with, you can identify how you’ll reach out to them.
+
+If you’re speaking with existing customers, this may be as simple as an email. 
+
+If you’re speaking with prospective customers, you’ll also want to consider where to find folks and how to qualify them as well.
+
+_Note: I’ll get into the logistics of both of those below. For now, simply write how you plan to reach out to folks._ 
+
+### What types of research make the most sense?
+
+The next planning decision you’ll want to make is, “What type or types of research will give us the best data for our question?” There are quite a few types of research, and they all have strengths and weaknesses. 
+
+Here’s one helpful framework:
+
+*   **Direct vs. indirect**: Direct research involves actively reaching out to customers. Think interviews, online surveys, questionnaires, user testing, and similar primary research methods. Indirect research is more passive. These are methods like social listening (gleaning data from social media) or buying market research. 
+*   **Qualitative vs. quantitative:** Qualitative research methods focus on substance and answering “why is this the case?” Quantitative research methods focus on numbers and answering “how often is this happening?” Most research methods excel in one area or the other. But some methods, such as surveys, can help you answer both. 
+
+You can plot most research methods (interviews, surveys, polls) along those two axes: 
+
+Keep in mind combining multiple types of research is often an effective way to gain clarity around your research question.
+
+For example, if you want to know why website visitors aren’t converting on the homepage you rolled out last month, interviewing prospective visitors will help. But so will looking at heatmaps and path analytics in Google docs. 
+
+**Non-interview research options** 
+
+The rest of this article will focus on interviewing customers because this is one of [the most impactful research methods](https://customercamp.co/the-time-honoured-marketing-tradition-that-customers-hate/), as Katelyn Bourgoin illustrated: 
+
+That being said, you may sometimes want to start with research options that _aren’t_ interviews. For example, when you’re:
+
+*   Not sure what questions you need to ask or who could answer them 
+*   Needing to gather a large volume of data points quickly around a specific question 
+
+In those scenarios, non-interview options include: 
+
+*   **Customer surveys:** Via email or form add-ons 
+*   **Live chat transcripts**: 29% of consumers use or [plan to use chatbots](https://see.narvar.com/rs/249-TEC-877/images/Connecting%20With%20Shoppers_Narvar%20Consumer%20Report%20Q1%202018.pdf?aliId=1109557) to shop online. If you’re using chatbots, there’s a wealth of qualitative data sitting in those conversations. 
+*   **Customer support:** The people answering emails, calls, and chats from potential customers or customers every day [are a rich source of insight](https://thegood.com/insights/customer-experience/). Don’t neglect what they know. 
+*   **Forums/communities**: Listen in wherever your potential customers hang out — Quora, Slack groups, Facebook communities, LinkedIn groups, local meetups, etc. This is a helpful way to find common pain points and desires. 
+*   **Social Media:** Twitter, Instagram, Pinterest, TikTok, Clubhouse, Facebook…if your potential customers are chatting there, there’s something you can learn from lurking. 
+*   **Product reviews:** Mining competitor reviews, similar products on amazon, or browsing aggregate review sites can indicate where customers are most fed up and what they may be looking for instead. 
+*   **Audience research tools.** Several tools, such as [SparkToro](https://sparktoro.com/), [UserInput](https://www.userinput.io/), and [Hotjar](https://www.hotjar.com/), are specially built for figuring out who your audience is and what they’re interested in. 
+
+Again, we don’t go deeper on each of those types of research here because that could be a book in itself. But keep in mind these can be a good starting point in certain scenarios, and they’re often useful to layer on top of interviews for additional context. 
+
+For example, Natalie Thomas, Director of Strategy at The Good, explains we always start with the journey: the path the visitor takes, where they’re coming from, and what their mindset is. 
+
+If we were working with a glasses company, we might ask, “what keywords are people searching for? Are they landing on your site because they’re looking for cute glasses? Are they looking for blue light glasses, or are they looking for acetate glasses, or are they not looking for glasses at all?” This kind of journey analysis diagnoses any problems, which helps us form specific research questions and business goals. With this method, we can ensure we’re asking the right question and focusing research on points of highest return.  
+
+#### FREE EBOOK
+
+### How to Conduct Customer Research to Improve Customer Experience
+
+### How do you define “enough” and wrap up the project?
+
+The last piece of your plan is defining “enough.” Or, what success looks like. This is identifying, “we know we’re done with this phase of research when…” 
+
+There are a few ways to benchmark this:
+
+*   After x amount of weeks
+*   After talking with y customers
+*   After identifying z trends 
+
+While customer research ideally becomes an ongoing effort at your brand, it’s useful to know when each piece of research wraps up. So, make sure and set a finish line. 
+
+## How to conduct effective 1:1 customer interviews
+
+Once you have a plan, you can start executing your research. This part is a lot of logistics — and a lot of fun. It involves:
+
+*   Reaching out to potential interviewees
+*   Formulating interview questions 
+*   Running interviews 
+
+Those steps sound simple enough, but many folks get tripped up here. Do you pay people to participate? What do you say in the emails? And, for the love, what do you say in the interview??
+
+Here are some answers based on our experience and the experts we talked with. 
+
+### First, reach out to your target audience and get them to engage
+
+The plan you built above identified which customer segment you’ll interview. Here’s where you start engaging that segment. Some questions you might run into here include:
+
+*   How many people do I contact?
+*   Do I pay or incentivize them to participate?  
+*   How do I qualify them?
+*   What do I say when I email people?
+*   How do I not lose my mind scheduling it all? 
+
+They’re all good questions! Let’s take them one-by-one. 
+
+**How many people do I reach out to?** 
+
+It’s unlikely every customer will accept, so email 1.5 to 2x the number of customers you’d like to wind up talking to. 
+
+If you’re doing customer interviews, aim to speak with at least 5-10 people. Jess Nichols, User Research Leader and Experience Strategist, [recommends](https://dovetailapp.com/blog/research-participants-what-does-good-look-like/), “For exploratory research, like interviews, I aim for eight to 10 participants per segment. This number ensures you can identify patterns, similarities, or differences in your participants’ responses and allow you to dive deeper into nuances you may discover during research.”
+
+So, if you’d like to speak with 10 customers, email 15 to 20 with an interview request. 
+
+**Do I use incentives?** 
+
+This depends on your budget, the segment you’re trying to reach, and whether you have time to try a no-incentive approach first (if you hear crickets, you can always add in an incentive later).
+
+If you’re interviewing existing customers, particularly brand enthusiasts or loyalists, you may not need to sweeten the ask. But if you’re trying to connect with prospective customers, an incentive will generally speed up your timeline and up your response rate.  
+
+If you opt for incentives, Hannah recommends you use [between $20 and $50 per person](https://hannahshamji.com/wp-content/uploads/2020/11/New-Lead-Mag-Nov-19.pdf). This “encourages sign ups and avoids no shows without biasing customers to only give positive insight.”
+
+**How do I qualify research participants?** 
+
+If you’re pulling from your existing customer base, you may be able to use analytics you already have to qualify participants. For example, the date they purchased or canceled (if they’re subscribers), average order value, types of products they’ve bought, and so on. 
+
+If you’re rounding up prospective customers who have never seen the site before, you’ll want to qualify them in some sort of a screening survey. For example, we once worked with a paint company. This paint was five times the price of normal paint because it was low VOC, environmentally friendly, made in the US, and had many other benefits. 
+
+Natalie explains that, when she qualified prospective paint customers for research, one of the things her team asked about was pricing sensitivity. She notes, “if you get the wrong person in the door, they’re going to say, ‘I would never even consider this,’ and the rest of your research is null with that individual.”
+
+Most researchers opt to qualify participants in a screening survey (e.g. using Google forms or [Typeform](https://www.typeform.com/)). The important thing is you do qualify your participants by some means. Remember, the folks you speak with should be the ones who are best equipped to answer your research goals. If you cast a wide net with no qualifiers, your findings will be far more muddied and conflicting — if they’re useful at all. 
+
+**What do I say when I email people?** 
+
+Think of the emails you like to receive and read. They’re probably clear, concise, and have a bit of personality to them. That’s the kind of email you want to send here, too. A good interview request email will:
+
+*   **Have a clear subject line.** If you’re offering an incentive, feel free to lead with that. For example, “Laura, $25 Amazon gift card for your thoughts…” If you’re not incentivizing, aim for a subject line that’s both interesting and accurate. Perhaps, “How you can help us improve \[x\]” since folks like opportunities to help. 
+*   **Explain why you’re emailing.** Clearly explain what you are doing (research) and what you’re _not_ doing (pitching a sale or some other hidden agenda). 
+*   **Explain why you’re researching.** Briefly say why you’re doing research and how their participation will help.
+*   **Set expectations for an interview.** Define how long the interview will take, what the person needs to do to prepare (usually nothing), and whether it’s face-to-face, video, or voice-only. You may want to mention that any data you collect won’t be sold or shared outside the company as well. 
+*   **Equip the reader to take action.** A good way to do this is to include a link for the respondent to book an interview slot, e.g. via [Calendly](https://calendly.com/). 
+
+For a good starting point, check out [_Hannah’s email template:_](https://hannahshamji.com/wp-content/uploads/2020/11/New-Lead-Mag-Nov-19.pdf) 
+
+**How do I schedule it all?** 
+
+Whoever is leading this research probably has other to-dos on their plate. To ensure interviewing customers won’t completely wreck their (or your) schedule, it’s best to:
+
+*   Batch interviews on certain days
+*   Schedule batches back-to-back
+*   Use a tool like Calendly to prevent calendar conflicts
+
+This approach doesn’t just help you schedule, it helps you interview well. Hannah [explains](https://hannahshamji.com/wp-content/uploads/2020/11/New-Lead-Mag-Nov-19.pdf), “When you stack interviews like this, it triggers the compound effect and helps you immerse in the world of the customer. By the third interview you’ll be asking sharper questions, spotting more nuances and drawing richer customer insight.”
+
+One other tip: batch interviews but leave about 15 minutes between each one. This will give you time to transition (read: take a snack break). It’ll also ensure it’s no big deal if you need to run five minutes over to let an interviewee finish a specific thought. 
+
+### Interview customers to collect the data (using the Jobs To Be Done Framework) 
+
+When it comes to running each interview, it’s helpful to think of it in two parts: 
+
+1.  Pre-interview prep
+2.  During interview guidelines 
+
+**Pre-interview prep: formulating questions**  
+
+The biggest task here is coming up with a list of potential questions you can ask. 
+
+One popular method is formulating questions around the Jobs To Be Done (JTBD) framework. There are [several](https://www.amazon.com/Competing-Against-Luck-Innovation-Customer/dp/0062435612) [books](https://www.intercom.com/resources/books/intercom-jobs-to-be-done) on this topic, and I’ll spare you all the nuances of it here. But the basic premise is customers “hire” your products or services to fulfill needs in their life. For example, I recently “hired” a Ruggable rug to reduce my mental load — I don’t want to worry about rug fuzzies or stains for the next half-decade. Other folks “hire” certain meal kits to take meal planning off their plate or to feel more confident (e.g. by losing 15 lbs). 
+
+Understanding what job customers hire _your_ product to do, what else they considered to fill that job, and what drove them to try and hire it out in the first place can yield rich qualitative insights. 
+
+To find those insights, many interviewers ask questions about: 
+
+*   **Triggers:** Triggers are what make potential customers go, “Hey I have a need here.” For example, a trigger for needing a new mattress may be getting married or adopting a dog who sleeps in the bed. 
+*   **Deciding:** Making a decision usually involves many desires, anxieties, and hesitations. For example, price, social perception, durability, and so on. 
+*   **Looking:** Before purchasing, customers consider alternatives to your product. These may be the competitors you have in mind — or they may not. If I need new cookware, I may consider Caraway, whatever is on the kitchen aisle of TJMaxx, or asking my grandma if she has extra cast iron. 
+*   **Purchased**: Those who chose your brand have a reason for doing so. Oftentimes, that reason isn’t particularly rational or logical either. 
+*   **Using:** Identifying friction points, moments of delight, and what [customers expect](https://thegood.com/insights/understand-meet-customer-expectations/) next can all help you craft better experiences. 
+
+Keep in mind, you won’t get through all of your template questions in each interview. In fact, you shouldn’t necessarily aim to. Remember to tailor your conversations around the specific research and business goals you have in mind. 
+
+**During the interview: listening for emotions, taking notes, and what not to do** 
+
+When you first hop on the phone or video, you want to do a few things right off the bat:
+
+*   Set expectations around length; reiterate what time you’ll wrap things up
+*   Reassure the interviewee there are no right or wrong answers (it’s about collecting their story and experience)
+*   Let the interviewee know if they don’t want to answer a question, they can decline
+*   ASK TO RECORD
+
+Seriously, don’t forget that last one. There are few things more disheartening than wrapping up an interview and realizing you didn’t hit the record button (facepalm). Zoom is a great option for storing and recording interviews if you don’t already have one. 
+
+Once you’ve done a quick intro, your goal is to listen way more than you talk. Here are a few things, in particular, you’re listening or watching for: 
+
+*   **Emotional language:**  Katelyn Bourgoin, CEO of Customer Camp, [explains](https://twitter.com/stew_hillhouse/status/1311083729851420672), “The interesting thing about how people buy is that 95% of the purchases that we make are actually driven by unconscious emotional triggers.” One of your goals in the interview is to identify these triggers. Listen for words like “angry” or “frustrated.” 
+*   **Shifts in tone or volume:** Pay attention to _how_ someone says something, not just _what_ they say. Shifts in tone can indicate excitement or disappointment. And emphases on certain words underscore their importance. 
+*   **Shifts in body language:** Changes in facial expression or body posture can all indicate strong underlying emotions. Keep an eye out for these, too. 
+*   **Stories:** Our buying decisions are highly contextual. They’re embedded in our emotions, daily lives, and goals. Stories help illuminate these factors. 
+*   **End goals:** How did they hope buying a product or service would make them or their lives more awesome? 
+*   **Underlying motives:** As Katelyn pointed out, we’re not always aware of why we buy. Listen for underlying motives in the stories the customer tells. Don’t take every statement at face value. 
+
+Ultimately, when you identify these clues, you’re pinpointing insights you’ll use later on when you apply your research. “The secret to identifying insights lies in understanding the human brain works on two levels and that most of our behavior is influenced by subconscious motivations in the brain. We’re simply not consciously aware of why we do what we do,” Daryl Travis, CEO at [BrandTrust](https://brandtrust.com/) told me. To draw out unconscious behaviors, he recommends asking for stories. “…ask them to share in story form their experiences aligned with what you’re trying to understand. Inevitably, they will share the experiences that are emotionally intense and therefore most relevant.”  
+
+Also, a quick note on taking notes: 
+
+Ideally, you’re taking minimal notes during the interview (because you’re recording), and this will help you tune in to the other person. Bob Moesta, President and CEO of Re-Wired Group (and pioneer of Jobs-To-Be-Done), only writes down the words he wants to follow up on and unpack, for example. 
+
+The final result looks like a treasure map. 
+
+Like Bob, you’ll want to dig deeper into certain words and cues throughout the interview. Here are some follow-up questions that are particularly helpful for drawing out richer insights: 
+
+*   Why is that? 
+*   Can you tell me more about that? 
+*   What led you to that decision?
+*   Could you walk me through your thought process there?
+*   What else was going on that made that the right choice?
+*   Sounds like that \[need/want\] was important to you. Why is that? 
+*   That seems to bug you. I bet there’s a story there. 
+*   You seem pretty excited about that. Why was it a big deal?  
+
+Lastly, when you’re running the interview, you want to check yourself for these common mistakes:
+
+*   Forgetting to record (seriously, it’s the worst) 
+*   Talking more than you listen 
+*   Asking leading questions
+*   Asking either/or yes/no questions
+*   Formulating statements as questions
+*   Accepting an answer at face value (use those follow-ups!)
+*   Quickly filling the silences (let these prompt the interviewee to speak)
+
+The leading questions thing is important, and it’s one of the more difficult to keep in mind during your first interviews. For example, I once asked, “what made this product enjoyable?” That question is leading because I _assumed_ the person found the product enjoyable. Turns out, she didn’t! Two better questions would’ve been, “Tell me how you used this product” or “what was your experience like using this?” 
+
+Likewise, either/or questions are leading because they assume only two possible outcomes. So are double-barreled questions because they trap the interviewee. Natalie explains, “Sometimes a double-barreled question is, ‘How much do you love our product and our emails?’ And, well, they might hate your product and really love your emails. So now they can’t even answer that appropriately.” Avoid these, too.
+
+These mistakes may take some practice to spot, and you’ll get better with practice. For your first interviews, do your best to stick to open-ended questions that keep your assumptions out of the picture and give the interviewee plenty of room to tell their story. 
+
+## How to map research data to real brand opportunities 
+
+All too often, great research winds up on dusty digital shelves. It’s not because brands _plan_ on wasting the effort they’ve gone through. It’s often because of sheer overwhelm.
+
+“The most overwhelming aspect of research can be the sheer amount of reading that’s required to understand the material,” writes Lucy Denton, Senior Product Designer at [customer research app Dovetail](https://dovetailapp.com/blog/research-synthesis-creating-order/). “The average one-hour interview transcript might contain 10,000 words and you’re looking at half a dozen of these, and that’s before the workshop output, diaries / journals, visual documentation, or observation notes.” 
+
+The good news is, there are a few steps you can take to help your future self use the data you collect. These steps include:
+
+*   Consolidating your research into one central location
+*   Organizing your research with tags 
+*   Socializing your research with various teams 
+
+Then, once you do those things, you’ll be in a good position to analyze your findings and: 
+
+*   Identify big picture trends
+*   Highlight rich customer personas
+*   Map observations to improvements
+*   Prioritize improvements
+
+Let’s look at the help-your-future-self logistics first. 
+
+### Consolidate, organize, and socialize 
+
+The first steps of putting data to use include creating a home for it, organizing insights, and sharing them with others. 
+
+**Consolidate: create a home for the research**
+
+Pull stuff in one visible, accessible place. This could include:
+
+*   A shared Google Drive
+*   A dedicated customer research Slack Channel
+*   An Airtable or Notion Base
+*   A research tool such as Dovetail
+
+Whatever you choose, it needs to be something that (a) keeps your research in mostly one place and (b) is accessible to the appropriate team members. 
+
+[Erik Goyette, Senior UX Researcher, Shopify:](https://dovetailapp.com/blog/interview-erik-goyette/) “To catalog our research, we’ve built a research library. Anyone across the company can go there to find our reports, slide decks, and recordings of our presentations.” (They use Dovetail.)
+
+Keep in mind, you’ll want to take your recorded interviews and generate transcripts of those. This will make reviewing and organizing the research much, much easier. Useful transcript tools include [Rev](https://www.rev.com/) and [Descript](https://www.descript.com/). Both the original recording and the transcript should live in whatever home you create for research. 
+
+**Organize: make the research easier to consume**
+
+Once your research has a home, you’ll want to use some system to keep any observations you pull out of transcripts segmented as well. One easy way to do this is to use tags. 
+
+These tags should highlight key insights and relate to the business goal in your original research plan. Hannah explains, “You already know what the data is going to inform…based on that you’re going to start to get ideas of types of insights you need.” Insights could be top objections, new features, search motivations, pain points, customer journey points, and so on. 
+
+How else do you know if you’re looking at an insight? Here are some indicators you’ve found one:
+
+*   **It’s grounded in data**. You can point to the sentiment in the research/transcript and not just your memory.
+*   **It occurs often**. Multiple interviewees mention it.
+*   **It’s embedded in high emotion**. The point has some strong emotion or sentiment attached to it.
+*   **Useful to the business**. The point maps to an opportunity — usually, to improve some aspect of the customer’s experience or journey with the brand. 
+
+Use some sort of system to highlight, grab, or tag parts of your transcripts that fit these bullets. 
+
+And for the perfectionists out there, keep in mind there’s no one right or wrong way to tag your research. A minimal approach may work well for a lean team just starting research whereas something more extensive may be ideal for a larger team with thousands of inputs. 
+
+Some pointers for developing your approach:
+
+*   **Start minimal**: You can always add more process later. For now, pick something that’s intuitive and has a low learning curve for other team members. 
+*   **Functional**: Any tagging system you choose should help you use the data. Relate tag names to business goals or end uses. 
+*   **Visual:** Colors help team members quickly sort and bucket insights. Don’t go overboard (12 colors is a bit too much, yeah?) but do use visual cues. 
+
+**Socialize: share what you find with others**
+
+While it’s good for you to be knee-deep in the research, it’s even better for your teammates to jump in there with you, too. Silo-ed data is crippled data, so make sure various team leads can access it. (Note: if the research contains any sensitive customer data, be thoughtful about how you secure and distribute this.) 
+
+Three reasons it’s important to distribute, or socialize, what you find: 
+
+*   **Each team will see something different.** A customer service team member will spot a different opportunity or use case than a marketer. That’s a good thing.
+*   **You’ll prevent redundancies.** Socializing data also prevents various teams from running similar surveys (and frustrating customers in the process). 
+*   **You’ll enable customer-centric decisions**. Executives and team leads can’t make customer-centered decisions if they don’t have access to the customer’s experience. 
+
+Remember, [customer experience](https://thegood.com/insights/what-is-cx-customer-experience/) spans every team and aspect of your brand. So, give every team access to what the customer is experiencing so they can contribute ideas for improving the holistic journey. 
+
+### Identifying real insights 
+
+Once you’ve organized, tagged, and distributed your research, you’re in a good position to step back and analyze. Researchers sometimes call this finding the “arc of the data” — the overall trends that move like a current through what you’ve collected. 
+
+You likely have some gut ideas based on the research you’ve done. But you mustn’t immediately run with these. For one, that’s a good way to introduce bias. “Attempts to merely rely on human memories and impressions from interviews are likely to introduce bias. And even if we did keep notes, when we consume raw data directly, we’re in danger of unconsciously giving weight to certain points,” [writes Lucy Denton](https://dovetailapp.com/blog/research-synthesis-creating-order/). “From there we’ll likely form misleading opinions that lead to impulsive decision-making, and eventually, take the whole team down a path that focuses on the entirely wrong outcome.”
+
+Relying on gut alone in research (much like in testing) leads teams on wild goose chases. Instead, take a step back and look for overarching trends like customer segments and potential brand improvements. 
+
+### Look for customer segments or personas
+
+One of the great things about qualitative research is it helps you build rich and useful customer personas. 
+
+Quantitative data like [Google Analytics reports](https://thegood.com/insights/ecommerce-google-analytics-reports/) can tell you whether customers are primarily on mobile, what region of the country they come from, and other data or demographic points. But if your customer personas stop there, they’re not going to be particularly useful. 
+
+“The first way to create a buyer persona that doesn’t suck, is to actually talk to your customers,” Adrienne Barners, founder of [Best Buyer Persona](https://bestbuyerpersona.com/) told me. “Data Analytics and survey data is a wonderful way to validate what your customers are saying, but starting with audience research and qualitative data makes for a richer and more accurate persona.” 
+
+What does a richer persona look like? It takes motivations and behavior into account. “Segmenting people according to job title, age, or gender, doesn’t tell you why they bought your product. Think of segments as ‘jobs’ or the reason they purchased your product and how they use your product,” Adrienne explained. “Segmenting in this way means you’re able to broaden your segmentation while keeping it focused on buying behavior.”
+
+Two related perks of building rich ideal customer segments: 
+
+*   **They’ll improve your journey map.** The best journey maps highlight what personas think, feel, and [experience at every point](https://thegood.com/insights/importance-of-customer-experience-and-how-to-improve-cx/). This is exactly what you can pull from rich customer segments and interview data. 
+*   **They’ll help you make sense of conflicting data**. It’s not uncommon for one person to say they bought for _x reason_ while another person explains they bought for _y reason_. Rich segments help resolve that tension. 
+
+Remember to keep an open mind as well! When Katelyn Bourgoin and her husband started researching potential customers for [Charboyz](https://charboyz.com/), they assumed their main persona was a farmers market shopper. Turns out, it’s what they wound up calling Suburban Jock Dads. This persona, Katelyn explained on the [DTC Voice of the Customer podcast](https://www.discoverysprints.com/voice-of-customer/katelyn-bourgoin-on-safeguarding-growth), “probably used to be somebody who would go out every weekend prior to having kids, and now was looking to rebuild that social community through his now suburban life.” 
+
+And so, when the Bourgoins launched their first box, they didn’t position it as a food box. “We positioned it as a virtual barbecue,” Katelyn said because that fit their ideal persona much better. 
+
+This leads into the next thing you’ll want to do with your insights and personas: map those observations to areas of your business. 
+
+### Map observations to areas of the business
+
+The conversations you have will rarely tell you _exactly_ what to do with your business. As in, a customer isn’t going to say, “You know, if you had advertised your fitness gear to me as suiting up for ‘me time,’ I totally would’ve bought it.”
+
+Nope. It’s part of your job to identify insights and then map those insights to potential improvements in your brand. 
+
+This involves:
+
+*   Hypothesizing potential improvements
+*   Prioritizing and testing those improvements
+
+**Hypothesizing improvements**
+
+Because you’re talking with customers about their experience and journey, insights you collect can apply to any area of your business.
+
+Some common applications include:
+
+*   **Ads:** When you know what context and motivation brings potential customers to you, you can do a better job engaging them — especially if you know the words and phrases (“voice of customer”) they relate to. 
+*   **Email sequences:** If Ruggable had interviewed me after I purchased one of their rugs, they’d know prompting me to upgrade to a 9×12 cushioned rug pad (+$130) before the product shipped would’ve been a more effective post-purchase email CTA than asking me to purchase another rug…before I’d even received the first one.  
+*   **Content:** The pain points your potential customers wrestle with, the hesitations they faced when purchasing, the questions they had about using it…these are all content opportunities. Adrienne Barnes [writes](https://www.discoverysprints.com/blog/audience-research-to-content-strategy), “The first thing I look for when turning audience research into a content strategy is customer questions. Customers often need help learning how to use the product or the benefits of a feature.”
+*   **Social media:** Likewise, the same sentiments that inform your articles can inform your social posts. What contexts can you show your products in? What rave reviews will resonate most with your target personas and what you know about them? 
+*   **Product images:** Knowing how customers use the product in their everyday lives can inspire you to produce more relevant and contextual imagery for your site and product galleries. 
+*   **Customer support:** It may be you discover new common pain points and how to head them off, which reduces your customer support load. Or maybe you identify a channel where customers feel particularly helped and decide to lean into it. 
+*   **Product design or development:** If customers regularly express a need you don’t address or a frustration with your product/service, there may be a good reason to prioritize the improvement. 
+*   **Wayfinding/**[**Improving poor UX**](https://thegood.com/insights/bad-user-experience/)**:** Understanding what brings customers to your site and what needs they’re looking to fill once they’re there can inform how you structure navigation, what filters you provide to sort products, product category names, and so on.
+
+For example, Bob Moesta and Katelyn Bourgoin did a [live customer interview](https://go.customercamp.co/live-buyer-journey) with Amanda Natividad who recently purchased a Peloton. Moesta and Bourgoin wanted to understand why and how Amanda decided to buy the premier stationary bike. Some insights and hypothesized improvements they uncovered were:
+
+*   **It was too hot to walk outside**. This is one reason Amanda became interested in a bike. Could this insight inform advertising strategy in geographic areas where it’s often too hot or too cold to exercise outdoors?
+*   **Amanda didn’t read reviews; she trusted word-of-mouth from friends**. Could incentivizing referrals and word-of-mouth drive higher conversion rates for Peloton? 
+*   **Mental health was a huge purchase motivator**. Perhaps one of Peloton’s biggest competitors isn’t other exercise bikes or gyms, it’s counseling and therapy.
+*   **She didn’t consider herself a “workout fanatic.”** Yet most of Peloton’s ads feature chiseled, thin models. Could more diverse product imagery help prospective buyers identify with the product more readily?
+
+And these are all hypotheses from _one_ interview! Imagine what you could find in a whole set.
+
+### Prioritize and test potential improvements 
+
+Once you have a handful of hypotheses, you can start crafting experiments and testing improvements. 
+
+This is an important step. “\[Interview\] Data is never going to tell you exactly where to go because it shouldn’t be the only spoke in the decision wheel,” Hannah Shamji cautions. “It’s going to help you improve and inform and drive…but it shouldn’t be the only deciding factor.” 
+
+Put another way, research gives you evidence for what to test and which directions to test in — but you still need to test.  
+
+But how, out of all your hypotheses, do you decide where to start? Two tips on picking which tests to prioritize: 
+
+**Start with what customers prioritize**
+
+According to research by PwC, 80% of American consumers point to speed, convenience, knowledgeable help, and friendly service as the [most important elements of customer experience](https://www.pwc.com/us/en/advisory-services/publications/consumer-intelligence-series/pwc-consumer-intelligence-series-customer-experience.pdf).
+
+If your research indicates any major holes in those areas, consider starting there. 
+
+**Work on your Peak-End Moments**
+
+Another option to improve the critical moments of your customers’ experiences. 
+
+It’s tempting to think each part of a customer’s experience is equally weighted — as if the ad that brought them to your site is 1 point and the header they see once they get there is another one point. 
+
+But psychology indicates this isn’t how we recall interactions. Rather, we pay extra attention to the intense highs/lows and final moments of any experience. This is called the [“peak-end” rule](https://uxdesign.cc/peak-end-rule-54eedd375c4d).
+
+“Recognize the brain doesn’t remember everything. It only stores the experiences it deems—via emotional intensity—that are worthwhile to store for future reference,” [Daryl Travis](http://www.daryltravisauthor.com/) advised me. “Once you identify those experiences—Behavioral Economics refers to as Peak-End moments—then you know what are the real opportunities for brands.” 
+
+Figure out the common peaks and ends from your interview data. Then, prioritize improving those pieces. 
+
+## Go ahead, kick off your research project
+
+Start with a plan, find your participants, and create a home for the data you collect. From there, analyze your body of research and map your findings to areas for improvement. 
+
+Then, tell us the most interesting thing you learned! 
+
+Remember, the time and effort are worth it — customer research is one of the most effective ways to understand what your customers experience, identify ways to improve that experience, and boost all kinds of related metrics from conversion rates to lifetime value, and more.
+
+If you still aren’t sure where to start with your research, we can help identify areas on your website that aren’t converting. Or try building a research plan based on the identified pain points in a custom [5-Factors Scorecard™](https://thegood.com/5factors/scorecard/).
+
+##### Find out what stands between your company and digital excellence with a custom 5-Factors Scorecard™.
+
+![laura-bosco-profile-picture](https://thegood.com/wp-content/uploads/laura-profile-150x150.jpeg)
+
+#### About the Author
+
+### [Laura Bosco](https://thegood.com/author/lbosco/)
+
+Laura Bosco is a former Content Marketer at The Good and freelance writer. She helps translate thoughts, opinions, and client experiences into written products that are both entertaining and educational.

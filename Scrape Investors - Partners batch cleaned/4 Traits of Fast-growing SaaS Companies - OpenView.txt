@@ -1,0 +1,60 @@
+# 4 Traits of Fast-growing SaaS Companies
+
+_**Editor’s Note:** This article first [appeared on VentureBeat here](https://venturebeat.com/2017/10/29/4-traits-of-fast-growing-saas-companies/)._
+
+You can find fast-growing software companies in almost any vertical, but there are certain characteristics they all share. To find out which of these features are most common, OpenView [surveyed over 500 SaaS companies](https://openviewpartners.com/2021-financial-operating-benchmarks-report/#.YgGZ2RDML0o) ranging from pre-revenue to $100 million in ARR. Here’s what we learned:
+
+## 1\. Fast-growers are extremely efficient at acquiring new customers
+
+As investors, we keep a close eye on customer acquisition cost (CAC) payback. This metric represents how long it takes, in months, to pay off the costs of acquiring a given customer on a gross margin basis. We use it as an indicator that a company has the right fundamentals in place to effectively ramp up customer acquisition.
+
+Despite how important it is to properly [understand CAC payback](https://openviewpartners.com/blog/cac-payback-basics-what-it-is-how-to-calculate-it-and-why-it-matters/#.Yfk9Lv7MKPo), our data shows that companies consistently underestimate this number. All too often, companies omit certain acquisition costs, over-inflate recurring revenue by failing to strip out one-time revenue, and/or leave out some of the ongoing costs of serving a customer.
+
+Despite disparities in reporting, self-reported data on CAC payback does reveal a clear trend: The fastest growing SaaS companies report a median CAC payback period of only 8 months. That’s nearly half that of slower-growing SaaS companies (15 months).
+
+![](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+Clearly, getting this number down is crucial for your bottom line. OpenView’s Blake Bartlett advises that [continuous experimentation](https://openviewpartners.com/blog/cac-payback-how-continuous-experimentation-can-drive-down-costs-podcast/#.Yfk9Zf7MKPo) can drive down CAC.
+
+## 2\. Fast growers are much more likely to employ a usage-based model
+
+[Usage-based pricing (UBP)](https://openviewpartners.com/blog/usage-based-pricing-playbook/), also known as consumption-based pricing, allows customers to pay for products according to how much they use. AWS and other infrastructure providers have been using UBP for nearly a decade. However, we continue to see more and more business in the middleware and application layer jump on the UBP bandwagon—and for good reason:
+
+*   **Lower barrier to entry:** Customers pay nothing until they start using the product and can try the product at a much lower cost with no commitment.
+*   **Closer connection to value:** UBP allows users to pay based on the value that they receive from the product (e.g. Hubspot charges based on leads, linking a customer GTM success with the cost of Hubspot).
+*   **Wider internal reach:** Because adding an additional employee tends to not incur an additional cost, more employees can interact with the product and explore other use cases leading to natural expansion in usage within an account.
+*   **Simpler segmentation approach**: By bucking the good, better, best seat-based pricing model, a single price point can be used to satisfy cost-conscious SMB customers as well as mid-market/enterprise businesses.
+
+In 2021, we saw that fast growers were nearly 3x as likely to use a largely usage-based pricing model versus slow-growing peers.
+
+![OpenView_4 Traits Traits of Fast Growing Companies_2022_Adoption of Usage-Based Pricing](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+It’s clear that faster-growing businesses are taking advantage of more creative pricing models, however, the switch to usage-based pricing can represent a host of challenges from revenue recognition to sales compensation. For more information on how to make the shift and who to learn from, check out our [Usage-Based Pricing Playbook](https://openviewpartners.com/blog/usage-based-pricing-playbook/#.YfhEeP7MJPY).
+
+## 3\. Fast growers retain and expand new customers, resulting in net negative churn
+
+Understanding customer and revenue retention is an extremely attractive growth signal for a SaaS company. These metrics are an indicator of product-market fit. Low churn shows the product is sticky, hard to replace, and truly generating value for customers. In our experience, most SaaS companies spend far more time on acquiring new logos than they do on the less sexy task of retaining existing customers.
+
+But our data shows that the fastest-growing companies can walk and chew gum at the same time. In other words, they don’t just efficiently acquire new customers, they also retain and expand those customers at far higher rates than slower growers.
+
+Fast growers see on average 114% net dollar retention, which means that every $100 in ARR they acquire from new cohorts actually turns into $114 in ARR the next year (and likely even more the year following). By comparison, slow growers see only 98 percent net dollar retention and consequently have to keep adding new customers just to maintain their run rate, let alone grow year-over-year.
+
+![OpenView_4 Traits Traits of Fast Growing Companies_2022_Retention Rates](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+To improve net dollar retention, examine just how you’ve designed your product packages, [pricing model](https://openviewpartners.com/blog/how-to-achieve-net-negative-churn-by-using-value-metrics-in-your-pricing/#.Yfk_fP7MKPo), customer onboarding, and sales compensation. In the near term, help your customer success team focus their time and attention where they can actually make a difference to the lifetime value of an account, rather than just where it has good relationships. This should include both customers that show leading signs of potential churn (i.e. low usage, no relationship with decision-makers) as well as potential growth in spend (i.e. high usage, growing usage month-to-month).
+
+## 4\. Fast growers require less spend on services and support 
+
+The employee distribution of fast-growing businesses and slow-growing businesses is largely the same. What seems to be more important is how you’re putting those departments to work to execute your go-to-market strategy. 
+
+However, despite the similarities in org structure, there is one department that varies considerably: professional services and support. The fastest-growing startups allocate only 7% of their headcount to services and supporting their customers (half that of slower-growing startups). 
+
+![OpenView_4 Traits Traits of Fast Growing Companies_2022_Employee Distribution](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+This suggests that products that require more help to adopt and navigate struggle to achieve +150% growth. Companies that have been able to build intuitive, self-serve products reap the rewards of a lower headcount devoted to installing and supporting their product. In turn, these headcount costs can go directly towards building and selling the product. 
+
+If you’re searching for ways to reduce costs associated with support and professional services, the first place to start is the product itself. Focus on [nailing your onboarding experience](https://openviewpartners.com/blog/your-guide-to-self-serve-onboarding-how-to-get-your-product-to-sell-itself/#.YflAD_7MKPo) to create happy self-sufficient customers from the start. We’ve also seen startups have success keeping these costs down by developing community-based support and/or adopting intelligent search tooling like Coveo. 
+
+## The takeaway
+
+“Land and expand” is a cliché for a reason—it works! To improve your growth rate, you need to hone both the efficiency of your customer acquisition and the ongoing health of your existing customer relationships. Then, and only then, you’re ready to invest more resources to truly become a market leader.

@@ -1,0 +1,57 @@
+# Enterprises vs SMBs: Who’s the Better Customer for B2B SaaS Startups?
+
+One of the first decisions that a B2B SaaS startup has to make is who its initial customer is going to be. Does the startup go after small businesses (SMBs), enterprises, or something in between (mid-market)? There’s an Old School view and a New School view on this.
+
+The Old School view says that the larger the customer, the more valuable the customer. Hence startups should seek to go upmarket as soon as they can. But the New School view is less focused on contract size and more focused on contract speed. SMBs, and in their extreme form other startups, are the best customers because they are the easiest to close. Velocity trumps size. If the priority is to find product-market fit, that can happen fastest selling to other startups. Let’s take each of these views in turn.
+
+**Old School: Enterprise**
+
+The traditional view in B2B software is that Enterprise is the ideal market. The largest companies have the biggest budgets, which translate into the biggest annual contract values (ACVs). This provides the highest ROI on sales effort, which justifies a sales-driven distribution strategy in the first place. Moreover, the prospects are easy to identify — after all, there are only 500 Fortune 500 companies.
+
+Once signed, these customers hardly ever churn. They almost never go out of business, and rarely rip out software on which complex business processes rely. Because enterprises have deep pockets and complex needs, vendors can continue to upsell additional products and services. Finally, the deep product requirements of enterprise customers create a moat once a vendor satisfies them.
+
+By contrast, the Old School view holds that SMBs are the most undesirable customers. They have the smallest budgets and can’t afford to pay much for software. This may make it hard for a sales team to even pencil. The prospects are hard to identify. Although there are lots of them in theory, one doesn’t know who they are in practice. Once signed, SMB customers suffer high churn. They go out of business more frequently, are more susceptible to business cycles, and change strategy more often. This makes them fickle customers, with startups being the worst in this regard. Finally, because SMB needs are simpler, SMB software is easier to replicate and commoditize.
+
+![](https://cdn.prod.website-files.com/62e5e7d55b5f310addaa3d88/6854491d317ed5070ba7a966_1*lonzWfKFAlmL_cDfeEr4Vw.png)
+
+The advantages of the Enterprise segment.
+
+This seems like an open-and-shut case for Enterprise. But a New School view has emerged.
+
+**New School: SMB**
+
+In recent years, the sleeper category in B2B software has been SMB. Even more specifically, startups selling to other startups have seen explosive success. Stripe, Slack, Twilio, Brex, and Airtable are all examples of this trend. The startup economy has become large and varied enough to support unicorn valuations for a growing number of vendors who focus on the lowest end of the market. “[Startup software is the new enterprise software](https://twitter.com/DavidSacks/status/1119646421307682817?s=20)” is how I’ve previously dubbed this trend.
+
+**What SMBs and startups lack in individual buying power and ACVs, they make up for in their numerosity, accessibility, and repeatability.** There are many advantages of selling to these companies:
+
+**1\. Startups are early adopters.** If you solve an immediate pain point, they will buy. By contrast, enterprises are late adopters. They are skeptical of new software categories and recalcitrant about platform shifts. Large corporations also tend to see startups as risky and prefer to purchase mission-critical software from established vendors and [category leaders](https://medium.com/craft-ventures/the-one-who-defines-the-category-wins-the-category-245fee85bfbb) (“nobody ever got fired for buying IBM”).
+
+**2\. The SMB sales cycle is quick** — usually 45 days on average compared to 6 months for enterprise. A startup sale typically needs only a founder or high level exec on board, and these people are highly aligned to find quick solutions to immediate problems so they can move on to the next issue. By contrast, enterprises often require a complicated sale. There are lots of stakeholders, and sales reps must know how to navigate complex decision-making hierarchies. Often the end-user, business owner, technology owner, and budgetary decision-maker are all different people. This makes enterprises much harder to close than a single decision-maker in the form of a startup founder or SMB owner.
+
+**3\. The relative simplicity of the SMB sale** means that founders can do the early sales themselves, lowering the bar for the types of talent required in the early days of a B2B startup. Targeting SMBs means that the startup doesn’t need to hire expensive enterprise sales reps. By contrast, the startup chasing enterprises will typically need to hire experienced sellers if the founders do not have this competency. Well-paid enterprise reps might be a difficult dependency for a pre-revenue startup to solve.
+
+**4\. SMB customers have simpler product requirements** that are easier for a young B2B vendor to satisfy. These customers don’t require complicated integrations, data migrations, compliance certifications, and so on. Many of these enterprise sales blockers are not core to the pain point the vendor seeks to solve but nevertheless require substantial investment and add significant ongoing drag to future development. It’s painful for a young startup to build a bunch of these enterprise prerequisites only to find out that it lacks product-market fit anyway. Targeting SMBs means the B2B startup can test and iterate on its thesis faster to cross the Penny Gap and escape the [Wilderness Period](https://medium.com/craft-ventures/the-wilderness-period-61f009c769ac).
+
+**5\. Dogfooding** (the ability to be a user of one’s own product) is a unique advantage of startups that sell to other startups. The cultural benefits of this cannot be understated. Every employee understands what they are building and why. Sales reps more deeply understand the product they are selling. The product team understands the bugs they need to fix. The customer success team can relate to customer problems on a first-hand level. By contrast, a startup producing enterprise software can only imagine the problems they are solving. Employees are more likely to feel like cogs in a machine and suffer from what Marx described as alienation from the fruits of their labor. The ability to dogfood breeds a healthy fanaticism.
+
+**6\. Competition** often favors an SMB strategy. The low end of the market is usually the most under-served part. It’s great to play where the incumbents are not. This was a big advantage for Salesforce in the early days of its competition with Siebel. The classic strategy is to start as a low-end disruptor addressing simpler requirements for an under-served part of the market and then move upmarket over time as the disruption becomes more mainstream and the offering becomes more mature. **In theory, enterprises are the more valuable customers; in practice, it’s easier to build momentum by going after SMBs.**
+
+![](https://cdn.prod.website-files.com/62e5e7d55b5f310addaa3d88/6854491d317ed5070ba7a960_1*YqgobHJdYo-isobQyeBMaA.png)
+
+The advantages of the SMB segment.
+
+**Hybrid Models**
+
+Until now, this post has set up the choice as a binary one between Enterprise and SMB. There are, however, intermediate or hybrid options that are often very attractive:
+
+**1\. Mid-Market.** Mid-market customers are of intermediate size between startups and enterprises (with the exact size depending on the type of market). These customers will typically have “in-between” characteristics — they will be easier to close than enterprises but harder to close than SMBs; have smaller ACVs than enterprises but bigger ACVs than SMBs; and higher churn than enterprises but lower churn than SMBs. This can be an attractive compromise in some SaaS categories. In the case of mid-market, the framework described in this post should be seen as more of a spectrum.
+
+**2\. LOB.** Enterprise sales become much more accessible to startups when the B2B startup can target a “line of business” or specific department within the enterprise. Effectively, the department head acts like a small business owner within the larger enterprise. For this to work, the product must solve the immediate pain of a LOB owner who has the incentive and autonomy to act like a true business owner and make the decision (eg VPs of Sales choosing Salesforce because it will help them hit quota). Once a single team buys, the product can “land and expand” to other groups.
+
+**3\. Bottom-up.** An enterprise product that can be adopted directly by employees and pulled into the organization (typically on a freemium basis, like Slack or Yammer) will experience a dramatically easier sales cycle than the traditional top-down enterprise sale. Ideally the bottom-up adoption can be combined with an LOB sale (rather than enterprise-wide sale) for maximum velocity. I’ve described the [freemium approach here.](https://medium.com/craft-ventures/freemium-vs-free-trial-which-is-better-for-saas-startups-97b9ac737597)
+
+**Conclusion**
+
+The problem with the Old School view of Enterprise as the ideal customer segment is that it doesn’t properly take into account the difficulty level for a B2B startup. The SMB segment is much more compatible with the process of startup-building. It’s easier to hypothesis-test towards product-market fit and demonstrate momentum for milestone-based venture capital investors. It also affords the opportunity of moving upmarket over time.
+
+However, in those instances when a B2B startup can appeal to LOB owners or employee end-users within the enterprise, it can develop a “best of both worlds” sales motion — reaping enterprise dollars by appealing to small owners within the enterprise. These are some of the most attractive B2B SaaS businesses.

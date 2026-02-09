@@ -1,0 +1,103 @@
+# Turn your startup's pricing strategy into a powerful growth lever
+
+Pricing models can be powerful growth levers. A bad pricing model will impede growth and can even doom an otherwise promising startup, whereas a good model will capture some of the value that a product creates as revenue and keep growth flywheels humming along.
+
+A startup’s growth may be at risk if it’s too slow to revise its model, especially during times of quickly changing consumer behavior and inflation.
+
+Developing or revising a pricing model is a complex, multidimensional problem. Price is the most obvious element, but there are many others. Getting it right requires input from many perspectives: product, operations, finance and sales, to name just a few.
+
+Here’s a closer look at the questions we ask to begin laying the foundation for a pricing strategy.
+
+## 5 key questions in our pricing strategy framework
+
+Before we work with startups, it helps to understand where they’re at and where they’re going. Pricing models must address considerations from at least two different viewpoints.
+
+The stakeholders’ perspective:
+
+*   Who are the stakeholders who create (or provide) value?
+*   What is the value being created?
+*   What are their alternatives?
+
+The business perspective:
+
+Techcrunch event
+
+San Francisco | October 13-15, 2026
+
+*   What does it cost to serve customers?
+*   How does price affect growth loops?
+
+Paying customers want their problems solved quickly and reliably at the best possible price. Companies want to sell their products or services to the largest number of customers, at the highest possible markup. These two perspectives are inherently opposed, and it’s the founders job to find the equilibrium and create a pricing model that balances the needs of the business and its stakeholders.
+
+The first step toward building a pricing model is gathering research and organizing it into a format that can be used to evaluate trade-offs. We advise founders to construct a product journey map that helps them synthesize both the stakeholder and company perspectives in the context of the competitive landscape.
+
+The world changes quickly for early-stage startups. Even for startups that have already taken their product to market, it’s a good idea to periodically reassess pricing models in light of new products and features, or after changes to the competitive landscape.
+
+## What to do before creating or revising a pricing model
+
+When founders attempt to release a new pricing model, they’re faced with many challenging questions:
+
+*   How can innovative companies price their products in a completely new category?
+*   How can companies be confident that optimizations to one side of their marketplace won’t negatively affect the other?
+*   How does one create a pricing model that increases prices in proportion to a customer’s willingness to pay, without appearing parasitic?
+
+These questions and others can be answered by estimating the willingness to pay from three key reference points:
+
+1.  **Product value versus baseline:** How much does the customer value the solution in the absence of a competitive product?
+2.  **Competitive alternatives:** What do competitive products cost?
+3.  **Perceived value:** What is the gap between the value the product provides and the customers’ perception of the value?
+
+We recently helped a founder with a B2B product evaluate changes to an existing pricing model. She understood her competitive landscape well and knew that her product was mispriced. The founder hadn’t changed her pricing model in over a year but the market had changed around her quickly.
+
+When she approached us, this founder and her team had already quantified the value that the product created and documented the prices that competitors charged for similar products. Her team presented plans for a new pricing model that was based on solid fundamental research showing that the willingness to pay should be higher than their current prices. The proposed model was based on common SaaS practices, which charged upfront for unlimited volume and encouraged customers to build a usage habit based on the psychology of sunk costs.
+
+Consumers are reluctant to adopt SaaS models for unproven products unless the sales cycle effectively demonstrates the value of a product by getting customers to experience an “aha!” moment that proves the product’s efficacy. This founder had been using a limited free trial to successfully increase the product’s perceived value.
+
+Despite this founder nailing best practices from a sales and product perspective, we saw an opportunity to advise from a data and finance angle.
+
+## Essential elements of your pricing model
+
+Pricing models are a series of rules that determine who pays what and when they pay. A good pricing model will effectively scale prices in proportion to the value that the product creates for its stakeholders, which is a proxy of the customers’ long-term willingness to pay. The foundation of your model is made up of a “value metric” and a “price-scaling function.”
+
+We identified the opportunity to create and capture more value by suggesting a new value metric and price-scaling function. Value metrics, or what customers actually pay for, usually fall into three categories:
+
+*   Access (i.e., unlimited usage for a given feature set).
+*   Usage (i.e., pay for something you use regardless of monetary value).
+*   Outcome (i.e., pay for a positive monetary outcome).
+
+However, value metrics can also be additive or multiplicative. For example, Fivetran uses a credit system to effectively scale prices as a multiplicative function of both access and usage.
+
+Charging for usage or outcome value metrics tends to lead to better net revenue retention, because the price that customers pay scales proportionally with the value that they get from the product. Customers who get little value from the product can happily continue to use it sparingly — until they’re nudged into higher usage — and customers who get a lot of value from the product will willingly pay more than the average customer.
+
+Pricing models that scale proportionally with value tend to capture more value as revenue and contribution margin. Contribution margin can then be reinvested in sales and marketing or operations to create more value.
+
+![](https://techcrunch.com/wp-content/uploads/2022/07/image1.png)
+
+**Image Credits:** M13
+
+## Two measurement nuances to note
+
+No go-to-market strategy is complete without a measurement plan. The first step in any measurement plan is to align on the metric that should be optimized — let’s call it the target metric. We typically advise founders to:
+
+1.  Choose a primary target metric that measures growth efficiency.
+2.  Document hypotheses and questions about how to optimize your target metric in #1.
+3.  Ensure your data collection processes will accurately capture the data needed for #2.
+
+If you go to market before outlining your optimization hypotheses, you may miss the opportunity to collect the contemporaneous data that you’ll wish you had in the future. Founders only need to spend a bit of time upfront to ensure they’ll be able to measure what matters several months down the road.
+
+When you create your target metric, use inputs collected early in the customer life cycle (e.g., first order value) rather than longer-term metrics that take years to materialize (e.g., three-year lifetime value). The best target metrics for optimization are good leading indicators of north star metrics, which take longer to materialize.
+
+The principles are basic, but it’s easy for founding teams to miss details that matter. Over the course of our meetings with this company, we identified two measurement gaps that could cause the team to misattribute their resources without realizing it:
+
+*   Non-revenue customer value.
+*   Incomplete customer acquisition cost (CAC) accounting.
+
+When we talked through the measurement strategy, we found that each customer contributed a significant amount of non-revenue value to the product ecosystem. The concept of non-revenue value is common in some sectors, including social products and data-enabled services.
+
+When the non-revenue value is meaningfully large but nebulous, it can lead to operational friction. For example, consider a sales team that’s only bonused on annual contract value (ACV) rather than the combined revenue and non-revenue customer value. They’re incentivized to focus their limited resources on prospects with the most revenue potential, regardless of how much non-revenue value they may contribute.
+
+In many cases, non-revenue value can be estimated based on a formula with a couple of parameters (such as employee count and sector) and priced into the target metric. This can reduce friction by aligning all teams on a common goal. Even an imperfect estimate of non-revenue value may be better than an amorphous one.
+
+Incomplete CAC accounting is another common issue for both DTC and B2B businesses. When B2B teams don’t accurately measure the people hours, sales commissions and other variable costs associated with customer acquisition, they can end up overemphasizing ACV. When you change an important growth lever like your pricing model, it’s vital to understand how it affects both sides of your sales efficiency equation.
+
+With these tips and tools, we hope to spare some startup founders from making common pricing mistakes and allow them to focus on what they excel at — building world-changing companies.

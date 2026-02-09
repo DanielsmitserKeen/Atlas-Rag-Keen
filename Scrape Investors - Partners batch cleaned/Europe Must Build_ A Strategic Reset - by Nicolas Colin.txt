@@ -1,0 +1,434 @@
+# Europe Must Build: A Strategic Reset
+
+**Europe's tech ecosystem** is at an inflection point. After years of playing catch-up to Silicon Valley and watching as China forged its own path to tech dominance, European founders, investors, and business leaders are recognising the need for a fundamental strategic reset.
+
+For too long, Europe has tried to emulate Silicon Valley's approach to building tech companies, with limited success. Despite pockets of excellence, the gap remains stark: not a single European tech company ranks in the global top 20 by market cap, and successful exits remain rare exceptions rather than consistent outcomes.
+
+Yet amid these challenges, I see reason for optimism. A new generation of players is emerging who understand that Europe must develop its own distinctive approach—one that transforms our supposed weaknesses into strategic advantages. European tech leaders are beginning to recognise that our fragmented markets, regulatory frameworks, and distributed talent can become assets rather than liabilities in the right strategic context.
+
+The recently launched [Project Europe](https://www.projecteurope.co/) represents just one of many initiatives that have flourished recently. While its focus on early-stage development is understandable, I believe Europe's fundamental challenge lies deeper—in identifying our unique strategic positioning in the global tech landscape rather than simply launching ever more startups. European tech needs a fundamental rethinking of how we build, scale, and sustain globally competitive companies while keeping them rooted in Europe.
+
+I believe this moment is an opportunity to revisit the critical topic of building in Europe. In this edition, which delves even deeper than usual, I'll synthesise my thoughts and writings on the subject. Consider this my contribution to the current discussion—a foundation for our collective efforts to chart Europe's path towards technological sovereignty and economic resilience 👇
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!2nDx!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa53a3995-22c7-4e31-a7ae-061854a6731b_1600x109.png)
+
+](https://substackcdn.com/image/fetch/$s_!2nDx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa53a3995-22c7-4e31-a7ae-061854a6731b_1600x109.png)
+
+**Europe isn't just** behind in tech—it's falling further behind with each passing quarter while clinging to comforting myths about its potential.
+
+The lagging position has become part of European tech's identity, with resignation baked into the ecosystem's culture. Yes, some investment firms maintain and execute on strong European theses—Saul Klein's [New Palo Alto](https://www.wired.com/story/europe-is-the-new-palo-alto/) concept comes to mind from our 2020 conversation. These perspectives have merit. And yes, contrarians will cherry-pick statistics or adjust variables to paint a rosier picture, but these exercises in numerical gymnastics don't change the fundamental reality: Europe is lagging from virtually every meaningful metric.
+
+[
+
+![The New Palo Alto w/ Saul Klein. Grocery Delivery Startups. Thumbs Up/Down.](https://substackcdn.com/image/fetch/$s_!8-zw!,w_140,h_140,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9ff93ebf-24d3-43a3-a5d1-ac7eca075fda_1600x900.png)
+
+](https://www.driftsignal.com/p/the-new-palo-alto-w-saul-klein-grocery)
+
+Let's examine how Europe has consistently failed to build globally successful tech companies:
+
+*   _In 2024, not a single European tech company ranks in the global top 20 by market cap_. US tech giants Apple, Microsoft, and Alphabet [each exceed $2T in value](https://companiesmarketcap.com/). Europe's largest tech company, ASML, stands at $279B. The entire [European tech ecosystem](https://2023.stateofeuropeantech.com/) is worth less than Apple alone.
+    
+*   _European users overwhelmingly depend on non-European platforms_. Meta's platforms, Google, and YouTube [dominate European digital life](https://datareportal.com/reports/digital-2024-global-overview-report). Many Europeans shop on Amazon. Spotify is the rare European exception in global platform rankings.
+    
+*   _US tech companies invest more than twice what European firms do in R&D_. The [2024 EU Industrial R&D Investment Scoreboard](https://publications.jrc.ec.europa.eu/repository/handle/JRC140129) highlights this gap: _“With €181.6B in 2023, the US software companies invested about 10 times more than their EU-based counterparts, while in 2013 this factor was only 5.8.”_
+    
+*   _Europe struggles to scale startups_. In 2023, it created just seven new unicorns, compared to 14 in the US. Atomico's _[State of European Tech 2023](https://2023.stateofeuropeantech.com/)_ shows that European startups raise smaller rounds at every stage than their US counterparts.
+    
+
+These statistics paint a clear picture of systemic failure that isn't negated by rare, anecdotal exceptions like Spotify ([€116B market cap](https://companiesmarketcap.com/eur/spotify/marketcap/#:~:text=Market%20cap%3A%20%E2%82%AC114.47%20Billion,cap%20according%20to%20our%20data.)) and Revolut (valued at [$60B earlier this year](https://techfundingnews.com/60b-valuation-at-1b-profit-is-revolut-about-to-do-an-ipo/)—and profitable). Both these cases are instructive:
+
+*   _Revolut's European retention stems largely from the [inherently local nature of financial services](https://sifted.eu/articles/european-startups-fintech-lessons)_. Regulatory fragmentation creates friction when trying to serve the US market, but on the other hand it shields Revolut from direct competition with comparable US firms on its home soil.
+    
+*   _Spotify is virtually the only evidence that a European tech giant with global ambitions, including in the US, can remain European_, and even that was more accident than design. The company could have easily been American, but through Daniel Ek's determination, it wasn't.
+    
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!d-98!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91da2c40-f4cd-44ad-bb7f-e216cb8ad108_1400x788.jpeg)
+
+](https://geekway.substack.com/p/a-visualization-of-europes-non-bubbly)
+
+**Given Europe's persistent** inability to produce tech giants, the natural reaction has been to look abroad for successful models to emulate.
+
+However, we’ve known for quite some time that Silicon Valley recipes don’t translate well in Europe: we don’t have the same ingredients, the kitchen isn’t organised the same way, and the cooks struggle to communicate due to cultural and language barriers. More specifically, we in Europe have [fragmented markets](https://www.driftsignal.com/p/will-fragmentation-doom-europe-to) (notably in terms of culture and [language](https://www.driftsignal.com/p/what-language-should-startups-speak)), [diverse regulatory frameworks](https://www.driftsignal.com/p/fewer-regulations-in-america) (despite the EU's Single Market), distributed talent pools, and a [lack of sophistication and depth in European financial markets](https://www.driftsignal.com/p/will-trump-and-musk-break-the-greatest). Thus the challenge for those seeking to build in Europe is not about following the Silicon Valley recipe—it is about creating a new recipe, an entirely new approach that leverages Europe's unique strengths.
+
+*   _Those of us who have worked in European tech for more than a decade understand this well_. When I joined this world back in 2010, everyone simply tried to apply the Silicon Valley playbook, promising to _“disrupt”_ markets and trying to raise funds and build products with methods found in (US-centered) _[Venture Hacks](https://venturehacks.com/)_ and _[Getting Real](https://basecamp.com/gettingreal/getting-real.pdf)_. It did not deliver convincing results, to say the least. Yet we kept going, making only superficial adjustments, because the idea that another playbook was possible had not even crossed our minds.
+    
+
+Then, as alternative models emerged, the limitations of the Silicon Valley approach became clearer. To me, everything changed between 2014 and 2018, as Chinese tech companies rose to global prominence, starting with [Alibaba's 2014 IPO](https://www.driftsignal.com/p/the-family-in-china-17-11-29) and culminating in Sequoia's Michael Moritz's landmark [op-ed about China in the](https://www.ft.com/content/42daca9e-facc-11e7-9bfc-052cbba03425) _[Financial Times](https://www.ft.com/content/42daca9e-facc-11e7-9bfc-052cbba03425)_ [in January 2018](https://www.ft.com/content/42daca9e-facc-11e7-9bfc-052cbba03425). This watershed moment forced Europeans to acknowledge a new reality: alternative routes to building tech companies existed. Tech giants had emerged from a completely different context, using fundamentally different methods.
+
+Indeed, the Chinese model diverged from Silicon Valley in several crucial ways:
+
+*   _China developed on a different timeline_. While Silicon Valley evolved over eight decades with steady support from defence spending and academic institutions, China compressed this development into roughly two decades.
+    
+*   _The government played a much larger role_. Instead of the arm's-length relationship typical in the US, Chinese tech companies grew through active state participation and strategic industrial policy, both at the national and provincial levels.
+    
+*   _Companies took a different approach to the market_. As detailed by Kai-Fu Lee in his mindblowing _[AI Superpowers](https://en.wikipedia.org/wiki/AI_Superpowers)_, Chinese firms adopted a _“whatever works”_ mentality, often starting with simple copies but rapidly evolving unique business models suited to local conditions.
+    
+*   _They built infrastructure from the ground up_. Rather than relying on existing systems, Chinese tech companies often had to create entire infrastructural layers from scratch, leading to more vertically integrated businesses and the emergence of the "superapp" model.
+    
+
+This revealed something profound: Silicon Valley's model was not a universal template but merely one possible path. China's success demonstrated that entrepreneurial ecosystems could thrive by adapting to local conditions rather than replicating Silicon Valley's specific circumstances.
+
+For Europe, the realisation that both the US and China excel at building tech companies, albeit with different playbooks, should be liberating. If two radically different paths to building tech companies exist, there is no reason why Europe cannot forge its own third way—one that leverages its unique advantages and circumstances rather than importing ill-fitting foreign models.
+
+In other words, we need to acknowledge that company-building must be adapted to the local context—what Robyn Klingler-Vidra calls _[“contextual rationality.”](https://www.driftsignal.com/p/nicolas-colin-building-up-venture-19-03-06)_
+
+[
+
+![Image preview](https://substackcdn.com/image/fetch/$s_!f_jG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf6269fc-fb97-45ab-8031-1eed5ab814ca_800x533.jpeg "Image preview")
+
+](https://substackcdn.com/image/fetch/$s_!f_jG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf6269fc-fb97-45ab-8031-1eed5ab814ca_800x533.jpeg)
+
+Dr. Robyn Klingler-Vidra, political economist at King's College London, whose [‘contextual rationality’ framework](https://americanaffairsjournal.org/2018/08/building-the-venture-capital-state/) explains how policymakers adapt venture capital models to local norms rather than blindly copying Silicon Valley, resulting in diverse policy approaches worldwide.
+
+**If both Silicon Valley** and China have forged distinct paths to tech success based on their unique contexts, it follows that Europe must develop its own approach.
+
+But before discussing how to build, we must first clarify _what_ to build. In this edition, I'll mostly use the shortcuts _“building”_, or _“building tech companies”_, but the longer version is that our collective goal should be _**building profitable tech companies with a multinational footprint that happen to be headquartered in Europe**_. Every word matters in this category:
+
+*   _We should aim at building **tech companies**_, by which I mean companies that operate within the [techno-economic paradigm](https://hum.ttu.ee/wp/paper20.pdf) of the current Age of Computing and Networks. There's no need for the tech to be [high](https://www.driftsignal.com/p/enough-with-high-tech-manufacturing-17-12-06), [deep](https://www.driftsignal.com/p/nicolas-colin-the-hard-truth-about-19-06-05), or [particularly innovative](https://salon.thefamily.co/startups-are-not-about-innovation-bcb4740f560a). What matters is that these 21st-century companies are the paradigmatic equivalent of those relying on mass production in the 20th century. In the last century, we in Europe succeeded in building [car manufacturers](https://www.driftsignal.com/p/does-manufacturing-matter), notably in Germany, France, Italy, and the Nordics. This century, we must seek to build tech companies.
+    
+*   _Those companies need to end up being **profitable**_, not only because _“happiness is positive cash flow,”_ to [quote the late venture capitalist Fred Adler](https://www.driftsignal.com/p/a-10-point-checklist-for-building), but also because profits are what ultimately make a European company contribute to Europe's economic development. It's not enough to raise money at high valuations without ever generating profits. Return on invested capital (ROIC—see a primer by Michael Mauboussin [here](https://www.morganstanley.com/im/publication/insights/articles/article_returnoninvestedcapital.pdf)) is the outcome of capitalism done right, and profits are the only sustainable way of generating such a return.
+    
+*   _Those companies need to have a **multinational footprint**_, meaning they must have a presence and serve customers at a very large scale, ideally beyond Europe and certainly beyond their home country[1](https://www.driftsignal.com/p/building-in-europe-a-strategic-reset#footnote-1-159645307). That is how growing corporate giants contributes to local development. Those create and capture value at a global level, then realise this value by transforming it into wealth that is mostly local. Much like Daimler-Benz sells Mercedes cars everywhere in the world, enriching Germany in the process (well, sort of, [under the right conditions](https://paulkrugman.substack.com/p/revenge-of-the-black-zero)).
+    
+*   _Finally, those tech companies must be **headquartered in Europe**_, which is crucial for capturing and retaining wealth locally. In today's digital economy, headquarters location determines where much of the value is ultimately realised. When tech companies are based elsewhere, Europe merely adds value to chains that enrich distant economies. This creates a troubling asymmetry: Europeans increasingly work and consume to enrich foreigners while European savings remain trapped in low-risk, low-growth local assets rather than flowing into building tech companies. Conversely, European-headquartered companies create a virtuous cycle where value captured globally returns to enrich the local ecosystem through dividends, capital gains, well-paid jobs, taxes, and accelerated money circulation. A tech company may operate globally, but it primarily enriches the region where strategic decisions are made and ownership is concentrated.
+    
+
+Success in building tech companies should be measured by Europe's ability to generate new, high-value firms. The goal is to maximise Europe's ROIC, wherein the value added by newly established companies (with profits as a proxy) increases more rapidly than the total amount of funds invested, including operating expenses and capital expenditures.
+
+*   _In other words, our version of ROIC should assess how efficiently Europe creates value from its investments in building tech companies_—and we should expect this ROIC to increase over time as we strengthen Europe's strategic positioning.
+    
+
+**Once we're clear** on the goal (building profitable tech companies with multinational reach, headquartered in Europe) and our metric (ROIC), we can apply Michael E. Porter's strategic framework.
+
+As Harvard's Porter outlined in his landmark 1996 _Harvard Business Review_ article [What Is Strategy?](https://hbr.org/1996/11/what-is-strategy) (which I commented [here](https://salon.thefamily.co/a-stout-porter-business-strategy-in-the-21st-century-962a85d18c6)), strong strategic positioning includes these key aspects:
+
+*   _Europe's strategic positioning must start with Porter's core insight of a **distinctive value chain**_: success comes from _“preserving what is distinctive about a company”_ and _“performing different activities from rivals, or performing similar activities in different ways.”_ For Europe, this means developing a unique value chain that turns our supposed weaknesses—fragmented markets, regulatory complexity, distributed talent, aversion to risk, deficient capital markets—into a sustainable competitive advantage for building tech companies and maximising ROIC in doing so.
+    
+*   _Making this positioning work demands hard **trade-offs**_. Not everything that succeeds in Silicon Valley or China will succeed here, and that's perfectly fine. We need to be honest about what doesn't work in the European context and stop trying to force-fit foreign models. Some opportunities will have to be deliberately passed up to excel at others. For instance, we don't do blitzscaling in Europe, therefore we don't want to raise those mega rounds only targeted at funding exponential growth for loss-making businesses.
+    
+*   _The power of a good positioning comes from how its components **fit** together_. Each element—from regulatory frameworks to funding mechanisms, from talent development to market access—needs to reinforce the others. This isn't about isolated improvements but about building a well-calibrated machine where each part amplifies the effectiveness of the whole.
+    
+*   _Finally, Europe's positioning requires **continuity of direction**_. Strategy isn't something you change every time a new trend emerges or when immediate results don't materialise. Europe needs to commit to its chosen path and give it time to bear fruit, even when faced with pressure to chase quick wins or copy whatever seems to be working elsewhere.
+    
+
+Another important aspect is that finding a good strategic positioning is different from improving what Porter calls _“operational effectiveness”_ (my own writing on the difference [here](https://salon.thefamily.co/in-search-of-scalability-5c495f8f4f0)). Too often, European tech builders fall into the trap of operational effectiveness—trying to match Silicon Valley's practices through isolated fixes like improving founder culture, adjusting regulations, or reforming stock options. But as Porter argues, _“competition based on operational effectiveness alone is mutually destructive, leading to wars of attrition that can be arrested only by limiting competition.”_ We can improve our stock option regimes all we want, employee equity will always be more attractive in the US than it is in Europe.
+
+In fact, improved operational effectiveness often derives from good strategic positioning. In our case, I expect that once Europe discovers the right strategic positioning for building tech companies, many of today's perceived shortcomings will naturally resolve through market forces and resource reallocation. When strategic positioning leads to higher ROIC (our key metric from Section 3), capital will flow toward the opportunities represented by building even more tech companies. This influx of capital won't just sit idle—it will get deployed to solve operational challenges, bridge cultural gaps, [fix legal issues](https://www.driftsignal.com/p/fewer-regulations-in-america?utm_source=publication-search), and build missing infrastructure. We've seen this dynamic play out in China's tech ecosystem, where proper strategic positioning drove capital influx that rapidly solved seemingly intractable problems in payments, logistics, and digital infrastructure.
+
+*   _The key insight is that resource constraints and cultural barriers aren't fixed obstacles but rather symptoms of suboptimal positioning_. With proper positioning driving higher returns, we should expect market forces to organically direct resources toward solving these secondary challenges.
+    
+
+With this framework, Europe's strategic imperative becomes clear: we must develop a unique positioning that leverages our distinctive attributes rather than trying to copy approaches that succeeded elsewhere. Only by making difficult trade-offs and building a coherent, reinforcing system can we create a tech ecosystem that thrives on European terms.
+
+[
+
+![Michael Porter's Five Forces Model - =MC Consulting](https://substackcdn.com/image/fetch/$s_!RA0r!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa89ee579-1a6f-463f-a500-baaf8ef103a3_2560x1646.jpeg "Michael Porter's Five Forces Model - =MC Consulting")
+
+](https://substackcdn.com/image/fetch/$s_!RA0r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa89ee579-1a6f-463f-a500-baaf8ef103a3_2560x1646.jpeg)
+
+Michael E. Porter
+
+**When tackling Europe's** challenge in building tech giants, many focus on the early stage.
+
+The logic goes: if Europe lacks major tech companies, founders must be going astray from day one, so fixing that should be the priority. There's also the important idea that founders know best, should form _“startup communities”_ (as documented by Brad Feld and Ian Hathaway—see [here](https://www.driftsignal.com/p/you-can-help-build-an-entrepreneurial?utm_source=publication-search)), and only once they find a viable path should an _“entrepreneurial ecosystem”_—investors and other supporters—step in to help. In short, everything starts with founders, and the best strategy is to optimise their first steps.
+
+[
+
+![Anyone Can Build an Entrepreneurial Ecosystem](https://substackcdn.com/image/fetch/$s_!b1Pp!,w_140,h_140,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Feeaf537a-a9e3-4c29-94b5-46616a76732f_1600x1067.png)
+
+](https://www.driftsignal.com/p/you-can-help-build-an-entrepreneurial)
+
+The problem with this early-stage obsession is that after 15 years, Europe still lacks a systemic track record of building profitable, multinational tech companies (Spotify, Revolut, ASML and Adyen being rare exceptions). That means there's no proven model to reverse-engineer in a systemic manner.
+
+*   _Instead of refining a well-tested playbook, we're just sending more founders onto Omaha Beach_, hoping some miraculously break through enemy fire to pave the way for others. But after 15 years of failed assaults, isn't it time for the high command to rethink its strategy?
+    
+
+The conceptual mismatch outlined in Section 2 becomes particularly problematic at the early stage. In the US, a well-established playbook has been perfected over generations, resulting in profitable tech giants like Intel, Apple, Microsoft, Google, Amazon, Meta, and many more. This is why programmes like the [Thiel Fellowship](https://thielfellowship.org/)—providing subsidies for young people to build companies rather than pursue higher education—make perfect sense and yield results in the US: they fuel a well-oiled machine that reliably transforms ambitious founders into global tech powerhouses.
+
+Europe, however, lacks that machine. And without our own proven playbook, early-stage interventions become premature optimisations of an unproven system. When I see systematic attempts to improve the early stage 15 years after we began trying, it reminds me of developing countries investing heavily in higher education but failing to create enough high-skilled jobs—leading to brain drain, unemployment, and unrest.
+
+*   _We should expect the same dynamic to apply to Europe's tech ecosystem_: more startups fail; those that succeed scale by expanding—and eventually relocating—to the US; would-be founders opt for corporate jobs instead of risking their life career storming the beach; and Europe sinks further into slow growth, low productivity, and a widening gap in tech leadership.
+    
+
+But wait—you might ask—wasn't I the co-founder of a startup accelerator (The Family) that, from 2013 onward, aimed to do precisely this: improve the early stage systematically? This critique may seem surprising coming from someone with my background, but my experience with The Family taught me precisely why this approach is limited. Let me quote/paraphrase my [2020 essay on Y Combinator](https://www.driftsignal.com/p/11-notes-on-y-combinator?utm_source=publication-search):
+
+> _Y Combinator made a key difference in leveling up the Silicon Valley ecosystem, because turning early-stage investment into an industry is the finishing touch in polishing an ecosystem that works—and Y Combinator provided that finishing touch to Silicon Valley._
+> 
+> _Early-stage investment firms, especially self-styled_ “accelerators”_, are misleading for outside observers. We think they are the first brick to be laid out because those firms intervene at the start of business life. But in reality, it is exactly the opposite. Firms such as Y Combinator are rather the finishing touch to an already large and healthy ecosystem (in this case, Silicon Valley), in which we seek to optimise the first steps of the new generations who are following known steps._
+> 
+> _In other words,_ “accelerators” _only work well if they have something to pass on. At The Family we had our own doctrine to share, but nothing more. It was ours, not everyone adhered to it, the only thing is that we had worked hard on it, we believed in it, and we kept on refining it day after day. A healthy ecosystem like Silicon Valley has something to convey. But Paris, as an ecosystem, has nothing to transmit that is stable, unequivocal and proven, because it lacks earlier generations of widely successful tech companies._
+> 
+> _Therefore it's impossible to reverse engineer what maximises the probability of success at the later stages if you don't have previous generations of companies that have been widely successful. Y Combinator could reverse engineer startup success in Silicon Valley. We in Europe can only guess what could eventually work and try and make it happen._
+> 
+> _In short, all of these accelerators that you can find in every city in the world, often modelled after Y Combinator (even with misinterpretations), are like painting the inside of the house before you put the roof on. It's time to learn how to do it right and to realise that Y Combinator wouldn't exist without the healthy ecosystem that is Silicon Valley—and that it's useless, even counter-productive, to try and emulate it in the absence of such an ecosystem!_
+
+[
+
+![11 Notes on Y Combinator](https://substackcdn.com/image/fetch/$s_!nGtN!,w_140,h_140,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F64f2ac49-7764-491d-9a3b-c2178025b161_1280x857.png)
+
+](https://www.driftsignal.com/p/11-notes-on-y-combinator)
+
+To be clear: it is still the job of any early-stage investor backing founders in Europe to support them in a relevant way—that is, allocating resources dynamically to help outstanding founders become independent of their local (and likely immature) entrepreneurial ecosystem.
+
+However, I believe any collective effort that focuses too much on the early stage overlooks essential insights. One is that we lack enough success stories to systematically reverse-engineer what works and what doesn't at the early stage in Europe. The other is that we are far too deep into the shift to the Age of Computing and Networks to keep betting everything on early-stage founders.
+
+*   _As I wrote more than a year ago, [The Door Is Closing](https://www.driftsignal.com/p/startups-the-door-is-closing) on Startups_, and we now know enough about the current techno-economic paradigm to take a more proactive approach—one that embraces a follower mindset when it comes to catching up with more advanced economies such as the US and China.
+    
+
+[
+
+![Startups: The Door Is Closing](https://substackcdn.com/image/fetch/$s_!aIt-!,w_140,h_140,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff05fb924-aa17-4c67-a5da-33aaba84e7e7_2152x933.png)
+
+](https://www.driftsignal.com/p/startups-the-door-is-closing)
+
+**Fifteen years ago, the** startup landscape was still defined by [widespread uncertainty](https://www.driftsignal.com/p/innovation-uncertainty-but-not-too)—a dense fog obscuring both opportunities and dangers.
+
+This fog served a crucial purpose: it deterred established companies, which had too much to lose to venture blindly into the unknown. Meanwhile, startups, with nothing to lose, could charge through this uncertainty. While many failed, those that survived found treasure on the other side and quickly built defences before incumbents could catch up.
+
+Today, however, the fog has largely lifted from computing and networks. The path to digitising business is well-mapped, with clear playbooks and known pitfalls. Even AI, despite its revolutionary potential, has introduced surprisingly little uncertainty in its commercial development. When ChatGPT emerged, major tech companies didn't hesitate—they swiftly deployed their considerable resources to launch competing models. Just two years later, we already have cheap, mature open-source alternatives like DeepSeek. This rapid response suggests we are now operating in a landscape of known challenges tackled with production capital, rather than fundamental uncertainty addressed with risk capital.
+
+This unprecedented clarity brings both challenges and opportunities for Europe:
+
+*   _Being first matters less_. With less uncertainty, early movers no longer have the decisive edge they once did. Success now depends more on execution and scale than on pioneering in uncharted territory.
+    
+*   _Resource allocation improves_. Clearer visibility allows European companies to make more informed strategic choices about where to invest and compete—an advantage for a capital-deprived continent like Europe, and a good lever to pull for maximising ROIC.
+    
+*   _Latecomers can catch up_. A more predictable landscape enables those behind to learn from others' mistakes, refine their approach, and compete more effectively.
+    
+*   _Defensibility becomes crucial_. Without uncertainty as a natural barrier, European companies must develop other competitive advantages—whether through regulation, market position, or technical excellence.
+    
+
+At the scale of entire countries or regions, history repeatedly shows that followers often surpass initial leaders in economic development. Britain pioneered the Industrial Revolution, but Germany, France, and the US ultimately built more powerful industrial economies. The US led in mass automobile production, yet Germany, Japan, and South Korea later created some of the world's most successful car manufacturers. Each follower studied the leader's path, avoided their mistakes, and adapted their approach to their unique context.
+
+Now we are in the Age of Computing and Networks, with the US blazing the trail and China as the first major follower. This presents Europe with a crucial opportunity—but it requires embracing an uncomfortable truth: in the current era, and for the first time since the Industrial Revolution, Europe is effectively a [developing region from the tech perspective](https://www.driftsignal.com/p/europe-is-a-developing-economy-the).
+
+*   _This isn't merely a provocative statement—it's a strategic reframing that could unlock new possibilities_. Just as 19th-century America saw itself as developing and protected its infant industries accordingly, Europe needs a similar mindset shift to capitalise on the advantages of being a follower in a landscape where the fog has lifted. Accepting this developing status would justify industrial policies that might otherwise seem inappropriate for 'advanced' economies: protecting infant industries, making long-term state investments in technological capabilities, and implementing policies that prioritise tech sovereignty over short-term market efficiency.
+    
+
+[
+
+![Europe Is a Developing Economy](https://substackcdn.com/image/fetch/$s_!TQuA!,w_140,h_140,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fda2b227c-0cdc-4b97-af81-db2d24d18603_1648x1043.png)
+
+](https://www.driftsignal.com/p/europe-is-a-developing-economy-the)
+
+The advantages of this follower position are substantial: infrastructure is cheaper to build (as costs have declined over time), talent pools are deeper (as technical education has become more widespread), and market opportunities are clearer (as pioneers have already validated business models). Europe's distinct attributes—its regulatory framework, industrial base, and market characteristics—aren't obstacles but potential assets in building a unique approach to tech success. The question isn't whether Europe can compete—history proves that followers can catch up with leaders—but whether we are ready to embrace our position as a developing economy and play the long game, as South Korea did with Samsung and Hyundai, Japan with its post-war transformation into a leader in robotics and advanced manufacturing, or Mainland China did from 1978 onward thanks to [Deng Xiaoping](https://www.driftsignal.com/p/a-primer-on-the-chinese-communist).
+
+(Note that following is different from imitating: In the 20th Century, Japan followed the US in car manufacturing, but [Toyota took a completely different approach from the Big Three in Detroit](https://www.driftsignal.com/p/who-will-be-the-japan-of-the-ai-era).)
+
+*   _For Europe, this isn't about admitting defeat_—it's about choosing the right strategy for our actual position. When a region is still developing, it can justify protecting infant industries, investing heavily in fundamental capabilities, and making bold, proactive moves that might seem inappropriate for a ‘developed’ economy. For a follower, what to do is clear—how to do it is where the real challenge lies.
+    
+
+Europe is fully capable of competing globally in tech, but success depends on acknowledging our true starting position and charting an effective path forward. Instead of trying to pioneer, we must focus on leveraging the advantages of following—because by now, most of the pioneering opportunities have been exhausted anyway.
+
+[
+
+![Shenzhen, China - The "New Skyscraper Capital of the World" : r/skyscrapers](https://substackcdn.com/image/fetch/$s_!y8qB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3455ef8-95dc-4afa-a88f-29c43451a7bb_2000x1267.jpeg "Shenzhen, China - The "New Skyscraper Capital of the World" : r/skyscrapers")
+
+](https://substackcdn.com/image/fetch/$s_!y8qB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3455ef8-95dc-4afa-a88f-29c43451a7bb_2000x1267.jpeg)
+
+Shenzhen in Mainland China: a triumph of orchestrated economic development
+
+**Having identified what Europe** needs to build and established that we require a unique strategic positioning, we face a fundamental question: who should orchestrate this economic transformation?
+
+This question goes beyond simply identifying specific individuals or institutions—it reveals a deeper tension between centralised and decentralised approaches to economic development.
+
+Historically, economies that successfully orchestrated rapid development—such as Singapore under [Lee Kuan Yew](https://www.driftsignal.com/p/nicolas-colin-languages-in-singapore-19-03-20) or South Korea under [Park Chung Hee](https://en.wikipedia.org/wiki/Park_Chung_Hee)—relied on strong central leadership and dirigist industrial policies. Europe, however, lacks both the institutional framework and the collective mindset for such an approach.
+
+*   _Indeed, many mistakenly view Europe as a monolithic entity simply because of the European Union_. But the EU is not a unified economic system with a single chain of command. If Europe embraced its status as a developing region in tech (as argued in Section 6), a strong central authority might naturally emerge to drive this development. But at present, Europe’s largest economies continue to see themselves as advanced nations—committed to preserving open societies, free enterprise, free movement, and, crucially, relatively weak central governance. Meanwhile, the regions forming _“Dynamic Europe”_—to borrow a [term from the venture capital firm Bek Ventures](https://www.bekventures.com/article/global-scale-focused-strategy-bek-ventures-250-million-new-fund)—actively resist centralisation, knowing that any overarching structure would likely be controlled by the slower-moving Western European economies.
+    
+
+Given this reality, Europe's tech renaissance must be decentralised—driven not by Brussels or national governments but by founders, investors, and market forces. Progress won't come from a grand continental agenda but from collective action across Europe's diverse and distributed entrepreneurial ecosystem.
+
+A decentralised approach is all the more necessary because regional dynamism is Europe's hidden asset. While productivity data often paints a grim picture of the continent's overall performance, countries like Poland and Bulgaria continue to show growth, while larger economies such as the UK, France, and Germany have stagnated. These _“Dynamic Europe”_ regions have the potential to lead Europe's tech future precisely because they aren't burdened by the mindset of being ‘advanced economies.’
+
+What makes this _“Dynamic Europe”_ distinct isn't just geography; it's a particular mindset and approach. As [Bek Ventures defines it](https://www.bekventures.com/article/global-scale-focused-strategy-bek-ventures-250-million-new-fund), this encompasses Central and Eastern European founders who are _“hardworking, technically talented, and ambitious with global scale a non-negotiable imperative.”_ These founders approach company-building with fewer preconceptions about what's possible, less attachment to legacy systems, and a natural orientation toward global markets from day one—precisely because their home markets often lack the size to support unicorn-scale ambitions.
+
+*   _This mindset creates a powerful advantage_. While Western European founders might start by optimising for their home market and often end up being trapped in it, Dynamic Europe founders begin with global ambitions by necessity. Companies like UiPath (Romania), Pipedrive (Estonia), Wise (Estonia), and Infobip (Croatia) exemplify this approach—building globally competitive products from regions traditionally overlooked by mainstream tech investors, yet achieving valuations that eclipse most Western European startups.
+    
+
+Much like China in the 1990s, Europe is often misjudged when viewed as a bloc. Investors who then saw China as a homogeneous entity overlooked the transformative growth in tier-1 cities like Shanghai, Shenzhen, and Beijing—and later, tier-2 cities like Chongqing, Chengdu, and Hangzhou (home to Alibaba, no less). Similarly, seeing Europe only through the lens of its stagnating legacy economies obscures the bright spots of innovation and expansion.
+
+[
+
+![Alibaba | History, IPOs, Acquisitions, & Controversies | Britannica Money](https://substackcdn.com/image/fetch/$s_!fWy_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F434d736a-fbfc-411f-b556-7ce5c7e4d9b5_1600x1049.jpeg "Alibaba | History, IPOs, Acquisitions, & Controversies | Britannica Money")
+
+](https://substackcdn.com/image/fetch/$s_!fWy_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F434d736a-fbfc-411f-b556-7ce5c7e4d9b5_1600x1049.jpeg)
+
+Alibaba’s headquarter in Hangzhou
+
+**The challenge, then, is** to achieve Lee Kuan Yew-style outcomes without Lee Kuan Yew himself—or the competent, central bureaucracy he had at his disposal in Singapore. A decentralised approach requires different mechanisms to align efforts and foster strategic coherence.
+
+Compelling narratives, for instance, inspire action and create shared understanding. Several years ago, I wrote about [the need for more European stories](https://www.driftsignal.com/p/european-techs-forgotten-stories) and took part in various initiatives to [bridge that gap](https://www.driftsignal.com/p/european-tech-we-need-more-controversies). Since then, much progress has been made—the growth of the pan-European media that is _[Sifted](https://sifted.eu/)_ or Pia Michel's impressive reporting on her [Grand Tour of Europe](https://grandtoureurope.xyz/blog) are just some examples.
+
+These narratives aren't merely inspirational stories—they function as powerful coordination tools in several concrete ways:
+
+*   _First, effective narratives help shape investment theses_. When Atomico published _[The State of European Tech](https://www.stateofeuropeantech.com/)_ reports starting in 2015, they didn't just document the ecosystem; they created a framework that influenced how capital was allocated. By highlighting success patterns in specific regions and sectors, these narratives directed investors' attention and capital toward promising opportunities that might otherwise have been overlooked.
+    
+*   _Second, narratives establish shared identity and purpose_. The '[French Tech](https://lafrenchtech.gouv.fr/en/)' initiative, launched in 2013, created a recognisable brand and rallying point that unified previously disconnected entrepreneurial communities. This wasn't just symbolism—it led to measurable increases in talent retention, international recruitment, and eventually policy reforms that might not have happened without this collective identity.
+    
+*   _Third, narratives signal opportunity to talent_. When Daniel Ek describes [Spotify's mission](https://investors.spotify.com/home/default.aspx) as _“giving a million creative artists the opportunity to live off their art,”_ it's not just company rhetoric—it's a beacon that attracts specific types of talent to Stockholm, creating cluster effects that benefit the entire ecosystem. Similarly, when [DeepMind positioned London](https://www.ianhogarth.com/blog/2024/12/18/how-can-europe-build-its-first-trillion-dollar-start-up) as a centre for ethical AI development, it sparked a migration of researchers and startups focused on responsible technology.
+    
+
+But narratives are not the only tool to coordinate efforts in decentralised systems:
+
+*   _Practical theories help economic actors make better decisions._ Some assume that building tech companies leaves no room for abstract thinking, but that's a mistake. Andy Grove, the legendary Intel CEO, was a devoted student of Clay Christensen's _[The Innovator's Dilemma](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma)_. He even mandated that Intel's managers be trained in Christensen's theories, [seeing them as a strategic and managerial lever](https://www.driftsignal.com/p/what-europe-could-learn-from-clay?utm_source=publication-search): _“A common language and a common way to frame the problem so that we can reach consensus around a counter-intuitive course of action.”_
+    
+*   _Speculative bubbles, despite their excesses, often direct capital toward emerging opportunities_. As [Carlota Perez](https://en.wikipedia.org/wiki/Technological_Revolutions_and_Financial_Capital), my mentor [Bill Janeway](https://www.billjaneway.com/productive-bubbles), and more recently [Byrne Hobart of](https://stratechery.com/2024/an-interview-with-byrne-hobart-about-bubbles-and-escaping-stagnation/) _[The Diff](https://stratechery.com/2024/an-interview-with-byrne-hobart-about-bubbles-and-escaping-stagnation/)_ have argued, bubbles create urgency. Investors who believe the future will be radically different from the present feel compelled to act—either because they think it won't happen unless they build it, or because they fear someone else will build it incorrectly.
+    
+
+All in all, economic development tends to follow a predictable sequence which accommodates a decentralised approach. For Europe, that means:
+
+*   _A shift in perspective_—Entrepreneurs, investors, and institutions must start acting as though they are operating in a developing economy with high growth potential. Coordination mechanisms such as narratives and theories can help achieve this.
+    
+*   _Strategic positioning through decentralised action_—As capital and talent flow toward high-value opportunities, specialisation emerges. In hindsight, this pattern may resemble a deliberate strategy, but in reality, it will be the product of many independent choices.
+    
+*   _Iteration over central planning_—As the system evolves, inefficiencies are corrected, coordination improves, and competitive clusters strengthen—leading to a self-reinforcing cycle of economic upgrading.
+    
+
+In sum, without a European Lee Kuan Yew or Park Chung Hee to direct resources, we have no other choice: our European strategic positioning must be discovered through decentralised coordination. The ultimate measure of success remains ROIC—our previously established metric for how effectively Europe converts building tech companies into wealth creation, purchasing power, and economic security. The question isn't who should be in charge—it's how we create the conditions for a decentralised renaissance where no one needs to be in charge at all.
+
+[
+
+![Disparition de M. Lee Kuan Yew, ancien Premier Ministre de Singapour (...)  - La France à Singapour](https://substackcdn.com/image/fetch/$s_!3UCT!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37c2088c-2d93-40e0-a484-9dfdd66110a4_945x480.jpeg "Disparition de M. Lee Kuan Yew, ancien Premier Ministre de Singapour (...)  - La France à Singapour")
+
+](https://substackcdn.com/image/fetch/$s_!3UCT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37c2088c-2d93-40e0-a484-9dfdd66110a4_945x480.jpeg)
+
+Unlike Singapore, we in Europe don’t have a Lee Kuan Yew—and even if we had, he couldn’t achieve much from the top down
+
+**The challenge of building** a pan-European entrepreneurial ecosystem without centralised authority has historical precedent.
+
+In the 19th century, despite lacking supranational governance structures, Europe maintained a functioning economic system driving global growth and innovation. At its heart was [what Karl Polanyi called](https://salon.thefamily.co/brexit-doom-or-europes-polanyi-moment-3e97269e6b67) _[“haute finance”](https://salon.thefamily.co/brexit-doom-or-europes-polanyi-moment-3e97269e6b67)_—a network of banking families creating international financial infrastructure that transcended national boundaries.
+
+The [Rothschild banking dynasty](https://www.britannica.com/money/Rothschild-family) exemplifies this approach. [Mayer Amschel Rothschild](https://en.wikipedia.org/wiki/Mayer_Amschel_Rothschild) built a financial empire by strategically placing his five sons in key European financial centres: Frankfurt, Vienna, London, Naples, and Paris. This distributed family network created something remarkable: a pan-European financial system operating beyond national interests. As Polanyi [noted](https://salon.thefamily.co/brexit-doom-or-europes-polanyi-moment-3e97269e6b67),
+
+> _The Rothschilds were subject to no one government; as a family they embodied the abstract principle of internationalism... their credit had become the only supranational link between political government and industrial effort._
+
+What's striking is how this functioned without central authority. Each Rothschild brother maintained local autonomy while participating in a shared enterprise with common protocols, communication systems, and values. As documented in Niall Ferguson’s masterful history of the dynasty, _[The House of Rothschild](https://www.niallferguson.com/the-house-of-rothschild-vol-2)_, they developed sophisticated courier networks and coded messages to transfer money and intelligence faster than competitors or governments, allowing them to make sound investment decisions across all of Europe, and to shape continental development for generations.
+
+Today's European tech ecosystem faces similar fragmentation challenges. French tech rarely interacts with German tech; Spanish tech operates separately from Dutch tech. This isolation is reinforced by the media celebrating local heroes and by investors (and governments) prioritising national champions.
+
+The Rothschild model suggests an alternative: decentralised but coordinated networks leveraging local knowledge while maintaining a multi-national perspective. Some of today's successful European founders already follow this pattern. Daniel Dines of UiPath worked at Microsoft in the US before returning to Romania to build his company—exemplifying [what AnnaLee Saxenian calls](https://www.hup.harvard.edu/books/9780674025660) _[“brain circulation,”](https://www.hup.harvard.edu/books/9780674025660)_ where entrepreneurs gain experience abroad but return to build companies at home.
+
+*   _The key insight is that successful European tech companies always have a local dimension_—you can't understand Spotify without understanding Stockholm, just like in the 20th century you couldn’t understand [Michelin](https://en.wikipedia.org/wiki/Michelin) without understanding Clermont-Ferrand, France—but they must transcend locality to operate at continental and global scales.
+    
+
+The lesson isn't that we need new banking dynasties (the world today is far removed from the 19th century), but rather institutional innovations creating continental-scale coordination without requiring continental-scale authority. In a founder and financier-led tech ecosystem, these coordination mechanisms will likely emerge from the private sector rather than from Brussels, Paris, or Berlin, contributing to Europe's strategic positioning for building tech companies.
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!ie3Q!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2abe826f-c78e-4fa9-ba4f-9d707e29d002_1200x615.png)
+
+](https://substackcdn.com/image/fetch/$s_!ie3Q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2abe826f-c78e-4fa9-ba4f-9d707e29d002_1200x615.png)
+
+**The Birth of a Banking Empire (1806)** – As Napoleon’s forces advance, Elector William I of Hesse entrusts his fortune to Mayer Amschel Rothschild, laying the foundation for the Rothschild banking dynasty—which I believe should serve as an inspiration for those building tech companies in Europe today.
+
+**Europe's fragmented market** has long been cited as a primary obstacle to building tech companies at scale. Unlike the US market's relative homogeneity, European entrepreneurs face a patchwork of different languages, regulations, and business customs that make continental expansion challenging. This fragmentation creates friction that prevents most startups from achieving the scale necessary to compete globally. But what if this very complexity could become Europe's advantage?
+
+**One promising approach is** the _“buy-to-build”_ strategy, a rather [traditional play in the private equity world](https://www.connectioncapital.co.uk/understanding-alternatives/strategy-in-focus/buy-and-build-what-is-it-and-how-does-it-work/#:~:text=It%20is%20a%20strategy%20adopted,via%20the%20benefits%20of%20scale.). Instead of the traditional venture-backed approach of organic growth across borders (which is very hard to achieve, as I can testify based on The Family’s portfolio or well-known examples such as [Doctolib](https://www.bbc.com/news/articles/cyx6xv95n23o) and [Malt](https://medium.com/malt-community/i-am-moving-to-munich-1d539850fa97)), European tech companies can consolidate through private equity-funded acquisition, bringing together similar solutions from different markets under one roof.
+
+As founder Lucas Bédout [aptly noted on LinkedIn](https://www.linkedin.com/posts/lucasbedout_while-i-support-pro-european-initiatives-activity-7305888294393765889-xB2E?utm_source=share&utm_medium=member_desktop&rcm=ACoAACYyzIYBMg38B7eN5lqPjR_L4E3ed-2wURw):
+
+> _The European market is fragmented, with tons of country-specific solutions offering similar feature sets that are never consolidating because no one can afford to buy the others. Look how many companies based in different countries are solving the exact same problem right now in Spend Management, Procurement, Billing, Treasury, SMB payments..._
+
+There are meaningful precedents showing this approach can work. What [Trainline achieved with KKR's backing](https://en.wikipedia.org/wiki/Trainline)—acquiring its competitors across Europe, including the Paris-based Captain Train—offered an early playbook. Klarna has pursued a similar strategy in fintech, acquiring companies like Sofort in Germany and BillPay to consolidate its position across Europe's fragmented payment landscape. Adevinta, the Norwegian classifieds group, expanded pan-European operations by acquiring eBay Classifieds Group for $9.2 billion, uniting various marketplace platforms like Mobile.de in Germany and Leboncoin in France. Similarly, TeamViewer built its remote work solutions business by strategically acquiring companies like Ubimax and Austrian firm Xaleon/Chatvisor.
+
+However, to my knowledge, this has not yet led to the emergence of a dedicated segment within European private equity focused specifically on cross-border tech consolidation.
+
+*   _That said, PE-backed buy-to-build cross-border investments seem to be the future for Europe_. This strategy recognises that Europe doesn't need more early-stage startups; it needs fewer, but stronger, well-capitalised multinational companies that can compete at continental scale, on par with their US counterparts.
+    
+
+By acquiring similar businesses across multiple European countries, companies can swiftly secure the market coverage necessary to take on American rivals. This consolidation not only reduces the inefficiency of competing national champions but also creates larger entities capable of making significant investments in product development and talent.
+
+**Tom Lambert of LocalGlobe** offers [another perspective](https://medium.com/@tomlambert/lets-lean-into-europe-s-complexity-18c69fa94331): Europe's complexity isn't just a challenge to overcome—it's a potential source of competitive advantage:
+
+> _Europe isn't simple to operate in. It's a patchwork of markets, regulations, currencies, payment methods, and cultures. This complexity creates friction that many view as challenging. But it's precisely this complexity that birthed companies like Revolut, Adyen, and Wise._
+
+Companies that master Europe's complexity develop capabilities that are difficult for outsiders to replicate. They build deep expertise in navigating regulatory environments, localising products, and managing across cultures—skills that become moats protecting their businesses from both American tech giants and new entrants.
+
+**Artificial intelligence may prove** to be the great equaliser that helps European tech overcome its fragmentation challenges. As AI advances, particularly large language models, many of the barriers that have historically made cross-border expansion difficult are becoming less significant:
+
+*   _Advanced AI translation technology is breaking down communication barriers_ by dramatically reducing the cost and complexity of adapting products for different European markets.
+    
+*   _Emerging compliance-focused AI solutions are making regulatory navigation simpler_, as software becomes powerful enough to implement complex compliance requirements directly into applications.
+    
+*   _New data extraction capabilities are solving integration challenges with legacy systems_, enabling European companies to modernise without the need for complete replacements of existing infrastructure.
+    
+
+This technological shift creates an opportunity for European tech companies to leapfrog the traditional SaaS model and build AI-native solutions that work within Europe's complexity rather than fighting against it.
+
+**The future of European** tech may also lie in deeper integration across value chains. Just as Japan's keiretsu system enabled Toyota's lean production revolution, AI's potential can only be fully realised through collaboration across companies, as I argued in my [Who Will Be the Japan of the AI Era?](https://www.driftsignal.com/p/who-will-be-the-japan-of-the-ai-era)
+
+Rather than pursuing the traditional venture capital path of building independent companies, many European startups may thrive by forming deep partnerships with established enterprises. These collaborations would provide startups with not just funding but also data, domain expertise, and market access, while giving larger companies access to cutting-edge AI capabilities.
+
+All in all, the approaches mentioned above acknowledge a simple truth: Europe's path to tech success doesn't need to mirror Silicon Valley's. By embracing our unique challenges and turning them into advantages, European tech can chart its own course to global competitiveness.
+
+The powerful feedback loop is clear: more successful continental companies lead to better strategic positioning, which in turn creates more opportunities for success. The question is whether Europe's tech ecosystem is ready to embrace these alternative paths forward.
+
+[
+
+![Who Will Be the Japan of the AI Era?](https://substackcdn.com/image/fetch/$s_!zhob!,w_140,h_140,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F578ce40c-45e2-4ab6-bbe0-bbe429d706e6_1200x675.png)
+
+](https://www.driftsignal.com/p/who-will-be-the-japan-of-the-ai-era)
+
+**We've spent** time diagnosing Europe's tech challenges—fragmented markets, capital constraints, talent distribution, and the shadow of Silicon Valley's success. Now it's time to chart a pragmatic path forward that leverages Europe's distinctive attributes rather than attempting to replicate others' formulas.
+
+This path forward doesn't mean starting from the early stage. Europe doesn't need more accelerators or seed funding—these are finishing touches for entrepreneurial ecosystems that already work, not foundations for ones still finding their footing. Instead, we need to expand the pool of successful tech companies with multinational footprints, using their examples to refine a distinctly European strategy.
+
+The challenge isn't fixing what's broken, but creating something exceptional that works with our unique context. This requires what engineers call _“[impedance matching](https://eepower.com/technical-articles/understanding-impedance-matching/)”_—ensuring that all parts of our tech ecosystem work harmoniously together, minimising inefficiencies and maximising value creation. Consider how this impedance matching might work across different dimensions in Europe:
+
+*   _Market Integration_: Rather than fighting against market fragmentation, use buy-to-build strategies to consolidate similar solutions across borders, creating continental-scale businesses that can compete globally.
+    
+*   _Capital Deployment_: Focus investment on scaling companies that have proven their ability to navigate European complexity, rather than spreading capital thinly across thousands of early-stage ventures trapped within their domestic market and unlikely to reach escape velocity.
+    
+*   _Talent Development_: Create pathways for AnnaLee Saxenian’s _“brain circulation”_ rather than fighting brain drain, encouraging Europeans to gain global experience before returning to build companies at home, in the spirit of Jiang Zemin’s [Go Out policy](https://en.wikipedia.org/wiki/Go_Out_policy) in 1990s Mainland China. This, I believe, requires a proactive approach toward European diasporas not only across the continent, but also in the US, Asia and elsewhere.
+    
+*   _Regulatory Framework_: Transform Europe's regulatory environment from a liability into an asset by developing technologies that make compliance easier, creating transferable advantages when entering other regulated markets globally.
+    
+*   _Industrial Base_: Leverage Europe's strong manufacturing heritage as AI and computational systems increasingly merge with the physical world, creating opportunities at the intersection of traditional industry and digital technology.
+    
+
+The end goal should be to grow an entrepreneurial ecosystem that resembles [Formula 1](https://f1beginnersguide.com/): a high-tech domain of extreme diversity where most people speak imperfect English yet work together seamlessly. Formula 1 maintains a global footprint while remaining rooted in Europe, centred around [Motorsport Valley](https://www.bbc.com/sport/formula1/23048643) in England yet making room for geographic diversity with Ferrari in Italy, Sauber in Switzerland, and Alpine in France (albeit [not for long](https://www.carmagazine.co.uk/car-news/industry-news/alpine-f1-engines-viry-chatillon/)).
+
+This analogy offers several instructive parallels for Europe's tech ecosystem:
+
+*   _First, F1 demonstrates how specialised technical excellence can thrive in Europe despite American dominance in many other sports and entertainment categories_. While the US has NASCAR and IndyCar, Formula 1 remains distinctively European in its DNA yet globally successful—precisely the position European tech should aspire to occupy.
+    
+*   _Second, F1's talent model is worth emulating_: engineers, mechanics, strategists, and drivers from across Europe converge in multinational teams, communicating in non-native English that prioritises effectiveness over perfection. This practical approach to collaboration overcomes the language barriers that often fragment European tech efforts.
+    
+*   _Third, F1's ‘coopetition’ model balances fierce competition with necessary collaboration_. Teams compete intensely on race day yet work together on regulations, safety standards, and promotion of the sport as a whole. Similarly, European tech needs both healthy internal competition and coordination on issues like regulation, talent development, and global positioning.
+    
+*   _Finally, F1 demonstrates how a highly technical, innovation-driven ecosystem can create value across the continent through a balanced governance model._ The sport operates under a dual authority structure—the commercial rights holder ([Formula One Group](https://en.wikipedia.org/wiki/Formula_One_Group), owned by Liberty Media) and the regulatory body ([FIA](https://en.wikipedia.org/wiki/F%C3%A9d%C3%A9ration_Internationale_de_l%27Automobile), headquartered in France)—that provides clear rules and commercial framework while still allowing teams to innovate and compete distinctively. This governance structure, combining centralised direction with team autonomy, offers a potential model for European tech: common standards and strategic alignment at the continental level, with execution and innovation happening within national and regional contexts.
+    
+
+I didn't choose this example by chance. While football (soccer) is [as European and international as Formula 1](https://www.ft.com/content/3e346762-e15d-4cb3-8dca-397a62514d4d), F1 stands out as a distinctly high-tech sport, proving that Europe can achieve global-scale excellence not just in marketing an appealing product worldwide, but also in mastering advanced technological fields.
+
+Unlike F1, however, I don’t believe the vision laid out for European Tech in this edition requires much centralised command—which, in Europe, will never exist anyway. Instead, it needs founders who think beyond national borders from day one, investors willing to back ambitious cross-border consolidation plays, notably at the late stage, and a collective mindset that views Europe's complexity as a competitive advantage rather than a liability.
+
+*   _The journey won't be easy or quick. It took decades for Germany to outpace Britain in industrial production during the Second Industrial Revolution_. It took generations for the US to build its technological dominance. But with clear-eyed strategic positioning and committed execution, Europe can forge its own path to global tech competitiveness—not by copying Silicon Valley, but by writing its own distinct chapter in the ongoing story of technological progress.
+    
+
+In conclusion, Europe doesn't need another accelerator or early-stage fund. It needs bold, long-term vision executed through concrete, practical steps that leverage our unique context rather than fighting against it. This is our challenge, and our opportunity.
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!ApFP!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1e1954f-db4e-48d8-b362-478bdf9ab0a7_1572x554.png)
+
+](https://substackcdn.com/image/fetch/$s_!ApFP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1e1954f-db4e-48d8-b362-478bdf9ab0a7_1572x554.png)
+
+Italian technology 🇮🇹, a French team principal (Fred Vasseur, center 🇫🇷), and drivers from Monaco (Charles Leclerc, left 🇲🇨) and the UK (Lewis Hamilton, right 🇬🇧). Ferrari, which finished second in last year’s F1 Constructors’ Championship, is part of Stellantis, a French-Italian-American multinational 🇫🇷🇮🇹🇺🇸 incorporated in the Netherlands 🇳🇱. As of 2024, Stellantis ranked fourth among car manufacturers worldwide, producing approximately 5.7M vehicles, behind Toyota (11.4M 🇯🇵), Volkswagen (8.8M 🇩🇪), and Hyundai (7.4M 🇰🇷).
+
+Sign up to _Drift Signal_ if you don’t want to miss the next issues 🤗
+
+From Paris, France 🇫🇷
+
+Nicolas
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!_kp-!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0da73e18-0b85-4937-86b1-bdd555f0959e_1517x505.png)
+
+](https://substackcdn.com/image/fetch/$s_!_kp-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0da73e18-0b85-4937-86b1-bdd555f0959e_1517x505.png)

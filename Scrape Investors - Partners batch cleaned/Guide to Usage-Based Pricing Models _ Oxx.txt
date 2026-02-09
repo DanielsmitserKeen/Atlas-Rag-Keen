@@ -1,0 +1,122 @@
+# Guide to Usage-Based Pricing Models
+
+Usage-based pricing is popular. Beyond the hype, it’s important for SaaS companies to understand the mechanisms of why and how to make the pricing strategy work. The previous article dove into the _why_: why does usage-based pricing work well according to economic pricing theory, and why that can lead to high net revenue retention.
+
+This follow-up article considers _when_ usage-based pricing is effective, and _how_ to ensure it’s a success.
+
+### Usage-based pricing: when it works
+
+Is usage-based pricing appropriate for a particular SaaS company? Six questions to consider:
+
+1.  **Can value be broken down into a unit of usage?**
+2.  **Is the unit of usage easy to understand?**
+3.  **Is the unit of usage easy to predict and measure?**
+4.  **Is it easy to implement and onboard the product?**
+5.  **Is it hard to get rid of the product?**
+6.  **Does the product category accept usage-based pricing?**
+
+#### Usage is a value metric
+
+Customer value must scale with the chosen metric that measures usage.
+
+There are plenty of different usage-based value metrics:
+
+*   Data stored or processed
+*   Api calls made, hosts served, devices served
+*   Contacts stored, messages sent, records stored
+*   Transactions made, bookings made
+*   Minutes or hours spent
+*   Locations or physical area served
+*   Products shipped, kilometers driven
+
+#### Easy to understand
+
+The value metric should be easy to understand for both company and customer. If it’s easy to understand, it’s easy for a prospective customer to estimate the price. Less effort needs to be spent in a sales process explaining the metric. The latter point is especially important in a self-serve go-to-market motion. For example, pricing schemes based on “credits,” where credits in turn represent different forms of usage of the product, can feel needlessly complex for self-serve customers.
+
+#### Easy to measure and predict
+
+The measurement method should generate unequivocal results. If not, disagreements on appropriate billing amounts can lead to unsatisfied customers at high risk of churning. This is one reason it’s helpful to avoid selecting a metric that relies on data received from customers (for example, one related to $ in ROI) or a metric that customers can’t independently verify.
+
+The usage metric should also be easy to predict. The customer’s finance team wants to understand how usage scales in order to budget costs, especially in enterprises with fixed annual budgetary planning cycles.
+
+Companies can make it easier for customers to measure and predict usage by building out product features that display cumulative usage, alerting customers when approaching a particular usage level, or allowing an admin to set monthly usage limits.
+
+#### Easy onboarding
+
+If it’s time-consuming or labor-intensive to implement a new product, usage-based pricing is less attractive. One of the drivers of the high net revenue retention commonly seen in usage-based pricing models relies on getting customers on board with low initial usage and price, and then for a subset of those customers, seeing usage and price grow over time. This is why you often see usage-based pricing paired with a product-led-growth and a self-serve go-to-market motion.
+
+A long implementation or a complex multi-user-persona onboarding is a cost (in labor and time) borne by the customer. That cost can be daunting! If so, an attractive entry price based on low initial usage isn’t enough to tip the scale to purchase.
+
+#### Difficulty leaving
+
+In an era of continually expanding budgets, usage-based pricing greases the wheels to accelerate upsells. In an era of contracting budgets, usage-based pricing can increase downsells. Companies are likelier to retain software that serves a critical need, contains uniquely valuable data or insights, or is deeply embedded into daily processes.
+
+That product stickiness is a good thing for SaaS companies is hardly a shocker. But usage-based pricing companies are more vulnerable to poor product stickiness. When target customer budgets contract, pay-as-you-go usage-based pricing models can be more exposed to churn and downsell.
+
+#### Product category acceptance
+
+Ultimately, the buyer determines the success of usage-based pricing – not rules spelled out in an online article.
+
+In some product categories, usage-based pricing is already the norm. In others (especially in industries still adapting to cloud-hosted, subscription-based models) usage-based pricing can still feel foreign.
+
+Product categories where usage-based pricing is popular:
+
+*   SaaS infrastructure solutions and developer tools that have adopted a developer-centric go-to-market motion
+*   Fintech software where pricing structure is based on payments volumes
+
+Product categories where it’s less common:
+
+*   Traditional enterprise software
+*   SaaS with a larger than usual services component
+
+Sidebar: When the rules hold but usage-pricing may still not be the right choice
+
+There are a few scenarios where the above might hold true, but usage-based pricing isn’t necessarily the best choice. One such case concerns companies with demonstrable data network effects, typically AI companies for whom customer activity generates algorithmic input data. In this case, usage-based pricing could cause customers to limit usage, slowing down product value accretion. But because the marginal value of additional data to improve overall product performance tends to decline as a data set grows, this concern can recede over time.
+
+### Usage-based pricing: what it looks like
+
+While a “switch” to usage-based pricing can feel risky and irreversible, it’s not a one-time, black or white transition. Rather, the pricing model and commercial policies of SaaS companies that use usage-based pricing strategies are quite varied.
+
+#### Tiers separated by usage limits
+
+Instead of tiers separated by feature sets, companies can separate tiers by volume limits of the usage-based pricing metric they would expect to move towards as a stepping stone on the path to usage-based pricing.
+
+#### Mixed license fee and usage-based pricing
+
+Many companies use a mixed license fee and usage-based pricing model. For companies transitioning from classic license-based pricing, a usage-based pricing component is added on top. This might involve decreasing the license price and adding this variable component on top, or upselling a new product module priced by usage.
+
+#### Contracted, paid-upfront usage-based pricing amounts combined with overage policies
+
+This is a common implementation of usage-based pricing as the main pricing model of a company with large customer contracts. Large customers contractually commit to a set usage, and often pay for this upfront. Commercial policies introduce nuance around this: different price levels for contractually locked-in usage vs. incremental usage, pricing for overages, policies on allowing customers to carry over unused usage to the next period, etc.
+
+#### Pay-as-you-go usage-based pricing
+
+Relatively few large SaaS companies have only pay-as-you-go pricing, but it’s more common among companies with small ACVs. This is usually a postpaid model, but can be structured as customers prepaying for a set amount of usage. Additionally, companies that start with this model still eventually usually move towards a contracted usage-based pricing model as larger customers prefer predictability and company cash flow benefits from the upfront payments.
+
+### Usage based pricing: how to make it work
+
+#### Align overall commercial strategy with usage-based pricing
+
+*   Match the go-to-market motion. Usage-based pricing pairs very well with product-led-growth or community-led growth. These go-to-market motions feature the self-serve purchasing, easy onboarding, self-serve upsell and focus on customer success that make usage-based pricing effective.
+*   Usage-based pricing makes it easier to serve customers at a very wide range of ARPA levels, but that doesn’t mean a product is “best-fit” for all of those very different customers. The exact same product often has a challenge serving enterprises and SMEs equally well. Be realistic about the target customer where the product wins, where it loses, and where it has room to expand. Focus commercial teams efforts accordingly.
+*   One of the allures of usage-based pricing is the high net revenue retention. But this is contingent on attracting customers with high revenue potential and not solely SMEs.
+*   What goes up can come down. The ease of upsell that drives high net revenue retention can also portend high downsell or churn. Be obsessively focused on customers and keeping high customer satisfaction in your core customer segment. Be obsessively focused on building out product features that increase stickiness.
+
+#### Get the teams ready
+
+*   Product usage data needs to be widely and easily accessible. Your data team can help expose this information to the whole team. These solutions are no longer necessarily bespoke: more and more SaaS products are now available to support customer success teams and finance teams working with usage-based pricing products.
+*   The role of sales and customer success teams change. For sales teams who close new accounts, the mental model is no longer primarily targeting the highest initial upfront price, but also targeting the customer who will expand the most over time. Sales compensation models should respond to incentivize this behavior. Customer success, meanwhile, becomes a more commercial function and may sometimes be broken out as customer development.
+*   The finance team needs new methods to forecast revenue and bill customers. This is especially critical if product usage is seasonal, or upsell patterns are unpredictable.
+
+#### Spend time designing the pricing model
+
+*   Don’t set the price too low. The customers who are highly price-sensitive are probably not the customers who will scale to the most valuable accounts. Whereas a too low initial per unit price can form a low price anchor for customers who could scale.
+*   Don’t expect a single price per unit to be sufficient to complete your price model. Per-unit willingness-to-pay is not necessarily the same for SMEs and multinational enterprises. When scaling up-market, enterprises might not use as many units as their overall willingness-to-pay would indicate. Adding a fee to access enterprise features, or shifting the per-unit-price to reflect this access can raise prices for this tier.
+
+#### Finally, follow best practices to implement new pricing
+
+*   Communicate pricing changes to customers who will be affected to limit surprises. Test the pricing model before full-scale rollout.
+
+Usage-based pricing is here to stay. But it’s not necessarily right for all companies, products or segments. Looking forward to 2023’s economic landscape full of budget-conscious buyers, for companies where usage-based pricing makes sense, it’s worth thinking through how to maximize the chances of success with usage-based pricing through smart commercial policies and carefully designed rollouts.
+
+Intrigued? Want to discuss usage-based pricing more? Please get in touch: [iba@oxx.vc](mailto:iba@oxx.vc)

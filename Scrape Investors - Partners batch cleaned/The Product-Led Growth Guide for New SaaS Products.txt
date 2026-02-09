@@ -1,0 +1,331 @@
+# The Product-Led Growth Guide for New SaaS Products
+
+The product-led movement is just getting started. There are still so many workflows and processes that smart product-led entrepreneurs can reinvent. Outdated software is being cast aside for customer-centric SaaS. And even SaaS categories that were disrupted in the early 2000s are now being overshadowed by next-generation SaaS companies. 
+
+But what is product-led growth and how can you build a new SaaS product that maximizes this strategy and profit potential?
+
+![what is product led growth quote](https://devsquad-website.s3.us-east-1.amazonaws.com/uploads/2021/11/devsquad_infographic_the-product-led-growth-guide-for-new-saas-products_1.jpg)
+
+## **What is product-led growth?**
+
+Product-led growth is a strategy that has your SaaS product doing the heavy lifting when it comes to marketing and sales. Say goodby to old-school buying processes. Rather than having a sales team reach out to a qualified lead and offer a demo, a potential end-user can sign up for your product, test it out, and then decide for themselves if they want to upgrade. 
+
+![product led growth comparison to old way of marketing from product led institute](https://devsquad-website.s3.us-east-1.amazonaws.com/uploads/2021/11/product-led-growth.png)Source: [**Product Led**](https://productled.com/)
+
+This puts the end-user in the driver’s seat. They discover the tool, achieve value from it, and determine if it fits their needs and if it is worth the price. 
+
+In practice, these are the top product-led growth models:
+
+*   **Freemium (free forever plan)**: Most product-led growth success stories rely on a freemium model to bring a high amount of new users each and every day. The company might convert 1 - 10% of these free users into paying customers. The rest will stay on the free plan, but will continue to share the product via word-of-mouth or shareable links (such as a document, design, or appointment scheduling link). So even if these users don’t convert to paying customers, they still hold value for the business because they’re part of an ever-growing base for referral marketing. 
+    
+
+*   **Free trial of a paid plan**: Most product-led companies also offer a free trial of a paid plan, whether or not they have a free forever plan. By allowing end-users to test the product for 7 to 30 days, the company can avoid expensive and time-consuming sales processes. Instead, the user can try the product and enter their credit card information themselves. Or, only once they’ve interacted with the product extensively (and become a product-qualified lead), will the sales team follow up to encourage them to convert to a customer. 
+    
+
+![tweet explaining product led growth](https://devsquad-website.s3.us-east-1.amazonaws.com/uploads/2021/11/plg-tweet.png)**What is a product-led growth strategy?** 
+
+A PLG strategy is a well-defined plan that lays the groundwork for becoming a product-led business. The plan will state how you’ll develop your product to sell itself and attract users with minimal sales or marketing efforts. Most PLG strategies prioritize developing SaaS products to be user-friendly, intuitive, and valuable so users can easily sign up and start experiencing value.
+
+The product's user-friendliness and high value will drive users to share it with others, leading to organic marketing through referrals and word-of-mouth. For example, anyone can easily open a free Gmail account, use its features, and have access to other Google Workspace tools. Every time you email a non-Gmail user, it’s free marketing for the brand. Also, Gmail’s self-service lets you upgrade to a paid plan at any time to access more storage space and custom domains for email addresses.
+
+## **The history of product-led growth**
+
+Product-led growth is a trend that can’t be separated from the increasing [**consumerization of business software**](https://www.techrepublic.com/article/a-new-mindset-consumerization-and-enterprise-software/) or the rise in internet connectivity and device ownership. Decades ago, software was purchased for the organization by the Chief Information Officer or the Chief Technology Officer. This IT leader would select software and roll it out to employees. But now, employees have access to the internet everywhere they go. They research their own problems and find their own solutions. 
+
+*   **Selling to the CIO / CTO**: In the 80s and 90s, the start of the software industry, products were licensed by the head of IT and then distributed to users throughout the company. 
+    
+
+*   **Selling to the department leader**: In the 2000s, virtualization caused the decentralization of data. Data was no longer stored in on-premise data centers, but rather in the cloud. It because easier for executives to choose, purchase, and roll-out cloud-based SaaS products all on their own, with no help from IT. 
+    
+
+*   **Selling to the end-user**: The shift to the end-user has been caused by increasingly easier sign-up and buying processes, as well as the massive growth of content marketing which has allowed users to discover solutions on their own. This is a natural progression of selling to executives. Now, end-users pick their favorite tools, and executives and IT leaders have to make sure that the company isn’t paying for overlapping functionality and that all data sources are integrated. Rather than choosing software, leaders now have to control end-user choices. 
+    
+
+## **Why product-led growth is on the rise**
+
+Product-led growth is all about getting to the end-user. Once the end-user is a champion of the product, they can convince budget owners to buy it, and the sales team doesn’t have to do that work. 
+
+Software sales and marketing is incredibly expensive. Google Ads PPC can be $20 - $80 per click for software-related keyphrases. The best marketers and sales representatives expect salaries of $100,000 and above. 
+
+Product-led growth allows SaaS companies to get to $1 million to $5 million in annual recurring revenue (ARR) before hiring large teams. This allows tech companies to have a high [**revenue-per-employee**](https://priceonomics.com/what-company-has-the-fastest-growing-revenue-per/) (RPE), with some product-led growth success stories boasting an RPE of $150,000 to $500,000.
+
+![](https://devsquad-website.s3.us-east-1.amazonaws.com/uploads/2021/11/the-sales-motions.png)
+
+Here’s what James Gross of Variance has to say about the different [**forms of selling**](https://www.variance.com/posts/the-sales-motions):
+
+*   **Founder-led ($0 - $5M)**: In the early days, founders have to sell their products through cold email and demos, because they don’t have enough brand awareness for meaningful product-led growth. 
+    
+
+*   **Product-led ($1M - $40M)**: Through marketing, word-of-mouth, and a great product with [**product-market fit**](https://devsquad.com/blog/product-market-fit), SaaS founders can start to get recurring leads through free trials and freemium signups. 
+    
+
+*   **Enterprise sales ($5M - $1B+)**: With product-led growth offering a steady stream of SMB leads, it’s now time for enterprise sales teams to use account-based marketing and go after bigger clients.
+    
+
+*   **Customer success sales ($100M - $1B+)**: Now, customer success teams can increase the revenue of each customer by exposing them to additional products and services that fit their needs. 
+    
+
+## **The 4 pillars of product-led growth** 
+
+The pillars of product-led growth provide the fundamental principles to follow to create an effective PLG strategy. A PLG strategy not built on these pillars is less likely to deliver a product that drives customer acquisition, conversion, and expansion. Here are the principal pillars of PLG:
+
+![pillars of product led growth](https://devsquad-website.s3.us-east-1.amazonaws.com/devsquad_blog_how-to-know-if-plg-is-right-for-your-product_infographic-2.jpg)
+
+### **Pillar 1: Product design must prioritize the end user**
+
+You don’t build SaaS products for yourself. You build them for your end users, and users won’t buy or care about your product if it doesn’t meet their expectations or needs. As such, it is prudent to design your product to satisfy your end users’ identified expectations and needs. The best way to accomplish this is through comprehensive user research that reveals your target user’s pain points, preferences, and purchasing behaviors.
+
+Understanding who you serve and what they want equips you to build a product that can sell itself to your target users, which is the whole point of PLG. So, listen to your target users and prioritize designing your product to solve their stated problems and deliver value quickly. Take your user-centric SaaS development a step further by personalizing your product to provide solutions to users in their preferred way. For example, [a significant number of users prefer accessing SaaS products via mobile devices](https://www.forbes.com/sites/forbestechcouncil/2021/05/12/three-reasons-every-saas-company-should-have-a-quality-mobile-app/?sh=2e43947ab8af).
+
+### **Pillar 2: Place value delivery over profit**
+
+The point of a PLG strategy is users try your product, they like it because they experience value, and then they buy. If your product fails to deliver value, it won’t convert users into paying customers and won’t generate positive buzz to attract fresh prospects. So, instead of prioritizing profiting from your SaaS product as soon as possible, prioritize delivering as much value as possible within the shortest time.
+
+Users are more likely to upgrade to paying customers if they find your product valuable during the free trial or freemium stage. But if you prioritize profit, such as by putting a paywall before product access, you will delay user access to value, increasing the likelihood of churn. In summary, prioritize fast value delivery over profit to generate sales and boost your customer base.
+
+### **Pillar 3: Choose a self-service model**
+
+Traditional strategies, such as sales-led growth, rely on sales teams to convince users to buy your product. A PLG strategy, on the other hand, reduces user interaction with sales and marketing teams. Instead, users hear about your product and self-sign-up to try it. Such users can sign up for a no-risk, free trial or a freemium plan that lets them test drive your product. The customers who get value and love the free experience will convert into paying customers.
+
+The process works only if users can find, sign up, onboard, and start using your product with minimal friction. As such, eliminate barriers to entry that may frustrate the signup process, such as lengthy signup forms or mandatory provision of credit card details. Also, your product should be as intuitive as possible so users can test drive it, experience value, and upgrade to a paid plan without needing assistance.
+
+### **Pillar 4: Set up a viral loop**
+
+As we’ve pointed out, a PLG strategy allows your product to sell itself. It’s easier for a product to sell itself if it delivers value quickly. However, your product can attract more customers if it can go viral. Make your product go viral by encouraging existing users to invite more people to try your product. There are several ways to do this, and the most effective tactics involve referral programs, social sharing, and collaboration tools.
+
+Referral programs (such as offering users discounts or rewards for each new user they bring) turn existing users into sales reps that boost your product’s visibility. The same thing happens with social sharing, such as social media campaigns that drive users to hop on trends that boost your brand visibility.
+
+Lastly, adding collaboration tools to your product allows existing users to invite others to work with them with your product. For example, StoryChief lets you invite people to collaborate on content creation, and these invitees can become active users. In summary, viral loops that attract new users can boost your customer base through word-of-mouth and network effects.
+
+## **The business benefits of product-led growth**
+
+Why should your SaaS company adopt a product-led growth strategy? These key benefits are reason enough. 
+
+### **1\. Creates a flywheel where the product does most of the marketing and sales**
+
+When you have excellent product-market fit, your product will sell itself. Of course, you’ll still need to do content marketing, PR, and paid advertising, but you’ll be able to create a flywheel of referral marketing as more and more people use your product (either for free or paid) and tell others about it. Because you offer a free trial or free access, users can hop in and become a lead without having to interact with anyone on your team. 
+
+You can divert more of your budget towards building a great product and less on marketing and sales. This will put you in a stronger position against your competitors. 
+
+### **2\. Higher revenue per employee**
+
+Adopting a PLG strategy also gives you the chance to experience higher revenue per employee. That’s because you’ll have a massive base of free and paid users who can refer your product to others. With smaller sales and marketing teams come higher RPE rates. 
+
+### **3\. Increased customer satisfaction and retention**
+
+PLG companies invest the most amount of money into their product as possible. A great product comes above all else. That’s very different from companies that build a so-so product and then rely on great salespeople to drive revenue. When sales is doing the heavy lifting but your product isn’t great, you’ll have people cancelling as soon as their contract expires. You won’t have the opportunity to increase your customer lifetime value (CLV). 
+
+But with an amazing product, you’ll experience higher rates of customer satisfaction and retention. 
+
+### **4\. Customer-centric relationships that are hard for competitors to replicate**
+
+What’s more, a customer-centric organization can build a very deep bond with its customers that will be hard for competitors to follow, even if they build the same features as you do. Because you’re listening to your customers and implementing their feedback, customers will feel a stronger pull to your brand and will want to continue the relationship. User behavior should be the primary driver of innovation and success. 
+
+[**DesignFiles**](http://designfiles.co/) does this well. They regularly take product feedback from their customers and do a great job of announcing and explaining their new features. 
+
+![example of the CEO as the face of the company for improved customer relationships](https://devsquad-website.s3.us-east-1.amazonaws.com/uploads/2021/11/sheilah-design-files.png)
+
+Competitors might copy those features, but they can never copy the relationship that the CEO of DesignFiles has with their customer base of solo interior designers and small firms. 
+
+## ![steps for building product led growth into your saas product](https://devsquad-website.s3.us-east-1.amazonaws.com/uploads/2021/11/devsquad_infographic_the-product-led-growth-guide-for-new-saas-products_2.jpg)How does product-led growth reduce customer acquisition costs? 
+
+[Customer acquisition cost (CAC)](https://www.gainsight.com/blog/acquiring-customers-isnt-enough-heres-why-you-need-to-focus-on-retention/#:~:text=Customer%20Acquisition%20Cost%20\(CAC\)%3A,maintain%20it%2C%20and%20increase%20it.) reveals how much you spend to acquire new customers. Reducing this expense can boost your company's profitability by minimizing operating costs, such as marketing costs. Here are some of the ways a PLG strategy effectively lowers CAC for SaaS businesses.
+
+### **1.** **Attracts qualified leads**
+
+Many marketing strategies, especially TV and billboard ads, target everybody with the hope that target users among the audience see the promotional content and convert. Such marketing strategies are wildly expensive and generate mostly unqualified leads due to poor targeting.
+
+For example, you can tailor a Facebook ad to target specific users. However, not everyone who clicks the ad will be a qualified lead, and you have to pay for every ad click. Paying for unqualified leads is costly with no returns on investment. A PLG strategy, on the other hand, generates mostly qualified leads because only people interested in your product will sign up for your free trial or freemium plan. Such users are more likely to upgrade to paid plans, especially if they experience value.
+
+Since a PLG strategy attracts more qualified leads, you can avoid the cost of dealing with unqualified leads that consume resources and generate no ROI. In summary, outreach efforts for a PLG strategy will target only people who want your product, preventing wasting marketing funds on uninterested customers.
+
+### **2.** **Generates revenue from existing customers**
+
+A product-led strategy aims to boost user experience and deliver value. Happy customers receiving impressive value are less likely to churn, increasing customer retention. Businesses with low customer retention spend more to acquire new customers and replace lost customers so they can remain profitable. [Acquiring new customers is 5x more costly](https://www.optimove.com/resources/learning-center/customer-acquisition-vs-retention-costs#:~:text=Data%20shows%20the,have%20already%20captured.) than retaining existing customers, and a [5% increase in retention can increase profits by a minimum of 25%.](https://blog.hubspot.com/service/customer-retention#:~:text=It%27s%20also%20easier%20and%20more%20cost%2Deffective%20to%20retain%20customers%20than%20to%20acquire%20new%20ones%2C%20returning%20customers%20spend%20more%20and%20buy%20more%20often%2C%20and%20refer%20friends%20and%20family.%20Only%20a%205%25%2)
+
+### **3.** **Reduces marketing costs**
+
+The opposite of product-led growth is sales-led growth. A sales-led growth strategy relies on traditional sales and marketing efforts to generate leads and close deals. Whether your marketing strategy involves TV, newspaper, social media, or content marketing campaigns, it’ll still cost more than a product promoting itself under a PLG strategy. This is because you have to pay marketers, content creators, and platforms to run your ad campaigns.
+
+A PLG strategy reduces your reliance on such costly campaigns to promote your product. Instead, your customers become your marketers via word of mouth and referrals. Besides being more effective than traditional marketing, [recommendations from happy customers cost far less](https://smallbusiness.chron.com/commercials-vs-word-mouth-marketing-783.html#:~:text=Commercials%20cost%20the,you%20a%20dime.). In summary, product-led growth promotes your SaaS product organically, minimizing your need to spend on traditional marketing efforts.
+
+## **How to build a new SaaS product that guarantees product-led growth**
+
+So how do you capitalize on the opportunity that comes with PLG? Although this strategy is incredibly effective, that doesn’t mean it is easy. 
+
+You need to make sure that you have a strong handle on all of the following:
+
+### **1\. Solve a real pain point**
+
+Firstly, your product needs to solve an important pain point. One that is time-consuming, or expensive, or difficult to solve. One whose solution is worth paying for. 
+
+Without a product that is 5X to 10X better than direct competitors (other SaaS) or indirect competitors (manual work or unoptimized processes and tools), you will not be able to create a flywheel of hungry users for your product. 
+
+### **2\. Offer a free plan or free trial**
+
+You also need to offer a free plan or a free trial of a paid plan. You can also offer both. If your product is costly and complex, you’ll likely need enterprise sales. However, you can still offer a free trial or a very simple free plan so that users can sign up and explore your product. With the current environment of user-led sales, you will suffer if you only offer a demo request. By allowing the user to play with the product, you’ll increase the likelihood of them wanting to sit through a demo to learn more about the advanced features and calculate their potential ROI. 
+
+### **3\. Make it easy for people to sign up** 
+
+It’s so important to make it easy for people to sign up, whether that is for your free plan or your free trial. Continually test your sign-up flow to remove as much friction as possible. For example, with [**Weet**](https://app.weet.co/login), you can use your credentials for Google, Microsoft, or Apple to start a new account. 
+
+![](https://devsquad-website.s3.us-east-1.amazonaws.com/uploads/2021/11/weet.png)
+
+To get inspiration, check out the sign-up flows of the product-led growth examples in the section below. Even if it seems like your process is easy, remember that it can always get easier. 
+
+### **4\. Ensure users see value before being asked to pay**
+
+Before being asked to pay (or being asked to hop on a live demo), your users should be able to experience some value. The moment that they first achieve value is referred to as the “Aha moment.” For the companies with the greatest success from PLG, this moment is quick and easy to achieve. For example, when you create a screensharing video with Loom and send it to a colleague, that only takes a couple of minutes to get to the Aha moment. 
+
+For more complex products that require integration with your existing tech stack or multiple users to be onboarded, it can take much longer to achieve value. You will likely still need to sell from a demo, but you might be able to showcase some of the value they will receive before asking them to chat with you. For example, you could show a mock analytics report or achieve value for the main user role only. 
+
+### **5\. Hire sales after product validation**
+
+With all of the above well underway, it’s then time to hire a sales team that can help scale your reach and take your company upmarket. You might create a larger plan or custom plans to help you sell to larger enterprises and organizations. 
+
+## **How to know if PLG is right for your product**
+
+A PLG strategy can be beneficial, but it’s not suitable for every SaaS business. For example, SaaS companies that offer complicated products can’t have a self-service model. Instead, they have to hold a customer’s hand to onboard and use their products. Without self-service, you can’t be a truly PLG company.
+
+Product-led growth is suitable for your company if you offer an intuitive and easy-to-use product that solves customer problems quickly. The user-friendliness ensures customers can sign up, onboard, and use your product to experience value without assistance. So, if your product users can’t realize value fast and without help, PLG may not be a good fit for your SaaS company.
+
+![how to know if PLG is right for your product, vetting criteria infographic](https://devsquad-website.s3.us-east-1.amazonaws.com/devsquad_blog_how-to-know-if-plg-is-right-for-your-product_infographic-1.jpg)
+
+Other product features that indicate PLG may be for your company are:
+
+*   **Virality**: A product can sell itself only if people know about it. So, being a successful PLG company is more likely if your product can go viral and generate widespread brand awareness. Virality supercharges a product’s ability to sell itself because more people will hear about it, generating more prospective customers.
+    
+*   **Clear value proposition**: Your SaaS product will be more attractive and likely to go viral if it has a compelling unique value proposition (UVP) that users can quickly understand and appreciate. The UVP is what separates your product from competitors and makes it worth buying. So, if your product has a clear and unignorable UVP, it will have an easier time attracting and converting prospects.
+    
+*   **Product-market fit**: Before switching to a PLG strategy, verify that your product fits your target market. Product-market fit means your target users have an actual need for your product, and your product can solve target user problems. Without product-market fit, your PLG strategy is unlikely to succeed because customers will ignore the product.
+    
+*   **Scalability**: Your product should be easily scalable, meaning it should be able to adapt to satisfy users as your customer base grows. Scalability is crucial because a PLG strategy aims to grow a customer base. If you lack the resources to keep up with user needs as your customer base grows, customers will experience product performance issues that may trigger churn.
+    
+
+## **Popular examples of product-led companies**
+
+When you study product-led companies, you can learn a lot about their user sign-up flow, how they prompt free users to upgrade, and how they use product marketing to clarify their features. 
+
+Check out the popular examples: 
+
+### **1\. Loom**
+
+![](https://devsquad-website.s3.us-east-1.amazonaws.com/uploads/2021/11/loom.png)
+
+[**Loom**](http://loom.com/) is a tool for sending audio and video recordings with an easy-to-share unique link. Amidst a landscape of on-premise screensharing software that required uploading and downloading, the tool grew extremely quickly the past couple of years. Because the recordings are shareable, the company not only had product-led growth on its side but also the power of virality. 
+
+### **2\. Slack**
+
+![](https://devsquad-website.s3.us-east-1.amazonaws.com/uploads/2021/11/slack.png)
+
+[**Slack**](https://slack.com/) is known for replacing email with chat-style channels. With its popular free plan, it allowed small businesses and teams to try it out before upgrading. The company is one of the most successful B2B SaaS applications in the world. 
+
+### **3\. Calendly**
+
+![](https://devsquad-website.s3.us-east-1.amazonaws.com/uploads/2021/11/calendly.png)
+
+As one of the most popular appointment booking tools, [**Calendly**](http://calendly.com/) is another great example of product-led growth done right. Like Loom, it also has built-in virality because when paying users send it to their colleagues and clients to book an appointment, that person is also exposed to the tool and might decide to use it in their professional life as well. 
+
+### **4\. Shopify**
+
+![Shopify](https://devsquad-website.s3.us-east-1.amazonaws.com/uploads/2021/11/shopify.png)
+
+[**Shopify**](http://shopify.com/) is another stand-out success. Unlike many product-led companies, Shopify doesn’t offer a free plan. But with their free trial, users can see just how easy it is to setup an ecommerce store. Without Shopify, they’ll have to do a lot of custom coding and plugin wrangling. If your product is more complex, Shopify’s free trial conversion workflow would be a smart example for you to study. You can see how they encourage users to do some initial setup, even if they don’t build out their entire store in the 14-day window. 
+
+## **Lesser known-examples of product-led companies**
+
+Of course, there are hundreds of product-led companies that aren’t famous. Check out these other examples of less popular companies. 
+
+### **1\. SafeBase**
+
+![](https://devsquad-website.s3.us-east-1.amazonaws.com/uploads/2021/11/safebase.png)
+
+[**SafeBase**](http://safebase.io/) is a platform that helps sales representatives, security engineers, and buyers save time during the buying process. When it’s time to vet a SaaS product’s security features, a buyer can visit their portal, sign the NDA, and see the security details. SabeBase’s website offers a user-driven buying experience, where users can sign up and explore the product for free. Then, when they’re ready, they can book a demo. 
+
+### **2\. Frase**
+
+![](https://devsquad-website.s3.us-east-1.amazonaws.com/uploads/2021/11/frase.png)
+
+[**Frase**](https://www.frase.io/) offers its trial for just $1. You might test this strategy for yourself if you have great testimonials and case studies. While not completely free, this method is close to free and also allows you to capture credit card information up front. This strategy is best for professional users, but not for very small business and solopreneur use cases. 
+
+### **3\. HoneyBook**
+
+![](https://devsquad-website.s3.us-east-1.amazonaws.com/uploads/2021/11/honeybook.png)
+
+[**HoneyBook**](http://honeybook.com/) is a platform that photographers, designers, and other freelancers use to send invoices, sign contracts, collect payments, and manage projects and tasks. The company offers a free trial so people can see how easy it is to use and how the monthly fee easily pays for itself with the time-savings that users will achieve. 
+
+### **4\. DesignFiles**
+
+![](https://devsquad-website.s3.us-east-1.amazonaws.com/uploads/2021/11/designfiles.png)
+
+Not every free trial is time-based. Some of them are activity-based. [**DesignFiles**](https://designfiles.co/) is a great example of this. The free plan can be used for up to one client project at a time. When they’re ready to manage more client projects, then the interior designer needs to upgrade. This free trial allows the designer to use all of the design, business management, and project management features before signing up as a paying user. 
+
+![](https://devsquad-website.s3.us-east-1.amazonaws.com/uploads/2021/11/devsquad_infographic_the_product-led_growth_guide_for_new_saas_products_complete.jpg)
+
+## **How to measure product-led growth**
+
+The best product-led companies are bullish on metrics. They continually measure, test, and optimize. Here are the top metrics for understanding and improving your product-led growth strategy. 
+
+### **1\. Conversion rate for free trials**
+
+You should know your conversion rate for free trials. You can measure this conversion rate for every page and blog post on your website. You’ll also want to measure this for various channels, such as direct traffic, SEO, and PPC. 
+
+### **2\. Conversion rate for free plan sign-ups**
+
+If freemium is your main PLG strategy, then you need to measure the conversion rate for your free plan sign-ups from various channels. 
+
+### **3\. Funnel drop-off**
+
+What is your funnel drop-off? You can use a product analytics tool like [**Mixpanel**](https://mixpanel.com/) to measure every stage of your conversion funnel and the drop-off rates. 
+
+### **4\. Product qualified leads (PQL)**
+
+For product-led companies, product qualified leads are a better north star than marketing qualified leads or sales qualified leads. A product qualified lead is someone who has interacted with your product enough as a free user to show that they have interest in converting. 
+
+![](https://devsquad-website.s3.us-east-1.amazonaws.com/uploads/2021/11/product-qualified-leads.png)
+
+### **5\. Cost per sign-up**
+
+You need to measure your cost per sign-up for every channel. For organic marketing, this can be difficult to measure, while for paid advertising it is more cut and dry.
+
+### **6\. Cost per PQL**
+
+Of course, sign-ups aren’t everything. That’s why you also need to measure how much you are paying for each product qualified lead. This can help you optimize the various marketing channels that you use. This metric also provides data for optimizing your onboarding tours and emails. 
+
+### **7\. Cost per customer (CPC)**
+
+Cost per customer is a very important metric for ensuring that you can sustain your growth and achieve profitability, or remain profitable. You’ll want your customer lifetime value to be 3X to 5X your customer acquisition cost. 
+
+### **8\. Net dollar retention (NDR)**
+
+Net dollar retention is another popular SaaS metric. It measures how much your revenue is growing, regardless of how many new customers you get, and it reflects the ability to grow through customer success sales and upgrades. 
+
+Here’s an [**example calculation**](https://paddle.com/blog/net-dollar-retention/):
+
+> **_($500,000 in recurring revenue + $100,000 in upgrades from existing customers - $30,000 in downgrades - $10,000 in cancellations) / $500,000 x 100 = 112% NDR_**
+
+Most successful SaaS companies should have an NDR between 105 and 120%. 
+
+### **9\. Revenue per employee (RPE)**
+
+SaaS companies also enjoy a higher revenue per employee compared to other industries, and PLG companies tend to be at the top. Your revenue per employee should be at least $100,000, with some companies experiencing $500,000 or more RPE. 
+
+### **10\. Customer lifetime value (CLV)**
+
+Customer lifetime value allows you to measure the average amount that your customers spend with you. To calculate this, most companies average the amount spent over a period of 5 years. 
+
+## **Why having a product manager is essential at any stage of business**
+
+When building a product-led company, you can wait to hire marketers and salespeople. However, you can’t wait to hire a product manager. 
+
+Product managers interact with users and customers on a weekly basis through research interviews, surveys, and user testing. They use this information to guide the development of the product. Without a great product manager on your product team, it will be extremely difficult to build a product so good that it practically sells itself. 
+
+## **How to outsource product-led development** 
+
+When outsourcing development for a new SaaS product, you need to ensure that the [**software development agency**](https://devsquad.com/blog/software-development-agencies) understands product-led growth strategy. Most importantly, the agency should include a product manager who will interface with users and customers. Otherwise, you might not build a product that people actually need. 
+
+## **Ready to build an amazing product?** 
+
+Get a complete squad with DevSquad. Talented developers, a product manager, a UX designer, QA testers, and a DevOps engineer. All in one monthly subscription. 
+
+[**_Learn more about DevSquad._**](https://devsquad.com/)

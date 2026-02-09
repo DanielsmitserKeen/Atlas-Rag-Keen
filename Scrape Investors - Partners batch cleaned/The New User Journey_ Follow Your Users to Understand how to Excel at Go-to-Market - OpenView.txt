@@ -1,0 +1,197 @@
+# The New User Journey: Follow Your Users to Understand how to Excel at Go-to-Market
+
+_This blog post was originally published in January 2022 and updated in June 2022 with new data._ 
+
+Product-led growth (PLG) is an end-user-focused growth model that relies on the product as the primary driver of customer acquisition, conversion, and expansion. Workers have shifted from working in defined workplaces to working on-the-go, and they seek to buy and use software on their own terms. [Now, anyone can discover software](https://openviewpartners.com/blog/age-of-connected-work/). This means that the product is doing some of the heavy-lifting that used to belong to marketing and sales and giving them new areas of focus. 
+
+This also means that the typical go-to-market playbook SaaS experts used to follow (below) isn’t as relevant as it used to be. Why? Because it assumes that prospective customers will only encounter the product with a sales or customer success representative alongside them. Since users now expect to discover, try, and buy products on their own terms, the standard “sales funnel” is no longer accurate. 
+
+![New sales funnel based on PLG model](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif "New sales funnel based on PLG model")
+
+Based on interviews with B2B SaaS experts who have built and scaled product-led businesses, we designed a new user journey. It consists of five stages, but like any good epic, it starts in the middle and then moves backward. We will touch on each stage and its importance for founders in this article:
+
+![OpenView's New User Journey Model](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif "OpenView's New User Journey Model")
+
+*   **Discover**: this is the step in the users’ journey where they first hear about or encounter your product
+*   **Start**: the step where a user decides to sign up and get started
+*   **Activate**: the “aha” moment when the user uncovers reasons to keep using the product
+*   **Convert**: what we’re all after–when a user trades money for the value your product offers
+*   **Scale**: how to keep users happy and capture more value
+
+## How this framework can help you build your PLG business
+
+**It’s most important to note that this framework is a user journey—not a customer journey.** For most PLG businesses, everyone starts out as a user of the product, and a small subset of those users eventually become paying customers. It’s important to focus on those users who become customers from the beginning because their usage of the product, and where they fall off in this user journey, will help you prioritize where your team spends the most time and resources to convert at the highest rate. 
+
+As with anything, frameworks aren’t universal. While this framework is a practical guide, innovation and creativity is the key to growing a product-led business and keeping users engaged.
+
+The New User Journey is made up of five steps that follow how a user finds, decides to use, discovers value, pays for, and scales usage of your product. 
+
+## The hardest part of building a product-led business? Getting users. 
+
+At this point, it’s a trope—”If you build it, they will come.” Right? Crickets. 
+
+Hundreds (maybe thousands) of founders out there have built a beautiful product that solves a challenging problem in a new and sophisticated way. The problem is, no one knows about it. Sure, you can launch it on Product Hunt, to friends, to a few hand-selected influencers in your space, but that’s how you build a lifestyle business, not a large and enduring company. 
+
+You need marketing, right? Hard to know. The type of marketing you’re used to is too sales-y, or maybe you experimented with a few things and they didn’t work. At this part of your journey as a founder, you might feel like you’re plateauing—but you need user growth in order to understand what to build next in your product. What a pickle.
+
+## Discover: How users find your product
+
+Discovery is how users find your product. It’s the first step that they encounter, and often top-of-mind for founders in the early days after the product has been built. Discovery for product-led products is interesting because traditional SaaS models don’t typically work, especially in the early days.
+
+Imagine what you’d search for in 2010 to find Slack. How could they have scaled keyword advertising? What type of large-scale industry events would [Calendly](https://calendly.com/) have attended in 2012 in order to get more users? It’s not clear because these approaches just don’t make sense in the New User Journey. 
+
+Here are three ways Discovery happens for product-led tools: 
+
+1.  Organic discovery 
+2.  Drop-in discovery
+3.  Strong need-based discovery
+
+Each of these ways brings in a different type of user into your product and has different tactics associated with them.
+
+Here are some tactics you can use to attract different users:
+
+![OpenView's customer level acquisition tactics](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif "OpenView's customer level acquisition tactics")**Early Adopters**
+
+*   The Elite Approach: Some companies will only offer their services to influencers, or they’ll create a waitlist. A modern example is [Superhuman](https://superhuman.com/), but G Suite used this approach back in the day, too. 
+
+**Viral Use Cases**
+
+*   Exposure Virality: Every time a user interacts with your product in some way, they expose your brand, and they are happy to do it because it makes them look good. An example of this is [Mailchimp](https://mailchimp.com/). 
+*   Collaborative Virality: Users who want external parties to view their work can interact with them and invite them, driving user addition and awareness. Some examples of this are [Slack](https://slack.com/intl/en-pe/) and [Figma](https://www.figma.com/). 
+
+**Solves a Need**
+
+*   Discoverable in Context: Through documentation or support content, users discover the product trying to find a solution for a need. Some examples are [MongoDB](https://www.mongodb.com/) and [snyk](https://snyk.io/). This is covered in-depth in the [Developer Go-To-Market-Playbook](https://offers.openviewpartners.com/developerfocusedgtmplaybook). 
+
+Many businesses spend the majority of their energy on driving discovery of their product, especially in the early days. But without virality and strong organic discoverability, this will continue to be an uphill battle for your team. According to our [2022 Product Benchmarks report](https://openviewpartners.com/2022-product-benchmarks/), standout PLG companies (those with over $30m in ARR) index heavily on product-driven and organic traffic—both channels make up the majority of their average traffic. By leveraging these examples, you can automate organic discovery and focus your efforts on experimenting with new channels to acquire users through other tactics.
+
+## Start: The step in which you discover your users
+
+The Start phase is the bridge that connects the discovery with the usage of the product. This can sometimes be the toughest step of the user journey for early startups to tackle, especially if they don’t invest in design or messaging. [That’s why it’s so important to hire UX early](https://openviewpartners.com/blog/plg-framework/). Messaging makes a difference, too. We found that companies that hire marketing before Sales and Growth tend to see higher web-to-visitor conversion rates. Consider that before you let your product manager design your next website. 
+
+The three levers that drive the likelihood of users to get started with your product are:
+
+1.  Messaging
+2.  Web design
+3.  Brand/Community
+
+The most important metric to measure this step of the journey is the conversion of website visitors to free account sign-ups. [OpenView compiles benchmarks on this metric annually](https://openviewpartners.com/2022-product-benchmarks/), so check out the report if you want to see how your business stacks up. 
+
+Here are some tactics to increase conversions from website visitor to signing up for your product:
+
+1.  **PLG websites revolve around people, not product features.** Users want to know how your product will make them look good. Make sure you’re telling the story of the product from their point of view. 
+2.  **Great websites use an inverted pyramid to tell their story.** The most critical, convincing line of copy that answers, “Why should I try this product?” must go at the very top, otherwise skeptics will bounce. 
+3.  **Show, don’t tell.** When possible, show the product in action using a video or animation that plays on page load and loops. Walls of copy aren’t fun for anyone. 
+4.  **Create FOMO.** Messaging must imply that the most intelligent, most in-the-know people in the industry rely on your product—and if you want to keep up with them, you’ve got to get on board. This can be done with testimonials, tweets, and company logos. 
+
+_**\>> [Are you a PLG imposter?](http://productbenchmarks.com/)**_
+
+## PLG Discovery: More than “going viral”
+
+If you build it, people will unfortunately ignore you. Growth isn’t dumb luck. Great businesses put forth a proactive effort around product discovery even in the early days. Most tactics continue to pay dividends in growth over time. 
+
+Growth is everybody’s job, but it’s helpful to have a quarterback. [Here’s how to find that person.](https://openviewpartners.com/blog/good-growth-leaders-how-to-find/)
+
+## Activation: Delivering on the promised value (MOST IMPORTANT) 
+
+Activation is the moment when your product delivers on the promised value. There’s more than just getting people to sign up for your tool, 40% to 60% of all users who sign up for a free tool never return. Yikes. 
+
+According to [OpenView’s 2021 product benchmarks](https://openviewpartners.com/2022-product-benchmarks), the majority of businesses still don’t measure activation. One of the reasons for this is that activation is specific to the product—it’s not a one-size-fits-all metric, it needs to be created by leveraging product analytics data and user feedback. In fact, we didn’t publish public activation benchmarks until [2022](https://openviewpartners.com/2022-product-benchmarks/), when we felt that we had enough respondents with product-focused activation metrics. Prior to 2022, many responses were merely vanity metrics like DAU, or even worse, just a user’s conversion to paid. 
+
+I vaguely remember reading [Dave McClure’s pirate metrics](https://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version) SlideShare (circa 2007!) when I started a new job at a startup and was struck by his “Activation” metric, that is, the measurement of when visitors have a “happy” experience with the product. 
+
+For many businesses, especially at that time, activation seemed to be secondary since most USERS weren’t having ANY experiences with the product prior to becoming customers. Fast forward to the past few years, where [product-led models](https://openviewpartners.com/blog/what-is-product-led-growth/) have not only emerged, they’ve shown the market that it’s an excellent way to build a software company.
+
+In a product-led motion, that first “happy” experience between a user and a product isn’t just a nice-to-have, it’s crucial. As a result, activation is having a moment.
+
+## The product metric everyone thinks they need but can’t seem to define
+
+Creating an activation metric for your business should be straightforward. If you’re hiring a data scientist for it, you’re probably trying too hard. This simple framework is useful for filtering which actions in your product make sense to use as a metric. 
+
+_Finding your product’s activation:_
+
+1.  Easy to achieve by the average user
+2.  Can be completed relatively quickly
+3.  Predictive of user retention
+4.  Correlated to business performance—improvements to activation should flow through to conversion, expansion, and virality
+
+Once you have a few core actions lined up, see how they score within the framework. We included some example actions below in this table:
+
+![OpenView's Product Activation Chart](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif "OpenView's Product Activation Chart")
+
+After you have an activation metric, that’s where the real work starts. This metric should become a rallying point for your entire team.
+
+![](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+For example, your product team should be interviewing users who have reached activation and identifying the qualitative and quantitative factors that drove them there. Your marketing team should be measuring the success of their campaigns based on how many new users were not only driven to sign up, but also to activate. Finally, customer success and support teams should also be pushing users toward this “aha” moment in their touch points, too. 
+
+## It’s not rocket science
+
+Your product is supposed to be doing the heavy lifting, right? There’s no better way to enable this [natural rate of growth](https://openviewpartners.com/blog/new-saas-metric/) than by identifying and empowering its engine: the value your product provides to users. 
+
+The only thing getting in the way is finding that metric and rallying behind it. The product you’ve built is certainly much more sophisticated, and the problems you’ve solved to get here are much more challenging. Carve out a week or two of your teams’ time to find your activation point, and spend the next six months arranging your business around it. You won’t regret it.
+
+## Convert: Where users exchange money for the value your product provides 
+
+[Because PLG software typically has some sort of freemium, self-serve element, pricing and packaging are some of your biggest growth levers.](https://openviewpartners.com/blog/freemium-pricing-guide/) If it feels easy to set up a paywall for your product, you’re probably forgetting something: Pricing and packaging incorrectly doesn’t just mean leaving money on the table.In the worst case scenario, poorly placed paywalls can inhibit user engagement, growth, and potentially [virality](https://openviewpartners.com/blog/how-to-position-nearly-any-plg-product-for-virality/). 
+
+The lesson? Be very careful when it comes to placing that paywall in your product, and never rest on your laurels. Every time you release a product or feature, you’ll need to consider its place in your monetization strategy.
+
+Conversion is a dance between value, pricing, and understanding how users engage with your product. 
+
+Three drivers for improving users’ conversion into customers are:
+
+1.  **Activation:** The value a user has received
+2.  **Packaging:** Are there strong guardrails that follow the user journey and drive them to pay?
+3.  **Pricing:** Is the product as it is packaged perceived as a good value?
+
+[So how do you combine these 3 key factors into a conversion point](https://openviewpartners.com/blog/how-to-run-pricing-project/)? 
+
+Common hooks to convert users into buyers are:
+
+*   Trials: These timeboxed sessions with the tool drive product use and help create a sense of urgency for users to understand the value of a tool. [In the 2020 Product Benchmarks](https://openviewpartners.com/productbenchmarks/), trials converted better, but didn’t convert as many users over time as free models.  
+*   **Volume of usage**: [Usage-based models](https://openviewpartners.com/blog/usage-based-pricing-resources/) create a free offering for users who have a casual need, but price and package based on increased engagement and success from users. These models also enable pay-as-you-go for users that don’t want a contract and need pricing that scales with their use. With these plans, make it easy to put a card on file and charge for usage every month. 
+*   **Feature-based:** Feature-based plans make the product accessible for everyone to get them engaged, then price up for power users and teams that use deeper features. 
+
+![OpenView's Conversion Points for PLG Companies](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif "OpenView's Conversion Points for PLG Companies")
+
+Keep in mind that sales still plays a crucial role in most self-serve businesses. [Product qualified leads](https://openviewpartners.com/blog/your-guide-to-product-qualified-leads-pqls/) (PQLs) can be a great way to apply sales pressure in freemium and self-serve environments. According to our [2022 Product Benchmarks survey](https://openviewpartners.com/2022-product-benchmarks), organizations that use PQLs see free-to-paid conversion rates that are 20% higher than peers without PQLs. So what happens after you’ve converted a user into a customer?
+
+So what happens after you’ve converted a user into a customer?
+
+> “The beauty of product-led businesses is the growth that comes from retaining paying users indefinitely.” — Sam Richard
+
+## Scale: Keeping users happy and growing your business
+
+Once a user converts to a customer, your work isn’t done. The beauty of product-led businesses is the growth that comes from retaining paying users indefinitely—as well as the pool of engaged users on your freemium plan that could eventually convert. What do you have to do to drive scale?  Provide continuous value AND expand the spend of some customers by providing additional value over time. Everyone likes revenue and usage retention, no one likes churn.
+
+![OpenView's Post-Purchase Graphic](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif "OpenView's Post-Purchase Graphic")
+
+Which of these should your team tackle first? For a product-led business, providing value to all users—even free ones—is key. That doesn’t mean it’s easy. Even standout PLG companies struggle to keep users engaged with their products at a rate about 20%. 
+
+![](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+From a commercial perspective, Blake Bartlett, Partner at OpenView, [explains how terrible bad retention rates can be for a business](https://openviewpartners.com/blog/saas-metrics-cmrr-net-dollar-retention/#.Xny_mxNKjfY), and how strong net dollar retention (NDR) unlocks exponential growth:
+
+*   Improving retention gives you much more leverage on the go-to-market front (you’re fighting against a leaky bucket)
+*   The one-two punch of a growing front-end and a healthy back-end is the magic formula for exponential growth and lots of VC love.
+
+So, how can you level up your retention?
+
+Three tactics to consider are: 
+
+1.  Telemetry
+2.  Onboarding
+3.  Community
+
+![OpenView's Retention Tactics for PLG Based Companies](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif "OpenView's Retention Tactics for PLG Based Companies")
+
+Applying these tactics is unique to each company. However, there are some tremendous present day examples of how these tactics have driven retention for companies such as [HubSpot](https://www.hubspot.com/?__hstc=242637661.324db43055b7e4d3577fb330ac2d3551.1648831908861.1653074658339.1653079452794.167&__hssc=242637661.1.1653079452794&__hsfp=47396950) and [Asana](https://asana.com/). 
+
+[Read more on how to reduce churn here](https://openviewpartners.com/blog/customer-health-assessment/).
+
+## Monetization: More than a paywall and a checkout
+
+In a product-led business, monetization is a company-wide effort, not just a number for sales and marketing teams to hit. The best performing product-led businesses are obsessed with ensuring that their monetization strategy not only enables them to make payroll, but also helps them grow user engagement.
+
+Don’t set-and-forget the tools you use to convert users into customers, or else you’ll be leaving more than money on the table.

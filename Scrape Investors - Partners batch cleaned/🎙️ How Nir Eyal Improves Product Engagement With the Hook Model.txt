@@ -1,0 +1,210 @@
+# 🎙️ How Nir Eyal Improves Product Engagement With the Hook Model
+
+A few weeks back, I spoke to bestselling author [Nir Eyal](https://nirandfar.com/ "Behavioral Design and Time Management by Nir Eyal") for [The Lean B2B Podcast](https://leanb2bbook.com/lean-b2b-podcast/ "The Lean B2B Podcast"). We talked about **product design**, **retention**, **growth**, and how **the Hook Model** can help improve product engagement.
+
+You can watch the full interview below, or access it on [iTunes](https://podcasts.apple.com/ca/podcast/the-lean-b2b-podcast/id1483259406 "The Lean B2B Podcast on iTunes") and [Spotify](https://open.spotify.com/show/7zoFjIZH0Y3cMtcptcwLQP?si=NGki9x6tR3yTa9AVLszRzw "The Lean B2B Podcast on Spotify").
+
+## Interview Transcript
+
+**Etienne Garbugli:** So, my guest today is Nir Eyal, Nir is the bestselling author of [Hooked: How to Build Habit-Forming Products](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788/?tag=book-recommendations-20 "Hooked: How to Build Habit-Forming Products"), and [Indistractable: How to Control your Attention and Choose Your Life](https://www.amazon.com/Indistractable-Control-Your-Attention-Choose/dp/194883653X?tag=book-recommendations-20 "Indistractable: How to Control your Attention and Choose Your Life"), which was published earlier this fall.
+
+Nir’s work focuses on the intersection between psychology, technology, and business. Nir has taught at the Stanford Graduate School of Business, and prior to teaching and writing bestselling books, Nir was the CEO and cofounder of two businesses Ad Nectar and Sunshine Business Development, both of which were acquired here.
+
+Nir, welcome to the podcast.
+
+**Nir Eyal:** Thank you. Great to be here.
+
+**Etienne Garbugli:** Great. So maybe a first question, so maybe at a meta level, why did you decide to explore or move forward the thinking around behavioral design specifically?
+
+**Nir Eyal:** Yeah. So the idea behind behavioral design is that we can use consumer psychology and product design to help people live better lives and help them form good habits.
+
+And so that’s really what Hooked was about. Hooked, what I wanted to do with Hooked was to steal the secrets of companies like Facebook and Instagram and WhatsApp and Slack, and all these companies that are so good at changing user behavior so that we can take these tactics and not just leave them to the big social media companies and the gaming companies, but that we can use the same exact techniques to help people use all of our products.
+
+You know, anyone out there who’s building a product or service. The idea here is that we can use these same exact tactics to help people form good habits with our products and services. So, you know, whether that’s [enterprise software](https://leanb2bbook.com/blog/b2b-startups-should-target-small-medium-businesses-not-enterprises/ "Why B2B Startups Should Target SMBs First, Not Big Enterprises"), whether that’s a financial services software, whether it’s, consumer web or fitness software.
+
+The idea is that we can use the very same tactics that these companies use to make their products so engaging and habit-forming. We can use those same tactics for good.
+
+**Etienne Garbugli:** And as you were doing your research, when you were writing Hooked, did you realize that some of these organizations were already using Hooked-like frameworks within their, their organizations?
+
+**Nir Eyal:** Sure. I mean, that’s where I learned this stuff. You know, these companies were around much before my book came out, and my book took those tactics that I learned. You know, I looked for the commonalities and that’s where the Hook Model came from. This four-step framework that I talk about in my book is directly pulled from the examples of what we see is common to all of these very habit-forming products.
+
+So, it’s the same four steps, whether you’re looking at YouTube or Facebook or, Slack, uh, you know, all sorts of products and services that are designed this way, have these four basic elements of the Hook Model embedded in them.
+
+**Etienne Garbugli:** Okay, great. So, within a company’s lifecycle, let’s say from company formation to growth, and maturity, when do you think is the right time to start really thinking about habit-forming designs and functionalities?
+
+**Nir Eyal:** As soon as possible. So, there’s, there’s two places that my work tends to get used. The first is in the very early ideation paper napkin sketch timeframe when the idea is just germinating and we haven’t committed any code, we haven’t even done any wireframes.
+
+The best time to use the Hook Model is to ask yourself, first and foremost, does your business model even need a habit? Not every product has to be habit-forming, but every product that needs to be habit-forming has to have a hook. And so, if your business model requires people to come back on their own, requires unprompted user engagement, well then you have to understand and design those four steps of the Hook Model.
+
+So, that’s the best place to use this stuff is in the early stages. The other place that I find that a lot of people utilize the Hook Model is, in the later stages when something’s not working. Uh, so many times I’m called the plumber, you know, they call the plumber to stop the leaks. And so many times a company will call me or a venture capitalist will call me and say, we’ve just sunk millions of dollars in this company.
+
+They had amazing growth rates. It looked like everything was going in the right direction, and they acquired all these customers, but then they leaked out, right? We call this a leaky-bucket business; businesses that have high growth, and low retention. And of course, the problem here is that you’re wasting tons of money buying growth, but you can’t buy engagement.
+
+You can’t buy consumer habits. You have to design that into your product. Growth you can always buy, you can just buy a bunch of ads on Google or Facebook or television commercials. Doesn’t really matter. You can buy growth, you cannot buy consumer engagement that has to be designed into the product.
+
+**Etienne Garbugli:** Okay. So, in that case, the trigger would that they’re realizing that there’s a lack of retention based on their expectations and they’re pouring money into the organization without getting the, the engagement that they’re looking for.
+
+**Nir Eyal:** That’s right.
+
+**Etienne Garbugli:** So, how would recommend that a product team or an entrepreneur evaluates how habit-forming their product currently is? So, in that situation, how can they get a clear picture of how habit-forming the product currently is?
+
+**Nir Eyal:** So, that’s where the Hook Model can be a very good diagnostic tool that if you find that consumers are not sticking around, that they’re not being retained in the way that you’d hoped.
+
+Then that’s when you can take out the Hook Model and figure out what part of your user experience is broken. Does it conform to the four basic steps of the Hook Model that we see in all sorts of habit-forming products? That becomes a central question. Now in terms of a metric that you’d want to look at.
+
+You, you, you want to look at the, what the metric I like best. You know, there’s been a lot of debate whether we want to look at MAU over DAU or, you know, there’s all kinds of metrics out there. My favorite metric is to first define what a habituated user looks like, and that’s going to be contextually-specific to your product.
+
+So, if you’re building a social network. A habituated user is probably someone who checks in every day. If you’re building a enterprise software, same thing, right? It’s probably something that needs to be used every day.
+
+Certainly, needs to be used at least once a week. That’s kind of the critical cutoff for a habit-forming product.
+
+And the product isn’t used within a week’s time or less. Very difficult to change a consumer habit. So, we really want to make sure that we define what would a habituated user look like, if you’re building a fitness app, okay, well that’s gotta be, you know, two or three times a week. If you’re building, you know, a marketing automation software or something that maybe it’s a little less frequent.
+
+It depends on what you think should be the regular cadence of someone using that software. So, you define that number and then you want to ask yourself what percentage of your user base is using that product with that level of frequency. And typically, what we see is that 5% or less is a problem.
+
+If 5% or less of your, of your user base is not habituated and your business model requires them to be habituated for your product to succeed, then you probably need to go back to the drawing board in the early stages. Once we start seeing about 5, 10% of the user base, people who come in through the top of the funnel actually stick around and become habituated. Now we can start innovating. We can start, uh, you know, uh, playing with the different parts of the Hook Model to make them better.
+
+But it’s a good chance that we have some fundamental elements in place already.
+
+**Etienne Garbugli:** So, if you’re, you’re looking at the data and you see that it’s either 5 or less, does that tell you something more about whether the expectations are maybe wrong, or that the business just does not have [product-market fit](https://leanb2bbook.com/blog/time-product-market-fit-b2b/ "How Much Time Do You Need to Reach Product-Market Fit in B2B?"), for example?
+
+**Nir Eyal:** Probably doesn’t have product-market fit. So probably, you know, if there’s either, either your Hook Model is horrible, you know, in most cases, when I, when I work with companies. You know, even though the book Hooked sold 250,000 copies, a lot of people still haven’t heard about it. And so, you know, they just think, Oh, well, if I just design a product that is awesome, that’s good enough, right?
+
+If I just give people what they want, then they’ll love it. And of course, that almost never happens. We have to be a bit more deliberate around how we design these products for habit and make sure we have all four elements. So, when I work with a company that is trying to build a product, and yet users aren’t sticking around, right?
+
+They’re leaking out, what I will do is come in with the Hook Model and ask them, okay, what part of the Hooked model is deficient here? Is there not a clear trigger? Have we identified the wrong internal trigger? Is the action easy enough to do? Is there a clear reward, and does it scratch the user’s itch?
+
+And then finally, and probably the most overlooked of the four steps of the Hook Model is are we asking for a user investment that improves the product with use? And so, we can use it as a diagnostic tool. And of course, every single time we do, we always find at least one, if not more, of those four steps of the Hook Model that’s deficient in some way.
+
+**Etienne Garbugli:** And do you have like an idea of like based on the engagement that you do, of which elements tend to be more problematic when you come in?
+
+**Nir Eyal:** It tends to be, it tends to be either the internal trigger, meaning they haven’t figured out what [the customer pain point](https://leanb2bbook.com/blog/how-to-find-your-b2b-prospects-most-painful-business-problems/ "How to Find The Most Painful Company Problems for Your Prospects") really is that occurs with sufficient frequency to form a habit.
+
+Or typically it’s the investment phase is, is, you know, you can get problems in any of the four steps. I mean, I’ve, you know, it’s, it’s, it’s. A pretty even distribution, but I think if, if there’s, if there’s two areas that I tend to see more problems, it’s that either the company hasn’t identified the right internal trigger, the reward isn’t rewarding enough, or they’re not asking for a proper investment.
+
+And many many companies don’t, you know, they forget about this investment phase. They don’t figure out a way to make the product better and better with use. But of course, if you look at every of those, everyone of those products I talked about earlier.
+
+They all have some kind of investment that you put into the product in a form of data, content, followers, reputation, something that improves the product with use. Most companies out there today don’t do that. And it’s a huge, huge missed opportunity.
+
+**Etienne Garbugli:** So, say in that direction, like how would you recommend an entrepreneur or a product team figures out what the right triggers should be for the product?
+
+**Nir Eyal:** Yeah. So, what you want to do is to look for nascent behaviors. So, you know, many times I’ll talk to entrepreneurs, uh, and they’ll, there’ll be bright-eyed and bushy-tailed, and they’ll tell me, you know, ask them the question, how does the user currently solve this problem? And they’ll tell me, no, no, no Nir, you don’t understand.
+
+This problem has never been solved before. There’s nothing like what we have for the market. It’s never been tackled. And they think that’s a good thing. And of course, I’m very skeptical because if you can’t tell me how the customer currently solves the problem, it probably means it isn’t a problem.
+
+And so that’s the, that’s the first step is to ask yourself, how is the customer or the user currently solving this problem? And so why does it need a new solution? And I, don’t mind if the solution is terrible. That’s actually a very good sign. So, if they’re, you know, using Google Docs and stitching together data sources from a bunch of different places and they had to, you know, use Scotch Tape and Bubblegum to figure out their own solution to this problem.
+
+That’s great. That’s a wonderful sign. But many times, when I ask companies, you know, how is the person currently solving this problem? They say, well, we don’t know, but they should, and that’s usually a bad sign. So, that’s how we start looking for these internal triggers. Another technique that came out of the Toyota production system is to ask ourselves [the five why’s](https://leanb2bbook.com/blog/how-to-uncover-why-clients-buy-using-the-five-why-technique/ "How to Uncover Why Clients Buy Using the Five Why Technique"), which is we keep asking why five times until we get to a feeling. Until we get to some kind of emotion that the user is looking to escape, not just the functional needs, but the deep-down emotional needs that they are trying to satiate. Because only when we ask why five times do we open the aperture of a potential solution. So, if you just stop with the functional needs, you know, why does our company, a customer need this?
+
+Oh, because they need to send messages from places, but whatever. It might be like a very, you know, typically teams will, will come up with very functional type needs. You know, this data needs to go over here or whatever it might be. But the aperture is very narrow in terms of what the possible solutions might be when we so narrowly define the problem of why the user needs this.
+
+But when we really back it up and start with an emotion, with an internal trigger, fear, loneliness, uncertainty, fatigue, anxiety. When we back it up all the way back to the emotion. Then the option set for how we can scratch that itch, how we can design for that discomfort opens up and we have much more flexibility and much more opportunity to fix the problem in a creative new way.
+
+**Etienne Garbugli:** But that does mean that there might be multiple answers to the same questions. How do you go about iterating on the effectiveness of the habit-forming loop, like how do you figure out that this is the one we’re trying, then this one might work better?
+
+**Nir Eyal:** Yeah. So, then it becomes an issue of segmentation. So, let’s take the internal trigger of boredom. Okay. If we really get down to it, one of the reasons why we use many products and services is because we are trying to alleviate boredom, we do not like that sensation. That is an uncomfortable internal trigger that drives us to check the news, look at stock prices, sport scores, YouTube, Reddit, Pinterest, all of these things.
+
+Fundamentally, let’s be honest, cater to this uncomfortable, emotional itch, maybe even email for many people. So, even though the internal trigger is the same, how the user scratch that itch might change. So, when you feel bored, maybe you go watch sports on ESPN, but when I feel bored, I read the news and that scratches my itch differently then your itch, even though the itch is the same, it’s boredom.
+
+And so that’s where it comes down to customer segmentation, right? But fundamentally, we have to understand the user’s itch so that we can design the solution and the reward phase, the third step of the hook, the variable reward phase, to make sure that it satiates that particular consumer’s problem.
+
+**Etienne Garbugli:** So, in, in that end, the, the trigger would need to be more precise for the segment that we’re thinking about specifically?
+
+**Nir Eyal:** Well, the the, the internal trigger is the same, but the reward changes. So, the purpose of the variable reward phase is to scratch the user’s itch, but leave them wanting more.
+
+So, if you said, Hey, we have a product that’s going to satiate your boredom. I mean, you wouldn’t say that out loud, but that’s the subtext of, of how you design the product, right? You wouldn’t want to put that on a on a banner ad. But if we have a product that’s all about, you know, come watch sports on our website.
+
+You know, for one person that’s really not going to scratch their itch, but to another person that’s wonderful, that’s incredibly entertaining. So, even though the internal trigger is the same, the reward is different. The way it is satiated might change based on a particular person’s demographic, life experience, interests, all those other things.
+
+**Etienne Garbugli:** So, based on that, how would you make sure that you’re actually making progress as you work with that organization or work on your product?
+
+**Nir Eyal:** Yeah. So, remember we talked about that, the percentage of users of habituated users? So, once we have that North Star metric. Then once we have that North Star metric of what percentage of our user base is habituated, now we change the product and observe what happens per cohort.
+
+So, we make some changes to the product. We improve the Hook Model in some ways. We, you know, work on the external triggers, the internal triggers, the action phase, the variable reward phase, and the investment phase. We tweak the product based on the Hook Model, and then we observe what happens to the cohort of users who are presented with the new, the improved version of our product based on the changes we made.
+
+And then we’re tracking just one number. What happened to that percentage of habituated users? Used to be, we were at 5%. Oh, my goodness. Look with this cohort now we’re at 10% of our user base is habituated. They’re using the product as much as we would expect a habituated user to use it.
+
+**Etienne Garbugli:** And gradually you do have a benchmark where you feel like this would represent a product that is really habit-forming?
+
+**Nir Eyal:** Well, the gold standard, what they saw at Facebook was about 50%. Yeah. But that, we haven’t seen that in a long, long time. It’s very, very rare that you’ll get a product that will be that habit-forming. And of course, it depends on how many users start using your product. And of course, the quality of the users.
+
+You know, if you just spend a lot of money on advertising and people come to your product, but they’re not the right type of users, you might get them to sign up, but they weren’t really great to begin with. But you know, assuming that you’re actually fishing where your consumer, lives right, if you’re actually finding the right type of user, then, then, you know, anything above 5% is a good sign.
+
+**Etienne Garbugli:** Okay. So, you work with and invested in a variety of organizations. How do you typically see the Hooked framework working out in complex B2B or enterprise settings?
+
+**Nir Eyal:** Yeah. So, as long as the product is used habitually, you know, and again, not every product needs to be used habitually. So, for example, let’s say you have some, you know, a software that is only used if something terrible happens.
+
+Let’s say you have some server-side software that, brings all kinds of bells and alarms when something terrible happens.
+
+Yeah. So, that’s not going to be a habit-forming product. That’s something that you don’t need to use. It just runs in the background. So, you need to focus on, on selling it once and then you’re kind of done right until something terrible.
+
+So, you don’t have to create a habit with that kind of product. But you know, increasingly that is the minority of products these days that if you look at the revolution in [bring your own device (BYOD)](https://leanb2bbook.com/blog/is-bottom-up-the-new-standard-to-getting-products-in-the-enterprise/ "Is Bottom Up SaaS the New Way to Get Products in the Enterprise?") and you know, enterprise SaaS software, it is critical that the product is actually used because if people don’t use your product, they, they, they cancel. Right? They [churn out](https://leanb2bbook.com/blog/customer-exit-surveys/ "How to Run Customer Exit Surveys to Improve Product Retention [The Definitive Guide]").
+
+Yeah. And so, it becomes absolutely critical that we get people to use the product in order for them to keep paying us. Now, that’s a very different business model than what used to be the case, right? Pre-Salesforce days when Salesforce said “No software”, it used to be, you know, you buy per seat and then you can use the software as much as you want, but we got paid no matter whether you used it or not.
+
+That business model is becoming increasingly rare in the enterprise these days because today, you know, people want to pay per month, and so if the product isn’t used, eventually the procurement department says, what the hell are we paying all this money for, nobody’s actually using this?
+
+And then of course they, they churn out. So, it’s very important, increasingly important today that whether it’s enterprise and of course in the consumer web space, that your product does create a habit or you’re very likely to find that your customers will stop using your product and stop paying for it.
+
+**Etienne Garbugli:** But if your software, for example, Salesforce is used by different roles, different types of users within the organization, how do you, what do you think are the best ways to kind of figure out, would there be multiple, would you use multiple versions of the Hooked framework or multiple instances of the different hooks that you’d be creating in place?
+
+**Nir Eyal:** Sure. Yeah. If the product does different things for different people, then absolutely. You can modify the different types of hooks per that particular use case. I would argue in the case of Salesforce, Slack, Github, Stack Overflow, all of these things are enterprise products, and, and they all utilize the Hooked model.
+
+**Etienne Garbugli:** That’s interesting. Hmm. So, from your experience with, with teams and businesses, like what are the criteria that drive the successful implementation of the Hooked framework? Like in what circumstances is it most successful?
+
+**Nir Eyal:** It’s, it’s really about frequency. That’s the number one criteria for a product that can succeed or will not succeed with the product, is how often should people use it.
+
+You, you can’t, you can’t make people use a product that doesn’t benefit them. And so, if the, you know, it’s a nice aspiration if you say, Oh, I wish people would use the product more. But if it doesn’t make sense, right? And if it doesn’t, if there isn’t a context with which people should use the product and that it benefits them to use it more often, then, then you, you know, you can’t change that, you fundamentally have to create value for the user.  
+And so, the, the best type of products are the ones that are used with sufficient frequency to form a habit. Those are the right candidates for the Hook Model. Again, if it’s, if it’s a product that’s very rarely used, you don’t need a Hook Model.
+
+You just need to sell it once and then you can walk away. But with a product that needs to be used habitually for the business model to succeed, that’s the kind of product that, that does require habits.
+
+**Etienne Garbugli:** So, there needs to be a certain, a certain potential for usage frequency, but as well we mentioned before, it’s better if you’re beyond product-market fit
+
+**Nir Eyal:** You don’t have to necessarily, I mean, if you use it in the very early days, you’re just using it differently. So, the Hook Model can be used in the very, very early days to help you design the experience itself, right? So, if you’re still in a pencil sketch stage, then it behooves you to, before you spend a lot of money on, on the user experience, or of course committing code, spend some time asking yourself what the Hook Model should be so that you could design that into the product from day one. Because again, you can’t buy engagement. It has to be built in.
+
+But if the product is already out there, and maybe it’s even reached some level of a product-market fit, but you, but you find that the consumer engagement rates are too low and the percentage of habituated users isn’t where you want it to be.
+
+Well now you can use the Hook Model as a diagnostic tool to figure out what’s wrong with your user experience to hopefully improve it.
+
+**Etienne Garbugli:** It’s really interesting having those, those threshold as well. You’re talking about 5% if you’re under that, it gives you a sense of where you should be focusing as opposed to when you’re beyond that. That’s really interesting.
+
+**Nir Eyal:** Yeah, yeah. And that’s, by the way that I have to say as a disclaimer, because I, I want, I want to make sure this is clear. This is just in my personal experience. I haven’t seen any studies that show 5% is the magic number. This is just in my, you know, decade or so of experience in the industry. What I tend to see, but again, there’s never been a state that says, Oh my gosh, you know, 5% is the number.
+
+**Etienne Garbugli:** Have you seen a relationship between the Jobs-to-be-Done framework and how people use the Hooked framework?
+
+**Nir Eyal:** Um, in terms of, I think what I like about [the Jobs-to-be-Done framework](https://leanb2bbook.com/blog/innovation-consultant-rene-bastijans-uncovering-product-true-competitors/ "Innovation Consultant Rene Bastijans on Uncovering Your Product’s True Competition") is that it does focus on the base needs, right?
+
+There’s the, there’s the always that a story of, you know, people don’t want a hammer. Uh, they, they want to hang their picture on the wall. And so how can you help them hang their picture on the wall? I would even take it a step deeper of, well, why do they even need that picture on the wall? Right?
+
+What emotional need are they satisfying? That would even open the aperture even more. Right? Um, so I think there is, there is some similarities between the Jobs-to-be-Done framework in terms of getting down to base needs. Um, but I think what I add to the conversation is, okay, now that we know the internal trigger, now that we know the base needs, we know the Job-to-be-Done.
+
+How do we put this into practice? How do we actually make sure that our product has these four fundamental steps of the trigger, the action, the reward, and finally the investment?
+
+**Etienne Garbugli:** That’s really interesting. Yeah, that’s what I was thinking about before when you were mentioning how the same level of clarity can be used in both different instances, so thanks for taking the time Nir, that’s all the questions I had for you today.
+
+Where can people go to learn more about your work?
+
+**Nir Eyal:** Yeah. Thank you. My website is at [nirandfar.com](http://nirandfar.com/ "Behavioral Design and Time Management by Nir Eyal") Nir spelt like my first name N-I-R, so that’s NIR and far.com and the book is called [Hooked: How to Build Habit-Forming Products](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788/?tag=book-recommendations-20 "Hooked: How to Build Habit-Forming Products"). And my second book is called [Indistractable: How to Control your Attention and Choose Your Life](https://www.amazon.com/Indistractable-Control-Your-Attention-Choose/dp/194883653X?tag=book-recommendations-20 "Indistractable: How to Control your Attention and Choose Your Life").
+
+And that book is more of a consumer-facing book, not so much a product design book. And it’s about how to make sure that we live with personal integrity and do what it is we say we are going to do.
+
+**Etienne Garbugli:** And congrats again on the new launch, and thanks for taking the time to chat today. That’s really, really appreciated.
+
+**Nir Eyal:** My pleasure. Thank you so much.
+
+**Etienne Garbugli:** Thank you.
+
+### More on Product Engagement + The Hook Model
+
+*   [\[ Interview \] Serial Entrepreneur Dan Martell on Learning From Early Product Engagement](https://leanb2bbook.com/blog/dan-martell-product-engagement/ "[ Interview ] Serial Entrepreneur Dan Martell on Learning From Early Product Engagement")
+*   [Your Product Needs These 3 Features](https://leanb2bbook.com/blog/product-needs-3-features/ "Your Product Needs These 3 Features")
+*   [How to Run Customer Exit Surveys to Improve Product Retention \[The Definitive Guide\]](https://leanb2bbook.com/blog/customer-exit-surveys/ "How to Run Customer Exit Surveys to Improve Product Retention [The Definitive Guide]")
+
+## Download the First 4 Chapters Free
+
+Learn the major differences between B2B and B2C customer development, how to evaluate business ideas, and how to assess a venture’s risk in this 70-page sampler.
+
+## Enjoyed this Episode?
+
+Subscribe to The Lean B2B Podcast for more:

@@ -1,0 +1,107 @@
+# Networks effects fuel new successful marketplaces, says James Currier
+
+James Currier's VC firm, NFX Guild, only invests in companies that [benefit from network effects](https://www.sharetribe.com/academy/ten-lessons-investing-online-marketplaces/): products that become more valuable to each user as the number of total users grows.
+
+Currier learned of the power of network effects after founding [Tickle.com](https://en.wikipedia.org/wiki/Tickle.com), one of the first companies to focus on user-generated content. It was sold to Monster for $110 million in 2004. He now believes that the majority of interesting new companies will be fueled by network effects. Many of them will be marketplaces.
+
+_– We've invested in 20 marketplace companies so far. Network effects are built into the very definition of a marketplace. That's what separates them from traditional e-commerce platforms._
+
+## Four flavors of network effects
+
+While all successful marketplaces benefit from network effects, not all network effects are created equal. Currier has identified four different flavors of marketplace network effects.
+
+_– We look at these four like they were different colors in a painting. You usually don't use only one color. Similarly, the same marketplace business can benefit from several of these effects during its different stages._
+
+The first one is the simplest: the traditional [two-sided marketplace](https://www.sharetribe.com/how-to-build/two-sided-marketplace/), with customers and providers.
+
+_– eBay, Craigslist, and Airbnb are all typical examples of this. The more customers you have, the more attractive the marketplace is for the providers, and vice versa._
+
+The second is what Currier calls an _asymptotic_ network effect. Uber and Lyft are examples of this.
+
+_– If you have an asymptotic network effect, it means that after you reach a certain threshold, the network effect loses its power. As an example: once you have more than 400 drivers using your ride-hailing app in a city, you can't really improve the customer experience by getting more drivers on board._
+
+The third is a _platform marketplace_. Apple's App Store, where developers sell apps to the owners of Apple devices, is a good example.
+
+_– Again, the more developers you have, the more customers benefit. However, the real key here is that this type of network effect creates a lot stronger lock-in because the services offered by the providers are intrinsically linked to the platform. You cannot reach these specific customers in any other way, or sell the same exact app anywhere else. If you can build this type of a platform, that's extremely powerful._
+
+The fourth is what Currier calls _market networks_. Before we get back to this concept, we'll first take a deeper dive into the world of network effects.
+
+## Network effects are about retention, not growth
+
+People often think that network effect and virality are the same thing, and that network effects help marketplaces grow faster. Currier emphasizes this is not the case.
+
+_– [Virality is about growth](https://www.sharetribe.com/academy/marketplace-conference-5/): people refer your product to others. Network effects are all about [the retention and defensibility of a business](https://www.sharetribe.com/academy/defensible-marketplace/). Once you've built a strong network effect, it's really difficult for others to compete with you._
+
+The case of local marketplaces—where customers and providers need to meet physically—is an interesting example of the power of network effects. These marketplaces typically [struggle with scaling to new cities](https://www.sharetribe.com/academy/scalable-marketplace/) since they need to create the network effect all over again in every city. However, once things start working in one city, the network effect for that city can be extremely strong, meaning it's tricky for competitors to enter the same market—even if these competitors are larger and have more resources.
+
+_– A good example of this was the recent competition between [Classpass](https://classpass.com/) and [Fitmob](https://www.crunchbase.com/organization/fitmob), both marketplaces for gym memberships. Classpass started from New York and conquered the East Coast. Meanwhile, Fitmob started from San Francisco and took over the West Coast cities. At some point, the platforms realized they were not able to enter cities where the other platform was already dominant, so they finally [had to merge](https://techcrunch.com/2015/04/23/classpass-acquires-competitor-fitmob/)._
+
+This poses a challenge [to marketplaces that are expanding city by city](https://www.sharetribe.com/academy/marketplace-conference-2/). On the one hand, they should only [move to new cities once they've found product/market fit in the first one](https://www.sharetribe.com/academy/saturation-nodes-strategy-marketplaces/). At the same time, they might feel pressure from the competition. When, then, is the right time to start scaling?
+
+_– There's no single answer to that. Classpass had to raise a lot of money to scale fast, even though their model wasn't quite ready. It was the right strategy for them. At the same time, many marketplaces have failed with the same strategy: they felt they needed to raise a lot of money and scale fast because the competition was catching up, and they ended up burning all their cash before [getting the unit economics to work](https://www.sharetribe.com/academy/marketplace-unit-economics-fabrice-grinda/). It takes real courage from the founders to stay put and focus on the internal metrics while competition is scaling, but sometimes that's the right strategy, and might eventually leave you as the last man standing._
+
+## Network effects only matter if they improve liquidity
+
+Network effects are not automatically beneficial for marketplaces. Typically, network effects improve the most important [marketplace metric](https://www.sharetribe.com/academy/measure-your-success-key-marketplace-metrics/), [liquidity](https://www.sharetribe.com/academy/measure-your-success-key-marketplace-metrics/#liquidity): the probability of selling something you list or finding what you are looking for. In the case of platforms like Airbnb and eBay, liquidity improves ad infinitum as new providers and customers join the platform.
+
+However, as we saw earlier, this is not the case when your marketplace has an asymptotic network effect like with Uber and Lyft.
+
+_– The reason Lyft is able to compete with Uber is that even if they have fewer drivers in many cities, both platforms are still able to guarantee a ride with an average wait time of 4 minutes. Neither can improve by adding more drivers to either city._
+
+Currier believes this is what makes Uber vulnerable.
+
+_– I do think we're going to see new, interesting companies taking on Uber in 2018 and 2019. Perhaps something blockchain-based. There's room for innovation in this area._
+
+The network effect can also turn against a marketplace by becoming a so-called _reverse network effect_. Etsy has experienced some signs of this: as it has become more popular, it has seen an influx of copycat sellers that offer cheaper, lower-quality products. This has led some of the original independent creators to abandon the platform. Meanwhile, Airbnb has seen a growing amount of its listings coming from professionals, which has led to complaints about the platform losing its original feeling of [marketplace community](https://www.sharetribe.com/academy/turn-marketplace-community/).
+
+_– This can also be a sign of the market maturing. I wouldn't be worried if I were Airbnb. It's natural to move towards more professional providers as you grow. But I do think this is an issue for Etsy. They really need to find ways to break down their users into smaller groups, understand the different motivations and mindsets of the people in each of these groups, and constantly find ways to offer value for each of these groups._
+
+## Market networks target complex services
+
+One of the biggest trends in marketplaces is [a shift towards creating packaged workflows for booking services online](https://www.sharetribe.com/academy/how-to-design-your-marketplaces-transaction-flow/). However, there are certain industries where such a packaged workflow might never be a good fit. If you're dealing with legal services, business consulting, software development, or home renovation, it's not possible to close a deal without first negotiating the price case by case. Moreover, collaboration between several providers is often needed with such services.
+
+Will these industries always be served by large companies, or is there a way for marketplaces to tackle them as well? Currier believes there is an approach that can help marketplace-style businesses cater to these complex situations. In 2015, he [coined](https://medium.com/@jamescurrier/the-next-10-years-will-be-about-market-networks-f4e79655c79d) the term _market network_ to refer to such companies. He describes the concept as "an important new category of digital company that combines the best elements of networks like Facebook with marketplaces like Airbnb ." In other words, customers get services from a network of providers that are connected and communicate with each other, possibly even creating joint offerings to customers.
+
+Currier's NFX Guild is actively looking for investment in the space.
+
+_– We've invested in 14 companies building market networks so far. Most investors still don't understand the concept, which is great for the pioneers as there's less competition._
+
+An example of a market network he cites is [HoneyBook](https://www.honeybook.com/). On the surface, it looks like a SaaS platform for independent service providers that work in the events industry. However, the key behind the platform is its community approach on the supply side. When a service provider gets a deal, they can source help from other people on the platform and join forces with them. A wedding planner could, for instance, use the platform both to invoice their clients (people getting married) and to source service providers (venue, catering, a band, and so on).
+
+_– Market networks don't necessarily look anything like your typical marketplace where you see a list of offered products or services. However, underneath, they always have components that make them benefit from network effects._
+
+## How to build your own market network
+
+In a recent article, we argued that [focusing on a customer vertical](https://www.sharetribe.com/academy/focus-marketplace-one-city-one-vertical/) (like weddings) is not a good initial focus for marketplaces as different wedding service providers need vastly different booking flows. Currier agrees with this sentiment.
+
+_– Even if you have a big vision on where you want to be, it's usually not a good idea to start building for that end state right from the beginning. Market networks are developed in phases. Typically, they involve building lots of software for the provider side. In some cases, you might start off as a SaaS company and build the network and marketplace part later. Or take [Houzz](https://www.houzz.com/), a marketplace unicorn in the home remodeling space. They're not really a market network yet, but they might become one eventually if they build tools for the service providers for invoicing, collaborating, and so on. It's an evolving process._
+
+Currier believes industries like healthcare, travel, and business consulting will be disrupted by market networks in the coming decade. The change will, however, take time.
+
+_– Market networks, like marketplaces, take a long time to build. We're still in the early days, and we're constantly learning._
+
+Currier and his team have already noticed that market networks work really well in some industries while others seem to be resisting the concept.
+
+_– Marketing is an example of an industry where, for some reason, market networks haven't really worked despite several attempts. In the US alone, 3 million people make their living as marketers, and many of them are small providers. The market is huge. Even so, a company we invested in was unable to make it work, and three other companies trying similar things also failed. We're not yet quite sure why, though we have some theories._
+
+NFX Guild is compiling the lessons learned from these businesses into a playbook others can use. Unfortunately, he's not ready to share it with Marketplace Academy readers just yet.
+
+_– Currently, that playbook is reserved only for the companies we invest in. That's our competitive advantage. So if you have a team that is building a market network, come talk to me!_
+
+## The next marketplace trend: enterprise gateway marketplaces
+
+Currier doesn't expect to see new unicorns the size of Airbnb to emerge from the sharing economy.
+
+_– I believe the best ideas have already been tried there. I do think there's still a lot of potential in building smaller businesses that focus on specific niches in the peer-to-peer rental space, but I'm not sure any of them will reach the size of Airbnb._
+
+Instead, he sees new [big opportunities emerging from the business-to-business space](https://www.sharetribe.com/academy/marketplaces-disrupt-large-markets/).
+
+_– There's a trend I call enterprise gateway marketplaces. Big enterprises still have a tough time coordinating with people outside their firm. I believe there's a whole new class of companies that help them with this challenge. Essentially, on the supply side of such a marketplace, there are thousands of small service providers, and on the demand side, there are large enterprises that need these services._
+
+NFX has recently invested in three companies Currier places into this category.
+
+_– A good example of such a company was the Berlin-based Hackerbay. It was a network of hackers and product managers that provided on-demand development for enterprises._
+
+While Currier is bullish on the prospects of both market networks and enterprise gateway marketplaces, they represent only two areas of the companies he's interested in.
+
+_– Market networks are great for some industries. In others, traditional marketplace approaches work better. We're happy to invest in any type of company as long as it benefits from network effects._

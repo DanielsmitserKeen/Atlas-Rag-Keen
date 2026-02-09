@@ -1,0 +1,143 @@
+# Shreyas Doshi's Guide to Validating & Prioritizing Ideas // OpinionX — Free Stack Ranking Surveys
+
+![](https://images.squarespace-cdn.com/content/v1/5e22fb8d8524a16d5bd5683c/6ac02687-6816-450a-a86b-b7f2d4c4d9ad/Shreyas+Doshi+Intro+to+Customer+Problems+Stack+Ranking.png)
+
+In April 2021, a Product Leader from Stripe named Shreyas Doshi published a story called “_Destined to Fail: A B2B Product Management story_”. It was the first time I came across the idea of **Customer Problem Stack Ranking** as a way to think about customer discovery or idea validation — needless to say, it changed the way I’ve thought about building products ever since. Original artwork shown below was produced by [Shaun Miller](http://twitter.com/shaunemiller).
+
+I hope you find it as impactful as I did!
+
+Daniel
+
+![](https://images.squarespace-cdn.com/content/v1/5e22fb8d8524a16d5bd5683c/6a94ed9a-f42c-44cf-92cc-609fa9a17f55/1.png)
+
+Once upon a time, there was an idea for a new product.
+
+![](https://images.squarespace-cdn.com/content/v1/5e22fb8d8524a16d5bd5683c/222045a4-9829-48e6-ac8e-3424740debaa/2.png)
+
+The Product Manager (or founder) diligently goes out and talks to customers to understand whether this product will solve their problems. And customers say yes!
+
+![](https://images.squarespace-cdn.com/content/v1/5e22fb8d8524a16d5bd5683c/a55a5b47-cab6-4d92-ba3f-6d52c88ece86/3.png)
+
+The PM reports her findings to the executive team and everyone gets very excited. Staffing and budget are successfully obtained.
+
+![](https://images.squarespace-cdn.com/content/v1/5e22fb8d8524a16d5bd5683c/7e03d304-6f0c-4ced-aade-a55a8d4a14fd/4.png)
+
+Soon after, following all the best Lean Startup and Product Management principles, they ship the first version of the new product.
+
+![](https://images.squarespace-cdn.com/content/v1/5e22fb8d8524a16d5bd5683c/922bbde8-dd9d-46db-99de-18d2cedc0cb4/5.png)
+
+But hardly any customers adopt it…
+
+![](https://images.squarespace-cdn.com/content/v1/5e22fb8d8524a16d5bd5683c/451bbec9-37d5-4503-92c9-f1e284976624/6.png)
+
+At the first Product Review post-launch, the PM directs attention toward the positives. Her learnings include things like “_Our_ [_MVP_](https://www.opinionx.co/blog/mvps) _isn’t sufficient_,” “_We need to make it easier to implement/adopt_” and — most commonly — “_We just need to build features X, Y and Z._”
+
+![](https://images.squarespace-cdn.com/content/v1/5e22fb8d8524a16d5bd5683c/014ed568-c1ce-4c07-a068-c5ab9e9925b6/7.png)
+
+The team supports the PM and she gets her mandate to build those features.
+
+![](https://images.squarespace-cdn.com/content/v1/5e22fb8d8524a16d5bd5683c/57766508-33b0-4893-9f73-93c3da268e1d/8.png)
+
+Doing all of that takes a lot of extra time…
+
+![](https://images.squarespace-cdn.com/content/v1/5e22fb8d8524a16d5bd5683c/ce205631-b23d-4ad6-9c75-318d607b572c/9.png)
+
+So fast forward a couple of quarters and, eventually, the second version gets shipped !!! 🎉
+
+![](https://images.squarespace-cdn.com/content/v1/5e22fb8d8524a16d5bd5683c/a8d8112d-2d6d-46bd-b291-411ca5361c96/10.png)
+
+Yet again, product adoption is anemic.
+
+![](https://images.squarespace-cdn.com/content/v1/5e22fb8d8524a16d5bd5683c/9ee56d80-b043-45f7-a8f2-99a183baba4c/11.png)
+
+At the next product review meeting, sales and marketing start getting the blame pointed at them. The PM says something like “We know from talking to customers that we have the right product. We just need to improve our Go-To-Market strategy.”
+
+![](https://images.squarespace-cdn.com/content/v1/5e22fb8d8524a16d5bd5683c/22c2860c-ff1e-4ad2-935d-a9b18c131b5c/12.png)
+
+The team is “pot-committed” at this point and it feels like there’s no turning back. Ideas about how to better sell the product are discussed: reduce prices, cross-sell, bundle, email campaigns, re-organize the Sales team…
+
+![](https://images.squarespace-cdn.com/content/v1/5e22fb8d8524a16d5bd5683c/4d7d7ff7-c969-46f5-a09c-b8f6bda9da3f/13.png)
+
+Changes are made. Expectations are set.
+
+![](https://images.squarespace-cdn.com/content/v1/5e22fb8d8524a16d5bd5683c/7bfc6863-f14c-465b-8a61-64be3486f7b2/14.png)
+
+Yet growth remains flat and lifeless.
+
+![](https://images.squarespace-cdn.com/content/v1/5e22fb8d8524a16d5bd5683c/864a94e4-51e6-4379-bd7e-967dfdad9c28/15.png)
+
+By the time this point is reached, the original PM has already left the team. A new PM joins and starts with a “customer listening tour” for their first 90 days. They identify some additional issues, present new findings and recommendations to the executive team, and get a fresh mandate to execute the revised plan.
+
+![](https://images.squarespace-cdn.com/content/v1/5e22fb8d8524a16d5bd5683c/d01d766a-994e-4298-b951-816171b3b8fd/16.png)
+
+This can go on and on with new product teams, revised strategies, more rounds of discovery interviews…
+
+![](https://images.squarespace-cdn.com/content/v1/5e22fb8d8524a16d5bd5683c/a8f45264-8e5c-4261-a4a3-644ac27cfa14/17.png)
+
+Ultimately, projects like this eventually get “sunset”. Learnings are captured and shared widely in the company. The team tells themselves "_We haven't failed, we have learned._" An Edison quote gets shared at some point.
+
+![](https://images.squarespace-cdn.com/content/v1/5e22fb8d8524a16d5bd5683c/9a130bc2-3088-4297-bbee-b93369d19bd5/18.png)
+
+So, what really happened here?
+
+There are many possible reasons for this saga, but the most common ones:
+
+A. The product should not have been built in the first place
+
+B. The original product was ill-conceived & the later pivots had to inherit this original error
+
+Let's look at Option A 👇
+
+The product solved _a_ problem, but not **the** problem.
+
+![](https://images.squarespace-cdn.com/content/v1/5e22fb8d8524a16d5bd5683c/0a2dbe0c-89f4-4d8c-b9c2-6d3191ebd5e6/19.png)
+
+Often, product teams aim to be in the top right of this quadrant → _executing to the highest quality an idea that solves a problem for someone._
+
+![](https://images.squarespace-cdn.com/content/v1/5e22fb8d8524a16d5bd5683c/b8d861b1-f7e9-4b5d-8a1b-1eab460eaa29/20.png)
+
+But, this model assumes that all problems are equally important. In reality, there’s a third axis → _the importance of the problem._
+
+![](https://images.squarespace-cdn.com/content/v1/5e22fb8d8524a16d5bd5683c/015a156a-eb12-40e6-962d-a7815f548bd9/21.png)
+
+And the best products tackle the problems that matter most (and do it well!)
+
+![](https://images.squarespace-cdn.com/content/v1/5e22fb8d8524a16d5bd5683c/381e8b9e-3688-4903-af47-4acbb52998fb/22.png)
+
+Daniel Kahneman famously described **The Focusing Illusion**, which says that “_Nothing in life is as important as you think it is, while you are thinking about it._”
+
+For people in business, this quote could easily be rewritten as “_Nothing in business is as important as it actually is, while you are talking about it._”
+
+![](https://images.squarespace-cdn.com/content/v1/5e22fb8d8524a16d5bd5683c/38034652-a066-4eaf-aebc-7464a77db33a/23.png)
+
+When you talk to a customer about a _specific_ problem, they will naturally “focus” on that problem — at the exclusion of other problems they (or their team/business) are facing.
+
+Your focus brings a disproportionate emphasis to the discussion on solving THAT specific problem. Hence the customer’s initial excitement about your possible product solution. Hence the tepid response and adoption once you’ve built said product.
+
+![](https://images.squarespace-cdn.com/content/v1/5e22fb8d8524a16d5bd5683c/378d90e5-1428-4c33-bf41-dbf1521bb2f3/24.png)
+
+If you were to zoom out and look at this problem in comparison to all of the other problems that this customer is currently dealing with, you might quickly realize that what _you_ thought of as a “hair-on-fire problem” is something _they_ see as just a “mild inconvenience”.
+
+And **nobody goes out of their way to find solutions for a mild inconvenience.**
+
+![](https://images.squarespace-cdn.com/content/v1/5e22fb8d8524a16d5bd5683c/b31296d2-824e-46a9-9316-684f7f96b177/25.png)
+
+This approach is called **“**[**Customer Problems Stack Rank**](https://www.opinionx.co/blog/customer-problem-stack-ranking)**”** (CPSR). You ask the customer to stack rank the problem versus all the other problems they are trying to solve for their business and org.
+
+This way of thinking can be applied across functions — you should also get the CPSR from other personas involved, like the VP Support, VP Marketing, VP Sales, etc.
+
+You are now closer to truth.
+
+![](https://images.squarespace-cdn.com/content/v1/5e22fb8d8524a16d5bd5683c/2dc1d8ab-afb0-49bc-b3fd-47962d1f07d5/26.jpg)
+
+When I first read Destined to Fail, I knew immediately that Shreyas was describing my EXACT circumstances. We had launched 6 months earlier and that same week had lost our only subscription customer. Things were looking pretty bleak. We had conducted about 150 interviews by that point to figure out what problem to solve, but clearly it just wasn’t working.
+
+We decided to run one last experiment before giving up, where we would ask a bunch of our target customers to stack rank a list of problems so we could see where the key problem we were focused on solving ranked in their list of priorities.
+
+In just one evening, we drafted a list of problem statements based on our customer discovery interviews, shared them with 600 target customers, and could already see that our problem statement was **ranking** **dead last** out of 45 options. But the biggest surprise for us was that 5 of the top 7 highest-ranking problems were actually very similar to the one we were trying to solve!
+
+So the next morning we rewrote our landing page and product onboarding flow to match these 5 high-ranking problems instead. Within a week of starting this stack ranking experiment, we had multiple paying customers, our landing page was converting to trial 3x better than before, and we even had our first customer testimonials!
+
+To learn more about this “customer problem stack ranking” experiment, check out the short video case study below or read [this viral blog post](https://www.opinionx.co/blog/customer-problem-stack-ranking) explaining the process we followed.
+
+_If you liked this post, consider subscribing to_ [_The Full-Stack Researcher_](https://fullstackresearcher.substack.com/welcome) _— our newsletter that shares actionable research advice with thousands of product teams and startup founders:_

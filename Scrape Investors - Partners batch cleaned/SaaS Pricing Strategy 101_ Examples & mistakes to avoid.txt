@@ -1,0 +1,349 @@
+# SaaS Pricing Strategy 101: Examples & mistakes to avoid
+
+“It seems like we’re leaving money on the table. Who wants to own updating our pricing strategy?” The CEO asked in our team meeting. 
+
+I eagerly raised my hand as a newbie ready to make an impact.
+
+![](https://cdn.prod.website-files.com/6060fb3be1af7a5e695c33bd/64f924dd88f61706f67ad7c0_2-HjVkBcAmah0tOpt5IMHjfBxhQI5siI5DE6V314v5F35aYty53LFAI8fV-sr3VwhsCQdmdHHIIZeldpLc-b2fuFLgd_enrGvnQinfHMfhcQldpSzM5IRS2JyNnp-BgkODHLEGTV2tydmWIDyFH7GXY.webp)
+
+I quickly learned that finding the right SaaS pricing strategy is a process, not a project. 
+
+It touches every part of the business and [customer lifecycle](https://www.dock.us/library/customer-lifecycle-management)–from product management and marketing to sales and even support.
+
+Whether you’re pricing your product for the first time or are ready for a change, this article will help you avoid making costly mistakes, implement the right pricing strategy, and choose a pricing model that fits your SaaS business.
+
+## Types of SaaS pricing strategies
+
+Unlike traditional business models, SaaS companies rely on recurring revenue to build, compete, and grow. The market is cutthroat—switching costs are low, competitors copy quickly, and product roadmaps evolve every day.
+
+Still, product pricing is an age-old dilemma.
+
+Price too low and you win more deals but risk losing out on profitability. Customer acquisition costs (CAC) are lower, but so are average revenue per user (ARPU) and customer lifetime value (LTV).
+
+Price too high and you risk losing deals and facing churn. The inverse happens.
+
+![](https://cdn.prod.website-files.com/6060fb3be1af7a5e695c33bd/64f924dead98386cfee94234_oSyyRu1OOEi_gduVfUmFYTD6k6Y0w3bzZtrmsNr-zslGnGZcGR2lJCDukIYO-dST9UfIfpZnhBAepxeGHRwo_aTpQ7ulKIN58hQVf9ES12uRLeuVhJqCOo-tyiDcC3XMQHU8mPeEJBaz0-djnbV-g3U.webp)
+
+Source: [Eleken.co](https://www.eleken.co/blog-posts/saas-pricing-models-to-help-you-make-an-informed-decision)
+
+Since the answer is somewhat binary, the decision-making process typically involves stamping on a price tag based on gut feelings and calling it a day.
+
+In fact, the average SaaS business only spends [6 hours on their pricing strategy](https://www.priceintelligently.com/blog/bid/163986/a-complete-guide-to-pricing-strategy) in the entire lifespan of their business.
+
+That’s why most end up defaulting to cost-plus or competitor-based pricing strategies.
+
+### 1\. Cost-plus pricing
+
+With **cost-plus pricing**, you calculate the cost of production and tack on a percentage markup to determine the selling price. In SaaS companies, this is an easy way to lose out on profit margins and leave money on the table.
+
+Software development can be expensive, but it’s just a fraction of all of the costs involved in bringing a product to market. And going with a cost-based strategy treats all buyer personas the same instead of optimizing for what each segment's wants and how much they’re willing to pay.
+
+If you couldn’t already tell, I think cost-plus pricing is a bad option for most SaaS products. Still, [10% of 1,800 SaaS companies](https://www.reforge.com/blog/brief-how-saas-companies-price-their-product-growth) still end up taking this approach.
+
+### 2\. Competitor-based pricing
+
+**Competitor-based pricing** involves setting prices based on what competing products and alternatives cost. It’s like copying off the kid sitting next to you in class.
+
+The main goal is risk aversion—avoid losing deals or driving customers away due to price by undercutting competitors. In the long run, the result is a race to the bottom for founders and sales leaders.
+
+Here’s why. You’re probably selling a product because it’s different from other providers in some sort of way. Pricing the same, just below, or above anchors the customer in the wrong way of thinking. It makes your solution a commodity, a me-too product.
+
+### 3\. Value-based pricing
+
+Instead of the pricing options above, you’re much better off tying your product to the value customers receive.
+
+A few reasons why **value-based pricing** is best:
+
+*   **It scales and maximizes revenue**. Let’s say you want to charge your customers 10% of the value they receive. If they save $1M, you get $100K. If they save $10M, you get $1M. With a fixed price or competitor-based model, there’s a cap on how much you can make.
+
+*   **It’s easy to justify**. If your buyer champion asks how you arrived at your number so they can justify it to their team, you don’t want to explain how you ripped it off your competitor’s website. That only works for loan officers, not software businesses. Showing ROI is the easiest way to make a case for your product.
+
+*   **It differentiates your product.** Instead of comparing yourself to competitors, your messaging can focus on the results and end benefits your product offers to customers. Your new yardstick is value received, not price charged.
+
+## Mistakes to avoid when building a SaaS pricing strategy
+
+Some say [product pricing is like a game of darts](https://www.priceintelligently.com/blog/pricing-process). You don’t need a bullseye, just a good spot on the board. Which also means you want to avoid missing the board entirely.
+
+Staying clear of the bloopers below brings you a few steps closer to the dartboard, helping you optimize for profitability and market share.
+
+### Accepting a loose definition of the value your product offers
+
+[Bernard Hopkins said it best](https://www.brainyquote.com/quotes/bernard_hopkins_920565):
+
+> “If you don't know your own value, somebody will tell you your value, and it'll be less than you're worth.”
+
+He wasn’t talking about pricing, but it’s timeless wisdom nonetheless. To avoid depreciation, SaaS companies need to measure the results their product delivers.
+
+Let’s look at a real-life example.
+
+At Chili Piper, we saw that customers were struggling to book more demos. They were creating plenty of leads but were unable to convert them into meetings. High-intent prospects never made it to a meeting because demo response times were too slow.
+
+The product alleviated the pain. Even then, prospects would underestimate how much the solution to their problems was worth. They sometimes questioned the value proposition.
+
+So instead of leaving it there, the team narrowed in on a single value metric. Lead-to-meeting conversion rate. If we could double it, how many more deals would new customers close? How much revenue would they generate?
+
+This [ROI calculator](https://www.chilipiper.com/roi-calculator-demo) answers the question. It shows the results your business could expect by implementing Chili Piper.
+
+![](https://cdn.prod.website-files.com/6060fb3be1af7a5e695c33bd/64f924de88f61706f67ad7e0__hNuC8SWHlc-WtqNgtfHjfOeNsZ-jimAAFqZXJEnHcrWNhWKPAfPzItprhl84yCsBTlHsc3dkVrpth6s7BzlLxhc6nBis5F-gI_MDbCM3GegAs-iLhSAtxaEoZ7ZTYqHHX7JxFc6P3M_4dXoX7m89Cg.webp)
+
+Quantifying how much revenue companies were missing out on makes the ROI story as clear as glass. Putting a specific dollar amount on the problem shows the exchange rate for the price each customer is paying. 
+
+Input, output.
+
+This type of reasoning makes it hard for a prospect to say no or a customer to churn.
+
+During interviews, our customers would tell us they felt like they were spending too much. “It’s simple software, why is it so much more expensive than other competitors?” 
+
+Yet their accounts would renew, often adding more licenses and showing up as upsell opportunities in Salesforce.
+
+Buyers want to negotiate, especially during tough market conditions. But when they know they need you, they don’t ask too many questions. 
+
+John Harrison, Revenue and Change Management Consultant at Cumberland Consulting, gives us a [great way to think about it](https://medium.com/@anujwalia/you-know-you-are-priced-right-97616fa59342):
+
+> "You know you’re priced right when your customers complain—but buy anyway.”
+
+In the world of B2B SaaS, companies buy products they can justify internally. The actual price point isn’t nearly as important as return on investment.
+
+### Being trigger-happy with discounting
+
+Don’t get me wrong, discounts have their time and place.
+
+Discounts can help lower customer acquisition costs (CAC) by attracting price-sensitive customers, increasing conversion rates, or even incentivizing referrals. And many enterprise companies expect some wiggle room during the software [buying process](https://www.dock.us/library/b2b-buying-process) because of how much revenue they’re bringing in.
+
+However, data shows that discounting can [reduce customer lifetime value (LTV) by over 30%](https://www.paddle.com/blog/saas-discounting-strategy?__hstc=174954301.fc0fa072b4d1905ed638fbae6ec27b32.1681909653723.1683403840442.1683477295394.3&__hssc=174954301.2.1683477295394&__hsfp=518818143). 
+
+Discounted customers are significantly more likely to churn. 
+
+They’ve been told your product isn’t worth the sticker price, or weren’t even the right customers in the first place. These companies only bought your product because it was cheaper than competitors in year one, not because they believed you were the best solution for their problem.
+
+![](https://cdn.prod.website-files.com/6060fb3be1af7a5e695c33bd/64f924de47e5a42eb04f02b8_UHpXb-zmsjuCD9gyUp6yDdnfXcSCWgNL-REokW0h3eCqpokF8d_JOkQuVWf2j69uiOV1byTU8EoQdvbQV7S5nceJRijsL6h3tlG_6uOmg-6hOOrJarmUaHId_7gijtws4qxLqWlCkH3JXB6huyGg3ec.webp)
+
+Source: [2018 Study of Discounts by Paddle](https://www.profitwell.com/recur/all/discounting-benchmarks-for-subscription-companies)
+
+There are plenty of other downsides as well. If you gain a reputation for discounting at the last second, companies will come to expect that and wait till the end of the month to sign. 
+
+Legacy customers who paid more in the past will demand they get a steeper discount. And revenue teams will inevitably turn to discounting as a crutch instead of focusing on key product metrics like time to value (TTV) or ROI.
+
+Once you open the floodgates, it’s hard to reel it in. 
+
+As [Tom Rowe, SVP of Sales at Chili Piper explains](https://www.chilipiper.com/post/why-we-dont-offer-discounts):
+
+> “Break your discounting rules for one customer today, and you’ll find that same buyer a year later prospecting another organization (or worse, a different active customer).” 
+
+Before resorting to discounts, there are plenty of other levers you can pull.
+
+*   Be flexible with payment terms (monthly, annually, multi-year)
+*   Change the levels of support or add-ons in product packages
+*   Offer guarantees or service-level agreements (SLAs)
+
+To execute on these, you need an efficient way to share pricing quotes and get customers to sign faster. Clunky documents and bulky CPQ systems slow deals down. That’s where Dock Quotes & Order Forms come in.
+
+![](https://cdn.prod.website-files.com/6060fb3be1af7a5e695c33bd/64f924dead98386cfee94244_59_mB2essX66uORHvR6Y1MIIfZ5HfqLEzQD1M1P_NvAGZvzkQ7MzLALL2xeyVI6NEEB3VergN1bkf-u8etx9cl3e9aprxeE4ElWJrU413efGKnMWyjl0aHN2X4QVkW4UHElZrYTuwmfAMt5Q0JXOSAs.webp)
+
+[Dock's Pricing Quote and Order Forms](https://www.dock.us/product/order-forms)
+
+Your sales operations team can set flexible deal approval rules for discounts or special terms. Your reps can build quotes in seconds instead of hours. Your customers sign contracts quickly and securely. Then it all syncs back to your CRM or MAP.
+
+### Not asking what your target audience or customer base is willing to pay
+
+People buy products, not companies. This means you can ask them how much they’d buy it for and why.
+
+The reality is prospects and customers are only willing to pay for a fraction of the value you generate for them. They want [10x results](https://earlygtm.substack.com/p/rules-for-saas-pricing), and the price also has to line up with their buying cycle and budget.
+
+You can learn how different price points affect buying decisions by conducting a price sensitivity analysis.
+
+It sounds fancy but it’s pretty simple. Start by getting 10 prospects and 10 customers to hop on a call and ask them these four questions:
+
+*   At what price would you consider the product to be so cheap you would feel the quality is missing?
+*   At what price would you consider this product to be a bargain or great deal?
+*   At what price would you consider the product starting to get expensive, not enough to rule it out, but you would have to give some thought to buying it?
+*   At what price would you consider the product to be so expensive that you would not consider buying it?
+
+Then you plug in the numbers to generate a graph. Below is the output of the results.
+
+Each of the intersections helps give you an acceptable price range. The intersection between green (too expensive) and red (too cheap) is considered the optimum price point because it minimizes how many people would be dissatisfied with your price point.
+
+![](https://cdn.prod.website-files.com/6060fb3be1af7a5e695c33bd/64f924dee85fb89ff2c5242b_Z-LzxjO5WWfqOXf-qtIMXQiTWBP_bBgM3615oxE_MoyHLMeAXeM5idpW23XG-mvmgL76OHfZafJF5To4rXWJlyekucb5895OrcWU-V5IkHjaUb_0ZXYE13qDvuXp7awPSrLeblnccIbVeUkcsdRBJhI.webp)
+
+Jason Oakley, Founder of Productive PMM, [created a template](https://www.linkedin.com/in/oakleyjason/) that does the heavy lifting for you.
+
+All of this sounds great, but I know what you’re thinking: _Wouldn’t my customers just lie to me and give me a low price? They’re playing poker with pennies._
+
+That’s why the quantitative data is just a starting point. On the same calls, you can follow up with [this list of questions](https://www.linkedin.com/posts/kyle-poyar_productmanagement-pricing-product-activity-7091456158346948608-Cm9D/?utm_source=share&utm_medium=member_ios) by Kyle Poyar, Operating Partner at OpenView.
+
+### Treating every customer the same
+
+One person’s trash is another person’s treasure.
+
+If you segment your deals in Salesforce by monthly or annual recurring revenue (MRR/ARR), [win rates](https://www.dock.us/library/sales-win-rate), churn rates, and sales cycle length, you’ll notice some patterns emerge.
+
+Certain companies buy more and stay with you longer. These are customers who feel like they’re getting a good deal.
+
+Learning who gets the most value out of your product and how is the first step to product pricing and the last step when it’s time to create a pricing page.
+
+[Casey Hill, Sr. Growth Manager at ActiveCampaign, explains it well](https://www.linkedin.com/posts/caseyhill_do-pricing-headers-actually-matter-or-the-activity-7054600701800271872-YljN/?utm_source=share&utm_medium=member_desktop):
+
+> “I consistently find that simple pricing pages, with clear package titles and persona descriptions, increase on-page conversion vs. teams that don't have persona-oriented packaging.”
+
+SaaS is unique in that product pricing and packaging can be easily reconfigured for specific customer personas and target accounts. Small business (SMB), mid-market, and enterprise customers use your product in different ways, so each needs a unique set of features and different price point.
+
+Take a look at Hubspot’s pricing structure.
+
+![](https://cdn.prod.website-files.com/6060fb3be1af7a5e695c33bd/64f924dd2718bdb2880ba7a9_eE3_9TEQJRMp2C08EsFLNRDfMjqp-514zujZwldk3yR4KApH3jqPMoPpQfsqaVMXzXNyaFBZZFQAgUrovE8yvBe124BHfKK8nQncvglHOzqVUnm4Fq92CeeGU1VGML-bdWX53UVlRpzoeCVCCkzZ2DI.webp)
+
+Source: [Hubspot.com](https://www.hubspot.com/pricing/marketing/enterprise?term=annual&products=marketing-hub-professional_1)
+
+The two options vary on price and functionality. A professional plan suits smaller businesses who have less than 2,000 contacts in their database and aren’t ready to pay over $10K per year. Enterprise companies have bigger budgets and work with way more contacts. They also need additional features, like multi-touch revenue attribution and user controls.
+
+Getting to this level of customization requires segmenting your market.
+
+### Communicating price increases without a good explanation
+
+Investors expect to see average revenue per user (ARPU) go up over time. It’s a clear indication of pricing power—if you’re able to generate more revenue from each active user on your product. 
+
+This can only happen by pricing higher or generating expansion opportunities.
+
+Paddle [studied 512 SaaS companies](https://www.priceintelligently.com/hubfs/Price-Intelligently-SaaS-Pricing-Strategy.pdf) and found that monetization was 4x more efficient than acquisition in improving growth and 2x more efficient than efforts to improve retention.
+
+In other words, how you monetize is how you grow. Which means you have to increase prices over time. And let’s not forget, as a SaaS business you’re likely getting more valuable each day. You’re learning more from customers, building cool stuff, and improving the bottom line for your customers.
+
+Chris Lema [makes it](https://ithemes.com/blog/value-based-pricing-5-thoughts-for-success-free-webinar-with-chris-lema/) simple: “you will become more valuable over time.”
+
+Yet most companies get this part so wrong. They:
+
+*   Tie price increases to inflation costs
+*   Abruptly tell customers that pricing is going up without any context
+*   Take a slow burn approach and go up by less than 10%
+
+Patrick Campbell, the CEO of Paddle, drops knowledge bombs in a [recent podcast episode](https://produxlabs.com/product-thinking-blog/episode-104-patrick-campbell) about de-mystifying pricing strategies.
+
+> “If you're not gonna do more than a 10% price increase, it's probably not worth it because most of us don't have the user volume where like 5% is significant.”
+
+There’s no point in giving customers a reason to churn if it doesn’t increase revenues significantly. Still, most B2B companies shy away because they’re scared. That’s because it’s a tough conversation to have.
+
+Instead of chalking up an increase to external factors, you show customers proof as to how they’ve gotten value from their product. You tell them how you’re going to invest the additional dollars into making the product better. You tell them how their life is going to get easier.
+
+Sounds great, but your customer success managers (CSMs) might still be pissed. They’re the ones on the frontlines trying to make customers happy. That’s where you reward loyalty. Give existing customers a heads-up and keep them on legacy pricing for six months.
+
+Think of pricing as a product of its own, with a roadmap and [go-to-market motion](https://www.dock.us/library/go-to-market-motions), and you’ll always win.
+
+## How to incorporate value-based pricing
+
+Once you know what your product is worth, you can connect your pricing strategy to a pricing model.
+
+[Pricing models](https://www.dock.us/library/subscription-pricing) are a love language. They determine how your customers can exchange dollars for solutions to their problems. 
+
+As Patrick explained in the same interview, we don’t play in economies where “we trade goat for wheat.” SaaS companies charge money for value.
+
+This part is high stakes for SaaS companies. It’s hard to change your pricing model once it’s out in the wild.
+
+Let’s review the main options so you can capture much of the value your product creates.
+
+### Freemium or feature-based pricing
+
+**Freemium pricing models** leverage core product functionality to attract users and then upsell them through premium versions with paid features. It’s like per-feature pricing, where you charge for each upgrade to the product.
+
+The price of the premium versions should be based on the incremental value it offers over a free version. Here’s what MailChimp does:
+
+![](https://cdn.prod.website-files.com/6060fb3be1af7a5e695c33bd/64f924dd88f61706f67ad7d0_ywwr-El9eJpfiu6dQqVVHbkJob4js1n2ZNHXKMVic-eWSc9z1RMB40fz4qcOI78vlK_PFLCYnXdcwzv6rLFOl9MA9mAlyqH4SiZyFG1pFnf1tyOpZRBhPrw64t5xulnngYhbd3LFbyl71rfaHNlkII0.webp)
+
+Source: [Mailchimp.com](https://mailchimp.com/pricing/marketing/?ds_c=DEPT_AOC_Google_Search_US_EN_Brand_Retarget_Exact_MKAG_US&gclid=Cj0KCQjwn_OlBhDhARIsAG2y6zOAvDQY30hoYD9kLwLskLr1bDQofDfyUNj-3XGpXreyVOloE7NgfywaAl8VEALw_wcB&gclsrc=aw.ds)
+
+Their free version is available to single users with under 500 contacts. What’s unique is that the next two steps up (Essential and Standard) come with a free trial. That way, prospects can test out how much value they’d get with extra bells and whistles without having to guess. Once they know the price is justified, they buy.
+
+Some argue that [freemium models are an acquisition strategy](https://www.getreditus.com/saas-podcast/s1e7-bootstrapping-to-a-200m-acquisition-with-patrick-campbell/), not a pricing model. The purpose is to generate leads. But MailChimp’s example shows us that a freemium plan can help you make the case for value-based pricing with your customers.
+
+### Flat-rate pricing
+
+Baking value into a **flat-rate pricing model** is more challenging because it’s often  “one-price-fits-all”. 
+
+But you can still incorporate a value-based approach by bundling your product differently for separate customer segments.
+
+That’s what Buffer did by making a pricing plan for professionals, teams, and agencies. They learned what features each type of customer would want and gave it to them.
+
+![](https://cdn.prod.website-files.com/6060fb3be1af7a5e695c33bd/64f924dde85fb89ff2c5241b_aMZaxUF8twHMb5Rd46bUDhThjqk3_RqscC3ZLDhEmMGk523scovEJydjklnBAgYKZ-NhXn-QJHcrix0ekNPD2Y_2xU0byembsdStxSX_d9PZTS2SAYn5yXUnKU8s_4M5xaJ52-XPug-xRR0iDbUlR5w.webp)
+
+Source: [Buffer.com](https://buffer.com/pricing)
+
+On the other hand, [Basecamp provides a single price to all customers](https://basecamp.com/pricing) with unlimited usage, regardless of the type of customers or features offered.
+
+### Custom pricing
+
+Another approach is **custom pricing**, where you tailor pricing based on customer needs and a specific set of features. This typically happens most often in the enterprise space.
+
+Let’s say a prospect requires a custom integration and premium support to purchase your product. The CRO wants to charge these add-ons at a higher price…but also provide a reasonable discount given that this might be your biggest deal yet.
+
+Custom pricing is a good option, which means your reps have to create a [new price quote](https://www.dock.us/library/sales-price-quotes). How do you do that without sending a messy spreadsheet or spending exorbitant amounts of money on a CPQ platform?
+
+Dock’s [Quotes and Order Forms](https://www.dock.us/product/order-forms). Make your quote look enterprise-ready with a sign-able order form that only takes a few clicks to ship out. 
+
+If you want to take it for a spin or create a few quotes for free, [get a demo of Dock here](https://www.dock.us/demo).
+
+### Per-user pricing
+
+It’s easy to fall off the value-based track with a **user pricing model**. You could help another SaaS business save millions of dollars per year, but if you’re only charging them $10/user, you’re leaving lots of money on the table.
+
+In other words, you’re not capturing much of the value you’re delivering in your business model. How do you get around it? Here’s how Chili Piper does it.
+
+![](https://cdn.prod.website-files.com/6060fb3be1af7a5e695c33bd/64f924dd9d2986a4c599f247_sjHCaCGjijrmiT_46lcK7-u-kIu5JThpITm7sYXBO1W5lY4znGTGnS7uUkQdkCcYZ1czyzP0ffrT5NbwvqJbcqwBtcDdE2xNKY6CST3qwyXwDqN_gkp4Aw30sdQ2IXovli058rSTQN4fKOwT98OwJbM.webp)
+
+Source: [Chilipiper.com](https://www.chilipiper.com/pricing)
+
+In red you’ll see that in addition to charging $30/user/month, Chili Piper adds a “platform fee” based on the number of inbound leads a company receives each month on their website. This way customers have to pay a minimum amount in addition to the per-seat pricing.
+
+What’s great about this model is that it serves different company sizes. Startups with a few sales team members (AEs and SDRs) may only be getting 50-100 leads on their website, but can still take advantage of the product. An enterprise working with a significantly higher lead volume will pay a higher platform fee in addition to arming their sales team with licenses.
+
+It’s a win-win. Customers convert more leads, Chili Piper makes more money. That’s what makes this pricing model great. It balances the value creation vs. capture equation.
+
+### Tiered pricing
+
+In the **tiered pricing model**, SaaS companies bundle products at different price points. It’s basically the same as user-based pricing, but it includes progressive pricing levels, or tiers, with different features. The same value-based principles apply.
+
+![](https://cdn.prod.website-files.com/6060fb3be1af7a5e695c33bd/64f924deec6fe2325915c658_R9l3c5HhJS5VrhXmjXMAd6qF9xQh9Lc9Kf5MWpRyhk1e5xLv2Alxl_SY7AdKhg56f_yonNnKa3aBjDY-Q_Br8eycJZIFZ44a0JlexXZzsYl7149SUgthmA0z3Xfu8OCVDncu9RHZfaIoCnBHMf25gE0.webp)
+
+Source: [Lavender.ai](https://help.lavender.ai/en/articles/7925182-pricing)
+
+That’s how Lavender splits the Individual Pro and Teams licenses. The biggest difference with the Teams plan is that you get integrations, and can easily collaborate with other coworkers.
+
+You’ll often hear [tiered pricing](https://www.dock.us/library/tiered-pricing) or tiered discounting referred to as volume-based pricing. We’ll cover that next.
+
+### Volume-based pricing
+
+In [**volume-based pricing**](https://www.dock.us/library/volume-pricing) **models**, prices change when customers reach specific thresholds, such as hitting a certain number of active users.
+
+The main goal here is to avoid depreciating the value of your product. Customers should only get discounts when they meet certain milestones. It’s not a black box, it’s a transparent model.
+
+Here’s how Atlassian does it.
+
+![](https://cdn.prod.website-files.com/6060fb3be1af7a5e695c33bd/64ff93341a91f31713e4894c_atlassian-volume-pricing.webp)
+
+Source: [Atlassian's pricing page](https://www.atlassian.com/software/access/pricing)
+
+For the first 250 users, customers pay $4/user. But for users 251 to 1,000, they only pay $3/user, which puts to the total average per user per month cost at $3.25 for 1,000 users. 
+
+What’s beautiful about this example is that pricing is presented simply, in layman’s terms.
+
+### Pay-as-you-go or usage-based pricing
+
+With **usage-based pricing**, customers get charged based on how much they use a product or service. 
+
+But as Elena Verna, a PLG expert, points out, not all usage-based SaaS is the same. There are two different types:
+
+*   **Input-based**, which is charging for some “unit of usage” like number of users, API calls, or sent emails; and
+*   **Output-based**, in which customers pay for what they achieve with the product, like revenue, respondents, and booked demos. Pricing based on outputs makes it much easier to charge customers more, and ties closer to value.
+
+![](https://cdn.prod.website-files.com/6060fb3be1af7a5e695c33bd/649b9432f0c0d5d752398b1e_p7_-Wzqqyw2UOZaoB5k-52bMN32bLdF2jhtYFVYDriCMuT_6sMUHAhFd7B76eYvhW1rqWueImipVOz6HKZfSYzFS18H3h3XSod_K0985mkF6p7Xk8_w-DFc0VHTlSs1vCJc-Gj335HAwDC8y28qKIsc.webp)
+
+Source: [Elena Verna (via Linkedin)](https://www.linkedin.com/posts/elenaverna_growth-usage-monetization-activity-7062146439530835969-1mNF)
+
+That’s because pricing based on output usage gets you and your customer closer to value. It ties their cost to their outcome.
+
+### Summary: Pricing is a journey, not a destination
+
+Every SaaS business is different, but they all share a common goal. Maximize revenue while keeping customers happy.
+
+Pricing decisions lie at the center of this balancing act. That’s why the strategy and model needs to be tied to what’s important to B2B customers; how many dollars they can make or save using your product.
+
+Value _is_ the currency. It puts you in the driver’s seat instead of chasing competitors. It allows you to segment your market. It makes pricing an open conversation with customers instead of a one-way dialogue.
+
+Most importantly, value-based pricing gives you a compass when navigating the pricing roadmap. Because it’s a journey, not a destination.

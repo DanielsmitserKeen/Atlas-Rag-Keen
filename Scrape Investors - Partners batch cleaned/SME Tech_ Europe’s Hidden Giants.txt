@@ -1,0 +1,190 @@
+# SME Tech: Europe’s Hidden Giants
+
+Small and medium-sized enterprises (SMEs), long considered slow adopters and low-margin customers, are quietly becoming one of the most dynamic segments in tech. As Felix Klühr of HV Capital explains, the shift isn’t just about software finally reaching these businesses it’s about the rise of deeply vertical solutions, built by founders who speak the language of the industries they serve. These companies don’t just sell features; they embed themselves in workflows, unlock instant ROI, and scale fast by tapping into word-of-mouth networks and  unconventional distribution channels.
+
+More importantly, Klühr argues, many of these solutions don’t just replace old software. They replace some aspect of labor. As AI-native tools begin to automate core tasks across sectors like healthcare, construction, and logistics, they move beyond IT budgets and into headcount line items. This means even small markets can yield massive outcomes. While horizontal platforms compete for crowded enterprise budgets, the best SME-focused startups are quietly becoming category leaders in industries no one thought were ready and proving that focus, not popularity, still wins.
+
+Great to have you here today, Felix. Can you walk us through your journey into venture capital and what brought you to HV Capital?
+
+Yeah, really happy to be here. The short version is I have a business background, and after university, I co-founded a company in the education space. We ran it for about five years, and then ended up selling it actually twice within twelve months, which was a wild but really fun chapter. After that, I wanted to take the lessons from building something myself and apply them from the investor side. So that’s what brought me into VC. I’ve now been with HV for almost ten years, though if you count the internship I did there like 15 years ago, it goes back even further.
+
+Fantastic. Can you tell me about some of the SME tech deals in your portfolio? I know you’ve mentioned you’ve done a few.
+
+Yeah, sure. It’s a good question and actually, it starts with how you define SME tech or SME software. For us, we’re big fans of vertical solutions. That could be in the form of software, but also marketplaces. And honestly, the more niche the industry, the more excited we get.
+
+We’ve done deals in areas like road freight logistics for example, with Sennder. We’ve also invested in vertical software for the life sciences supply chain, like Qualifyze. More recently, we’ve made a few healthcare investments that are very tailored to specific verticals, and often selling into SME customers. Same with construction another space where we’ve been active.
+
+So across all these sectors, the common theme is that they’re not targeting massive enterprises, but really small and mid-sized businesses.
+
+Right and of course, we’ve also done a deal together at HV with Omnidock, so we’ve definitely seen your activity in the space. Why do you think the SME segment is attractive or maybe even underestimated for tech founders today?
+
+Great question. I think there are a few things we’ve noticed. First, the smaller the business segment, the slower they’ve typically been to adopt new technology. So you’ve got this whole generation of small and medium-sized companies that while not just now coming online have really only started embracing digital tools in the last five years or so. Compare that to large enterprises, where cloud adoption has been happening for 20 years.
+
+And especially when you look at more niche, verticalized industries, many of these businesses haven’t yet settled on a tech stack. Often, horizontal or one-size-fits-all solutions don’t really work for them. So if you build something that’s tailored to their needs, that speaks their language, and that understands the culture of these businesses, you can have a real edge.
+
+That’s why we think there’s a structural advantage for founders who go deep into these verticals particularly in the DACH region and across Europe. We’ve seen some really interesting opportunities emerge from that approach.
+
+You mentioned verticalised industries earlier what role do you think verticalisation plays in winning over SME customers when it comes to tech companies and solutions?
+
+I think it plays a huge role. It’s almost like a self-fulfilling loop once you start getting it right, everything starts to compound.
+
+It begins with understanding the customer better. You speak their language, you know their workflows, and that instantly builds trust. You also start building references they recognize, which helps you sell faster and more effectively compared to companies trying to serve multiple industries at once.
+
+The more focused you are, the more familiar you become with the specific problems in that space and how to solve them. At first, it might just feel like incremental progress, but over one, two, three years, those improvements add up. Suddenly, you're in a position where you're the only one who truly understands and serves that customer group well.
+
+That’s the real power of going deep into one vertical, rather than spreading across multiple or trying to go broad with a horizontal approach.
+
+With your decade of experience, how do you view the two common approaches we’re seeing in the SME tech space either starting with a single feature and expanding later, or raising a large round up front to build a full platform from day one?
+
+I think it’s almost a philosophical question when it comes to product and investment strategy. But if I had to choose, I’d always go with distribution first.
+
+That means finding one feature that really works ideally within a specific vertical and building real traction around it. That focus helps you get close to the customer, learn fast, and create some lock-in. Once you’ve got that, it’s much easier to expand the product with additional modules or platform features.
+
+The alternative is raising €10 million or more pre-product to build an entire operating system from scratch. That can work, but I’ve developed a preference for the path that starts small, proves itself commercially, and grows from there. It’s not about one approach being right or wrong—I just lean toward strong early momentum.
+
+That makes a lot of sense and it actually aligns closely with our investment philosophy at āltitude. We also tend to back vertical solutions or single-feature products early on, so your approach really resonates.
+
+Yeah, and I think what’s really interesting right now maybe even keeping a lot of VCs up at night is this bigger question: do you build your own foundation model, or is it enough to build a product that wraps around one and tailors it to a specific function, use case, or vertical?
+
+I don’t think there’s a clear answer yet. But it’ll be fascinating to see whether it’s enough to just become the trusted brand the perceived winner within a specific vertical. From there, you can build features on top, create stickiness, and own that customer base.
+
+Some might argue that you're just a wrapper and will eventually be replaced. But if you look at companies like Harvey in legal tech, or Cursor and Windserve, they show that you can build real value on top of existing models if you're focused and deliver something that truly works for the user.
+
+And the same applies to vertical software. I’d always say: find something that works, that solves a real problem for the customer. Especially in this segment where many businesses are only now starting to digitise they’ll really appreciate a solution that just works. There’s been so much noise in the past, and if you can cut through that, you’re already ahead. Then it becomes much easier to grow from there, rather than trying to launch a full platform all at once and struggling to find product-market fit.
+
+I totally agree and that’s very much how we’ve been thinking about the SME segment too. Especially when it comes to owning proprietary data tied to workflows or tasks, and then figuring out how to automate that. The big question becomes: do you build your own agent, or do you wrap around an existing foundational model?
+
+Yeah, that’s an interesting one. Do you think the average SME customer you're investing in is actually ready for an agent?
+
+That’s such a great question. My instinct used to be “no,” but honestly, it depends on how the agent is packaged. None of the solutions we back are fully automated. We’ve found that SMEs tend to have a strong people culture, so most tools are built to assist rather than replace they lean more toward co-pilots than full-on agents.
+
+That said, I think we’ll see a shift. As the segment becomes more educated and there’s more generational change, I suspect adoption will accelerate faster than we expect. I was speaking to someone yesterday who pointed out that generational transitions in SMEs used to take 20–30 years often tied to family succession. But now, founders don’t have the luxury of waiting that long.
+
+Totally agree. We're seeing a similar trend across the portfolio. It’s less about what the end vision is, and more about how you package, sell, and implement the tech today.
+
+Exactly. So, what would you say are some defining characteristics of successful SME-focused tech companies you’ve seen in your portfolio?
+
+I think the biggest one though it might sound generic is specificity. The more focused the niche, the higher the odds of success.
+
+I’m kind of obsessed with distribution and commitment, and what I’ve seen is: if you pick one vertical and absolutely nail it, you can hit €5, €10, €15, even €20 million in ARR surprisingly quickly if it’s a software business. Meanwhile, companies building broad, horizontal platforms often take forever just to reach €1–2 million in ARR, even if the theoretical market size looks huge.
+
+The second thing is founder obsession with the industry. The best teams really go deep they learn the language, understand the people, and fully embrace the cultural quirks of that vertical. That kind of immersion builds trust and leads to much better product-market fit.
+
+And then, if you’re truly selling into SMEs, there are structural challenges—like higher churn, for example. Investors often push founders to move upmarket because mid-market and enterprise have stronger net and gross dollar retention. But I think a lot of the value actually sits in the long tail. So, the companies that succeed are the ones that stay laser-focused on their customer, navigate those structural realities, and don’t lose sight of who they’re building for.
+
+Totally agree. At Altitude, we don’t really go after the freelancer segment so not sub-20 person businesses. But we also find that self-serve is often too simplistic for the companies we back, which tend to be in that 20 to 500 employee range. On the flip side, mid-market and enterprise solutions can be too complex or expensive. So there’s this real gap in the market where companies are actively looking for the right fit.
+
+And what we’ve seen is, when you deliver what we call "instant ROI" something that clearly impacts the bottom line so those customers don’t churn. They stick, because it’s not just a workflow improvement, it’s business-critical. Most of our portfolio is built around solving for that.
+
+Yeah, I couldn't agree more. And that’s also why, in the SME segment, it’s not always just about software. Sometimes it’s about business models that drive immediate ROI whether that's transactional, marketplace dynamics, or even financing solutions.
+
+It’s just a more entrepreneurial segment. And from what you're describing, that thinking aligns really well.
+
+Let’s come back to distribution and GTM. What do the best tech companies get right when they’re serving SMEs or the long tail of B2B?
+
+If I had a perfect answer, I’d have a much better portfolio :)! But looking at the cases that are working really well, a couple of patterns stand out.
+
+One is having a strong internal champion or user community. In tight-knit industries, word spreads fast. So if something works well, adoption can accelerate almost virally.
+
+The other piece goes back to what you said true and immediate ROI. If you’re offering something that replaces an expensive service or product, and you can do it better and cheaper, you can scale incredibly fast.
+
+Take Qualifyze, for example. When they started, they offered supplier audits. Traditionally, those cost €5k. Qualifyze came in at €2.5k, with faster turnaround and digital delivery. The value was obvious, and sales cycles were super short.
+
+Same thing with Ecoplanet in energy management clear ROI, fast adoption.
+
+Or take Voize, our recent investment it’s a voice transcription and AI assistant tool for nurses. One of their customers even threw a “500 Days” party because they’ve been using the product daily for over a year. That kind of love from users? It drives GTM in ways you can’t fake.
+
+## Recommended by LinkedIn
+
+Yes! And Voize also has some really creative GTM channels like radio, which is pretty unique.
+
+Fax machines too! I know it sounds insane, but that’s actually worked as a customer acquisition channel. It’s probably the most German thing I’ll say this year, but if it works, it works.
+
+That’s the point if you're serving, say, the construction industry, you need to figure out their language, their habits. Obsess over that subculture. Once you do, you start discovering these unexpected GTM hacks that really work.
+
+Absolutely. I feel like sales motions in the SME segment are just fundamentally different. A lot of early-stage founders start with product-led growth, but do you think outbound or broader marketing should come earlier? How do you evaluate that when a founder comes to you?
+
+I might be a bit simplistic here, but when I meet a founder early on, I’m just thinking: how do we get to 1 million in ARR—or to 1,000 customers, or whatever that early goal is as quickly as possible?
+
+So when a very early-stage founder shows up talking about complex frameworks like PLG mechanics and self-serve funnels but hasn’t really sold to a customer yet, I get nervous. It’s just too abstract for the stage they’re in.
+
+And then you get those pitches where someone says, “We’re raising this round to start sales.” I’m like… what? You’re the founder. Sales starts on day one. You're always selling. If you tell me you're only now hiring sales because you haven’t sold anything yet, that’s a red flag. It probably means you don’t have product-market fit, and you shouldn't be scaling sales anyway.
+
+Yeah, I’ve seen that too. And that kind of thinking often leads to early mistakes. What are some other common bottlenecks or missteps you see as founders move toward Series A or B?
+
+One I see a lot is this rush to institutionalize too early. Like, raising a round and immediately thinking about org structure, hiring a head of sales, building out a full SDR-to-AE funnel.
+
+In theory, that’s great but in reality, unless you have clear product-market fit, it’s premature. Early on, it’s all about results over process. If you can’t sell it yourself as the founder, no fancy org chart will fix that.
+
+Once you've got traction and repeatability, then you can build the system around it. But trying to skip straight to process too early actually lowers your chances of success. Results first process later.
+
+Agreed. And process is expensive! That’s why most of our deals are capital efficient and revenue-driven over 50% of our portfolio already has €1M+ in ARR.
+
+And that’s no small feat. Honestly, I think the bar for software investing has gone up a lot. Which is good for the ecosystem we’re financing stronger businesses—but it’s also tough for founders.
+
+Six or seven years ago, if a company hit €1M in ARR in 18 months, I’d be totally sold. Now, that same performance might not even get a second meeting. If you want real venture capital, you’ve got to crush the metrics.
+
+There’s a disconnect sometimes between founders building “good” companies and the expectations from VCs who are increasingly focused only on “great.” And again, that’s not to say good companies aren’t worth building they absolutely are. But they may not be a fit for VC anymore, at least not under current expectations.
+
+Totally. And since we've both been in this space for over a decade, I’d love to hear what does make a great company today? What’s changed from when you started?
+
+So much has changed. One of the biggest lessons I’ve learned is that product-market fit isn’t a fixed milestone. It’s not binary. It evolves. You might have PMF at €1M, but lose it by €5M. Or have it at €10M, but stall at €20M.
+
+Back when I started, I naïvely believed that if a company hit €1M, €5M, or €10M in ARR, they were on the path to going public. That’s just not true.
+
+And now, if you plateau, you're suddenly being valued more like a public company. If you're growing slowly at €10M ARR, and public comps are trading at 5–6x revenue, your valuation might be €40M. That can be a harsh reality check compared to venture-level expectations.
+
+The other shift is AI. The hype is justified this time, because the tech actually works. Adoption is real across consumers and businesses. So if you hit PMF now, AI-native companies can scale much faster and more capital efficiently than ever before.
+
+Take the top-performing company in our software portfolio it grew from €4M to €40M ARR in a year. That kind of trajectory just wasn’t possible ten years ago.
+
+I had a question just generally about investor sentiment on the SME segment versus mid-market and enterprise. Some funds love SME technologies but others say they’ll never touch the segment. What different views have you seen from yourself or from others?
+
+First off, I think if a fund says, “We’ll never touch this segment,” they’re probably not a good venture investor. You have to stay pragmatic. Yes, you should learn from the past but not become rigid.
+
+Right now, sentiment is shifting. A lot of things feel up for grabs. The less lock-in there is in a market, the more it feels like a greenfield opportunity. And while consumer and prosumer segments get attention think Lovable, Figma, etc. the SME space is the same. New tools are emerging that tap into brand new budget categories.
+
+In enterprise, there’s still high lock-in it’s hard to replace Salesforce, for example. But in the SME and mid-market, there’s more fluidity. Entire functions and budget buckets are in play. If you can position yourself as the leader in a new AI-first category, it’s really exciting.
+
+That said, and it’s a big but, you need to prove that distribution works. If you’re showing traction in the SME space, 1,000 VCs will chase you. But if you’re pitching it without real proof, the bar is just too high now. It's easy to spin up a tool, so execution matters more than ever.
+
+Makes sense. I’d also add that investors sometimes think the SME TAM isn’t big enough. But with strong distribution, ACVs can grow, and there’s a lot of opportunity for lock-in and category leadership.
+
+Exactly. To be honest, there are a few markets where the TAM just isn’t big enough maybe 5 out of 100. But most of the time, the market is big enough to build a huge business.
+
+I’ve never heard a founder with €10M, €15M, or €20M ARR say, “I don’t know how to grow from here.” But I’ve seen plenty chasing a massive TAM who can’t land their first 20 customers. So I care more about traction than theoretical market size.
+
+Same here. It’s always fascinating how quickly investor sentiment shifts once a company is doing well. 
+
+So, what trends are you excited about in SME-heavy industries?
+
+This might sound like a classic VC take, but one of the most interesting trends right now is the ability to tap into labour budgets not just software budgets.
+
+You’re not just selling tools anymore. You’re selling services that replace labor costs, especially in industries like healthcare or retail. Think of AI receptionists in dental practices. That doesn’t come from a software line item it comes from the staffing budget.
+
+And labor budgets are typically 5 to 20 times bigger than software budgets. If you build vertically and attack that with AI-native services, you can find product-market fit quickly and unlock huge opportunities.
+
+Completely agree. That’s core to our thesis at āltitude. Two quick data points:
+
+1.  SMEs outspend mid-cap and enterprise in almost everything hardware, infrastructure except software.
+2.  SMEs tend to outsource the majority their non-core workflow functions to service providers . They don’t have the talent, so they rely on outside solutions much more than large companies.
+
+Exactly. We’re fully aligned. Good thing we’re not competing.
+
+And so my final question, Felix, is: is there a book or a podcast or something that you've read over the course of your career that stuck with you—and why?
+
+The amount of inspirational and sometimes depressing venture content available on podcasts today is pretty high. It depends on your taste, but there are definitely some great entrepreneurs featured on 20VC. You can love or hate Harry, but some of the interviews are genuinely insightful.
+
+I also really like the B2G podcast, especially because it sits at the intersection of private and public markets, which I find interesting.
+
+And then one resource I come back to often probably no surprise is the Meritech Public Market Cheat Sheet. It gives you a really clear snapshot of how public software companies are performing: growth, valuation, sales and marketing spend as a percentage of revenue, magic number, net dollar retention, etc. You can slice it by industry too. So if you're building SMB software, you can look at Toast, compare your metrics to theirs, and see how they’re valued.
+
+From an investor's perspective, especially in private markets, it's always helpful to stay informed by public market benchmarks. It’s not the only lens to use public markets are volatile but it helps ground your thinking.
+
+If I could make a wish, it would be for Europe to step up and aim to build public companies again. There’s been so little liquidity in the system that a €200–€500 million exit often feels like a win for everyone. Especially the founders.
+
+But if you meet the rare founders who’ve built beyond that, they’ll often tell you they sold too early. There was more runway. That’s why we push for building generational companies, even if the bar is higher now. Public companies used to mean $100M in ARR; now it’s $250–350M.
+
+Of course, I’m talking a bit from the HV book too as larger fund size means different return math. But that’s the game we’re in.
+
+It is Felix. The game of outliers and European companies that last. Thank you for a thought-provoking conversation.

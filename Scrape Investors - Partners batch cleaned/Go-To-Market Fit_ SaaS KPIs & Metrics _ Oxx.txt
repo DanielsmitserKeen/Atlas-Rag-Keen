@@ -1,0 +1,295 @@
+# Go-To-Market Fit: SaaS KPIs & Metrics
+
+## _The different ways to measure success_
+
+In this section, we share a framework for “core” SaaS unit economics, which could act as a guide as you carefully prioritise and define the relevant metrics for your business.
+
+As the primary goal of the Go-to-Market Fit phase is to reach sustainable unit economics, it is important to determine which Key Performance Indicators (KPIs) and metrics to use to define what these are. In this section, we put a spotlight on the ways in which companies can measure their success. 
+
+First, we clarify some core SaaS concepts around revenue, and distinguish between some terms from the accounting department and the sales department. Then, we get tactical and provide a comprehensive overview of the “core” SaaS metrics for a scaling SaaS business. We review the foundational metrics that are used to calculate other, second-order KPIs, then cover the most popular KPIs – highlighting some pro’s and con’s for each. 
+
+For the 2023 edition of this guide, we have also added sections on two metrics that investors and companies increasingly look deeper into: the burn multiple and the “Rule of 40”.
+
+## _Thinking about revenue quality_
+
+One of the superpowers of a scaling B2B SaaS business is the highly predictable, recurring nature of customer revenues. If things are going well, and customers love your product, they will continue to use it year after year (low churn).
+
+ Investors sometimes refer to the predictability of future revenue from existing customers as “quality of revenue”. While there are a number of quality indicators to be aware of (more on gross and net retention later…) there are some tiers of revenue quality that will be a product of your business model:
+
+ **Tier One:** Contracted recurring revenues, where your customers agree to pay for your product over a one or multi-year time period.
+
+ **Tier Two:** Uncontracted recurring revenues, where your customers agree to pay for your product on a non-subscription basis (perhaps individual transactions in a payments processing business, or usage credits for a telephony software business). While they may lack the security of contracted revenues, they still demonstrate a level of customer loyalty and provide a certain degree of predictability.
+
+ **Tier Three:** “One-off” revenues, such as implementation, training, and consulting fees, which are not recurring in nature. These are typically generated through additional services provided to customers, beyond the core SaaS offering. While these revenues can be excellent cash flow generators, they are typically not recurring (and therefore less predictive).
+
+Investors will typically value software businesses guided by a multiple of revenue, and will generally attribute a higher value to higher quality revenue, and therefore better predictability of future revenues. A key indicator of GTMF is knowing when to say no to custom, off-strategy work that drives short-term, but potentially lower quality revenue. It can be helpful to develop decision-making criteria for these ad-hoc client requests. GTM teams should work with product/technical leaders to systematically decide which revenue generating activities to focus on.
+
+## _Calculating revenue – what different departments look at_
+
+We sometimes encounter confusion within companies, where different departments will use different terms to describe a company’s revenue growth. To clarify, here’s an easy way to remember the distinction:
+
+#### _Revenue_
+
+Revenue is recognised over the course of a customer’s contract. In a typical 12-month SaaS contract, the revenue would be a segmentation of the contract value over the contract length.  
+
+_**Example:**_ 
+
+If a customer contract was annual, at a total contract value of $100,000, the monthly revenue recognised would be $8,333.33
+
+ Within the organisation, revenue is often the focal metric for the **finance department**.
+
+#### _Bookings_
+
+Bookings, on the other hand, may well take place before the customer’s contract period has started, and represent the value of all the contracts or sales orders secured by the company within a specific period, regardless of whether the revenue has been recognised yet.
+
+_**Example:**_ 
+
+If two customer contracts were signed in March, with customers due to “go live” in April, each with an annual contract value of $100,000, the March bookings KPI would be $200,000.
+
+ Bookings provide visibility into the future revenue potential and serve as an indicator of the business’s sales performance. 
+
+ The **sales department** is typically most concerned with tracking and maximising bookings.
+
+#### _Billings_
+
+Billings refer to the actual invoiced amount for the services or products delivered to customers within a given period. The billings timing for a contract can differ significantly from the revenue recognition timing. For example, a customer contract might have revenue recognised linearly across a 12-month period, with billings being quarterly, or annually in advance.
+
+Billings represents the cash collection activity of the business and is often used to assess the predictability of cash flow. 
+
+ The **accounting and finance teams** are typically responsible for tracking and managing billings.
+
+#### _MRR or ARR_
+
+Monthly or Annual Recurring Revenue (MRR / ARR) is a KPI for the ongoing recurring revenue at the end of any period. This KPI is central to B2B SaaS as a measure of the recurring revenue base of a business.
+
+Unlike recognised revenue, MRR / ARR does not include “one off” activities, and instead only includes the recurring value of the active customer subscriptions at the end of a period.
+
+The team responsible for interfacing with investors is typically most focused on MRR / ARR, as this is a core metric for investors to evaluate the business’ future revenue.
+
+## _CARR vs ARR – what is the difference between these metrics and why should you care?_
+
+The definitions above highlight one challenge: customer contracts can be “booked” (i.e. included in bookings), but may not yet be live with the product or recognised in revenue or ARR terms. But evaluating a business’ future revenues without including these contracts would understate the business’ potential.
+
+To state the value of these contracts, companies will sometimes add an additional KPI: Contracted Annual Recurring Revenue (CARR), where CARR includes the contract value of active subscriptions (as with ARR) and adds the value of subscriptions that have been booked but have not started. 
+
+As a result, in a growing business, CARR exceeds ARR with a lag. There is a natural health warning to a focus on CARR, which is that focusing only on CARR can mask the true growth profile of businesses with long delays between booking and “go live”, or long implementation / onboarding periods.
+
+_Tip! SaaS investors will often look closely at CARR, but should expect to understand bridge between CARR, ARR, recognised revenue and billings._
+
+FURTHER READING / REVENUE / IVP
+
+FURTHER READING / REVENUE / TOMASZ TUNGUZ
+
+## _Foundational unit economics cover the essential ‘need to knows’_
+
+Which metrics should a B2B SaaS business be reporting on? A B2B SaaS business’ foundational unit economics describe the economic tradeoff between the benefit of a customer’s revenues through the customer lifetime, “Customer lifetime value” (LTV) and the cost of acquiring that customer in the first place, “Customer Acquisition Cost” (CAC).
+
+The quantification of that tradeoff is sometimes called the LTV:CAC ratio, although “magic number” and CAC payback period are alternative expressions. These are very common dashboard metrics for the health of growth in scaling B2B SaaS businesses, where high customer lifetime values and low costs of customer acquisition are signals to invest more and scale faster.
+
+The devil is in the details, and it is important to capture and understand the various nuances when working with the various metrics. Below we’ve provided a cheat sheet with definitions to ensure consistency and comparability. In each breakdown, we explain and refer to multiple KPIs and other terms. We have also assembled all these terms in a glossary which you can find [here](https://www.gtmf.oxx.vc/saas-glossary). 
+
+#### **_Lifetime Value (LTV)_**
+
+**\[ARPA \* GM\] / CHURN**
+
+**ARPA** = Average Revenue Per Account
+
+**GM** = Gross Margin (see below)
+
+**Churn** = Gross Churn (often calculated on a volume or logo basis) over the same period of time as your ARPA
+
+The lifetime value is a central metric for SaaS businesses, as it shows how much economic value a customer adds to your business through the customer lifecycle. As you might expect, higher LTVs are better! So, what reference points should you use to assess whether your LTV is good or not? Unsurprisingly, this depends on your target customer profile: if you’re selling higher volume / lower priced products to SMBs a “good LTV” will differ considerably from a “good LTV” selling lower volume / higher priced products to enterprises. 
+
+LTV is calculated as \[ARPA \* GM\]/Churn. As an example, a business with $40k ARPA and 75% GM with 10% annual logo churn means clients on average have a 10y lifetime, and the LTV is $300k.
+
+_Choosing the right churn metric_   
+Using net churn, rather than gross churn, as the fraction’s denominator can result in infinite customer lifetimes, which is probably an unrealistic assumption! You can read more about the differences between the different kinds of churn [here](https://www.oxx.vc/go-to-market-fit/saas-glossary/). There are several ways to solve this problem. Some companies calculate LTV on the basis of a 3 or 5 year fixed customer lifetime (rather than using “churn” as the fraction’s denominator). A more precise calculation is possible using cohorted gross logo churn to accurately predict lifetime length and incorporate the impact of net upsell on ARPA over time.
+
+_Be mindful of the difference between your ASP and ARPA_  
+One assumption implicit in the LTV calculation method above is that ARPA is stable during the customer lifetime. But that’s not true for all businesses: often ASP and year two or year three ARPA can be quite different. Be careful here if your Average Selling Price (ASP) significantly differs from your customer’s mature ARPA: this can dramatically bias your LTV calculation.
+
+#### **_Customer Acquisition Cost (CAC)_**
+
+**TOTAL S&M RELATED EXPENSES / #NEW CLIENTS**
+
+To understand the fundamental unit economics of a B2B SaaS business, we need to consider both the value of a customer, and the cost of acquiring / serving that customer.
+
+So, what are the right costs to include in this calculation?
+
+The primary cost of acquiring customers is Sales and Marketing spending. To fully account for the cost of acquisition, Total Sales and Marketing (S&M) related expenses should include all S&M costs along with selected operating costs as they are used by the S&M team. 
+
+Some companies will exclude some parts of senior resource or experimental/brand spend from the total S&M calculation, as these activities are not directly customer acquisition costs. For example, a company might exclude the CMO and CRO costs from CAC, on the basis that these personas are central management overhead, rather than directly linked to customer acquisition. This is a nuanced question, and some subjectivity exists…!
+
+_Aligning the S&M spend to the sales cycle_  
+Many businesses will lag the S&M expense used to calculate CAC by approximately the length of the sales cycle. This might be one month for SMB SaaS, but can be one or two quarters for enterprise SaaS. Aligning the spend to the sales cycle ensures the acquisition cost is lined up with the clients acquired through that expense, and therefore should tally with analysis conducted on pipeline conversion, or AE productivity, etc. 
+
+**Tip!** It’s useful for the accounting team to spend time with the sales and marketing managers who are in charge of cost centres and explain this rationale, as the delay may not be wholly intuitive, and the setup may differ from company to company, which can cause confusion in the budget process.   
+ 
+
+_Make sure to use the relevant costs when calculating CAC_  
+Please note that sales and marketing costs aren’t the only relevant acquisition costs for all businesses. Their relevance depends on your GTM strategy (see overview and section 4). For example, PLG businesses will have artificially low CAC when considering only S&M. Consider breaking out the costs of the product and engineering resources that work to improve the efficiency of your customer acquisition cycle (this might be labelled as a “growth squad”) to get a sense of their relative contribution to ARR acquisition. 
+
+#### **_SaaS Gross Margins (GM)_**
+
+**GROSS PROFIT MARGIN = \[NET SALES − COGS\]/NET SALES**
+
+The gross margin is a financial metric that represents the percentage of revenue a company retains after deducting the direct costs associated with producing or delivering its products or services. It is a key indicator of a company’s profitability and operational efficiency.
+
+Whilst the general accounting for gross margin has improved at the later stages of private and public markets, there’s a high level of variability in the earlier stages. To calculate the GM, you need to know the value for Cost of Goods Sold (COGS) and/or Cost of Sales ( COS). These aren’t the most clearly defined terms in the SaaS world. To differentiate between them, COGS specifically refers to the direct costs involved in producing or acquiring goods or services, while COS includes COGS along with other expenses directly related to the sales process. The term used can vary depending on the context and industry. 
+
+COS **= the starting inventory + purchases – ending inventory**
+
+Our view is that a reasonable measurement of your COS should include:
+
+*   Hosting/infrastructure
+*   Data costs
+*   Professional services
+*   Part of customer support / success
+
+_Where to place Customer Support/Success_  
+The Customer Support/Success (CS) team is a challenge here. Costs associated with customer onboarding / servicing / gross retention should be included in COS, but any CS staff who are revenue generating (i.e. focused on generating upsell, rather than servicing customers) sit more naturally in S&M OPEX. Our rule of thumb is that any CS function that has revenue-linked quota targets moves further down the income statement, from GM into S&M.
+
+FURTHER READING / FOUNDATIONAL UNIT ECONOMICS / DAVID SKOK
+
+## _The most popular KPIs – and their limitations_
+
+There are three popular KPIs that are very commonly tracked: LTV: CAC, Magic Number and the CAC Payback period. These three KPIs are worth calculating because they are pervasive and well benchmarked, and companies are expected to have a good grasp on these numbers. However, it’s important to understand their limitations. These limitations are particularly apparent when it comes to newer GTM approaches such as product-led growth, or community-led growth.
+
+#### **_LTV: CAC_**
+
+This metric is the ROI-style ratio of lifetime value to the relevant acquisition cost. Generally, 3:1 is considered a good threshold to aim for, as a unit customer’s profitability should give sufficient margin to pay for other overheads and allow the business to be theoretically profitable at scale.
+
+A key issue is that actually achieved lifetime figures often aren’t available until a SaaS startup is over 3 years old. Reliable lifetime predictions can be elusive and unreliable, particularly in new emerging categories. Another issue is businesses with negative net churn have implied infinite lifetimes. Using fixed-period ‘lifetimes’ can help, or using gross cohort churn rates to statistically estimate projected lifetimes.
+
+It can also be confusing how to incorporate upsell. Our recommendation is to make sure your required CS cost is included either in GM or by adjusting CAC. Otherwise this results in highly spurious ratios, particularly for enterprise SaaS companies, or businesses with very high upsell rates.
+
+This is such a common and challenging KPI ‘problem’ we have written a detailed ‘how-to’ article on this piece for SaaStock, [available here.](https://www.saastock.com/blog/advanced-saas-metrics-upsell/)
+
+#### **_Magic Number_**
+
+**New ARR / Total S&M**
+
+This simple ‘rule of thumb’ metric provides a measure of the ratio between sales and marketing investment with new revenue. Different interpretations of ‘new ARR’ are possible here, so be careful when comparing benchmarks – some companies will use only new ARR from new clients, others will also include net new ARR from upsell and downsell. The periods of new ARR vs. S&M cost are also sometimes lagged to account for sales cycles (see CAC section for a description of this)
+
+For businesses with a sales-driven GTM strategy, magic number of above 0.7 is considered healthy and over 1.0 is considered a strong signal to invest in growth. Magic number calculations for PLG businesses are often extremely high, as new ARR growth isn’t driven exclusively by S&M spending, so the denominator doesn’t represent the ‘true’ cost of growth. As a result, this benchmark isn’t widely used for PLG driven businesses.
+
+Please note that while the Magic Number is a helpful comparable, it takes a simplistic view of sales and marketing efficiency and has several issues. These have been outlined by Nnamdi Iregbulem in an article you can read [here](https://www.google.com/url?q=https://whoisnnamdi.com/magical-magic-number/&sa=D&source=docs&ust=1688053842343210&usg=AOvVaw0mYlrkJIqAzgo8Wpm5x1uQ). 
+
+#### **_The Burn Multiple_**
+
+**CASH BURN RATE/NET NEW ARR**
+
+The term “burn multiple” refers to a financial metric that is used to assess the ratio of cash burn to ARR growth. The main benefit of the burn multiple is that, in contrast to other more S&M-focused efficiency metrics, such as CAC payback, LTV/CAC and Magic number, it assesses a company’s overall growth efficiency across all operational aspects of its business – whether that’s marketing, sales, product, development, CS, PS or G&A. 
+
+From an investor perspective, the burn multiple shows how efficiently a company is deploying capital to grow. For fast growing, unprofitable companies, it is the closest analogue to a true profitability metric such as return on equity or return on capital employed that investors use to assess large profitable companies in the public market. 
+
+As with other metrics, there are different definitions of the burn multiple. As investors, we prefer the “SaaSified version”, where the burn multiple is calculated by dividing the company’s cash burn rate for a particular period by the net new ARR added over the same period; typically a month, a quarter or a year.
+
+In its simplest form the burn multiple can answer forecasting questions: how much cash will I need to spend to add an incremental dollar of ARR? The obvious follow-up question becomes: what is a reasonable burn multiple? As investors, we observe for an emerging SaaS company with early single-digit million dollars of ARR, a burn multiple of up to 2x is considered OK, with some detailed explanation necessary if you move beyond 2x. As a SaaS company grows and starts to hit double-digit millions of dollars of ARR, the product, while by no means the finished product, should be more mature and therefore consume a decreasing amount of investment relative to net new ARR added, and similarly, your go-to-market motions should be more proven and efficient. This means that your overall burn multiple should be decreasing and a good rule of thumb is that a burn multiple of 1 or less indicates strong potential for growth at scale.
+
+#### **_The Rule of 40_**
+
+**REVENUE GROWTH RATE + PROFIT MARGIN ≥ 40%**
+
+The Rule of 40 provides a rough measure of a company’s financial health by comparing its profitability and revenue growth rate. The rule states that a healthy software company’s revenue growth rate and profitability margin added together should be equal to or greater than 40%. It is expressed as the sum of the company’s annual revenue growth rate and its profit margin. 
+
+The Revenue Growth Rate represents the percentage increase in a company’s revenue over a specific period, often on an annual basis. It indicates how fast the company is growing its top line. 
+
+The Profit Margin is usually measured at operating level, i.e. operating profitability, or in financial statement parlance: EBITDA (Earnings Before Interest Taxes Depreciation and Amortisation)
+
+By summing up the revenue growth rate and profit margin, the Rule of 40 helps assess whether a company is balancing its growth ambitions with sustainable profitability. A score below 40% may indicate that the company’s growth is not compensating for its lack of profitability, potentially raising concerns about its long-term viability. Conversely, a score above 40% suggests a healthy balance between growth and profitability.
+
+While the Rule of 40 can provide a quick snapshot of a company’s balance between growth and profitability it is a metric that is reductive, sometimes misleading and frequently used with insufficient discrimination. We don’t recommend using the Rule of 40 to assess companies that aren’t yet mature and are therefore investing in building the foundations of product and go-to-market. For fast-growing SaaS companies with bold ambitions, this means the Rule of 40 only becomes relevant at real scale, i.e. several 10s of millions of dollars of ARR if not $100m of ARR. 
+
+For more in-depth information on the limitations of the Rule of 40 see an article by Mikael Johnsson on the topic [here](https://www.google.com/url?q=https://saasnordic.com/5-reasons-i-hate-the-rule-of-40/&sa=D&source=docs&ust=1688054058767143&usg=AOvVaw05IugbDzEXUIeCWwUWB4qS). 
+
+## _Nuances matter_
+
+It’s really important to be aware that these, mostly ‘traditional’, metrics that we have described can give biased results depending on your GTM strategy, and that averages themselves are blunt and can obfuscate from what’s really going on under the surface.  
+The metrics that will be of most value to you will depend on your GTM strategy. You will have realised that we in several instances have stated that certain metrics are of less importance, or need to be tweaked, for PLG strategies. You might also find these metrics less helpful if your GTM strategy is focused on enterprise sales with high levels of upsell, or community driven adoption, for example.
+
+There is a story behind each number, so even though the data may look good at first glance, sharing the story behind them is equally important. Conversely, numbers that look less than ideal can also hide positives. In other words, adding context is of high importance. For instance, we’re increasingly finding that more thorough analysis and customer segmentation is needed for accurate and reliable performance insights.
+
+FURTHER READING / ADVANCED SaaS METRICS / PHIL EDMONDSON-JONES
+
+FURTHER READING / MAGIC NUMBER / NNAMDI IREGBULEM
+
+FURTHER READING / RULE OF 40 / MIKAEL JOHNSSON
+
+## _Cohort economics can shine light on changes over time and distinctiveness between GTM strategies_
+
+Creation of ‘cohorts’ facilitate analysis on the performance of the same group of clients over time. Cohorts are typically grouped according to some common attribute, for example a quarter that clients were acquired to allow comparison over time, or client characteristics (such as SMB/mid market/enterprise, or self-serve/assisted sale, etc) to allow cross-sectional comparison between distinctive groups.
+
+ Below we present three of our favourite analyses which can be particularly helpful when assessed on a cohort basis.
+
+#### **_ARPA by Group ($)_**
+
+Increasing ARPA can be a powerful driver of revenue growth and is particularly crucial for PLG businesses moving upmarket. It’s useful to see what’s driving ARPA growth. Looking at ASP vs churned ARPA (as well as ARPA of up and down-sold clients) is often illuminating. If you start to see that your ASP is consistently higher than your ARPA and you’re consistently winning deals you’re likely naturally starting to move up-market.
+
+To penetrate that segment further, consider shifting your next marketing hire to a B2B marketer with enterprise experience, your next sales hire to an AE with experience selling to larger organisations, and being ready to incorporate typical enterprise demands (single sign-on, user permissions levels) into your product roadmap. If, however, your ARPA is quite variable among customers of similar characteristics, consider investing more into customer success to drive product adoption deeper in high-potential accounts that should be at a higher ARPA level. And don’t forget to continually re-examine your overall pricing structure to take into account the product improvements your team is continually shipping.
+
+**EXAMPLE**
+
+​In the illustrated example, overall ARPA has more than doubled from $5k to $10k over 4 years. This has been driven by relentless increases in ASP for newly won clients, as this increases from $10k to $40k, whilst the business consistently churns clients with smaller ARPA. 
+
+#### **_MRR Drivers & Quick Ratio ($, #)_**
+
+The Quick Ratio is measured as the total absolute Monthly Recurring Revenue (MRR) increase (new & upsell) as a proportion of MRR decreases (downsell & churn). The ratio is a measure of MRR growth and can be shown as a comparison to its components.
+
+**EXAMPLE**
+
+This business had a healthy quick ratio (black line, right axis) due to strong new MRR growth, which pared in Q5-6, as churn and downsell increased. Looking at this analysis for different groups of customers will give a clear view on the drivers of your MRR growth, and potential improvements.
+
+​Quick ratios of 3 are respectable, and 5+ is better. The metric is a helpful indicator of not only MRR growth momentum, but also MRR growth quality.
+
+## _Cohort economics can also show you how you’re actually tracking towards your theoretical LTV_
+
+In the example pictured, a SaaS company could have high value enterprise customers with complex requirements who are supported with a more traditional outbound sales organisation; meanwhile high velocity, lower value, user driven adoption would come through a highly automated, PLG approach. The cohort behaviour and economics of these customer groups will clearly differ significantly, as will the team structures to serve these different customer groups. The average view doesn’t show this. 
+
+Splitting your customer base will allow you to see important nuances in behaviour and economics between the different groups. Calculating cumulative gross margin per cohort and comparing against that cohort’s acquisition costs allows you to be able to calculate actual realised CAC payback and lifetime values. This is the backwards-looking gold standard for how your business has performed historically. It can be hugely insightful for commercial planning decisions on how much to ramp up spend, as well as for financial planning and budgeting.
+
+## _Bonus: Download Oxx’s SaaS metrics, unit economics and cohort analysis template_
+
+Through analysing the KPIs and metrics of (literally) thousands of SaaS businesses, we have developed a comprehensive template which we’re making available for anyone to use. For 2023, we have also added new formulas and tables showing the burn multiple and to help you assess your performance against the Rule of 40.  
+​  
+This template only requires four data inputs to work: your MRR per client data, sales and marketing costs (or customer acquisition costs), gross margins and monthly burn. Inputting these four datasets allows you to immediately and automatically calculate a plethora of useful visualisations of your metrics, using the standardised off-the-shelf definitions.
+
+The core analysis includes overall MRR/ARR growth, movements in client numbers and ARPA, underlying drivers of ARPA, quick ratios, core unit economics including CAC payback and LTV/CAC, magic number, as well as retention stats (gross and net), burn metrics, and a full suite of cohort analysis, including cohorted gross and net retention, and cohorted gross profit vs CAC.  
+​  
+Critically, the template also allows you to automatically split the entire customer base into two cohorts at a time (eg self-serve vs assisted, SMB vs enterprise, Europe vs North America etc.) and allows you to see almost all the analysis described in this section that’s not related to sales and marketing costs (as cohort attribution here is tricky to unpick).  
+​  
+We hope you find this template helpful. If you have any questions or issues downloading or using the template, you can reach out to us on info@oxx.vc. And if you want to discuss it further you can reach out to Phil, who created the template – he’s always happy to chat!
+
+### Download Oxx’s SaaS metrics, unit economics & cohort analysis template
+
+WANT TO RECEIVE MORE SaaS CONTENT FROM OXX?
+
+Yes, you can send me occasional emails with great SaaS content!
+
+I agree to the terms and conditions
+
+## _How do you operationalise tracking and rally around KPIs in the entire organisation?_ 
+
+**Promote understanding** 
+
+Having reliable and timely visibility over a comprehensive suite of performance metrics is crucial to successfully working towards GTM fit. Building out a dashboard of commercially relevant sales and operating metrics is an essential step to help managers understand relationships and fully rally behind the targets. Businesses are also increasingly incorporating product usage and engagement related metrics in these dashboards.
+
+We understand that running Minimum Viable GTM tests and tracking the impact across metrics can feel like a game of whack-a-mole – when one indicator pops up, others disappear. The best way to understand the correlations and associated actions in detail is to incorporate comprehensive visibility and get as close to real-time as you can. These make for great ‘war room’ dashboards on communal screens in the (physical or virtual) office.
+
+**Build culture**
+
+The visualisation process is as much about culture as it is about having visible metrics in place. Bridging the gap between activities and results helps people understand what they are working towards and the effect their efforts have. Build a culture where the entire team understands the importance of tracking and taking action off the back of key metrics. Team leads should feel a sense of ownership, which allows GTM teams to more rapidly course-correct when things are drifting.
+
+**Increase speed response** 
+
+Taken to its extreme, some ultra-responsive SaaS sales teams use true real-time indicators from prospective clients (e.g. browsing behaviour on-site, interactions with chatbots, etc) to prioritise the highest value leads, shortening the feedback loops and driving sales. As PLG has become a more popular GTM strategy we’ve seen an explosion in the depth and range of tooling in the GTM stack. This reflects the need for more real-time integration between customer behaviour, product teams and commercial teams.  
+​  
+There’s now a wide variety of tooling for not only product and user behaviour measurement (such as Pendo or Segment), but across the product development/testing stack, community support, demand generation and customer support.
+
+Often the fastest growing software companies we see are also the ones with the most comprehensive real-time reporting in place. This reporting flows into the relevant product and commercial teams, with agile feedback loops to iterate both product design and commercial outreach, responding to customer signals faster than ever.
+
+_NB! TOFU, MOFU and BOFU are abbreviations referring to the different parts of the funnel: Top of the Funnel, Middle of the Funnel and Bottom of the Funnel._
+
+FURTHER READING / GTM DASHBOARD / INSIGHT PARTNERS
+
+_Use of this site is subject to the terms of use available [here](https://www.oxx.vc/go-to-market-fit/gtmf-toolkit-terms-of-use/)._

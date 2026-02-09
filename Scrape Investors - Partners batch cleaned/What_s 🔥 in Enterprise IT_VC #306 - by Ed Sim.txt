@@ -1,0 +1,340 @@
+# What's 🔥 in Enterprise IT/VC #306
+
+Welcome back! I know for many it was an insane week of activity but activity does not mean closing deals as evaluations are taking longer and are more closely scrutinized. That being said, I had a number of conversations this week with founders about when one should raise their next round of financing and what milestones to target.
+
+Specifically, let me share with you some thoughts on developer first and PLG companies. As you know, infra startups take a long time to bake and mature. The ultimate goal for any one of these startups is to build 🏗️ an amazing community and ecosystem of contributors, downloads, and users with an inbound model bar none driven by evangelism and then viral mechanics. This can help create amazing sales efficiency (look at Datadog and others) but the question is how to balance to also get your next round done?
+
+Depending on the project and market timing and team, I’d also consider the sandwich model, build a bottom up evangelistic cadence which will take time and select a few key enterprise design partners from the top, usually driven by strong relationships from founders or key investors (this is where we shine at [boldstart](http://boldstart.vc/)).
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!e-iS!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7ce977ac-7d35-4c23-9848-f022fb8919b0_500x282.gif)
+
+](https://substackcdn.com/image/fetch/$s_!e-iS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7ce977ac-7d35-4c23-9848-f022fb8919b0_500x282.gif)
+
+However, as a startup with a new project or product, how do you get there, especially as you think about the next round? Shouldn’t you go all in to get hundreds and thousands of downloads? What happens if you miss? Isn’t it impossible to do this? Do I lose focus?
+
+What I’ve observed over the years is that no matter how you build and start your GTM motion, developer first, product led growth (PLG), or top down, every company eventually becomes an enterprise software company selling to large institutions. It’s just a matter of timing, day one or day 1000, and eventually many of these companies will have a mixed GTM. There are rarely any pure plays despite what VC marketing will tell you.
+
+Along those lines, many of our day one founders who start as developer first or PLG SaaS companies build their funnel with a bottoms up motion and if done right these users, become teams and then a number of companies will reach out to ask about how to purchase the product. Many founders will not want to be distracted early but as a few months go by and the number of requests grow, they become hard to ignore. This is the the 🥪 model in action where you build for a bottoms up user, grow the funnel and sprinkle in a few top down design partners in the early days. The 🔑 however is to carefully choose who those first, lucky few design partners will be and in a perfect world, I like to see partners who are true believers, have resources to help you move quickly, and can represent a few different segments to test like small, medium and large enterprise.
+
+As a day one investor, I ❤️ it when founders selects these enterprise “design partners” in the early days to complement their intense focus on building community and users. Why? If done right, these design partners can provide amazing feedback for your product, help you understand what you will need to build as your 1x1 user journey grows, perhaps put you through an early contracting process with legal, and eventually get you some great logos and references for your website. _What I am saying is even for open source and dev first startups, don’t be afraid to have a few design partners who are friendly and ready to provide feedback as you build your product. However, you must also be careful to not become a custom development shop either for these first few design partners._
+
+Fortunately [CommonPaper](https://commonpaper.com/), a boldstart portfolio co, released the definitive guide to what a design partner is, why you would want one, and most importantly the paperwork or agreement to streamline the contracting phase from weeks or months to hours and days.
+
+> The Common Paper Design Partner Agreement helps you navigate this conversation by providing a simple structure for your and your design partner’s commitments: feedback sessions, private/public references, roadmap influence, discounts, services, and more.
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!OnMu!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fff0aa2e6-bfbd-4132-b26a-c32256577376_1200x1102.webp)
+
+](https://substackcdn.com/image/fetch/$s_!OnMu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fff0aa2e6-bfbd-4132-b26a-c32256577376_1200x1102.webp)
+
+This is 🔥! I can't tell you how many times our day one founders have asked for a simple, easy to use Design Partner Agreement which is tight but also easy to use and flexible. CommonPaper got some of the best and brightest legal, sales, business, and early stage VC minds to create it. Give it a [try here](https://commonpaper.com/standards/design-partner-agreement/)!
+
+If you’re not convinced yet of why design partners can elevate your game, take a look at this tweet. Many of you know Figma as one of the best PLG cos on the planet but here’s a great story on its early days and intense focus on one team to use full time.
+
+[
+
+![X avatar for @lennysan](https://substackcdn.com/image/fetch/$s_!TnFC!,w_40,h_40,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Favatars%2Fdefault-light.png)
+
+Lenny Rachitsky@lennysan
+
+Love this story from @figma's early days, from @clairetbutler
+
+![](https://pbs.substack.com/media/Fb2I1eXUYAEW3rw.jpg)
+
+10:51 PM · Sep 4, 2022
+
+51 Reposts · 687 Likes
+
+
+
+
+
+](https://twitter.com/lennysan/status/1566559566921273344?s=12&t=qEh3YJmqhMvO-2YUqXAa0Q&utm_source=pocket_mylist)
+
+Reminds me of what my friend Gonto says about design partners (from the [CommonPaper blog](https://commonpaper.com/blog/how-to-work-with-design-partners)).
+
+> Your design partners should be the customers you actually want, not the first leads you got through product signups or early access forms.
+> 
+> Martin Gontonivkas, Co-founder of Hypergrowth Partners and former SVP of Growth and Marketing at Auth0
+
+This is something I’ve stressed for so many years om terms of focusing on quality over quantity.
+
+[
+
+![X avatar for @edsim](https://substackcdn.com/image/fetch/$s_!TnFC!,w_40,h_40,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Favatars%2Fdefault-light.png)
+
+Ed Sim@edsim
+
+Developer first + PLG founders, my strong advice from day 1 is to focus on "quality"+ not "quantity" Less is more when onboarding 1st few users - get those right b4 expanding to dozens + hundreds, learn, interview - scaling something that doesn't work does not lead to 💰
+
+12:33 PM · Mar 29, 2022
+
+7 Reposts · 36 Likes
+
+
+
+
+
+](https://twitter.com/edsim/status/1508784339622014976?s=20&t=GKGInw8wgDF7cWqRN5XLOw)
+
+Deeper [dive here](https://twitter.com/edsim/status/1515323711364153350).
+
+Once again, for those founders who are at seed stage and intent on building an open source or developer first community or even a bespoke onboarding process like portfolio co Superhuman, this will not happen overnight and can take years. If your runway is dwindling and the insane growth is just not there yet on the community side, having design partners can also help provide early customer validation for next round investors. In other words, it can be a great hedge to show that people care about your product, and it’s particularly nice if a number of these design partners are selected from the community that you built.
+
+If you’re interested in learning more about how to break into your first enterprise accounts and select your design partners, take a look at this [webinar](https://youtu.be/_hy6BcafQv8) I did 2 years ago with my friends at Angular Ventures along with the [slide deck](https://www.slideshare.net/esim/breaking-into-your-firstenterprise-it-account).
+
+As always, 🙏🏼 for reading and please share with your friends and colleagues.
+
+1.  Brace for it…
+    
+    [
+    
+    ![X avatar for @Austen](https://substackcdn.com/image/fetch/$s_!TnFC!,w_40,h_40,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Favatars%2Fdefault-light.png)
+    
+    Austen Allred@Austen
+    
+    The gap between what it takes to raise a seed round and what it takes to raise Series A is bigger than I’ve ever seen
+    
+    7:10 PM · Sep 4, 2022
+    
+    6 Reposts · 274 Likes
+    
+    
+    
+    
+    
+    ](https://twitter.com/Austen/status/1566503990287732736?s=20&t=EWFC7LfBFvT0VsBjHE3G0Q)
+2.  💯
+    
+    [
+    
+    ![X avatar for @RobertGreene](https://substackcdn.com/image/fetch/$s_!TnFC!,w_40,h_40,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Favatars%2Fdefault-light.png)
+    
+    Robert Greene@RobertGreene
+    
+    You need to train yourself to pay less attention to the words that people say and greater attention to their tone of voice, the look in their eye, their body language—all signals that might reveal a nervousness or excitement that is not expressed verbally.
+    
+    1:00 PM · Sep 5, 2022
+    
+    606 Reposts · 3.31K Likes
+    
+    
+    
+    
+    
+    ](https://twitter.com/RobertGreene/status/1566773195956297729?s=20&t=m6fRt2IGvBR76aKOdHqzeg)
+
+1.  How to realize efficient or profitable growth…
+    
+    [
+    
+    ![X avatar for @jalehr](https://substackcdn.com/image/fetch/$s_!TnFC!,w_40,h_40,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Favatars%2Fdefault-light.png)
+    
+    Jaleh Rezaei@jalehr
+    
+    As head of marketing at Gusto I shifted us from "growth at all costs" to profitable growth. ARR grew 100x in 4 yrs while CAC <12 mos. Now every company is asked to do the same. I shared how we did it in a recent talk to @ycombinator & @sequoia founders. Here's the summary:
+    
+    1:07 PM · Sep 7, 2022
+    
+    360 Reposts · 2.88K Likes
+    
+    
+    
+    
+    
+    ](https://twitter.com/jalehr/status/1567499683660201984?s=20&t=lZffJpfRMWniNgccu2cuWQ)
+2.  AI is the future of coding…from Nat Friedman, former CEO of Github
+    
+    [
+    
+    ![X avatar for @natfriedman](https://substackcdn.com/image/fetch/$s_!TnFC!,w_40,h_40,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Favatars%2Fdefault-light.png)
+    
+    Nat Friedman@natfriedman
+    
+    👀
+    
+    ![](https://pbs.substack.com/media/FcGfz57aIAIhS22.png)
+    
+    3:02 AM · Sep 8, 2022
+    
+    135 Reposts · 1.86K Likes
+    
+    
+    
+    
+    
+    ](https://twitter.com/natfriedman/status/1567710021311676416?s=12&t=NckLSl4Oy_mMUtbN9IrNmw&utm_source=pocket_mylist)
+3.  👇🏼 This - shift ⬅️ resilience engineering with drag and drop UI
+    
+    [
+    
+    ![X avatar for @monkchips](https://substackcdn.com/image/fetch/$s_!TnFC!,w_40,h_40,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Favatars%2Fdefault-light.png)
+    
+    Lief Lat@monkchips
+    
+    introductory briefing from @steadybitHQ, chaos engineering/resilience engineering startup. funding from @Boldstartvc, with folks like @nora\_js and @kelseyhightower on the advisory board. that's pedigree before they even get started. focus on developers is always welcome
+    
+    2:40 PM · Sep 8, 2022
+    
+    10 Likes
+    
+    
+    
+    
+    
+    ](https://twitter.com/monkchips/status/1567885538136412161?s=20&t=ynYjwOS3SuYjLXmH7H1mPA)
+4.  All about the rise of cloud platform engineering from CEO of Hashicorp
+    
+    [
+    
+    ![X avatar for @davidmcj](https://substackcdn.com/image/fetch/$s_!TnFC!,w_40,h_40,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Favatars%2Fdefault-light.png)
+    
+    David McJannet@davidmcj
+    
+    When we talk to customers, partners, and the HashiCorp team about the biggest shifts taking place in cloud, one topic keeps coming up: the rise of the platform team. 1/11
+    
+    5:52 PM · Sep 7, 2022
+    
+    9 Reposts · 72 Likes
+    
+    
+    
+    
+    
+    ](https://twitter.com/davidmcj/status/1567571576966758401?s=20&t=LQPTu94iTM6qAD9hqhYzRg)
+5.  WASM…
+    
+    [
+    
+    ![X avatar for @shomikghosh21](https://substackcdn.com/image/fetch/$s_!TnFC!,w_40,h_40,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Favatars%2Fdefault-light.png)
+    
+    Shomik Ghosh 🇺🇦@shomikghosh21
+    
+    Snack Bites #45: Wasm - What's the big deal? Guest blog post by @technosophos, Co-Founder of @fermyontech Covers: - What is Web Assembly - Why it matters - Use Cases of Wasm - The Future of Wasm
+    
+    shomik.substack.com
+    
+    Wasm: What’s the Big Deal?
+    
+    ![](https://substackcdn.com/image/fetch/$s_!EOMx!,w_64,h_64,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F993a838e-0b64-4286-89a8-e2ce531588ef_400x400.png)
+    
+    4:19 PM · Sep 7, 2022
+    
+    2 Reposts · 17 Likes
+    
+    
+    
+    
+    
+    ](https://twitter.com/shomikghosh21/status/1567548027531042818?s=20&t=G24MCvKXAhjZwSGOCmSblQ)
+6.  [Why do security products fail](https://my.rage.cloud/why-do-security-products-fail-7477dd0ec878) from Emilio Escobar, CISO of Datadog - highlights problems with many security products but also shares what gets him excited - one 🔑 point - don’t forget about user experience
+    
+    > One thing that I believe has been completely ignored by most (usually the biggest vendors) products is the cognitive load that they introduce to their users. Perhaps it is the result of a judgement call that dictates that solving security problems is the only priority so they have the luxury to ignore all else — which seems to be the case. When taking a step back and looking at these products from a neutral standpoint, you will see that the user experience is horrible.
+    
+7.  Keep an eye out for a new Layer 1 rising, Sui by Mysten Labs - FTX led the most recent round - read 🧵 on why this matters and how its aiming to improve developer experience, create more throughput with less cost and more…
+    
+    [
+    
+    ![X avatar for @Mysten_Labs](https://substackcdn.com/image/fetch/$s_!TnFC!,w_40,h_40,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Favatars%2Fdefault-light.png)
+    
+    Sui by Mysten Labs@Mysten\_Labs
+    
+    📢: Today, we're excited to announce our $300M Series B funding round. This milestone signals the technical strength & immense potential of our Sui ecosystem. #Suinami🌊 1/🧵
+    
+    ![](https://pbs.substack.com/media/FcIs6DvWAAA92sp.jpg)
+    
+    1:42 PM · Sep 8, 2022
+    
+    148 Reposts · 696 Likes
+    
+    
+    
+    
+    
+    ](https://twitter.com/Mysten_Labs/status/1567871062041321472?s=20&t=GWwhe_PRZIZnpL_pFOlVyA)
+8.  What’s next for NFTs 🧵
+    
+    [
+    
+    ![X avatar for @ajt](https://substackcdn.com/image/fetch/$s_!TnFC!,w_40,h_40,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Favatars%2Fdefault-light.png)
+    
+    Alexander Taub (🔺👁🔺)@ajt
+    
+    What does the next few months in Web3, NFTs, & the Metaverse look like? I have a thesis (that is probably wrong!) on what is on the horizon for web3 & what happens over the next few months (maybe years). In my opinion, there are only 3 ways that the "Metaverse" takes off. 🧵
+    
+    8:40 PM · Sep 2, 2022
+    
+    117 Reposts · 401 Likes
+    
+    
+    
+    
+    
+    ](https://twitter.com/ajt/status/1565801908937187329?s=20&t=RY5ogbp_9F_4OxczHyABBw)
+9.  💯
+    
+    [
+    
+    ![X avatar for @ryanflorence](https://substackcdn.com/image/fetch/$s_!TnFC!,w_40,h_40,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Favatars%2Fdefault-light.png)
+    
+    Ryan Florence@ryanflorence
+    
+    If you want your OSS project to gain traction there's really only one thing you need to do: Document it well. - 10m quick start - Realistic examples that can be copy/paste/tweaked - \*Contextualized\* code samples for every API - Guides to put APIs together into a real use case
+    
+    2:31 PM · Sep 9, 2022
+    
+    53 Reposts · 582 Likes
+    
+    
+    
+    
+    
+    ](https://twitter.com/ryanflorence/status/1568245672243240960?s=20&t=9fco6F3gn9HCNQJyX_jdLg)
+
+1.  Cybersecurity continues to be on 🔥 - ZScaler…
+    
+    [
+    
+    ![X avatar for @CNBCTechCheck](https://substackcdn.com/image/fetch/$s_!TnFC!,w_40,h_40,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Favatars%2Fdefault-light.png)
+    
+    TechCheck@CNBCTechCheck
+    
+    We've got cybersecurity locked down 🔒 @zscaler Founder & CEO @JayZscaler joins to discuss the company's latest earnings beat, saying he still sees businesses protecting themselves despite tightening budgets and a challenging macro environment.
+    
+    5:20 PM · Sep 9, 2022
+    
+    4 Reposts · 14 Likes
+    
+    
+    
+    
+    
+    ](https://twitter.com/CNBCTechCheck/status/1568288167924465665?s=20&t=05ufpiFuzt8w716Pzqiwlg)
+2.  Wow - Twilio at 2x now
+    
+    [
+    
+    ![X avatar for @dalibali2](https://substackcdn.com/image/fetch/$s_!TnFC!,w_40,h_40,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Favatars%2Fdefault-light.png)
+    
+    dalibali@dalibali2
+    
+    TWLO joining some of my favorite companies ;)
+    
+    ![](https://pbs.substack.com/media/Fb_6ey2aAAAu4DO.jpg)
+    
+    8:21 PM · Sep 6, 2022
+    
+    23 Reposts · 216 Likes
+    
+    
+    
+    
+    
+    ](https://twitter.com/dalibali2/status/1567246693124669442?s=12&t=X7RbqV3_zulTxaTocblL9g&utm_source=pocket_mylist)
+
+#### Discussion about this post
+
+### Ready for more?

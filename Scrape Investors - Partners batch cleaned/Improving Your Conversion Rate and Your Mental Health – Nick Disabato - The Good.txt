@@ -1,0 +1,447 @@
+# Improving Your Conversion Rate and Your Mental Health – Nick Disabato
+
+**Listen to this episode:**
+
+**Subscribe to the show:**
+
+*   [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-ecommerce-insights-show/id1535821948?uo=4)
+*   [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3RoZS1lY29tbWVyY2UtaW5zaWdodHMtc2hvdw==)
+*   [Spotify](https://open.spotify.com/show/1PNSR8ZUvV6hddd5hLh1ax)
+*   [Overcast](https://overcast.fm/itunes1535821948)
+*   [Pocket Casts](https://pca.st/itunes/1535821948)
+*   [Castro](https://castro.fm/itunes/1535821948)
+*   [Breaker](https://www.breaker.audio/the-ecommerce-insights-show)
+*   [Castbox](https://castbox.fm/vic/1535821948)
+*   [Subscribe via RSS](https://feeds.transistor.fm/the-ecommerce-insights-show)
+
+**About this episode:**
+
+In this episode, we talk to Nick Disabato, the founder of an interaction design consultancy called [**Draft**](http://www.draft.nu/).
+
+We kick things off by reviewing Nick’s approach to conversion rate optimization and coerce him into sharing some actionable advice for Ecommerce leaders who are looking to spin up their own CRO function or are looking to bring on external help.
+
+Then, we talk about one of Nick’s latest projects, a book called [**_Finding Clarity in_**](https://draft.nu/clarity/) **_[Uncertainty](https://draft.nu/clarity/)_**, that focuses on helping you manage stress and protect your mental health more effectively – and become a better steward of your life and business in the process.
+
+So, if you’re looking for a systematic approach to improving your website performance or some guidance on how to be more intentional about self-care so that you can optimize your personal performance, this is the episode for you.
+
+**Here are a few resources that we covered:**
+
+1.  [Draft’s Website](http://www.draft.nu/)
+2.  [Draft’s Case Studies](https://draft.nu/helped/)
+3.  [Nick’s Trello Board Template](https://trello.com/b/XeRfXsNF/draft-revise-optimization-plan-v02)
+4.  [Draft Revise](https://draft.nu/revise/) – Nick’s Flagship Service
+5.  [_Interviewing Users_](https://www.amazon.com/Interviewing-Users-Uncover-Compelling-Insights/dp/193382011X) by Steve Portigal
+6.  [_Finding Clarity in Uncertainty_](https://draft.nu/clarity/) by Nick Disabato
+7.  [_Black Friday/Cyber Monday Bonanza_](https://docs.google.com/document/d/1FU4QMO7IG_UfVG3e7M6xZoBPs_wsyD3SIvhLOOwI6eE/edit?usp=sharing)
+
+Want to be a guest on our show? Have feedback or ideas for how we can improve? Send your thoughts over to podcast@thegood.com. We’ll be keeping an eye on that inbox. 🙂
+
+The Ecommerce Insights Show is brought to you by [The Good](https://thegood.com/), a Conversion Rate Optimization (CRO) consultancy specializing in helping ecommerce businesses accelerate their growth through better research, testing, and design. Learn more about our team, our work, and our services at [www.thegood.com](https://thegood.com/).
+
+**Episode transcript:**
+
+**James Sowers:** \[00:00:00\] So here’s the question. How can you, commerce leaders make sure that they are producing a great product, providing a world-class customer experience responsibly managing the finances and still reserve time, energy and resources for marketing their products. My name is James Sauers, and you’re listening to the e-commerce insight show.
+
+\[00:00:16\] The podcast that gives you a specific, actionable advice for growing your e-commerce business. Every Monday, you’ll get a conversion rate optimization tactic that you can implement quickly to make your business 1% better every single week. Every Thursday, we sit down with industry experts to go deep on a specific aspect of running a successful e-commerce business.
+
+\[00:00:34\] It’s the perfect blend of learning and application, which means that you maximize the value of every single minute you spend with us. We’re just as committed to growing your business as you are. So if you’re looking for a partner to help you crush your revenue goals, you’ve come to the right place, roll up your sleeves and grab a notepad because it’s time to get to work.
+
+\[00:00:52\] Nick. Thanks so much for coming on the show, really excited to have you, and just dig into conversion rate optimization. And then also a little bit of the soft skills, the self care type of mentality that we’re bringing to life and work right now, especially with how turbulent things are. So maybe before we get too deep into things, how do you introduce yourself to somebody in an elevator at a conference or whatever the case may be? 
+
+\[00:01:13\] **Nick Disabato:** \[00:01:13\] Back when elevators existed. I would tell people that I ran an interaction, design consultancy, kind of nominally. And in practice, I just do optimization for e-commerce these days, the design bit can also focus on education.
+
+\[00:01:24\] We publish books, put out courses, spend a lot of time talking about the design practice of what we do, because I have 14 years of experience as a UX designer and still come from that pedigree and that perspective. So, 
+
+\[00:01:37\] **James Sowers:** \[00:01:37\] yeah. Yeah, that’s awesome. And I know that you really lean heavily on the  business value of design, not just going with like hypothetical’s or hunches or anything like that. I know that you want to tie the work that you do. Directly to a positive in theory business outcome. So in my experience, that’s a little bit of a different approach than I see most CRO consultants or CRO firms take in terms of like, they don’t lean quite so heavily on the financial outcome, assuming presumably it’s going to be a financial outcome that you’re seeking.
+
+\[00:02:04\] So like, how did you get there? Right? Like how did you get to that step where you’re like, I really want to. Quantify the return on the investment in the work that I do right out of the gate and let people know that that’s my top priority. When I work with them. 
+
+\[00:02:18\]**Nick Disabato:** \[00:02:18\] Adopted that step by failing a lot. It turns out that if you listen to what customers are doing and what they say and what they value, and you create test ideas that meet those needs, you’re more likely to have tests that win.
+
+\[00:02:34\]So. One of the more important things I think for this interview is when I actually put the work into figuring out what people are doing and then respond to that, which is design, right? It’s research, it’s prototyping, it’s critique, it’s coming up with a shared goal. Right. And that goal is not necessarily well, change it, the button to read so that it’s more persuasive and punchy.
+
+\[00:03:00\] Like that’s. Not it really it’s. How do we communicate more effectively? How do we resonate with what the person values that happens to make a lot more money? In my experience, we beat the industry average by about four X. Right now. If you consider high estimates of industry average, it’s still around three X.
+
+\[00:03:21\] We’re doing really well. So I think that’s the short of it. And I came to that point because I kept launching failing tests and wondering, well, what else in my toolbox can I do to not have failing tests? Oh, wait. There’s all of this customer interviewing and analytics that I’ve been doing for the rest of my job before I started getting into CRO in like 2013 and 14.
+
+\[00:03:44\] **James Sowers:** \[00:03:44\] And so it sounds to me like you really, because design can be interpreted so many different ways. They’re designed for Facebook ads, there’s designed for the actual product photography and the way that it’s presented on the page. But like, it feels to me like you really focus on the customer interaction with the website as the primary storefront for an e-commerce brand.
+
+\[00:04:03\] Right? So you’re talking about the elements that the customer has to interact with to take the next step in their journey to making a purchase and actually going from prospect to customer. Does that sound right? 
+
+\[00:04:13\] **Nick Disabato:** \[00:04:13\] Yeah, that’s fair design is such a broad term, right? It can mean graphic design, UX design. I come from a classical UX design background, which means interview customers come up with prototypes as that applies to e-commerce.
+
+\[00:04:24\] I think more about how the store behaves and works and communicates than necessarily how it looks because probably you have a decent looking enough theme, right? Like it doesn’t matter. It really doesn’t. 
+
+\[00:04:35\] **James Sowers:** \[00:04:35\] Yeah. So in terms of first impressions, it’s usually like, do they seem credible enough for me to give them my money?
+
+\[00:04:40\] And that’s more of a binary yes or no. And then beyond that, you’re really talking about how the website interacts with the user decisions and like kind of that junction, where behavioral psychology comes into the actual interface design of where the CTA buttons are physically located and how we present the price and like that kind of thing, you know, like the various design elements.
+
+\[00:04:59\] That’s my interpretation, at least. So when you take something like that and you attempt to quantify the value of it,  right? Cause I’m assuming that a business owner wants to know the value of the work that you do, or any CRO firm or interaction design agency, like they want, ideally for that to be a number of some kind increased sales, whatever, when you kind of figured that out, how do you try to quantify the work that you do when you’re in your sales process?
+
+\[00:05:24\] **Nick Disabato:** \[00:05:24\] I guess. Yeah. I don’t think that I’m coming up with terribly like novel metrics. I think everybody knows what average revenue per user AOV conversion radar, but like, those are fairly typical numbers, but how do I measure that? Well, it’s typically within IAB testing framework, right?
+
+\[00:05:41\] Those are pretty easy values to be plugging in. Especially if you’re in Google, optimize, it connects directly to GA or making sure that works right. The statistical precepts behind AB testing have existed for as long as the scientific method, I’m not reinventing anything. I think that the change and the novelty for draft in this industry is not even necessarily a focus on the numbers.
+
+\[00:06:05\] It’s a focus on getting out of your head in terms of your decision-making, right? Because your test is only as good as the idea. I want to return back to the idea, right? And say, if you don’t have a good process for coming up with ideas, that aren’t just your hunch, that aren’t just a famous person, came up with it, then it doesn’t matter what the metrics are.
+
+\[00:06:26\] But then when you’re doing the analysis. Yeah. I mean, all I’m talking about is financial numbers. Sometimes I’m running heat maps to determine if there are behavioral knock on effects or down-funnel issues or up funnel issues, whatever it happens to be. But I really don’t think that I’m doing anything not novel or interesting.
+
+\[00:06:44\] I’m just making sure that I turn people away from like engagement metrics, right. Or email subscriptions when you don’t know the value of a subscriber, which is most of the time. I mean, I care about bounce rate, but I don’t use bounce rate as the way I call AB tests or pages per session. That’s not a decent yardstick for e-commerce.
+
+\[00:07:05\] If you didn’t get rich off of pages per session. 
+
+\[00:07:08\] **James Sowers:** \[00:07:08\] Right. So in my mind, the Amature conversion rate, optimization person, like a brand owner, who’s just trying to do it themselves. They read a few articles and they have this surface level operation where they’re basically relying on their intuition.
+
+\[00:07:21\] Like I think my customers would prefer this over this. So let me set up a basic AB test. And all I’m worried about is how often one button gets clicked over the other. Right. And I, I would call that. More of a rudimentary approach to conversion rate optimization. Whereas like the approach that you take is more research-driven.
+
+\[00:07:37\] So it’s like, let’s start with the research and use that to inform the tests that we run. And then let’s run those tests and set them up in a way where we have reliable data coming out of the backend so that we know whatever conclusion we come to, where you have a reasonable level of confidence in that.
+
+\[00:07:49\] And beyond that, then we can move forward to implementation. And then that’s where you’d see the business value. Am I mischaracterizing anything in there? 
+
+\[00:07:56\] **Nick Disabato:** \[00:07:56\] That’s not as characterizing it. I kind of want to, yes. Stand a few points. The biggest thing within all of this is a very evidentiary empiricist point of view.
+
+\[00:08:06\] It’s what you’re seeing. It’s what you’re actually experiencing. And I feel like in design, it’s almost like this divination process you see happening all the time where people are like, well, I don’t know what’s happening and they don’t know how to get to answer those questions. They just keep guessing.
+
+\[00:08:22\] And then it becomes this like weird Socratic inquiry of guesswork. I strongly don’t feel that. I think that you can figure out the answer to pretty much any question facing the business. You just have to take some time and ask people and they don’t know how to do that. Store owners don’t know how to do that.
+
+\[00:08:38\] So, 
+
+\[00:08:39\] **James Sowers:** \[00:08:39\] what would you say then is a good business milestone for somebody who has maybe been doing it themselves for a long time has been winging. It has been doing their best, but despite all the mistakes they might be making along the way, their business continues to grow because they’ve got a great product or they found a great niche in the market.
+
+\[00:08:54\] So. What kind of milestone would you say is the point where an e-commerce leader or a brand owner should say, Hey, maybe we need to find some help here. Maybe we need to find a Nick Disabato out there to help us with this. Like, is there a maturity stage, is there some kind of metric around business performance that you think, yeah.
+
+\[00:09:10\] You might want to consider either having a [team that you build internally](https://thegood.com/insights/cro-team-or-agency/) that has more of a strategic approach to this, or engaging a consultant or an agency to help 
+
+\[00:09:18\] **Nick Disabato:** \[00:09:18\] you out. Yeah, there’s the raw numbers that I can provide. Like basically if you do about 500 sales a month, you could get a statistically significant result from a homepage AB test, right?
+
+\[00:09:30\] If you have relatively few products in your product catalog, that means you’re pushing your traffic through a pretty narrow set of pages, which is great for AB testing. Right? That’s a numbers. I think there’s a. Deeper question than what you’re asking, which is what is happening operationally that you want to engage me or CX style or wider funnel or anybody.
+
+\[00:09:52\] Right. I think that if you view yourself as in a growth mode, Right. That’s a great time to be engaging with an optimizer, because that means that you plan on being in growth mode, which means we will be leveraging that growth better and using the, or whomever as a pillar of that growth. If you are just beginning to create processes in your team for making decisions about how to improve a store, that’s a great time too.
+
+\[00:10:16\] Retain draft in particular because when people talk about us and our case studies, which I have a bunch of them, I can put in the show notes, but what ends up happening is they don’t focus on the numbers I do because that’s my job. And that’s how I get future business. What they talk about is how I, or the process or whatever you want to credit it as help them change the way that they thought about changing things on the store.
+
+\[00:10:44\] Right. And that matters more because that gives you a perspective that allows you to part ways with me and then make a lot of money yourself. Right. I would rather teach you to fish than hand you a fish. It’s not my business to hand people fish. So. If you want that, if you’re willing to create that process in a very, like we’re on the same side of the table consultation type fashion, I’m your person.
+
+\[00:11:09\] Right. I wish more agencies did that. I don’t know if they do. I don’t really pay attention to what other agencies are doing, but that’s what we do. 
+
+\[00:11:16\] **James Sowers:** \[00:11:16\] I think that’s probably the best approach. Right? You put the blinders on, you run your own race. You don’t really worry about the people to your left and to your right.
+
+\[00:11:23\] And if you just go about your business in the way that you think is right then over the long-term, you’re probably going to be just fine. That’s my personal philosophy. Anyway. So what I heard in your answer there, I guess, is a couple of things. One is there’s a certain level of. Maybe stability is not quite the right word, but it’s the message I’m trying to communicate where it’s like, you’re not going to do a wholesale website, rebrand or redesign or refacing anytime soon, you’re kind of like stable in terms of the broader structure and the number of skews and stuff like that.
+
+\[00:11:49\] Like you want a certain amount of consistency there, right? To run your tests.  But also like this openness of almost like a mindset shift, or at least a willingness to adopt a playbook from somebody who has a wealth of experience in this area.
+
+\[00:12:01\] And maybe that’s the bigger hurdle to get over. It’s not necessarily the metrics or, you know, the maturity of the business or anything like that. It’s really about the team or the founders or whoever you’re working with. It’s their willingness to be open to a new perspective and a system and a structure around optimization.
+
+\[00:12:17\] That they can then internalize and either continue to work with you or whoever for the longterm, or take it and run with it themselves and continue to see results going forward because it is a repeatable process. , 
+
+\[00:12:27\] so what advice would you do you have for somebody who is maybe a little bit earlier in their journey and let’s say they don’t have that 500 sales per month that you said is a good metric to maybe hit, to get statistical significance, to make the work that you do viable.
+
+\[00:12:40\] Right. So let’s say they’re not there yet. They’re doing half of that or something. And they’re kind of like on their own, trying to get to that 500 sales a month. What advice do you have for somebody who’s kind of doing this in-house right now. Are there any. Tools or resources or books or anything that can give them a kind of a diluted framework for getting started.
+
+\[00:12:54\] And then once they hit that key milestone, they could call someone to come in and help take them to the next level. Beyond that, even 
+
+\[00:13:01\] **Nick Disabato:** \[00:13:01\] the two things that you can do at any size of your business are Google analytics and heat maps. Right. You know, if you’re getting 10 sales a month, you can still run a heat map.
+
+\[00:13:11\] I’d take a minute to get the heat map back, but like that gives you some evidence about what people are doing. You can also get customers on the phone at any size, right? Put a pop over on your store and say, Hey, do you want a free gift card? Fill out the screener questionnaire. And then start getting people on the phone in handy with a $50 gift card to Amazon or to your store or something.
+
+\[00:13:30\] Right. Super easy. You can do a lot of yeah. Of research activities that don’t necessarily result in AB tests, either a dog about AB tests. Cause I work with bigger clients, but you can make one-off fixes. You learn a lot. You know, there’s nothing stopping you from going ahead and doing these things. As far as specific resources are concerned.
+
+\[00:13:52\]If you go to draft.edu/blog, and I’ve written a whole thing about heat maps, it’s like a 6,000 word blog post about heat maps. Read that run some heat maps, sign up for Hotjar. You’re not, I have some GA resources. They’re great. If you want like a full bore course on them, XL cxl.com has a bunch of really good courseware on it.
+
+\[00:14:14\] If people want to learn about interviewing users. My favorite book by that is called interviewing users by Steve Portigal publishing Rosenfeld media. Those are all great resources. And again, this is the beginning of the process, right? You can research anything. You don’t even have to research your own store.
+
+\[00:14:29\] Have somebody give you their thoughts on another website. If you want your competitor, there’s nothing stopping you from bloating, the website of your competitor, handing it to somebody, paying them for their time. You’ll learn a lot. 
+
+\[00:14:40\] **James Sowers:** \[00:14:40\] Yeah, that’s a great idea that I’d never really considered that angle before.
+
+\[00:14:43\] I forget, I want to go back to one of the points you made earlier. So the number of the 500 sales per month really jumped out at me because it’s a quantifiable, tangible, like milestone that somebody can hit. I’m curious if the average order value or the price of an induce, like your average price of a product in your catalog influences that at all.
+
+\[00:15:01\] I can imagine a store that’s selling 500. $10 phone cases is a little bit different than a store that’s selling 500 custom cabinets or custom sofas or something like that. Like how do you weigh those two possible clients in terms of which one might be a better fit for CRO right now? 
+
+\[00:15:18\] **Nick Disabato:** \[00:15:18\] Well, the resulting thing is not necessarily the AOV there it’s the conversion rate, right?
+
+\[00:15:22\] Like if I’m WLA and I saw $2,000 speakers, probably my conversion rate is not as high as if. I don’t know, I’m JBL and I saw a hundred hour ultimate ears or something. Right. And the answer is in the conversion rate. It’s not necessarily an AOV. Now they OVI gives you a decent yardstick, but also you can go into GA and figure out your conversion rate in five minutes, probably already know your conversion rate.
+
+\[00:15:43\] The minimum sample size is what the par lands that you want to be focusing on. And that is a factor of your conversion rate and the minimum detectable effect you want on your experiment. So this can get very rigorous and technical. I can go. 20 minutes deep on it if you want. But I wrote a blog post about minimum sample size calculations, the 500 sure.
+
+\[00:16:05\] AOV hovers tops out around like 150. That seems reasonable. You can always find exceptions, right? But 500 as a decent, like you should be looking into the POS and forming an exploratory committee. Right. That’s what I view it. As the vast majority of stores will start to get one or two tests back a month at that number.
+
+\[00:16:28\] You’re in the safe zone for most situations. And so, I don’t know, dear listener, who you are, what kind of story you run, what kind of stuff you sell? I just have to try it out. A number of, because I think this is like 80th time. I’ve been asked for a number and after a certain number of times, I just gave up and started giving people a number rather than the long answer about sample size calculation.
+
+\[00:16:49\] **James Sowers:** \[00:16:49\] Right. Yeah. I think that’s a smart move on your part because I could see a lot of people just zoning out when you go into this long, detailed explanation of, well, if your situation looks like this, then your number’s probably a little higher. And so, yeah, I think that’s really smart to kind of like, hang your hat on 500 sales a month.
+
+\[00:17:03\] That feels about right. And then we can start to talk about something like this. So kudos to you for that. The other question that popped up to me is at any given time, How many tests do you recommend a store be running at parallel, right?
+
+\[00:17:15\] Like, and obviously you don’t want to run two tests on the same aspect of your website, but let’s say we have something on a product detail page and something in the checkout, further down the line, like the last, the final step or something like that. Like if they were that far apart, and I understand those things are interrelated or whatever, but ideally are you keeping it, I’m guessing to less than a handful.
+
+\[00:17:34\] And then how do you kind of make sure that they don’t interfere with one another in terms of viability. For the actual decision-making process that comes at the end of the test. I think 
+
+\[00:17:43\] **Nick Disabato:** \[00:17:43\] the highest quantity of tests I’ve had running at a given point is six. The mean is three. 
+
+\[00:17:50\] It really depends. Usually that would be home product cart. Or home to different products. That’s not on common or there might be a segmentation. Like I can run a test for desktop customers only that concerns one design detail and then another for mobile customers. And then we’re able to run things concurrently  and the reason I do only that, okay. Nanny part of it is I’m only one person. Part of it is the store is only so large. I have a store right now that does several million dollars per year off of three products. And. Well, we can’t run that many.
+
+\[00:18:26\] We can write call tests quickly can run them in two weeks or so. So we have a faster cadence of turning things around, but in terms of concurrent tests, we’re restricted by the number of pages that are even on the store. Can’t really do anything with that. I think. The bigger question also is in how many resources you have to build tests, analyze tests, research, new test ideas.
+
+\[00:18:52\] And if you think about making one design decision and how many different parts of the operation that has to touch. You have developers building out the prototype. You have me prioritizing the tests. You have a preliminary research process, then you’re rolling out the winning or losing test idea. And I have to wait for that.
+
+\[00:19:12\] Before I turn around the next round of tests, all of those things affect the amount of tests I’m going to be running at any given point. You’re not racing anybody you want to maximize your active testing time. The amount of time you have with a test running on the page, you should be maximizing that  
+
+\[00:19:27\] **James Sowers:** \[00:19:27\] yeah. That makes sense.  I’m glad you brought up the resource aspect because that was actually my following question, which is, you know, if I am running this process myself for now, not at the point where I want to come engage Nick yet, how can I.
+
+\[00:19:39\] Manage the tests that I’m running and the outcomes in terms of like taking notes, , I know you can do annotations and Google analytics and say, I started running the test on this day. I ended it on this day, but in terms of just like managing the information that comes out of this from both the research perspective too, here’s our hypothesis and here’s how we set up the test.
+
+\[00:19:58\] And then here are the findings that we have, like. Where do you even store that? Right? Cause somewhere down the line, somebody’s probably going to suggest something similar. So you want to be able to come back to this and say, no, we already ran a test. Very similar to that. And here was the outcome. And maybe we can do it again because maybe some things have changed in our market or with our product or whatever.
+
+\[00:20:12\] But like, do you have any structures or systems for just managing the wealth of information that comes along with running tests of this magnitude? 
+
+\[00:20:21\] **Nick Disabato:** \[00:20:21\] Yes. A lot of my job is involved in project management. And the best tool that I use for this is Trello. If you use any Kanban board, you want any project management tool you want.
+
+\[00:20:34\] Trello is the thing that is just stapled to the inside of my brain at this point. And I’m never getting rid of it. So it’s fast and easy. I’m going to become a giant commercial for Trello for the next five minutes. I have a bunch of columns that indicate different statuses of one-off fixes. Optimization you find bugs, you find performance issues, whatever it happens to be.
+
+\[00:20:53\] Right. And then I have a bunch of tests, columns for test ideas that we haven’t researched. That test ideas we have researched and are prioritizing what’s on queue for the next round of tasks. What is currently being built, what is ready for review and then the glorious launched and running column, which is the column that I always point everybody to.
+
+\[00:21:14\] And they’re like, Hey Nick, the page looks weird. I’m like, I know what the page looks weird. 
+
+\[00:21:19\] You have winters losers. Inconclusives and that’s the board. That is my Trello board. You can take that, steal it.
+
+\[00:21:24\] In fact, I have a template we can throw in the show notes, if you so desire the exact board that I duplicate for every single one of my clients. And as these are moving from left to right. They’re gaining research. So I’m attaching those to all the Trello cards in support of what I’m doing. I’m talking with clients or other team members about getting a built out I’m QA, buying the things as they are build-outs that we can make sure that everything is working properly across platforms, and then it gets launched.
+
+\[00:21:55\] Right. And. Across that you’re seeing the status as it keeps moving from left to. Right. So there’s not really any ambiguity that there’s a blocker here. This needs to get resolved. I’m doing okay here. So, yeah. And I’m doing this for. Probably around 40 cards at any point for any client, right? Like, because there’s always stuff way down the line.
+
+\[00:22:19\] And always just things like the S the CEO is like, Hey, Nick D I’m like, yeah, why don’t we change the headlight to this one thing? And I’m like, what makes you think that’s a good idea? They’re like, I don’t know. And I’m like, okay. Okay. Stuck to customers. 
+
+\[00:22:33\] **James Sowers:** \[00:22:33\] You’re a very successful person and I respect that, but let’s have a little bit more behind that, then it just feels right.
+
+\[00:22:39\] You 
+
+\[00:22:39\] **Nick Disabato:** \[00:22:39\] know? . 
+
+\[00:22:40\] **James Sowers:** \[00:22:40\] But  I guess the follow on question I have for you is more of a transition into the mindset side of things. And so  I understand that in your history draft actually started out as a consultancy for software companies, and now you focus primarily on e-commerce brands. And I know that you’ve said before that there’s a little bit of a difference in mindset and approach to conversion optimization between those two demographics.
+
+\[00:23:03\] So I’m curious if you could go into that a little bit. And part of what I think you’re going to say, , but we’ll see is that there are some misconceptions around CRO that people bring to the table when they’ve either been doing it themselves for awhile, or they haven’t touched it all yet.
+
+\[00:23:15\] And they think they kind of know what it is. And then they come into your inbox or get on a call with you and you have to do some reeducation around that. 
+
+\[00:23:21\] **Nick Disabato:** \[00:23:21\] So yeah, I like the first half of drafts. It’s not even like the first.
+
+\[00:23:24\] Two-fifths of drafts existence so far, I mostly did UX work for SAS businesses. Cause I was, I knew it was my community was an easy client base. And as I got into CRO, I realized like these people are not rammed out 500 figure. You think that are signing on like a mom and pops ass business, 500 new customers a month.
+
+\[00:23:43\] No, no, no. Never happens. Right. And that’s not bad. That doesn’t mean they’re doing bad business because it’s recurring revenue. It’s higher prices. It may be B to B, but it also means I can’t run statistically significant AB tests. So they live on planet Vulcan. They were usually developers, super rational.
+
+\[00:24:01\] They understand that CRO it’s like investing monetary investing where like some days you just have a bad day in the market tanks and you know, what you do in response to that. Nothing you way. Right. And they got it. They understood every aspect of that. Right. I never had to hold space for their psychic death at all, went real well.
+
+\[00:24:22\] And then I transitioned to e-commerce cause I was like, well, they make way more sales, 500. Some of you listening to this are probably be like 500. I make like 5,000. Okay, great. No, you should be AB testing, you know? And so it was just way easier to find like qualified clients that were doing the kind of  volume that I wanted and getting kind of value that I would want from the engagement.
+
+\[00:24:43\] But then I came in and they were like, they were way less planet Vulcan about it. I’ll just say that there were more fires to put out. There were fires at all. You know, SAS was this mostly lifestyle businesses. People live in chill lives and not having to worry about a warehouse issue or something, you know?
+
+\[00:24:59\] And so I get why the difference is the way that it is. Right. But it became harder to sell the work because it was people who need to eat their vegetables and can, and can get a lot out of it. But they don’t want it. Right. They’ve been weaned on candy this whole time. Is this whole dynamic in e-commerce of like following the leader, figuring out what works, getting short-term gains and a lot of things that just sort of belied cognitive yeah.
+
+\[00:25:28\] Biases that I would see that would be confirmation bias. Right? Like you fit it to your worldview or it would be loss, aversion, instincts, like you’re afraid. There’s a lot of fear and e-commerce, it’s a lot more than in SAS. Right? Right. I’m not saying it’s better or worse. There’s no value judgements happening here.
+
+\[00:25:48\] It’s just, I come in from a different perspective notice and I’m like, okay, well, these things that you’re thinking are holding you back. And it’s hard to say that to somebody, without them thinking that there’s something wrong with them, right. Like, I don’t want to make fun of them or denigrate them or do anything that would, you know, we’re all human.
+
+\[00:26:09\] I freaked out about my business all the time. It’s okay. But what I want to do is examine the thing that is happening, identify it for what it is, and then figure it out, how we can address it so that you can grow as a business. Cause I, I want that. I think that actually addressing the sort of stuff is probably good business.
+
+\[00:26:31\] And Lord knows when we’re all stuck inside is a very good time for self-reflection. Present company included. Right? So this is all very long way of saying I noticed a thing. It pained me. It made me sad. And I’m dealing with my own sadness by trying to give people more tools to deal with the problems, right?
+
+\[00:26:54\] The fact that their warehouse is on fire or got shut down by COVID the fact that we don’t know how black Friday is going to be this year or something. Right. It’s always, it’s always been something people freaked out about black Friday last year in the last year. You’re never not going to be freaking out.
+
+\[00:27:13\] **James Sowers:** \[00:27:13\] Yeah. Every year it’s high stakes, right?  For a lot of people, it’s their Superbowl. And so. There’s stress associated with that. You know, I understand the increased prevalence of fear in e-commerce brands, primarily because it’s so much more tangible, at least in my mind, like if you’re building software, right, you’re paying top dollar to developers to build a thing, but a lot of times.
+
+\[00:27:33\] You’re building your own thing cause you’re a developer yourself. So, you know, some of that is gone, but like with e-commerce it’s like I physically have to send a wire transfer somewhere else and they’re going to make me 10,000 units of a thing and it’s going to go on a plane or a ship and it’s going to cross an ocean.
+
+\[00:27:48\] It’s going to come to me and I have to accept it. Like it’s just so much more real sometimes. And. I don’t know. I mean, I feel like the difference between paying somebody, a weekly salary to build this kind of like metaphorical software tool is so much different than I’m going to stroke a check, send it across the world and they’re going to send me physical goods back.
+
+\[00:28:05\] And now I’ve got to find a way to get rid of those physical goods or that money just disappeared. Like I totally understand it. 
+
+\[00:28:10\] **Nick Disabato:** \[00:28:10\] I get it. I totally get it. But that also means like, That there are other challenges to be had here. Right? For sure. I’m a big baseball person. So you’re going to have to forgive the baseball parallel, but have you ever seen like interviews with ACE pitchers after baseball games?
+
+\[00:28:26\] They’re all so calm. They just mumble and you think like, well, why are they doing that? Well, because you’re the pitcher. That means you have to be accountable to all the base runners. You have to basically dictate the flow of the game. You have to. As of 2018, make sure you’re not taking too long between pitches, do all these things, right.
+
+\[00:28:43\] You have to go through the ritual. Everything in the game, hinges on you, everything right? The fate of a $4 billion team hinges on you. How do they respond? If you Google the words, quiet eye for an athlete, it’s just, you learn how to manage all of your emotions and just act with complete preternatural calm.
+
+\[00:29:04\] And that’s why when you see the interview after she’s like, Oh yeah, it did great up there today. Or, Oh man. That’s time, you know, like, that’s it, that’s all you get from them because they’re managing their emotions effectively. Right. I think about that all the time. 
+
+\[00:29:18\]**James Sowers:** \[00:29:18\] You need to send some copies of a book around about that or something like it’s like the opposite of an adrenaline rush, right.
+
+\[00:29:24\] Whatever that would be. It’s like flush of calm instead of a flush of energy. And cause like I’m thinking I’m a football fan. So I think of it in terms of the quarterback in football, at least when they’re on offense, like that’s the only player that touches the ball, every single play. Right. And so there’s so much pressure on those guys.
+
+\[00:29:41\] And when you see them interviewed after a game, they’re the same way you see Peyton Manning or Tom Brady up there, like, unless something went really wrong, they’re not too animated. And they’re just kind of like, yeah, we went out and gave it our best and I’m just glad the guys came together. And you know, it’s just very monotone, very even keeled.
+
+\[00:29:55\] Yeah. So, yeah, I think it’s a very similar thing, but. What I wanted to touch on or make sure I touch on is the book that you published recently called finding clarity and uncertainty. And when we’re talking about fear and managing risk, As we mentioned before that is kind of exacerbated in this current  environment that we’re struggling through together is like, Hey, I was already stressed out about my business and now I’ve got to worry about logistics concerns and the economy crashing and consumer spending going down and all these other  things.
+
+\[00:30:22\] And there’s not just a business impact to that. There’s a personal mental health aspect to that. And you’ve, you’ve talked about kind of the full spectrum self-care so I’d love to give you an opportunity to talk about how people can manage that fear or manage that risk or manage that anxiety when it’s even worse now in the times that we’re going through.
+
+\[00:30:39\] **Nick Disabato:** \[00:30:39\] Yeah. So I’ll talk high level, and then I’ll talk a little bit about some circumstances. So as a fellow business owner, I am, I am well aware of that. Your behavior as a business owner, the financial decisions you make, the way you invest, the strategic decisions you end up making, the way you execute on them.
+
+\[00:30:58\] All of that is a factor of your appetite for risk, right? It’s the risk of not getting back your investment, maybe doing too well, you know, some of you laugh, but that could be a disaster, right? Like, and when you are under periods of stress, your tolerance for risk decreases. And that happens as an animal under pressure that happens in your personal life, that happens in your business.
+
+\[00:31:28\] And so when the pandemic hit in the middle of March, all of a sudden everyone’s appetite for risk myself included, like we put spending on hold for three months, they all cratered, right. People fired staff, people stopped product launches, people retool their black Friday strategies. Yes. In March people fired me.
+
+\[00:31:49\] It sucked. And at the end of March, I basically just sat down and rage wrote a book about how to make rational business decisions during periods of stress, because that feels like. A contradiction, but it’s essential. You have to still like your business doesn’t care how bad you feel this morning, or whether there’s a pandemic outside or whether you’ve been stuck inside for six months.
+
+\[00:32:16\] It doesn’t, it’s just going to keep on humming and you feed the beast or you don’t. And so how do you account for that? How do you deal with all of that? How do you do it in a way that is gentle to yourself and to your coworkers? Because they may be looking up to you and you don’t want to mess that up.
+
+\[00:32:33\] That’s not good. So I’ve done a lot of like my own research around how to care for yourself as a business owner and what cognitive biases could potentially tank your business. This is something that I care a great deal about because I run a business and because I consult with people who run businesses.
+
+\[00:32:51\] So there’s that end of it. And then also in my own personal life, I’m just ravenous about, self-care literally, I’m doing yoga this evening, taking a bath and going to value like nine 30, and it’s not a bit, it’s something that I actually genuinely believe is important for a person’s wellbeing that.
+
+\[00:33:07\] Ended up bleeding into my professional life. When I realized that caring for yourself in the same sort of textbook way is good business. It is you’ll end up making more money. If you set healthy boundaries, take care of yourself and get over your shit. That’s it. 
+
+\[00:33:22\] **James Sowers:** \[00:33:22\] I was just curious, what kind of tangible benefits have you seen in your business from the self care you’re doing outside of work?
+
+\[00:33:28\] Right. Like, I understand that, you know, we get into the situation and COVID takes over the world, a couple of clients fire you, and then  you’re reeling from that a little bit that unexpected punch, you start taking care of yourself a little bit better, presumably, and then things start to get better and that’s probably not a coincidence.
+
+\[00:33:44\] Right? So like, what were some of those positive, like turnaround story kind of elements that you saw in your business? 
+
+\[00:33:49\] **Nick Disabato:** \[00:33:49\] God, that’s the question. I mean, is it, is it lazy to say it? Yeah. Everything like, I don’t know. There have been times when I’ve had to have hard calls with clients and I’ve been so better equipped to do it because I actually meditate.
+
+\[00:34:04\] It there’ve been times when I don’t think I would have been able to close the deals. I would have been able to close if I hadn’t been good enough at storytelling, it was because I decided not to drink the night beforehand. Right. I’d write better emails. I write better reports. I just write better. 
+
+\[00:34:19\] I do better podcast episodes because I’m drinking green tea the entire time.  I know it’s a cop-out, but you are able to show up and be more present as a human being. By doing the basic wellness things that everybody frankly needs to be doing in 20, 20   
+
+\[00:34:37\] **James Sowers:** \[00:34:37\] well, and you know, I think that a lot of people hear that and they’re like, Oh gosh, Nick and James are going to sit here and tell me, I need to go jog every morning or do yoga or eat. Right. If you think that stuff is mushy or soft or however you might think about it in your mind, like it doesn’t have to be like that .
+
+\[00:34:51\] When I’m thinking about self-care, I’m thinking about giving myself. The space to be successful. Like for something like this, I know a lot of people will schedule themselves back to back to back and then hop on this call right away with no preparation. Try to interview Nick, try to get something good out of it and not perform at their highest level.
+
+\[00:35:07\] And so, like, I think, I can’t remember where I heard this from. I’d love to get them attribution, but basically, yeah. At one point I heard from somebody that if you have a 60 minute meeting, you should schedule at least 60 minutes to prepare. Right. And that doesn’t all have to be like right in front of that meeting, but you should save 30 before that meeting to get in the right mindset and do 30 the night before, or a couple of days before or whatever, like the point is to give yourself enough breathing room so that you’re not rushing from thing to thing so that you can be present.
+
+\[00:35:31\] I imagine that’s what meditation does for you. If you meditate before a client call, it probably helps you center and come into it with a good mindset, a healthy mindset. 
+
+\[00:35:38\] **Nick Disabato:** \[00:35:38\] And I take 60 before and 30 after. And you might be listening to this dear listener and thinking I’m like, I can’t do that.  No you’re wrong.  That was a conscious decision. Like breaking your schedule is a conscious decision. Yeah, 
+
+\[00:35:50\] **James Sowers:** \[00:35:50\] it could be  we all take too much on for ourselves and we don’t want to let go of that control, but self care can just be as simple as delegate, more tasks that you hate doing, or that puts you in a negative mindset, get them off your plate, give it to somebody who loves to do that kind of stuff.
+
+\[00:36:03\] And for yourself, and don’t necessarily replace that with more stuff, right. Like just do less, but do it better. So, I guess the only reason I brought that up is because like, even though we might talk about eating healthier, giving up alcohol, whatever, exercising, more like that’s part of it, but it doesn’t necessarily have to be just the stuff outside of work.
+
+\[00:36:20\] There are things that you can do between nine and five that can make your mental health improve steadily over time, I would say. And I think one of those things that’s really helped me. That I got from your book is community and having a community to support you both inside and outside of work. So inside might be like a mastermind and outside might be your local community.
+
+\[00:36:37\] So I know, especially the local side of things is really important to you based on what I’ve seen over the years. Maybe you want to talk about that for a little bit and maybe talk about masterminds as well. 
+
+\[00:36:45\] **Nick Disabato:** \[00:36:45\] Sure. Well, I live in Chicago, which is one of the better cities for community, and then I’d stay it’s because it feels like a small town all the time.
+
+\[00:36:53\] And it’s just a place where everyone is going out and doing stuff all the time, even when it was minus 50 out. So like, It works really, really well for that. And I’ve kind of become a  decent connector in the industry and a good gatherer of the people, right? Like I can send one row text out and have 25 people in my backyard just hanging out.
+
+\[00:37:13\] And I’m really grateful to be doing that. It’s just something I’ve spent a lot of time investing in because I think that for me, the vast majority of my friendships, they happen in person. And maybe you’re different, but like, for me, I don’t think there’s any substitute for face-to-face contact. 
+
+\[00:37:28\] This is working, you know, we’re able to exchange some ideas, but like friendship is different. Right. I can’t cook you a meal on, so there’s. There’s definitely that aspect of it, but for me professionally to, because I’m a solo business and I’m sort of low key hate co-working spaces, I get a lot of value out of like 
+
+\[00:37:46\] I co-run a Slack for other consultants. I run a mailing list where I encourage replying and asking me questions and stuff like that. And I spent a lot of time in meetings with clients. Like all of those things, there’s still allow me to foster the kind of human connection that keeps me from feeling lonely and isolated, especially right now, but really all the time I’ve been practicing this for eight years.
+
+\[00:38:09\] And I think all of that matters. I think that people, they want community, right. Just ambiently happened around them without realizing that it takes work. And quite frankly, you have to put in the work. Right. I don’t know what else to say about it. 
+
+\[00:38:22\] **James Sowers:** \[00:38:22\] Yeah. I think a lot of people default to Facebook groups or LinkedIn groups and like, man, those places are toxic.
+
+\[00:38:28\] Like the signal to noise ratio. There is miserable. I hate it. I don’t want to engage there, but like what we’re talking about, I think we’re at least what I’m picturing in my mind is totally different. This is like a small intimate group of people who are right there alongside you, or maybe even a step or two in front of, or behind you, but like close enough that like you can sympathize with each other and say, Hey, I just went through that.
+
+\[00:38:47\] Here’s what you want to do differently. So you don’t screw up like I did or. Hey, I’m going through this. Has anybody already seen this? Can you help me navigate my way through it? And that’s I think the ideal situation and what is it? I think it’s Dunbar’s number that says, like, you can’t have more than 200 intimate connections because outside of that, you’re just kind of acquaintances or whatever.
+
+\[00:39:03\] And so like, that’s all we’re looking for is not your 3000 connections on Twitter or LinkedIn or whatever you have, like it’s who are the dozen people, you know, that like really level you up personally and professionally increase the frequency of touch points that you have with those folks and your life will be better for, and your business too.
+
+\[00:39:18\] I would say. 
+
+\[00:39:19\] **Nick Disabato:** \[00:39:19\] Yeah, for sure. I think that for me, the perfect professional community would be two dozen people. And one dozen of them would be one step ahead of me in their career. And the other dozen would be one step behind me because then I feel like I’m helping and I’m useful and I’m leveling other people up.
+
+\[00:39:35\] And then I feel like I’m being helped by the other half right now. Obviously it’s messier than that, but like, that’s the kind of configuration you want to be considering hire people who are just barely more sophisticated than you, who just solve the problems that you’ve got in front of you. And then you want to be able to mentor other people.
+
+\[00:39:53\] Right. And the tool doesn’t matter. You can have that happen on Facebook, I guess, in a private group or something. Right. I have it on Slack, but there’s discord. There’s mighty, there’s a billion things. There’s IRC. Do you remember IRC does that, 
+
+\[00:40:06\] **James Sowers:** \[00:40:06\] right? I don’t know if that’s still a thing. I’m sure it’s out there.
+
+\[00:40:09\] **Nick Disabato:** \[00:40:09\] Start a community on IRC. Wanda, be awesome. 
+
+\[00:40:14\] **James Sowers:** \[00:40:14\] And bring it back. It’s retro.
+
+\[00:40:15\]The point you made about being the great connector , because I actually want that to be my personal brand. I jokingly put a trademark. Symbol next to it, but like, I want to be the great facilitator, right? It’s super rewarding for me to hear something from you and say, Hey, I’m looking for a Facebook ads consultant.
+
+\[00:40:29\] And I say, I know three Facebook ads, consultants, one specializes in X, one specialize in Y whatever. And I’ll introduce you to whatever one is the best. And when those people connect and they end up doing business together or whatever they’re doing on the personal front together, like that’s so rewarding to me.
+
+\[00:40:43\] And that’s, I think an undervalued aspect of self-care is like, it doesn’t always have to be. I need to go out and find resources to help me feel better. It’s like, let me help other people. Let me mentor, let me make connections. Let me educate. And that will make me feel better and put me in a better mindset.
+
+\[00:40:58\] At least that’s my unique perspective. I’m sure it’s probably similar for you and other people out there listening, 
+
+\[00:41:03\]I just have a couple more questions for you.  I definitely wanna make sure we touch on this. Black Friday, cyber Monday Bonanza product that you put together and I believe that’s recorded.
+
+\[00:41:10\] Right? So folks can still purchase that and watch the recording because it was a live event that already happened. But I thought it was interesting that you worked with Val on that, who is a notable email marketing expert. And that brought to mind for me, like. How do you view the relationship between conversion optimization and other marketing channels?
+
+\[00:41:30\] Like email SMS. I’m curious if you work on a client engagement where they have an email marketer and they have you guys get on a call together or something and talk about we’re running this campaign and you’re running these tests. So like how do these things relate to one another? What’s your experience there ?
+
+\[00:41:44\] **Nick Disabato:** \[00:41:44\] I know that’s a fantastic question. Yeah. So the relationship between CRO and email is generally, if you have email prepared well, and you have an email marketer on staff and you’re like actually turning around good emails and you’re not just emailing them on black Friday, once a year, I generally don’t have to do my job.
+
+\[00:42:03\] Email goes like double the conversion rate and usually like 20% higher AOV minimum email prints money. If you have not hired for email and consciously resourced for email and developed a solid email strategy, do that before you hire me, please. So that you can just make more money. It’s a way easier and higher leverage way of going about doing it.
+
+\[00:42:25\] And it’s just the thing that every store does,  and that’s a large part of why we did what Val was because like, well, Amy, she’s brilliant and I love her dearly, but like, She has a unique perception of black Friday because of email and your emails are probably just going to sell you way more stuff than your Instagram ads.
+
+\[00:42:44\] Right? So to answer the other question, does I spend a lot of time thinking about breaking out traffic sources for CRO mostly in order to show that your ad spend is dismal, right. You might have positive a row ass, which is great, but usually your conversion rate is still like half of the site average from what you’re getting in from your ads, because nobody cares and nobody personalizes it, which blows my mind all the early notes, my brain that you don’t have a like custom welcome message for somebody from a Facebook campaign.
+
+\[00:43:12\] One-on-one. You can make a lot of money from it. 
+
+\[00:43:15\] **James Sowers:** \[00:43:15\] Yeah. Personalization, contextualization makes all the difference. Yeah. So I guess what I’m hearing there is like, you want somebody to get their marketing channels dialed in organic paid SMS, email. Those things need to be dialed in, they’re filling the bucket and then it’s Nick’s job to come in and make sure that that bucket doesn’t have any leaks, right.
+
+\[00:43:33\] Or at least minimize the number of leaks for the bucket so that you retain as many of those prospects into customers as possible. 
+
+\[00:43:39\] **Nick Disabato:** \[00:43:39\] Once somebody comes into your store. That is where my job begins. Yeah. That’s it, all the things that happened like out there. Great. How are other people I’m assuming you’re getting decent traffic in or getting enough in to get a conversion rate that you can invest in me.
+
+\[00:43:56\] That would make sense. You’re not just setting money on fire  somebody came to me once and they were like, we had an Oh 0.2, 5% conversion rate. I’m like, that’s dismal. They’re like, can you get it to three? I’m like, no, they’re like, that’s your job. I’m like, No really actually, it’s your job to get better quality traffic for me to do my job, 
+
+\[00:44:13\] **James Sowers:** \[00:44:13\] right?
+
+\[00:44:13\] Like there’s some kind of minimum viable performance you need because there’s a different problem there. Right? There’s a product market fit problem or a value proposition problem, or a pricing problem. Right. Something’s wrong that it’s at 0.25, and not at least one. Or one and a half or something like that,
+
+\[00:44:29\] **Nick Disabato:** \[00:44:29\] yeah. I mean, there’s a minimum sample size issue, but there’s also the issue that  people are coming in and not buying.  Maybe you should just sell a better product. I don’t know. That’s not my problem. 
+
+\[00:44:40\] **James Sowers:** \[00:44:40\] That’s funny. Okay. Well, the last question I have for you today, and it’s a bit off the cuff is I know you are prone to doing website tear downs.
+
+\[00:44:46\] I don’t know if you have a different term for them, but you’ll go into a website, critique it a bit, give it some constructive feedback and then package that up and sell that as a product or a subscription. I think it’s revised weekly, maybe on your website. So I’m curious if you’ve done one of those recently.
+
+\[00:45:00\] Maybe you haven’t, but if you’ve done one of those recently, what is. Something that was interesting or creative or unexpected that you saw that has a positive spin on it. Like you saw a website you’re like, Oh, it’s really interesting that throwing that that’s clever. That’s different. I’ve never seen that before.
+
+\[00:45:12\] I’ve never seen it quite this way before. Like anything like that, jump out at you. 
+
+\[00:45:16\] **Nick Disabato:** \[00:45:16\] So while revise weekly, we do two tear downs a month for our premium customers. So you pay 30 a month and. I give you a bunch of other things in addition to the tear down speed. But the big reason people do it is because they want to hear me yell at client stores.
+
+\[00:45:29\] So, but we have a, if you go to draft.edu/tear down, I do it for. You can pay me money and I will just record a 20 minute screencast and me going through your store.  And I found a really interesting one nine, I can’t really go into detail cause client confidentiality, but they had a masthead that instead of doing the normal thing where it was like a full bleed situation, they had three modules that were men, women accessories for your apparel store.
+
+\[00:45:55\] And I’m just like that. Yeah. That’s the only thing people care about. Isn’t it? It’s just. The next step. And they still had the full bleed background, the nice photo to that, that shrunk to one up on a mobile displays. Yeah. And it worked out okay. Man, I was just like, why don’t more people I just used into the microphone, like, why don’t we have, you can have dwell calls to action or something like that, but like, why don’t people play with the mass type layout more, but it was fun.
+
+\[00:46:25\] Yeah, 
+
+\[00:46:26\] **James Sowers:** \[00:46:26\] so right under the main navigation in what somebody might call the hero section or whatever, they had a three column layout and it was men, women, and accessories with a background image. 
+
+\[00:46:35\] Yeah. I’ve never seen that before. 
+
+\[00:46:36\]Well,  I want to give you the opportunity to tell folks where they can learn more about you or plug anything that you’re actively working on that has you excited?
+
+\[00:46:42\] So let’s go ahead and do that before we wrap things 
+
+\[00:46:44\] **Nick Disabato:** \[00:46:44\] up. Yeah, well, the book finding clarity and uncertainty is that I drafted, I don’t use slash clarity, finding clarity. If you want to just go to my website, it’s at draft.edu. Sign up for my mailing list at draft dot anew slash revised slash weekly. This will all be in the show notes because we respect ourselves and our audience. That’s it. Thank you so much for the opportunity. This has been really lovely. 
+
+\[00:47:06\] **James Sowers:** \[00:47:06\] Yeah. Thanks for joining me.
+
+\[00:47:06\] I really enjoyed it, Nick. And I’d love to have you back to get into some of the more technical stuff, because I know you can run circles around me in terms of statistical analysis and actually. Setting up Google analytics to properly track data and setting up goal tracking and events and all that stuff.
+
+\[00:47:19\] We got into it a little bit today, and I would love to just nerd out on that with you for a while, because I would learn a ton. I know very little about that, and I’m sure that there are listeners out there feel the same way. So maybe down the road, we’ll have you back. I’d love to do that. 
+
+\[00:47:29\] **Nick Disabato:** \[00:47:29\] No, I would be so grateful to have that.
+
+\[00:47:30\] That’d be lovely. 
+
+\[00:47:31\] **James Sowers:** \[00:47:31\] Awesome. 
+
+\[00:47:32\] **Nick Disabato:** \[00:47:32\] Thank you. Have a great day. Thank you. 
+
+\[00:47:35\] **James Sowers:** \[00:47:35\] Hey everybody, this is James again. And before you go, I just wanted to invite you to join one of the coolest things I get to work on. As director of marketing here at the good it’s called the e-commerce insiders list. And it’s a private version of this podcast feed that gets you access to tons of additional bonus content, like extra interviews, Q and a sessions, website, tear downs, and anything else we can dream up.
+
+\[00:47:53\] It doesn’t cost you anything, but your email address. And we promise to always respect your inbox. This is just our way of forming strong relationships with our listeners and making sure that we produce content that is actually valuable to you and to your business. If you’re interested, you can join the rest of the e-commerce insiders by going to the good.com/podcast.
+
+\[00:48:10\] And dropping your email into the form at the top of the page, we’ll follow up with directions for how to access the private feed and you’ll be off and running. Like I said, this is one of my favorite things that I get the opportunity to work on because it lets me interact directly with e-commerce founders and leaders.
+
+\[00:48:24\] Just like you. If you’re interested, I’d love to see your name pop up in my notifications until then keep an eye out for the next episode of the e-commerce insight show. And we’ll talk to you soon.
+
+##### Find out what stands between your company and digital excellence with a custom 5-Factors Scorecard™.
+
+#### About the Author
+
+### James Sowers
+
+James Sowers is the former Director of The Good Ventures. He has more than a decade of experience helping software and ecommerce companies accelerate their growth and improve their customer experience.

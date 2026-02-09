@@ -1,0 +1,190 @@
+# Scaling from $1 to $10 million ARR
+
+## Bessemer's early-stage playbook on how to make effective scaling decisions to become a strong Series B+ company
+
+Founders may wonder why Bessemer’s growth-stage investors are penning an early-stage playbook. Well, while we typically start looking at companies when they hit $10 million of ARR, or thereabouts, we know that becoming a strong Series B+ company begins during the earliest innings of finding product-market fit and building go-to-market strategy. 
+
+### **What’s the purpose of this $1M to $10M ARR playbook?**
+
+As part of the Scaling Series in our [Startup Growth Guide](https://www.bvp.com/startup-growth-guide), we’ll break down the steps required for a company to go from $1 to $10 million of annual recurring revenue (ARR)—and what these cloud businesses’ operational metrics look like. Keep in mind that every business is different and has its own nuances, but these key elements characterize a business with strong growth potential, across each major business function: 
+
+**Key elements for growing from** **$1M to $10M ARR**
+
+*   **Product**: Evolve from a single feature to a platform by layering new modules and features that address the needs of your ideal customer profile (ICP).
+*   **GTM**: Transition from founder-led to scalable, sales-led processes, and formalize customer success to drive renewals and expansions.
+*   **Finance**: Map runway to milestones, focus on growth endurance, and balance growth with profitability.
+*   **Team**: Build a full bench of functional experts, shifting from engineering-dominant to sales-dominant as you approach $10M ARR.
+*   **Metrics**: Track gross/net retention, ARR growth rate, CAC payback, CLTV/CAC, gross margin, growth endurance, efficiency score, and FCF margin.
+
+Companies at the $1 million ARR stage generally do not have—and are not expected to have —these four pillars built out, but in this guide, we will share insights and tactics on how to get there. 
+
+## Product
+
+### **What characterizes the product journey from $1M to $10M ARR?**
+
+**For product, transitioning from $1 million to $10 million of ARR is the journey from a delightful feature company to early signs of a platform.**
+
+![$1MM to $10MM in ARR in product](https://www.bvp.com/assets/uploads/2022/04/scaling-from-1-to-10-million-of-arr-product.png)
+
+At $1 million of ARR, companies have generally shown product-market fit with some set of core users who love the product—but there are often material gaps.
+
+### **How should companies approach product expansion during this stage?**
+
+**On the path to $10 million in ARR, aim to** **fulfill the product vision for your initial ideal customer profile (ICP)**.  This is exactly what the [Netlify](https://www.netlify.com/) team did on their journey to the $10 million ARR revenue milestone. 
+
+At $1 million of ARR, Netlify promised developers an easier git-based workflow to build, deploy, and develop web resources without the need to worry about infrastructure and hosting. As revenue trended upward, Netlify deepened this commitment to the developer audience by releasing features like Deploy Previews, Netlify Functions, Netlify Drop, Netlify Large Media, and Netlify Dev. By relentlessly focusing on its developer ICP, Netlify grew its self-service user base from approximately 400K at $1 million of ARR to approximately 1.5 million at $10 million of ARR over a period of roughly two years.
+
+Early on at $1 million, most companies’ products tend to be minimally viable—a half-realized, half-vision with singular features—albeit with strong product-market fit. More than anything, a product at this revenue stage should demonstrate the ability to identify and [establish an entry point into net new customers](https://www.bvp.com/atlas/10-product-led-growth-principles/?from=feature#5-Establish-a-clear-initial-entry-wedge). But as you progress to $10 million of ARR, it’s time to explore **natural upsell triggers or opportunities for expansion.** 
+
+![$1MM to $10MM in ARR in product](https://www.bvp.com/assets/uploads/2022/04/scaling-from-1-to-10-million-of-arr-product-slide-2.png)
+
+During this process, companies should start to layer on modules and additional features that not only cement core champions, but also help product to expand to other adjacencies. This is a strong sign of an emerging platform. As we highlighted in [our Seed Investment Memo](https://www.bvp.com/memos/twilio), Twilio illustrated this strategy in practice in its early days. In Twilio’s first product iteration, customers could sign up for an account with Twilio, pick or port a phone number, and learn five simple building blocks to build a voice application. And while this $1 million ARR product was well-loved, Twilio iterated constantly on its pathway to $10 million of ARR by incorporating new features and product dimensions. The team kept a running list of frequently requested features from early adopters to advance functionality, like asynchronous call redirecting, SMS, and three-way conferencing. As Twilio layered on these features, the team unlocked upsell opportunities while also developing their emerging platform potential. 
+
+At the $1 million ARR mark, you should think of your most engaging feature that captivates customers as a Trojan Horse. From there, **sequencing new product launches is key in realizing your full platform vision**. The initial feature wedge is likely not your ultimate company or platform vision, but through feature-led product expansion, you can get customers to rely on your products and guide them into seeing the full vision over time, without having to buy into a transformative vision up front. This approach has a secondary benefit of allowing the sales team to experiment with discretionary pricing to [ultimately land on the right strategy](https://www.bvp.com/pricing-course). 
+
+[LaunchDarkly](https://launchdarkly.com/) is a shining example of this approach. Early on, LaunchDarkly positioned itself as a feature flagging tool, a helpful yet discrete tool that allowed developers to turn on and off specific features of a product without changing underlying production code. Deployment was simple, easy, and self-serve, allowing LaunchDarkly’s flagging tool to be used in contained circumstances without an enterprise level deployment. Over time, however, more and more products within a company onboarded to LaunchDarkly, and it became the platform of record from which all products were released and deployed. It became core infrastructure with heavy customer reliance. From this position of strength, LaunchDarkly now delivers its entire feature management platform vision to its customers, inclusive of experimentation, data insights, and a connectivity suite.
+
+### **What are the most important product metrics for success?**
+
+*   **[Gross retention](https://www.bvp.com/atlas/scaling-to-100-million#Gross-and-Net-Retention)**—If customers renew their contracts, you know your product is valuable to them. You should evaluate gross retention on both a logo and dollar basis, tracking both the number of customers that maintain your service and how much money they represent.  
+*   **[Net retention](https://www.bvp.com/atlas/scaling-to-100-million#Gross-and-Net-Retention)**—Net retention is a strong signal of product value, as it reflects your customers’ desire to renew and upsell within their organizations, often pulling product through other users and teams. A good rule is that you should have strong net retention (for your segment) in your core before you allow yourself to expand your product suite. The sequence is: get to product/market fit, establish strong net retention in your ICP customer base, then broaden your appeal. 
+*   **[Product North star](https://www.bvp.com/atlas/10-laws-of-cloud#Law-6-Discover-your-secret-KPIs)**—In addition to gross retention and net retention, which are applicable to every cloud company, we suggest that companies determine their individual product North stars. This should be a product metric that is a leading indicator of revenue. For DocuSign it was signed envelopes, for Twilio it was API calls on initial messaging, for Zapier it was activations. For your company it could be these, monthly active users (MAUs), or something else altogether.
+
+In addition to the qualitative indicators we shared above, there are quantitative metrics that product leaders can rely on to gauge its success in product. For definitions and a deeper dive on these metrics, refer to our [Scaling to $100 Million report](https://www.bvp.com/atlas/scaling-to-100-million#Gross-and-Net-Retention).
+
+![$1MM to $10MM in ARR in product](https://www.bvp.com/assets/uploads/2022/04/scaling-from-1-to-10-million-of-arr-metrics-to-gauge-your-success-_in-product.png)
+
+## Go-to-market strategy
+
+### **How does GTM for businesses evolve from $1M to $10M ARR?**
+
+**For GTM, transitioning from $1 million to $10 million of ARR is the transition from founder-led to sales-led sales.**
+
+![$1MM to $10MM in ARR for GTM](https://www.bvp.com/assets/uploads/2022/04/for-gtm-scaling-to-10m-v2.png)
+
+At $1 million of ARR, it is typical—and expected—for a CEO to be in sales pitch meetings. They know the product and vision best, demonstrate gravitas by nature of their title, and can make accommodations that individual sales reps cannot. Also, at this juncture, logo acquisition and developing referenceable customers is so important that it is a worthy use of a CEO’s time. However, it doesn’t scale. A CEO or founder can only do so much alone, which is why early-stage cloud startups need to transition from a founder-led to a sales-led model. The major business risk during this transition, though, is that hiring salespeople is massively costly, yet you cannot guarantee ROI since the sales process is still unknown.
+
+At this stage, your salespeople are trying to sell in the absence of any sales resources or a playbook, and the priority is to try to create that playbook as quickly and as effectively as possible. 
+
+### **What are the best practices for businesses when transitioning from founder-led to sales-led sales?**
+
+We therefore recommend that before scaling up a sales org you **experiment early and quickly to hone your sales process and its components**: What is your target average contract value (ACV)? Is it more effective to sell bottoms-up or top-down? How do you engage your champion, and what is the customer wedge? Equipped with this early sales playbook (which will stay iterative), many salespeople can start selling effectively and migrate sales responsibility from the CEO. 
+
+But not all salespeople will ramp quickly, if at all—all the while you are assuming incremental sales costs as you onboard more heads. We therefore recommend that you **respect the sales and marketing learning curve** as you ramp your sales team. Hire one or two salespeople to start and only continue to hire once those initial reps are hitting market quotas autonomously and lead velocity rate exceeds quota capacity. You should be putting metrics in place even during the rep ramp periods to track the effectiveness of their scaling.
+
+![](https://www.bvp.com/assets/uploads/2022/04/gtm-early-stage-playbook-teleport-atlas-image.png)
+
+[Teleport](https://goteleport.com/) provides a great example of these principles in action. Teleport provides a unified access plane to developers and engineering organizations, allowing them to access distributed computing resources, but its software also provides audit and security benefits to chief information security officers (CISOs). As the business grew from $1 to $10 million ARR, it needed to understand how its ideal sales process combined bottoms-up developer acquisition with top-down sales wedges for security, compliance, and engineering before ramping up its sales team. 
+
+In the words of Teleport’s CEO, Ev Kontsevoy, “Before we ramped sales, we needed a crisp answer to four questions: What do we sell? Who is our customer? Why do they buy? And why do they buy from us?” This simple, yet critical exercise provides the clarity sales teams need to find prospects willing to buy, sell against specific use cases, and develop the pitches that will successfully respond to customer pain points. 
+
+After the Teleport team successfully answered those questions, and when prior reps were ramping effectively and hitting productivity targets, they hired more reps. By $10 million of ARR, Teleport had a scalable sales and marketing organization that was achieving ARR targets with such predictability that the company felt confident it could invest further by hiring a new chief marketing officer and chief revenue office to oversee a huge ramp period. By combining the two steps of understanding the sales process with evaluating sales reps against rep productivity and performance metrics, founders and CEOs can ensure that sales expense is justified by topline ARR, rather than just being a cost center. By $10 million ARR, investors want to see a repeatable, scalable sales motion with a clear lead funnel, reps hitting quota consistently and independently, and with a clear understanding of the customer wedge.
+
+We have covered how scaling a sales team should look internally, but we should also speak to the customer perspective. As we mentioned in the product section above, a company’s goal on the path to $1 million ARR should be simply to build a product that someone will buy, then on the path to $10 million of ARR, the mission should be to build more features and modules that your ICP needs. **The analog to this from the sales side is to formalize a customer success function, which has two primary benefits.**
+
+The go-to-market org becomes a vehicle of not only revenue generation, but also of product iteration.
+
+Through working closely with customers, taking feedback, and troubleshooting issues, customer success can partner with product to deliver feature requests and product roadmap suggestions, deepening product’s ability to build towards an ICP and to find effective triggers for expansion. 
+
+At [Auth0](https://auth0.com/), as we explored in our [memo](https://www.bvp.com/memos/auth0), co-founder Eugenio Pace emphasized the importance of customer success early and assumed the responsibilities of a VP Customer Success. The entire product team listened closely to early adopters to incorporate their feedback. They also provided self-serve documentation to streamline onboarding and troubleshooting, which was a key request that drove customer love. 
+
+> Through building a customer success function, you can promote both renewals and expansions.
+
+At Auth0, the tight product and customer success flywheel ensured that customers were deriving strong value from the product, which ensured not only renewals but also expansions. Auth0 achieved best-in-class net dollar retention throughout its scaling journey. As you build your customer success muscle, note that generally CS does not begin as a formal function, but will rather be under the purview of a single individual. It will then branch out as an independent function when you have enough customers coming up for renewal.
+
+### **What early metrics indicate GTM success?**
+
+*   **[ARR Growth Rate](https://www.bvp.com/atlas/scaling-to-100-million#ARR-Growth-Rate)**—ARR growth is a key signal to determine whether a company has the product, sales momentum, and demand to become a market leader. The strongest companies with the best products will find a market pull that lifts revenue year over year. 
+*   **[CAC Payback](https://www.bvp.com/atlas/scaling-to-100-million#CAC-Payback)**—Customer-acquisition-cost (CAC) payback is the rate at which the costs spent to acquire a customer are repaid by that customer, after which the customer becomes profitable to you. It will vary by segment, and we suggest measuring it on a quarterly basis at both the unit and sales org levels to determine overall sales efficiency. The shorter the CAC payback, the better
+*   **[CLTV / CAC](https://www.bvp.com/atlas/scaling-to-100-million#CAC-Payback)**—Customer lifetime value (CLTV) helps to bound CAC as the total value that a customer represents to a business. After repaying CAC, your company will be able to count the delta between CLTV and CAC as its profit. Maximizing CLTV / CAC therefore is a powerful indication of strong sales efficiency and future growth potential, and only after CLTV / CAC is 1x is a customer profitable to you. 
+*   **[Gross Margin](https://www.bvp.com/atlas/scaling-to-100-million#Gross-Margin)**—Gross profit is revenue after the costs of delivering software, which generally includes some customer success cost. The lower the services required to implement software the better for profit, and therefore gross margin becomes a metric for sales.
+
+In addition to the qualitative measures that we shared above, there are quantitative metrics that you should look at as you gauge your go-to-market team’s success. For definitions and a deeper dive on these metrics, please refer to our [Scaling to $100 Million](https://www.bvp.com/atlas/scaling-to-100-million#ARR-Growth-Rate) and [10 Go to Market Lessons](https://www.bvp.com/atlas/scaling-to-100-million-ramping-your-cloud-gtm-engine/).
+
+![$1MM to $10MM in ARR for GTM, metrics to gauge your sucess in GTM](https://www.bvp.com/assets/uploads/2022/04/scaling-from-1-to-10-million-of-arr-metrics-to-gauge-your-success-in-gtm.png)
+
+## Finance
+
+### **What financial strategies are critical between $1M and $10M ARR?**
+
+**For finance, transitioning from $1 million to $10 million of ARR is the evolution from a viable product to a viable company.**
+
+![$1MM to $10MM in ARR for GTM, finance](https://www.bvp.com/assets/uploads/2022/04/scaling-from-1-to-10-million-in-arr-finance-2.png)
+
+At $1 million of ARR, you likely have great product insights, but true company-building is not top-of-mind. You care more about getting your product in the hands of customers than about cash consumption, and more about interviewing your next CTO than about being interviewed by a VC for a financing. Yet on the path to $10 million of ARR, these things become incredibly important: cash flow is a company’s lifeline. We therefore recommend that on the journey from $1 to $10 million of ARR—and beyond—that you **map your runway to clear milestones,** which often comes in the form of creating an 8-quarter plan. As you make your plans for hiring, product expansion, geographic expansion, etc., ensure that you are prioritizing such that you have enough cash—enough runway—to hit your highest priority business goals as well as the key metrics that drive a top quartile next round of financing. 
+
+[Databook](https://trydatabook.com/), a customer intelligence platform designed to drive enterprise sales performance at scale, is a prime role model of this best practice. In a very disciplined manner, the company uses a structured scorecard to track progress against its yearly priorities. Tangible metrics are tied to each priority, from growth and efficiency targets to clear hiring milestones. The leadership team reviews this scorecard in detail on a weekly basis with individual teams and during quarterly board meetings to ensure that all stakeholders across the organization have visibility into the company’s progress.
+
+![](https://www.bvp.com/assets/uploads/2022/04/scaling-from-1-to-10-million-of-arr-anand-databook.png)
+
+### **How should companies at this stage plan for growth endurance and capital efficiency?**
+
+As you look to and achieve those milestones, it is important to **drive strong growth endurance.** While at $1 million, a finance function might be only managing to the next quarter, or even the next month, the reality is that the decisions made early on will affect what financials look like at the $10 million, and even $100 million mark. We know this because of the consistency of growth endurance in cloud companies. While not deterministic, growth endurance (the rate at which growth is retained from one year to the next) tends to be about 70% in private cloud companies, meaning that you should expect next year’s growth rate to be approximately 70% of the current year. Assuming that you want your cloud company to be among the strongest growth stage opportunities at the $10 million ARR market, growing 100%+, this implies a 140%+ growth rate the year prior. On the pathway from $1 to $10 million of ARR, your finance function should be strategically thinking about [Second Act](https://www.bvp.com/atlas/six-product-strategies-to-catalyze-your-second-act) products, go-to-market strategies, and hiring plans that will drive strong growth endurance in your market.
+
+![](https://www.bvp.com/assets/uploads/2022/04/scaling-from-1-to-10-million-of-arr-years-from-1-100mm-by-growth-endurance.png)
+
+While topline growth is the primary metric against which cloud companies are valued, as a CEO, remember to balance growth with profitability. Investors expect that startups will start off by being cash consumptive rather than cash generative, but they look very closely at that relationship to ensure that the decisions being made (on product, go-to-market, or otherwise) are effective. Investors expect to see investment rationalized by topline growth. 
+
+[Shopify](https://www.shopify.ca/) exemplified this principle in their early days, as we explore in our [Series A memo](https://www.bvp.com/memos/shopify). At the time of Bessemer’s investment, not only was the company demonstrating best-in-class ARR growth, but also it was doing so while growing its cash balance. As Shopify continued to scale, the company stuck to its efficient growth ethos and consistently outperformed even the top benchmarks for BVP’s efficiency score.
+
+Taken together, the strategic finance steps of mapping your way to the next milestone, driving strong growth endurance, and balancing growth with profitability creates a durable business—not one that is built on the hopes of landing a single customer in a single month, but one built for longer-term survival.
+
+### **What key financial metrics should you monitor?**
+
+*   **[Growth Endurance](https://www.bvp.com/atlas/scaling-to-100-million#Growth-Endurance)**—As the retention of growth rate from one year to the next, growth endurance captures the extent to which your business will be able to build momentum to exit velocity. Driving growth endurance drives long term value.
+*   **[Efficiency Score](https://www.bvp.com/atlas/scaling-to-100-million#Efficiency-Score)**—As the measure of growth to profitability, it helps companies to understand the tradeoffs between investment and cash generation. You want the investments you make to drive topline growth.
+*   **[FCF Margin](https://www.bvp.com/atlas/scaling-to-100-million#Free-Cash-Flow-Margin)**—Free cash flow (FCF) limits the amount of runway that a company has without accessing the capital markets, and tracking burn is key to understanding capital efficiency.
+
+Below are quantitative metrics that you should look to to gauge your success in finance. For definitions and a deeper dive on these metrics, please refer to our [Scaling to $100 Million report](https://www.bvp.com/atlas/scaling-to-100-million#Operating-Expenses). 
+
+Lastly, as a finance leader, it is helpful to understand the expectations for fundraising at your stage. We share typical valuation multiples, round sizes, and dilution metrics for companies between $1 and $10 million of ARR [here](https://www.bvp.com/atlas/scaling-to-100-million#Lesson-3-Know-Your-Worth).
+
+![](https://www.bvp.com/assets/uploads/2022/04/scaling-from-1-to-10-million-of-arr-0-metrics-to-gauge-your-success-in-finance.png)
+
+## Team
+
+### **How should team composition change as a company scales?**
+
+**For team-building, the transition from $1 million to $10 million is the journey of complementing a CEO or founding team with a full suite of functional experts.**
+
+![](https://www.bvp.com/assets/uploads/2022/04/for-team-scaling-to-10m-v2.png)
+
+At $1 million, a CEO or founding team will likely spike in some area, whether that is product, GTM, engineering, or otherwise. By $10 million, however, they should surround themselves with functional experts that refine the org structure and fill in any skill gaps. In order to do so, businesses must **know their superpowers and their kryptonite.** 
+
+We recommend that founding teams **prioritize complementary hiring**. Founders should start by hiring leaders that have the skill sets and experience that they lack, which will allow them to overcome scaling obstacles without slowing down. For example, [Imply](https://imply.io/), [founded by creators of Apache Druid](https://www.bvp.com/news/analytics-market-leader-imply-raises-70-million-series-c), hired strong GTM executives early on to complement their technical brain-trust. Powered by this talented bench of leaders with complementary skills, the company scaled efficiently in its early years from $1 million to $10 million—and has now grown far beyond.
+
+![](https://www.bvp.com/assets/uploads/2022/04/scaling-from-1-to-10-million-of-arr-for-team-with-quote-cards.png)
+
+### **What are the recommended hiring milestones by ARR stage?**
+
+Absent of data, we use the following rules of thumb when to recommend hiring functional experts: 
+
+|     |     |     |
+| --- | --- | --- |
+| **Function** | **Key metrics/benchmarks** | **Recommended milestones** |
+| **Product** | Gross retention, Net retention, North Star metric | Product expert by $2M ARR |
+| **GTM** | ARR growth rate, CAC payback, CLTV/CAC, Gross margin | Sales expert by $1M ARR |
+| **Finance** | Growth endurance, Efficiency score, FCF margin | Finance expert by $8M ARR |
+| **Team** | R&D, S&M, G&A expense ratios | Marketing expert by $4M ARR |
+
+By $10MM of ARR, you should have nearly a full bench of leaders that will propel the company in at least its next 18-24 months of scaling through $25 million or $30 million ARR. 
+
+Along this journey, expect to see team composition change from engineering-dominant to being sales-dominant, with middle management inserted across every function. In order to navigate those challenges, we recommend that you **hire a VP of People or Chief People Officer**, and you do so before these challenges arise. While that role is likely not first to be filled in the slate of senior leadership, we recommend it be in place by $10 million of ARR to tackle priorities such as boxcar grants and equity compensation; performance reviews and 360s across the org; diversity, equity, and inclusion initiatives, among other responsibilities. This person will also help with employee retention. 
+
+[Tackle](https://tackle.io/) is a great example of a company that prioritized hiring a VP People and Culture, Ellen Thorne, early in the journey and with great success. Tackle’s product helps companies scale their GTM through cloud marketplaces, and as it successfully helped companies unlock new channels of customer acquisition, business boomed and the team expanded rapidly. Under Ellen’s leadership, Tackle has grown its team by more than 2x to over 200 employees in the last year, while maintaining a cohesive, values-driven culture in a remote-first environment.
+
+*   **[Research and Development](https://www.bvp.com/atlas/scaling-to-100-million#Operating-Expenses)**—R&D is the income statement line item that captures product, including product management, product development, engineering, and design.
+*   **[Sales and Marketing](https://www.bvp.com/atlas/scaling-to-100-million#Operating-Expenses)**—S&M captures sales expenses, sales compensation, content and brand marketing, demand generation, and customer success expenses related to sales, among other costs.
+*   **[General and Administrative](https://www.bvp.com/atlas/scaling-to-100-million#Operating-Expenses)**—G&A includes the functions that run the back office of your company, including executive leadership, finance, legal and compliance, HR, information technology, and other administrative functions. G&A also includes outside costs for things like legal, travel, and auditing.
+
+In addition to the qualitative measures that we shared above, we can look at the expense breakdown of cloud companies’ profits and loss statements (P&Ls) in order to give us information about team composition. For definitions and a deeper dive on these expense categories, please refer to our [Scaling to $100 Million report](https://www.bvp.com/atlas/scaling-to-100-million#Operating-Expenses). 
+
+![](https://www.bvp.com/assets/uploads/2022/04/scaling-from-1-to-10-million-of-arr-benchmarks-for-team-growth.png)
+
+## Making strong early decisions is key to scaling effectively to a strong Series B+ business
+
+For founders, plotting your mid-to-late-stage success begins earlier than you might imagine. While every business is different, taken together, these key areas of development across product innovation, go-to-market strategy, financial rigor, and team development will go on to lay the necessary foundation for a business to ramp toward the $10 million ARR milestone. As investors on the Bessemer Growth team, we offer these guideposts to not only set you up for future success, but hopefully, to provide you with the insights so we can partner with you when you hit your revenue mark. 
+
+**If you’re on your way to $10 million in ARR, please email Janelle Teng at [jteng@bvp.com](mailto:jteng@bvp.com), also available at @NextBigTeng on Twitter.**
+
+_This guide was authored in part by Janelle Teng, Partner at Bessemer Venture Partners. Janelle specializes in early-stage investments with a focus on AI/ML applications, data infrastructure, developer platforms, and defense technology. With a background as a product manager at SalesforceIQ and strategic experience from McKinsey & Company, Janelle brings an operator’s eye to her investment work. She’s also a frequent contributor to leading industry reports, including Bessemer’s annual State of the Cloud, and is recognized for championing technical founders through frameworks and thought leadership on scaling high-growth software companies._

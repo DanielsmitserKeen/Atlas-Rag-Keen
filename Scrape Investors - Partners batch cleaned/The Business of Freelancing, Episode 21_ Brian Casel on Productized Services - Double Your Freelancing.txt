@@ -1,0 +1,387 @@
+# The Business of Freelancing, Episode 21: Brian Casel on Productized Services
+
+Have you ever wanted to get away from strictly selling your time for money? Is your long term plan to either escape consulting altogether (through something like bootstrapping your own products) or to remove yourself as a part of your “product”?
+
+Sooner or later, almost all of us get to this point. We want more control and creative input into the work we provide our clients. Productizing yourself is one of the best ways to do that. It allows you to dictate what you’re selling, what your customers get, and what it costs in a way that traditional services companies aren’t able to do.
+
+In this episode, I sat down with [Brian Casel](https://casjam.com/) of [Restaurant Engine](https://restaurantengine.com/) and [Productize](https://casjam.com/productize/).
+
+* * *
+
+**Brennan Dunn**:  I’m here with Brian Casel. Brian, welcome to the Business of Freelancing.
+
+**Brian Casel**:  Brennan, thanks for having me on. This is great.
+
+**Brennan**:  I know it’s Thanksgiving week, so we’re probably slammed. I wanted to thank you, first off, for coming on the podcast today. I want to talk to you today about something that seems to me all the rage online nowadays. That is having freelancers and consultants who productize their services.
+
+Before we get into that, I just want to do a quick intro for those of you who don’t know you. Brian is the host of “Bootstrapped Web,” a really great podcast that I recommend all of you subscribe to, and he’s also the owner of Restaurant Engine. He just released a new course called “Productize.”
+
+Brian, want to tell me a bit about, or tell the audience rather, not me…I know you. We’re mastermind buddies. Tell us a bit about who you are, how you got started, and what you’re up to.
+
+**Brian**:  I’m a web designer by trade. That’s usually what I tell people. I’ve been working on the Web for several years now. I started out working for a web design agency and then I became a freelancer. I did freelance web design for a number of years. I’ve been out on my own since early 2008. For a number of years though I did freelance web design and typical consulting jobs, small and then larger and larger clients over the years.
+
+But after a couple of years of that, I kind of got a little bit burnt out on working with the larger corporate clients and whatnot and I wanted to move toward products. I got into a number of different products over the years but the one that’s really been sticking for the last three years has been Restaurant Engine.
+
+That’s what I spend most of my time on today. Restaurant Engine is a web design service for, as you might have guessed, restaurants and food trucks and that kind of stuff. It’s delivered in a SaaS model ‑‑ software as a service. But really, over the last three years, it’s changed and evolved into much more of a productized service.
+
+**Brennan**:  So it’s less about giving them a template and saying, “Fill in your name and operating hours.” You actually do some sort of manpower in the background.
+
+**Brian**:  Absolutely. We do quite a bit actually. Even before customers sign up, we do a number of phone consultations with them and email follow‑up. We have a whole manual on‑boarding process. Then, once they’re signed up, my team manually sets up their website, does design customizations, inputs all their content for them.
+
+Basically we say, “Just send us your food menu or just send us your old website. We’ll take it from there and get you set up in three to five days.” Ongoing, my team also makes updates for them. If they get busy, which most restaurant owners do, they can just send us an email and we’ll make routine updates for them, like changing out photos, changing food specials and whatnot.
+
+It is very much a manually delivered service, but we’ve scaled it up and we’ve streamlined it using systems and processes and whatnot. I’ve just been plugging away and bootstrapping and building that up for the last three years or so.
+
+On the other side of what I do is writing and podcasting. My site is Casjam.com. That’s where I send a weekly‑ish newsletter, new articles about bootstrapping, building up a business and leveling up, a lot about making that transition from freelancing into a products business or just growing, leveling up in some way.
+
+Last month, I launched this new course Productize, all about building a productized service and not only launching the service, but also it goes heavily into the systems and processes and delegating, learning how to delegate to a team. Then there is a big section on marketing as well, how to market a productized service, how to get those very first customers and how to grow that over time.
+
+**Brennan**:  So basically what you’re doing is you created a niche web design company that sells your services, not as, “Hey, we’re a team of designers. Can you hire us?” and so on, but you sell it like a SaaS. You sell it like software, right?
+
+**Brian**:  Yeah.
+
+**Brennan**:  Your marketing site, for all I know, is a turnkey, just plug in my credit card and plug in some info and I get a site generated. But you’re saying that’s not how it works. From the perspective of me, the customer, I don’t really care how it works. But it looks like that, at least from my perspective.
+
+**Brian**:  Yeah, totally. That’s the big learning that I had with this. Ever since the beginning, some things have stayed the same and then some things have changed and have evolved, over the years. In the beginning, I launched it and it was supposed to be completely do‑it‑yourself, from my perspective hands‑off.
+
+I want customers to sign up, enter their credit card and a site is generated for them. Then they can set it up and manage it themselves. Technically, they can still do that today. But what I learned was, when we offer to set up the site for them, not only are they much more successful ‑‑ we can make sure the site looks great and it helps them get more customers ‑‑ but they also remain subscribed for a much longer period of time.
+
+They just get a whole lot out of it. They are more engaged when we’re doing the work for them. That was a great way of getting customers on board, but also helping them stay. Then we started charging for that set‑up service. Obviously it doesn’t make sense for us to be entering food menus that are 50 plus items long for free.
+
+We started charging for the service. It’s still extremely reasonably priced compared to, say, hiring a web designer or hiring someone like me a few years ago, which would have cost several thousand dollars to get a website done. We can get you up and running at a low monthly cost or just a couple hundred dollars per year. The economics, I think, make sense.
+
+Really, overall, what we are, like you said, we’re presenting it as a product. Here’s the price. We’re upfront about the pricing. It’s not the sort of thing where you have to…Let’s have a bunch of meetings. We’ll discuss scope. We’ll get back to you with a long proposal.
+
+We basically eliminate the entire discovery process. We’ve laid out this value proposition. Here’s what’s included. Here is who this benefits the most. Here are the problems that we’re solving. If you’re the type of customer who stands to benefit from this, then here is how to sign up.
+
+**Brennan**:  Which is obviously much better than just the open‑ended “Hey, I’m a web designer. Maybe I can create you a website for your restaurant that’ll actually get you more walk‑in customers,” or whatever they care about.
+
+One of the things I wanted to ask you about was…I imagine though that even though you have a relatively low setup fee, it’s still…Am I correct in assuming that the setup fee is really a loss‑leader for you and you make it all up on the back end?
+
+The way that most website projects that I see tend to play out is you have active development, which is “We’ll design it from scratch. We’ll create you five pages and all that other stuff.” Then they switch it into a retainer, which is just a lower, much smaller version of that.
+
+How much time do you guys spend up front? Are you making a profit off of that setup fee? If not, do you have down a pretty specific cancellation rate which then allows you to see…?
+
+Even though X percent of people cancel within X many months, I can still…On the backend, the people who are paying me each and every month, that’s where I’m…Am I correct in assuming that’s where you’re making your profit?
+
+**Brian**:  Yeah. I think you’re right that, overall, we are making our money on the back end, the ongoing, recurring service. One of the biggest plus points of this business, of what we’ve built here, is that we do have a very, very low cancellation rate. We have a long lifetime customer value.
+
+Even our very first customers who signed up three years ago are still subscribed with us today. Compared to other SaaS tools out there, like a software tool that you might use on the side here and there, Restaurant Engine, we’re providing their website.
+
+It’s a very central piece to a small business’ operation. They need to show themselves on the web. Once they’re established with us, we set them up, we optimize everything for them, and it’s working for them…
+
+**Brennan**:  They’re not going to move.
+
+**Brian**:  It really just doesn’t even make sense to move. If it does, then the cost and the time involved in switching is pretty high. In terms of the economics of it, we do spend quite a bit of time setting up their sites, but this really varies from customer to customer.
+
+Sometimes, they’re very hands‑on. They have a lot of feedback and revisions. We don’t make any limits on it. We’ll say, “Listen, we’re going to work with you on it until you’re happy with it. We’ll get it up and running and launched.”
+
+The vast majority of customers, we do get them launched in three to five business days. Most of the time, we can just grab the content from their old website, their Facebook page, or their PDF menu. We’ll get it all in there, and then we show it to them. They’ll say, “Looking good” or “Here are just a few tweaks.”
+
+It makes sense overall. The other piece to this is that we’ve streamlined our process, internally, quite a bit. I mentioned how early on when I launched it, I really wanted it to be like a do‑it‑yourself website builder.
+
+I invested a lot of time and money into building all these customization options and making it easy to input content and manage content. It is all built on WordPress, but we did quite a bit of custom work inside the dashboard of WordPress.
+
+What it turned out to be was all that work that we put into setting up those tools and the do‑it‑yourself options, now we actually use them ourselves to make our setup process extremely fast.
+
+We do have a number of templates that we start off with, but we’ll then customize them. We’ll even add some custom CSS work and whatnot. My team, they’ve done hundreds of these setups by now. They’re extremely fast and efficient with doing this stuff, so it works out.
+
+**Brennan**:  To be honest, that’s the biggest drawing point, for me, to productize services. It’s exactly what you just said. Brian is not a required component of a successful delivery.
+
+You own the company, but you’re not expected by anyone, by your clients or anyone, to be a part of that setup. Because you’re selling it as a “This is what you pay, and this is what you get,” it’s up to you to then streamline how efficiently you can get to that end goal of the site being up.
+
+You can either automate stuff by writing custom code and building stuff that allows you to churn out these sites faster, but on top of that, you can delegate out to cheaper talent, people to do this turnkey…Do this first, then this, then this, then this, and that’s how we get set up which I love.
+
+It’s so much better than just these open‑ended engagements that most freelancers have, where there isn’t any sort of process or procedure in place, right?
+
+**Brian**:  Yeah, totally. That has been pretty much, personally, my entire goal with building this Restaurant Engine business, since day one. I wanted to build a business that not only runs on its own, but actually grows every month without my having to touch any part of the procedure.
+
+A couple months back, my family and I took a vacation for about a week. We have a newborn baby. Took the dog and everything. I spent a week completely unplugged. We signed up six new customers that week. They all got set up. They were happy.
+
+I’ll check in and get updates from my team and whatnot, but essentially, that’s what I’ve been spending the last three years building, is this systematized operation that runs completely without me. Again, in the beginning, I wanted it to be built on software and using that.
+
+There’s some software built in, like I described. For the most part, it’s been through building these systems, writing lots of procedures, refining these procedures over time, hiring the right people, and just setting things up and then going through and picking out the pieces that are just not quite delegated yet.
+
+I would say today, about 90 percent of the operations are completely removed from my plate, and I’m now working on the final 10 percent. Through teaching about productized services, I find that there are two big groups or two buckets that these fall into. One is productized consulting, and then the other is this productized service business model.
+
+**Brennan**:  I’ve been using the terms interchangeably. What would you say the big difference is?
+
+**Brian**:  They all apply in different ways, really. Productized consulting, when I think of that, I’m thinking of a solo founder and somebody who might want to remain solo and isn’t necessarily interested in growing out a team. They highly value their time, but they also really value their craft.
+
+Somebody that I look to, a guy that you know, Nick Disabato, he founded Draft Revise. His service is really a brilliant productized consulting package that he’s put together. He does monthly A/B testing conversion optimization for his clients. When I was interviewing him as part of the research for the course, he was saying how…
+
+I look at an operation like his. Clearly, it’s set up that he could start hiring. He could systemize, delegate, and grow this operation, but he said he was totally comfortable working with his 7 or 8 or 10 customers at a time, just ongoing, building these strong relationships with his clients.
+
+Nick gets to focus solely on his craft, on the thing that he likes to do best, which is strategy around conversion optimization and whatnot. He’s been able to remove all of the other mundane, tedious stuff that often goes along with freelancing, like writing up contracts, chasing down invoices, proposals, and all that fun stuff.
+
+**Brennan**:  It sounds to me like a productized service is more like an agency model, whereas the Productized consulting offering is more a high‑value individual who works on some…You get a slice of his or her mind every month thing, right?
+
+**Brian**:  Yeah. It’s kind of like that. With a productized service business, I’m thinking more along the lines of something that it does grow and it does scale. You might call that an agency.
+
+Another great example of this would be Dan Norris. He built WP Curve. This business is entirely manual work. They offer personalized customer support for WordPress. In his first week, it was just Dan. He was doing live chat support. He even had a…He tells the story…
+
+**Brennan**:  I remember him telling me his phone would be next to his bed.
+
+\[crosstalk\]
+
+**Brennan**:  He’s in Australia. He has a bunch of us US‑based people. They’re buzzing him at 3:00 AM.
+
+**Brian**:  Exactly.
+
+**Brennan**:  I did not envy his lifestyle at the time. \[laughs\]
+
+**Brian**:  Exactly. He’s written about it. He’s talked about how he only did that for the first couple of weeks, and then he quickly began to hire the team and put those systems in place. This was only about a year ago. Over the past year, they’re at…Now they have a team of 20, 25 teammates, hundreds of customers. They’re just killing it right now.
+
+It’s all just systems, procedures, standard guidelines that his team follows. I’ve been going along that route, the productized service scaling‑up route, with Restaurant Engine over the past couple of years. I have that goal of removing myself as the founder.
+
+**Brennan**:  Would you say there’s any difference in benefits to the customer, between an internally focused productized consulting operation versus productized service? Case in point, Restaurant Engine. You sell growth‑enhancing, restaurant‑optimized websites, whereas what Nick’s selling is monthly website‑strengthening through A/B testing.
+
+Dan’s selling on‑demand smart person who can go in and fix stuff on your WordPress site.
+
+To me at least, from the benefit perspective, from a customer, there’s not a huge amount of difference. The way I look at it is more like is there anything, when it comes to your outward presentation, that’s inherently different about that distinction between a productized service company and a productized consulting company?
+
+**Brian**:  There is a difference, from the customer’s perspective, for these three examples that we just mentioned. Nick Disabato, Draft Revise, Dan Norris, WP Curve, and my Restaurant Engine. I think really the biggest difference is the type of customer that these serve. It’s three completely different people who have different values.
+
+Nick is serving a little bit of a higher‑end…
+
+**Brennan**:  He’s in the four figures a month, right?
+
+**Brian**:  Exactly.
+
+**Brennan**:  WP Curve is 70 bucks or something a month, right?
+
+**Brian**:  Yeah. They both might be working with businesses that are pretty large and have a lot of money to spend. The WP Curve value proposition is “Look. We’re just here to give you quick help with your WordPress site and give you that peace of mind that you could always just call on someone.”
+
+I’d imagine that a lot of his customers don’t even use their support service every single month, but they like just having it, having that security of knowing that…
+
+**Brennan**:  It’s an insurance policy.
+
+**Brian**:  …somebody’s there and it’s only costing them 70 bucks a month.
+
+**Brennan**:  They’re not going to be doing any sort of high‑level strategy, like “How should we optimize conversions?” They’re not going to do that. That’s not their thing.
+
+To me at least, that makes more sense, where productized consulting is more higher level, strategic, but lower volume, lower numbers of customers, I assume. Whereas with Restaurant Engine, with your price points, you necessarily need a lot of customers to make a profit because you’re not charging 2,000 a month per customer.
+
+**Brian**:  Exactly. One more note on what Nick is doing with the higher‑priced, more hands‑on, lower number of clients. You might start to look at that and say, “You’re getting into just straight consulting territory.”
+
+Like what I used to do. Any client comes to my door and wants any type of website. I could do it, or I could figure out how to do it, whether it’s e‑commerce, membership, or portfolio, whatever.
+
+What Nick is doing and what a productized consulting model is is you really only do one thing. You solve one problem. You have one methodology. Yes, it might be very hands‑on. You might get face time with the client every month and all that, but he only does conversion optimization. You wouldn’t go to Nick Disabato to have an e‑commerce website built.
+
+**Brennan**:  That’s right. I think now I understand. Just to recap, \[laughs\] because I want to jump into two more things. I want to jump into your recommendations for people who are at that stage where they’re saying, “I would love to get into this stuff. How do I start?”
+
+Secondly, I want to talk about process‑driven companies. You were involved, if I recall, in a startup that actually was focused on this at a time, but I know you’re really good at building these…I was listening to an episode of your podcast where Jordan was saying that he had a look at one of your processes and he was overwhelmed by how detailed and methodical it is.
+
+**Brian**:  We actually have a process for our podcast, how to get it edited and all that. \[laughs\]
+
+**Brennan**:  I need to hire you as a productized consulting offering for my internal stuff. Anyway, I want to talk…I want to shift the topic of the conversation real quick and talk about beginnings. The average listener of this podcast is probably still in the position where they’re selling time.
+
+They’re selling themselves as a talented individual and saying, “You basically can rent me. Here is my cost. Give me a problem. I will solve said problem for this much an hour or this much a week or whatever that might be.”
+
+The big question I get from people on my list is “How do I determine what to do?” I’m actually writing about this this week. A lot of people tell people that you should niche your services, that you should come up with a niche that you work within.
+
+A lot of people are worried about that. They say, “I don’t want to back myself into a corner. I can do, theoretically, anything. Why would I want to reject the law firm who wants the service that Restaurant Engine provides?” How do you recommend, I guess, going from strictly selling your time to making the first move toward some sort of productized service?
+
+**Brian**:  It’s really just getting down to focus. That means focusing on one service. I want to talk more about this in a second. It’s picking one service and then picking one customer who you’re going to focus on.
+
+I’ve written a lot about just doing one thing and one very specific service, but really what I’m talking about is one solution, tackling one big problem. I was actually reading your article, I think, last week, talking about how you’re putting together this new agency. It sounds like it’s a productized service model.
+
+I was looking at what you were talking about, the things that you would deliver to a client. Technically, it’s a number of different services. You’ll do some consulting, some writing, some programming, but you’re really solving one problem. That’s helping them build a better sales funnel on their website or their software.
+
+**Brennan**:  That’s where I started. I didn’t start with the “I could do split testing. I could do retargeting.” I don’t want to say “accidental,” but that was a spinoff off of when I understood what that problem was.
+
+I understood that because that’s at the heart of why people have hired me, traditionally. Even though my engagements are always wildly different, at the heart, there’s always some core need. That’s what I’m advertising that I’m solving.
+
+Again, any good product, you sell it on the solution and not the offer. The offer is what you do. The solution is what they get. I think that’s huge, regardless of what you’re selling. Whether it’s yourself or software, you need to think like that.
+
+**Brian**:  Exactly, and then that takes us to the next piece of this, focusing in on one customer. You’ve identified what is the problem that I or my team is best equipped to solve. We have our bulletproof methodology for how we solve this problem.
+
+Now, who has this problem? Probably a lot of different people have that problem. People need more sales. They need to save more time or whatever it is. Then you have to figure out who’s really experiencing this problem most acutely. Who can benefit the most from having this…?
+
+**Brennan**:  Who’s your ideal client? What does the business look like?
+
+**Brian**:  Once you have that nailed down, then it’s just a matter of finding more of those people and figuring out how can I reach those people, how can I build relationships with them, and all that.
+
+One distinction that I want to make here is people look at what I’ve built with Restaurant Engine. OK, you’ve focused on a niche vertical. I think that works in certain situations. That was the approach that I took when it came to building a web design service, but you don’t necessarily have to pick just one tightly focused vertical or industry to focus on.
+
+It can just be a group of customers who share the same problem or need. I’d imagine that your customers and your new agency, they’re not necessarily all email marketing service providers. They’ll be across‑the‑board software companies, I’m guessing.
+
+**Brennan**:  I focus or I split my niche concepts, I guess, into two different buckets. The first is vertical, like restaurant, law firm. What kind of business are they? What kind of business does the end customer have?
+
+The second is, obviously, what is the need. The agency I’m putting together, we’re going to be focusing on helping people who have a blog. They have content, but for whatever reason, that content is not resulting in any new leads or any new sales. Tying those two places together and those two steps together, I guess.
+
+That could be done. A customer could be. We’re selling that. You have a blog. This blog is supposed to be instrumental in your business’ success. It isn’t yet.
+
+The people who have reached out so far…DNS management company. What do you call it? Another agency, actually, a consulting company. There’s no…I’m not going to…I’m not…
+
+I do think if you can combine the two, you can have a really…If I can say, “I help restaurants who have blogs. These blogs are not…” Restaurants would be a bad example for this.
+
+I help law firms who have written content, but this content is not generating any new legal leads. That is a very strong position because I’m then focusing on a specific problem for a specific kind of business, but I don’t think that you need to have both to do this. I think you can just pick one.
+
+**Brian**:  I just remember a couple years back, when I was working as a freelance web designer, just taking on anything and everything and just offering a wide variety of services.
+
+What happened a couple of times was clients would come to me and say, “Hey, Brian, can you design us an e‑commerce website. We have these products that we want to sell. Can you do that?” I’m thinking, “Sure. Of course. Of course I could do that. I’ll put together a proposal. We’ll set it up. We’ll get you going with a really great e‑commerce site. I know all the tools out there. I know how to do this.”
+
+Then they say, “Can I see some examples of any e‑commerce sites that you’ve built?” I looked at my portfolio, and I didn’t have any recent projects that I could really show, “Look. This is an e‑commerce site that I’ve done.”
+
+I have all these other sites, really big, impressive sites, to show them, but not specifically a retail e‑commerce site. In my mind, I’m thinking, “That doesn’t matter. I know that I can give you a really great site.”
+
+In their minds, they’re thinking, “The portfolio looks OK, but we don’t know if he can really deliver this type of site because he’s never done it before or at least he can’t show us something.”
+
+Convert that to Restaurant Engine. We get restaurant owners coming to our site, looking at what we do, looking at our showcase, examples, and whatnot. They’re thinking, “Can they deliver a restaurant website? Of course they can.”
+
+**Brennan**:  That’s everything I’m saying.
+
+**Brian**:  This is all we do. It just becomes a much easier…
+
+**Brennan**:  It’s lower risk for them.
+
+**Brian**:  Exactly.
+
+**Brennan**:  It’s low risk.
+
+**Brian**:  Yeah.
+
+**Brennan**:  This is a bit off‑topic, but have you found that people who come to you for Restaurant Engine ever need anything more and you’re able to then…Have you done any sort of custom, big restaurant, out‑of‑scope‑of‑Restaurant‑Engine projects in the past?
+
+**Brian**:  Through Restaurant Engine, technically, no. We don’t offer special cases or things like that. We have had some pretty big restaurants come through and actually use our services. Multi‑locations and all that kind of stuff.
+
+**Brennan**:  No one’s said, “Hey, I’m PF Chang’s. I need online ordering built. Can you build it for us?”
+
+**Brian**:  No, but that’s an interesting one because we did add online ordering when we’ve partnered with another company. We built in their service to ours.
+
+We’ll have a number of requests. Sometimes, we’ll have to say, “No, that’s not quite possible.” For example, we do use templates. Sometimes, completely moving around the layout is just not possible because we have to use the same templates for everyone.
+
+Then we start to hear some requests that just come in over and over again. Online ordering was one of them. About a year and a half ago, almost every customer who came through was like, “Can you do online ordering? Can you do online ordering?”
+
+It became obvious. We need to add this in somehow. It’s a huge value‑add. It will get a whole bunch of new customers on board. That’s when I decided to go out and look for an online ordering solution.
+
+**Brennan**:  It’s more of like with a traditional software product. When you get enough requests, you go about and invest the time in making that a part of your offering.
+
+**Brian**:  Yeah, exactly. Right now we’re doing it again. Over the past year I’ve had a lot of requests from restaurants saying, “OK, I see that you integrate social media and you can do an email newsletter sign‑up, but can you actually post those for us, create the social posts, write the emails, and send the emails for us?” Usually my answer has always been, “No, we don’t offer that type of service.”
+
+But now I’ve heard it a bunch of times, so now we’re starting to add this additional product type service, we’re calling it “Marketing Boost,” for an extra fee per month, we’ll actually write an email newsletter for you, send it out, we’ll actually buffer a bunch of tweets and Facebook posts for you.
+
+**Brennan**:  I love using something like the turnkey framework you have with Restaurant Engine as lead gen…that’s like if you think of Rob Walling with HitTail, they have the one‑click order an article around any suggested keyword that comes in. He could build up a monster content writing agency that makes a lot of money and use HitTail as the acquisition channel for those gigs. Right?
+
+**Brian**:  Yeah, totally.
+
+**Brennan**:  I just think is great. I love that kind of stuff. It’s something I’ve thought about doing with Planscope even, where a lot of the companies who sign up for Planscope…They tend to be small agencies, they have a single founder who’s maybe not…they’re just trying to keep their business afloat.
+
+We’ve thought about doing things like I know a lot of really smart people who are in agencies who would be willing to do mentoring or coaching on the side, or even doing things like proposal reviews before they go out. Things that aren’t related to the product necessarily, or aren’t a part of the product, or aren’t a feature of the product, but are things that the customers who sign up for the product tend to need.
+
+**Brian**:  Yeah, it doesn’t necessarily have to be for every customer, maybe…
+
+**Brennan**:  It’s self‑segmenting.
+
+**Brian**:  Yeah, one segment of customers it is the right fit. For us, this Marketing Boost service, we have a handful of customers who have expressed some early interest in it. I don’t think everyone would go for it, but then we try to steer away from the things where it’s just one person has some one very weird request.
+
+In those cases we’ll either have to be like, “Well, can’t quite do that, but we could do this.” Or we would say, “No, we’re just not the right fit.”
+
+**Brennan**:  One of the things I know companies like Zero do, is they have a database of accountants, and I think Allen who you guys just interviewed, Allen of \[inaudible 35:05\] accounting does the same thing. They can hook you up. Maybe you could have marketing consultants, a directory or something. Maybe you’re not making a profit off of it, but you’re at least benefiting your customers by making that connection for them.
+
+**Brian**:  Yeah, exactly. This is actually something I’ve been meaning to do for a while, having some kind of partners’ page, or a recommended vendors’ page. There are a number of vendors that we have built relationships with, and we’d like to recommend their services. We also want to show our customers that we can integrate just about anything. Our sites are built on WordPress, they’re pretty flexible.
+
+My team is really great at dropping things into their site and making them look good. We want to make it clear that there really are very few limitations to what you can build on top, in terms of third‑party widgets and what not. Having something like that to show what we can integrate with would be good.
+
+**Brennan**:  Last thing I want to touch on is creating processes. This is important regardless of if you’re doing any sort of productized whatever or not. Even if you’re doing straight up consulting, it’s important to have, “This is how I onboard new clients, this is how I put together proposals, this is how I follow up.” All that kind of stuff, I think it’s important to have as a process.
+
+When I did that, even though I was the one following the guidelines early on, it just made it so there was less…I was actually listening to one of Tim Ferriss’ recent podcasts was about how you have this pool of decision making abilities each day.
+
+**Brian**:  Oh yeah, I listened to that one.
+
+**Brennan**:  How everything you do, any time you need to think do I go down path A or path B, you deplete that allotment you have daily. If you can minimize that, that’s all the better. I wasn’t thinking in those terms when I did this all, but I was thinking, “Well, wouldn’t it be great if we keep doing these projects and we’ve learned some stuff.
+
+I don’t want to be the only person who has this knowledge of how we bring on a new client. Why don’t I write it all down and make it so maybe I don’t need to be the only one doing this in the future.”
+
+But on top of that, I think even just for myself, when I do get a new client. I’d rather just kind of zone out and think, “OK, I’m just going to go through this checklist,” instead of actually needing to bring to memory, “Should I do this? Or do I do this next?” All that kind of stuff. I’d love to hear about how you’ve baked processes and procedures into your business.
+
+**Brian**:  I have a process that I’ll give you guys right now. It’s really like a three‑step process for building these systems. Before I get right into that, like you just said, really the whole mindset here is I want to get things out of my head and documented so that my team can follow them. What happens is, if my team asks me, “Brian, how do I do this?” or, “Brian, how do I answer this customer’s question?” or something like that.
+
+If I hear this question from my team come up more than three times, I’m immediately starting to think that this needs to get into a system, because I don’t want to touch this again.
+
+The whole idea is to remove myself from the service aspect. I’ve done this. It’s taken a three‑year effort to fully remove myself piece by piece from every part of the business. But here’s the process for how I think this can be done. The first step before you even begin writing procedures, before you even begin starting to hire anyone, I call this standardize.
+
+You really need to standardize what you’re doing. We all know that there are 10 different ways to do the same thing. 10 different ways to optimize a website, 10 different frameworks you can use to build an app, or a site, or whatever.
+
+You’ve got to standardize what you do and focus in on one methodology, one set of tools, one thing. You’re focusing in on one service, and one solution, and one customer, which we talked about before. But you’re also focusing in on one way of doing that, one way of working. You don’t want to do everything, you don’t want to do it in all different ways. It’s all about standardizing. That’s step one.
+
+Really the idea is to make it as predictable as possible. The way that I do something today should be more or less the same way that I do it next week.
+
+Then the next step is to streamline it. Then you’re looking for ways whether it’s using software, or starting to focus in on those steps in the process, like how can we minimize the number of steps, or find these little tricks or workarounds, or ways to get things done a little bit faster. Maybe that means using templates or using one standard framework and really optimizing that for your workflow.
+
+There are a number of different ways to streamline, but that’s the whole idea in this step two, is just boost efficiency by streamlining your operation. Then you get into documenting. This is documentation. The whole idea here is to get everything out of your head and into a standard operating procedure. Now the thing that trips people up quite often here, is when you think about I do this task every week, let’s say it’s sending out my weekly newsletter.
+
+I know how to do that. I’ve done it hundreds of times myself before. I know I can get this done in 20 minutes, in and out, easy. But when you begin to document the process, you have to spend a lot of extra time on this task. That’s what it takes.
+
+You have to spend up to three times longer today so instead of just finishing your newsletter in 10 to 20 minutes, today let’s spend an hour on that, and just document all of the steps involved.
+
+You have to go into it knowing that this is going to take a lot of work, a lot of extra time, and the goal here is to put in this extra time, this extra care now so that next week maybe we can start to delegate this. In a couple of months, this thing runs completely on autopilot, my team is taking care of it, and I’m removed from it.
+
+Again, it’s a long process. It might take several months before you even get to that point. In the beginning, start simple. A quick bullet list of maybe open up MailChimp, or Drip, or whatever you’re using. Step two, open up the new campaign. Step three, enter the content. Then next week come back to it and add a little bit more detail.
+
+Start adding screen shots and notate those screen shots with arrows, and circles, and stuff. Adding more and more granular detail to each step over time. Then as the months and years go on, you constantly want to be refining these things over time.
+
+Maybe the interface changed in your email service, and you need to switch around your procedure. Or you came up with a new way of doing things that makes it even faster. Constantly evolving these processes.
+
+**Brennan**:  I can tell you that when I’ve…for me, I think I’m representative of a lot of people in that the common pushback is, “Well, the time I’m doing this is better spent just doing other things.” There’s not always a direct, “Well if I spend a few hours writing together this thing that I do all the time, how I invoice clients, what’s the point?”
+
+I know how to do that, it’s easier for me to do it every time I need an invoice, just go through and do what I’ve been doing instead of needing to go through a process like this.
+
+I love that three phase analogy you just presented because I think that’s what a lot of us end up doing accidentally at least. For me it was more like I knew my company was growing, I couldn’t be the one in charge. If I’m on vacation, and a new lead comes in, I don’t want me to be the hang‑up on that.
+
+On top of that, I also realized that when we didn’t standardize, because I was running this agency and I had close to a dozen people, the way that a client would be served would change depending on who did it.
+
+Which to me, as the business owner, was bad because how am I supposed to sell a particular way of doing business with an outcome if after I promise a certain way of their project being handled, once it gets thrown into the production aspect, once they’re a signed client and we get to work, that I know if it goes with Bob the experience will be much better than if it goes with Jim. I don’t want that. I can’t have that happen. I have to standardize.
+
+**Brian**:  Yeah, then Bob goes on vacation of his own for a week, and then things go haywire, or that person leaves and now you’re hiring a new person to take their place and the changeover is kind of a big headache because the new person, new procedure, and all that.
+
+One thing that I also really try to do is now that I’ve removed myself from a lot of these procedures, now when I go in and update them, or even creating new procedures, a lot of times I’ll give that task to my teammates.
+
+I’ll tell them, “Hey, can you just turn this into a procedure?” Or, “Can you look at our website setup procedure and tell me if there’s anything new that we need to change or improve?” I do this every couple of months because now that I’m removed from it, I haven’t done a website setup for Restaurant Engine for over like two years at this point. My teammates know that process better than I do.
+
+They’re much better at being the ones to update the procedure and even in our Help Scout support desk, setting up the tags and whatnot. I’m always consulting with them now. “Is this the easiest way to do it? How would it make your job more efficient?” It’s really a team effort and ingraining that in their daily work is everything needs to be documented.
+
+The other piece here was doing all these tasks yourself and yes, you can get them done really, really quickly, and it’s kind of a pain to go through this process of standardizing and then documenting, and all this stuff.
+
+You also need to be thinking about what’s the return on all of this? What will I do as the founder now that my time is freed up? If I don’t have to send that invoice every week, how can I better spend that time? Or if I don’t have to set up these websites all the time, now I have a whole block of hours every day opened up, and now I can focus on a new marketing campaign, or talking to more customers, or however I can actually add more value and start growing the business.
+
+That’s how you start to see an ROI on all of this.
+
+**Brennan**:  One of the other things too is because you do have a team, you’re not only making your time more valuable and more optimized, but you’re making their time also more optimized, because they have marching orders for just about everything that they need to get done. It makes it so there’s less of this, “Hey Brian, what do I do?” Which distracts you, it derails you, it derails them, and it’s not good for the business as a whole.
+
+**Brian**:  Totally. Early on when I was doing this, I felt a little bit weird about giving my teammates such detailed instructions. I’d be like, are they going to feel like I’m…
+
+**Brennan**:  Like they’re robots or something like…?
+
+**Brian**:  Yeah, like they’re robots, or I don’t recognize how smart and talented they are, or something like that. But really what I came to realize is they need this stuff, and they appreciate the level of detail. I constantly get notes from new contractors who start working with me saying, “Wow, these specs are really detailed. This makes my job super easy.”
+
+That’s what they want. They want to have everything that they need to hit it out of the park every time.
+
+Because I also work with a lot of temporary contractors, like I’ll bring in a developer from time to time. The guys that I work with tend to get booked up really fast. They’re awesome, so it’s actually difficult for me to get into their calendar to get them to work on something for me. But, after they work with me a couple of times, they know how easy I am to work with.
+
+They know that the level of detail in terms of documentation and scope and specs, they know that I’m going to be one of their best clients, so then they start to make time for me. It just makes the whole team work much more efficient and things get done. It just works.
+
+**Brennan**:  My mind’s spinning with ways to distill this into a lot of what I’m working on with this new agency I’m starting. Brian, I just want to thank you so much for coming on. We are, I think, December 9th, you and I are going to be talking over a live webinar about all things this. I’d expect an email December 2nd or around then, hopefully December 2nd with information about that event.
+
+In the meantime, what’s the best way to find out more about you?
+
+**Brian**:  Yeah, I’m really looking forward to that, Brennan. Thanks for having me on. As always you can reach me on my website, casjam.com. You can send me an email brian@casjam.com, I read and reply to everyone. I am @casjam on Twitter, so make it easy it’s all pretty consistent there. Jordan and I are also, our mutual friend, he’s the co‑host of “Bootstrapped Web,” and we do that every week as well, so that’s at bootstrappedweb.com.
+
+**Brennan**:  Really good. I was actually listening to it this morning driving my kids to school. I guess that paints me as a bad father figure, but… \[laughs\]
+
+**Brian**:  I don’t know if it’s family friendly.
+
+**Brennan**:  I made the mistake of listening to Bootstrap with kids with the girls before, not happening again. Sorry, \[inaudible 50:41\] Scott.
+
+\[laughter\]
+
+**Brennan**:  It’s a great podcast, so keep it up.
+
+**Brian**:  Thank you.
+
+**Brennan**:  Thanks for coming on, and I’ll talk to you soon.
+
+**Brian**:  OK, Brennan.
+
+**Brennan**:  Bye.

@@ -1,0 +1,47 @@
+# Founder Learnings from HubSpot – An Operator's Blog
+
+![](https://i0.wp.com/operator.blog/wp-content/uploads/2023/03/ricardo-gomez-angel-jb3mbjgt94y-unsplash.jpg?resize=840%2C498&ssl=1)
+
+SMB SaaS is hard. Getting the positioning right, increasing ACVs, controlling churn – it all becomes harder when your customer is a small business that is resource constrained & perpetually dealing with its own execution challenges.
+
+Despite this, given SMBs are the most frequent early adopters of new products, the reality is that most startups tend to start mid-market. Though, in my experience, a majority get stuck in unfavorable economics of this customer segment & are unable to achieve breakout PMF.
+
+So, what is the secret sauce founders can learn to effectively scale SMB SaaS? [Hubspot](https://www.hubspot.com/) is a great case study. I recently came across this [SaaStr podcast with the HubSpot CEO Yamini Rangan](https://www.saastr.com/secrets-to-smb-at-scale-with-hubspot-ceo-yamini-rangan-and-saastr-founder-ceo-jason-lemkin-pod-616-video/), where she shared some of the company’s SMB strategy & learnings. Here are the key highlights:
+
+1.  **Go after a large TAM**: given the fragmented nature of SMB verticals, it’s really important to have a large TAM. HubSpot made the smart decision to transition from marketing automation to CRMs, basically going after Salesforces’s lunch.
+
+Mid-market verticals tend to have open opportunities for startups as SMB customers are usually sandwiched between either buying a host of solutions & stitching them together or buying an expensive, enterprise-grade solution. In this context, I had recently [posted a Twitter thread about how Zoho followed a similar multi-use case bundling strategy](https://twitter.com/soumitra_sharma/status/1622764235628613633) to position itself as an “operating system for SMBs”. This strategy works well as SMBs have a tendency to simplify their tech stack & procurement processes by buying multiple solutions from the same vendor.
+
+2\. **Customers gravitate towards competitively-priced, mission-critical products**: in times of economic uncertainty like today, SMBs tend to become really sensitive about budgets. Customers start asking tough questions internally around (1) where are they spending?, (2) do they have a clear path to getting enough value from the spend? and (3) can they do more with less?
+
+Acting per this analysis, SMB customers are then likely to consolidate their tech stack to a handful of mission-critical platforms that are competitively priced & deliver the most value. This is the bar startup products need to cross while selling in this tough macro environment.
+
+3\. **PLG-based distribution is king**: to achieve break-out growth in SMB SaaS products, startups need to have the widest possible distribution. The front door needs to be big enough so that most people can come in.
+
+For the first 8-9 years, HubSpot was mainly driven by a sales motion comprising Direct Sales & Partner Sales. Around 2016-17, in order to exponentially grow distribution, the founders made a counter-intuitive bet to go from sales motion to product motion. Today, HubSpot has a massive user base of ~1Mn WAUs to monetize off of.
+
+4\. **A strong “free” product is key to PLG:** One of HubSpot’s truly differentiated product strategies has been to offer a strong, full-featured free product. Rather than making a “free” product free just for the sake of it, they have focused on making it really valuable.
+
+Some important benefits of having a strong “free” plan:
+
+*   Drives high top-of-funnel growth & user engagement, improving the probability of monetization once the value is proven out.
+*   Puts product org. under pressure to deliver enough features at the top, in order to maintain the competitiveness of paid versions.
+*   Forces the product team to maintain a “consumerized” ease of use, which benefits all customers, free or paid.
+
+Irrespective of whether your GTM is sales-led or PLG-led, a founder should never give up on the “free” plan as it’s key to keeping your product competitive.
+
+5\. **North Star Metric should be Net Revenue Retention**: NRR is the best health indicator of an SMB SaaS business given it represents whether or not: (1) you are retaining the customer, (2) you are continuing to drive enough value so they buy more from you and (3) you are protecting yourself from churn.
+
+**6\. Don’t underestimate the value of a Partner ecosystem**: once you reach a certain scale, PLG & Direct sales aren’t enough. A thriving partner ecosystem can be a strong GTM moat. Interestingly, a majority of HubSpot solution partners \*only\* sell & deploy HubSpot as a CRM, thus creating valuable network effects for the company.
+
+**7\. In geo-expansion, less is better:** PLG-driven companies will always have customers in many countries eg. Hubspot has 130+. But in order to deeply localize for elements like language, currency, customer support etc., it’s important to focus only on a few markets. As an example, HubSpot has chosen 7-8 markets to deeply localize their offerings in, based on factors like TAM, existing installed base, net ARR growth being seen & the company’s ability to serve the market locally.
+
+While SMB SaaS can be a tricky business model, it compounds beautifully once the founders figure out its key levers, as HubSpot has shown.
+
+_PS: if you enjoyed this post, you might also find this post on [Top 10 enterprise SaaS learnings from a unicorn founder](https://operator.blog/2022/12/07/top-10-enterprise-saas-learnings-from-a-unicorn-founder/) helpful._
+
+## Subscribe
+
+_to my weekly newsletter where in addition to my long-form posts, I will also share a weekly recap of all my social posts & writings, what I loved to read & watch that week + other useful insights & analysis exclusively for my subscribers._
+
+![](https://secure.gravatar.com/avatar/acd6d65a42b12a1c531abeed263ecde3558368f1bab0ff9ab89044e43cd7454c?s=42&d=identicon&r=g)

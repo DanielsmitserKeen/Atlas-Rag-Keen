@@ -1,0 +1,188 @@
+# ServiceTitan - Bessemer Venture Partners
+
+Based in LA, ServiceTitan is a vertical SaaS company for home services businesses. ServiceTitan sits at the core of a home services business’ daily operations and provides everything from inbound call management to mobile dispatching/invoicing to back office management. Ara Mahdessian (CEO) and Vahe Kuzoyan (co-founder, Head of Product), presented to the partnership from Menlo Park a few weeks ago.
+
+We first met the ServiceTitan team at the Muckerslab Demo Day in LA 1 year ago when they were ~$1M in ARR. We’ve tracked them closely over the course of the year and since then they grew their SMB business to >$3M ARR ($5M CARR) and landed a massive $4M ACV deal with a large plumbing franchise. They were able to hit these achievements with a team of 20 employees (8 at the beginning of the year), no sales and marketing, while being cash flow positive. Ara was not planning on fundraising until the summer, but we convinced him to take a pre-emptive deal with us and, thus, the price is seemingly rich on recognized revenue but more reasonable on booked revenue.
+
+ServiceTitan is attacking a billion-dollar market that is ripe with opportunity. The market has historically been dominated by manual processes and clunky on-premise vendors. We are pleased that ServiceTitan is the gold standard among newer SaaS vendors that are rapidly replacing their legacy counterparts and enabling desk-less workers to take advantage of mobile technology. We think that Ara and Vahe are hungry entrepreneurs who will work tirelessly to provide this industry with easy to use, state of the art software, and we recommend partnering with them for the journey ahead.
+
+## Why are we so excited?
+
+*   **Traction / Financials:** The momentum speaks for itself.
+    *   $3.5M ARR and ~$9.4M CARR, representing 6x growth on ARR and 10x on CARR YoY
+    *   236 paying SMB customers paying on average $15k ACV
+    *   Just landed a $4M ACV franchise deal with the CUSTOMER
+    *   Net negative churn and limited logo churn
+    *   No sales and marketing spend and cash flow positive
+*   **Market:** The field services market is expected to more than double from $1.58B to $3.52B in the next 5 years due to the proliferation of SaaS and mobile in the space. The home services market is experiencing the highest growth.
+*   **Product/Competitive Differentiation:** ServiceTitan’s key differentiation is that in addition to offering back office service management like all their competitors, ServiceTitan also offers sales & marketing performance tracking (powered by Twilio), enabling businesses to capture more potential revenue.
+*   **Team:** Ara and Vahe both seem strong with domain knowledge and horsepower. They grew up with families in the plumbing and residential contracting space. They started ServiceTitan right out of undergrad (Stanford and USC) because they couldn’t find good plumbing software to run Vahe’s dad’s business and spent the next 3-4 years building the product. The founders are strong positives for us in making this investment.
+
+We recommend that BVP invest $17M in the $18M series A financing of ServiceTitan at a $75M pre money valuation. This represents a ~15x ARR multiple of March ending run rate, but 8x CARR multiple which feels reasonable given their growth and opportunity. Over the past month, we wrapped up our diligence, spent a day with the team in their LA office, and completed 8 customer calls and 5 industry expert calls. We remain confident that ServiceTitan has the best product and the most momentum (6x growth in MRR and 13x in CMRR over 13 months) in the home services software market.
+
+After the partnership presentation, we identified two key areas of apprehension. First, there was concern over ServiceTitan’s ability to sell to smaller businesses comprised of less than 10 technicians. We analyzed their existing customer base and found that ~50% of their current customers fall into this category and likely have between 3 and 7 technicians and pay less than $XXXX per month. We also spoke to a few of these customers and found that the product was just as valuable to them as it is to larger businesses. This is encouraging given that over half of the market is dominated by small independent business. Nonetheless, this is still a vertical SaaS company and while the TAM is over $1 billion, they will likely need to enter adjacent verticals in order to achieve a billion dollar value outcome.
+
+Second, with $4.1M of February run rate ARR but over $9M of CARR, ServiceTitan has a sizeable revenue backlog. We diligenced that nearly all of the committed revenue will be recognized this year (and the majority by Q3).
+
+However, our diligence has uncovered a new risk. Given that sales and the team have grown so rapidly in the last year, and this is both the co-founders’ first job out of undergrad, they have not been laser focused on execution but neglected close tracking of KPIs. Out of all problems to have, growing too fast is one we’d rather have. The team is aware of their weakness in this area and we’re pleased with the hire they have just made for VP Finance who joins shortly.
+
+## MARKET
+
+Over the past decades, field service management software solutions have emerged to automate and facilitate everything from worker activity, to scheduling and dispatch, to appointment routing, to billing. The field service management market has been dominated by legacy, on-prem vendors primarily selling into service-oriented industries such as telecom, energy, manufacturing and utilities. These solutions were expensive and clunky, primarily sold into the midmarket and enterprise, and initially solved the pain point of schedule optimization across hundreds of customer service reps (CSRs) mapping into hundreds of field technicians schedules. In the last few years, mobile and cloud transformed the market, and a new generation of SaaS vendors began rapidly replacing their legacy counterparts. The home services market saw the most disruption as mobile enabled invoicing at client site, which improved time value of cash (time to payment) and the cheaper SaaS delivery model enabled SMBs to purchase software solutions for the first time.
+
+MarketsandMarkets expects the global Field Service Management market to grow from $1.58 billion in 2014 to $3.52 billion by 2019, at a 17.3% CAGR during 2014–2019 due in part to mobile and cloud’s ability to bring cheaper, simpler, and more accessible software to market. Gartner claims the enterprise space is only 25% penetrated and our diligence has concluded the SMB space and the home services market are poised to experience the strongest growth.
+
+There are 600k home services businesses in the United States. ServiceTitan is initially targeting three of the largest and most sophisticated verticals within home services: electrical, plumbing, and HVAC, which together account for roughly half of the broader home services market. The majority of these businesses are SMBs. Our diligence calls suggest the following distribution of businesses by technician count:
+
+1\. ~40% - One to two person sole proprietor businesses (however, less than 20% of revenue).  
+2\. ~45% - Three to 20 service technician businesses  
+3\. ~10% - 20 to 60 person businesses  
+4\. ~5% - Franchises and businesses with over one hundred service technicians
+
+ServiceTitan successfully sells to all of these categories except for the one to two person businesses who are less sophisticated, don’t have back office managers, and therefore can’t gain as much value from the sales and marketing capabilities. Today, ServiceTitan is best suited for businesses in the residential segment with at least three technicians and three back office managers or customer service reps. They estimate that there are 42k businesses in the United States that exactly match that profile. With a $X.Xk average MRR per customer, this represents a $600M+ market in their core business. We feel this is a conservative number and believe ServiceTitan has many levers to pull to increase revenue per customer and to expand to adjacent verticals with product enhancements. For example, they are already increasing revenue per customer by offering credit cards processing, they are considering offering a lighter weight SMB product to capture market share in the one to two person businesses, and are thinking about adding functionality that would enable them to sell to other verticals like roofing, windows/glass, and pest control.
+
+In general, businesses with three to twenty field technicians have a CSR to technician ratio of 1:5 or 2:5 and the larger businesses have CSR to technician ratios of 1:15. ServiceTitan charges $XXX for CSRs and back office managers and $XX for mobile field technician users. The histogram below shows a breakdown of MRR by customer. As the histogram demonstrates, about half of the customer base pays less than $X.Xk, which confirms that ServiceTitan successfully captures market share from the long tail.
+
+## PRODUCT
+
+The ServiceTitan product sits at the core of an organization’s daily operations and provides everything from inbound call management to mobile dispatching and invoicing to back office management. ServiceTitan’s key differentiation is that in addition to offering back office service management (dispatching, billing, payroll, and inventory) like all their competitors, ServiceTitan also offers sales & marketing performance tracking capabilities. This S&M performance tracking is possible because the company is built on top of Twilio and they are the only solution in the market that fully integrates the telephony and workflow components of the business. By integrating telephony directly into the product and attributing a phone line to each prospect, ServiceTitan is able to track each prospect as it moves from lead, to appointment, to sale in their fully integrated CRM. ServiceTitan can give visibility into S&M metrics that have never been well tracking in the industry – for example (1) a customer service rep’s (CSR) ability to convert inbound calls into appointments, (2) a field technicians ability to sell services and (3) marketing attribution through dedicated numbers to track individual campaigns.
+
+**More detailed view of the core features below:**
+
+*   CRM and Back Office Management – Tracks all transaction history, email, call logs, and communication related to every opportunity.
+*   Dispatching and Scheduling Dashboard - GPS system tracks and routes field technicians via text to upcoming jobs. Sends customers a picture and bio of their field technician and estimated arrival time.
+*   Call Tracking (Twilio integration) - Track all incoming and outgoing calls to measure efficiency of CSR’s and determine whether CSRs convert a call into an appointment. Additionally, it ties calls to a lead in the CRM and based on area codes can help tie leads to specific marketing campaigns to attribute spend and determine ROI .
+*   Mobile App (HTML5) – currently 25% adoption - Enables field technicians to create and review estimates in the field, sign contracts and invoices on the go (eliminates paper invoices), and to log and document activity.
+    *   Generates a product menu which technicians can display to customers on-site to create upsell opportunities.
+
+ServiceTitan charges an average of $XXX per employee per month for each CSR or back office manager and $XX per employee per month for each field technician. They are able to charge premium pricing compared to their SaaS startup competitors (typically priced $XX - $XX per technician per month) because of their sales and marketing capabilities. We estimate that for most small businesses, there is a ratio of one CSR to three or four field service technicians in the SMB segment, and one CSR to ten or twenty technicians for businesses with more than a few hundred employees.
+
+## COMPETITION
+
+We’ve talked to the vast majority of new startups in the space and have completed 7 GLG expert calls to form our opinion on the competitive landscape. The field services space is both extremely competitive and fragmented. The space is split into 2 main segments: home services (plumbing, HVAC, electrical) where ServiceTitan is initially focused, and support-oriented services (telecom, energy, manufacturing).
+
+ServiceTitan is emerging as an early leader in the home services market for the following reasons:
+
+*   **Only vendor focused on the sales and marketing workflow in home services**
+    *   By offering S&M performance tracking in addition to back office management, ServiceTitan enables businesses to capture their full potential revenue (many home service businesses only capture 1/4th their revenue potential).
+*   **Focused on time to cash value**
+    *   Especially for SMB businesses, the paper invoicing process can delay payment to a business for weeks. By enabling mobile invoicing onsite, ServiceTitan decreases payment cycles from weeks to days.
+*   **Success selling to both SMBs and enterprises / franchises**
+    *   ServiceTitan is the only SaaS vendor that has successfully sold up market to large franchises ($4M ACV deal with Mr Rooters Plumbing franchise).
+
+**Home Services Competitors – ServiceTitan’s Initial Market**
+
+*   The home services market is the fastest growing category in field services.
+*   The legacy, on-prem players are all very dated products built 20+ years ago and many do not have smartphone capabilities.
+*   Dozens of new SaaS vendors have emerged
+    *   **COMPETITOR 1 (~$2M ARR)** and **COMPETITOR 2 ($2M ARR)** and recently acquired by COMPANY - primarily sell to SMBs and are light workflow and mobile invoicing tools that are focused on improving the time value of cash.
+    *   **COMPETITOR 3 (~$4M ARR)** - primarily an all-purpose-use mobile forms provider that gained some traction in home services.
+    *   None of the new SaaS vendors have telephony integration so they are unable to move upmarket to sell into the enterprises.
+*   By both revenue scale and customer breadth, ServiceTitan is the clear SaaS leader in the market.
+
+**Support Oriented Services Competitors**
+
+*   ServiceTitan does not currently focus on this market.
+*   Legacy vendors have historically focused in this space.
+*   Unlike the home services market where businesses focus on improving sales, industries like telecom are focused on optimizing time to service and thus focus on schedule optimization.
+    *   This requires telephony integration to do smart routing/disbatching to handle hundreds of CSRs mapping into hundreds of technicians that do dozens of appointments a day.
+*   Emerging SaaS vendor have seen success replacing their legacy counterparts in this space.
+    *   **COMPETITOR 4** (~$30-40M ARR) - differentiates itself by having tight integration with Salesforce (built on force.com) and has raised $120M to date
+    *   **COMPETITOR 5** ($8-10M ARR) - founded by the Fleetmatics team and has raised $20M to date.
+*   **COMPETITOR 6** – leading SaaS provider and was acquired by Oracle for an undisclosed amount. They had ~500 employees at time of acquisition (Sept. 2014)
+
+## GO-TO-MARKET
+
+Until the last few months, the company had effectively spent zero dollars on sales and marketing and acquired the vast majority of new customers via referrals and other forms of word of mouth.
+
+  
+**Referral channels**
+
+ServiceTitan’s success to date has primarily been driven by referral channels, in particular with influential affinity groups and associations. Home services businesses heavily rely on associations for advice on vendors. ServiceTitan has started to form strategic partnerships with associations which provides them with direct access to members through email lists, tradeshows, and webinars in return for a ~4% rebate off list price. ServiceTitan estimates that there are over 10k businesses across a dozen of the most prominent industry associations, of which 5-6k of businesses fit ServiceTitan’s target customer profile exactly.
+
+  
+**Nexstar**
+
+ServiceTitan has had the most initial traction with Nexstar Network, a well-known association comprised of 550 businesses. ServiceTitan took a bottom up approach and grew organically in the Nexstar member base, acquiring 20 customers before forming a formal strategic partnership with Nexstars one year ago. Now they are one of only two software partners (they have ~100 services strategic partners), benefit from direct exposure to members, and have closed 78 customers in the Nexstar member base. The other software vendor, Serveman, only has 48 customers after 5 years as a partner and is very dated software. We spoke to the Nexstar Head of Strategic Partnerships and she believes ServiceTitan will win over one-third if not over half of Nexstar’s membership base within the next 12-24 months.
+
+ServiceTitan also has strategic partnerships with two other associations (Service Roundtable, QSC) and across the top associations, has acquired another 70 customers. Through these relationships, ServiceTitan has email lists of 2k+ prospects and growing. In total association referred customers represent 50% of their customer base and generally result in larger deals ($2.5k MRR).
+
+The company is also exploring a number of other referral strategies including:
+
+*   Manufacturers – Especially in the HVAC space where 90% of businesses work with 5 manufacturers, the manufacturer is the main vendor for most businesses and could evangelize ServiceTitan because we help track performance.
+*   Tech affiliate partners – Already in discussions with Yelp to allow consumers to book home services directly in Yelp to ServiceTitan customers. Other potential opportunities include Yellow Pages, Yodle, Anglelist, Yahoo, Nextdoor, etc.
+*   Independent consultants – Follow the Xero model and leverage consultants to recommend to ServiceTitan their customers. One consultant has already brought in 20 customers.
+
+**Sales and Marketing**
+
+Given the company has more inbound leads then they can handle, they have been most focused on referral channels and closing inbound leads rather than building a demand generation funnel or sales processes. Half of leads come from referral and half from direct channels through a web form lead capture. The sales process is low touch for the majority of their customers; SMB customers with <20 technicians can be sold in 1-2 calls and a demo. Larger prospects (>25+ techs) require 3-4 calls and often require an on-site visit or do site visits with existing customers to see how they use the product. Up until January 2015, all sales were closed by Ara (CEO) and one sales rep. In the last few months, they’ve brought on 3 more sales reps with an initial quota of $15k MRR a month, or $2.2mm ACV (which we don’t expect reps to hit given how high this is!) and ~$200k OTE.
+
+Overall the organization is still working to form basic S&M protocols. They loosely use Close.io for their CRM (just track 3 stages, lead, qualified, onboarding) and have no formulized forecasting or pipeline management in place. The team is aware of these shortcomings and is currently recruiting a VP of Sales.
+
+## CUSTOMER FEEDBACK
+
+We completed 8 customer calls and 5 calls with industry experts. We also spoke CUSTOMER, their largest customer (covered in section below) and to Nexstar, a prominent industry association.
+
+*   **Reconfirmed that ServiceTitan is the strongest SaaS product in the space and is differentiated by providing strong sales and marketing ROI**
+    *   On top of being easy to use and just better software then the dated legacy vendors, customers raved about how ServiceTitan figured out the “one right way to do something” rather than providing 10 options.
+    *   Majority of customers have reported increased sales from better marketing spend decisions and measuring performance at each step in the sale cycle. In particular, technicians gain the greatest ROI because
+    *   ServiceTitan gives them a more professional offering, improves upsell, and decreases time to payment.
+    *   None of their competitors offer robust (if any) sales and marketing functionality.
+*   **Core software can easily cross over from plumbing, electrical, and HVAC**
+    *   ServiceTitan is best matched for the plumbing industry, but there is over 85% product match for the HVAC and electrical industries. Experts confirmed there are a handful of add-on modules ServiceTitan could build to expand into adjacent verticals.
+*   **Product gaps**
+    *   The most mentioned product gaps are inventory management (in particular for the HVAC industry that has expensive parts to manage) and commercial product capabilities (such as relationship tracking and WIP tracking). Some plumbers manage both residential and commercial businesses and we believe building commercial capabilities would expand our TAM estimates by 30%, but residential has been their focus to date.
+*   **Overall, customers have very positive implementation and support experiences.**
+    *   Most customers migrate their entire business to ServiceTitan within 3-6 weeks. Ara and Vahe are extremely responsive and committed to customer success since it’s such a referral based business.
+*   **Mobile Web App Issues**
+    *   The main “area of improvement” related to issues with the mobile web app. Last year, 15-20% of the time, technicians had connectivity / refresh issues and had to do manual paper invoices.
+    *   ServiceTitan has since fixed these network issues (primarily driven by very content heavy pricing books), and is also testing a native mobile app primarily to access a credit card swipper to generate more revenue for the credit card processing business. The new and greatly improved native mobile apps will roll out in the next month or two.
+
+## FINANCIAL PERFORMANCE
+
+We continue to be impressed by ServiceTitan’s financial performance.
+
+**Financial summary:**
+
+*   The company grew from $54k MRR in January 2014 to a $344k MRR run rate today with $70K in CMRR.
+*   This represents 6x MRR growth and 13x CMRR growth in thirteen months.
+*   We believe they will end the year at $13.1M in ARR.
+*   They have ~300 paying customers and $50M of monthly transaction volume flowing through ServiceTitan.
+*   The average customer pays $X.Xk MRR while their largest customer pays $XX.XK MRR.
+*   They have been slightly cash flow positive for the past year.
+*   Gross dollar churn averages under 1% each month. Net churn is slightly negative as customers are upsold on additional mobile licenses.
+*   Currently, 61% of MRR is attributed to back office or CSR users, 18% of MRR is attributed to mobile licenses, and 21% to phone tracking. They are launching a new native mobile product (previously web app) in a few months and expect that mobile will increase to 35% to 40% of MRR in the next year. Many customers are currently on a wait list to roll out mobile once their much improved product is ready.
+
+  
+**Other non-recurring revenue:**
+
+ServiceTitan generates $X.Xk in one time implementation revenue from each new customer. They are also in the process of rolling out credit card transactions from which they will collect XX basis points per transaction. This represents $XXk of potential additional monthly revenue (we estimate they will be able to achieve XX.X% penetration by end of 2015).
+
+**Onboarding / Support and Gross Margins**  
+ServiceTitan currently has a team of 5 on-boarders who can accommodate 50 customers per month. The average onboarding time is one month, but the team recently built automated data migration systems which could decrease onboarding time to 2 weeks. The company had healthy 65% gross margins in Q4, and expects them to increase significantly in the next year or two.
+
+**2015 Forecast**
+
+We built a simple 2015 forecast below that gets us to $13.1M ARR by the end of 2015, representing 240% growth YoY. If any bigger deals hit (ARS could be a $3-$4M ACV deal) they could dramatically increase the forecast. This model assumes they bring sales reps from 3 to 8 by end of 2015 and add an average of $120k CMRR a quarter.
+
+## TEAM
+
+Ara Mahdessian (CEO) and Vahe Kuzoyan (Head of Product) grew up with a keen understanding of the frustrations and challenges in the industry. Both of their parents are immigrants; Ara’s father is a residential contractor and Vahe’s is a plumber. The two began thinking about ServiceTitan seven years ago while they were in college when Vahe’s father asked for help evaluating software to manage his business. Ara graduated from Stanford and Vahe from USC, where they both studied computer science. After graduating, they spent three years developing the product at Mr Rooters, part of Dwyer Group, (now their largest customer) to fit the needs and specific use cases for the industry. Their empathy and mission to empower these blue collar workers has resonated extremely well in the industry and helped to fuel organic growth. Ara spends most of this time selling to the larger customers and franchises. Vahe focuses on product and is incredibly customer service oriented, often spending weeks at a time on-site with customers to figure out their needs and how they can better improve the product. We see them as strong positives. The product launched in early 2013.
+
+We did our third site visit and spent a day with the full exec team at their offices last week. The team is 40 FTE mostly based in LA. They are incredibly hard working and scrappy, but high horsepower (Stanford & USC grads along w many of their key execs) and have been quite receptive to our feedback and guidance. They are first time entrepreneurs and this is their first real job, which was reflected in their elementary methods of tracking KPI’s. They are very aware that they need to implement better processes to measure their business as they scale. The good news is that they are very coachable and we are working with them to improve internal processes and to recruit a VP of Finance.
+
+## RISKS
+
+*   **Can they build a sales engine when referrals slow down?**
+    *   The market is heavily driven by WOM and referrals from associations and we believe there are still 5-6k target customers across a dozen large associations we currently have a presence with.
+    *   The sales organization is very early (currently 4 sales reps, 2 of which are very new) and remains a risk. They still need to hire a VP of Sales and prove an outbound model.
+*   **No precedent for large software companies in this space. Can ServiceTitan build a big business?**
+    *   The core market is over $600M and there are several market expansion opportunities into the commercial side of the business, tangential home services verticals, and add on revenues such as credit card processing. This easily could be a multi-billion dollar market opportunity. We believe a major reason why no big company has formed in this space is because up until recently, there were no cost efficient ways to acquire customers in this very fragmented market. With the recent formation of associations to drive better business practices, we believe ServiceTitan has cracked the nut on how to virally capture market share.
+
+## CONCLUSION
+
+We are excited to back a hungry team with a strong product that is making waves in an industry that has been largely left behind by modern software.
+
+### OUTCOMES ANALYSIS 
+
+![servicetitan series a memo outcomes analysis](https://www.bvp.com/assets/uploads/2024/12/outcomes_analysis_servicetitan_series_a_memo_bessemer.jpeg.jpg)

@@ -1,0 +1,121 @@
+# Rights And Wrongs Of Lead Qualification
+
+[Steli](https://twitter.com/Steli?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) is the CEO of [Close.io](https://close.io/), an inside sales CRM that helps startups and SMBs generate high-quality leads and close more deals. When he’s not building software, Steli’s sharing content with the wider sales community through the [Close.io blog](http://blog.close.io/author/steli-efti), [books](https://close.io/resources/sales/) on everything from product demos to outbound sales, and [the Startup Chat podcast](https://thestartupchat.com/) that he co-hosts with [Hiten Shah](https://twitter.com/hnshah?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).
+
+Above all, Steli believes the key to success in sales is qualifying leads well. That means selling only to prospects you truly believe you can help. I hosted him on our podcast to learn more about the do’s and don’ts of that determination process. If you enjoy the conversation [check out more episodes](https://www.intercom.com/blog/podcast). You can subscribe on [iTunes](https://itunes.apple.com/ie/podcast/inside-intercom-podcast/id996103731), stream on [Spotify](https://open.spotify.com/show/6zlcXgcd2kX9E4cbQTCsR9?si=MyLUclosQQmOVG2Ggzou3g) or grab the [RSS feed](https://rss.art19.com/inside-intercom) in your player of choice.
+
+What follows is a lightly edited transcript of the conversation. Short on time? Here are five quick takeaways:
+
+1.  Sales teams know their ideal customer profile intimately. However, having an explicit [non-ideal customer profile](https://www.intercom.com/blog/podcasts/close-io-steli-efti-lead-qualification/#jtbd) – who you won’t sell to – is just as important.
+2.  A successful customer relationship is [a two-way street](https://www.intercom.com/blog/podcasts/close-io-steli-efti-lead-qualification/#mutual). Can you help them, _and_ can they help you? If the answer to both of these questions is yes, selling is easy. You can tell them to buy, because it’s genuinely in their best interest.
+3.  Many sales teams aren’t fully committed to qualifying leads because it can feel like it stands in the way of revenue. The opposite is actually true: qualifying correctly gets [the _right_ kind of money](https://www.intercom.com/blog/podcasts/close-io-steli-efti-lead-qualification/#money) – money that’s sustainable and doesn’t churn.
+4.  [The most important part of lead qualification](https://www.intercom.com/blog/podcasts/close-io-steli-efti-lead-qualification/#listen) is listening, because prospects will often provide conflicting or surface-level answers.
+5.  Automation can be a great [tool for augmenting qualification](https://www.intercom.com/blog/podcasts/close-io-steli-efti-lead-qualification/#automation), but like all tools, it won’t fix fundamental problems with your process.
+
+* * *
+
+**Adam Risman:** Steli, welcome to Inside Intercom. Can you give us a quick feel for your career to date, along with the problems your team is solving at Close.io?
+
+**Steli Efti:** The short version is that I’m originally from Greece but grew up in Germany in a family of factory workers. Nobody in my family was ever an entrepreneur or received a high education. I hated school, dropped out when I was 18, and I’ve been an entrepreneur ever since.
+
+I ended up starting a few businesses back in Europe that had very little to do with technology or software. Then 12 years ago, I sold everything I had and bought a one-way ticket to Silicon Valley. I had this big grand idea for a tech company, and I thought I would change the world. I don’t want to kill the suspense here, but that first idea didn’t quite work out. It ended up being a spectacular, heartbreaking failure. I worked on that company for five years until I finally had to admit that business was just dead.
+
+Close.io, the company I’m running, went through a few twists, turns and pivots before becoming what it is today. What we do at Close is very simple: we have built a CRM for startups and SMBs focused on teams that are doing predominantly inside sales. We’re not building software for people who are out in the field knocking on doors, but for people who sell through the phone, email and other virtual means. Our tool dramatically improves salespeople’s productivity, improves how well and how much they can communicate, and ultimately increases the deals they close while eliminating as much manual data entry as possible.
+
+We’re a tiny team of 30 people across 10 different countries—by far the smallest team in our space. But we’re highly profitable, and we’re going very fast.
+
+## Defining who should and _shouldn’t_ be your customer
+
+**Adam:** What do you remember most about the earliest days of going and selling this product to customers? What worked well for you? What didn’t?
+
+**Steli:** The number one thing that we learned was that we really needed to understand who our ideal customer was. It’s not only important to know what you want to do, or who you want to focus on, but you also need to be explicit about who you’re not going to serve.
+
+Sometimes it’s hard to stand your ground. When you say, “We’re not going to do enterprise sales,” and then a massive company waves a massive number of potential dollars in your face, it’s easy to compromise when you haven’t written that out explicitly.
+
+Before we even launched Close, we did a few things that were incredibly helpful. We defined our ideal customer, but we also said, “Here are the types of customers that, if they come our way, we’re gonna turn away.” We didn’t just have an ideal customer profile; we had a non-ideal customer profile as well. We did the same thing with our product: we had a product roadmap, and we had an anti-product roadmap of things we’re not going to build.
+
+You need to be explicit about who you’re not going to serve.
+
+In the early days, as you get a little bit of publicity and people start spreading the word, you get all kinds of requests and attention and potential customers coming your way. That makes it very hard to focus and prioritize. When you’re a small team, your time is everything. Speed is everything. If you go super broad with a tiny team, you’re going to waste a ton of time. This is something that we saw with a lot of our startup clients, and a mistake we didn’t make with Close, which I am very grateful for.
+
+We truly understood whom we wanted to serve and whom we didn’t – and we knew how we wanted to deliver value and the things we wouldn’t do or build, even if they seemed popular. I think that helped us to be super laser focused.
+
+**Adam:** What types of inputs did you have in terms of creating your ideal customer profile? What kinds of questions did you ask?
+
+**Steli:** We asked ourselves, “Who is the type of customer we truly understand better than anybody else in the marketplace, and who is the customer we truly care about?” For us, it was clear that startups and small businesses were the types of businesses we understood. A lot of people in our company are entrepreneurial and have run businesses before, so it was an audience we intimately understood. The idea of making a massive conglomerate a little bit more efficient was just not exciting to us, even if it meant millions of dollars.
+
+The other thing was that we believed sales at its core was about result-driven communication – and if this was true, by definition we needed to focus mainly on creating communication software for people doing inside sales. The people who would talk virtually with their customers instead of field salespeople, which is a sector of sales that is in decline. Being an amazing tablet field sales CRM platform, and being an amazing inside sales, call, email, communication based platform, they aren’t the same. To be great at one thing, you have to compromise on the other.
+
+When you say you don’t want to focus on single users or massive Fortune 500 companies with thousands of employees, you’re left with the small and medium-sized companies that do inside sales. And on top of it, we decided to focus on the U.S., which meant having all our content and communication in English and centered on the U.S. dollar. From day one, we did have customers all around the world, but we didn’t focus on them. We didn’t do any extra work to make it better or easier for these types of international customers to purchase us.
+
+We had to keep things very simple and focused for a small team like ours to be able to do a good job and grow. Some of our early criteria was between five and 15 sales reps. [Sales teams](https://www.intercom.com/blog/sales-team/) that mainly cared about productivity, over other things like reporting, forecasting, security and integrations. These were all things we wanted to address, but there had to be a priority.
+
+## Lead qualification: the key to success in sales
+
+**Adam:** That makes total sense, and it plays into one of the other core topics I wanted to talk to you about today, which is lead qualification. I know you’ve been on the record as saying that qualifying leads well is maybe the number one key to success in sales. Why?
+
+**Steli:** This is such an unsexy topic. People always want to skip to “How do I negotiate and close the deal?” But it’s such a fundamental thing.
+
+Qualifying just means that you went through a process to evaluate: “Can I help you, and can you help me in return?” If the answer is that you can both help each other, selling should be very easy. Also, at the point we’ve qualified somebody, I’m not asking you to buy. I’m telling you, “I’m an expert, and I’ve made the decision for you in your best interest. I’m going to tell you exactly how much to buy, when to buy, and how to get the most out of the product.”
+
+But before I’ve qualified you, I would never attempt to sell you anything. Let’s say we take the reverse of that scenario: I can’t help you and you can’t help me. The only thing that will come out of a relationship like that is wasted time and money.
+
+There was a time where the only question that mattered to many salespeople was, “Can you help me?” As in, “Do you have the money, and can I convince you to give it to me?” Unfortunately, a lot of these salespeople succeeded because they were able to bully prospects into submission. They would use some trickery and rhetoric to pressure somebody to say yes. And then the next morning the prospect would wake up, and they would have buyer’s remorse. They would regret giving you their money.
+
+Back in the day, the most you could do is tell a few of your neighbors about it. By then, the traveling salesperson had already moved onto the next town. These days if I feel mistreated by you or your brand, I can publish my experience to the world, and it will stay alive forever. Ten years from now, people will still be able to find that opinion about you.
+
+You should only sell to people you truly are convinced you can help.
+
+It’s getting increasingly harder to have a career in sales or build a business by getting people to give you their money who shouldn’t have, because you can’t really deliver value to them. I think that model is on a steep decline, and I try to do whatever I can to accelerate that.
+
+In today’s world, you should only sell to people whom you’re convinced you can help with your product or service. And if you can’t help them, you won’t believe how much of a brand and career boost it can be to tell people no. We experience this all the time, where we tell people that they shouldn’t purchase our software, and they start arguing with us! We say, “You’re not going to get as much value because of X, Y, and Z. We think there are better alternatives.” People will fight us on this, but more importantly, they will never forget that we put their interests in front of ours. They will tell their friends. We have a lot of customers that came through recommendations and referrals because people feel like we treat them honestly and fairly.
+
+Coming back to the qualifying process, I honestly believe you should only sell to people you truly are convinced you can help. If somebody doesn’t have the money, the patience, the decision making power or the good manners to treat you well – if someone is abusive as a prospect – you should have the right to say no. This person isn’t going to help you; they’re always going to create issues and be unhappy. It’s not worth your energy and time to invest in this relationship even if you think you can help them.
+
+Some people will try to test me. They’ll come up to me, point their finger in my face and say, “Alright Steli, if you’re that great at sales, sell me Close.io right now.” And I always tell them the same thing: “I know nothing about you, nothing about your needs, nothing about what you’re currently using. I’m not just going to sell you on my product; you have to sell me.” Then we can talk about it, and it’s always a funny scene.
+
+Qualifying is the first step to any customer relationship, and it’s the step that many salespeople have in their process but aren’t committed to because it can sometimes feel like qualifying stands in the way of getting people’s money. But I have found that if you qualify people correctly, it’s not just about getting money, it’s about getting the right money – the type of money that multiplies. The type of money that’s much easier to sustain. Money that don’t churn, create bad support tickets or feel like a burden on your team because they were never the right fit. Attracting good money is so much more important to me than just getting people’s money.
+
+## Common obstacles in lead qualification
+
+**Adam:** You mentioned that qualification is something every sales team will say is very important to them in theory, but then it’s harder for them to be as rigorous about it as maybe they should be. What’s tripping them up the most? Are there common blind spots in the process?
+
+**Steli:** The hardest part of qualifying is actually listening. A lot of sales teams teach qualifying as just asking a prospect a number of questions – getting some boxes checked off. If you’re not good at listening and you’re just trying to get an answer, then you’re always going to have a hard time qualifying. A lot of times people will give you very surface level, conflicting answers, and if you don’t listen carefully and don’t care, you might think you qualified somebody when you actually didn’t.
+
+The hardest part of qualifying is actually listening.
+
+For example, when I ask someone what they care about most in their sales team, they’ll tell me, “The number one thing is productivity.” And then two minutes later they’re telling me, “The most important thing is for us to have our forecasting numbers right.” I would guess that nine out of 10 people in SaaS today would not pick up on this incongruence – and even if they did, they wouldn’t feel comfortable to highlight it and dig deeper. I’ll hear a call like that, and I’ll ping the salesperson and say, “The prospect has two things as their number one priority. What is their number one priority now? How can you sell to someone when you don’t know what the story is?” Truly knowing how to listen and pay attention is the biggest hurdle to qualifying somebody.
+
+The other thing is that in SaaS we tell salespeople we care about great customers, and only close the right deals, and that churn is really bad, etc. Then, we put a lot of pressure on the sales team to deliver some number because a board meeting decided that the growth trajectory needs to have a certain curve. And although there are all kinds of things standing in the way – maybe marketing isn’t delivering enough leads, maybe product had some downtime, maybe there’s competition – we still expect the sales team to deliver their quota no matter what.
+
+In my experience, most people in sales are not black sheep. They’re not liars. They’re not people that want to trick customers or steal from them. They are gray sheep. They make these tiny little compromises, one at a time, and nobody is really punishing them for selling to someone they shouldn’t sell too. Instead, they get rewarded for it, because they’re hitting their quota and getting all kinds of positive reinforcement. And then we blame the salesperson for not being the cleanest, whitest sheep possible. If all the incentives are pushing salespeople in one direction, we can’t expect them to go in the other.
+
+The biggest challenges for sales teams are an incentive structure doesn’t encourage them to say no to revenue and money and then giving enough training so they understand that qualifying is not just about asking your four basic questions and getting the customer to say yes. It’s about understanding the customer intimately enough to know why they should purchase your product. To do that, you need to learn how to listen an ask questions in the right way. If you have those two things, you have a sales team that qualifies fantastically.
+
+## The pros and cons of bringing automation to qualification
+
+**Adam:** When it comes to qualification and that idea of listening deeper, we’re also seeing chatbot experiences come into play, with messengers on sites delivering a higher volume of leads. Automation is great and can make it easier to get in touch, but the same time there are a lot of human aspects that simply can’t be replaced. What’s your advice on how to best incorporate these technologies without being overly reliant on them?
+
+**Steli:** My biggest recommendation is that people should try it. They should try having chat technology on their website or their app. They should try automation, but they should really be focused not just on tracking the numbers but looking at these things as experiments that need to be evaluated from 360 degrees.
+
+Let’s say I have a website that has a lot of traffic, and I have a form people can fill out to request a demo or ask some questions. At the same time, I introduce a chat window and maybe we can get a qualification process going where a chatbot is asking a few questions and then prompting the user toward a demo. When you try this out, it’s really important to track the numbers but also to check in with the sales team a month later and ask: “How are the leads we send you through the chatbot different than the leads that come through the form? Have you seen any kind of quality issues? Has that interrupted your workflow because of the way that we send them to you?” It’s crucial to understand how the sales team feels about this and what kind of stories they have to tell.
+
+Missing a tool is never the reason why something isn’t working.
+
+You also have to come at it from a visitor angle; you should actually survey people who visit and exit your website about their experience with chat. I’ve heard many, many times about people going to a site, interacting with a chat widget, and not being happy with it. I had this experience myself, and to me, it’s not the chat window, or the bot necessarily; it’s the way it’s implemented.
+
+A lot of times, we as an industry get overly excited about a new technology, but we’re not mindful about the implementation of the software. “Nobody is converting on our website. Let’s just use an A/B testing tool, and all our problems will be solved.” That’s not actually true, because you don’t have your value proposition or your ideal customer figured out. Your traffic is really poor. No matter how many A/B tests you run, you have fundamental issues.
+
+Attaching AI to anything in SaaS is the new thing that everybody thinks is going to solve their problems. No, it’s not. It’s a tool, and if you use a tool in the right context it might help tremendously. But it also might not make a big difference. You have to test to figure it out. I see too many chat apps – too many bots – implemented in a way that’s not thoughtful, and then generating results that are not successful. Those tools are awesome, and hopefully they help increase customer intimacy, which is a thing that I care deeply about. But I would also warn people about getting overly excited about the tool. You missing a tool is never the reason why something isn’t working. It can advance or improve something that’s already working, but it usually will not fix something that’s broken.
+
+**Adam:** Steli, this has been a fun chat. Your team at Close.io is putting out a ton of content, and you’re speaking at a lot of conferences. Where can our listeners go to catch up with you in the future?
+
+**Steli:** If you like some of the content we shared today and want to have more material for your sales team, I have a bundle of 10 books around sales, along with our email templates and sales scripts. It’s a ton of material, all nicely formatted and organized. If you want it, just shoot me an email at steli@close.io and include “Bundle Please” in the subject line. I’ll send you a link back to all our books and material.
+
+If you like podcasts, check out [The Startup Chat](https://thestartupchat.com/), which I host with my friend Hiten Shah, who’s a marketing genius and an icon in the SaaS space. It’s 20 minutes long and comes out on Tuesdays and Fridays. We tackle a bunch of SaaS and business topics, usually from marketing, sales, and financial perspectives. As always, if you have a question or there’s anything I can help you with, it’s my honor and pleasure. Just shoot me an email – always happy to hear from you.
+
+* * *
+
+[Want to get better at qualifying leads? Learn how Intercom can help.](https://www.intercom.com/blog/starter-kits/lead-qualification)
+
+[![](https://intercom.com/blog/wp-content/uploads/2018/10/Lead-Qualification-Guide-CTA.png)](https://www.intercom.com/blog/starter-kits/lead-qualification)

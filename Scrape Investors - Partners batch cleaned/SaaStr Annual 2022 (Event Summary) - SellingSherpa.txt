@@ -1,0 +1,655 @@
+# SaaStr Annual 2022 (Event Summary)
+
+## SaaS Secret Sauce: How the CEO/CRO Dynamic Drives Growth | Marketo’s Former EVP Sales Bill Binch (SaaStr Europa)
+
+*   CEO & CRO alignment
+    *   The CEO and the CRO should be on the same page about whether it is better to make the number with more smaller deals (SMB motion) or fewer large deals (ENT motion)
+    *   After you close deals, the the time to score them on quality
+    *   Iterate on your org. chart for the next 1, 2, and 3 quarters.
+    *   Build a bottom up plan for how you will make your number – when you will hire and with what (realistic) ramp rate. Also factor in attrition.
+    *   Every month, look at your starting pipeline & your pipeline conversion rate
+*   What drove Marketo’s growth?
+    *   Monthly quotas (even with ENT quotas) to help create a ‘pace’ for the business
+    *   Default to more logos (even if at lower ASP)
+    *   Optimize to get your buyer into a demo (esp. reduce the time from request to demo)
+    *   Sales & marketing alignment – esp. to build your messaging
+*   Three things that have changed
+    *   Office based model –> talent is everywhere
+    *   Enterprise SDR Model –> optimize buyer experience
+    *   ABM –> ABM is not a technology, it is a process.
+*   New, product-led techniques that drive high growth
+    *   Less human involvement to provide access to products
+    *   User telemetry
+    *   Self-service models/virality (for expansion)
+    *   Product Tours
+    *   Calendars instead of forms (to get demo directly to AE)
+    *   Weekly one-to-many ‘demo-nars’ (if you are above 30 demos per week)
+    *   Simplified use terms
+
+## What It Takes to Forge Your Own Category with Braze Co-Founder and CEO Bill Magnuson
+
+*   Hypothesis (from 2011): New businesses will be mobile first and legacy business will need to invest heavily in mobile.
+
+## Founder Confidential with @HubSpot Founders and SaaStr’s CEO | SaaStr Software Community
+
+*   When everyone zigs, you zag.
+*   To lower CAC, invest in product and customer success to drive acquisition via word-of-mouth.
+
+## Growth vs. Efficiency: How to Weatherproof Your SaaS Startup for Tougher Times | Christoph Janz
+
+*   Formula for disaster = growth went down while you kept spending based on original plan
+*   Plan vs actual for total ARR may not show much; however, plan vs. actual for net-new ARR highlights the gap
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/10/image-19.png?resize=1024%2C330&ssl=1)
+
+*   Most critical KPIs
+    *   Net new ARR growth
+    *   CAC Payback = CAC / (ARPA \* Gross Margin)
+        *   ENT: <= 15-to-18 mos is OK/good
+        *   SMB: Target <= 12 mos
+    *   Burn multiple (Burn / net new ARR) <= 1.0. Top quartile from a16z:
+        *   0-10M ARR: 1.1
+        *   10-25M ARR: 1.4
+        *   25-75M ARR: 0.5
+        *   75M+: 0.5 (median)
+*   With CAC payback, can look at:
+    *   Blended (total S&M spend & new ARR)
+    *   Paid only (exclude organic; can be tricky)
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/10/image-20.png?resize=1024%2C487&ssl=1)
+
+## CEO Systems: 5 Lessons Learned from Scaling at Every Growth Phase with HashiCorp CEO Dave McJannet
+
+*   Building companies = pick the market –> find the people –> build the systems
+*   Boil what you do into three pieces: required inputs –> abstraction of your system –> desired outcomes
+*   A company is comprised of 4 plans/systems: financial –> people –> product –> GTM
+*   Executives (re-) architect & build systems
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/10/image-21.png?resize=1024%2C457&ssl=1)
+
+*   “It is systems thinkers, not experience, that wins.”
+
+## AMA with SaaStr’s CEO
+
+*   Have three plans
+    *   C10: Stretch plan 10% chance
+    *   C60: Base plan 60% chance
+    *   C90: Safe plan 90% chance
+*   Do whatever it takes to get (at least) 2 reps hitting quota. Then hire a head of sales.
+*   Don’t hire someone unless you would buy from them. They must have sold software close to your ACV before. Early reps are smart and a bit more product focused.
+*   “Great support is an ‘upgrade’ you can give without a line of code.”
+*   Bootstrapping takes 3-4 years longer to get to $10M. Sometimes you have time, sometimes you don’t.
+*   “Only raise money when you need it or it is cheap.”
+*   It is worth it to hire great VPs in parallel.
+*   A real first VP of Sales will bring talented people with them right away. They also have a recruiter they work with and trust. If they don’t hire anyone good within 30 days, then move them out.
+*   Up to $20M in ARR, your customer success team needs to be product savants.
+
+## Product vs. Engineering: How to Align Two Teams Infamous for Not Getting Along
+
+*   3 in a box (at every level) = product lead + engineering lead + design lead
+
+## Bootstrapping to $2B When Everyone Says It’s Impossible with Cloudinary’s CEO
+
+*   Requires
+    *   cost efficient initial product (revenue > cost)
+    *   product market fit on Day 1 (or at least very, very early on)
+    *   highly efficient GTM model
+    *   fast ROI from Day 1
+    *   Need to deliver >= $300K/employee
+
+*   Many successful bootstrapped companies started as development consultancies
+*   Find ways to be efficient (fewer people) by leveraging automation
+*   Build a strong board of advisors
+*   Hire a CFO early
+*   Get paid in advance (by as many customers as possible)
+
+## Scaling Revenue in 2022: What’s the Same and What’s Different? | Confluent President Erica Schultz
+
+*   Rethink your customer and personas (to align product, marketing, and sales)
+*   Design a modern & connected customer experience
+*   Benefit from the multiplier effect of product-led AND enterprise (sales-led) growth  
+    (start with either one and move into the other)
+*   Create a consumption-based culture, not just a pricing strategy
+*   Maximize growth while increasing efficiency  
+    (solve for speed)
+
+## 5 Critical & Company-Altering Learnings from B2B Startups | Y Combinator MD Anu Hariharan
+
+1.  Is the product good enough?  
+    (It is deadly to scale before you have product-market fit)
+    *   If my product goes away tomorrow, how disappointed will you be?  
+        (>=40% should say ‘very disappointed’)
+    *   How often do you expect your customer to use your product?
+    *   Is your inbound through the roof? Of, if outbound, do you have very high conversion from demo to customer?
+2.  Many B2B startups are underpricing  
+    (keep increasing price by 30% until you hit resistance)
+3.  Companies can rarely serve all B2B customer well  
+    (figure out your easy customers – they are your ICP)
+4.  Early sales should not be delegated  
+    (sales should be extremely repetitive by founders before hiring a sales leader)
+5.  Plan to reach default alive (see Paul Graham’s [blog post](http://www.paulgraham.com/aord.html) on this)  
+    (Don’t grow so fast that you are likely to be in a position to NEED to raise money)
+
+## Optimizing GTM for PLG with Stage 2 Capital Co-Founder and Managing Director Mark Roberge
+
+*   The Growth team does the following:
+    *   Free user acquisition  
+        (high-quality, easy, rapid experimentation)
+    *   Free user retention (\*\*\*)
+    *   Monetization
+    *   Expansion
+
+*   Growth must be a cross-functional team
+*   The Growth team should be in Product.  
+    (If you put in Marketing, you limit experimentation to top-of-funnel since engineers don’t want to work in Marketing.)
+*   The funnel needs to grow faster than your rate of sales capacity expansion
+*   Pay salespeople more for expansion than for new logos (so they don’t add friction)
+*   Reduce pricing friction: Put the paid pricing tier at after the point where power users get high value and before the point where executive leadership cares (ex: user role admin; tech stack integration; etc.)
+*   It is really hard to move from being a non-PLG company to being a PLG company.
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/10/image-22.png?resize=1024%2C907&ssl=1)
+
+## State of the Cloud 2022: The Centaur Report with @Bessemer Venture Partners
+
+*   The cloud marketplace (GCP, AWS, Azure, etc.) is increasingly becoming the main way to transact
+*   Calendly keys to growth
+    *   Freemium with transparent pricing
+    *   Build partnerships, integrations, and extensions
+    *   Augmented PLG with enterprise selling
+
+## Everything that Breaks on the Way to $1B ARR with @Mailchimp Co-Founder Ben Chestnut
+
+*   There are economic waves of bundling (one-stop-shop; consolidation) and unbundling (best-of-breed; diversification).
+*   The bigger you get, the bigger the experiments you need to do
+*   Memorable drivers
+    *   Hyper productive engineer (Chad Morris)
+    *   Great UI/UX designer
+    *   Amazing COO (Neil)
+
+## VC State of the Market with SaaStr CEO Jason Lemkin and Cowboy Ventures Founder & MP Aileen Lee
+
+*   Ultimately, (public) companies are valued on EBITDA & cash flow
+*   Seed is about:
+    *   ship your product; get product market fit
+    *   get a sense of your margins
+    *   figure out your ICP
+*   Series A is about:
+    *   Can you get from $1m to $5-10m
+*   Series B is about the path to profitability
+
+## Lunch with Notion, Motive, & Incredible Health
+
+(Discussion focused on culture & values)
+
+## Lunch with Benchmark: The Playbook to Evolving Your Product Genetics
+
+*   Evolve from “who can we sell to?” back into “what can we solve for?”
+
+## Fundraising While Controlling Your Own Destiny with Airbase
+
+(not GTM focused)
+
+## Balancing Hyper Growth with Risk: Secrets to Scaling with Brex and Alloy
+
+(not GTM focused)
+
+## Increasing Runway Without Sacrificing Growth with Norwest Venture Partners and Andreessen Horowitz
+
+*   Burn multiple = (net burn) / (net new revenue)
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/11/image-3.png?resize=1024%2C568&ssl=1)
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/11/image-2.png?resize=1024%2C511&ssl=1)
+
+*   Partnerships can provide non-linear burn management benefits. 5 rules
+    *   partner fit & motivation is key. Best fit is when you extend the offerings of the partner
+    *   use partnerships to enter new segments (geo, vertical, or size) AND be selective/loyal to the partners you choose
+    *   Invest in ongoing enablement
+    *   Reciprocation (send business to them) & quick wins gain momentum
+    *   partners are the best acquirers
+    *   Keep any given partner to no more than 10% of revenue
+
+## Scaling a Product-Led Growth Model with 1Password, Apollo.io, Sentry, and Lightspeed
+
+*   Let customers buy in the channel they prefer
+*   PLG companies should experiment with outbound sales very early on so they are prepared when they need it
+*   Inbound SDRs (and AEs) have a very difficult time transitioning to outbound
+*   Every function should have a KPI that ties into the 3-4 key pillars of the overall company strategy
+*   Strive to avoid price negotiations (transparent pricing & non-contentious terms)
+
+## How to Sign Your First 10 F500 logos and Big Name Customers with Sequoia India
+
+*   Warm introductions are critical (including from your VCs)
+*   Be careful that you don’t simply end up a service shop for one (or worse several ) F500 companies; avoid requirements that only apply to one customer
+*   Underpricing can actually turn off large companies since this signals that you don’t understand how complex and costly it will be to help them succeed. Price based on value.
+*   Sell a solution, not just a product
+*   Small lands work. Get a foot in the door first with a small pilot.
+*   Don’t try to expand too quicky. Build strong champions first.
+
+## 3 Ways to Find An Edge For Your B2B Ads with LinkedIn
+
+*   The best brand advertising needs to work over long periods of time since most customers (95%) are not actively in the market today
+
+## 3x – 5x: The New Gold Standard for Early Stage Growth with Scale Ventures
+
+*   The best companies have sales as a % of headcount between 15% to 20% (but tune based on your GTM motion)
+*   Don’t scale sales capacity until you have a good handle on your GTM motion
+
+## How the Top Sales Leaders Really Get It Done | Flexport Fund, Rippling, and Brex
+
+*   Hiring & ramping great sellers is the hardest part of the CROs job
+*   Over-invest in the support structure for your top sellers (ex: over-produce leads for them)
+*   Give an equity grant to first line sales managers for each rep they hire who hits their year 1 quota
+*   Only hire more reps when your current team is “screaming” that they cannot take more meetings or onboard more customers
+*   Rather than pay SDRs on SQOs, put them in pods with AEs and tie them to the revenue attainment of the pod
+*   Be very deliberate at the top of the funnel by removing SDR & AE judgement about which accounts to go after
+*   On hiring
+    *   The candidate should be able to share with conviction why this job for this company at this time makes sense in their career arc (and you need to sell them what you will do over the next 4 years)
+    *   Screen for curiosity – people who cannot ask enough questions on how the company works
+*   Your first SDR hire should be a player/coach willing to get their hands dirty (with the intent of hiring and then moving into pure manager)
+*   Split inbound SDRs from outbound BDRs
+*   As you move upmarket, executive outbound outreach needs to come from a fellow peer executive
+*   When selling large deals, invest in premium resources for SDRs and AEs (ex: high-end local events)
+*   The most successful outbound campaign at Brex was champagne for CEOs
+
+## $200M Acquisition: What Bootstrapped Companies Do Better Than VC Backed Ones
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/11/image-5.png?resize=1024%2C574&ssl=1)
+
+*   Encourage customers to commit to longer term plans; you need to ask not only at sign-up but also especially 2 to 10 mos in. Consider offering a discount in exchange for the longer committment.
+*   If/when someone requests to cancel, ask (a) why (b) what part did they actually like. The 2nd part triggers the nostalgia effect
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/11/image-6.png?resize=1024%2C328&ssl=1)
+
+## Scaling for the Enterprise: Top 5 Lessons on the Upmarket Journey with Airtable & Coatue
+
+*   Product sophistication is a major component of being able to move up market
+*   Larger companies want human-led sales though PLG has a role even in outbound to demonstrate product value
+
+## The Founder’s Guide to Developer-led Growth with WorkOS
+
+*   Developer led growth is self-serve and usage based
+*   Needs to be free or very inexpensive to get started; no minimums
+*   Developers want feature-based marketing
+*   Developers love code samples (this is marketing)
+*   Word of mouth is what counts
+
+## How the Magic of IRL Drives Growth & Revenue: 5 Tactics to Implement Your Own IRL Strategy | TravelPerk COO + CPO
+
+(not GTM focused)
+
+## Unveiling the Data Behind Effective Scaling with ICONIQ Growth
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/11/image-7.png?resize=1024%2C577&ssl=1)
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/11/image-8.png?resize=1024%2C559&ssl=1)
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/11/image-9.png?resize=1024%2C562&ssl=1)
+
+*   Median GDR is closer to 90-93%. For SMB, closer to high 80s.
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/11/image-10.png?resize=1024%2C574&ssl=1)
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/11/image-11.png?resize=1024%2C579&ssl=1)
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/11/image-12.png?resize=1024%2C560&ssl=1)
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/11/image-13.png?resize=1024%2C563&ssl=1)
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/11/image-14.png?resize=1024%2C511&ssl=1)
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/11/image-15.png?resize=1024%2C567&ssl=1)
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/11/image-16.png?resize=1024%2C583&ssl=1)
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/11/image-17.png?resize=1024%2C581&ssl=1)
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/11/image-18.png?resize=1024%2C565&ssl=1)
+
+*   Also slowing international expansion, new product introductions, & expansion into new customer segments
+
+## The State of SaaS – Global Data Trends from 1000+ Companies with Capchase CEO
+
+*   [Capchase SaaS Benchmark Report 2022 (pdf)](https://sellingsherpa.com/wp-content/uploads/2022/11/Capchase_SaaS_Benchmark_Report_final-1.pdf)
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/11/image-19.png?resize=1024%2C549&ssl=1)
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/11/image-20.png?resize=1024%2C522&ssl=1)
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/11/image-21.png?resize=1024%2C518&ssl=1)
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/11/image-22.png?resize=1024%2C511&ssl=1)
+
+*   Top quartile companies had 10% more female execs (30% top quartile vs 20% bottom quartile)
+*   Create 3 forecasts – base case as well as best & worst
+
+## How to Build a Multi Product Business with Carta’s CEO and CMO
+
+*   No market is too small as long as the microstructure is winner take all (n=1) and you some sort of business model innovation (not technological) edge (and a means of capturing customers at high velocity)
+*   Three types of network effects
+    *   relationship
+    *   data
+    *   liquidity (ex: more rooms available on AirBnB)
+*   People (must) come for the tool and stay for the network. You need to be able to attract user #1.
+*   Create & sell services to each of the nodes in the network
+
+## From Stealth to Unicorn in 11 Months: Top 5 Lessons Learned | Drata CEO
+
+(not GTM focused)
+
+## How to Get the Most Out of Your Entire Revenue Motion with Salesloft’s CMO
+
+*   For outbound, prioritize companies with high intent (6sense, Demandbase, etc.)
+*   Log deal notes in CRM to ensure smooth handoffs (SDR -> AE -> CSM/AM)
+
+## 5 Customer Challenges as You Scale and How to Fix Them with mParticle, Confluent, and Cribl
+
+*   Land (small), track & operationalize consumption
+
+## Startup 411: Building for Scale with Google Cloud, Stairwell CEO, Mashvisor CTO, and Inworld.ai CTO
+
+(not GTM focused session)
+
+## The Most Important Career Moves that Catapulted My Career as a SaaS Exec: GitLab, Salesloft, Redpoint
+
+(not a GTM focused session)
+
+## Lattice CRO on Lessons learned from Scaling a Rev Organization to $100M+
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/11/image-23.png?resize=1024%2C581&ssl=1)
+
+*   Hire support & management capacity before capacity-based hires
+*   In the early days, put reps on team quota (NB: Not all will agree)
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/11/image-24.png?resize=1024%2C494&ssl=1)
+
+*   Give 1 month of quota relief for each year of tenure (NB: Lattice has been doing this for 3 years; presumably they will need to cap this at some point. There are two ways to think about this. One is one month of relief based on year 1 quota. This implies quota:OTE will fall from 5.0x to 2.9x by year 5. The other is to give one month relief based on immediate prior year. This implies quota:OTE will fall from 5.0x to 3.2x by year 5.)
+
+## From 0 to 6 Million Users in 5 Years: How ClickUp Stood Out in a Crowded Market | ClickUp CCO & CGO
+
+*   In PLG, use product usage to personalize sales engagement
+*   Anything worth listening to can be polarizing
+*   Think like a B2C company
+*   Community is a moat (but it requires daily investment)
+
+## Lunch with Medable’s CEO: The Mission-Driven Playbook for Scaling Your Product Sustainability
+
+(not GTM focused)
+
+## Lunch with Snowflake’s VP, Global Sales Development: How to Manage…
+
+*   Snowflake SDR Academy is 30 days
+*   5 first revenue hires
+    *   First, 1 person who produces great content
+    *   Then, 2 SDRs to source opps for founders
+    *   Finally, 2 AEs
+*   Snowflake uses LeanData for lead-to-account matching
+*   Prioritize accounts based on intent (Snowflake uses 6sense & Bombora)
+*   Get a sales engagement platform (Salesloft & Outreach) and two data providers (Zoominfo + 1)
+*   Roll SDR enablement resources directly into the head of sales development
+
+## Building a 10x Team: 4 Pillars For Creating a Generalist Team | Expensify COO
+
+*   When hiring seek a combination of talent + ambition + humility (or whatever makes a person successful in your organization)
+*   Promote internally (grow, don’t buy your employees)
+*   Expensify does not do live meetings
+*   Every employee has a say in every other employees compensation by asking periodically about the comparative value of pairs of employees
+*   Hold every employee to an uncompromisingly high bar
+
+## Lunch with Cloudflare’s CRO: Lessons Learned in Scaling Your Team & Revenue from $1M ARR to $1B+ with Cloudflare CRO Chris Merritt
+
+*   Three phases
+    
+    *   $0 to $50m
+        *   Find builders who will do whatever it takes to be successful
+        *   Will you sell to people you know?
+        *   Don’t celebrate everything but celebrate the big team Wins as a company
+        *   Don’t go over-capacity
+        *   This phase is all about rapid learning loops. What did you learn? What is the insight you gleaned? Keep documenting what you’ve learned.
+    *   50M to 250M
+        *   Consistency of looking at the same metrics over and over
+        *   Build long term durable revenue by selling to the right customers
+        *   Don’t assume you have everything figured out yet; it is OK to say ‘I don’t know’
+        *   No coasting; you are constantly pushing harder and harder
+    
+    *   250M to 1B
+        *   Move into repeatability
+        *   Governance exists to provide a framework to operate; embrace it
+        *   Constant measurement
+        *   Your Board will change, esp. with professional board members who specialize in specific aspects of your business
+*   Frame risky things as pilots or experiments
+
+## How Top CMOs Drive Growth in the Age of the Self-Serve Buyer | Klaviyo, Talkdesk, and SmartBear
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/11/image-25.png?resize=1024%2C589&ssl=1)
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/11/image-26.png?resize=1024%2C561&ssl=1)
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/11/image-27.png?resize=1024%2C451&ssl=1)
+
+*   Identify leading indicators of (PLG) users becoming a customer. Drive people to those behaviors and only then engage.
+*   The best performing (technical) webinars are when you bring customers to walk through their use case
+*   Customers’ voice is much more powerful than your company’s voice
+
+## Mastering the Mid-market: Lessons on Building and Selling into Scaling Enterprises | Vanta CRO
+
+*   Mid-market: 200-2000 employees; $10M to $1B in revenue
+*   Better economics than SMB and faster than large enterprises
+*   MM buyers often don’t know how their companies buy software.
+*   Get your security certifications in order (esp. SOC 2)
+*   Have a mutual plan in-place; have your champion confirm these are the steps
+*   Need to be multi-threaded
+*   Map out all of the potential stakeholders – Who else needs to weigh in to solve this problem?
+*   What is the metric your company is trying to move by purchasing this solution?
+
+## Extreme Product Design: Building Things People Actually Use | Stripe CTO
+
+*   Debug the customer experience
+
+## Field Guide Advice for Scaling from $0 to $100M with Okta’s COO
+
+*   Start your company with 2-4 people
+*   Hire slowly, fire fast
+*   Update your prioritization list multiple times a day
+*   Enterprise sales matters
+*   When hiring salespeople, ask “What is the biggest deal that you thought would close but did not?”
+*   #1 job as a CEO = don’t run out of money
+*   Don’t waste time & money on a Board of Advisors; just call and ask for help. If they help you with very valuable advice, give them some shares.
+*   But the people on your Board of Directors to work for you
+
+## Deel’s CRO: $1M to $100M in 20 Months, The Hard Part: How Everything Breaks…
+
+*   Scale your RevOps team as you scale your scale team, esp. enablement
+*   Build R&D level rigor into forecasting capacity & revenue
+*   Build processes to support scaling
+*   Set up a global GTM footprint early (assuming you have product-market fit)
+*   Data is the foundation of efficient strategy
+
+## A New Era of B2B Sales: 3 Strategies Growth Leaders Must Implement | Outreach
+
+*   Geographically distributed buying committees lengthen sales cycles
+*   Sellers. managers, and leaders need to be trained to be data-savvy
+*   Managers only spend about 14% of their time coaching
+
+## SaaStr Annual 2022: Why You Want to Develop Product Painkillers, Not Vitamins | DigitalOcean CPO
+
+(not GTM focused)
+
+## Secrets To Combining PLG and Enterprise Sales with Grammarly’s CEO Brad Hoover
+
+*   Align product, messaging, marketing, and sales
+*   Moving upstream to Enterprise required new functionality. For example,
+    *   Centrally managed style guide
+    *   Admin dashboard
+    *   Security certifications (SOC 2 Type 2; ISO 27001-1718, PCI, HIPPA)
+
+## Revenue Alignment: How to Pull Marketing, Sales, Customer Success Together with Divvy’s CRO
+
+*   In (weekly) updates, cover all revenue functions: sales, marketing, customer success, and support to ensure everyone is rowing in the same direction.
+*   Have one owner of all revenue functions (incl. RevOps)
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/11/image-28.png?resize=1024%2C542&ssl=1)
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/11/image-29.png?resize=1025%2C492&ssl=1)
+
+^ measure and compensate one step deeper in the funnel
+
+*   Everyone should know and fight for everyone else’s goals
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/11/image-30.png?resize=1024%2C590&ssl=1)
+
+## Kick off to SaaStr Annual 2022 with SaaStr’s CEO
+
+*   SaaStr intends to attract more enterprise buyers to the event
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/11/image-31.png?resize=1024%2C540&ssl=1)
+
+## What Could Possibly Go Wrong? Scaling from 2 to 200 Employees and 0 to 75,000 Customers | Storyblok
+
+*   The best way to get product market fit = solve your own problems
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/11/image-32.png?resize=1024%2C529&ssl=1)
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/11/image-33.png?resize=1024%2C475&ssl=1)
+
+## 5 Signs You Need to Hire a PMM (yesterday) with Brex
+
+*   Early on, the founders play the role of product marketing
+*   When hiring a PMM
+    *   ensure they are a clear story teller
+    *   uses data to drive outcomes
+    *   is curious about the HOW and WHY, not just the WHAT
+
+## What to Know About the Software Buying Landscape in 2022 | G2 CMO
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/11/image-34.png?resize=1024%2C512&ssl=1)
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/11/image-35.png?resize=1000%2C500&ssl=1)
+
+^ All of the above are “people I can trust”
+
+*   Tap into existing communities where your prospects gather
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/11/image-36.png?resize=985%2C612&ssl=1)
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/11/image-37.png?resize=1024%2C326&ssl=1)
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/11/image-38.png?resize=1024%2C535&ssl=1)
+
+^ These are all about the post-sales experience
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/11/image-39.png?resize=1024%2C571&ssl=1)
+
+## Growth Day Q&A | Algolia CEO & CRO, Zendesk SVP, SaaStr SVP
+
+(no major takeaways)
+
+## Don’t Sell SaaS Like It’s 2012 with Reprise and Glasswing Ventures
+
+*   Buyers trust hands-on experience with your product more than they trust your content or your salesperson
+*   85% of buyers report being dissatisfied with their discovery call experience (source: RevenueGrid); give what your prospect wants to get information you want.
+
+## Playbook to Achieving CEO – CRO Harmony with Algolia’s CEO and CRO
+
+*   Focusing on a single ICP is a sales growth accelerator
+*   You need both self-serve and sales-led
+*   There is no shortage of ideas; ruthlessly prioritize on business impact
+*   Always be recruiting
+*   When hiring, try to talk people out of joining
+
+## Your Real Valuation: How Focusing on Delivering Customer Value Generates Business Value | Gusto
+
+*   Don’t build a minimum viable product (MVP); build a minimum lovable product (MLP)
+*   Checks & balances on growth
+    *   customer experience (product quality)
+    *   business model (unit economics, CAC, GM, etc.)
+    *   employee experience
+*   Use Horizon Planning to manage/prioritize your product portfolio (70/20/10)
+
+![](https://i0.wp.com/sellingsherpa.com/wp-content/uploads/2022/11/image-4.png?resize=600%2C390&ssl=1)
+
+*   Hire Values are especially useful for filtering during the hiring process; hiring is a search for mutual alignment
+*   Hire people who are truly interested in the problem(s) you are solving
+
+## How to Scale a Platform and Ecosystem to $10B with Atlassian’s CRO
+
+*   Using PLG, have kept S&M to less than 15% of revenue
+*   Get rid of web forms, talk to a sales rep, etc.
+*   We have one set list price and it is all on our website; no negotiation
+*   Ecosystem partners:
+    
+    *   Solution partners
+        *   Started with boutique IT consulting firms
+        *   Anything in-person handed off to partners (now over 700 WW)
+        *   You have to introduce customers to partners to get the flywheel spinning
+        *   Avoid channel conflict at all costs; never give a customer any reason to NOT work with a partners
+    *   Marketplace partners
+        *   Customer asks > Ability to build
+        *   Brought in $2B and paid out $1.5B (Atlassian takes 25%)
+    
+    *   Strategic technology partners
+        *   Sold Hipchat/Slide to Slack and established an ongoing business relationship
+        *   Invested in Synk and provide as a capability to customer
+        *   Understand when to partner and when to compete
+        *   Have clear, equitable goals on both sides
+        *   You need culture & values fit with partners
+*   Building a partner ecosystem takes patience (a decade)
+
+## How Not to Go Cheap: The Data Behind Staying Away from Freemium and Focusing on Premium with Payhawk
+
+*   Pricing strategy sits on a triangle whose vertices are acquisition (freemium), monetization (maximize across a few customers), and retention
+*   It can be very hard to recover pricing-wise from a freemium model; instead, consider starting premium before you go freemium
+*   See [Monetizing Innovation](https://www.amazon.com/Monetizing-Innovation-Companies-Design-Product-ebook/dp/B01F4DYY1I) book
+*   Evaluate willingness to pay using the Van Westendorp method
+    *   At what price would you consider the product to be so expensive that you would not consider buying it? (Too expensive)
+    *   At what price would you consider the product to be priced so low that you would feel the quality couldn’t be very good? (Too cheap)
+    *   At what price would you consider the product starting to get expensive, so that it is not out of the question, but you would have to give some thought to buying it? (Expensive/High Side)
+    *   At what price would you consider the product to be a bargain—a great buy for the money? (Cheap/Good Value)
+
+## 3 Tips to Accelerate You to $100M ARR and Beyond with Payrix
+
+*   Maintain a relentless focus on your ICP across all business functions (sales, marketing, cs, product, etc.)
+*   Pursue marquee customers
+*   Scale with customer-centric innovation, esp. via value-added services
+
+## Demand Gen Tactics that Pay Off Big | Stage 2 Capital, Lever, Sales Impact Academy, Zendesk
+
+*   Invest in a ‘creator’ who create content focused on the problem your product solves
+*   Marketers need strong alignment with xDRs.
+*   Move from MQLs to MQAs (marketing qualified accounts, esp. using intent data)
+*   With brand, strive to be different not better
+*   Demand gen is only as good as the process that follows it
+*   To get the attention of the media, focus on the merger of story WITH data
+*   Take the best plays from B2C and bring them to B2B
+*   The US is 1 to 2 years ahead of other countries in terms of the effectiveness of marketing tactics
+
+## 10 Lessons Learned Scaling to $1B Valuation with Drift’s Co-founders
+
+*   Start out in an extreme niche (with truly no direct competitors). At the same time, don’t be afraid of competition since it means there is a market.
+*   Tap into a behavioral change that is happening (rather than trying to change people’s behavior)
+*   Seek feedback, not consensus
+*   In early Marketing, be comfortable doing things that don’t scale (or are difficult to measure)
+
+## Secrets to Revolutionizing Enterprise Sales Growth | Calendly CRO
+
+*   The CRO and CMO must agree on the definition of an MQL
+*   Components of revops
+    *   strategy & planning
+    *   core operations (territory, comp, etc.)
+    *   enablement
+    *   analytics
+    *   \[systems, esp. CRM\]
+*   Automate the QBR/EBR deck creation process for CSMs
+
+## The Diversity, Inclusion & Equality Brunch: Lever, Stage 2 Capital, Zendesk
+
+*   DEI is not something you check off a to do list
+*   Set representation goals for events you host (both speakers & attendees)
+*   Offer public speaking as a benefit to your ERG leader & members
+*   Though mindful of the impact on intrinsic motivation, consider additional equity grants or spot bonuses for ERG leaders
+*   Mentor people from under-represented groups
+*   Include at least 2 diverse candidates in every job finalist pool
+*   Though highly controversial, people who take time off need to ‘position’ themselves by sharing how they worked on their skills while they were out
+*   Educate people on psychological safety
+*   Hold space for nuance
+*   Don’t just track diversity in total; track at every level

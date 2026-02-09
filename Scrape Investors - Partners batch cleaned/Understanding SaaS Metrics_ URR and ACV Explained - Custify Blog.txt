@@ -1,0 +1,315 @@
+# Understanding SaaS Metrics: URR and ACV Explained
+
+In the world of SaaS, understanding business data is mission-critical. However, while everyone talks about churn rate, MRR, or NPS, two metrics quietly drive long-term success: User Retention Rate (URR) and Annual Contract Value (ACV).
+
+They’re core indicators of customer health and revenue potential. URR shows whether users stick with your product after onboarding. ACV helps you understand the financial weight of each customer relationship. Used together, they form what we call the “engagement-to-revenue” feedback loop—a simple but powerful way to align Customer Success with bottom-line growth.
+
+In this guide, we’ll unpack what URR and ACV mean, why they matter, and how they work together to boost retention, drive expansion, and shape scalable Customer Success (CS) strategies. We’ll also explore real-world examples from SaaS companies using these metrics to fuel growth—so you can do the same.
+
+## The Importance of Metrics in SaaS Success
+
+Metrics are the foundation of every wise decision, from how you onboard users to where your customer success team spends their time. Without the right KPIs, it’s impossible to know what’s working, what’s not, and which customers are silently slipping away.
+
+While high-level numbers like Monthly Recurring Revenue ([MRR](https://www.custify.com/blog/expansion-mrr-formula-examples-benchmarks/)) or Customer Lifetime Value (CLTV) are great for executive dashboards, they don’t tell the whole story of customer engagement or potential growth. That’s where [User Retention Rate](https://www.custify.com/blog/customer-churn-guide/) (URR) and Annual Contract Value (ACV) come in.
+
+Together, they give your team a strategic edge:
+
+*   Spot red flags early (like a high-ACV account with dropping URR)
+*   Tailor your engagement based on customer value and behavior
+*   Align customer success with revenue, not just satisfaction
+
+## What URR Is and Why It Matters
+
+**Usage Retention Rate (URR)** measures the percentage of users who continue to actively engage with your product after completing the onboarding phase. It provides a clear indication of how well your product delivers value early in the customer journey—an essential factor in preventing churn and fostering long-term engagement.
+
+It shows how many users continue actively engaging with your product after they complete onboarding. It tells you if customers are getting real value from your product—early and often. And that’s the data you need to reduce churn and [drive product adoption](https://www.custify.com/blog/product-adoption-guide/).
+
+**How to Calculate URR**
+
+The formula is straightforward:
+
+**URR (%) = (Number of active users in a given period ÷ Number of users at the beginning of that period) × 100**
+
+_Let’s break it down with a simple example: Your SaaS platform onboarded 1,000 users in Month 1. In Month 2, 700 of them returned to use the product. That’s a URR of 70%._
+
+This tells you that **30% of your newly onboarded users failed** to engage within a month—an early red flag that can inform onboarding tweaks, feature walkthroughs, or tailored success touchpoints.
+
+**Why It Matters for CS and Product Teams**
+
+Customer Success teams can use URR to:
+
+*   Identify drop-off points post-onboarding
+*   Tailor engagement campaigns based on real usage
+*   Flag accounts at risk before churn happens.
+
+Meanwhile, Product teams can:
+
+*   See which features get used
+*   Refine UX based on usage trends
+*   Prioritize development based on user stickiness.
+
+In short, URR turns vague satisfaction into explicit action. It’s beneficial during the first 30 to 90 days when customers are still forming habits around your product.
+
+Want to go deeper? Check out our **[guide](https://www.custify.com/calculated-metrics) to turning retention data into actionable strategies with Custify.**
+
+**Real-world example:** Mailchimp tracked user retention closely post-onboarding, discovering a significant improvement in URR after introducing interactive onboarding tutorials. This drove a 22% increase in user retention within 60 days.
+
+### What is a retention curve?
+
+Below is a retention curve for a **hypothetical B2B SaaS app**. It tracks the share of users who remain active in each of the first six weeks after signup.
+
+*   **Week 0 starts at 100 %** because the entire cohort has just onboarded.
+*   By **Week 3, only 50 %** are still logging in—an attrition pattern that’s perfectly normal in most freemium or trial funnels.
+*   Notice the **plateau at 40 % from Week 4 onward**. That flat tail is gold: it tells you a sizable slice of the cohort has found enough value to form a habit and stick around for the long-term.
+
+  
+Real-world parallel:
+
+When productivity platform **Notion** saw its retention curve flatten at just 30 % after the first month, the CS team launched an in-app “Workspace Basics” tour that surfaces collaboration features the moment a user invites a teammate. Within one quarter, Week-3 retention climbed to 47 % and average ACV per account jumped 18 %.
+
+The takeaway? Use early-cohort retention data to pinpoint (and replicate) your product’s “aha” moment.
+
+## Why URR Is a Critical Metric for SaaS Customer Success
+
+In fast-scaling SaaS businesses, keeping customers satisfied isn’t enough—you need to ensure they consistently engage with the product. That’s where **User Retention Rate (URR)** comes in. It bridges the gap between product adoption and long-term loyalty by showing how sticky your product really is in the critical early days after onboarding.
+
+URR doesn’t just track usage—it surfaces patterns that help Customer Success (CS) teams act early, support intelligently, and scale outcomes across their portfolio.
+
+### URR Reveals True Product Adoption
+
+While financial metrics tell you **how much revenue** a customer brings, only User Retention Rate (URR) tells you **how much value they’re actually getting**—and when that value starts to fade. This insight enables Customer Success (CS) teams to take proactive steps before customers disengage silently.
+
+By closely monitoring URR, CS teams can:
+
+*   Spot declining engagement well before a churn risk escalates
+*   Prioritize outreach based on user behavior, not guesswork
+*   Segment users effectively for tailored onboarding and support
+*   Use URR trends as an early-warning system to guide intervention
+
+This behavioral focus empowers CS teams to shift from reactive troubleshooting to strategic account growth.
+
+### Onboarding That Drives Retention
+
+A standout example of URR in action is Slack—a platform known for exceptional onboarding and product-led growth.
+
+Slack focuses heavily on reducing friction during onboarding. From seamless workspace setup to intuitive feature tours, they quickly guide users to “aha” moments. According to Slack’s 2023 S-1 filing, teams that completed a four-step tutorial showed a 30 % higher URR in the first 30 days. That deliberate approach:
+
+*   Boosts initial activation
+*   Accelerates time-to-value
+*   Drives higher usage retention
+
+As a result, Slack has seen significant improvements in URR among new teams within the first 30 days—a critical period in any SaaS lifecycle.
+
+Here’s what that translated to:
+
+*   A spike in daily active usage
+*   98% paid user retention
+*   Faster account expansion across departments and teams
+
+For Customer Success teams, this onboarding strategy means fewer users stalling out post-signup and more reaching success milestones, which reduce early [churn risk](https://www.custify.com/blog/customer-churn-guide/) and drive long-term account value.
+
+## What ACV Is and Why It’s Essential
+
+**Annual Contract Value (ACV)** represents the average yearly revenue generated from a customer contract. It’s a key metric that helps SaaS companies evaluate the financial value of each account on an annual basis, enabling smarter resource allocation, account segmentation, and long-term strategic planning.
+
+**ACV = Total contract value ÷ Number of years**
+
+_Example: If a customer signs a contract worth $60,000 over 3 years, the ACV is $20,000._  
+_This means the account is expected to generate $20,000 in revenue per year, which helps CS and revenue teams determine the level of effort and attention that account deserves._
+
+But ACV isn’t alone in the revenue metrics universe. Look how it compares to its close cousins:
+
+*   ACV focuses on average annualized contract value, which helps track and compare accounts across time.
+*   ARR (Annual Recurring Revenue) reflects the annualized value of all active contracts, giving a snapshot of recurring revenue at a specific time.
+*   TCV (Total Contract Value) includes everything in a deal—subscriptions, one-time fees, onboarding, and discounts—across the full term.
+
+While ARR and TCV look at company-wide performance, ACV gives Customer Success teams visibility at the account level, making it a powerful lever for resource planning, forecasting, and personalization.
+
+> “Aligning CS strategies with ACV enables personalized customer journeys that significantly improve renewal rates.” – Vicky Kalbande, CEO & CS Manager at [Sleek Bill](https://sleekbill.in/)
+
+### Why ACV Is a Key Driver of CS Strategy
+
+Once ACV is calculated and tracked, CS teams can shift from generic support models to targeted strategies that match each customer’s business value.
+
+#### Customer Segmentation and Prioritization
+
+ACV allows CS leaders to move beyond industry or company size and segment customers by revenue potential:
+
+*   **High-ACV accounts** may warrant tailored success plans, personal onboarding, and quarterly business reviews (QBRs) to drive retention and expansion.
+*   **Lower-ACV customers** are better served through scalable touchpoints like in-app support, webinars, and automated messaging.
+
+This structured approach ensures every customer gets value, but the depth of engagement reflects strategic importance.
+
+#### How ACV Shapes the Customer Journey
+
+Knowing an account’s ACV informs how and where CS teams invest their time. For example:
+
+*   High-ACV customers may get early access to beta features or specialized onboarding tracks.
+*   Strategic upsell campaigns can be timed around contract milestones, based on account value.
+*   Renewal conversations become more proactive and personalized when you understand the long-term worth of the client.
+*   Tracking ACV helps CS teams deliver tailored experiences that scale with the customer’s business impact.
+
+Check out this [ACV segmentation calculator](https://portermetrics.com/en/free-tools/calculators/acv/) to customize your own customer success strategies.
+
+> “When we see a $25k-plus ACV account, our playbook shifts from ‘support’ to ‘co-pilot.’ We schedule executive QBRs, share roadmap drafts, and embed Custify health data into every meeting deck. That partnership mindset is why our enterprise renewal rate sits above 96 %.” — [Irina Vatafu](https://www.linkedin.com/in/irina-vatafu-406b5314a/), Head of Customer Success at Custify
+
+#### Forecasting Revenue Through CS Impact
+
+ACV becomes even more powerful when paired with customer health and usage data. In practical terms, this allows CS leaders to:
+
+*   Forecast renewals based on engagement and contract size
+*   Identify high-potential upsell or cross-sell opportunities
+*   Report confidently to executives on revenue at risk or expansion potential
+
+Custify simplifies this by integrating ACV into its dashboards—linking contract values with product usage, milestones, and risk indicators. This visibility lets CS teams:
+
+*   Monitor revenue impact from key actions or behaviors
+*   Set proactive alerts for contract milestones or drop-offs
+*   Track ACV trends across segments, regions, or CS initiatives
+
+With this level of insight, **Customer Success becomes a growth function**, not just a support role
+
+Tying customer success metrics to real-time [application performance monitoring](https://middleware.io/blog/how-can-apm-transform-customer-satisfaction/) can also reveal how backend issues like latency, errors, or slow response times subtly impact user retention and satisfaction. This layer of observability helps CS teams act faster when usage declines, providing technical context that supports smarter, more proactive interventions.
+
+### Salesforce: Tiered ACV Segmentation for Scaled CS
+
+Salesforce sets the gold standard for customer segmentation, and ACV is at the heart of it.  
+Instead of segmenting by industry or company size, Salesforce assigns tiers based on Annual Contract Value:
+
+*   High-ACV customers receive dedicated Success Managers, proactive check-ins, and strategic alignment
+*   Mid- to low-ACV segments benefit from scaled CS programs like success centers, webinars, and automated journeys.
+
+This approach ensures every customer receives value, but the depth of engagement scales with their potential—maximizing retention, expansion, and team efficiency simultaneously.
+
+For more insights on aligning CS with business outcomes, check out our guide to critical [customer success metrics](https://www.custify.com/blog/speaking-the-customer-success-language-a-to-z-cs-terminology/), including how to operationalize ACV across your team.
+
+## How URR and ACV Work Together to Drive CS Success
+
+Customer Success isn’t just about reacting to issues or sending satisfaction surveys—it’s about proactively managing relationships based on both behavior and business value. When you combine User Retention Rate (URR) and Annual Contract Value (ACV), you gain a powerful, data-backed view of who needs attention, when, and why it matters financially.
+
+URR tracks how engaged users are. ACV tells you what each account is worth.  
+Together, they give CS teams the context to prioritize efforts, forecast accurately, and protect the business.
+
+These two metrics help CS teams move from one-size-fits-all support to strategic, prioritized engagement that protects revenue and strengthens long-term partnerships.
+
+### Spotting Red Flags with Data
+
+Imagine you’re managing an enterprise account with an ACV of $50,000. The contract looks great on paper. But now imagine that within that account, user engagement has dropped significantly—perhaps only a fraction of previously active users are still logging in.
+
+This is where URR becomes essential.
+
+While ACV tells you the account is high-value, URR shows you that product adoption is weakening—potentially across specific teams or user segments. Even if the company hasn’t canceled the contract yet, low URR signals a risk: they may not be realizing value and could churn at renewal or downsize their contract.
+
+By pairing these metrics:
+
+*   **URR reveals declining engagement**, even before a complaint arises.
+*   **ACV highlights the potential business impact** if the account is lost or contracts are reduced.
+
+With a tool like Custify, these insights are visible in real-time. The system can trigger alerts when usage declines within a high-ACV account, enabling your team to:
+
+*   Investigate which users or teams have disengaged
+*   Offer targeted re-engagement strategies (e.g. retraining, onboarding refresh, feature coaching)
+*   Preserve the relationship before revenue is at risk
+
+This approach transforms Customer Success from a support function into a revenue-responsible, risk-aware team that takes action with confidence.
+
+### Aligning Product, CS, and Sales
+
+URR and ACV aren’t just for CS dashboards—they’re strategic signals that can align teams across your SaaS org.
+
+*   URR tells the product: “Here’s what users are engaging with. Here’s where they’re dropping off.”
+*   ACV tells Sales and CS: “This account has the potential to grow—or the risk to hurt.”
+
+When high-ACV customers consistently use certain features, the product can invest further in those experiences. When enterprise clients make feature requests, ACV gives context to prioritize development efforts, ensuring your roadmap supports real revenue growth.
+
+This alignment leads to:
+
+*   Smarter product decisions
+*   Better sales handoffs
+*   CS strategies that balance effort with impact
+
+URR fuels insight. ACV gives it weight. Together, they drive a more focused, responsive, and revenue-conscious Customer Success operation.
+
+For scaling SaaS teams, a [Sales Virtual Assistant](https://yesassistant.com/sales-virtual-assistant/) can help bridge gaps between departments—tracking ACV data, updating deal stages, and flagging accounts with shifting URR for timely CS intervention.
+
+## Best Practices to Improve URR and Maximize ACV
+
+In Customer Success, data is only powerful if it leads to action. Once you track URR and ACV, the next step is knowing how to move the needle—both in engagement and revenue.
+
+Here’s how leading SaaS CS teams do it.
+
+### Improving URR
+
+High URR doesn’t happen by chance. It’s the result of intentional strategies that guide users to value fast and keep them coming back.
+
+#### 1\. Onboarding Playbooks
+
+Map out key milestones for new users and build structured onboarding journeys. Playbooks ensure consistency and scalability, especially for mid- to high-ACV segments.
+
+#### 2\. In-app messages tied to Behavior
+
+Use in-app prompts to nudge users toward core features based on real-time actions. For example, a well-timed tooltip or checklist can be the difference between activation and abandonment.
+
+#### 3\. Customer Training
+
+Offer webinars, help centers, and short-form video content to support ongoing education. The more confident users are, the more likely they are to return and explore deeper functionality.
+
+When URR rises, it indicates value delivery and opens the door to expansion opportunities.
+
+### Growing ACV
+
+URR doesn’t just keep customers—it lays the groundwork for growth. Here’s how to turn usage into revenue expansion:
+
+#### 1\. Identify Upsell Signals
+
+Monitor URR alongside feature usage to determine when customers are ready for more. Consistent use of advanced features may signal a fit for premium tiers.
+
+#### 2\. Drive Product Adoption for Multi-Seat Upgrades
+
+If one team is active, others can follow. Use engagement insights to initiate land-and-expand campaigns. Highlight collaborative features and cross-functional benefits to encourage internal referrals.
+
+#### 3\. Create Success Plans for Enterprise Clients
+
+Tailor roadmaps around specific business goals. When ACV is high, aligning your strategy with the client’s KPIs shows long-term value, increasing renewal and upsell potential.
+
+### Notion’s Land-and-Expand Model
+
+A standout example of putting URR and ACV into practice is Notion.  
+The productivity platform built its Customer Success engine around a land-and-expand model—relying heavily on URR data to predict account growth. They track deep usage signals like:
+
+*   Workspace activity
+*   Template usage
+*   Collaboration frequency
+
+When usage dipped, their CS teams didn’t wait. They triggered targeted messaging and training, re-engaging users with helpful content and support. As a result, customer Success teams doubled ACV within six months by intervening in the proper accounts. With the right tools—like Custify—they can feed real-time usage data directly into health scores and alert systems, ensuring they catch every opportunity and spot every risk before it escalates.
+
+## Quick Checklist for Improving URR and ACV:
+
+*   Audit onboarding flows quarterly.
+*   Track URR for every new cohort weekly.
+*   Set URR drop alerts (e.g., −10 % WoW).
+*   Segment accounts by ACV tiers.
+*   Match CS playbooks to each ACV tier.
+*   Trigger re‑engagement when URR dips.
+*   Surface upsell cues in health scores.
+*   Review ACV growth per segment monthly.
+*   Tie CS OKRs to URR + ACV targets.
+*   Share URR & ACV dashboards in QBRs.
+
+## URR Is Stickiness. ACV Is Value
+
+Together, they give Customer Success teams a complete, data-driven picture of a customer’s engagement and financial worth.
+
+Tracking one without the other creates blind spots. But when you combine both metrics, you unlock the ability to:
+
+*   Spot churn risks early
+*   Prioritize accounts by strategic value
+*   Align CS efforts with revenue goals
+*   Drive smarter onboarding, adoption, and expansion
+
+Companies that master URR and ACV don’t just reduce churn—they create scalable, high-impact Customer Success strategies that fuel sustainable, long-term growth.  
+With tools like Custify, turning insight into action becomes faster, more strategic, and fully embedded into your team’s daily operations.
+
+### Written by [Kateryna Nosko](https://www.custify.com/blog/author/guestp/)
+
+Kateryna is passionate about content strategy and SEO. At CloudTalk, she supports the link-building and marketing teams, mentors new interns, and enjoys turning data into action.

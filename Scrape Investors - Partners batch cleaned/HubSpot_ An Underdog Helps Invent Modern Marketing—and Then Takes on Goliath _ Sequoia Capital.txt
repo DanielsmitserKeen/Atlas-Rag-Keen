@@ -1,0 +1,308 @@
+# HubSpot: An Underdog Helps Invent Modern Marketing—and Then Takes on Goliath
+
+When HubSpot co-founders Brian Halligan and Dharmesh Shah met in Boston in 2006, social media and the web as we know it today were just taking shape. Their unique insight would upend traditional approaches to marketing: It was now cheaper and more effective to pull customers in through search engines and social media than to push marketing materials out through ads and telemarketers. They tested their ideas with a blog started as a hobby, and coined their new approach “inbound marketing.” 17 years later, those ideas have become a $20+ billion success story, and HubSpot is synonymous with the inbound marketing category. From committing to serve small businesses over large enterprises to taking on a Goliath in a new category, the founders explain how the crucible moments that defined their journey hinge on defying conventional wisdom.
+
+HubSpot co-founders Brian Halligan and Dharmesh Shah revolutionized marketing with their “inbound” approach, growing from a simple blog to a $20+ billion company. Their journey offers valuable insights for founders on making counterintuitive decisions and staying true to core convictions.
+
+*   **Create a new category with a clear enemy.** HubSpot coined the term “inbound marketing” to describe their approach of pulling customers in through content and search, positioning it against traditional “outbound” marketing tactics. Having an enemy when creating a category helps clarify your value proposition and rallies customers to your cause.
+*   **Serve a different audience.** Despite widespread advice to target enterprise clients, HubSpot committed to serving small and medium-sized businesses (SMBs). This decision created a “blue ocean” of opportunity in a less competitive market, allowing HubSpot to become the dominant player for SMBs while competitors fought over enterprise customers.
+*   **Deliver value first capture value second.** HubSpot’s approach to entering the CRM market exemplifies their strategy of offering value before capturing it. By providing a free database tool, they removed barriers to adoption and built goodwill with users. This allowed them to gradually expand their offering and eventually challenge industry giants like Salesforce.
+*   **Rethink pricing to align with customer value.** HubSpot’s pivot to a two-axis pricing model—charging based on features and number of contacts—was crucial to their success. This allowed them to grow revenue as their customers grew, reducing churn and aligning their success with their clients’ success. The lesson: pricing models should evolve with your understanding of how customers derive value from your product.
+*   **Make strategic decisions “one-way doors.”** When HubSpot decided to enter the CRM market, they committed fully despite the risks. Brian Halligan emphasizes the importance of making some decisions “one-way doors”—commitments you won’t back away from, even if they’re difficult. This approach can provide clarity and focus for the entire organization.
+*   **Stay humble and keep learning.** Dharmesh Shah stresses the importance of maintaining humility and curiosity as the company grows. He advocates for being a “learn-it-all” rather than a “know-it-all” fostering an organizational culture of continuous learning and adaptation.
+
+_**Brian Halligan:** Everyone’s reaction to SMB was consistent. Don’t do it. No one liked the idea of doing a small business play._ 
+
+_**Dharmesh Shah:** Recognize that this will likely be one of the hardest decisions you make. And the fact that it feels difficult, it’s because it’s difficult, because it is so impactful._ 
+
+**Roelof Botha:** Welcome to Crucible Moments, a podcast about the crossroads and critical inflection points that shaped some of the world’s most remarkable companies. I’m your host, Roelof Botha.
+
+Imagine sitting down to dinner after a long day of work. It’s the moment you can finally relax. And then… your phone rings. You don’t recognize the number but you pick up, and of course… it’s a telemarketer. You probably hang up before they can even finish their first sentence. Twenty years ago, this was marketing: Interruptions to your day in the form of cold calls, ads, spam emails… one annoyance after another. And no luck for the person selling the product.
+
+#### Creating the “inbound marketing” category
+
+In 2006, two ambitious MIT graduate students, Brian Halligan and Dharmesh Shah, could see that traditional marketing tools were broken and that the internet was creating a new way of reaching customers. They coined the term “inbound marketing,” an innovative way of thinking about marketing that would transform businesses around the world. Their company HubSpot is now not only synonymous with this idea, but is _the_ go-to software for marketing and customer relations.
+
+For HubSpot, disrupting the world of marketing meant bucking traditional wisdom in the face of crucible moments. Today, we’ll hear how, against the advice of almost everyone, they committed to serving a loyal following of small businesses instead of big enterprises. How they reimagined their pricing model to avoid death by churn. And how they went up against a Goliath to break into a new product category. 
+
+HubSpot’s story is one of sticking to your convictions, even through crucible moments that challenge your instincts and test your resolve.
+
+**Brian Halligan:** My name is Brian Halligan. I’m the co-founder and Chairperson of HubSpot.
+
+**Dharmesh Shah:** My name is Dharmesh Shah. I’m Co-Founder and CTO of HubSpot. 
+
+**Brian Halligan:** I was in business school. It was the night before classes started, and I was on my second Sam Adams at the Marriott at Kendall Square. And a woman walked up to me, a very nice woman, and she started peppering me with questions all about me and my background and my interests in, like, an interview style.And at the end of that, she just quickly disappeared on me. 
+
+And what it turns out was going on there was, when Dharmesh goes to a cocktail party, he finds the largest plant or bush he can find, tucks in behind it, then he sends his wife out to interview everyone and see if she can find some friends for him and then brings him over. And the scouting report on me wasn’t good. Do you want to repeat the scouting report?
+
+**Dharmesh Shah:** Yeah, it’s like, you know, “Brian likes baseball and the Red Sox. He loves the Grateful Dead. You’ve never been to a baseball game. I don’t think you know who the Grateful Dead are. I don’t think the two of you are gonna hit it off.” So she’s like, “Move on. Like, let’s, we’ll find someone else, uh, for you to talk to.”
+
+And, by the way, my wife has been doing that—she and I have been together for 30 years now, forever. That’s the only time she’s actually been wrong in a scouting report. Only time.
+
+**Brian Halligan:** I bring it up to her every time I see her.
+
+**Roelof Botha:** In 2006, Brian was working at a venture capital firm as an Entrepreneur in Residence, meeting with founders and learning about what drove a successful business.
+
+**Brian Halligan:** You know, I asked them, you know, “What’s your go-to-market plan?” And they all did the same thing. They all bought a list and they sent emails. They bought a list and they cold-called. They did a lot of advertising. They hired the big expensive PR firm, did the big conference, and they all had the same results. Terrible. They just didn’t work.
+
+And my thesis was that marketing was broken, that people were sick and tired of being marketed to, and getting awfully clever at blocking it out with spam protection, ad blocker, you name it. Really hard to interrupt humans. That was my “aha.” 
+
+At the same time this is going on, Dharmesh is in school and he had a very early blog called Onstartups.com and he didn’t have any staff or money associated with it. And he would just write a couple blog articles a week based on interesting lectures. And sure enough, he had, you know, a thousand times more interest in his little tiny blog than any of my venture-backed startups. And so, we just started describing the world back then as “inbound marketing,” what Dharmesh was doing.
+
+**Dharmesh Shah:** Brian coined the term “inbound marketing.” We didn’t deliberately say, “Oh, we’re gonna go out and create this category.” We said, “Oh, we need something to describe this kind of product that we have.” 
+
+**Brian Halligan:** Pulling people in through Google, through search, through social, through blogging. Versus outbound marketing, which was what my companies were doing, interrupting people in their daily lives, and that the world would be a better place if inbound was more prevalent than outbound. 
+
+**Dharmesh Shah:** We did not trademark it or copyright it or say, “Oh, that’s our term. No one else can use it.” We wanted everyone else to use inbound marketing as a term. We wanted it to be a thing because we are going to be the company that’s most known for that thing. 
+
+**Brian Halligan:** And what works when you’re creating a category is when you have an enemy, and it was inbound versus outbound. And then, people said, “Oh, I want to do this thing they call inbound marketing. How do I do it?” 
+
+**Roelof Botha:** Brian and Dharmesh officially founded HubSpot in June of 2006 in Cambridge, Massachusetts.
+
+#### Choosing a market: SMBs or large enterprise companies?
+
+As they were working to bring awareness to their new category of marketing, they were also making a decision that would come to define HubSpot’s identity: should they focus on small and medium-sized businesses, known as SMBs, or large enterprise companies?
+
+**Dharmesh Shah:** One of the things that brought Brian and I together was our shared, kind of, passion for going after SMBs. We actually chose that market before we even chose what we were gonna do for that market. 
+
+**Dharmesh Shah:** We kind of recognized that the internet disproportionately helped small and medium-sized businesses more than larger ones, because it, kind of, leveled the playing field. 
+
+**Brian Halligan:** You used to need a ton of money to get found online, but all of a sudden, there was Google and social. And if you create a great piece of content, it would spread and pull people in like a magnet. Now, all of a sudden, any small business could create content and your success in marketing shifted and your success became much more about the width of your brain than the width of your wallet. 
+
+**Dharmesh Shah:** But trying to put all the pieces together to kind of leverage the internet in the way that it needed to be leveraged and to do inbound marketing, it just was a science project for a lot of these companies. They did not have the time or the talent to actually do all those things. 
+
+**Roelof Botha:** If HubSpot focused on creating inbound marketing tools for small businesses, it would give companies that never previously had marketing resources the ability to gain significant traction online. 
+
+**Dannie Herzberg:** When I joined HubSpot, the company was a culture magnet. Like, it was a bunch of cool geeks who were all situated in this tiny coworking space near MIT called the Cambridge Innovation Center. And it was a really tight-knit group.
+
+My name is Dannie Herzberg, I’m a Partner at Sequoia Capital. I joined HubSpot as a Sales Rep, became a Sales Leader, and ultimately, joined the Product team where I launched the company’s platform. 
+
+We all drank the Kool-Aid of what HubSpot was preaching. So, every person there was genuinely passionate about the virtues of inbound marketing and helping small businesses thrive.
+
+**Roelof Botha:** But, there was a problem. 
+
+#### Putting a stake in the ground: the good and bad of the SMB market
+
+**Brian Halligan:** Everyone’s reaction to SMBs was consistent. Don’t do it. No one liked the idea of doing a small business play. In particular, the people who liked it the least and were most adamant we change our mind: venture capitalists. We had a heck of a time raising funding. 
+
+**Pat Grady:** All of the competitors did the math and said, “You put a dollar into the go-to-market machine and an SMB gives you back $2. You put a dollar into the same go-to-market machine and a mid-size company or an enterprise gives you back $3 or $4.” And so, near term, the payback is always to go upmarket. 
+
+My name is Pat Grady. I’m a Partner at Sequoia. 
+
+If you just looked at the numbers, the numbers will always tell you to go upmarket… Customers are bigger. They’ll stick around longer. Upmarket always looks like a better place to go.
+
+**Dannie Herzberg:** And if you look at SMBs, they’re much more prone to churn. You can see why it’s much more tempting to move upmarket quickly. 
+
+**Brian Halligan:** I think the VCs didn’t like SMB because there just weren’t any examples of companies that had succeeded in SMB, other than, really, Intuit. And honestly, that was the only one. And every VC asked us that question, we always said, “Intuit.” And then, they would say, “Who else?” And then, we’d give them a blank stare.
+
+**Dharmesh Shah:** The kind of most common argument was: it’s really expensive to get to SMBs. You just, you can’t do that and you can’t afford the, kinda, the LTV to customer acquisition ratio. 
+
+Yes, that was true, for years and years, that it was too expensive to go after SMBs, but have you heard this thing called “inbound marketing”, which lets you much more efficiently pull customers in? 
+
+**Roelof Botha:** HubSpot had arrived at its first crucible moment. Almost all investors are telling you not to pursue SMBs. Do you listen to them? Or, do you hold true to your belief in your product and to your understanding of the market’s needs? Dharmesh and Brian stuck to their gut.
+
+**Brian Halligan:** We were like, “Trust us, this is gonna be a huge market!” 
+
+**Dannie Herzberg:** Brian and Dharmesh had this very astute insight, which was that everyone was flocking to the enterprise. The competitors at the time, Eloqua, Marketo, and others that have ceased to exist, all of them were moving upmarket into this really crowded space with essentially the same solution.
+
+And it was a total red ocean and SMB was a blue ocean. No one was really vying for mindshare across SMBs. 
+
+**Pat Grady:** The strategy was, “Okay, we’ll let everybody else go up market. There are millions of SMBs out there who could also use this product. At some point, if we just hunker down and work really hard to solve their problems, at some point, we’ll become the default.” 
+
+**Brian Halligan:** It’s a lot easier to go from SMB to enterprise. Like, I can’t think of any software companies that did really well in the enterprise and then, shrunk it down and really scaled in SMB. But I can think a lot of software companies that started in SMB and moved to the enterprise and succeeded.
+
+It’s hard to make something complicated, easy. It’s easy to make something easy, complicated.
+
+**Dharmesh Shah:** Just overall, one of the benefits of building an SMB product is, it just kind of builds good product hygiene. When you have to build a product for, you know, thousands, tens of thousands, hundred thousands of people, you have no choice but to make it simple. 
+
+**Dannie Herzberg:** Working with SMBs, the sale was extremely personal… to the extent that we’d actually ask the CEO of the company about their personal and professional goals, and we’d jointly map out a plan to get there. We’d figure out, “How many kids do you have? When do you have to send them to college? What are your savings? What’s the recurring revenue in your business, and what’s gonna get you from point A to point B? Do you actually have a plan?” And they’re so proud to show you how it’s impacted the business. 
+
+It’s a very personal conversation. It’s closer to therapy than it is sales to a CIO. 
+
+**Roelof Botha:** There are some crucible moments where, after a path forward is determined, the company heads down that road and doesn’t look back. In HubSpot’s case, even after the company was able to convince investors of their SMB strategy, there continued to be those who badgered them to revisit the decision.
+
+**Dharmesh Shah:** Obviously, we didn’t say something smart enough because we still kept getting the question quarter after quarter for 16 years. 
+
+**Brian Halligan:** We had to defend the SMB decision for a very long time. There was one venture capitalist who had a board seat and a loud voice at the table who was really just convinced that we were wrong about it and we needed to go to the enterprise, and it was an eventuality. And every board meeting, it would come up. And I would just say it was a, it was a source of contention in a lot of board meetings. And it was almost like I could set a stopwatch from the beginning of the board meeting until this particular board member would bring up enterprise. And so, just had to stick with it. 
+
+**Dharmesh Shah:** Pretty much every quarter, every board meeting, every investor meeting, the IPO roadshow, everyone—and sometimes they would humor us. Like, “Oh, it’s great that you’re successful and that you figured out SMB, but tell us the plan for the enterprise.” 
+
+And our response was always the same, “We don’t have a plan to go to the enterprise. We’ve done the hard work of making this model work.”
+
+**Dannie Herzberg:** Every time after a board meeting, when Brian and Dharmesh got pressure from anyone around the table to move upmarket, they’d come back and say, “We get it. We can close bigger deals upmarket, but we’re not gonna do that.”
+
+**Pat Grady:** They kind of had the courage of their convictions to say, “I think if we just hunker down and stay here, it’s gonna be more defensible because nobody else is gonna be able to serve these customers the way that we will, and nobody else wants to serve these customers the way that we do.”
+
+**Dannie Herzberg:** To me, strategy is about what you say “no” to, even more so than it is what you say “yes” to. So, the more cowardly or deferential move would’ve been to say, “Sure, okay, we’ll keep our SMB division, but we’ll build an enterprise division, and we’ll build some features that are great for enterprises,” but suddenly, you say “yes” to everything and you’re not really diving deep and becoming an expert in anything. 
+
+Honestly, I felt like I was doing high-impact work, work that I borderline would’ve done for free because of how it felt to see small business owners emerge from buying the software and following along with the methodology that HubSpot was teaching them, and really, really change their businesses, their trajectories, their lives as a result of it.
+
+**Pat Grady:** And so, it was a counterintuitive, controversial decision that required some near-term pain in exchange for long-term reward, and they absolutely nailed it.
+
+**Roelof Botha:** Their persistence paid off. HubSpot grew from a quarter of a million dollars in revenue in 2007 to $15.6 million in 2010. The seed planted with Dharmesh’s blog had grown into a full-blown software and consulting company with its own book, “Inbound Marketing: Get Found Using Google, Social Media, and Blogs.” 
+
+In 2011, Sequoia began meeting with the HubSpot team. We thought the company had massive potential. 
+
+**Brian Halligan:** I get introduced to Jim Goetz—
+
+**Roelof Botha:** One of the partners at Sequoia—
+
+**Brian Halligan:** He walked into the conference room at Sequoia and I remember it like it was yesterday. He shook my hand and, as my hand was being shook, he said, “What’s it gonna take for Sequoia to own a piece of HubSpot?” And I thought to myself, “Not much actually. We can sign a term sheet right now if you were that interested.” And we had a good chat. 
+
+And then, he handed it to, at the time, a junior employee, Pat Grady. And it was a very different reception. Pat was tasked with really going through all of our numbers to see if this thing was really scaling.
+
+#### Death by churn: can you fix churn with pricing?
+
+**Pat Grady:** So when we make investments, we try to make a very small number of very-high conviction investments. We do lots of homework, deeply understand the market, try to deeply understand the team that’s building in that market, and then, get into business with them for the long term.
+
+And so, when we were getting into business with HubSpot, we did a fairly exhaustive study of the market. We talked to a bunch of customers. We really understood the numbers that were being produced by the business, and a problem that was evident was churn.
+
+**Brian Halligan:** When Pat started digging into the numbers, I got very nervous. I was pretty sure Pat was gonna say no to the deal, and go back to Jim and say, “Nice guys, but math doesn’t work.” And he would’ve had every right to do it. 
+
+He did not do that. He dug into the numbers and he said, “This could be right if we fixed the pricing model.”
+
+#### The origin of HubSpot’s first pricing model
+
+**Dharmesh Shah:** Here’s the story of how we came up with our initial price for HubSpot. And realize that we had both just been to business school. The first 10 employees had all been to business school, all MBAs, all from Sloan. And this was the conversation. It’s like: “Okay, well we know we need to get a price on the product because we’re both believers in getting, uh, a product out there, and charge early, charge often.” Awesome. 
+
+So we get into the meeting, it’s like, “Okay, so we need to pick a price.” 
+
+“Yep. We need to pick a price. What do you think the price should be?”
+
+“I don’t know. What do you think the price should be?” 
+
+“What do you think about $250?” 
+
+“Done.” 
+
+And that was it. That was the rigor and analysis that we put into the kind of first price point that we picked for HubSpot. 
+
+**Brian Halligan:** 250 is exactly the wrong price point. I think a hundred dollars a month or less, you can get away with selling something totally touchless, at least back then. Or a thousand dollars or more, you can afford to have an inside sales force to do it. 250 was, we were stuck, kind of right in the middle of those two. So we did kind of pull that number out of the hat. I think we pulled the exact wrong number out of the hat.
+
+**Roelof Botha:** HubSpot’s one-size-fits-all pricing was blunt and indiscriminate, meaning that they captured a fraction of the value they were delivering. There were users who left HubSpot because they felt $250 a month was too expensive. And there were others who felt $250 was a steal and would have paid far more for the product. HubSpot faced its second crucible moment—how should the company change its pricing model to avoid death by churn?
+
+**Dannie Herzberg:** The pricing model is the most overlooked, critical decision that a company makes. 
+
+**Dharmesh Shah:** The question’s not, “What’s at stake when you change your pricing model?” The question is, “What’s at stake when you don’t change your pricing model?”
+
+The fact that it was flawed, and uh, not even just suboptimal, like, just broken, is that, I don’t think HubSpot would have survived as a company had we not made that particular change.
+
+#### Introducing a two-axis pricing model
+
+**Pat Grady:** The solution that was not so evident was to introduce a second axis to the pricing model, so that the price that they were getting from customers was better aligned to the value that they were providing those customers. 
+
+**Brian Halligan:** And Pat said, “I don’t care if you use seats, or users, or visitors, or leads, but everybody else out there who’s created a successful model in Silicon Valley has what he called, “a two-axis pricing model.” That’s a term I had never heard before. 
+
+**Roelof Botha:** A two-axis pricing model is a powerful tool to scale revenue. It allows you to adjust your pricing along two axes instead of one, so a customer can pay based on exactly what they need, whether that’s access to a greater number of features, or more licenses to use those features. And as a customer’s needs change, so does the amount charged, along those two dimensions.
+
+**Dannie Herzberg:** Look at Salesforce. Salesforce has two axes for its pricing. One on the dimension of what features you’re buying into, and the other that allows them to grow with a customer as they are successful. So, in Salesforce’s case, you know, if a company is successful using Salesforce as its CRM, it’s gonna grow sales, and then it can charge more per seat.
+
+HubSpot didn’t have the equivalent of that. 
+
+**Brian Halligan:** For month, after month, after month, the topic was pricing. And there were big debates over what that second axis should be. Should it be visitors? Could we do users, or seats? Or should it be contacts, or new leads? We ended up, after many, many months of debating it, picking contacts. 
+
+**Pat Grady:** A customer who had 10 contacts in the database might be paying the same as a customer who had a thousand contacts in the database. Well, if you have a thousand contacts in the database, chances are you’re generating a lot more business than somebody who has 10 contacts in the database. 
+
+**Roelof Botha:** HubSpot decided to charge customers based on their number of contacts. As HubSpot helped a business grow from 10 contacts to a thousand, HubSpot would benefit from that growth too, by charging the company more for its services.
+
+**Dannie Herzberg:** Essentially, HubSpot would grow with a company as its contact database grew.
+
+**Dharmesh Shah:** So many positive things happened once we kind of figured out the need for a second axis, which is, “Oh, now we can kind of grow along two dimensions.”
+
+As a result of getting that upgrade rate up, that actually has theoretically no limit, right? And that was life changing. Once we kind of unlocked that opportunity to upsells and upgrades, then it helped us, kind of, dig ourselves out of that churn hole. 
+
+**Pat Grady:** I think one, one big lesson from the HubSpot pricing model change is, if you lead by providing a lot more value than you capture, you’re kind of creating this bank of goodwill that you can tap into later if need be, for the sake of building your business. 
+
+I think if HubSpot was not beloved, and then they showed up and tried to extract more value from customers, it would’ve been a much tougher conversation. But, I think because they were so beloved, when they showed up with the new pricing model, they got some breathing room.
+
+**Brian Halligan:** There was a triumph for the pricing model the day our revenue retention hit a hundred percent. I never thought we would see that day, but the day that hit a hundred percent was a joyful day inside of HubSpot. 
+
+**Dharmesh Shah:** Looking at it in hindsight, that was, like, a truly, like, a literally critical decision, in HubSpot history. Had we not done that, I don’t think the company would’ve made it or at least not have become the modest success it has now.
+
+#### Building a second product: the CRM
+
+**Roelof Botha:** While HubSpot initially focused on helping companies generate leads via inbound marketing, around 2013, they became interested in taking the company in a new direction.
+
+**Dharmesh Shah:** When companies try to come up with their second product, there’s a couple of reasons they often do it. One is, “oh, we’ve saturated our current market right now. Uh, we need to find new horizons and, and new, new markets to kind of tackle.” Another one is around, uh, like a defensive posturing.
+
+Ours was a mix of the two, one was a defensive, “Okay, we’re in the marketing software business.”
+
+The reality is, uh, the marketing software always works with a CRM and whoever owns the CRM over time is likely going to win. 
+
+**Pat Grady:** CRM stands for Customer Relationship Management. So: Get ‘em there, close ‘em, keep ‘em happy. 
+
+When people talk about CRM, they’re talking about three broad categories of software. Marketing, which gets people to your door. Sales, which helps to turn those people into customers. And then, support or service, which helps to keep those customers happy. And so, those are kind of the three legs to the stool for CRM.
+
+#### David and Goliath: HubSpot and Salesforce
+
+**Dharmesh Shah:** The early survey we had done where 20% were using a particular CRM, 20% we’re using some other one. Of the 60%, it was like, “Okay, well those 60% of companies that are not using a CRM need to be.” And the question we asked ourselves is, “Look, like, what’s keeping them from using a CRM?” 
+
+Two things. One is, it was overwhelming. It was just too complicated, the existing products that were out there. Or it was too expensive and they just didn’t wanna spend the money. And we’re like, “Okay, if we can remove both those barriers to entry, we may have something here.”
+
+**Brian Halligan:** When we decided to go into CRM, similar to our decision to do SMB, we got a lot of pushback. Should we move from a marketing app to a CRM platform? Huge pivot. And it was a huge pivot we made six months before the IPO, so explaining it to public investors was very difficult, and that was definitely a counterintuitive move for us. 
+
+And many of our board members, a lot of venture capitalists thought, “Stay outta the space, stick to your marketing. Second products never work.” 
+
+**Roelof Botha:** There was another reason investors were skeptical. The market was dominated by one giant CRM player: Salesforce. 
+
+**Brian Halligan:** There was a vendor doing quite well in the space in Salesforce.com. They had network effects. They were, they were cranking. 
+
+**Dannie Herzberg:** It was terrifying. HubSpot is very clearly David, and there is very clearly a Goliath that is basically synonymous with CRM. And so, who is this little company in Boston that’s historically focused on marketing automation and inbound marketing software? Who do they think they are to challenge the Goliath and launch a CRM? 
+
+**Roelof Botha:** Here, another crucible moment. Should HubSpot stay in the marketing software lane, or divert resources to a whole new platform and risk getting crushed by Goliath?
+
+**Brian Halligan:** The whole management team sort of had their heads around how this thing would work. And when we finally put it in, there was a lot of consensus around it. 
+
+We created a startup inside of HubSpot to create the CRM. 
+
+**Dannie Herzberg:** Before HubSpot launched CRM, which is a broader piece of technology, it offered little tools, like, track who opens your email, and see when someone downloads an RFP that you sent. 
+
+**Brian Halligan:** The first thing they built was more a tool for sales reps to be more productive. It was called Signals, and that was a freemium little app that sales reps could use. 
+
+#### HubSpot’s playbook for product-led growth: offer value before capturing value
+
+**Dharmesh Shah:** One of the reasons certain parts of the team were, kind of, gravitating towards tools is that tools are bought. So, you can put a website up there that says, “Oh, this thing costs $10 a month,” or whatever. And people will come to the website and buy it. Platforms are sold, right? Like, causing someone to make a platform shift or invest in a platform takes carbon-based life forms to convince them why that’s important, why yours is okay, because they’re making a career-defining, long-term decision for their company. 
+
+We’re gonna make it free. So, we’re gonna remove all possible reasons for people to say no to a CRM. 
+
+**Pat Grady:** We generate all these leads for you and then, you’re using our sales tool to try to work with those leads. Why don’t we just give you a free database so you can stick that stuff in. And, it turns out that the thing that sits at the heart of a CRM system, is that database. And so, instead of saying, “Aha, now we have a CRM.” They just said, “Well, here’s a free database. You know, you guys should use Salesforce if you need a CRM, but if you don’t need a CRM, if you just need a database you can stick all your leads in, you know, here’s our database.” 
+
+**Dannie Herzberg:** That’s a much more compelling pitch because you’re not going after where the money is. You’re just going after where the need is and the underserved market. So, here was another crucible moment for HubSpot where the company made a really risky move, which was to launch its first product, CRM, for an adjacent function, the sales function, and to give it away for free forever in order to gain distribution and ubiquity à la the Atlassians and Dropboxes of the world. 
+
+**Brian Halligan:** And then, we said, “Oh, should we build a series of apps for sales reps. Or should we just do the hard work of building a CRM system down below it and worry about the apps later?” 
+
+And we flipped it about a year into it and, and decided, “No, we’re not a sales-tool player. We’re a CRM-platform player.” 
+
+**Dannie Herzberg:** So, we have an annual conference at HubSpot that’s called Inbound. At the time CRM was announced, it was probably 10,000 or so attendees. I remember when HubSpot announced CRM to the world. And it was kind of terrifying and kind of exhilarating. 
+
+**Roelof Botha:** HubSpot’s stealthy entrance into the CRM market with their freemium database was a prime example of low-level disruption. David had readied his slingshot, aimed squarely at Goliath.
+
+**Pat Grady:** There were six or seven quarters in a row where every single quarter, the growth rate accelerated. Every single quarter, the gross margins went up. And so, there was a six or seven quarter period where, all of a sudden, the numbers just got better, and better, and better. And there were probably multiple reasons for that, but one reason, I believe, is that they had finally gone from being one of many to just being the default.
+
+And if you fast forward to today, they’re really the only viable threat to Salesforce, and there’s a huge chunk of the market where HubSpot is far more effective than Salesforce.
+
+The only way to compete in a market as large as CRM with a competitor as tough as Salesforce, you can’t beat them with go-to-market tactics or brute force. You can only beat them if you have a better product. And fortunately, HubSpot had that.
+
+**Dannie Herzberg:** And yet again, HubSpot got to embrace its playbook of earning loyalty by offering value before capturing value. And over time, it built sophistication and enterprise readiness into the products such that they could move upmarket and really challenge the Goliath in a more formidable way. 
+
+**Brian Halligan:** I think the decision to move into CRM is a little bit like our decision on the pricing model. Had we not done it, the existing CRM players would’ve added marketing, and would’ve made our lives very difficult had we stayed standalone. And I think what would’ve happened is we probably would’ve had to sell the company.
+
+**Roelof Botha:** For HubSpot, growth meant survival. Today, they are not only surviving, but they’re one of the most successful SaaS companies of the last decade.
+
+**Pat Grady:** They have an amazing CRM product that they can keep going upmarket with, and that is a sure path to billions more of revenue. Back to the crucible moments they’ve had in the past, should they delay some of that gratification and go even deeper into the workflows of the SMB customers, and worry more about enterprise further down the road. So, that’s one interesting question for them today.
+
+**Brian Halligan:** You’ve got one-way doors and two-way doors, and two-way doors are decisions you can make and reverse it, and that not a lot of damage happens. We purposely made the move into CRM a one-way door.
+
+We’re not coming back. In business school, they say, “Start an innovation group, try lots and lots of things, and see what sticks.” We took the exact opposite approach and we said, “We’re gonna do this if it kills us.”
+
+**Roelof Botha:** As technologies like AI transform how businesses operate, HubSpot is evolving while staying grounded in its convictions.
+
+**Dharmesh Shah:** We’ve gone through some crucible moments. We’ve made pivotal decisions. What we wanna make sure we instill is, number one is, always ask ourselves, you know, “How do we solve for the customer?” Stay kind of grounded in that. And number two, and it’s gonna sound a little bit cliched because it’s a little cliched, is to have the humility and not to be a know-it-all. And I got this from Brian, is to be a learn-it-all, right? Like, we want an organization that’s constantly curious. It’s like, “Oh, we haven’t figured everything out.” 
+
+**Brian Halligan:** I would say the crucible moments are all around counterintuitive decisions, or places where we zigged instead of zagged. 
+
+And then, our engineers and designers built beautiful applications on top using that. And that’s our competitive advantage in the marketplace is how easy and elegant these things are. And as we add more hubs, we’ll be able to continue to do that. I’m a big skeptic when it comes to conventional wisdom, and I think that’s in our bones and will continue.
+
+**Roelof Botha:** Join us next time as we hear from Hosain Rahman and Alex Asseily of Jawbone and learn how a revolutionary sound company became a cautionary tale.
+
+This has been Crucible Moments, a podcast from Sequoia Capital.

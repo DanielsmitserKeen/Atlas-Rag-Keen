@@ -1,0 +1,426 @@
+# The State of AI 2025 - by Janelle Teng Wade
+
+_Originally published in Bessemer’s [Atlas](https://www.bvp.com/atlas/the-state-of-ai-2025); co-authored by Kent Bennett, Talia Goldberg, Janelle Teng, Sameer Dholakia, Mike Droesch, Lauri Moore, Caty Rea, Lindsey Li, Maha Malik, Bhavik Nagda, Lance Co Ting Keh, Darsh Patel, and Christine Deakers._
+
+[
+
+![Image](https://substackcdn.com/image/fetch/$s_!RbMH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1112159-ba4e-499c-a8bb-fd02e23d02c4_3334x1875.png "Image")
+
+](https://substackcdn.com/image/fetch/$s_!RbMH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1112159-ba4e-499c-a8bb-fd02e23d02c4_3334x1875.png)
+
+If 2023 was the AI Big Bang\*, 2025 feels like First Light. The fog of the early calamity is lifting— revealing clusters of foundational companies, best practices for building, and patterns for startup success. We’re still a ways from declaring any semblance of stability, but these early **AI Galaxies** give us more visibility than ever of the shape of things to come.
+
+**We should first state unequivocally that we are extremely confident that AI is driving the biggest wave of technology change we’ve ever seen.** Founders are right to wonder how to separate hype from reality any time VCs open their mouths—but in the case of AI, simple numbers tell the tale. If the most straightforward measure of startup reality is revenue growth, **we’ve updated our benchmarks** and focused on 20 astonishing AI startups to help define what a great AI startup looks like. While these benchmarks will undoubtedly evolve in the coming years, it’s clear that what constituted a great startup in the SaaS era doesn’t quite cut it anymore.
+
+Of course, the AI era isn’t delivering uniformly good news for startups and investors.
+
+Some growth signals can be misleading. Buyers are hungry, AI demos dazzle, sales can spike, but not all products deliver real value. Retention can be fragile, especially when switching costs are low. Early hypergrowth alone means less now than ever before.
+
+And Big Bangs are hard to ignore, thus competitive intensity is at an all-time high. Promising areas are attracting 2–3x the rivals of years past. On top of this, [SaaS giants are waking up](https://www.bvp.com/atlas/intercoms-playbook-for-becoming-an-ai-native-business) to the AI imperative including many in our portfolio, such as Intercom who have already launched a $100M+ AI product. We suspect these leaders will offer increased competitive pressure (as well as M&A temptation!) in the coming years.
+
+We’re also still in a moment of wild unpredictability. Our heads may be spinning slightly slower this year, but they are still spinning. Implications of developments in MCP, AI browsers, and many other areas we’ll label “dark matter” in this report still have us scratching our heads with only vague guesses on how portions of this AI universe will evolve.
+
+**One thing is for certain, however. There is no cloud without AI anymore.**
+
+**At Bessemer, we’ve already deployed over $1 billion in capital to AI-native startups since our initial commitment in 2023.** In addition, essentially every legacy SaaS company is leveraging AI in their product and operations. Whether or not we feel fully equipped to navigate this new AI universe, we are all in it now.
+
+**In this State of AI report, we aim to:**
+
+*   Share our latest **Benchmarks** for what great AI startups look like
+    
+*   Tour our **Roadmaps** across Infrastructure, Developer Tools, Horizontal AI, Vertical AI, and Consumer while highlighting the **stable galaxies** in each space—where constellations are forming
+    
+*   Surface the **dark matter**—important areas with major questions unanswered
+    
+*   Offer our **five predictions** for what we expect to see in the year or two ahead.
+    
+
+**The fuzzy map of the AI universe that follows is for startup travelers who can tolerate a voyage where rules of the road are being rewritten in real time. The ride ahead may be bumpy, but at least it won’t be boring. And we’re here for it. Let’s dive in.**
+
+###### _\*Debates continue over the true AI Big Bang—some point to 2012’s AlexNet breakthrough in deep learning; others to OpenAI’s 2020 scaling laws. For this report, we consider the mass release of ChatGPT as the moment AI truly exploded into public consciousness._
+
+Benchmarks have always been an imperfect way to judge startups—but in the AI era, they’re even less reliable. In particular, some AI startups have achieved growth rates the world has truly never seen, driving every AI founder to wonder what good even looks like anymore. We’ve thus updated our benchmarks acknowledging that some AI startups are playing a different game.
+
+To formulate our new set of benchmarks we studied 20 high-growth, durable AI startups across our portfolio and beyond, including breakouts [Perplexity](https://www.perplexity.ai/), [Abridge](https://www.abridge.com/), and [Cursor](https://cursor.com/).
+
+While all of these AI stars are exhibiting astonishing growth, close study makes it clear that there are two different types of astonishing in the AI era: Supernovas and Shooting Stars.
+
+[
+
+![AI benchmarks Bessemer's State of AI](https://substackcdn.com/image/fetch/$s_!8hpr!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20669b9b-9f04-4be0-a0fb-09812dfe9aa7_1600x900.png "AI benchmarks Bessemer's State of AI")
+
+](https://substackcdn.com/image/fetch/$s_!8hpr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20669b9b-9f04-4be0-a0fb-09812dfe9aa7_1600x900.png)
+
+Supernovas are the AI startups growing as fast as any in software history. These businesses sprint from seed to $100M of ARR in no time, often in their first year of commercialization. These are at once the most exciting and the most terrifying startups we see. Almost by definition, these numbers arise from circumstances where revenue may appear vulnerable. They involve fast adoption that either belies low switching costs, or signals massive novelty that may not align with long-term value. These applications are often so close to the functionality of core foundation models that “thin wrapper” labels could be thrown. And in red hot competitive spaces, margins are often stretched close to zero or even negative as startups use every tool to fight for winner-take-all prizes.
+
+**On average, ten AI Supernova startups we surveyed reached ~$40M ARR in their first year of commercialization and ~$125M ARR in the second year of revenue generation.** Topline ARR, of course, doesn’t always guarantee a healthy business. Sustainable growth depends on strong retention, engagement, and capital efficiency. On average, these AI Supernovas have only 25% gross margins, often trading distribution for profit in the short term. Despite these low margins, these AI Supernovas seem to demonstrate an incredible $1.13M ARR/FTE, which is 4-5x above a typical SaaS benchmark. This revenue efficiency could indicate longer term potential for very efficient businesses at scale.
+
+Shooting Stars, by contrast, look more like stellar SaaS companies: they find product-market fit quickly, retain and expand customer relationships, and maintain strong gross margins—slightly lower than SaaS peers due to faster growth and modest model-related costs. They grow faster on average than their SaaS predecessors, but at rates that still feel anchored to traditional bottlenecks of scaling an organization. These businesses might not yet dominate headlines, but they’re beloved by their customers and are on the trajectory to making software history.
+
+**On average, these Shooting Stars reach the ~$3M ARR range within their first year of revenue while quadrupling in YoY growth with ~60% gross margins, and ~$164K ARR / FTE in their first years.**
+
+_**If T2D3 (triple, triple, double, double, double) defined the SaaS era, then Q2T3\* (quadruple, quadruple, triple, triple, triple) better reflects the five-year trajectory we’re seeing from today’s AI Shooting Stars. These startups grow meaningfully faster than traditional SaaS, but still operate closer to SaaS benchmarks than the explosive AI Supernovas.**_
+
+_**While we love Supernovas, we believe this era will be defined not by a few outliers—but by hundreds of Shooting Stars. That makes Shooting Stars the most important benchmark for AI founders to aim for.**_
+
+[
+
+![new growth AI benchmarks State of AI ](https://substackcdn.com/image/fetch/$s_!zVlH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F63e17c77-8da5-402f-bb13-f6369b08f408_1600x900.png "new growth AI benchmarks State of AI ")
+
+](https://substackcdn.com/image/fetch/$s_!zVlH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F63e17c77-8da5-402f-bb13-f6369b08f408_1600x900.png)
+
+**Key takeaway for AI founders on these new benchmarks:** We share these admittedly _freakish_ new benchmarks to showcase the reality of standout AI startups of the moment. That said, building an iconic AI company doesn’t require quadrupling overnight. Many of the strongest companies will still take a more deliberate path, shaped by product complexity and competitive dynamics.
+
+However, speed matters more than ever. AI has unlocked faster product development, GTM, and distribution—making “Q2T3” (quadruple, quadruple, triple, triple, triple) an ambitious but increasingly achievable benchmark. Dozens of startups have already proven it’s possible—and we believe you can too!
+
+###### _\*Admittedly we haven’t seen five years of data yet, so perhaps in years to come we’ll learn these companies won’t truly triple but Q2 T1 D2 isn’t nearly as catchy._
+
+In every roadmap that Bessemer tracks, we’ve seen many elements of the AI stack meaningfully crystallize in the past year, resulting in the formation of several early galaxies. We will survey those galaxies in each roadmap while noting the many areas of “dark matter” where we’re still guessing what the future holds.
+
+Let's start with the obvious: a handful of players such as OpenAI, Anthropic, Gemini, Llama and xAI continue to dominate the foundation model landscape, advancing model performance, while simultaneously exploring vertical integration. It’s clear now that big labs are moving beyond offering just foundation models and tooling for model development—these labs are now rolling out agents for coding, computer use, and MCP integrations. Meanwhile, compute costs continue to drop predictably—driven by software innovations, and end-to-end hardware optimization.
+
+State-of-the-art open-source models like Kimi, DeepSeek, Qwen, Mixtral, and Llama also continue to demonstrate that the open ecosystem can still punch above its weight, often matching or exceeding proprietary models in efficiency and specialized tasks.
+
+On the research side, we’re seeing a wave of innovation: Google’s recent [Mixture-of-Recursions paper](https://www.alphaxiv.org/abs/2507.10524v1) pushes scaling assumptions with an adaptive-depth approach that balances inference throughput and few-shot accuracy. Mixture-of-Experts architectures are also being revived with new techniques for combining experts in unique ways. Finally, inference-time techniques like test-time reinforcement learning (RL) and adaptive reasoning are gaining momentum, with vertical domains likely to see some of the most significant breakthroughs.
+
+**These model-level innovations are just one part of a larger replatforming.**
+
+As companies build AI-native and AI-embedded products, a new infrastructure layer has emerged—spanning models, compute, training frameworks, orchestration, and observability. We highlighted this evolution in our [AI Infrastructure roadmap](https://www.bvp.com/atlas/roadmap-ai-infrastructure) from 2024. This specialized stack gives builders the velocity and flexibility they need, but bundling is accelerating as players push into adjacencies to own more of the stack. While there has been remarkable progress so far, we posit that the rapid evolution of AI infrastructure is far from over.
+
+AI’s first era has been defined by major algorithmic breakthroughs—backpropagation, convolutional networks, transformers. The field is primarily advanced by algorithmic improvements and scaling methods. Accordingly, infrastructure has mirrored this mindset, fueling the rise of giants in areas such as foundation models, compute capacity, and data annotation.
+
+But the next chapter could prove even more profound.
+
+As OpenAI’s Shunyu Yao [recently observed](https://ysymyth.github.io/The-Second-Half/), “The second half of AI—starting now—will shift focus from solving problems to defining them.”
+
+In **AI infrastructure’s Second Act**, the industry will move from demonstrating that AI can solve problems to building systems that define, measure, and solve problems with experience, clarity, and purpose.
+
+Big labs are moving beyond chasing benchmark gains to designing AI that can interface effectively with the real world. At the same time, [enterprises](https://www.forbes.com/sites/kirimasters/2025/07/24/walmart-reveals-ai-roadmap-that-points-to-a-world-without-search-bars/) are graduating from proof-of-concepts to production deployments.
+
+All of these shifts are setting the stage for a new wave of infrastructure tools—not just built for scale or efficiency, but for grounding AI in operational context, real-world experience, and continuous learning. **Some examples include:**
+
+*   **Reinforcement learning environments and task curation** through platforms such as [Fleet](https://www.fleetai.com/), [Matrices](https://matrices.ai/), [Mechanize](https://www.mechanize.work/), [Kaizen](https://kaizenlab.co/), [Vmax](https://vmax-ai.com/), and [Veris](https://veris.ai/), as human-generated labelled data is no longer enough to enable production-grade AI
+    
+*   **Novel evaluation and feedback frameworks** such as [Bigspin.ai](http://bigspin.ai/), [Kiln AI](https://getkiln.ai/), and [Judgment Labs](https://judgmentlabs.ai/), enabling continuous and specific feedback loops
+    
+*   **Compound AI systems** that don’t just focus on raw model horsepower but combine components such as knowledge retrieval, memory, planning, and inference optimization
+    
+
+We are at the beginning of this transition—from AI as a proof of concept to AI as a problem-defining and adaptive system embedded in real world experience.
+
+Rich Sutton’s [“Bitter Lesson”](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) reminds us that the most effective advances in AI have historically come from harnessing computation and general-purpose learning, rather than relying on handcrafted features or human-designed heuristics. As AI infrastructure enters its next chapter, it remains an open question which techniques will prove most effective or scalable as practitioners seek to embed context, understanding, and domain expertise to ensure real-world utility.
+
+Beyond the infrastructure stack, AI has clearly transformed software development. Natural language has become the new programming interface with models executing on the instructions. In this paradigm shift, the very principles of software development are changing as prompts are now programs with LLMs as a new type of computer.
+
+**AI doesn’t just mean an incremental evolution of developer tools, it has ushered in a completely new way of software development.** We will cover this landscape in detail in an upcoming roadmap, Developer Tooling for Software 3.0 (subscribe to [Atlas](https://www.bvp.com/subscribe) to get it first.)
+
+**Today, the question isn’t if your team uses AI, but how well you orchestrate it into a compounding, high-velocity system.** This mode of software development feels like the “formed galaxy” of AI-native development. The best engineering teams aren’t just writing code with AI—they’re building systems that learn, adapt, and ship faster with every cycle.
+
+A new layer of infrastructure will have profound implications for AI development—[Model Context Protocol (MCP)](https://en.wikipedia.org/wiki/Model_Context_Protocol#:~:text=The%20Model%20Context%20Protocol%20\(MCP,including%20OpenAI%20and%20Google%20DeepMind.). [Introduced by Anthropic](https://www.anthropic.com/news/model-context-protocol) in late 2024 and quickly adopted by OpenAI, Google DeepMind, and Microsoft, MCP is becoming the universal specification for agents to access external APIs, tools, and real-time data.
+
+As the MCP creators described, it can be thought of as the USB-C of AI. It supports persistent memory, multi-tool workflows, and granular permissioning across sessions. With it, agents can chain tasks, reason over live systems, and interact with structured tools—not just generate outputs.
+
+For developers, MCP radically simplifies integration. For founders, it opens the door to building truly agentic products—where AI doesn’t just assist users, but acts on their behalf across systems. It’s still early, and important to note that MCP is an recipe book, not a chef. In order to really get cooking, we need ecosystems like [FastMCP](https://github.com/jlowin/fastmcp) from [Prefect](https://www.prefect.io/ai-teams) (that make it much easier to build MCP servers) and tools like [Arcade](https://www.arcade.dev/) and [Keycard](https://www.keycard.sh/) (that facilitate agentic authorization and permissioning.) As the constellation continues to form around MCP connectors, governance frameworks, and agent-specific tools, we expect it to become as foundational to an agent-native web as HTTP was to the internet.
+
+As AI-native workflows mature, memory is becoming a core product primitive. The ability to remember, adapt, and personalize across time is what elevates tools from useful to indispensable. Great AI systems are expanding past recall and evolving with the user. In 2025, large context windows and retrieval-augmented generation (RAG) have enabled more coherent single-session interactions, but truly persistent, cross-session memory remains an open challenge. While the foundational model companies are working on memory, so too are startups like [mem0](https://mem0.ai/), [Zep](https://www.getzep.com/), [SuperMemory](https://supermemory.ai/), and LangMem by [Langchain](https://www.langchain.com/).
+
+Context is the data a model sees during inference. Memory refers to information retained across interactions—supporting multi-step reasoning, personalization, and agent continuity. Together, they power the next generation of AI applications.
+
+**We think the leading stacks will eventually combine the following:**
+
+*   Short-term memory via expanded context windows (128k to 1M+ tokens, depending on model and architecture)
+    
+*   Long-term memory via vector DBs, memory OSes (e.g., MemOS), and MCP-style orchestration
+    
+*   Semantic memory via hybrid RAG and emerging episodic modules, designed for context-rich recall
+    
+
+Still, trade-offs remain: Long contexts raise latency and cost. Persistent memory is brittle without smart context engineering—dynamic selection, compression, and task isolation are key.
+
+Agentic apps—dev agents, customer copilots, creative tools—are leading adoption of multi-modal memory layers and stateful workflows. Meanwhile, research into neural memory, continual learning, and local context buffers suggests scalable recall is within reach.
+
+**For AI application founders, context and memory may be the new moats.** Switching costs in AI may become almost emotional for builders who solve these problems. When your product understands a user’s world better than anything else, replacing it feels like starting over. Whether it's a coding assistant fluent in your team’s codebase or a sales agent embedded in your CRM and communication stack, accumulated intelligence on the user and their specific environment become the stickiest assets.
+
+Many unknowns remain, but winning startups will likely need to master both the infrastructure and the interface going forward:
+
+*   Building flexible, memory-aware systems with low-latency recall
+    
+*   Designing for implicit learning and deep integration with core workflows
+    
+*   Turning context into a compounding advantage—across data, distribution, and delight
+    
+
+Founders should treat memory not as backend plumbing but as a product. Startups that build with memory-awareness today will shape the most intelligent, personalized, and sticky AI systems of tomorrow.
+
+In enterprise software, AI is beginning to expose opportunities for startups to disrupt some of the largest horizontal systems of record (SoR). For decades, SoRs like Salesforce, SAP, Oracle and ServiceNow held firm thanks to their deep product surfaces, implementation complexity, and centrality to business-critical data. The businesses enjoyed some of the strongest moats in software. The switching costs were just too high and very few startups even dared to try and unseat them. Now, those moats are degrading.
+
+With AI’s ability to structure unstructured data and generate code on demand, migrating to a new system is faster, cheaper, and more feasible than ever. Agentic workflows are replacing rote data entry, and the typical implementation projects that required armies of systems integrators and years of work are being accelerated by orders of magnitude.
+
+These new platforms don’t just store information—they act on it. CRM tools like [Day.ai](http://day.ai/) and [Attio](https://attio.com/) auto-log customer interactions from email, calls, and Slack. AI-native ERPs like [Everest](https://www.everest-systems.com/), [Doss](https://www.doss.com/) and [Rillet](https://www.rillet.com/), automate financial forecasting and procurement flows. The productivity delta is becoming impossible to ignore. Founders are no longer just building better records—they’re building systems of action.
+
+**What are the key unlocks for founders building systems of action?**
+
+*   AI Trojan horse features: Enable startups to tap into the flow of data with a valuable wedge tool that allows them to start capturing all of the data flowing into a system of record without ripping it out on day one
+    
+*   Implementation: 90% faster with codegen tools and AI’s ability to translate business logic described in natural language into code
+    
+*   Data: Auto-ingested, leveraging AI’s ability to translate between different schemas, enabling 1-day data migrations, making historical vendor lock-in nearly obsolete
+    
+*   ROI: 10x vs. legacy, not just incremental; agentic workflows reduce professional services spend and accelerate time-to-value
+    
+
+**We feel we’re at the start of a once-in-a-generation shift—from systems of record to systems of action.**
+
+The big question: Are AI-native challengers creating net-new categories—or are they finally threatening incumbents? In CRM, early signs of disruption are promising. These AI-native tools aren’t just replacing existing CRMs—they’re offering a new kind of experience altogether. They simultaneously offload a tremendous amount of manual work from sales teams which also provides sales managers with intelligent recommendations for where to spend their time based on auto-synthesized deal signals across all their channels. This is a 10x leap, not a 10% improvement.
+
+**We’re seeing similar wedges in:**
+
+*   **HR and recruiting:** AI copilots for candidate screening, onboarding, and performance tracking
+    
+*   **Enterprise search:** Horizontal copilots trained on internal knowledge are stepping into roles formerly occupied by SharePoint or Notion search
+    
+*   **FP&A:** AI native FP&A tools are allowing financial analysts to centralize data from many different silos and run complex analysis on it without requiring the support of data engineering teams
+    
+
+**The real power move?** Starting with an AI wedge—an adjacent, high-value capability—and gradually expanding into a full system of record. This allows challengers to collect proprietary data over time while still playing nicely with legacy workflows. Companies like [Tradespace](https://tradespace.io/) in IP management or [Serval](https://www.serval.com/) in ITSM are great examples of this approach.
+
+It’s still early days, but clear battle lines are beginning to form between net-new categories and true SoR replacement. It will be a fun space to watch.
+
+Despite all this momentum, some of the biggest enterprise surfaces remain surprisingly under-disrupted:
+
+*   **Enterprise scale ERP:** While we are seeing a tremendous amount of exciting activity with AI-native accounting and ERP platforms, most of them are focused on SMB and mid-market customers today, largely in segments like software and services that are simpler than in industries that have highly complex manufacturing, supply chain and inventory requirements. That said, we think AI can offer tremendous value in these more complex settings, but it will take time for the new entrants to build up the breadth of product required to serve more complex customers like this, and we think the true enterprise ERP replacement cycle is still many years out.
+    
+*   **The long tail of SoR:** While CRMs and ERPs get a lot of the attention when it comes to systems of record, there is a much longer tail of systems of record that also represent massive opportunities for disruption over time. These range from Identity Platforms in enterprise security to Computer Aided Dispatch systems in public safety to Content Management Systems in web design. We think all of these categories are ripe for disruption, but this is a decade-long journey and entrepreneurs are just starting to turn their attention to these categories.
+    
+
+The promise is enormous—but execution remains elusive. As we look toward 2026, we believe the next wave of stars may be born in these spaces, but it still remains too early to predict.
+
+Last year, we proposed a bold thesis: [Vertical AI](https://www.bvp.com/atlas/part-i-the-future-of-ai-is-vertical) has the potential to eclipse even the most successful legacy vertical SaaS markets. Our conviction in that thesis is stronger than ever. Adoption continues to accelerate, particularly for vertical workflows that have long been manual, service-heavy, or seen as resistant to technology. This has reshaped our view of so-called “technophobic” verticals. In reality, the issue was never a lack of willingness to adopt new tools, it was that traditional SaaS failed to solve high-value vertical-specific tasks that were multi-modal or language heavy. Vertical AI is finally meeting these users where they are, with products that feel less like software and more like real leverage.
+
+Multiple industries, and surprisingly many of those considered technophobic in past eras, are showing clear signs of meaningful Vertical AI adoption. For example:
+
+*   **Healthcare:** [Abridge](https://www.abridge.com/) automates clinical note-taking with generative AI, easing provider burnout while improving documentation quality. [SmarterDx](https://www.smarterdx.com/) helps hospitals recover missed revenue by automating complex coding workflows. [OpenEvidence](https://www.openevidence.com/) automates medical literature review and delivers instant answers at point of care.
+    
+*   **Legal:** [EvenUp](https://www.evenuplaw.com/) turns days of manual work into minutes by generating legal demand packages, allowing trial attorneys and personal injury firms to scale caseloads. [Ivo](https://www.ivo.ai/?utm_term=184213151688&utm_campaign=22477553727&utm_source=google&utm_medium=cpc&utm_content=kwd-305507568&hsa_acc=9517540215&hsa_cam=22477553727&hsa_grp=184213151688&hsa_ad=748747216719&hsa_src=g&hsa_tgt=kwd-305507568&hsa_kw=ivo&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=22477553727&gbraid=0AAAAA_XeXLKbR2sSC0eBjLV0UoaCHYjcS&gclid=Cj0KCQjwtMHEBhC-ARIsABua5iSEd8iio-6NDK_nstn8lfPeaWC07wkG_iNo23oDxja_IrJ2Czktps8aAoqOEALw_wcB) helps legal teams automate contract review and perform natural language search across contracts in the business. [Legora](https://legora.com/) accelerates legal research, review, and drafting, while enabling collaboration throughout the workflow.
+    
+*   **Education:** Companies such as [Brisk Teaching](https://www.briskteaching.com/) and [MagicSchool](https://www.magicschool.ai/) offer AI-powered tools for teachers to streamline tasks like grading, tutoring, and content creation.
+    
+*   **Real Estate:** [EliseAI](https://www.eliseai.com/) automates previously labor-intensive, manual property management workflows, from prospect and resident communications to lease audits.
+    
+*   **Home Services:** [Hatch](https://www.usehatchapp.com/) acts as AI-powered customer service representative (CSR) teams. [Rilla](https://www.rilla.com/) analyzes in-person sales conversations using real-world audio, coaching reps at scale.
+    
+
+**We’re seeing clear patterns on how breakout companies approach these verticals:**
+
+1.  **Compelling wedge:** Early winners start by solving a core pain point which is often language-heavy or multi-modal, and as a result, underserved by previous software waves. The best wedge-in products are intuitive and often embedded in existing workflows to make adoption seamless. Voice/audio appears over and over again as a common aspect of a miraculous wedge.
+    
+2.  **Context is key:** Defensibility stems from domain expertise: integrations, data moats, and multimodal interfaces built for vertical-specific needs. The strongest teams quickly move beyond fine-tuning and into deep, verticalized utility.
+    
+3.  **Built for value:** ROI is clear from day one and there’s no Excel spreadsheet needed to explain it to the user. These tools unlock 10x productivity, reallocate labor to higher-value work, reduce costs, or drive topline growth. The value is immediate, not a “nice to have.”
+    
+
+For all the momentum, there are still real unknowns in Vertical AI in three key areas:
+
+*   **Interaction with legacy systems of record:** Will the next generation of Vertical AI companies continue to integrate with and extend the utility of existing systems of record (the status quo today) or begin to compete with them directly? Could we see a future where these legacy systems of record are no longer central at all, and are instead replaced by AI-native, vertical-specific systems of action?
+    
+*   **Competition from incumbents:** In verticals where entrenched incumbents are not sleeping at the wheel, will scale and distribution win out over upstart innovation, or will a new generation of companies break through despite the odds?
+    
+*   **Sustainable data moats:** As Vertical AI companies expand their scope, can they maintain meaningful data advantages in industries where data is fragmented, privacy-sensitive, and often difficult to access or standardize at scale?
+    
+
+As the underlying technology evolves, so do opportunities to tap into new consumer needs. Last year, most consumer usage leaned toward productivity-driven tasks, such as writing, editing and searching, as consumers explored the novelty and utility of AI. But we’re starting to see a shift toward deeper use cases, including therapy, companionship, and self-growth. AI is no longer just a tool for task assistance, it’s poking into more meaningful areas of consumers' lives.
+
+Consumers across age groups are increasingly turning to general-purpose LLMs, particularly ChatGPT and Gemini, for daily or weekly assistance (with an [estimated](https://techcrunch.com/2025/05/20/googles-gemini-ai-app-has-400m-monthly-active-users/) 600M and 400M weekly active users as of March 2025, respectively.) What began as a novelty has become a habit, with these tools now serving hundreds of millions of users each week. Even as a long tail of specialized apps emerges, most consumers continue to rely on these general assistants for a wide range of needs, including research, planning, advice, and conversation.
+
+Over the last year, **[voice](https://www.bvp.com/atlas/roadmap-voice-ai)** [emerged as a powerful modality](https://www.bvp.com/atlas/roadmap-voice-ai) for how consumers interact with these applications. Unlike legacy assistants like Alexa or Siri, LLM-powered voice AI can handle open-ended questions, facilitate reflection, and support more fluid, conversational exchanges, providing an intuitive, hands-free way to interact with technology. Platforms like [Vapi](https://vapi.ai/) in the Voice AI space are helping power consumers’ abilities to interact with machines in a way that spans language, context, and emotion.
+
+**Perhaps one of the most meaningful shifts is in how consumers search for information and interact with the web altogether.** In this evolving landscape, **Perplexity** has emerged as a breakout darling. Its model-agnostic orchestration and blazing-fast UX have made it a go-to for AI-native search. With the launch of Comet, Perplexity’s agentic browser, the company is pushing the frontier further, and it may well become the defining form factor for the next generation of agents that are ambient and proactive.
+
+Beyond its emerging role as a superior assistant, AI is also lowering the barrier to creation turning every consumer into a potential creator. Consumers are building apps with tools like **Create.xyz, Bolt, and Lovable**, generating music with **Suno** and **Udio**, producing multimedia with platforms such as **[Moonvalley](https://www.moonvalley.com/)**, **Runway**, and **Black Forest Labs,** and accelerating ideation and iteration with tools like **FLORA, Visual Electric, ComfyUI** and **Krea.** AI is transforming everyday consumers into creators, pushing the boundaries of what we once thought possible.
+
+As consumers look to integrate AI more deeply into their daily lives, a wave of consumer applications has emerged to address specific needs. One of the fastest-growing areas is **mental health and emotional wellness**. While “ChatGPT therapy” continues to gain traction, we’re also seeing the rise of purpose-built tools centered on self-reflection and personal growth. This includes AI journals and mentors like **[Rosebud](https://my.rosebud.app/)** and gamified self-care companions like Finch, which help users set personal goals, build healthy habits, and track emotional well-being. Character.AI was an early signal of consumer appetite for emotionally expressive AI, but over the past year, that demand has gone mainstream, with LLM-powered tools increasingly designed to support long-term memory, emotional resilience, and self-development.
+
+Another emerging category is **email and calendar workflows.** A growing number of startups are trying to simplify scheduling, inbox management, and to-do list automation using AI. But because these are trust-sensitive use cases and competitive spaces with strong incumbents (e.g. Gmail), customer acquisition and retention has been a challenge.
+
+While there is a raft of offerings across more niche consumer use cases like meal planning, fitness, and parenting, we’re less certain that clear winners will emerge in these niche spaces. Despite these options, most consumers still default to general-purpose LLMs, finding them “good enough” for many of these tasks. For specialized apps to break through, they’ll need to offer clear differentiated value with tailored experiences addressing sticky recurring use cases to justify a permanent place on a home screen.
+
+Some of the most obvious consumer use cases remain underserved not due to lack of demand, but because they still require too much manual action on the user’s part. While early agentic products are emerging, the underlying technology is still maturing.
+
+Questions around security, autonomy, and reliability remain unsolved, and so it’s still early days for agents that can take action on behalf of users.
+
+**Use cases hiding in plain sight begging for agent infrastructure to catch up include:**
+
+*   **Travel:** Travel booking remains fragmented and time-consuming. The opportunity for a personalized, end-to-end travel concierge is enormous, but still unclaimed.
+    
+*   **Shopping:** There is an opportunity for e-commerce to be fundamentally reshaped when the starting point is no longer Google but agents that handle browsing, price comparison, and even checkout on the consumer’s behalf.
+    
+
+**Who will own these use cases?** Will it be the player that controls the AI-native browser, the general-purpose LLM assistant, or a new wave of consumer, end-to-end agentic apps? The answer may determine the next generation of consumer platform winners.
+
+As with every year we surveyed our partners to determine our five most important predictions for AI in the years ahead. We whittled several dozen predictions down to these five that achieved at least some level of consensus. So without further ado:
+
+[
+
+![Prediction 1 State of AI](https://substackcdn.com/image/fetch/$s_!R-C-!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42d1799c-6087-4d16-a5d9-d639cb03cea3_1600x900.png "Prediction 1 State of AI")
+
+](https://substackcdn.com/image/fetch/$s_!R-C-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42d1799c-6087-4d16-a5d9-d639cb03cea3_1600x900.png)
+
+As agentic AI evolves, the browser is emerging as a potential environment for autonomous execution—not just a tool for navigation, but a programmable interface to the entire digital world.
+
+While voice will remain a natural modality for certain contexts, browsers offer something more powerful: an ambient, contextual surface embedded directly in daily workflows. Browsers integrate seamlessly into both consumer and enterprise systems, allowing agents to observe, reason, and act natively across the applications users already rely on.
+
+The next generation of agentic browsers—like recently introduced Comet and Dia—will be much more than plug-ins. They will embed AI at the operating layer, enabling multi-step automation, intelligent interaction across tabs and sessions, and real-time decision-making. Unlike traditional extensions, these browsers can interpret user intent and execute workflows end-to-end.
+
+We expect to see new AI-native browsers from OpenAI, Google, and others in short order, each pushing the boundaries of what agents can do in-session. The browser’s ubiquity, flexibility, and integration depth make it the most capable—and inevitable—interface layer for agentic AI across both B2B and B2C use cases. Let the new browser wars begin!
+
+[
+
+![Prediction 2 State of AI](https://substackcdn.com/image/fetch/$s_!Tm-e!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa93ea905-2e2a-4759-8ff0-e2b7a3cc9619_1600x900.png "Prediction 2 State of AI")
+
+](https://substackcdn.com/image/fetch/$s_!Tm-e!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa93ea905-2e2a-4759-8ff0-e2b7a3cc9619_1600x900.png)
+
+2024 marked the mainstream inflection point for generative image models. 2025 saw a similar breakout in voice, driven by improvements in latency, awareness, human-likeness, and customization, coupled with massive cost reductions. 2026 is shaping up to be the year video crosses the chasm. Model quality—across Google’s Veo 3, Kling, OpenAI’s Sora, Moonvalley’s Marey, and emerging open-source stacks—is accelerating. We're nearing a tipping point in controllability, accessibility, and realism, that will make generative video commercially viable at scale.
+
+Video has historically been the most expensive and complex medium. Generative video and multi modal models are collapsing these barriers, making video viable and accessible. We’re already seeing generative video models garner mainstream adoption across entertainment, marketing, education, social media, and retail. We expect a proliferation of startups and tools addressing specific use cases—from cinematic storytelling and avatar animation to real-time customer engagement and product videos.
+
+**We also expect the next 12 months to clarify the market structure for generative video:**
+
+*   **Do large labs win it all?** Models like Google’s Veo 3 are setting the benchmark for video realism and control. [Higgsfield](https://higgsfield.ai/) is making waves by building differentiated applications using in-context learning on top of existing frontier models—showing that you don’t necessarily need to train your own model to build a powerful product.
+    
+*   **Will open-source catch up?** Unlike image generation, where open models have outperformed, video has had fewer open source leaders. Video models are compute and data intensive, costly to train and complex to evaluate. That said, we predict strong open video models will emerge in 2026—Qwen’s open video model is an early winner, and momentum is building.
+    
+*   **Are there advantages for real-time or low-latency use cases?** We’re watching early teams like Lemonslice experiment with streaming video and real-time inference, where speed and responsiveness can become product moats in themselves.
+    
+
+**There are a few top uses case we’re watching out for:**
+
+*   Cinematic video: tools for creators, studios, and marketing teams, as with Moonvalley
+    
+*   Real-time, low-latency generation: livestreaming, virtual influencers, gaming
+    
+*   Extreme realism: photorealistic storytelling, virtual production
+    
+*   Personalized content and social identity
+    
+*   Developer workflows that make it easier to create video applications and outputs
+    
+
+However, alongside technical progress comes growing complexity around IP. The copyright and regulatory landscape for generative video is still catching up as [major studios are starting to take action against misuse of copyrighted assets.](https://time.com/7293362/disney-universal-midjourney-lawsuit-ai/) Startups operating in this space should be thoughtful and proactive about licensing data, sourcing training sets responsibly, and developing royalty structures that respect creators. This is not just about legal risk—it’s about long-term trust, differentiation, and defensibility.
+
+Whether generative video becomes a few-player market dominated by the labs, or an ecosystem rich with apps, infrastructure, and open innovation, one thing is clear: a new era of video creation is here—and it's going to reshape the internet.
+
+[
+
+![Prediction 3 State of AI](https://substackcdn.com/image/fetch/$s_!BOJ7!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F54eef46c-cacb-4ba2-908c-415e7bce8817_1600x900.png "Prediction 3 State of AI")
+
+](https://substackcdn.com/image/fetch/$s_!BOJ7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F54eef46c-cacb-4ba2-908c-415e7bce8817_1600x900.png)
+
+One of the biggest unsolved bottlenecks in enterprise AI deployment is evaluation. How is the product, feature, algorithm change “doing”? Do people like it? Is it increasing revenue / conversion / retention? Most every company still struggles to assess whether a model performs reliably in their specific, real-world use cases. Public benchmarks like MMLU, GSM8K, or HumanEval offer coarse-grained signals at best—and often fail to reflect the nuance of real-world workflows, compliance constraints, or decision-critical contexts.
+
+That’s why 2025–2026 will mark a turning point: **AI evals will go private, grounded, and trusted—and enterprise deployment will 10x because of it.**
+
+Today’s enterprises aren’t just seeking performance; they’re seeking **confidence**. And confidence requires trusted, reproducible evaluation frameworks tailored to their own data, users, and risk environments. The shift is already underway: instead of chasing leaderboard scores, companies are building **internal eval suites** to measure how AI performs across privacy-sensitive workflows, customer support, document parsing, and agent decision-making.
+
+**This next era of AI measurement will be defined by:**
+
+*   **Private, use-case-specific evals** built on proprietary data
+    
+*   **Business-grounded metrics** like accuracy, latency, hallucination rates, customer satisfaction
+    
+*   **Continuous eval pipelines** tightly integrated into production systems and feedback loops
+    
+*   **Lineage and interpretability,** especially in regulated verticals like healthcare, finance, and insurance
+    
+
+**Startups such as [Braintrust](https://www.braintrust.dev/), [LangChain](https://www.langchain.com/), [Bigspin.ai](http://bigspin.ai/) and [Judgment Labs](https://judgmentlabs.ai/) are pioneering the infrastructure stack for this new era—offering eval harnesses, agentic benchmarking environments, real-time feedback loops, and more.**
+
+As enterprise buyers grow more sophisticated, they'll demand not just performance—but provable, explainable, and trustworthy performance. [DataHub](https://datahub.com/) gives enterprises confidence that their AI models are only using the data from whom, for what and where it is supposed to, and provides lineage for additional verification and compliance. AI vendors will need to surface evidence of effectiveness before purchase, not just after deployment. In this context, evaluations and data lineage aren’t just development features—they become part of **a strategic layer of the AI stack,** and a core requirement for procurement and governance.
+
+Product development as we know it has always aspired to be data-driven and user-informed, with platforms like [LaunchDarkly](https://launchdarkly.com/) enabling experimentation and measurement. In the world of AI—-where predictive versus deterministic user experience reign supreme, the very foundation of these product development principles has been rocked. Companies like [Arklex](https://www.arklex.ai/), [Kiln AI](https://getkiln.ai/) and [Pi Labs](https://withpi.ai/) propose a radically new way of thinking about measurement and feedback loops in the AI-native era.
+
+**Founders building in this space should prioritize:**
+
+*   **Tooling for multi-metric evals** (e.g., accuracy and hallucination risk and compliance)
+    
+*   **Synthetic eval environments** for stress testing agents
+    
+*   **Interoperability with logging, retrieval, and feedback systems**
+    
+*   **Support for model drift and continuous updates over time**
+    
+
+As foundational model performance converges, **the real differentiator won't be raw accuracy—it’ll be knowing exactly how, when, and why your model works in your environment.** The startups that can make evaluation **scalable, explainable, and enterprise-ready** will unlock the next wave of AI deployment—and define the next great infrastructure frontier.
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!LLmq!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb5911cb-b2ef-44d4-b9a8-6af3148e12ab_1600x900.png)
+
+](https://substackcdn.com/image/fetch/$s_!LLmq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb5911cb-b2ef-44d4-b9a8-6af3148e12ab_1600x900.png)
+
+Major shifts in consumer technology have historically paved the way for new social giants. PHP enabled Facebook. Mobile cameras made Instagram possible. Advances in mobile video propelled TikTok. It’s hard to imagine that the new capabilities enabled by generative AI won’t lead to a similar breakout.
+
+We don’t yet know what form the next social media giant will take. It could be a network where AI agents quietly ensure we never miss a birthday, a friend’s update or an important event in our local area, helping us be our best selves online and IRL. Or it might be a world populated by emotionally intelligent AI influencers and AI clones. Platforms like Character.AI and Replika hint at social spaces where AI, not humans, could be the main characters.
+
+Whatever shape it takes, breakthroughs in voice interaction, long-term memory, and image and video generation are clear fuel for the next social media breakout. The winning platform might launch with a mainstream splash or emerge from a niche community before rapidly expanding into a full-fledged ecosystem.
+
+[
+
+![prediction 5 state of AI](https://substackcdn.com/image/fetch/$s_!zTq3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd33840fd-03a1-43ad-a766-32443433258c_1600x900.png "prediction 5 state of AI")
+
+](https://substackcdn.com/image/fetch/$s_!zTq3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd33840fd-03a1-43ad-a766-32443433258c_1600x900.png)
+
+After two years of rapid disruption by AI-native startups, the enterprise giants are striking back—not by rebuilding from scratch, but by acquiring the capabilities they need to catch up. In 2025 and 2026, we expect to see a surge in M&A activity as incumbents move aggressively to buy their way into the AI era.
+
+The battle lines are clearest in vertical software. As AI-native startups push deeper into industry-specific workflows—automating insurance claims, legal briefings, or revenue cycle management—traditional SaaS players face a stark choice: evolve or become obsolete. For many, the fastest path to innovation is acquisition. We anticipate a wave of consolidation in high-service, regulated industries like healthcare, logistics, financial services, and legal tech.
+
+But this isn’t just about bolting on AI features. The rise of Vertical AI is forcing a structural shift—where the line between software and service blurs. AI tools are becoming so deeply embedded in domain workflows that they resemble intelligent service providers. For incumbents, acquiring these companies isn’t just an AI upgrade—it’s a reinvention of their value proposition.
+
+At the same time, demand for AI infrastructure and tooling will drive strategic acquisitions in model orchestration, evaluation, observability, and memory systems. **Enterprises aren't just buying applications—they’re buying the building blocks of an AI-native stack.**
+
+**Takeaways for founders:**
+
+*   Be ready for strategic interest: If you're building a domain-specific or infrastructure-layer AI product, expect inbound from legacy players looking to fill gaps.
+    
+*   Play for leverage: The best-positioned startups will have strong technical moats, customer traction, and embedded workflows that make them hard to replicate.
+    
+*   Know your acquirer’s roadmap: Understand where incumbents are falling behind in your space. If you can deliver what they can’t build fast enough, you’re valuable.
+    
+
+For investors, this wave of consolidation represents both liquidity opportunity and thesis validation: the incumbents are confirming—through their wallets—that AI-native companies are setting the new standard. The age of AI-native disruption may have started with startups, but the second act is underway—and the giants are suiting up.
+
+We’re no longer at the dawn of AI—we’re deep in its unfolding galaxies. Today’s top startups aren’t just building faster software. They’re designing systems that see, listen, reason, and act—embedding intelligence into the fabric of work and life.
+
+But here’s the truth: success in AI isn’t just about velocity. It’s about vector, as in speed in the right direction. The most iconic companies won’t be those who simply ride the wave, but those who shape it—aligning exponential capability with real-world clarity.
+
+AI is no longer theoretical. It’s operational. It’s generating revenue, building relationships, and rewriting industry rules. And yet, much remains unresolved: memory, context, governance, agency. That’s the power of this moment—the map is still fuzzy, but the frontier is real.
+
+1.  **Two AI startup archetypes are winning:** On average, Supernovas hit ~$100M ARR in 1.5 years—but often with fragile retention and thin margins; Shooting Stars grow like stellar SaaS: $3M to $100M over 4 years, with strong PMF and healthy margins.
+    
+2.  **Memory and context are the new moats:** The most defensible products will remember, adapt, and personalize. Persistent memory and semantic understanding create emotional and functional lock-in.
+    
+3.  **Systems of action are replacing systems of record:** AI-native apps don’t just store data—they act on it. Don’t bolt AI onto legacy software—reimagine the entire workflow.
+    
+4.  **Start with an AI wedge:** Solve a narrow, high-friction problem (e.g., legal research, sales notes). Deliver 10x value fast—then expand.
+    
+5.  **The browser is your canvas:** Agentic AI is shifting to the browser layer—now a programmable environment where agents observe and execute. Build for this surface; it’s the new operating layer.
+    
+6.  **Private, continuous evaluation is mission-critical:** Public benchmarks aren’t enough. Enterprises demand trusted, explainable performance. Build in eval infrastructure from day one.
+    
+7.  **Speed of implementation is a strategic advantage:** Onboarding that once took months now takes hours. Codegen, auto-mapping, and natural language interfaces collapse vendor lock-in.
+    
+8.  **Vertical AI is the new SaaS:** "Technophobic" industries are adopting AI fast. Win by embedding deeply, proving ROI from day one, and scaling quickly.
+    
+9.  **Incumbents are awake—and acquisitive:** SaaS giants are buying their way into AI. Build technical and data moats. Be M&A-ready, but operate like you’ll own the category.
+    
+10.  **Taste and judgment are your differentiators:** In a world of agents and automation, human insight is the edge. Founders who intuit what should exist—not just what can—will define the next era.
+    
+
+The founder’s edge is shifting. Speed alone isn’t enough. You need product intuition, empathy, and clarity of purpose. You don’t just need a better model—you need a better model of the world. The companies that win next won’t do more AI. They’ll do the right AI—at the right altitude, with the right outcome.
+
+The AI universe is expanding fast. Now is the time to build the gravity that holds your galaxy together. _Let’s go._
+
+##### **This post and the information presented are intended for informational purposes only. The views expressed herein are the author’s alone and do not constitute an offer to sell, or a recommendation to purchase, or a solicitation of an offer to buy, any security, nor a recommendation for any investment product or service. While certain information contained herein has been obtained from sources believed to be reliable, neither the author nor any of her employers or their affiliates have independently verified this information, and its accuracy and completeness cannot be guaranteed. Accordingly, no representation or warranty, express or implied, is made as to, and no reliance should be placed on the fairness, accuracy, timeliness or completeness of this information. The author and all employers and their affiliated persons assume no liability for this information and no obligation to update the information or analysis contained herein in the future.**
+
+#### Discussion about this post
+
+### Ready for more?

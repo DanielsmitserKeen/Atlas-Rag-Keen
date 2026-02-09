@@ -1,0 +1,86 @@
+# The 20 best essays at andrewchen
+
+![](http://andrewchen.co/wp-content/uploads/2018/07/marketplace_reading.jpg)
+
+The current generation of marketplace startups has been incredibly successful. Airbnb, Lime, Uber, Lyft, Instacart, etc. I’ve been doing a broad survey of the best writing on this topic and wanted to share my list of 20 best links I’ve seen.
+
+**Marketplaces at Andreessen Horowitz**  
+We look at a lot of marketplace startups at Andreessen Horowitz @a16z – and we fund a lot of them! – so it’s great to compile all the best thinking.
+
+To lead off this list, my colleague @jeff\_jordan has an awesome preso that covers everything from the marketplace “wheel” – network effects, and how they’re different than ecommerce products. Amazing, thoughtful preso. Must watch.[https://www.youtube.com/watch?v=n57UaE08h7A](https://www.youtube.com/watch?v=n57UaE08h7A)
+
+**Solving the Chicken and Egg problem of marketplaces**  
+Now let’s get to the links. First, here’s a series of links on the “Chicken and Egg” problem of marketplaces. How to do you get the initial liquidity to get the flywheel turning? Here’s a few links on the topic.
+
+1\. Josh Breinlinger (early oDesk) on “Liquidity Hacking.” Couple ways to do it: Provide value to one side: offer portfolios, community, tools. Find aggregators: Physical aggregators (like campuses), enterprise clients, supply aggregators, or scrape listings. Narrow the problem: geo, niche, vertical. Curate one side. Read the whole thing here: [https://pando.com/2012/11/20/liquidity-hacking-how-to-build-a-two-sided-marketplace/](https://pando.com/2012/11/20/liquidity-hacking-how-to-build-a-two-sided-marketplace/)
+
+2\. Here’s a nice podcast from Casey Winters (ex-Pinterest/Grubhub/etc) and Brian Rothenberg @bmrothenberg (VP Growth at Eventbrite) who talk about: The “chicken and egg” problem for marketplaces. Horizontal vs vertical. Online to Offline. [https://news.greylock.com/paving-the-way-to-marketplace-liquidity-76c8e7854cad](https://news.greylock.com/paving-the-way-to-marketplace-liquidity-76c8e7854cad)
+
+3\. Eli Chait (ex-OpenTable) on all the ways to boostrap a chicken and egg problem. Single player, Fill seats for suppliers, Create a marketplace where the buyers are sellers. Read the whole thing here: [https://blog.elichait.com/2018/04/09/how-the-100-largest-marketplaces-solve-the-chicken-and-egg-problem/](https://blog.elichait.com/2018/04/09/how-the-100-largest-marketplaces-solve-the-chicken-and-egg-problem/)
+
+4\. Anand Iyer (ex-Threadflip) writes about using trust throughout the product: Ratings, Curation, Customer service, Mobile first, Good onboarding, Frictionless Payment, Social proof. [http://firstround.com/review/How-Modern-Marketplaces-Like-Uber-Airbnb-Build-Trust-to-Hit-Liquidity/](http://firstround.com/review/How-Modern-Marketplaces-Like-Uber-Airbnb-Build-Trust-to-Hit-Liquidity/)
+
+5\. Jonathan Golden (ex-Airbnb) on bootstrapping liquidity, adding host guarantees, reacting to competition, user experience. [https://medium.com/@jgolden/lessons-learned-scaling-airbnb-100x-b862364fb3a7](https://medium.com/@jgolden/lessons-learned-scaling-airbnb-100x-b862364fb3a7)
+
+**Current trends in marketplaces**  
+Next topic, the current crop of marketplaces has gotten huge for a reason. They’re doing a lot different, but going more “full-stack,” building deeper tools, etc. One important label is the new “market network” concept
+
+6) Another by Casey Winters (ex-Grubhub) on how new marketplace companies are evolving: 1) connect buyers and sellers, 2) own the delivery network, 3) own the supply (managed/verticalized). [http://caseyaccidental.com/three-stages-online-marketplaces/](http://caseyaccidental.com/three-stages-online-marketplaces/)
+
+7\. Anand Iyer (Trusted) again, talks about the evolution from leadgen/search-based marketplaces to full-stack where the platform helps manage: 1) customer UX, 2) supply software tools, 3) retention/frequency, 4) transactional model, 5) trust/safety/risk, 6) pricing mgmt + guidance. Read the whole thing here: [https://medium.com/@ai/the-evolution-of-managed-marketplaces-3382290963b2](https://medium.com/@ai/the-evolution-of-managed-marketplaces-3382290963b2)
+
+8\. James Currier (of NFX) pens one of the classics of the last few years, defining the term “Market Network” – multiple participants, SaaS tools, with transactions at the center.
+
+Key differences: 1) Market networks target more complex services. 2) People matter – complex services mean each client is unique and not interchangeable. 3) Collaboration happens around a project. 4) There’s unique profiles of people involved. 5) Long term relationships between participants. 6) Referrals flow freely. 7) Increases transaction velocity and satisfaction. Re-read the whole thing here: [https://www.nfx.com/post/10-years-about-market-networks](https://www.nfx.com/post/10-years-about-market-networks)
+
+9\. Andrei Brasovean (Accel) gives a comprehensive list of Marketplace metrics. [https://medium.com/@algovc/10-marketplace-kpis-that-matter-22e0fd2d2779](https://medium.com/@algovc/10-marketplace-kpis-that-matter-22e0fd2d2779)
+
+Here’s the list: GMV, net revenue, gross margin / contribution margin, MoM growth rate, Market share, Liquidity, AOV, Items per basket, Messages, NPS, User reviews, Cohort retention, Repeat orders, Whale curves, Sector/Geo/Product concentration, Fragmentation, CAC, Channel scalability, Channel mix, LTV, LTV/CAC, Unit economics, Burn rate. A lot more detail in the essay.
+
+10\. Borja Moreno de los Rios, ceo of Merlin, writes one of my favorite articles where he has a bunch of graphs/concepts on measuring liquidity: [https://techcrunch.com/2017/07/11/marketplace-liquidity/](https://techcrunch.com/2017/07/11/marketplace-liquidity/)
+
+**💌 Are you up to date?**  
+Get new updates, usually once a week – featuring long-form essays with what’s going on in tech.
+
+11\. Angela Tran Kingyens (VersionOne) on a Marketplace metrics dashboard. GMV, revenue, Seller/supply metrics (engagement/overall), Buyer metrics (engagement/overall). [https://versionone.vc/marketplace-kpi/](https://versionone.vc/marketplace-kpi/)
+
+**Product strategy for marketplaces**  
+Finally, I wanted to add a section for overall marketplace strategy – how do you know you’re in the right vertical? What is a network effect exactly? How to think about frequency and retention?
+
+12\. Me! @andrewchen (ex-Uber). A few years back, I wrote this about Uber’s virtuous cycle around acquiring more drivers, keeping the marketplace in balance, and how to think about the hyperlocal nature of the product. [http://andrewchen.co/ubers-virtuous-cycle-5-important-reads-about-uber/](http://andrewchen.co/ubers-virtuous-cycle-5-important-reads-about-uber/)
+
+13\. My colleague Jeff Jordan again (a16z, on the Airbnb/Lime/Instacart boards) on how marketplaces must nurture and manage perfect competition. Gives a sense on why B2B marketplaces often don’t work: [https://a16z.com/2015/01/22/online-marketplaces/](https://a16z.com/2015/01/22/online-marketplaces/)
+
+14\. a16z has also put together two amazing resources on Network Effects. Defining them, case studies, strategies for building them, etc. https://a16z.com/2016/03/07/all-about-network-effects/
+
+15\. More from Jonathan (ex-Airbnb) on defining a marketplace, global network effects (versus root density), homogeneous/heterogeneous supply, two-sided incentives, size and frequency of interaction, unit economics: [https://medium.com/@jgolden/four-questions-every-marketplace-startup-should-be-able-to-answer-defb0590e049](https://medium.com/@jgolden/four-questions-every-marketplace-startup-should-be-able-to-answer-defb0590e049)
+
+16\. Another from Casey on 4 strategies to win on low frequency marketplaces: 1) SEO (expedia model), 2) Better/cheaper (Airbnb), 3) Insurance (HotelTonight), 4) Engagement (Houzz). [http://caseyaccidental.com/low-frequency-marketplaces/](http://caseyaccidental.com/low-frequency-marketplaces/)
+
+17\. Two writeups on TaskRabbit which are worth reading. The first, from Leah (founder of TaskRabbit, now an investor at Fuel) visualizing the building blocks: [https://www.fuelcapital.com/stories/2017/12/7/the-anatomy-of-a-marketplace](https://www.fuelcapital.com/stories/2017/12/7/the-anatomy-of-a-marketplace)
+
+Also, the Reforge team collects key learnings from TaskRabbit as a case study: 1) Fixed pricing. 2) Faster txns, 3) Going vertical, 4) Raising enough VC , 5) Reputation systems, 6) Gig economy verticals are a power law. [https://www.reforge.com/blog/taskrabbit-marketplace-growth](https://www.reforge.com/blog/taskrabbit-marketplace-growth)
+
+18\. Bill Gurley (Benchmark) has a classic: 10 factors to evaluate with marketplaces: 1) New Experience vs. the Status Quo, 2) Economic Advantages vs. the Status Quo, 3) Opportunity for Technology to Add Value, 4) High fragmentation, 5) Friction of Supplier Sign-Up, 6) Size of the Market Opportunity, 7) Expand the Market, 8) Frequency, 9) Payment Flow, 10) Network Effects. [http://abovethecrowd.com/2012/11/13/all-markets-are-not-created-equal-10-factors-to-consider-when-evaluating-digital-marketplaces/](http://abovethecrowd.com/2012/11/13/all-markets-are-not-created-equal-10-factors-to-consider-when-evaluating-digital-marketplaces/)
+
+19\. Josh Breinlinger (early oDesk) on the ingredients for a successful marketplace: 1) recurring 2) episodic 3) standardized work 4) little trust required 5) non-monogamous. [http://acrowdedspace.com/post/73232464154/the-ingredients-for-a-successful-marketplace](http://acrowdedspace.com/post/73232464154/the-ingredients-for-a-successful-marketplace)
+
+20\. Worth a mention – not an essay, but The Perfect Store is a behind the scenes look at eBay that I read a long time ago that is great. [https://www.amazon.com/Perfect-Store-Inside-eBay-ebook/dp/B001MYJ3VA](https://www.amazon.com/Perfect-Store-Inside-eBay-ebook/dp/B001MYJ3VA)
+
+Re: Uber, I’ve read everything out there about Uber but there’s nothing good yet. @mikeisaac’s upcoming book is the one to watch.
+
+I’m still collecting/curating my list! So if you have clues for other great pieces, please let me know. Also interested in books if I’m missing anything.
+
+More ideas/thoughts welcome! I read every reply :)
+
+\[Originally tweetstormed, with some edits, at [@andrewchen](http://twitter.com/andrewchen). Follow me there for more!\]
+
+**PS. Get new updates/analysis on tech and startups**
+
+I write a high-quality, weekly newsletter covering what's happening in Silicon Valley, focused on startups, marketing, and mobile.
+
+Views expressed in “content” (including posts, podcasts, videos) linked on this website or posted in social media and other platforms (collectively, “content distribution outlets”) are my own and are not the views of AH Capital Management, L.L.C. (“a16z”) or its respective affiliates. AH Capital Management is an investment adviser registered with the Securities and Exchange Commission. Registration as an investment adviser does not imply any special skill or training. The posts are not directed to any investors or potential investors, and do not constitute an offer to sell -- or a solicitation of an offer to buy -- any securities, and may not be used or relied upon in evaluating the merits of any investment.
+
+The content should not be construed as or relied upon in any manner as investment, legal, tax, or other advice. You should consult your own advisers as to legal, business, tax, and other related matters concerning any investment. Any projections, estimates, forecasts, targets, prospects and/or opinions expressed in these materials are subject to change without notice and may differ or be contrary to opinions expressed by others. Any charts provided here are for informational purposes only, and should not be relied upon when making any investment decision. Certain information contained in here has been obtained from third-party sources. While taken from sources believed to be reliable, I have not independently verified such information and makes no representations about the enduring accuracy of the information or its appropriateness for a given situation. The content speaks only as of the date indicated.
+
+Under no circumstances should any posts or other information provided on this website -- or on associated content distribution outlets -- be construed as an offer soliciting the purchase or sale of any security or interest in any pooled investment vehicle sponsored, discussed, or mentioned by a16z personnel. Nor should it be construed as an offer to provide investment advisory services; an offer to invest in an a16z-managed pooled investment vehicle will be made separately and only by means of the confidential offering documents of the specific pooled investment vehicles -- which should be read in their entirety, and only to those who, among other requirements, meet certain qualifications under federal securities laws. Such investors, defined as accredited investors and qualified purchasers, are generally deemed capable of evaluating the merits and risks of prospective investments and financial matters. There can be no assurances that a16z’s investment objectives will be achieved or investment strategies will be successful. Any investment in a vehicle managed by a16z involves a high degree of risk including the risk that the entire amount invested is lost. Any investments or portfolio companies mentioned, referred to, or described are not representative of all investments in vehicles managed by a16z and there can be no assurance that the investments will be profitable or that other investments made in the future will have similar characteristics or results. A list of investments made by funds managed by a16z is available at https://a16z.com/investments/. Excluded from this list are investments for which the issuer has not provided permission for a16z to disclose publicly as well as unannounced investments in publicly traded digital assets. Past results of Andreessen Horowitz’s investments, pooled investment vehicles, or investment strategies are not necessarily indicative of future results. Please see [https://a16z.com/disclosures](https://a16z.com/disclosures) for additional important information.

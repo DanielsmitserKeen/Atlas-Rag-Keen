@@ -1,0 +1,126 @@
+# SaaS Metrics: VCs Share the 7 Key Metrics You Need to Track
+
+**Laura Tyson, August 22, 2016 08:51 AM  
+**
+
+The fastest growing SaaS startups have one thing in common: they’re tracking the SaaS metrics that matter most. We asked several different venture capitalists and angel investors focused on SaaS the million dollar question: what are the most important SaaS metrics for startups that are scaling?
+
+Their responses were incredibly insightful and we’re excited to share them with you. Here are the top seven key SaaS metrics they recommend and why. We’ve also included a short description and calculation for each one.
+
+## 1\. Net MRR Growth Rate
+
+[Net Monthly Recurring Revenue (MRR) Growth Rate](https://www.geckoboard.com/learn/kpi-examples/saas-kpis/net-mrr-growth-rate) measures the month over month percentage increase in net MRR. It’s one of the most common and important SaaS metrics. Since MRR changes as new revenue is added and customers churn (cancel) and as accounts expand or contract, the growth rate shows the net variation of those factors from month-to-month. The **net** growth rate provides a solid indicator of how quickly your SaaS company is growing.
+
+_“MRR Growth Rate is one of the the top metrics SaaS companies should track because it answers the question ‘How fast is the company growing?’”_ – [Tom Tunguz](http://tomtunguz.com/), Partner at Redpoint Ventures
+
+_“To me, \[Net MRR Growth\] is the foundation of any healthy business. If a company can’t reach a sustainable ratio of 3.5-4x more added MRR than lost MRR, the business can’t ‘get legs.’”_ – [Alexander Bruehl](https://www.saasgarage.com/), Angel Investor at BM Advisors
+
+_“The ability to accelerate monthly revenues while decreasing monthly burn is the #1 thing I look for in a growth stage business.”_ – [Steve Schlenker](http://dncapital.com/team/steve-schlenker/), Managing Partner at DN Capital
+
+_“Month-over-month growth is a sign of exponential growth due to network effect or liquidity or big brand.”_ [Pietro Bezza](http://connectventures.co.uk/), Managing Partner at Connect Ventures
+
+#### How to calculate Net MRR Growth Rate
+
+**Net MRR Calculation:**
+
+($) Existing MRR + ($) new business + ($) reactivation + ($) expansion – ($) churn – ($) contraction \= ($) Net MRR
+
+**Net MRR Growth Rate calculation:**
+
+\[ ($) Net MRR Month B – ($) Net MRR Month A \] / ($) Net MRR Month A X 100 \= (%) MRR Growth Rate
+
+View the pros, cons, visualization examples, benchmarks and more for the [Net MRR Growth Rate metric here](https://www.geckoboard.com/learn/kpi-examples/saas-kpis/net-mrr-growth-rate).
+
+## 2\. Net MRR Churn Rate
+
+[Net Monthly Recurring Revenue (MRR) Churn Rate](https://www.geckoboard.com/learn/kpi-examples/saas-kpis/net-mrr-churn-rate) is the measure of lost revenue month over month (due to cancellations and account downgrades) after factoring in any revenue from upgrades or expansion (cross-sell or account upgrades). It shows revenue churn minus expansion (revenue added). This is in contrast to Gross MRR Churn Rate that estimates the total loss to the company not including expansion.
+
+_“MRR churn sucks the blood out of your business. That’s why I think that SaaS companies should work very hard to get MRR churn down, as close to zero as possible, or even better achieve negative MRR churn.”_ – [Christoph Janz](http://christophjanz.blogspot.com/2015/02/why-most-saas-startups-should-aim-for.html), Co-founder and Managing Partner, Point Nine Angel VC
+
+_“The maximum viable churn for a company depends on the company’s runway and the rate at which the startup can grow accounts through up-sell and cross-sell. It goes without saying that less churn is always better, but estimating an upper-bound for churn can be helpful for financial modeling and internal prioritization of customer success efforts.”_ – [Tom Tunguz](http://tomtunguz.com/maximum-viable-churn/), Partner at Redpoint Ventures
+
+#### How to calculate Net MRR Churn Rate
+
+\[ ($) MRR Churn – ($) Expansion MRR \] / ($) Total MRR at the start of the Month X 100 \= (%) Net MRR Churn Rate
+
+View the pros, cons, visualization examples, benchmarks and more for the [Net MRR Churn Rate metric here](https://www.geckoboard.com/learn/kpi-examples/saas-kpis/net-mrr-churn-rate).
+
+## 3\. Gross MRR Churn Rate
+
+[Gross Monthly Recurring Revenue (MRR) Churn Rate](https://www.geckoboard.com/learn/kpi-examples/saas-kpis/gross-mrr-churn-rate) is the percentage of revenue lost due to cancellation or downgrades. It estimates the total loss to the company in contrast to Net MRR Churn Rate that calculates the relative loss to the company by subtracting expansion MRR.
+
+The inverse of this metric is Gross MRR Retention Rate which focuses on the revenue retained from month-to-month.
+
+_“Lots of churn definitions out there. It all boils down to a low Gross MRR Churn as this number indicates if a business is healthy. Net MRR can be “improved” by expansion and new logos, but if the Gross MRR Churn is above 1-2% there seems to be an issue with the product or the ROI story.”_ – [Alexander Bruehl](https://saasgarage.com/), Angel Investor at BM Advisors
+
+_“A high churn rate is toxic to any SaaS business.”_ – [Christoph Janz](http://christophjanz.blogspot.com/), Co-founder and Managing Partner, Point Nine Angel VC
+
+#### How to calculate Gross MRR Churn Rate
+
+($) Total MRR Churn this month / ($) Total MRR at the start of this month X 100 \= (%) Gross MRR Churn Rate
+
+View the pros, cons, visualization examples, benchmarks and more for the [Gross MRR Growth Rate metric here](https://www.geckoboard.com/learn/kpi-examples/saas-kpis/gross-mrr-churn-rate).
+
+## 4\. Expansion MRR Rate
+
+The SaaS Metric [Expansion Monthly Recurring Revenue (MRR) Rate](https://www.geckoboard.com/learn/kpi-examples/saas-kpis/expansion-mrr-rate) is additional recurring revenue generated from existing customers through either add-ons, upsells or cross-sells.
+
+_“Expansion MRR shows if the company can deliver more and more value to customers and monetize that value. Being able to generate expansion MRR is extremely valuable, especially longer term. Most of the best later-stage SaaS companies get a significant portion of their growth from existing customers.”_ – [Christoph Janz](http://christophjanz.blogspot.com/), Co-founder and Managing Partner, Point Nine Angel VC
+
+_“Account expansion is a proxy for latent demand.”_ – [Tom Tunguz](http://tomtunguz.com/), Partner at Redpoint Ventures
+
+#### How to calculate Expansion MRR Rate
+
+\[ ($) Total Expansion MRR at end of the month – ($) Total Expansion MRR at the beginning of the month \] / ($) Total Expansion MRR at the beginning of the month X 100 \= (%) Expansion MRR Rate
+
+View the pros, cons, visualization examples, benchmarks and more for the [Expansion MRR Growth Rate metric here](https://www.geckoboard.com/learn/kpi-examples/saas-kpis/expansion-mrr-rate).
+
+## 5\. Average Revenue Per Account (ARPA)
+
+The SaaS Metric [Average Revenue Per Account (ARPA)](https://www.geckoboard.com/learn/kpi-examples/saas-kpis/average-revenue-per-account-arpa) is the revenue generated per account, usually calculated on a monthly or yearly basis. It is sometimes called Average Revenue Per User (ARPU) or Average Revenue Per Customer (ARPC). In some businesses, it’s possible for a customer to have multiple accounts, so these customer-based metrics can vary from ARPA.
+
+_“It is useful to look at this for just the new customers booked in the month. Plot a trendline to show you the average price point that your new customers have chosen.”_ – [David Skok](http://www.forentrepreneurs.com/saas-metrics-2-definitions-2/), General Partner at Matrix Partners
+
+#### How to calculate Average Revenue Per Account (ARPA)
+
+($) Total monthly recurring revenue / (#) total accounts \= ($) Average Revenue Per Account (ARPA)
+
+View the pros, cons, visualization examples, benchmarks and more for the [Average Revenue Per Account metric here](https://www.geckoboard.com/learn/kpi-examples/saas-kpis/average-revenue-per-account-arpa).
+
+## 6\. Lead Velocity Rate
+
+The [Lead Velocity Rate](https://www.geckoboard.com/learn/kpi-examples/saas-kpis/lead-velocity-rate) is the growth percentage of qualified leads month over month. It measures your pipeline development. That is, how many (quality) potential customers you’re currently working on converting to actual customers.
+
+_“\[Lead Velocity Rate\] is real-time, not lagging, and it clearly predicts your future revenues and growth. And it’s more important strategically than your revenue growth this month or this quarter. Hit your LVR goal every month… and you’re golden. And you’ll see the future of your business 12-18 months out, clear as can be.”_ – [Jason Lemkin](https://www.saastr.com/why-lead-velocity-rate-lvr-is-the-most-important-metric-in-saas/), VC and Founder of SaaStr
+
+_“Looking at the current pipeline value as well as the historic pipeline development lets you peek into the future and estimate (and sometimes guesstimate) how growth could look in the next few months.”_ – [Christoph Janz](http://christophjanz.blogspot.com/), Co-founder & Managing Partner, Point Nine Angel VC
+
+_“Does the company have 6x+ the amount of pipeline to their bookings plan (target revenue)? If so, you can be confident they will achieve the next period’s plan.”_ – [Tom Tunguz](http://tomtunguz.com/), Partner at Redpoint Ventures
+
+_“One of the most important metrics to track for startups who are scaling is the value of qualified sales pipeline.”_ – [Tom Henriksson](http://openoceancapital.com/), Partner at Open Ocean Capital
+
+#### How to calculate Lead Velocity Rate
+
+\[ (#) Qualified leads current month – (#) Qualified leads last month \] / (#) Qualified leads last month X 100 \= (%) Lead Velocity Rate
+
+View the pros, cons, visualization examples, benchmarks and more for the [Lead Velocity Rate metric here](https://www.geckoboard.com/learn/kpi-examples/saas-kpis/lead-velocity-rate).
+
+## 7\. CAC Payback Period
+
+The SaaS Metric [CAC Payback Period](https://www.geckoboard.com/learn/kpi-examples/saas-kpis/cac-payback-period) is the number of months it takes to earn back the money invested in acquiring customers. It shows your break even point. This metric often goes by Time to Recover CAC or Months to Recover CAC.
+
+_“CAC payback period determines how much cash the company needs to grow.”_ – [Tom Tunguz](http://tomtunguz.com/), Partner at Redpoint Ventures
+
+_“Many startups require 15 to 18 months to recoup the acquisition costs on a new customer, which puts an enormous strain on capital. Unless your investors are willing to keep pumping in cash, focus on keeping your CAC low enough to be recovered in a year.”_ – [David Skok](http://labs.openviewpartners.com/saas-customer-acquisition-best-practices/), General Partner at Matrix Partners
+
+#### How to calculate CAC Payback Period
+
+($) CAC / \[ ($) ARPA X (%) Gross Margin \] \= (#) Months to Recover CAC
+
+View the pros, cons, visualization examples, benchmarks and more for the [CAC Payback Period metric here](https://www.geckoboard.com/learn/kpi-examples/saas-kpis/cac-payback-period).
+
+## Tracking made easy
+
+Don’t let your key SaaS metrics get buried in a spreadsheet. You can easily track your metrics and keep your team focused on growth by visualizing the metrics on a [TV dashboard](https://www.geckoboard.com/learn/dashboard-examples/saas-dashboard-example/).
+
+![SaaS Dashboard Example](https://i0.wp.com/www.geckoboard.com/assets/saas-dashboard-example.png?resize=460%2C255&ssl=1)

@@ -1,0 +1,105 @@
+# Pricing 201 for B2B SaaS companies: Price-product fit
+
+_This article is the first in the three-article series on B2B SaaS pricing._
+
+What’s that one question that keeps SaaS founders up at night?
+
+No, it’s not the ultimate question of Life, the Universe, and Everything because we know the answer is 42!
+
+In my over a decade of professional experience, I’ve heard most founders mention their biggest night-time worry as — ​‘how to increase the Annual Contract Value (ACV)?’ And while founders throw all types of spaghetti at the wall, from acquisition to retention to funnel optimization to grow ACV, pricing is usually lower in the pecking order.
+
+Khadim Batti, co-founder and CEO of Whatfix, narrated a real-life incident of how they scaled ACV from $3k/​year to $96k/​year, a staggering 32 times, on the 100x Entrepreneur podcast. (Episode link at the end of the post).
+
+> Prior to Dreamforce. We were selling for around $2000\-$3000 a year. A year, not a month. When we went to Dreamforce, we thought, Okay, we’ll sell something expensive. Now, what is expensive? Is that okay? We’ll sell it for $8,000\- 10,000; when a potential customer visited our booth and asked for the concept he really loved, he asked for the price point. So Prakhar, currently our head of territory sales, was a sales rep then; he said $8,000. Our intent was $8,000 a year. The person quickly said, Okay, eight into 12, $96,000, that looks fine. That was a shock for us, we were selling for eight, and the guy is saying 96000 is fine because the person is spending $20 million on a Salesforce, a few hundred thousand dollars actually, it’s fine for ensuring an ROI on top of that platform.
+
+The importance of pricing changes to grow revenue is not just anecdotal. A study by Price Intelligently shows that tweaking price is 4X more efficient in improving revenue than customer acquisition and 2X more efficient than retention. In fact an underpriced product creates a major business model problem. 
+
+The product finds strong early traction as customers are glad to pay much less than the value they get from it, and it is easy to mistake this early traction as PMF. However, when founders try to scale, they hit a wall of poor unit economics or a much smaller market than they imagined when they raise prices. (To read more about Product-Market fit, [check out the art and science of PMF from Sajith Pai](https://blume.vc/commentaries/the-art-and-science-of-pmf)).
+
+## A new lens to think about pricing[](https://blume.vc/commentaries/pricing-201-for-b2b-saas-companies-price-product-fit#a-new-lens-to-think-about-pricing "Copy link")
+
+Most advice founders get on pricing is to consider it an integral part of the product and iterate on it as part of product development. While this advice is right, in many cases, pricing decisions tend to get obfuscated and overshadowed by other product-related decisions. This happens because new features are added to the product every month/​quarter, but prices aren’t changed at that frequency. Also, unlike product management, sales, and marketing, pricing has no functional owner in startups. Thus, there’s no forcing function to keep the organization focused on pricing decisions. 
+
+One of the ways to better index on pricing to drive revenue/​org growth is to move it to the center of decision-making. This means shifting the lens from _product-market-model-channel fit to price-product-persona-packaging-channel fit._ This shift is illustrated below. 
+
+In this lens, ​‘fit’ highlights the interdependencies between price and the other four key elements — product, persona, packaging, and channel. Here’s what each of the nodes means:
+
+*   Persona: Who is the customer you are selling to?
+*   Packaging: How is your product bundled to solve your customer’s pain point?
+*   Channel: Where are you selling to your customer?
+
+Let’s look at the price-product fit.
+
+## Price-Product Fit[](https://blume.vc/commentaries/pricing-201-for-b2b-saas-companies-price-product-fit#price-product-fit "Copy link")
+
+### Let price lead to the product[](https://blume.vc/commentaries/pricing-201-for-b2b-saas-companies-price-product-fit#let-price-lead-to-the-product "Copy link")
+
+This may sound counter-intuitive, but your pricing should lead to the product you want to build and not the other way around. If you want to charge some people a lot of money, you must build a certain product type. But, if you want to charge a lot of people small sums of money, you’ll need a different product type. 
+
+And it’s not just about charging more. Once you know your pricing model, you’ll need to answer questions like — To whom will you sell the product? What features do they find valuable at that price point? Do they have a high-priority pain point for which they are willing to spend that sort of money?
+
+For instance, Ben Fisher, the founder of Rodeo, which sells subscription management SaaS to CPG brands, says that they chose a relatively high price point from day 0 as they only wanted to sell to large, post-PMF eCommerce brands so that they could learn fast from the best in the business and build a top-notch product. They built the product with features that validated the high price — advanced customer retention tools, multi-currency support, API access, and Klaviyo integration. Their pricing strategy also leads to the type of customers they want to sell to and their messaging. Check out this screengrab from their pricing page.
+
+Here’s an interesting price heuristics from Jen Abel, founder and CEO of Jjellyfish (a GTM consulting firm specializing in US entry and expansion) for <$1M ARR companies selling through a sales-led motion in the US. 
+
+*   If you are selling to SMBs, your ACV will be somewhere between $5k to $15k,
+*   If you are selling to mid-market, you’ll fall somewhere between $15k to $50k, and 
+*   If you sell to enterprise customers, you’ll be between $50k and $150k.
+
+SMB refers to less than 250 employees; mid-market refers to 250 to 1000 employees; enterprise is >1000 employees
+
+### Evolve your pricing strategy with your product[](https://blume.vc/commentaries/pricing-201-for-b2b-saas-companies-price-product-fit#evolve-your-pricing-strategy-with-your-product "Copy link")
+
+Don’t let the above section make you believe you are stuck with a price once you select it. Far from it. Your pricing has to evolve with your product. To borrow a tagline from a popular Indian bike ad over a decade ago, pricing is never ​‘fill it — shut it — forget it. If you use the same pricing strategy you selected at <$1M ARR when you are >$10M, you’ll leave significant money on the table.
+
+Here’s a rule of thumb — As your company moves through different stages, you need to ask yourself what you are optimizing for and tweak the pricing to reflect it. Here’s how seasoned founders typically look at pricing at different stages.
+
+#### **Early stage**[](https://blume.vc/commentaries/pricing-201-for-b2b-saas-companies-price-product-fit#early-stage "Copy link")
+
+You most likely have a single product at the early stage, so keep pricing simple and optimize to acquire logos on your sales deck. Most early-stage companies have three pricing tiers and not more than four to keep the pricing simple enough for customers. 
+
+You don’t have to be overly scientific about the exact price because, at the end of the day, if you sell for $25K ACV, but a well-known brand is willing to pay you $10K, it’s worth it to go for it. Jen says that at an early stage, your customer is worth 10x what they are paying you. 
+
+> _Any customer willing to sign up from you in the zero-to-one journey is worth 10X the value they are paying. What I mean by that is you get their logo, you get their case study, you get their reference, you get their referrals, and you get their feedback on the product. You also learn they will be willing to live with more mistakes in the product and give you feedback to correct the course._
+
+Similarly, if you have a PLG-led motion, and you’ve figured out your range — $10/​mo, $100/​mo, $500/​mo — Don’t waste time debating $100 vs. $125. ([For more on PLG-led sales motion, check our PLG primer](https://blume.vc/commentaries/building-a-successful-plg-led-gtm-from-zero-to-one)). 
+
+_Pro tips:_ 
+
+*   Keeping your price lower than your competitors is okay if it works for your unit economics. Most customers will not mind it. They risk buying a new product, so a lower price gives them the psychological comfort of justifying their decision. Contrary to popular belief, a lower price doesn’t mean lower quality in the customer’s mind unless it’s 10x lower.
+*   At the same time, do not compete with incumbents on price only because they can easily match your price and permanently damage your unit economics.
+*   If you sell to enterprises, usage-based pricing (for instance, based on the volume of messages sent or API calls made) will have a longer sales cycle than traditional seat-based pricing. Enterprises prefer predictability in vendor costs as they have fixed line items in their budgets for different types of services. As a new vendor who is selling them SaaS with variable costs, you’ll need to spend time educating them upfront.
+*   Use the Salesforce way of selling in the early stage. Instead of quoting a low price to close all deals, start with a higher price and give discounts, as buyers love them. It also makes it easier to raise prices later as you taper off discounts. 
+
+#### **Expansion stage**[](https://blume.vc/commentaries/pricing-201-for-b2b-saas-companies-price-product-fit#expansion-stage "Copy link")
+
+You’ve added more features to your product but may most likely still have a single product. At this stage, you want NDR (Net Dollar Retention) growth, à la your existing customers spend more with you. This should reflect in your pricing in two ways — raise prices for contract renewals and provide a clear expansion path to your customers.
+
+_Raise prices at the time of contract renewals_
+
+Your buyers will almost be expecting you to raise prices at the time of renewal, and it will be a tough negotiation unless you can demonstrate the value you bring to them. There are two heuristics to estimate the renewal ACV you could aim for, top-down and bottom-up.
+
+*   Top-down: If your tool is built on top of any other tool like Salesforce or Coupa, you can ask your customers how much additional value they can get from those products by using yours. If your customers believe your product gets them 20%-30% incremental value, you have a ballpark of pricing it at 20% to 30% of what they are paying Salesforce.
+*   Bottom-up: Once the end-users use your product, you can calculate how much value it adds to the company regarding incremental revenue, reduced cost, time saved, or reduced risk. For instance, if your product is used 20 hours a month and for every hour it’s used, it saves your end-user 50% of their time, then it saves them 20 hours a month. If your end user is paid $100 per hour, you can charge up to $2000/ user ($100 \* 20 hours).
+
+_Provide a clear expansion path to your customers_
+
+To charge your existing customers more, you’ll need to build the right tipping points into your pricing tiers to create a natural upsell path for your customers. I’ll cover this in detail in price-packaging fit in the next article in this series, but the example of Zendesk illustrates this point well.
+
+Zendesk, the OG customer support company, had three pricing plans in 2009 (revenue: $2M). It layered an enterprise plan in 2011 (revenue: $20M) and a higher enterprise elite plan in 2013(revenue: $72M). This allowed it to monetize the growth in the size of its customers as they grew from small startups to large enterprises.
+
+_Pro tip:_
+
+During the expansion stage, it’s tempting to imitate the pricing strategy of the industry leader or a similar company. However, Trello learned the hard way that this approach could backfire. In 2015, Trello adopted Slack’s ​‘fair billing’ policy, which involved crediting the customer’s account for users who didn’t log in for a specific period. However, Trello soon realized that Slack had a much higher usage rate than Trello, resulting in very few cases of prolonged non-usage. Due to Trello’s infrequent usage, Trello’s customers started receiving frequent credits on their bills, making accounting reconciliation difficult. Trello discontinued this policy after receiving numerous complaints from upset customers.
+
+#### **Growth stage**[](https://blume.vc/commentaries/pricing-201-for-b2b-saas-companies-price-product-fit#growth-stage "Copy link")
+
+At the growth stage, you have more product extensions and new products. You optimize revenue growth at this stage by cross-selling these new products to your customers. Thus, you introduce new pricing tiers and often start bundling these products.
+
+Going back to Zendesk, it started as a single-product company (customer support) in 2007 and continued to have one product till 2015 (revenue: $200M). While it tweaked its pricing tiers to reflect the new features it added, its single product’s pricing hit local maxima by 2013, and it couldn’t add new tiers. In 2016 (revenue: $310M), it launched two new products and continued adding more products every year till 2019 (revenue: $910M), when it sold six different products.
+
+_Pro tip:_
+
+Pulling off pricing changes as you get bigger will become much harder as you’ll have many voices and conflicting views internally. You should view pricing changes as projects at this stage and budget for having many employees from across all functions involved in the project. Also, at this stage, pricing decisions will need some sort of buy-in rather than being imposed on the sales team.
+
+The upcoming articles in this series will cover price-persona fit, price-packaging fit and price-channel fit. To get them in your inbox, [join our mailing list](https://blumefieldnotes.substack.com/).

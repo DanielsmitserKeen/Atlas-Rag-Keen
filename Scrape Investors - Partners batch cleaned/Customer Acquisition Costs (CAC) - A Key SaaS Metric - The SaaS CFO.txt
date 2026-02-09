@@ -1,0 +1,56 @@
+# Customer Acquisition Costs (CAC) - A Key SaaS Metric
+
+[![Calculating SaaS Metrics](https://www.thesaascfo.com/wp-content/uploads/2016/04/calculator-385506_1280-1170x550.jpg)](https://www.thesaascfo.com/how-to-calculate-customer-acquisition-costs/ "Customer Acquisition Costs (CAC) – A Key SaaS Metric")
+
+## **How I Calculate Customer Acquisition Costs (CAC)**
+
+As a CFO of a subscription-based software company, unit economics are very important to understand in this role. At the top of my SaaS metrics lists is Customer Acquisition Costs (CAC).
+
+With CAC and otther SaaS metrics, I can assess the true health of the business and the future trajectory of the business. Although there might be cash in the bank and revenues are increasing, we could be doing things that are actually hurting us in the long run.
+
+_**You can download the Excel model I used in this example at the bottom of this post.**_
+
+## **SaaS Metrics are Not Used in Isolation**
+
+Customer Acquisition Costs (CAC) is a key metric to understand for any SaaS (software-as-a-service) or subscription-based business. In isolation, it does not mean much, but used in conjunction with CLTV ([customer lifetime value](https://www.thesaascfo.com/calculate-customer-lifetime-value-cltv/)), ARR (Annual Recurring Revenue), CAC/LTV ratio, and ACS ([Average Cost of Service](https://www.thesaascfo.com/calculate-average-cost-service/)), it is a powerful metric.
+
+## **What is CAC and how do you calculate it?**
+
+CAC is the total sales and marketing expenses associated with acquiring one new customer.  For a quick video tutorial, check out my new [CAC intro video](https://www.thesaascfo.com/saas-tutorials/how-to-calculate-customer-acquisition-costs-cac/).
+
+![Customer Acquisition Costs Formula](https://www.thesaascfo.com/wp-content/uploads/2016/04/CAC-Formula.png)
+
+It’s easy in theory to understand but your general ledger and headcount reporting system must have enough definition to segregate the required inputs for calculation. You should not take your sales and marketing expenses in total, because part of your sales team is focused on new business and part is focused on growing your existing customer base.
+
+Often, and in my case, the sales cost center also includes account executives (selling into existing customer base), subject matter experts (SME’s), and sales support.
+
+![Customer Acquisition Costs in SaaS](https://www.thesaascfo.com/wp-content/uploads/2016/04/CAC-Screenshot.png)
+
+With co-mingled expenses in a cost center, I allocate “sales overhead” such as the SME’s and sales support based on the ratio of new and existing business reps. I also work with marketing to understand how much of their effort and expenses are focused on acquiring new customers.
+
+## **How long is your sales cycle?**
+
+The length of your sales cycle has an impact on how you calculate CAC. Based on our product and target customer, our sales cycle is longer than smaller market items. To capture the correct timing of the marketing expense, I use marketing expenses from twelve months prior in my calculation. Why? With a longer sales cycle, the deal that closes today was most likely sourced from a marketing lead one year prior. So if we went big on trade shows a year ago, that should be factored into my customer acquisition costs for the customer we just landed due to sales cycle length.
+
+## **Required Inputs for CAC**
+
+Sales Expense  
+Marketing Expense  
+Number of new customers  
+% of Sales and Marketing Expense dedicated to new business
+
+## **Conclusion**
+
+With the correct inputs, customer acquisition costs and average CAC are very easy to calculate. It is easy to be overwhelmed by all of the SaaS metrics but start step-by-step. Begin with CAC and then move on to ACS. With MRR you are well on your way to understanding payback periods, gross margins per customer, and customer lifetime value.
+
+Also, check out m post on why [CAC is like debt](https://www.thesaascfo.com/cac-payback-period/).
+
+As always, I welcome your feedback and you can download the free Excel template below.
+
+**Download below.**
+
+Please enter your email address (no spam) below to download the model. I’ll keep you updated on future models and posts.
+
+![](https://secure.gravatar.com/avatar/0e87cc22a138ea157b03beebaadef71611c0470b485a8e94a7c399ab82cf4f98?s=100&d=mm&r=g)
+
+I have worked in finance and accounting for 25+ years.  I’ve been a SaaS CFO for 9+ years and began my career in the FP&A function.  I hold an active Tennessee CPA license and earned my undergraduate degree from the University of Colorado at Boulder and MBA from the University of Iowa.  I offer coaching, fractional CFO services, and SaaS finance courses.

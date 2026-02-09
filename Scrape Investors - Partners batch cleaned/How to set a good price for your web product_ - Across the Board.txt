@@ -1,0 +1,125 @@
+# How to set a good price for your web product?
+
+A good price doesn’t mean a low price. The price of your web product or service can’t be too high, because no one will pay that much, but it can’t be too low, because you won’t earn enough money on it. It has to be the right price for you, your business and your customers.
+
+Today let me show you how to set a good price for your web product or service. It’s not so easy, but if you follow these tips – it will be much, much easier.
+
+## Look at the costs of development
+
+In the case of physical goods it’s quite easy. You need to sum up all the costs related to the development process of your product (costs of producing physical goods, all the materials, delivery etc).
+
+In the case of web-based apps, online business, SaaS products… it’s not so easy. But still not as difficult as you think.
+
+The most important thing is to realize that the development process is not a one-time cost.
+
+First, you need to develop your product. Then you need to develop even more. You need to add new functionalities, widgets, plugins, integrations, mobile apps etc. All of that costs you money. Not a small amount of money.
+
+In case of physical goods you are able to reduce costs by ordering smaller numbers of products from a factory if you do not sell as many products as you wanted to. In the case of digital goods – you won’t do that. You need to pay your developers every month.
+
+So, first, add all of the costs related to the production process. How much do you need to spend on the development process? How many developers do you need to hire to develop your product? How much do you need to pay them? And how long will it take?
+
+Then calculate all the costs related to the development after the product is launched. How many developers will you need to have everything working properly and still be able to add new features? How much will you need to pay them?
+
+Write down these two sums.
+
+## Look at the costs of maintenance
+
+In the case of any online business – your website/product/service has to run on some server. It has to has a domain. Maybe SSL as well. And someone has to take care of all of that. You need a system administrator or anyone else who will take care of the security, upgrades, installing and configuring everything on your server.
+
+Sum all of the costs related to that. The costs of the server, domains, SSL certificates, system administrator etc.
+
+Write down this sum.
+
+## Look at the costs of your marketing and sales
+
+You can have the best product on the planet, but without a great marketing and salesmen no one will even notice that you exist. You may need to pay for ads, PPC campaigns, email marketing platform, PR or hire someone to take care of all of that. Also you may need to invest some amount of money in sales, e.g. for being on conferences or fairs, phone calls, meetings etc.
+
+Sum all of the costs related to marketing and sales and write down this sum.
+
+## Look at the other costs (e.g. delivery, customer support)
+
+There could be many more costs than these mentioned above. You may need to deliver your products to your customers, you may need to hire someone as customer support. You may also need to pay your payment service provider.
+
+Think about that and sum all of these costs. Then write the sum down.
+
+## Look at your industry. How much your potential customers would be able to pay?
+
+What’s your industry? What kind of people are in your industry? What kind of companies? How big are these companies? How many employees do they hire? What kind of products or services do they use and how much are they able to pay for them?
+
+If you’re selling luxury goods then you don’t need to worry about higher prices. Your customers probably will be able to pay more and won’t have any problem with that.
+
+If you’re targeting your services to SMB then you need to realize that they don’t have too much money and they won’t be able to pay higher price for your services.
+
+Take some time to research the industry and the target audience.
+
+## Talk to your potential customers
+
+Don’t ask them how much they are able to pay.
+
+[According to](http://www.slideshare.net/kissmetrics/ultimate-guide-to-saas-pricing) [Lars Lofgren](http://twitter.com/larslofgren) from KISSmetrics:
+
+> People have no idea until you ask them for their credit card.
+
+Ask them what they need, how you can help them, what kind of functionalities they need, what you can do to help them earn more or spend less. And while you know all of that – you will be able to follow 10x Rule.
+
+According to [Lincoln Murphy](https://twitter.com/lincolnmurphy)‘s [article](http://sixteenventures.com/saas-pricing-strategy):
+
+> “We charge this much because our customers get at least 10x that much value.”
+> 
+> If I sell something for $100, I want to provide at least $1,000 in value to them… at least.
+> 
+> Even better is if the “value” isn’t something that is ‘ROI-able,’ but rather something intangible that they cannot directly quantify.
+> 
+> You do this by understanding your customer’s goals, opportunities, problems, etc.
+
+## Look at your competitors. How much customers have to pay for their services?
+
+In the 21st century there is no company that has no competitors. Even if you think that your service is innovative and no one ever thought about that before – you’re wrong. Probably right now, in this second, someone in some other city, country or on the other continent is thinking about a very similar product or even is already selling it.
+
+Take some time to learn about your competitors. Check their prices. List all of the functionalities they offer for these prices. Learn as much as you can about their prices and services.
+
+## List your additional services
+
+What kind of additional services do you offer? 24/7 customer support, livechat, more functionalities, more options, more possibilities (…)? List all of them. A better product, with additional services is worth more.
+
+**Your customers would be able to pay you more if you offer them more than your competitors.**
+
+## Set a good price for your web product
+
+Now once you collected all of this information – it’s time to set your price.
+
+First, think about your customers. And follow the 10x Rule. How much more would they be able to earn if they use your product? How much less would they spend?
+
+How much would this process cost them if they decided to do it on their own, paying their developers to develop and maintain such a tool?
+
+So you know how much they would need to spend on developing it on themselves/how much they would earn by using your product? Great! Divide it by 10. You have your price.
+
+Let say it’s $1000. So your price is $100.
+
+Now compare it to your competitor’s prices. Is this something similar? Yes? Ok, fine. No? Why? Think about your additional services. Maybe you offer more/less than your competitors? Remember: Your customers would be able to pay more if you offer them more. It works the other way round as well. If your competitors offer more – their customers would be able to pay more.
+
+Now compare it to your costs. How many accounts/products do you need to sell to cover your costs? How many users do you need to have to achieve a break-even point? Let say it’s 10 000. When do you predict to have so many users? Let say in 3 years. Is this fine for you? And what about the costs of production? And all the costs from these 3 years? Do you need to give this money back? Maybe you need to raise the price to achieve a break-even point in a year instead of 3?
+
+Now compare it to your industry. Are there that many potential customers, users, companies that are able to pay that much for your product?
+
+## And the most important thing…
+
+It’s really hard to set a proper price for your SaaS. And the chances that you will do it right at the beginning are really low. So don’t worry about that. You can always change your prices or even a whole pricing model.
+
+[According to Patrick Campbell](http://www.priceintelligently.com/blog/bid/200161/A-Complete-Guide-to-Changing-Your-SaaS-Pricing):
+
+> If you haven’t changed your prices in the past 12 months I guarantee you’re losing money. The companies we’ve seen with the most success with revenue and adoption are reviewing pricing at least once per quarter and making tweaks or changes every 6 to 9 months.
+
+Also look at [this small research to get a taste of the pricing from 7 SaaS companies over the last few years](http://www.launchbit.com/blog/how-do-saas-companies-change-their-pricing-over-time/).
+
+I would also highly recommend to look at [11 Tips for a Pricing Page from 10 SaaS Rockstars](http://blog.paylane.com/pricing-page-from-10-saas-rockstars/ "11 Tips for a Pricing Page from 10 SaaS Rockstars").
+
+* * *
+
+_That’s the next post of **[Build a great global SaaS business](http://blog.paylane.com/tag/globalsaas/ "Build a great global SaaS business")** series – the brand new blog post series on [Across the Board](http://blog.paylane.com/ "Across the Board"). Want to know more? We will publish much much more in the near future. [Subscribe to our newsletter](http://blog.paylane.com/newsletter "Across the Board newsletter") or hashtag [#GlobalSaaS on Twitter](https://twitter.com/search?q=globalsaas "#GlobalSaaS") and be first to know._
+
+Have some additional questions? Or maybe an idea for a next blog post about SaaS businesses? Don’t hesitate to tell us about that. On [Twitter](http://twitter.com/PayLane "PayLane on Twitter") (remember about [#GlobalSaaS](https://twitter.com/search?q=globalsaas "#GlobalSaaS") in your tweet) or in comments below.
+
+* * *
+
+* * *

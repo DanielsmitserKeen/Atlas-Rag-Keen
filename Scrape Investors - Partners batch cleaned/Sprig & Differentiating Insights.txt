@@ -1,0 +1,366 @@
+# Sprig & Differentiating Insights
+
+_Welcome to the **1,747 newly Not Boring people** who have joined us since Sunday!_ _If you aren’t subscribed, join 39,474 smart, curious folks by subscribing here:_
+
+🎧 _To get this essay straight in your ears: listen on **[Spotify](https://open.spotify.com/show/6k1YLBvORRMyosKy3x1xIl?si=Dpy4iCK7Q52S1L431zsT0g)** or **[Apple Podcast](https://podcasts.apple.com/us/podcast/not-boring/id1527421931)**_
+
+**This week’s Not Boring is brought to you by… [Sprig](https://userleap.com/?&utm_source=paid_packy_2021-03-11&utm_medium=email&utm_campaign=packysnewsletter)**
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!OPsJ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5c989711-a0aa-42b5-a6e4-4b0308e9dfd1_1845x701.png)
+
+](https://substackcdn.com/image/fetch/$s_!OPsJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5c989711-a0aa-42b5-a6e4-4b0308e9dfd1_1845x701.png)
+
+Hi friends 👋 ,
+
+Happy Thursday!
+
+Our little Not Boring family is growing — nearly 7,000 of you joined the party in the past month alone. That’s wild. I continue to be amazed that this is my job.
+
+One of my favorite parts of the job is writing Sponsored Deep Dives. (More on [how I pick sponsors here](https://docs.google.com/document/d/1K24dAK5k7LHuYMsJMyd2acDSqw8bEdJm_pciVrmVNXA/edit)). I love getting to tell you about the next big companies before they take off. The first two Sponsored Deep Dive subjects — MainStreet and [Pipe](https://app.pipe.com/signup?ref=notsoboring) — announced [$60 million](https://www.notboring.co/p/announcing-mainstreets-60-million) and [$50 million](https://techcrunch.com/2021/03/09/this-pipe-ing-hot-startup-just-raised-50m-to-be-the-nasdaq-for-revenue/) fundraises this week, respectively.
+
+Today’s sponsor, Sprig, is already taking off. Public companies like Square, Opendoor, Adobe, and Dropbox use it to collect and categorize real-time customer feedback, and the company has raised $20 million from First Round and Accel.
+
+You’ll be hearing about Sprig a lot more, and interacting with it to share your insights on your favorite products across the internet. You heard it here first.
+
+As always, I’ll tell you how I’m getting paid: today is a mix of CPM and CPA.
+
+Let’s get to it.
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!gx4X!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F50977ddc-43b7-4e6a-9af8-eadac7253959_1200x600.png)
+
+](https://substackcdn.com/image/fetch/$s_!gx4X!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F50977ddc-43b7-4e6a-9af8-eadac7253959_1200x600.png)
+
+If you’ve made it to the bottom of these essays over the past few weeks, you’ve probably noticed something new: 
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!bUQE!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F273e194e-1aeb-4059-ba54-9635a7e742a6_1414x160.png)
+
+](https://substackcdn.com/image/fetch/$s_!bUQE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F273e194e-1aeb-4059-ba54-9635a7e742a6_1414x160.png)
+
+That’s a microsurvey I set up in five minutes working with today’s sponsor, Sprig Sprig, which is [backed by](https://techcrunch.com/2020/12/10/userleap-raises-16-million-to-bring-better-qualitative-data-to-pms/) [Accel](https://accel.com/) and [FirstRound](https://www.firstround.com/), helps product teams continuously discover customer needs and evaluate the user experience via short, highly targeted surveys (microsurveys) displayed contextually within the product. 
+
+The magic of Sprig is that it quantifies qualitative feedback by collecting rich, written responses, in real-time, and using machine learning to analyze and categorize the responses to pull out themes. 
+
+An example would help, and I’m an open book, so I’ll share what you’ve told me: 
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!FmAD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6c123fd5-0649-4799-a4eb-28414a8f7f00_1600x725.png)
+
+](https://substackcdn.com/image/fetch/$s_!FmAD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6c123fd5-0649-4799-a4eb-28414a8f7f00_1600x725.png)
+
+I’m proud that 92% of responses are good and above, and it’s awesome to see that people generally love these Sponsored Deep Dives, but the point of continuous research is to adjust and improve in real-time. To whit, the most common negative feedback is that sponsored posts, “Feel like ads with no analysis.” Ouch. 
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!zGZ0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd84211f5-406f-4c85-a34c-ae1b8339f7ab_1600x367.png)
+
+](https://substackcdn.com/image/fetch/$s_!zGZ0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd84211f5-406f-4c85-a34c-ae1b8339f7ab_1600x367.png)
+
+That’s only four people out of the 631 responses you’ve left, but **Sprig recommends that I take action, so let’s do it**. This is going to be a meta-post: I’m using today’s sponsor’s product to make my Sponsored Deep Dives even better. I’m taking your input to heart and beefing up the analysis in this one. Sprig’s working already. 
+
+To that end, today, we’re going to cover: 
+
+*   **The Need for Speed**
+    
+*   **The Modern PM Tech Stack vs. User Research Tools**
+    
+*   **Meet Sprig**
+    
+*   **Building Moats in a Competitive Market**
+    
+*   **Sprig’s Vision: The Two KPIs**
+    
+
+Sprig is [free for up to 10,000 monthly tracked users](https://userleap.com/plans.html?&utm_source=paid_packy_2021-03-11&utm_medium=email&utm_campaign=packysnewsletter) (more on why later), and if you or your company builds something online, you should go sign up for it now: 
+
+[Sign up for Sprig](https://sprig.com/?&utm_source=paid_packy_2021-03-11&utm_medium=email&utm_campaign=packysnewsletter)
+
+Sprig founder and CEO [Ryan Glasgow](https://twitter.com/ryanglasgow?lang=en) joined his first startup as founding PM in college. The company, ExtraBux, was acquired by eBates in 2010, but that’s not the important part of the story. The important part is that to build a relatively straightforward company, Ryan and team had to set up their own servers, build out their own infrastructure, and run their own PHP. 
+
+That was a familiar experience for anyone starting a company a decade ago, or even five years ago. It will always be difficult to start, run, and grow a company, but just a few years ago, it was hard to just start one. Today, starting a company is much, much easier, because many of the startups launched over the past couple of decades were built specifically to make starting and scaling a company easier. Just last night, Lattice CEO and Sprig investor Jack Altman tweeted:
+
+[
+
+![X avatar for @jaltma](https://substackcdn.com/image/fetch/$s_!TnFC!,w_40,h_40,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Favatars%2Fdefault-light.png)
+
+Jack Altman@jaltma
+
+I’m pretty sure this is the best time to start a startup there’s ever been. I don’t think more things have ever been in a founder’s favor.
+
+1:28 AM · Mar 11, 2021
+
+108 Reposts · 1.12K Likes
+
+
+
+
+
+](https://twitter.com/jaltma/status/1369822515971772416?s=20)
+
+This is an ever-present theme in Not Boring, so excuse me while I do the Ben Thompson self-referential thing for a minute. 
+
+Just this Monday, [Ben Rollert](https://twitter.com/benrollert) and I wrote about a wave of no-code and low-code startups [Inspired by Excel](https://www.notboring.co/p/excel-never-dies) that “aim to create powerful general purpose, highly flexible software targeted at a broad audience, including non-technical users.” With the rise of Inspired by Excel products, the universe of people who can create software products ballooned from the 25 million or so software developers in the world to everyone with a computer. 
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!vd8j!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8a82170-a1f7-4534-9c97-bc56541458d5_1456x300.png)
+
+](https://substackcdn.com/image/fetch/$s_!vd8j!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8a82170-a1f7-4534-9c97-bc56541458d5_1456x300.png)
+
+Two weeks ago, in _[Power to the Person](https://www.notboring.co/p/power-to-the-person)_, I wrote about the idea that, “Thanks to new tools and technologies, we are nearing the point at which the costs of carrying out a transaction through the market are getting so low that firms are less necessary.” More powerful tools mean that one person is able to build a bigger business than multi-thousand-person companies could a few decades ago. One of the reasons for that is the explosion of [API-first companies](https://www.notboring.co/p/apis-all-the-way-down), about which I wrote:
+
+> _When a company chooses to plug in a third-party API, it’s essentially deciding to hire that entire company to handle a whole function within its business. Imagine copying in some code and getting the Collison brothers to run your Finance team._
+
+These developments are incredibly exciting. AWS, Google Cloud, Netlify, Stripe, and hundreds of other products mean that people and companies are able to focus on doing the things that they do best without having to worry about all of the slow and painful work of setting up servers, building their own authentication and security from scratch, figuring out how to accept payments, or doing many of the things that each individual startup had to do just to get off the ground not so long ago. 
+
+As a result, the cost of starting a startup has come down dramatically over the past few decades, and particularly over this past one. More entrepreneurship is a great thing for the world, but it also presents a challenge, which I summarized in _Shopify and the Hard Thing About Easy Things:_ 
+
+> _**Here’s the hard thing about easy things:** if everyone can do something, there’s no advantage to doing it, but you still have to do it anyway just to keep up._ 
+
+The lower something’s cost, the more demand for it. As building products and starting companies got cheaper, more and more people started doing it. As fewer and fewer company hours and resources went towards setting up servers and infrastructure, more and more time has gone towards iterating on the product itself. 
+
+Taken together, building something good enough has gotten _easier,_ everything has gotten a lot _faster_, but standing out from all the noise is harder than ever.
+
+The question, then, is no longer, “Can we get this product to market?” but “Can we create a product that customers love?” 
+
+That has huge implications for how startups are built and what they focus on. It’s why CEOs are spending less time coding in dark rooms and more time on Twitter, to lend some of their personal brand to their company. It’s why every company now seems to talk about their “community.” It’s why “10x designers” are suddenly harder to hire than 10x engineers.
+
+[
+
+![X avatar for @jmj](https://substackcdn.com/image/fetch/$s_!TnFC!,w_40,h_40,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Favatars%2Fdefault-light.png)
+
+Jeff Morris Jr.@jmj
+
+"Hiring a 10x product designer is much harder than hiring a 10x engineer right now." From a call last week.
+
+5:14 AM · Mar 3, 2021
+
+40 Reposts · 768 Likes
+
+
+
+
+
+](https://twitter.com/jmj/status/1366980165167816706?s=20)
+
+This trend isn’t new. It’s been obvious that things have been getting faster and more competitive for a while. That’s why most software that product teams use is fast, easy, and integrated. User research software has not kept up. 
+
+Almost daily on Twitter, one Product Manager or another tweets out their tech stack, the set of tools that they use to help build great products. Lenny Rachitsky, who literally writes the book (well, [newsletter](https://www.lennysnewsletter.com/)) on product management, polled his audience in December to see which tools the most PMs rely on ([tweet here](https://twitter.com/lennysan/status/1336475654317993985?s=20)).
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!5pKF!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbee48c54-420b-410f-8862-3aad983c51dc_296x131.png)
+
+](https://substackcdn.com/image/fetch/$s_!5pKF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbee48c54-420b-410f-8862-3aad983c51dc_296x131.png)
+
+Each one of these tools is easy to set up, fast, and collaborative. Each has a free plan through which users can get a good sense of whether the product will work for their needs. This is what PMs have come to expect. 
+
+For PMs and growth teams that want to better understand their users on a quantitative level, there’s a set of modern tools like Amplitude, Segment, and Hotjar. They’re slightly harder to set up than the products above because they need to integrate with the product or website to track how users behave, but once they’re in, it’s relatively easy for PMs and growth teams to build their own events tracking and dashboards without needing to go back to the engineering team. 
+
+All of these tools remove bottlenecks and let PMs move more quickly to build and iterate on the product without needing to rely on (or take time from) engineers. 
+
+And then there’s user research. 
+
+Certainly, user research software exists. The industry has come to call itself “experience management.” And it’s massive. Qualtrics, the leader, is worth $22 billion. Its founder now owns the Utah Jazz. Medallia has a market cap of $4.4 billion, and SurveyMonkey, which is aimed at SMBs, is worth $2.6 billion. 
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!_RZL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb38307df-b30e-4ca1-aa7e-b543a4ce04d6_1074x846.png)
+
+](https://substackcdn.com/image/fetch/$s_!_RZL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb38307df-b30e-4ca1-aa7e-b543a4ce04d6_1074x846.png)
+
+But none of these is built for the way that modern software development happens, starting with the sales and onboarding process. Buying and integrating Qualtrics or Medallia takes a long time. I’ve been through the process. It’s frustrating and expensive. A good rule of thumb for whether a company should be disrupted is whether or not it’s easy to find pricing on its website. Go try to find Qualtrics or Medallia’s pricing.
+
+Welcome back. No luck? 
+
+From his time as a PM, Glasgow realized that user research, which was becoming more important as competition increased, still operated on a timeframe that was out of sync with the rest of the business. Software hasn’t worked on quarterly or annual release cycles for a long time -- companies ship changes and improvements to their product and website every minute -- but user research still typically works on a much slower cycle. 
+
+If you’ve worked in a customer facing or user research role, the standard research process might be familiar: quarterly projects, lots of planning and survey design, email surveys with 2-5% response rates, then tons and tons of unstructured responses for the user researcher to sift through and manually tag and categorize, followed by a presentation to the exec or product team, from which a decision may or may not be made, three months after the question was asked.
+
+That process makes sense for big, irreversible projects like rebrands, market expansions, and product extensions, but it’s far too slow for most of the things for which a tech company needs user insights. So companies often just skip structured customer research, and rely on numbers and anecdotes to make product decisions. That’s a problem: companies have modern tools like Amplitude and Segment to tell them _what_ is happening in their product, but only slow, outdated, and complex tools to tell them _why._
+
+That’s why Glasgow started Sprig.
+
+After ExtraBux, Glasgow went on to be the founding PM at four more companies, including Vurb (acquired by Snap) and Weebly (acquired by Square). Over the course of those experiences, he [learned three lessons](https://userleap.com/post/3-lessons-i-learned-as-a-founding-pm.html): 
+
+1.  Customers have crucial insights, but it’s impossible to read their minds.
+    
+2.  Analyzing a lot of open-ended, qualitative data is hard and tedious.
+    
+3.  Customer research tools haven’t kept up with the modern Product Manager tech stack.
+    
+
+Glasgow left Weebly in 2018 to build Sprig based on those insights. Sprig flips the traditional user research process on its head, enabling **continuous user research,** through ongoing microsurveys embedded in the product. 
+
+Sprig is like Stripe for Research. It’s trivial to plug in, and that ease masks a ton of complexity and power behind the scenes. Here’s how it works: 
+
+1.  [Sign up for a free Sprig account](https://userleap.com/?&utm_source=paid_packy_2021-03-11&utm_medium=email&utm_campaign=packysnewsletter). 
+    
+2.  Drop in a couple lines of code.
+    
+3.  Anyone on the team can spin up microsurveys, using a [library of templates](https://userleap.com/templates.html?&utm_source=paid_packy_2021-03-11&utm_medium=email&utm_campaign=packysnewsletter) or their own imagination.
+    
+4.  Sprig is built on an events-based architecture, meaning that surveys are triggered based on things that a user does on the site. 
+    
+5.  Users answer short quantitative or qualitative questions. 
+    
+6.  Sprig's AI groups similar answers and presents categorized insights, saving hours of manual tagging and sorting in spreadsheets. A human review process ensures high accuracy, while also providing data which allows the AI to become increasingly more accurate.
+    
+
+By making the process fast and easy, Sprig is trying to answer the question: how can any customer facing employee become a user researcher? 
+
+In one of my favorite pieces written in the last year, _[Why Figma Wins](https://kwokchain.com/2020/06/19/why-figma-wins/),_ Kevin Kwok wrote:
+
+> _The **core insight of Figma is that design is larger than just designers**._ 
+
+Sprig’s parallel insight is that **user research is larger than just user researchers**. In other words, Sprig is attempting to do for customer research what Looker is doing for business intelligence and Figma is doing for design. By pushing user research tools throughout the organization, companies can glean valuable insights dramatically more quickly. 
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!B_9F!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffbcdb2a2-e216-45fe-8450-b74e3aaa7cec_800x283.png)
+
+](https://substackcdn.com/image/fetch/$s_!B_9F!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffbcdb2a2-e216-45fe-8450-b74e3aaa7cec_800x283.png)
+
+_Source: Kevin Kwok (adapted by Packy)_
+
+So how do you build a product that turns anyone into a user researcher? You make the assumption that those people don’t know how to do user research, and that they’re busy. You make it easy, you make it intuitive, and you make it fast. 
+
+Everything about Sprig is built for speed, starting with the sales process. 
+
+Instead of top-down sales, Sprig, like many modern SaaS businesses, takes a product-led growth approach. Its [pricing](https://userleap.com/plans.html?&utm_source=paid_packy_2021-03-11&utm_medium=email&utm_campaign=packysnewsletter) is front and center: free for up to 10k tracked accounts, $124/month for up to 25k, $275/month up to 50k, and $425/month up to 100k. The generous free plan means that customers can start testing the product before ever talking to a salesperson. 
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!tlYj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5d9a1a6-835e-497a-97e5-597cd60c442c_1600x392.png)
+
+](https://substackcdn.com/image/fetch/$s_!tlYj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5d9a1a6-835e-497a-97e5-597cd60c442c_1600x392.png)
+
+Setup is also incredibly simple. Even a non-technical person can implement microsurveys with no code, and Sprig integrates easily with products like Segment, with a deep bench of integrations with tools like Amplitude and mParticle on the very near-term roadmap.
+
+**One notoriously data-driven company set aside a full Hack Week to install and integrate Sprig, and finished the whole process in 30 minutes.** They canceled the rest of the Hack Week. 
+
+_**See for yourself: [get Sprig up and running](https://userleap.com/?&utm_source=paid_packy_2021-03-11&utm_medium=email&utm_campaign=packysnewsletter) in less time than it takes to read a Not Boring essay.**_ 
+
+Once Sprig is up and running, it’s trivially easy to start running microsurveys and getting actionable insights. Sprig is like an API-first company in that it **gives you the full powers of a best-in-class user research team with a few lines of code**. For example, [Sprig’s library of templates](https://userleap.com/templates.html?&utm_source=paid_packy_2021-03-11&utm_medium=email&utm_campaign=packysnewsletter) lets non-user researchers start with the thing they’re trying to do, click a couple of buttons, and get a well-designed survey live. 
+
+For example, Superhuman CEO Rahul Vohra famously broke Product-Market Fit (PMF), previously a “you know it when you have it” phenomenon, down to a science. If 40% of your customers would be “very disappointed” if they could no longer use your product, you have PMF. 
+
+Teams spend months agonizing over this question. Sprig turned it into a template, including tips on who to target and when to use it. 
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!A768!,w_1456,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F66a33fcb-834f-4e33-bd28-19c9522d4ef1_1363x622.gif)
+
+](https://substackcdn.com/image/fetch/$s_!A768!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F66a33fcb-834f-4e33-bd28-19c9522d4ef1_1363x622.gif)
+
+At Breather, we measured Net Promoter Score (NPS) by paying for a product called Delighted that emailed our users when they finished a reservation to ask how likely they were to recommend Breather to a friend. Sprig, you guessed it, turned that into a [template](https://userleap.com/templates/measure-net-promoter-score-nps.html).
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!Hic4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fea6bcbbf-db20-4674-94a9-408e07b377aa_1600x957.png)
+
+](https://substackcdn.com/image/fetch/$s_!Hic4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fea6bcbbf-db20-4674-94a9-408e07b377aa_1600x957.png)
+
+There are templates for most things PMs want to achieve: Gauge Feature Satisfaction, Identify Customer Goals, Improve the Onboarding Experience, Understand Churn, and thirteen more. If a template isn’t there today, chances are Sprig’s own team of researchers will spin one up for you.  
+
+With Sprig, you can ask both quantitative questions -- “How likely are you to recommend \[product\] to a friend or family member?” -- or open-ended, qualitative questions -- “What made you give that rating?” 
+
+If you’ve done any user research before, the thought of continuous open-ended microsurveys at scale probably just made you a little nauseous. Normally, that means having to download responses into a spreadsheet and spending hours tagging and categorizing them. That’s the most magical part of Sprig: its AI does that for you. 
+
+In my survey, for example, Sprig pulled out nine positive themes, automatically. 
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!wCsL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F28375187-dd0c-4b2c-91b3-0e2ccb41d0f8_1600x810.png)
+
+](https://substackcdn.com/image/fetch/$s_!wCsL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F28375187-dd0c-4b2c-91b3-0e2ccb41d0f8_1600x810.png)
+
+Clicking into “The research and depth,” you can see that Sprig was able to group a bunch of related open-ended responses into one, easy-to-understand category. 
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!U4gn!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7c28a5c4-2e9e-41ac-88b9-58155a571375_1600x742.png)
+
+](https://substackcdn.com/image/fetch/$s_!U4gn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7c28a5c4-2e9e-41ac-88b9-58155a571375_1600x742.png)
+
+It would have taken me hours to do that myself. Frankly, I probably wouldn’t have done it. 
+
+And that’s just for my small response pool. Some of the fastest-growing tech companies in the world (and [Lenny](https://twitter.com/lennysan/status/1355631997406732289?s=20)) use Sprig to collect millions of responses from customers.
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!FBWJ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1f1dd783-a1a3-4f53-b3d2-636e498691d6_1600x238.png)
+
+](https://substackcdn.com/image/fetch/$s_!FBWJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1f1dd783-a1a3-4f53-b3d2-636e498691d6_1600x238.png)
+
+[Khatabook](https://khatabook.com/), the fast-growing Indian startup, collects over **half a million responses each month via Sprig**, 10-15% of which are open-ended text. Before Sprig, pulling insights from all of that text would have required hiring teams of people to manually tag and categorize responses, or using word clouds to quickly see the words people mention most and trying to divine what that means. Instead, Sprig’s AI matches and groups words and concepts that mean the same thing, pulling out real, actionable insights. 
+
+Customers seem to like it. “I fucking love open-ended response analysis,” one Sprig customer CEO said, “I used to go through my Typeform responses and tag them every morning from 6-8am. This saves me so much time.” 
+
+Sprig expands the number of people who can do user research and dramatically speeds up the process, which means that companies are doing a lot more user research. That creates a ton of open-ended responses, which would have been a nightmare to deal with, but like a polite dinner guest, Sprig cleans up after itself. 
+
+Sprig is the first-to-market and best-funded company in the continuous research space, but it’s not the only one. The way it thinks about competition and moats in a competitive space is instructive for anyone building software products today.
+
+Sprig’s approach to competition is pretty meta. The same macro trends that make now the right time for Sprig -- software is getting faster, easier to build, and more competitive -- mean that Sprig itself will face more competition. If you look up “survey” on ProductHunt, there are dozens of small competitors. 
+
+In order to win, Sprig is relying on the same power it gives its customers: speed. 
+
+No one has ever taken a product-led growth strategy targeted at the middle market and enterprise to user research before. Sprig is first. They believe that you can’t start downmarket and move upmarket -- you need to start at the top -- but that even in enterprise software, customers expect a consumer-like brand and experience. That’s the approach that’s worked for Figma, Loom, and Airtable. 
+
+The product-led approach relies on a generous free plan. GitHub just announced that it’s giving away its personal product for free, as did Notion. Potential customers can have Sprig up and running, for free, before they can even get their first sales call with Qualtrics set up. Incumbents can’t compete with that speed. Meanwhile, since Sprig makes its money upmarket, giving away its basic plan for free means that new entrants targeted at SMBs would have to be willing to bleed money for years in an attempt to win those customers’ business versus Sprig. 
+
+Plus, the free plan creates a nice growth loop for Sprig. Every time a customer sees a Sprig microsurvey, they’re exposed to the brand. They can click “Survey by Sprig” and go set up a free account themselves. In a competitive market, ubiquity and brand recognition are huge.
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!LVo5!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4eb0d59-4427-4ca4-8251-e66927494d0d_1172x536.png)
+
+](https://substackcdn.com/image/fetch/$s_!LVo5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4eb0d59-4427-4ca4-8251-e66927494d0d_1172x536.png)
+
+Product-led growth targeted upmarket requires doing two hard things at once -- making the product fast and smooth, and making it robust enough for enterprises. To that end, Sprig has raised $20 million from top venture capitalists including Accel, First Round, Elad Gil, and Figma’s Dylan Field in order to build out a robust product. They’ve barely spent money on marketing until now, choosing to focus on getting the infrastructure ready for scale. 
+
+Sprig is doing a ton of work on scale-level infrastructure. The company’s VP of engineering scaled Uber’s realtime marketplace logistics platform from three to 300 cities around the world. Just this week, an engineer joined from SpaceX. The event-based attribution system that they’ve built, which none of the incumbents offer and would have to start over to build, took a significant amount of time and talent. It’s paying off. In December alone, Sprig handled more than 10 billion API interactions. 
+
+As more companies use Sprig, it gets smarter, and its lead extends. It has dozens of neural network models running, and has already logged nearly 10 million responses on top of a strong machine learning structure, with humans in the loop to train the data. Glasgow likens it to a self-driving car:
+
+> _If you want to win the self-driving race, it’s all about miles driven with the right sensors, collecting the right data. If your neighbor drives the same car as you, it gets to know your neighborhood, where the potholes are, where the stop signs are. Similarly, the words and phrases customers use are similar within industries, so we’re getting smarter at organizing the responses and delivering insights for each industry._
+
+Incumbents, in this analogy, are like GM and Ford. They’ve logged a ton of miles, but without the right structure or sensors in place to collect data, they’re going to struggle to catch up with Tesla. 
+
+As Sprig gets smarter, its customers do too. What gets measured gets managed. By making it easier to measure and understand customers, Glasgow hopes to expand what companies optimize for. 
+
+Sprig’s vision is for a world in which companies have two sets of KPIs: one north star for the business side and one north star for customers. The companies that will win are the ones that best align the two. 
+
+Remember how hard it was to cancel those cleaning startups like Homejoy and Handy? Those companies optimized for a business KPI -- reduce churn -- at the expense of customer happiness. Over time, the latter catches up to the former. Amazon, on the other hand, famously gave up short-term profits for years by focusing relentlessly on giving customers the lowest possible price. That bet has paid off. 
+
+Sprig believes that by understanding how a customer feels about your product in real-time, and how that changes with each change you make, they can shrink the gap between business goals and customer happiness. To do that, it’s expanding the market of who can become a user researcher, and giving the people responsible for business KPIs the ability to collect customer insights as they iterate and build. By integrating with all the tools your business uses, and embedding directly into the product at the right points in the customer journey, Sprigcan tie customer insights to business results, and prove the causal relationship between the two. 
+
+What happens to the user researcher in this vision? As with designers in companies that use Figma and data scientists in companies that use Looker, user researchers at companies that use Sprig are freed up to stop spending time sorting through open-ended text responses. They can spend more time on bigger, less reversible decisions that require the full arsenal of skills they bring to bear, like new products, new markets, and brand positioning. 
+
+Sprig’s vision is one that resonates with me: one in which power shifts from the company to the customer. Competition naturally does that, and that’s the way everything is heading, with or without Sprig . Sprig is there to make sure that companies actually know what their customers want so they can better serve them, and in turn, build stronger businesses that stand out in crowded and hypercompetitive markets. 
+
+If your business is built on software and has customers, get started with Sprig for free.
+
+[Try Sprig Now](https://sprig.com/?&utm_source=paid_packy_2021-03-11&utm_medium=email&utm_campaign=packysnewsletter)
+
+Know a product manager or user researcher who would love Sprig?
+
+[Share](https://www.notboring.co/p/userleap-and-differentiating-insights-611?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+And of course, I gotta ask… how did you like this week’s Not Boring?
+
+[Loved](https://surveys.userleap.io/7656535650385f7932397e7369643a3133353430?r=5) | [Great](https://surveys.userleap.io/7656535650385f7932397e7369643a3133353430?r=4) | [Good](https://surveys.userleap.io/7656535650385f7932397e7369643a3133353430?r=3) | [Meh](https://surveys.userleap.io/7656535650385f7932397e7369643a3133353430?r=2) | [Bad](https://surveys.userleap.io/7656535650385f7932397e7369643a3133353430?r=1)
+
+Thanks for reading, and see you Monday,
+
+Packy
+
+#### Discussion about this post
+
+### Ready for more?

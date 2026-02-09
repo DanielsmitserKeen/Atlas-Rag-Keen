@@ -1,0 +1,49 @@
+# Predictable Revenue Forecasting is Possible with Usage-Based Pricing -
+
+For centuries, “giving the customer what they want” has been a winning strategy. It is not surprising then why [usage-based pricing](https://openviewpartners.com/blog/2021-state-of-usage-based-pricing/#.YZatMBDMKi4) has been a successful pricing strategy for so many firms. By allowing end users to opt-in and pay as they consume, companies have found substantial growth can follow. Simply removing the friction and “adoption risk” has been enough for some to surpass their expectations. 
+
+However, like all new strategies, predictable revenue forecasting can be a challenge. Without the comfort of long-term fixed contracts, CROs and CFOs are challenged with predicting how much revenue is expected and when it will be realized. While some have turned to data scientists for a better understanding, others have had to withhold or [reduce guidance](https://investor.chegg.com/Press-Releases/press-release-details/2021/Chegg-Reports-Third-Quarter-2021-Financial-Results/default.aspx) due to the lack of clarity. With some simple approaches that we can all adopt, predictable revenue forecasting is possible with usage-based pricing. 
+
+**Why Usage-Based Pricing Matters**
+
+Much has been written about the growth success that usage-based pricing has created. It’s even been described as the [most customer-friendly pricing](https://www.algolia.com/blog/algolia/introducing-algolias-most-customer-friendly-pricing/). Consumption-based pricing and pay-as-you-go strategies have all appealed to customers, especially those that are in the mainstream and have traditionally been risk averse when acquiring technology. By lowering the risk of adoption, these customers got on board earlier than they traditionally had in the past. 
+
+Usage-based pricing also allows for potential “network effects” within and outside the customer base. Having one group of users experiencing success increases the likelihood of them sharing their experiences with other potential users within their companies (or outside organizations). This word-of-mouth amplification is worth more than any marketing spend.
+
+Further, this approach to pricing has provided a new element of creativity in pricing strategies, breaking away from users as the only denominator of usage. Pricing can now be fixed on different consumption patterns that often do not have a human involved in the transaction. 
+
+## **Why Revenue Forecasting Matters**
+
+Don’t get us wrong, everyone one loves revenue! It’s what fuels the company’s growth and often unlocks future investments.  Simply put, the more confident investors are in future revenue, the more likely they will invest. Accuracy does matter. In today’s highly dynamic economic environment, the more accurate revenue forecasts are, the more likely the captain will steer the ship through choppy waters. In the end it is revenue that determines a company’s valuation (not contract bookings) and almost all SaaS metrics are based on revenue. A reliable view of future revenue will lead to a stabilization of these metrics.
+
+### **Revenue Realization Matters**
+
+In the traditional world of SaaS pricing, revenue realization was highly predictable thanks to fixed term contracts and stable pricing. With the advent of consumption-based approaches to pricing, things became a bit tenuous. Until recently investors have valued projected “pay as you go” revenues are valued much lower than traditional contracted ARR.  However, with better data and understanding, investors will get more comfortable with usage-based pricing. The key remained in the data to back up future realization claims. They were able to make the logical leap from recurring revenue to “recurring” revenue, so long as the facts support their projected realization pattern.
+
+With usage-based pricing, there are many aspects that need to be clearly understood in order to predict revenue:  How long does it take to deploy the solution before usage begins? What will the ramp up of usage look like in the initial period (quarter, year)? Will this usage be sustainable after initial benefits are realized? When will network-effects adoption kick in and how fast? 
+
+On many of these questions, companies are for the most part flying blind. The path out of this maze relies on data; timely and accurate data.
+
+### **The Path to Predictable Revenue**
+
+The data that is required is most often already being captured, or easily can be. For each challenging question above, data exists that can tell you what to expect.  For example, the data needed to answer the question “How long before usage begins?” sits in the Customer Success onboarding systems. For many companies, onboarding can be a “black box” automation accomplished in days.  Other companies need project plans. The progress of onboarding is rarely reported in a way that is meaningful for revenue forecasting. 
+
+But it doesn’t need to be so hard. Simply find a way for that data flow in a timely and accurate way and let it be consumed in a way that can help predict the answer. The same is true of “run rate” contracts where a contract has set the rate (pricing) but no one is tracking how the “running” is going. Often this data lies with staff who are very close to the customer but far away from Finance.
+
+Without question, the biggest predictor of revenue realization sits within the sales forecast. The more accurate the sales forecast is for contract bookings, the greater the confidence that Finance will have in using these numbers in their predictability models. A lot of time, energy and RevOps budget is being put into sales forecasting accuracy, so one might expect that revenue realization accuracy will be improved in time.
+
+But timeliness and accuracy of a sales forecast often doesn’t consider that all customers _seem_ to adopt at different rates, for different reasons. Upon deeper inspection, companies could categorize their customers based on certain attributes to get better predictability. Some customers adopt in seasonal patterns, some adoption may be more influenced by their geography, some may have a faster adoption based on the demographic details in the deal such as the CEO pushing adoption as part of a strategic initiative. Understanding this categorization take some thought and consideration to creating their adoption models. One doesn’t necessarily need a data scientist, but they certainly could help.
+
+Once there is confidence in the categorization of customers and their corresponding adoption models, then companies could go one step further to apply this approach in their sales forecasts. This approach could be as simple as “tagging” their opportunities in their sales pipelines to reflect each. The consistency of this approach matters, so it might be better to leave this in the trusted hands of your RevOps team and not to the whims of the sales rep! With a properly categorized pipeline and a timely and accurate sales forecast, CROs and CFOs should have significantly greater confidence in the accuracy of their revenue forecasts.
+
+### **A Mission Worth Taking On**
+
+While usage-based pricing has unlocked substantial growth and enabled companies to reach their potential faster, it has required companies to come to terms with how to manage the “adoption risk” that they now own. In many ways, this is a nice problem to have. Companies have traditionally spent a high level of resources to acquire revenue.  Now perhaps some of those resources that were saved could be redirected at preserving and predicting future revenue. 
+
+*     Focus on the data needed to have predictable models
+*     Enable those that closest to the accurate data to share it more freely, in a usable format
+*     Look at new customers through a “categorization lens”
+*     Look at your CRM system as the mechanism to provide a single view of the truth
+*     Continue to refine your models and categorization over time (quarterly)
+
+The more accurate and trusted your revenue forecasts are, the more likely investment dollars will flow.

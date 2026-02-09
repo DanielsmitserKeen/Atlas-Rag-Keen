@@ -1,0 +1,103 @@
+# Your Guide To Product-Led Sales
+
+The data is increasingly clear: it’s not PLG versus sales, it’s PLG AND sales.
+
+Today’s go-to-market playbook embraces product-led sales, which reduces friction in the sales cycle and converts users into revenue by pairing product usage with personalized assistance. Recent [survey data](https://www.pocus.com/product-led-sales-benchmark-report-2022) from 200+ companies shows that product-led sales now accounts for nearly as much revenue as self-service for the median PLG business.
+
+While product-led sales sounds great on paper, it’s much more complex behind the scenes. Folks struggle with questions like:
+
+*   Where should sales reps prioritize their time?
+*   What are the right signals to look for before having a rep reach out?
+*   Should we be tracking product-qualified leads (PQLs), product-qualified accounts (PQAs) or both?
+*   How does the tech stack change to support a product-led sales motion?
+
+Fortunately for us, there are early adopters like [Jesus Requena](https://www.linkedin.com/in/jesusrequenafranco/) who we can turn to for guidance. Jesus now leads Marketing and Growth at [Hex](https://hex.tech/), the data platform for data scientists. Before that he built and led the Growth Marketing team at Figma, the PLG darling that Adobe intends to acquire for a whopping [$20 billion](https://techcrunch.com/2022/09/15/adobe-is-buying-figma-for-20b-taking-out-one-of-its-biggest-rivals-in-digital-design/), which was the focus for much of this conversation.
+
+Figma, the maker of visual collaboration software, arguably wouldn’t be where it is today without product-led sales. They’ve attracted four million users and an extremely vibrant (read: vocal) user community. The company reportedly grew 100% year-on-year—from $200 million to $400 million ARR—with positive operating cash flow and an enviable 150% net dollar retention (NDR).
+
+Keep reading to learn from Jesus about the role of growth marketing in a PLG business, how Figma does product-led sales, why you should consider product-qualified accounts (PQAs) one of your top KPIs, and how emerging tools like Endgame help accelerate your time-to-market.
+
+![](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+## KP: What’s the role of growth marketing at Figma?
+
+JR: Growth marketing supports new user acquisition (traffic -> sign-ups), and pipeline generation for sales (sourced dollars from marketing). We focused around 70% of our efforts on the top of the funnel, driving traffic and new sign-ups with the right profiles because we know that will fuel sales along the way. As we acquire new users, that will bring their teams, who will upgrade to our self-serve product tiers and from there sales will reach out when the account is a good fit and has the right product behavior indicating they are ready to upgrade.
+
+**We focused on making sure our efforts on SEO, paid, affiliates and others bring users that activate.** Activation is the North Star metric and it drives the optimization of all tactics. Activation at Figma means a user collaborates with other users in their first week. You can call that our aha moment.
+
+On pipeline generation, Figma is very unique. 95% of the pipeline comes from the existing user base (active). Sales’ books of accounts get allocated from active accounts with the right profile, both in our professional (paid self-serve) and starter (freemium) tier.
+
+My team served the sales teams in two ways:
+
+1.  **We helped increase sales velocity and deal size by constantly optimizing the product signals reps can work from to reach out**, and enable them with the right messaging (value proposition) for each of those signals.
+2.  **We target decision makers in those accounts with content around the value of Figma** when scaling design and product teams, and bring new contacts in the form of MQLs they can also reach out to while multi-threading as part of their account engagement. It’s a bottoms-up meets top-down approach.
+
+![](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+## KP: How do you define product-led sales?
+
+JR. Product-led sales is the motion that starts with users finding value in the product, then sales reaching out to the right accounts to educate them that there is a better product tier for them.
+
+The product leads because it brings in the account and shows the value first before there is any sales interaction, as opposed to sales finding the account and educating them on the value. **The critical piece of product-led sales is understanding when sales should reach out to users.**
+
+> Had no idea you can align multiple elements within a frame or section by holding down “Shift” in figma [#tip](https://twitter.com/hashtag/tip?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/WKlOLqssso](https://t.co/WKlOLqssso)
+> 
+> — Dan (@Betraydan) [January 27, 2023](https://twitter.com/Betraydan/status/1618911659376140288?ref_src=twsrc%5Etfw)
+
+## KP: What have you found most effective in turning self-service users into opportunities for the sales team?
+
+> JR: We focused on product-qualified accounts (PQAs) for sales assistance and for reps to understand how to prioritize accounts. It’s not so much a binary yes or no (qualified or not), but a signal of strength based on first-party product data to help them prioritize. We split accounts into high/low fit (firmographics) and high/low product signal or intent. We want reps to prioritize based on best fit and highest signals and go down from there.
+
+We do not use product-qualified leads (PQLs) per se, but we do surface all the users in an account and highlight the ones that are either a champion (top users based on actions) or an influencer or decision maker (based on titles or roles within the product). The sales rep will decide who to reach out to, when, and with what message. All we try to do is accelerate their discovery and research by providing them with the data in a structured format.
+
+For growth marketing, we try to engage users that are not necessarily in the product due to their seniority or just because they are not a daily user. We engage them with content and events, and then bring them to sales for them to pursue at the right time. Remember, these accounts are hot in the product, so it’s not really a top-down sale, but the decision maker (or senior title) is a nice-to-have when going into later stages of the deal.
+
+## KP: To what extent do you sell into the power user versus a team lead or buyer inside of an account?
+
+JR: Most of the time sales reps go bottoms up. Starting with the champion, showing the potential value in a higher product tier, and getting the right persona to engage. This is a classic multi-thread for software that is sold to an operator.
+
+As Figma has matured, we have learned how to get in front of higher roles or decision makers to get the tool into the hands of more users from the get-go, versus waiting for the teams to organically grow (as we know it will happen eventually). This is also driven by the fact that we are a multi-product company selling to multiple departments at once (design, product, engineering, marketing), so having access to senior roles comes in handy for sales to tell a bigger story within the account. That’s how growth marketing in collaboration with product marketing focuses to help drive velocity and deal size.
+
+## KP: Could you walk us through what you’ve done to equip the sales team with the right data to support product-led sales?
+
+JR: Figma has been doing something very well since starting the sales team. That is providing sales with account data to understand what accounts were more likely to need our organization or enterprise products. This data was mainly around users, editors, teams and team admins, but it was hard to see in one place the actual data points that might correlate with a pain point—which are the best signals to use in outreach.
+
+We wanted to take this to the next level and learn what exact product behavior correlated with an upgrade. We partnered with our data product team, sales ops and sales leaders and created a model that surfaced around 10 data points. When two or more of these were triggered, there was a high likelihood for the account to upgrade. We showed sales and sales leaders the data and got their interest, then we tested it in a small group. [Endgame.io](https://www.endgame.io/), the product-led sales software, helped us display the data at account level and user-within-account level.
+
+One of the biggest pitfalls I had in my career was providing data to sales and them not knowing how exactly to use it. With this in mind, we partnered with product marketing to create a message framework that, based on the data signal, would correlate with a pain point and a value prop message to leverage that signal. Reps can use that in a personalized way with their outreach.
+
+We prioritized this experiment because it was the lowest hanging fruit for us to add incremental value to a sales motion that was already in place. We were able to accelerate something that some reps were already doing very well, and equip a larger sales team with the right tool to do it at scale. It was one of our top three initiatives this year along with the decision maker account-based marketing (ABM) program to accelerate account penetration.
+
+## KP: How has this changed the way that you do product-led sales?
+
+JR: In a few ways. First, it has given more depth into the narratives and messaging for mature reps, and more visibility into what exactly the account is doing. Secondly, it has enabled new reps to have a solid starting point into product-led opportunities, all centralized in one tool and with a clear framework.
+
+It also has allowed growth marketing and sales to bond over how to segment existing accounts, and which ones to prioritize, to educate on the value of Enterprise features (high fit – high signals) or to move from inactive to active (high fit – low signal).
+
+![](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+We are in the midst of evaluating success. We’re looking at deal velocity and landing deal size to understand if these signals are adding incremental value to the motion. We believe that better narratives on pain points an account is experiencing will drive higher traction among the right personas and higher deal sizes versus the account organically growing.
+
+## KP: What are your learnings after having gone through this journey?
+
+JR: There are a couple of common pitfalls to avoid here.
+
+The main one is rolling out something that is not fully tested, or just going with a superficial definition of signals or PQAs, just because you heard it somewhere. Spend the time to fully understand signals, and get input and feedback from a group of champions.
+
+The second thought is around training. When you roll out, make sure the training is ongoing. It takes time for new reps to learn the details of how to use a tool or incorporate the narrative into their own style. Open office hours, and get a recurring spot in your sales all-hands to update and refresh materials.
+
+> My advice for others is to start small. Talk to your best sales reps, and learn what they are using today as signals. Form a team with ops and data teams to come with a first iteration of your data model. Iterate constantly, until you find success in the signals, only then roll it out. This is a common mistake I’ve made in the past, trying to roll something out too soon, and losing confidence from sales about the signals, tools or approach. Keep experimenting, listening, and adding signals as you grow.
+
+## KP: What’s the role of software products like Endgame in this new sales process?
+
+JR: It has really transformed the possibilities for growth teams to display relevant product telemetry to sales.
+
+Before, either you had to build it yourself (as we did at Unity) or use BI tools like Looker and build a bunch or reports that are hard to navigate. Alex and the Endgame team really understand the pain point, and have built a tool that focuses on product signals and most importantly in improving sales flows to outreach accounts. No other tool out there has such a strong emphasis on the latter.
+
+To me, these tools are the next generation of sales tools, sitting on top of your CRM. Sales reps more than ever are becoming extremely smart on how they use not just product telemetry, but third-party data to become relevant to the prospect. Personalization of emails, calls, or LinkedIn is a must have today, not a nice to have, and it’s very hard to do if you don’t provide sales with data at their fingertips. Imagine spending one hour to personalize an email just because you need to find the information!
+
+## KP: What closing advice do you have for companies looking to adopt product-led sales?
+
+JR: My top advice would be to create an internal working group between product, RevOps, finance, sales and marketing to understand what are the internal motions and business rules to get started with that will accelerate your business.
+
+Try things before you roll them out, you can test how your motion works. For example, if you have a very large pool of self-serve users—paying or free that work in large companies—you can build an SDR layer to go after them. If you have a trial with a limited number of self-serve users, maybe you need a support/success team to help these users before sales touches them. Or if you have a large pool of paying self-serve customers, maybe your account managers or AEs can engage them directly. Each of these motions might need rules of engagement, tools, processes, and to be tested on a small scale to learn how to scale them.

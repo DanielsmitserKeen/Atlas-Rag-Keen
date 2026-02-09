@@ -1,0 +1,200 @@
+# The Ultimate SaaS Pricing Resources Guide
+
+Pricing is a SaaS company’s most efficient profit lever, but it’s also one of the easiest things to screw up. Nailing your SaaS pricing strategy requires more than just picking the optimal price and forgetting about it. Pricing must be continuously monitored to ensure you’re effectively landing, expanding and retaining your customer base.
+
+And it needs to consider both the rational and irrational sides of how people make purchase decisions.
+
+Best practices in SaaS pricing have evolved over the years, and this updated guide is here to help you stay ahead of the curve. It includes the latest and greatest SaaS pricing resources, as well as some timeless staples. The content comes both from OpenView as well as external experts like our friends at Price Intelligently, Simon-Kucher & Partners, OnStartups and Sixteen Ventures.
+
+## Table of Contents
+
+*   [Usage-Based Pricing](https://openviewpartners.com/blog/saas-pricing-resource-guide/#usage-based)
+*   [SaaS Pricing Basics](https://openviewpartners.com/blog/saas-pricing-resource-guide/#saas-pricing-basics)
+*   [Pricing Hacks & Experiments](https://openviewpartners.com/blog/saas-pricing-resource-guide/#pricing-hacks)
+*   [Publishing a Pricing Page](https://openviewpartners.com/blog/saas-pricing-resource-guide/#pricing-page)
+*   [Cashing in on the Right Model](https://openviewpartners.com/blog/saas-pricing-resource-guide/#right-model)
+*   [PLG Pricing from Freemium to Product Qualified Leads (PQLs)](https://openviewpartners.com/blog/saas-pricing-resource-guide/#pql)
+*   [Nudging Customers with Behavioral Tactics](https://openviewpartners.com/blog/saas-pricing-resource-guide/#behavioral)
+*   [Tips on Enterprise Pricing](https://openviewpartners.com/blog/saas-pricing-resource-guide/#enterprise-pricing)
+*   [Lessons from the Most Successful Companies in the World](https://openviewpartners.com/blog/saas-pricing-resource-guide/#big-ones)
+
+## New for 2023: Usage-Based Pricing
+
+**[The Usage-Based Pricing Playbook](https://offers.openviewpartners.com/usage-based-pricing-playbook)**  
+Software buying has evolved—and companies are moving to a usage-based pricing model to stay ahead of the curve. In fact, 7 out of the 9 recent software IPOs with the best net dollar retention have a usage-based pricing model. So after studying how Datadog, Twilio, AWS, Snowflake, Stripe, and other top SaaS companies have succeeded with this next evolution in software pricing, we created a playbook to help companies scale to $100M ARR.
+
+**[\[New for 2023\] The State of Usage-Based Pricing: Second Edition](https://offers.openviewpartners.com/state-of-ubp-second-edition)**  
+Usage-based pricing (UBP) has taken the SaaS world by storm. But with changing macroeconomic conditions, how will usage-based models continue to evolve and endure? Our team at OpenView surveyed SaaS leaders to find out.
+
+**[\[New for 2023\] Going Usage-Based? It’s Time to Rethink Your Sales Comp](https://openviewpartners.com/blog/usage-based-pricing-and-sales-compensation-plans/)**  
+Ben Chambers spent six years leading sales compensation at New Relic, driving the transformation of their sales comp plans from the traditional bookings-oriented SaaS model to a consumption model during their transition to usage-based pricing. He shares a framework for how to design sales compensation in a usage-based business.
+
+[**\[New for 2023\] Going Usage-Based? How Algolia Built Their Most Customer Friendly Pricing Model Ever**](https://openviewpartners.com/blog/going-usage-based-how-algolia-built-their-most-customer-friendly-pricing-model-ever/)  
+Since Algolia’s founding in 2012, they’ve had eight evolutions of the pricing model. This latest version embraces usage-based pricing and product-led growth (PLG). Co-founder Julien Lemoine and Chief Strategy Officer Gaëtan Gachet take us behind the scenes into Algolia’s pricing transformation.
+
+**[\[New for 2023\] Implementing Usage-Based Pricing: What Your Financial Teams Need to Know](https://openviewpartners.com/blog/implementing-usage-based-pricing-what-your-financial-teams-need-to-know/)**  
+Usage-based pricing (UBP) has been a part of Datadog’s business since the beginning. Even today, the infrastructure monitoring product is priced on a “price per host monitored” basis, and the pricing model also accounts for discounts based on annual commitment, volume, and tier. Scott Buxton — Datadog’s former VP of Finance — walks through how finance teams can adapt to embrace usage-based pricing.
+
+**[\[New for 2023\] Inside Cypress’s Playbook for Launching Usage-Based Pricing](https://openviewpartners.com/blog/cypress-usage-based-pricing/#.YMpZ1zZKjlw)**  
+Kyle Poyar spoke with Mohammed Coovadia, VP of Customer Success and Sales, about what sparked the transition, how Cypress explored different pricing options, and what led them to a final decision.
+
+## SaaS Pricing Basics
+
+**[Pricing Insights from 2,200 SaaS Companies](https://openviewpartners.com/blog/saas-pricing-insights/)**  
+We surveyed 2,200 SaaS companies to gather insights across pricing plans, team organization, changes and more. Read the results here.
+
+**[Are You Owning Pricing for the First Time? Start Here.](https://openviewpartners.com/blog/saas-pricing-advice/)**  
+Priceless pricing advice from pros at SurveyMonkey, Intercom, and more.
+
+**[SaaS Pricing Guide: When and How to Raise Prices Without Losing Customers](https://openviewpartners.com/blog/saas-pricing-guide-raise-prices-without-losing-customers/)**  
+A successful price increase helps you acquire better customers who are more serious about using your product and less likely to churn. In fact, it’s your best shot at growing 25% faster.
+
+**[Top Pricing Strategies and How They Unlock Growth  
+](https://www.priceintelligently.com/blog/pricing-strategy)**The fourth post in Pricing Intelligently’s four-part series on the main pricing methodologies, highlighting the pros and cons of each.
+
+**[The Price is Right: Essential Tips for Nailing Your Pricing Strategy  
+](http://firstround.com/review/the-price-is-right-essential-tips-for-nailing-your-pricing-strategy/)**Want to update your pricing? Patrick Campbell deconstructs and walks through the elements of a pricing strategy that enables startups to more effectively acquire customers. According to Campbell, the foundational work behind pricing is to create, test and refine buyer personas so that they’re accurately mirrored on your pricing page.
+
+[**Pricing Low-Touch SaaS: How to Approach Pricing and Packaging a New SaaS App, by Example**  
+](https://stripe.com/atlas/guides/saas-pricing)Sometimes, the best way to learn is through example. This article by Patrick McKenzie of Stripe Atlas dives into different companies’ pricing structures and gives commentary on recommended changes to make in order to maximize conversion and monetization.
+
+[**Picking a Pricing Strategy for Your Product**  
+](https://blog.intercom.com/picking-your-pricing-model/)Intercom’s Des Traynor offers a framework for viewing pricing and customer targeting to segment sales processes more efficiently. In a nutshell, look at how much revenue you want to earn from each customer and the methods you want to use to attract your customer to build a better pricing strategy.
+
+[**How to Set Prices That Maximize Profit**](https://labs.openviewpartners.com/how-to-set-prices-that-maximize-profit/)  
+Understanding the value and costs of your product help you to set the right price. Eric Siu of Single Grain presents a framework in this article for setting prices to help you flesh out how pricing plays into your business’s value and objectives.
+
+[**10 Years’ Worth Of Learnings About Pricing**  
+](http://tomtunguz.com/pricing-summary/)With all the potential strategies to follow, Tomasz Tunguz of Redpoint Ventures offers his top learnings from the past 10 years. He shares his preferred pricing frameworks around strategy, philosophy, structure, and positioning that have served him the best.
+
+**[The Price Is Right: For Early-Stage SaaS Companies, It Needs To Be](http://techcrunch.com/2014/05/16/the-price-is-right-for-early-stage-saas-companies-it-needs-to-be/)**  
+Time and time again SaaS companies are promising customers that they will save hundreds of thousands of dollars, but their pricing strategies are only capturing a tiny fraction of that savings. Steven Sinofsky explains some of the best ways to carefully pick a pricing strategy for your unique product that doesn’t leave money on the table.
+
+**[There are Only 3 Pricing Strategies for Your Startup](http://tomtunguz.com/the-3-pricing-strategies/)**  
+The prerequisite of an effective pricing strategy is goal alignment. As a startup, are you managing for revenue, market share or profitability? Tom Tunguz explains what each strategy means for your business and which companies have successfully pursued them.
+
+**[SaaS Pricing: The True Cost of Shortsighted Decisions](https://openviewpartners.com/blog/saas-pricing-considerations/)**  
+SaaS pricing is complicated. Before you make a decision, you need to consider all the angles and keep in mind that it is perhaps the single most important decision a young company can make (no pressure).
+
+[**How to Screw Up Your Software Pricing and Packaging Completely**](https://openviewpartners.com/blog/software-pricing-and-packaging-mistakes/)  
+The team at Software Pricing Partners shares three reasons why software companies often miss the mark when it comes to the delicate relationship between packaging, price, and cost.
+
+[**Best Product Pricing Practices for B2B SaaS**](http://www.bowerycap.com/blog/sales/best-product-pricing-practices-for-b2b-saas/)  
+SaaS pricing is one of the most important (but difficult) decisions a new business makes. The article outlines key themes every founder should think about before they price their product. Critical questions throughout the article will guide the reader in developing an effective pricing strategy.
+
+## Pricing Hacks and Experiments
+
+**[3 Simple Tips for Pricing SaaS Products in the Early Days  
+](https://www.saastr.com/3-simple-tips-for-pricing-saas-products-in-the-early-days/)**It can be hard in the early days of a SaaS company to price correctly for mid-market and enterprise customers. This article, written by Michael Cardamone of SaaStr, offers three tips on how to price confidently when you are running low on the knowledge that typically amasses after selling to a multitude of customers.
+
+**[Pricing Experiments You Might Not Know, But Can Learn From  
+](https://conversionxl.com/blog/pricing-experiments-you-might-not-know-but-can-learn-from/)**Perspective has a large influence on successful pricing and willingness to pay. Learn from past research and look at this article written by Peep Laja of CXL which covers different psychological principles surrounding various pricing strategies.
+
+[**5 Simple Pricing Hacks to Jumpstart Your Startup’s Growth**  
+](https://openviewpartners.com/blog/5-simple-pricing-hacks-to-jumpstart-your-startups-growth/)Usually, pricing takes extensive time to optimize and test… but what if you don’t have that luxury of time or resources? Presented here are some relatively simple tests that can be rapidly implemented to give a positive jolt to your growth.
+
+## Publishing a Pricing Page
+
+[**\[New for 2023\] How to optimize your pricing page**](https://kylepoyar.substack.com/p/how-to-optimize-your-pricing-page)  
+Your pricing page is the 2nd most important page on your website. Are you neglecting it? Kyle Poyar from OpenView unpacks seven steps to design a pricing page that converts.
+
+**[20 Pricing Page Best Practices That Will Increase Your Sales  
+](https://optinmonster.com/pricing-page-best-practices/)**The pricing page is a core location for prospects looking to take action. If that page scares them away, you may never see them again. From simplifying the design to building visitor trust and offering a free trial, this article by Sharon Hall of OptinMonster summarizes 20 of the best practices to take into account when building an effective pricing page.
+
+[**SaaS Pricing Best Practices from 90 Companies: Why the Hottest SaaS Businesses Now Put Their Pricing Online**](https://openviewpartners.com/blog/saas-pricing-best-practices/)  
+Putting prices online seems to be a SaaS entrepreneur’s worst nightmare. So why are the fastest growing companies now doing it? I studied 87 public and private SaaS companies in the U.S. and found four key learnings that companies can apply to their own pricing strategy. Should your company make its pricing public? Find out here.
+
+[**Insightful Study of 386 SaaS Startup Pricing Pages**](http://onstartups.com/learn-by-example-38-saas-startup-pricing-pages-analyzed)  
+If you love looking at data, this article is for you. It is packed with details on how 386 SaaS startups are pricing, from the number of packages they offer to what CTA’s they use to whether they operate on a freemium model.
+
+## Cashing In on the Right Model
+
+**[3 Types of Pricing Strategy (and Why you Need Value Based Pricing)  
+](https://www.priceintelligently.com/blog/value-based-pricing)**All good pricing _should_ start with an overarching strategy. This article embarks on a journey through the three common strategies used to define pricing processes: cost-plus, competitor-based, and value-based. By the end, Patrick Campbell of Price Intelligently comes to the conclusion that value-based pricing is the pricing strategy you should be using in your recurring revenue business. Do you agree?
+
+**[SaaS Pricing Models: How the Right Pricing Will Help You Earn a Fortune  
+](https://kraftblick.com/blog/saas-pricing-models/)**Even with a great product and excellent marketing, the wrong pricing model can discourage potential customers from making a purchase. Since there is no specific answer to the question “Which pricing model is the best?”, this article by Violetta Zavadskaya of Kraftblick breaks down the various types of pricing models and the fundamental building blocks of each. She presents you with several options so you can choose the best one to fit your business.
+
+**[SaaS Pricing Models–Pricing Strategy Examples and Best Practices  
+](http://www.forseti.com.tr/en/article/saas-pricing-models-pricing-strategy-examples-and-best-practices/)**The fundamentals of your business model and pricing structure are important to understand, and that knowledge is exactly what you’ll find in this article written by Yayınlanma Tarihi of Forseti. The article presents an explanation of what Software-as-a-Service is, as well as the benefits it brings in terms of pricing, in comparison to other methods of software delivery (Infrastructure-as-a-Service, Platform-as-a-Service, etc.).
+
+**[The Challenge Of Performance Pricing For SaaS Companies  
+](http://tomtunguz.com/challenge-performance-pricing/)**Pricing based on performance seems like a rational model, but as Tomasz Tunguz of Redpoint Ventures finds, the reality is much different when you dive into the details. Check out this article to see why this type of pricing model may take away a startup’s pricing power.
+
+**[3 Steps to Creating a Smart SaaS Pricing Structure](https://openviewpartners.com/blog/how-to-develop-a-tiered-pricing-structure/)**  
+Is your SaaS business facing a pricing crisis and you don’t even know it? Software pricing expert Jim Geisman shares three tips for developing a tiered pricing structure that clearly communicates the value of your various product options or editions.
+
+## PLG Pricing from Freemium to Product Qualified Leads (PQLs)
+
+[**\[New for 2023\] Your Guide to PLG Pricing 201**](https://openviewpartners.com/blog/your-guide-to-plg-pricing-201/)  
+The guidance on pricing PLG products tends to be surface-level at best. Kyle Poyar at OpenView keeps thinking about the 201 version of PLG pricing: how to build an unstoppable monetization engine around a PLG product. Check out his advice along with real-life examples from Canva, Notion, Figma, and more.
+
+[**\[New for 2023\] Your Guide to Reverse Trials**](https://openviewpartners.com/blog/your-guide-to-reverse-trials/)  
+What’s better for PLG: freemium or free trial? Trick question. Enter the ‘reverse trial’ – popularized by [Elena Verna](https://amplitude.com/blog/reverse-trial). OpenView sat down with Lauryn Isford, Airtable’s Former Head of Growth, about the company’s reverse trial pricing and how it contributes to hypergrowth.
+
+**[Everything You Need to Know About Freemium Pricing](https://openviewpartners.com/blog/freemium-pricing-guide/)**  
+If you’re looking for a curated list of exceptionally helpful resources on the freemium pricing model, this one’s for you.
+
+[**How Product-Led Companies like Expensify & Dropbox Approach Pricing to Grow the Bottom Line**  
+](https://openviewpartners.com/blog/product-led-growth-pricing-strategies/)Product-led companies like Expensify and Dropbox typically strive to get their product into the hands of users as quickly as possible–which often means giving some value away for free. Walk through freemium and free trial approaches and learn how to monetize a free user base.
+
+**[Freemium Model for SaaS–The Good, The Bad, and The In-between  
+](https://www.chargebee.com/blog/saas-freemium-model-advantages-and-disadvantages/)**With the various types of pricing models in SaaS, the freemium model seems to be something of an anomaly. To understand the nuances better, check out this article by Sadhana Balaji of Chargebee.
+
+[**Why Product Qualified Leads Are the Answer to a Failing Freemium Model**](https://openviewpartners.com/blog/product-qualified-leads/)  
+Freemium fell short in B2B. From its ashes rose the Product Qualified Lead (PQL), argues HubSpot executive Christopher O’Donnell. He explains what is a PQL, how to understand the PQL spectrum and how to get started with PQLs.
+
+[**Dropping Freemium: How One Company Killed Its Free Plan and Grew 40%—And You Can, Too**](https://openviewpartners.com/blog/should-you-drop-your-freemium-model/)  
+For many SaaS companies, offering free trials and freemium plans is a no-brainer. But according to one SaaS entrepreneur, going in the opposite direction might actually do more for your bottom line.
+
+[**SaaS Pricing Model: How a 10x Price Increase Led to Happier Customers**](http://sixteenventures.com/10x-price-increase)  
+SaaS strategist Lincoln Murphy describes how one company adjusted their SaaS pricing model by raising prices 10x—and is getting not only a boost in revenue, but happier customers in the process.
+
+[**SaaS Pricing: Our Big Free Plan Mistake**](http://blog.hubstaff.com/saas-pricing-free-plan-mistake/)  
+Read how Hubstaff learned (the hard way) that free is not always good and why charging, even if only a miniscule amount, leads to better customers and more profitable growth.
+
+## Nudging Customers with Behavioral Tactics
+
+[**5 Psychological Studies on Pricing That You Absolutely Must Read**](https://blog.kissmetrics.com/5-psychological-studies/)  
+Pricing is all about the value your customers place on your product. Studies compiled by Gregory Ciotti show how psychology intertwines with value. This article is packed with useful tips and tricks, such as the power of 9 and why context is critical to price-value perception.
+
+[**What Behavioral Economics Can Teach Us About Pricing**](https://openviewpartners.com/blog/behavioral-pricing/)  
+Florian Bauer, principal at the management consulting firm Vocatus, explains why behavioral psychology is so important to take into consideration for pricing and how lessons from psychology can be applied to early stage startups.
+
+**[The Psychology of Pricing: A Gigantic List of Strategies](http://www.nickkolenda.com/psychological-pricing-strategies/)**  
+The all-inclusive guide on every psychological pricing tactic you can think of. This comprehensive, well-organized guide walks through each tactic one-by-one and points the reader to related resources to learn more.
+
+## Tips on Enterprise Pricing
+
+[**Enterprise Pricing Strategy: An Essential Lever of Growth for Expansion-Stage Companies**](https://openviewpartners.com/blog/enterprise-pricing-strategy-an-essential-lever-of-growth-for-expansion-stage-companies/)  
+To counter the unpredictable costs of serving enterprise customers, you need to develop a rational, evolving, and effective pricing structure and licensing model. In this series, Tien Anh Nguyen discusses the importance of optimizing your prices to power growth, developing a long-term view and focusing on value.
+
+[**Big Customers Have Big Demands: 3 Tips for Building Discounts into Your SaaS Pricing Model**](https://openviewpartners.com/blog/saas-pricing-models-enterprise-contracts/)  
+At the enterprise level, discounting SaaS contracts is expected, not optional. SaaS veteran Jason Lemkin explains how, when and why to build discounts into your pricing without harming the bottom line.
+
+[**Startup Tips for Enterprise Software Pricing**](http://onstartups.com/tabid/3339/bid/174/Startup-Tips-for-Enterprise-Software-Pricing.aspx)  
+HubSpot Co-founder and CTO Dharmesh Shah shares his tips and ideas around pricing enterprise software, stressing the importance of bearing the hidden costs of enterprise software sales and leaving yourself a way to adjust your prices over time.
+
+[**Selling SaaS to Enterprises**](http://prezi.com/m-o5zmzgylzr/saas-in-the-enterprise-and-the-need-for-social-selling/)  
+This presentation from Jacco vanderKooij explains why, if you want to effectively sell a SaaS solution in the enterprise, you need to adopt a different methodology.
+
+## Lessons from the Most Successful Companies in the World
+
+**[\[New for 2023\] Scaling Product Management from Series B to IPO: How to Optimize Your Pricing & Packaging](https://openviewpartners.com/blog/scaling-product-management-optimize-your-pricing/)**  
+Scott Williamson – Former Chief Product Officer at GitLab and VP of Product at SendGrid — has led a couple of major bet-the-company pricing changes. He shares his five steps for optimizing pricing and packaging on the way to IPO.
+
+**[Netflix Quietly Perfected Their Pricing. Here’s What You Can Learn.](https://openviewpartners.com/blog/netflix-pricing-strategy/)[  
+](https://openviewpartners.com/blog/netflix-pricing-strategy/)**In 2011, Netflix unveiled a change in pricing that put them in trouble. In 2017, Netflix rolled out another price change, but this time it was a colossal success. Learn how they succeeded the second time around.
+
+**[It’s Price Before Product. Period.  
+](http://firstround.com/review/its-price-before-product-period/)**The wrong price can sink a great product. This article explores various examples and best practices of pricing strategies through the eyes of Madhavan Ramanujam, a board member and partner at consultancy Simon-Kucher & Partners. From Porsche to Microsoft, companies of all sizes should pay particular attention to how they construct and present pricing for their products.
+
+[**Slack is Rewriting the Rulebook on SaaS Pricing: Here’s How**](https://openviewpartners.com/blog/slack-adaptive-saas-pricing/)  
+It’s extremely unusual for a SaaS company to credit a company subscription for reduced use. Slack’s innovative software pricing model has disrupted other long-standing models that have become the norm. Are you ready to shift to the bleeding edge of software pricing?
+
+[**How Apple Screwed Up the Apple Music Pricing Strategy**](http://www.priceintelligently.com/blog/saas-pricing-page-teardown-apple-music-pricing-strategy)  
+While Apple is considered one of the leading innovators for all things tech, the announcement of Apple Music seemed behind the times. Take a look at why Apple’s pricing strategy may be holding them back in the streaming music industry and what you can learn from their mistakes.
+
+_Note: Some of the companies referenced are OV portfolio companies. For a full list, please [see our website](https://openviewpartners.com/portfolio/). Also, OpenView is the source of all the images in this post, unless otherwise specified._
+
+_**Editor’s Note:**_ _This post was originally published in 2016 and is updated on a regular basis, with the most recent update on August 17, 2023._

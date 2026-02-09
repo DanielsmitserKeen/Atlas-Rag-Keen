@@ -1,0 +1,573 @@
+# Austen Allred of Lambda School
+
+Andrew: . Hey there, freedom fighters. My name is Andrew Warner. I’m the founder of Mixergy, where I interview entrepreneurs about how they built their businesses. And I’ve been watching this guy.
+
+Austen: Awesome.
+
+Andrew: You’ve a lot of people who are, who are fans of yours, a lot of people who are riled up by you. And I feel like it’s all intentional.
+
+And it’s part of it’s part of who you are. It’s I would almost call it or you might call it your super power. My right.
+
+Austen: I didn’t even think of it that way, honestly. so a lot of that stems from my Twitter account and honestly, my Twitter account has always just like been something that I pro stuff out on top of mind. So when we started Lambda school and we got into Y Combinator, I think at the time I had like 30,000 followers on Twitter, which is not zero, but it’s not.
+
+You know what it is today. and I was like, okay, I need to be done with Twitter. I need to like focus, but it was kind of like a release I’m going to talk about Lambda school because that’s what I’m thinking about. and actually at one point I posted a poll that was like, are you all sick of hearing me talk about, you know, running this company?
+
+Cause I think you are. And it was like 98% said, no, I was like, okay, well that’s the signal. I guess I’ll just keep talking about. Whatever is top of mind. And often that happens to be Lambda school.
+
+Andrew: They’re fascinated by it. I get it. But I, I also, saw that in a podcast interview with the information years ago, you said that this is what you described as your super power. If there’s one thing I’m good at in life, it’s growing something quickly, building hype for something quickly. And I feel like this is what’s going on here with Lambda school.
+
+We should introduce you by the way, Austin already is the founder of Lambda school. Basically what they do is they teach people how to code first time developers, right? Mostly.
+
+Austen: Almost entirely
+
+Andrew: almost entirely, they don’t have to pay for, schooling until they get a job and get paid enough that they could kick back some of the money to pay Lambda.
+
+If they don’t get a job that pays enough, they never have to pay you. Am I right after how long do they give it up?
+
+Austen: I mean, so after seven, five years of deferral, which means five years of making no payment, the. We use what’s called the income share agreement. It just goes away. So, yeah, if you don’t get hired, you never, we never see a penny.
+
+Andrew: So the thing that I’ve seen a lot of people say is why this is such a good model. Can we apply it to other things? And I read an article where you were thinking of applying it to other things, too, right? You were thinking maybe we start off with development and then take it to where.
+
+Austen: Yeah. I mean, the plan has always been to scale it to basically everything. I mean, think about it. You know, the, the way I like to describe the longterm vision of Lambda school is kind of an economic clearing house. So how many people are, are there out there that could be making more money than they are?
+
+And aren’t aware of that and are stuck in the wrong job for them? basically everybody. Right? so we’re starting with software because a that’s the biggest Delta between what you’re making today and what you could be making tomorrow. and there’s a lot of demand, but, but yeah, the. I mean, we’ve been really close to buying a nursing school.
+
+We’ve been really close to doing other stuff right now. We’re in focus mode. but that stuff tempts me all the time.
+
+Andrew: The idea is somebody who could be a good nurse who doesn’t have enough money to go through nursing school could come to you, learn and then go out, get a job and eventually pay off that’s the model. And you want to apply to different skills. Am I right?
+
+Austen: Yeah. That’s exactly right. I mean, I think at a high level, you want to be able to like, so I, you know, became self-taught software, everything at, and once I got hired, then I was like, Oh, I could, you know, I could have easily paid for a code school or. Paid for college now, but the funny thing about the way it works is you can’t afford it until you have the job, right?
+
+So it never made sense to me that you expect someone who it has a really low salary or really low income too, the risk and hope it works out and take out a bunch of debt. and if you’re hired, it’s no problem. So it’s basically, using finance to shift that to where you don’t make payments, unless you’re making enough money.
+
+And then it’s not an issue.
+
+Andrew: I read this one article where one of your students said, it’s still a lot of, it’s still hard on us because yes, we don’t have to pay for school, but we still have to pay for life. Which means we have to take a full time job while we’re learning how to develop. I have to say that I I’m aware that I’m not sensitive to that pain.
+
+I wonder, I wonder if you’re not sensitive to it. Because you’re a guy who lived in his car. Was it here in San Francisco?
+
+Austen: Is in Palo Alto, but
+
+Andrew: Palo Alto. So you came to the Bay area, you said, I want to do this. I’m going to live in my car. So I’ll pictures of it. Do you take out the backseat so you could lay in the back?
+
+Austen: No, you just folded the backseats down and then lay an air mattress kind of feet at the back of the trunk, had toward like the passenger seat. and if you blow up an air mattress, like halfway, it covers up all the lumpiness and, and it works.
+
+Andrew: What’s the weirdest thing that you experienced when you were in there, but by the way, let me, let me pause for a second. I didn’t even say how I’m making money. My sponsors are. If you’re hiring a developer, you got to go check out top towel.com/mixergy. And if you’re trying to do marketing right online, you need to know about SEM rush.
+
+I’ll let’s convince you later to go to mixergy.com/scm rush. But what Austin what’s one of the weirdest experiences he had there sleeping in your car.
+
+Austen: I mean, I. A couple of nights when I slept on the streets of San Francisco with the homeless people, that was, I mean, I was homeless, but I didn’t have any addiction problems. I had a place to go. Right. that was not true for everybody. I
+
+Andrew: would you place to
+
+Austen: the, why would work out of a place called hacker dojo during the day?
+
+and then I would sleep in the car at night. I would actually pull into a church parking lot, that I. This church I happened to go to that I knew was there were signs that said they would tell you, but I knew they didn’t. So I slept there.
+
+Andrew: So when you say slept with homeless people, you were sleeping in your car, right? It near
+
+Austen: of nights when I was literally on the street,
+
+Andrew: Why you, why, why, why sleep on the streets?
+
+Austen: my car got towed.
+
+Andrew: a picture of that. And so you literally had nothing else. You’re, you’re a likable person. You can just go to somebody and say, can I just stay with you? Listen, my car got towed. I’ll sleep on your couch. I’ll be out in the morning.
+
+Austen: I did sometimes, I did a couple of times, but there wasn’t always really that option. so I, the, one of the nights, actually somebody came and got me at like 4:00 AM. but it’s. Yeah, it’s not always an option. and like, you know, I don’t want to make it sound like I have had no, like, I probably could have gotten a job somewhere.
+
+I probably could have walked into subway and, you know, made sandwiches, but my mind, like, didn’t consider that an option. and so like, I didn’t even think about that as like something that one could do.
+
+Andrew: Because.
+
+Austen: I don’t know. like I was on a
+
+Andrew: beneath your aspiration. Yeah. You’re on a mission
+
+Austen: Potentially. Yeah. to, it was pretty ambiguous. I just wanted to work in software.
+
+I want it to be in Silicon Valley. I wanted to be a part of it. and you know, I, I could have like driven home. I could have gone back to college. I could take out student loans. I had a lot of options. but I, that would’ve felt like failure to me, you know, it would have been giving up.
+
+Andrew: That would have felt like failure being at a subway feels like it would have been devaluing your greatness if I’m understanding your essence. Right. A guy who I read and gig
+
+Austen: I didn’t think about it like that. Like I didn’t, I didn’t like I’m so great that I don’t dare work at subway. Like I’ve,
+
+Andrew: Not about subway. I’m so great that I don’t dare take my eye off of this mission that I came here for. I will sleep on the street. I’m a foodie who will still eat frozen or packaged foods, do everything because there’s some greatness that I’m meant for is my sense from you.
+
+Austen: Yeah, it feels weird saying like, Oh, there’s so much greatness. Like I don’t, I still don’t see it entirely that way, but it would have. It would have felt like giving up. and I think there’s a part of me that I feared that I would have been lulled into the security of the, you know, I’m, it’s not like any of those are like phenomenal jobs that you want to be at forever, but that.
+
+The need to make it work is gone at that point. And now you’re stuck in a rut of, I have this crappy job that I want to get out of, but that’s a different level of kind of commitment and dedication versus I’m going to make it work somehow. I don’t know how.
+
+Andrew: And you haven’t fully yet, but look at how far you’ve come. How many students graduated? How many are in the program now? And how much money have you raised? Let’s go through numbers.
+
+Austen: Let’s see, we’ve got, I don’t even know the number of graduates. It’s a couple thousand, we’ve got 3000 more than a thousand of them are already hired. So you’ve got students that basically every major company in the U S
+
+Andrew: So about 50% gray, 50, if you say you got a couple of thousand graduates and a thousand got hired, we’re talking 50% higher rate.
+
+Austen: well, the number of students kind of goes up into the right. So the number of graduates goes up into the right. So we’re graduating more students this month and we’re enrolled for the first like year. but, but yeah, so over time, it’s basically right now, 72% get hired within six months.
+
+Andrew: 72. Okay. Got it. And then how much money did you guys raise?
+
+Austen: 122 million.
+
+Andrew: Wow. This for a guy who, before we got started, I’m looking for smiles on your face. They’re trying to get a sense of like, I’m constantly reading people and I sense you’re holding back something, but I couldn’t tell what I’m assuming it was a smile. This is all for a guy who told me before we get started.
+
+Listen, I didn’t even know about that. Like tech entrepreneurial startup world for a long time, but you did exhibit entrepreneurship tendencies. Can we say that as a kid? Tell me about some of these businesses that you, that you started as a kid and we’ll get into how you built up
+
+Austen: Oh man. Yeah, I mean going way back. so I was one of the first sellers on eBay. If you remember eBay, like I. I figured out in the early days, like iPods had just barely come out and I wanted an iPod, but there’s no way I could have afforded one. and the way Ebates searched for it is it was a simple title search.
+
+So if you had the keyword in your search and there was a title that matched it, it would bring that up. And it wasn’t very sophisticated. It wasn’t, you know, Google by any stretch. But I figured out that if you search for just iPod, then there’d be like, Oh, there’s 80 million results. You need to enter in more keywords to narrow it down.
+
+but if you are listing a product and you just, is it listed it as iPod, nothing stopped you from doing that. So I had like this three-page search that was like iPod minus case minus 32 gigabytes, minus Y minus, you know, Eliminating all the other results, except for ones that just said iPod, or just said Apple iPod.
+
+And because nobody else saw those because of the way eBay’s fluky search algorithm work, I could buy those for 50 bucks and then I’d sell them. I get it. I would list it with good keywords and sell it for 300, 400. and so there’s a time when I was probably flipping a dozen iPods a week. And I actually got a PayPal credit card, which I don’t think you’re supposed to be able to do because I wasn’t 18 yet.
+
+but I I’ve used my mom’s name to sign up and her like social and everything. And then I switched over to my name and they didn’t have security built in, I mean, this is a wild West days of the internet. so yeah, I had a credit card in my name when I was like 14.
+
+Andrew: What’d you do with the money? I want to get a sense of who you are
+
+Austen: Put it into more iPods,
+
+Andrew: and just get flipping in.
+
+Austen: yeah, it just like got bigger and bigger and bigger. and then when I was about. And I, you know, I just, like, I hang out with my friends on the weekend and then we’d go to burger King and spend five bucks on it, fast food. I’m going to bought a car. actually, no, my parents bought the car and then I used the car and, you know, paid for gas and stuff like that.
+
+And then when I was 17 or 18, I can’t remember how old. but we went to my family, went to New York on vacation. we wanted to go to this musical called wicked that nobody had ever heard of. but it was kind of like Hamilton before Hamilton was Hamilton. If that makes sense. Everybody was
+
+Andrew: I grew up in New York. I remember it being it’s it’s basically the wizard of Oz prequel or something or something related to that was it about as my right.
+
+Austen: the wizard of Oz told through the eyes of the wicked witch. so it flips their story and the wicked, which is good and like, the good witches. They’re not necessarily good, but anyway, so I was like, Hey, I, you know, let’s look on eBay for tickets. Everything is cheaper on eBay and tickets were super expensive.
+
+the cool things about eBay is you could see the completed sales of everything. So you could actually look and see how much stuff sold for and how often. And there’s like an. Archive of all the data of everything never been sold on eBay, you could look it up cause it was a public auction. so I figured out that if you bought tickets, In the right place at the right time and waited for a couple weeks, you could sell them for more, and long story short.
+
+Eventually I convinced my uncle who was wealthy to put in like half a million dollars into buying tickets with me. and we turned it into a multi well. I left to serve an LDS mission. And my brother and my uncle turned it into a multimillion dollar business that was super successful, but I never saw anything of step Topia.
+
+Yeah.
+
+Andrew: And you got nothing from that.
+
+Austen: I mean, I. My uncle was like, Hey, do you want a piece of the equity in the company? Or do you want a job? I’ll pay you 15 bucks an hour. And at the time I was like 15 bucks an hour and I was saving to go on a mission. You need about $10,000 to go on a mission. And I was short. so I was like, yeah, just pay me, pay me the hourly, turns out not a wise decision.
+
+Andrew: How did your uncle get wealthy?
+
+Austen: He started a PEO, which is like a, kind of benefits and payroll consulting company. It really old school guy taught him how to use a computer.
+
+Andrew: you did, was he the guy who was admired in the family because he’d done so well. Was he someone that you looked up to for that?
+
+Austen: I think so. Yeah. I mean, he was always, he was a guy who was always starting and stuff in, you know, 75 of them. 75% of them would be unsuccessful. But, I mean he ended up. selling the company and making, I mean, it was probably single digit millions, but we’re middle class family. And that felt like an unlimited, you know, at the time there’s no difference between a million dollars and a billion dollars.
+
+It was just an infinite amount of money.
+
+Andrew: Okay. So then I’m assuming it’s grass wire that you came to. That you started, I guess, in Provo, Utah. And then you came to Palo Alto and lived in your car to support. Am I right?
+
+Austen: So I actually was living in Palo Alto as I was trying to get that off the ground. Like that was one of the projects that I was working on. and. The longer story is a guy in, who was living in Provo, which is I’m from close to Provo. saw a blog post about me living in my car, you know, trying to make it in Silicon Valley.
+
+And he, he called me up and said, Hey, I used to live in a broom closet when I was getting started. I’d know what it’s like. Know, come talk to me. So we had lunch and then he was like, I love this. I want to fund it. and right as is, he said that the co founder that I was working with decided that he was going to go back.
+
+Yeah. Get a full time job. and so it was. Not, you know, couldn’t get it started then. and that’s when I basically took a, took a random job. I was actually getting married, so he offered to fund it like a week before I got married. I was engaged the whole time I was living in a car. sorry. There’s so many different storylines weaving in and out.
+
+And I was like, okay, we’re going to, I’m going to get funded. We’ll be like this young, starving cup full of trying to start a company. Like that’s pretty normal. and then when my co founder decided to go take a full time job, I was like, okay, I need to like provide for my. You know, family now, took a full time job for almost a year, doing some social media marketing stuff.
+
+and then that company got funded, the grass wire that I’d been working on the whole time.
+
+Andrew: This was stride. I’m assuming where you were, where you were working for a little bit.
+
+Austen: Yep.
+
+Andrew: You were in your car. From what I understand the idea for grass wire happened. Tell me if my memory’s right on this, somehow you were in China. Is that where you did your mission?
+
+Austen: no. So I did my mission in Eastern Ukraine. and then I came back home, did a couple semesters of college and was just bored. So I just moved to China for no particular
+
+Andrew: Oh, okay. And you saw some train crash. You were supposed to be on the train.
+
+Austen: was, yeah, it’s supposed to be on the, but I there’s a in Shanghai, there’s a, I believe it’s a Shanghai train station, a Shanghai North, or Shanghai, South train station. and I didn’t speak any Chinese. so I just showed the taxi driver, like, Hey, take me to the Shanghai train station. And he took me to the wrong one.
+
+and I’m not sure if it was the exact train that I was supposed to be on, but one of the train. So they just. Created like this new Shanghai to Beijing bullet train, and I really wanted to ride it cause it went like 300 miles an hour. And, even though that’s normal in Europe, it’s not normal in the U S so I wanted to write it.
+
+but, but yeah, one of the trains on that track crashed. And so I was trying to figure out what was going on, which led me to like underground Chinese kind of social media chat rooms. Because as you can imagine, the state. Government did not want it to get out that one of their bullet trains had crashed.
+
+and that’s when I was, yeah, I got fascinated by the news by social media and by how they kind of interplayed.
+
+Andrew: And this was you saying, look, why can’t I find this out? It should be available to me. And it kind of is if you know how to hunt through social media to pull something together, you are a little bit inspired by what you’d seen through Arab spring, where people on Twitter were starting to coordinate all the information that was available and make it accessible.
+
+And you said, this is going to be my thing, no history and journalism, except for a couple of classes, I guess that you took on communication, but this was going to be my thing. You raise money from somebody who saw that you were living in your car and said, I believe in a guy who’s willing to do this.
+
+You’ve now had your site up and running. You got media for it, which is helpful for me because I went back and I saw it. You did this blog post years ago on hacker news about why the thing failed. Let me take a moment to pause, talk about my first sponsor. And then I want to understand what happened with that company.
+
+Why guy with so much going for him, why that didn’t work out and how you felt about it. But my first sponsor is a company called SEM rush. Do you know se I’m not sure. A content marketing
+
+Austen: no, I use them all the time.
+
+Andrew: Oh, tell me how you use them. Forget I’ll shut up and I’ll listen to how you use and learn from you.
+
+Austen: I used to do SEO and I’ve used them to attract backlinks and whatever else. I haven’t done that in awhile. I’m sure.
+
+Andrew: do with the backlinks?
+
+Austen: I, well you said like work in SEO. So I would, you know, see how many people were linking to a site, try to determine what it would take to overcome them in the Google SERPs kind of thing.
+
+Andrew: Meaning like who else can I get those people who are linking to the other people to link to me? And
+
+Austen: Yeah. So the way, the way Google basically works is it looks at of the people who are linking to your site. How authoritative are they, how authoritative is your site. and it basically uses that to decide who wins the number one ranking for a specific keyword. So SCM rush is the way that you. You kind of look at how many people are searching for a specific topic or specific keyword and how authoritative all of those pages on Google are so that you can kind of try to compete with them.
+
+Yeah.
+
+Andrew: For anyone who wants to go try this for themselves? I feel like every guest that I’ve interviewed has been using SEM rush. If you’re out there and you haven’t yet used it, I’m gonna let you try it for free. If you go to mixergy.com/sem rush, they will give you the software for free. For a limited time, you can go try it out.
+
+Use it a hundred percent. If you’re happy with it, keep it and keep paying. If you’re not happy with the candidate. Even if you are happy and you decide, you want to cancel, cancel, you have nothing to lose this. we actually had so many people use this URL and the discount code associated with it that it crashed right now.
+
+Austin, if you said, you know what? I like a deal. Let’s go get it. It’s not going to work. But by the time this interview is up, it will be back up. I have confidence. We’ve reached out to SEO and Russia, and we said, we need more of these codes. So if you’re listening to me, go use it before it runs out.
+
+It’s at mixergy.com/s E M rush. Am I X ERG? Y. Dot com slash SEM rush. What happened with the business? You had this idea, you finally had a killer idea. You’re willing to work for it.
+
+Austen: Yeah. I mean, so there are different ways to analyze it. I’ve analyzed it different ways with a therapist. but basically we were, you know, at the time it’s hard to remember, but like, Twitter news was starting to work for the first time. Like it was the first time you would reliably go to, to not a news website to figure out what was going on.
+
+And this, this just, you know, the time of think the Paris shootings. Right. so all the news organizations will send their people out, trying to figure out what’s going on at the same time. Everybody on social is going out, trying to figure out what’s going on. so we created a platform that basically helps you, you know, It helps everybody organize and crowdsource and figure out what’s going on before the news companies.
+
+and we were way faster and I would argue often times more accurate because there are just thousands and thousands of people doing all the work, as opposed to one journalist who’s making, you know, making a salary, trying to figure it out. so that was going pretty well. we had in the realm of half a million users, which isn’t like. It’s not a lot in the news game, right? You need so much traffic and so many users to have a viable business and we weren’t there. but we also, you know, a year old. So it wasn’t surprising that was a nontrivial number of users to have for such a short time. But we also had no idea how we would get to revenue.
+
+and so there, there are a couple of ways to describe what happened. Next one is that, you know, there’s a media billionaire, who’s a household name, that I don’t talk about because I don’t want to get sued. and he sues everybody who talks bad about him. he’s going to lead our series a, we had all the docs done.
+
+We had everything ready to go. And then he called me up and said, I’m not going to send the wire. I decided I changed my mind. and so we had, we only had seven employees, but it was like December 22nd or 23rd. And that was, that was it. That was the end of the company. so that sucks. but then, you know, another way to think of it is like, if you only had that one guy who’s willing to fund the company, Y and what else is broken, you know, A revenue model was not super intact and we didn’t have a clear path or plan to that.
+
+so, you know, I talked to a bunch of UCS, but none of them wanted to fund that we’ve to be fairly, probably could have raised from somebody else, but we were like so far down the path with this guy that we’d started saying, telling everybody else, Hey, we’re going to work with this guy. And then when that guy decides to bail, it doesn’t look good.
+
+but yeah, that sucked. It sucked a lot.
+
+Andrew: Tell me about therapy around it. What happened?
+
+Austen: So I to this day have like a serious, so it was bad. my daughter was in the hospital at the time. She was just barely, well, no, she’s out of the hospital by the time it fell apart, but she was in the hospital. She was born when we started working on this deal and she was in the hospital for a long time.
+
+So she had a lot of complications and basically drained all of our savings. we didn’t have. We had like the worst health insurance you can imagine. Cause we were trying to get the company off the ground. and yeah, we had, we had to lay everybody off. I no longer had a job and I was super, super desperate and it’s super sucked.
+
+So that like, to this day, one of the things I’ll talk with a therapist or coach about, is I’m terrified of failure. Like, like I. Don’t want company to fail because going back to working a job after doing that, and it was just super painful for me, and for my family. and when it comes to fundraising, everybody who I fundraise from will tell you, I’m just terrified until the wire hits.
+
+I actually don’t believe the person on the other side is actually going to invest because that happened to me. so. Yeah. The last fundraise we did was more complicated cause it was bigger and it took longer and it’s yeah, it doesn’t, I’m not in a good mental state when that’s going on, but you do what you have to do.
+
+Andrew: When you say it was painful for your family, why? Because you were worried you’d go back to your car or what were you putting your family through because of this? Were you worried that your daughter was going to be more sick because you couldn’t provide.
+
+Austen: No, my wife had. I had quit her job and we were living in the middle of nowhere near her family. whether it wasn’t like there wasn’t another job, it was like, I could have gone and worked on her dad’s farm or something, but that was like, I mean, it was small town. so there was that, like in, I mean, we had zero savings basically, and now we’re saying.
+
+We don’t have a job and trying to figure it out. And that’s terrifying. I remember, like I remember driving past like a golf course and seeing a guy like picking up the golf balls and being like, I wonder if I could do that. Like, do I have enough half ability? So the thing about being a CEO of a startup that fails is.
+
+As a CEO of a startup, you have one job and that is to not let the company fail. and so when the company fails, like, you know what else? And I had, you know, I had an investor who is. do I want to tell that story? I had an investor tell me after it failed, it was like one of his first big investments.
+
+And he’s like the guy that I looked up to cause he’s the first guy, well, one of the first people to put money into the company and he was rich and you know, he was like the wealthiest person I knew. and he was like, yeah, I don’t think you’re ever gonna make what you were making, running this company again.
+
+It’s select don’t you know, like you don’t have any skills, you don’t have anything that you can do. You don’t have a degree, you know?
+
+Andrew: Meaning, he, he, doesn’t not only does he feel that he’s lost, but he just doesn’t believe in you anymore. And he’s telling you, there’s nothing left in you.
+
+Austen: Yeah. I mean, when, when things turned basically, I mean, there are a couple of people who would still like, you know, stand by and support me, but like everybody. Turned, you know, everybody says, Oh, it’s, it’s your fault that the company failed and you suck and they’re right. That’s the, that’s the crappy thing about it is like, everybody’s like Austin, you made this company fail and they’re a hundred percent right.
+
+It’s on me.
+
+Andrew: I have theory about why you made the company fail. First of all, I feel like you’re being hard on yourself and maybe that’s a good thing. It seems like it fires you up today. I have a sense that you’re a guy who understood making money. You understood the basics of it from the time you were a kid.
+
+But there’s something about being in San Francisco that makes people, or in the Bay area that makes people believe that’s not the way things were. I should just come up with this new thing that changes the news business. The money will come later on. I don’t have to think about it. What I have to think about is the next round, the next piece of a media hit on giggle, home or tech crunch or something.
+
+Am I right? Or am I just as I am I just looking at it from a distance and projecting.
+
+Austen: No, I think you’re right. I mean, it was, and to be fair with that business, there, wasn’t a clear way to like, you know, get to break even or anything like that. it was, yeah. You
+
+Andrew: That’s what I mean, like in your mentality, that’s not how you
+
+Austen: or nothing somehow.
+
+Andrew: That’s not how you work. I’m looking at your brain. He don’t function that way. It seems.
+
+Austen: it’s funny because after that I was like, so I went and I, I got a job in Silicon Valley and I was getting paid fine. which was a big release. I mean, I, yeah, I had like 10 job offers within three weeks, but I did it. I was like surprised and felt unworthy of all of them. And like, as soon as I joined, I was just like waiting for them to figure out that I was a fraud and fire me.
+
+Like I was not in a good space mentally. and then I I’d written a bunch of blog posts along the way on some gross stuff. and I had, you know, a few thousand subscribers to a blog and I was ended up in like $10,000 of debt, which I. At the time, like hated the idea of debt was determined to never get into debt.
+
+So that $10,000 of debt that I went in, like, as we wound the company down was like, it hung over my head every day. I would just go into where I’m going to be thinking about this $10,000 of debt. And it sounds crazy now, but it felt like a million dollars, you know? So I was like, okay, I’m going to. Take the blog post that I’ve written, I’m going to write, you know, 10 more blog posts.
+
+I’m going to turn it into a book. and see if I can, you know, by the time might work it down to whereas like $5,000 in debt. And I remember telling him my wife, like if I can make $5,000 using everything I know from this book, then like we’ll be out of debt and we’ll be off to the races and life will be good again, you know?
+
+And my wife was always like, no, don’t worry about it. It’s fine. Like we’re, you know, we’re. Paying off a couple thousand dollars a month. It’s going to be gone in like six months. But to me it felt like just so much, together with another guy and said, Hey, help me, you know, promote this book. And I’ll say that you co-wrote it.
+
+And you can write a little piece of it. And we put together a Kickstarter for selling this book that didn’t exist yet. And on the first day we did like $65,000 on a Kickstarter. and that is when something flipped in my mind that like, Yeah, I went to lunch and I came back from lunch and I’d made $5,000.
+
+That’s when it was like, Oh wait, I, I can do this. Like, I know, I know how to do this. And the hard thing about having worked in news for so long was that everything was just like, I needed to get numbers so that I can go raise, but it wasn’t tied to real dollars at any point. And that was the first time in a long time when like, Oh, the thing that I can do is actually like, you can convert.
+
+Goods and services to money if people want them. and so that, like, I remember just thinking, I mean, I look back now and I’m like, Oh my gosh, there are 50 things I could have done to make so much money, but I didn’t, I didn’t think that way at the time, I was like, surprised that selling a book could make money, even though obviously it can.
+
+Andrew: How’d you bring so much, I’m looking at a medium post that you did where you said. 24 hours. I think you said we got $16,000. I can use it to pay off my back taxes. What did you do to get it to do so well, so fast?
+
+Austen: I mean, every trick in the, growth universe, like it was, so, let’s see. We, so we had like a referral sign up program thing where you could get the book for half off if you referred enough people. and in the top 10 people got the whole thing for free. I. Started writing tutorials on every little thing and posting them everywhere.
+
+So we were at the top of like the entrepreneur subreddit and that startup subreddit and, a couple of the articles had the top of hacker news. Like it was actually really good content. Like it was really like, Yeah, I’ve been thinking about this stuff for 15 years. I knew how to do it pretty well and tried to break it down step by step.
+
+it still sells know I sold $12,000 worth of it last month. So it’s still around and making money. Yeah, it’s good. but yeah, so, you know, and I had built up a huge email list, emailed everybody, started. Yeah, just. Everything that you can do. That’s free joining Facebook groups and posting to Facebook groups about,
+
+Andrew: Under your name or different names.
+
+Austen: my name.
+
+Yeah.
+
+Andrew: Okay. Did, your coauthor, this was VIN Clancy. Who co-wrote it with you or Cole or sold it with you? Did he help out, was it part of his marketing ability that did it.
+
+Austen: he would go. So he was like a baby speaker on growth. And so he would have a new event every night. and he would, he had like an agency, but he would kind of shell when he was doing that. but you know, his agency was a big, like you had to pay him $10,000 a month for him to even talk to you.
+
+So I was like, Hey, well, you’re going around. You know? And he would, every time he would get, you know, say, Hey, I’m going to teach people how to. Growth hack and he’d have, you know, 200 people lined up at the door ready to do it. And so, you know, him having a book that he could sell to help people kind of get started was both good lead gene for him, and a way to convert people that weren’t going to spend $10,000 with him.
+
+So he’d be going around doing these free events and selling books there I’d be promoting it online and it worked really well.
+
+Andrew: All right. I want to come back and talk about Lambda school and then also be open with you about a time that I was hungry, not hungry. I was, I was angry or hurt. I was hurt by you. And I was like, I’ll come back to it in a second. First, my second sponsor is a company called top tower. Do you know top-down Austin?
+
+You do. What do you know about top tail? You’re a guy who’s in the developer space. You’re creating developers will hopefully eventually be in the top town network among other places. What do you know about top town?
+
+Austen: Yeah. So the way I think of tactile, they’re like super exclusive. So they try to take like the top one to 3%, of kind of international freelance developers. So you can go to a random site and try to find a developer on your own. But top towel does a lot of this screening for you.
+
+Andrew: That’s it. If you’re out there and you’re looking to hire developers, go to the best of the best. In fact, forget hiring from top down, just have a conversation with them. You’ll talk to a match and you’ll tell them what you’re looking for. If they have the right fit for you, they’ll introduce you. You can talk to one or two people that they handpicked for you.
+
+And if you like them, you can often hire the right person and get started within days. Many of the people who I’ve listed, who I’ve interviewed here have said that they’ve hired from top Cal. You should go and at least have a conversation with them. If you’re hiring developers, that’s top isn’t top of your head, T O P T a l.com.
+
+Oh, I didn’t even say toss and why they should use my URL. If you do, you’re going to get 80 hours of developer credit when you pay for your first 80 hours, in addition to a no risk trial period. So now you know why you should use my URL. Top tao.com/mixergy top tal.com/mix E R G Y. So there was this whole thing going on about how Lambda school is not really aligned with its students.
+
+It doesn’t make money. Only when students make money, Lambdas cool. Then takes the debt that the students have to it. And then it sells it to a finance person who then sells it to other people. And they’re hiding that. They’re also fudging the numbers of people who actually get jobs. And they’re also overly pushing.
+
+Anyway, you can pick no news story. I said, Austin, will you do an interview with me? You said, sure. Let’s do it. Then your media people got ahold of me and said, Austin’s not doing anything. I said, fuck it. I’m fine. I’m not living or dying by interview. And then I listened to, to Jason Calacanis and you’re on Jason that combined with the competency conversation that you and I had with David Heinemeier, Hansson where he was going to do a debate with you about the value of raising money.
+
+You are going to be pro fundraising was going to be against. And then at the last minute he’d said, I’m not dealing with this guy because Austin. Did this post on hacker news, where he had an army of Twitter bots. And the combination in my head made me feel Austin is so freaking hungry. He will burn anybody.
+
+Any thing, just take whatever it takes. If Jason Calacanis says. Like the right investor with the right audience or whatever, he’s going to say yes to him. And he says yes to Andrew, but it doesn’t pay off. We’re going to dump out of Andrew. If it makes sense to have a Twitter army, I’m going to do it.
+
+Twitter army is Austin’s thinking if it makes sense to do this thing, I’m going to do you do whatever it takes because you’ve got like this thing that I admired, but it was also really dangerous is that you and my summing you up through my hurt feelings properly or not.
+
+Austen: no, I think I’m, I am determined, but it’s definitely not like I will, you know, raise everything to the ground in order to be successful. I think, I mean, so. So the DHH thing, I was ready to like, honestly, I was like at home, I think that was over like Christmas break or something. I remember not working and spending way too much time on Twitter.
+
+And like Paul Graham emailing me being like, dude, stop arguing with DHH on Twitter. What the hell are you doing? But I was just like mad. and I was ready to do that interview. He was the one that
+
+Andrew: No, he backed out because he saw this old internet archive thing that you posted.
+
+Austen: he says. I don’t think that’s why he actually backed out, but sure. Let’s give him the benefit of the doubt and say, that’s why I was ready to chat with the HH. He, he does that all the time.
+
+Andrew: But you’re ready to chat with them about this. Not because it directly helps your students understand how they could become better programmers, but it’s because you are someone who says this is good media, attention developers, and future developers are following DHH. I could get a little bit of lift for my brand and for my company, by battling with him on this issue of fundraising enough fundraiser, which frankly had been argued with him for 10 years.
+
+He’s never changing his mind.
+
+Austen: Yeah. I mean, I like. I definitely intentionally get media. Like I know if I can talk about Lambda school and people will listen, I’ll do it in any venue. but that one, like, I, I was legitimately mad at DHH.
+
+Andrew: I don’t believe that you’re faking it. Like, I think you, at one point said to him, something that made him, that you were dubious of why he was picking a fight with Apple, just as he launched his email software. Hey. And he said, you think I’m faking this? I think you both are genuinely angry about the things you’re angry about.
+
+You’re just heightening it and knowing that you don’t have to suppress it because it’s good. It’s good for attention. The thing that I’m, I’m trying to get at is. Is it like you were at a point where you say, listen, I failed already. I don’t have many chances. I’ve raised tens of millions over a hundred years.
+
+I can’t fail again. I will battle anyone. I don’t mind hurting Andrew’s feelings. I don’t mind hurting anybody’s feelings here. We’re going to make this work. And if it means, yes, we pay $13 an hour to get somebody to teach our people. And then we, you know, sell it for more. Fine. This is the market we’re here.
+
+We’re not going to wait until we make it. And then I’ll be a nice guy afterwards, which I’m not listen as an interview. I’m not here to say that’s wrong. I’m seeing your smile. And it’s like, yeah, there’s a little recognition in what Andrew is saying
+
+Austen: No, I it’s like the narrative that you just painted in 30 seconds was just like, wow. so in order, a, I said, I said no to you because of the specific time when you reached out, like I wanted to say yes. And my media team
+
+Andrew: No, you did say yes. And then you, and then you said, no, you said we’re not doing any media. And then I listened to Jason, like suddenly the guy’s on Jason now.
+
+Austen: Yeah. so Jason, I did, I got in trouble for doing Jason. so I just said yes to everybody and then they, they vetoed one and they didn’t have time to be totally other, I didn’t tell anybody that I was doing Jason actually. And I definitely got in trouble for, then let’s see. So pay $13 an hour.
+
+We, we pay our instructors like 150 K a year. And then for every eight students, we have an additional TA that we pay another $13 an hour on top of that. So the students freaking love that program because it’s a way for them to keep making money while they’re studying. we’re actually cutting some of it back to hire more instructors or shifting some of the budget from TA’s to instructors and students don’t like that, honestly.
+
+so yeah, we spend a fortune on every student. We’re certainly not like we’re our cost per student is well North of $10,000, like way higher than anybody else. So the, the notion that we’re just like trying to scam people is like
+
+Andrew: Yeah, I don’t mean to, I don’t mean to do that though, since we’re getting into it. It does seem like in the early days that. The curriculum wasn’t wasn’t that strong, the model was really strong. Don’t pay us until you get job. From what I saw there was the Virgin did a really good article on it, where they hired somebody.
+
+I’ve got it in my notes, but I’m not, I won’t pause to go look for it. They hired someone to go analyze a curriculum to analyze the get hub assignments that people. Submitted to, and then they found mistakes and they said, how did these people grow? Great. My sense was you found a good model. You’re going to go as quickly as you could.
+
+This, the curriculum was good, but wasn’t strong and you were getting stopped and with what you could and you were going to improve later on. Am I right?
+
+Austen: The verge did not hire somebody to look at our content. They found a guy who was constantly railing about Lambda school on Twitter, and they asked him why he thought he has never actually seen the curriculum. In fact, I. Tweeted. And I got in trouble for this one too. Like if he was talking about iOS curriculum and how it wasn’t very good.
+
+And I said, I will give $10,000 to, I can’t remember what the dollar amount was to anybody who can, he said, you know, the content in our curriculum won’t get used through an entry level interview at Apple, like R. Our team literally built the everyone can code program at Apple. We have the best iOS program I’ve ever seen.
+
+And so I said, I’ll pay you. I can’t remember. I’ll pay you a thousand dollars. If anybody can find a single topic that you would experience in a, in an interview for an iOS developer, that isn’t sound there. And he said, Oh, well, you don’t talk about memory management. Like we talk about memory management all over the place.
+
+There isn’t a section titled memory management, but like, Super super deep in the curriculum all over the place. So yeah, that one, I think is just BS.
+
+Andrew: Alright, let’s under, I don’t want, now I’m getting into a point where I’m getting into what feels like me confronting you it’s stuff, which is never my intention. But I do have these thoughts that go in my head and I have to ask, I have to bring it out. Let’s go back to a more basic thought. What did the, what did the idea come from for Lambda school?
+
+Austen: Yeah. So, you know, after the book, I was like, this is really cool. You can like, cause I, you know, I’d get emails all the time from someone being like, Hey, you know, I use this book and I, my company works now or I use the book and I got a job that was really rewarding. So the idea of like helping people and getting paid for it was super cool.
+
+so I went to the, you know, The co founder of grass fire. they had failed. I said, Hey, let’s teach a course on programming. I’m really good at selling courses. and he was in love with a random programming language. That’s really small that uses the Lambda calculus called Haskell, which is where we got the Lambda school name from.
+
+And we said, let’s put together a course on Haskell. And so we put together, you know, Really quick course, put it on Kickstarter. So, you know, I would probably made $10,000 from it. So it wasn’t a big win, for, Oh yeah, it was, it was a win. Right. but it was like, okay, clearly Haskell is like a really niche market and, you know, we can help people get hired in Haskell.
+
+He, he really loves the tech and he just wanted to talk about tech and I love. Helping people advance their lives and careers. As I was like, really, we should just do something from like first principles of, you know, help people become software engineers in the first place. and so we started teaching free courses there, and then we had a bunch of people saying, if you want to take us all the way to higher, we’ll pay you $10,000.
+
+You know, this is better than a code boot camp. We’ve just been thinking about the curriculum and the instructional design and all that stuff. so we started doing that and then. so we were just every other three months long, $10,000 upfront code school. That’s what we were
+
+Andrew: Just like, yeah, there are, there are a bunch of code schools and this was 2016, I think when you did the Kickstarter campaign, right. Somewhere around there. And so there were. Yeah. And this was, I remember I started doing interviews with that with, entrepreneurs here on Mixergy who were doing it because the numbers, the profits were just phenomenal.
+
+Right. What’s the one that, I think the base camp guys backed one, I think it’s called, forget starter league, I think. Anyway. So you were, you saw the potential there. You offered free lessons with an upsell to 10,000. Am I reading it right? Okay. All right. And then take me to the transition to free until you get paid or
+
+Austen: Yeah, so we, yeah, so it was just me and my co founder at the time. And so if we have 15 people in a class or 20 people in the class, it costs the same. And so in one of them, I was like, Hey, let’s, you know, let’s see if there are anybody, if there’s anybody who wants to do like a thousand dollars upfront and then they’ll pay us the rest after they get a job.
+
+and so we had an email list of a few thousand people and, you know, we’d send out an email. Kind of advertising what we’re doing and we’d always get like an application or two when we did that. And I was like, okay, let’s do like a thousand dollars up front. And then another 15,000 after you get hired or something like that.
+
+I don’t remember the exact terms, but we sent that out. And then all of a sudden there were like, 200 people. They were like, okay, I’m in. We’re like, Oh, well we can’t do 200 of you, but like, that’s interesting. Right? Cause, if you de-risked it for students, apparently there’s way more demand. and then in our second cohort, which we were starting three months later, I said, you know what, if you know, we’ve got a few people who are paying up front, let’s do it.
+
+Right. We need another three months to build out the computer science curriculum. So we’re going to be, you know, We’re leaving the realm of code boot camps, and doing this different thing. And what, if, you know, you could pay $20,000 up front or what if it were free up front? Like how could we make that work?
+
+and you know, did a bunch of research, created this thing called the income share agreement or ISA, which now, you know, is what we’re well known for, but we have no idea if it would work or, you know, how, what the adoption would be. And we had like, thousands of people apply for it when we announced it.
+
+Which is great, except you still have to get everybody hired before you get paid. and that’s yeah. Then we decided to raise and as we’ve been running ever since.
+
+Andrew: Let me pause for a second. I remember when I asked Paul Graham here in an interview, what do you think I should focus on as an interviewer? He said, everyone’s going to talk about the news. It’s not, it’s interesting, even though it gets more eyeballs, essentially, I think I’m quoting, expressing his thoughts, right?
+
+He said, Focus on those moments that changed everything, those decisions and how it happened. Like with Google, he said, don’t focus on what’s happening with China. Now, focus on, when did they, when did they decide they were going to create their own servers? And how did that go? So let me take a second. Come back to when you had the thought that we’re going to charge a thousand upfront and the rest later was for what?
+
+Because you weren’t getting enough people in because you are experimenting what, what’s the mindset that you are in.
+
+Austen: It was really like our marginal cost of adding another student is zero. So might as well get something from it while we’re bootstrapping was honestly it. and like, we were always talking to students every day. It’d be like, Hey, you know, and it seems to be like, Oh, maybe I can put it on a credit card.
+
+Like, how can I get $10,000? I don’t often I don’t have good credit. I don’t want to take out a loan. I was like, this is. This is really hard. And I got it made me really uncomfortable to know that, you know, a student, I wouldn’t ever recommend that a student put $10,000 on a credit card, but I didn’t. Yeah.
+
+All I saw was where the payments were coming from. I didn’t know, deeply their financial history. So it terrified me that a student might pay $10,000 on a credit card. Right. and so we were just constantly doing battle with the like, you know, Once I’m hired. It’s not going to be a problem, but right now I don’t have the cash to pay for it.
+
+so as, and you know, the company that I worked at before I started, it was a lending company. So I was always thinking about risk and return and reward. And it’s like, there’s gotta be a financial solution that fits in there. I don’t know what it
+
+Andrew: You’re telling me this job that you took and you took while feeling like a loser that you did feeling like a failure is the thing that ended up getting you to the idea of ISA that changed online education that made Lambda school,
+
+Austen: Yeah. I mean, you only connect that looking backwards, right? What I wanted to do at the time is from going from journal where you’re like five steps removed from dollars changing hands. I want it to be like as close to money as I could get. So I went on this kick where I studied finance, like crazy. I studied lending like crazy.
+
+I studied how money works. In, in serious steps and from first principles. And, so I’d spend all of our, all my time with the captain little markets team at the lending company, figuring out, you know, how they raise money, how they finance loans, how you priced it out, all that stuff. so I, so when I saw students saying like, Hey, I have a problem.
+
+I don’t have enough money. You know, my first thought was, Oh, why I know all about lending. I know how to get people loans. Like that’s not the product that makes sense in that environment. Right. the product like, well, students, students were happy to pay. What they didn’t want was the risk of being in debt if it doesn’t work out.
+
+and so covering that downside risk with basically our money is what made everything work.
+
+Andrew: And why do you think the Paul Graham, the founder of Y Combinator takes such a special interest in you?
+
+Austen: I, that’s a really good question. I’ve actually only met him in person once we email and tweet all the time. but I think a lot of it is he was able to watch as the company grew and developed on Twitter. and then. Yeah. The, the way I met Paul originally was, Tommy Collison. Who’s the brother of the founders of Stripe, was kind of trying to figure out what was next in his life.
+
+And he was an Atlanta school student. and he was talking to Paul at lunch. I was like, Hey, I need to fail. I need to go, you know, to class. And Paul’s like, Oh, what are you doing? He’s like, Oh, I’m learning to program. And Paul was like, ah, just like, you know, Skip it, you don’t need to learn how to, you know, you’re a, colicin surely you can like do it at super speed.
+
+And Tom was like, no, it’s really, really hard. And Paul’s like interesting programming class. That’s hard even for a Collison. and Tom was like, no, it’s the hardest thing I’ve ever done and kind of explained it to Paul. so I’d never even met Paul when we were NYC. he was in London for that entire batch.
+
+And so he reached out to me and was kind of like, what are you guys doing? This is super interesting. I’ve been, I’ve been waiting for years for somebody to like. You know, take on universities and there hasn’t been a feasible path to that. Cause I think the reason for that is everybody starts from university and says, how can I recreate a university, but slightly better?
+
+And we weren’t approaching it from that at all.
+
+Andrew: Right. And then you always end up with the, what do you do about liberal arts? There’s no, there’s no way to justify it if you’re, if you’re redoing it, but starting, I get it. The problem is you start up there and then we all end up with, Ah, what’s the word for it? A type of school. It just teaches you this one skill, like
+
+Austen: a trade school.
+
+Andrew: trade school, right?
+
+And then the trade school is.
+
+Austen: what I think we need in the United States right now.
+
+Andrew: trade school. So what you’re thinking of is I saw it, it was in the verge where you, where you said cyber, or they said cyber security and nursing. You’re thinking there are a bunch of other places that you could take this. I’m looking at nursing through your eyes.
+
+And it makes sense. There aren’t enough nurses apparently until COVID, it was hard for a nurse from California to go work in New York or vice versa, even though they were taking the same test, you know this right. They still had to retake it in order to move to a different state. And I remember when our son was born, I talked a lot of the nurses they are from out of state because there aren’t enough nurses here and they get to move around.
+
+When you talk about this publicly, are you saying, okay, somebody else could just take that idea. That seems like a no brainer. It’s much easier
+
+Austen: Somebody should. Yeah. I mean that, the hard part about income share agreements is making it work. Like it’s really easy to say it’s free until you’re hired. It’s really difficult to make that work. You have to think about admissions differently. You have to think about the course itself differently. You have to think about placement and repayment and finance, from first principles, really, like one of the things that.
+
+You know, so as you mentioned, we get criticized for quote unquote, selling the ISA. Like what do people expect they expect to, like, you can’t run it a company like this on surely venture capital. You can’t fund a student’s education with VC and then wait for four years for the money to return, because that’s what it actually is.
+
+Right. You so, so yeah, we absolutely work with financing partners. We still don’t make money. Unless you get hired. We get a fraction of what it costs us to train a student as an advance. And then we pay interest on that to the person who’s giving us a loan. Like that’s not crazy at all. Like, in fact, it’s the way you should do it.
+
+And if someone’s not doing that, you should run and hide. but yeah, like w there are a lot of, there’s a lot of surface area that you have to cover to make it work.
+
+Andrew: And then I know that you learned a little bit of bit on your own when you got obsessed and you got into finance and you said, I want to get as close to it. My understanding, right. As close to the money as possible, because I made a mistake before, you’re nodding. So, I always say you’re nodding because when I go back to the transcript, I say, Andrew, did the person just respond?
+
+Or do you just assume it though? You’re nodding. Then I look at the transcript and I realized they did not. They agreed with it.
+
+Austen: Accurate confirmed.
+
+Andrew: But didn’t you didn’t you bring somebody on to help you with this, to do this? I could have sworn that I read an article where you, where you brought somebody in to help out now a CFO.
+
+No, this was
+
+Austen: I mean, we have a VP finance now, but we were, yeah, we were, we had ISS and we were financing ISA. As long before any of that,
+
+Andrew: All right.
+
+Austen: we had Trevor who’s our chief of staff. Now he
+
+Andrew: dude, way to go get them fricking Trevor. He’s the one who I yelled at. When I, when I said, how did, how did Austin leave? And you should not trust Austin because Austin is just going to kill anyone in order to get where he needs to go.
+
+Austen: No, it’s a, Trevor’s a longtime friend. and he had started in sold company. And then we, I was like, were we actually had kind of preemptive offers for our, you know, $14 million fundraise. but I had been the one, like doing all of the books, so we had no. Anything. and I was like, dude, Trevor, like help me out tonight, help me put together a financial model because I have these Google sheets that I’ve been doing stuff on, but it’s nowhere near the level of sophistication that it should be to have raised, you know, almost $30 million.
+
+So help me do this. And he stayed up overnight and we sent it over to the investors and that’s how we raised our second round.
+
+Andrew: Trevor is Trevor McKendrick. I remember interviewing him. And one thing that stood out for me was he made money with an iPhone app for a Bible, but he is. He is, he just doesn’t believe in God. Right? yeah. I didn’t want to get the phrasing wrong, but he is an atheist. You do believe in God. Do you?
+
+Austen: I do. Yeah. Trevor is an ex-Mormon and I am a Mormon.
+
+Andrew: I didn’t realize he was an ex-Mormon. When you believe in God, what do you believe God, in relation to business, what do you believe God has in mind for you for business? What do you, what’s the connection to work
+
+Austen: Yeah. So I think Mormonism views it perhaps differently than other religions, but, but basically. the, the crux of Mormonism is that God once was a man who learned how to improve and perfect himself and over time became perfected. And that’s what we know as God. and so similarly, we actually believe that humans today can do the same path.
+
+A lot of it’s going to be after death or whatever, but
+
+Andrew: Can or will.
+
+Austen: can, yeah, there’s no necessity to do it, but. Basically what makes God is him having perfected himself and that we should try to perfect ourselves the same way. so success in business to a Mormon is just, this is just success. It’s good.
+
+It’s a good thing.
+
+Andrew: is it like, do you personally Aston believe that God wants you to succeed, that you need to succeed for God? Do you believe that God is rooting for you looking out for. For you, or do you believe that you’re meant to be like, God and you have to go for perfection and work hard and be there all the time.
+
+I don’t want to force it, but I’m trying to understand. Tell me what’s the power there.
+
+Austen: So, I mean, I do believe that I am in the position that I am in because there is something that I’m supposed to be doing. so I believe, I believe that. And whether you believe this or not, I guess it doesn’t super duper matter. Like. I believe that I am supposed to be starting Lambda school to help people increase their incomes.
+
+And that God is aware of me doing that. And approves of me doing that and has in many instances prepared the way for that to happen.
+
+Andrew: And if you don’t do that, if today you were to just sit and just scroll through. I don’t know what tick talk do you believe? God would say, come on Austin. I gave you so much, I’m expecting so much. And that would be a disappointment to God.
+
+Austen: Yes.
+
+Andrew: It is okay. And that’s what fires you up?
+
+Austen: yeah. I mean, that’s not like, I’m sure I disappoint God in a lot of ways. Right. So it wouldn’t be unique,
+
+Andrew: turned out a freaking Mixergy interview. It’s c’mon you know, he was, he was upset.
+
+Austen: but, but yes, I do believe that I, I believe that God. Knows who I am. And I believe that God cares about what I do and is trying to guide me to do something.
+
+Andrew: of that, you put into what type of hours, what type of work? This is another thing when I was hunting down, David Heinemeier Hansson tweet about you. I came across one where he, where he almost was mocking you for working too hard or for, for being connected with that. Do you work hard?
+
+What hours do you keep? Because this fire that you have.
+
+Austen: Yeah, it really depends. so when I lived in the Bay area, I would go to work at 4:00 AM. and I would work for a little bit. I go to the gym and the financial district and I’d go home around six or seven. so I spent a few hours a night with my family. Now I actually spend more time with my family than I did when we were in the Bay area and I don’t have a commute.
+
+Well, yeah, an average I’d say, I mean, I always say I basically work a nine to five, then my wife says, no, you do not. You’re always at work like way later on an average 10 or 11 hours a day. Like that’s a lot, but it’s not like a hundred hour weeks or anything, you know,
+
+Andrew: It’s, it’s not crazy. You work on weekends too. Not Sunday. I saw that there
+
+Austen: I don’t work on Sunday. No,
+
+Andrew: that was crazy. I saw people arguing with you about something. It was really turning bad for you. And you came back and said, I think you said, sorry, I’m not working on, on the Sabbath. I’ll come back later. I go.
+
+Do, do you see how people are just turning this new story against you and you just duck it out? So you don’t work Sunday. Do you work Saturday?
+
+Austen: I try not to. I do sometimes.
+
+Andrew: All right, we’re going to do, we’re going to do this interview. I hope at some point in the future, we’re going to see how far Lambda has gone with nursing schools.
+
+What’s the next thing after nursing schools, what else do we need?
+
+Austen: Basically everything. Yeah, but there’s like the whole healthcare space, is just poorly. The whole healthcare education space is poorly run
+
+Andrew: I feel like all education is poorly run. How many, how many people like me? I paid what a hundred thousand dollars go to NYU because I wanted to be an entrepreneur. And I felt like you have to go to college in order to, in order to do, to be a person. I finished it. And I realized screw that they should have given me a hundred thousand dollars and let me try something and I’ll pay them back.
+
+If it works. I don’t know. It was just, it was just a mess. All right. Austin. Thank you so much for being on here. I’m sure I’m going to feel guilty later on for not like hitting you harder with some of these questions that other people have brought up, but I don’t work that way. I’m just so curious about what makes a person tick and I think I’ve come close to that.
+
+Do you think? All right, I should have been a
+
+Austen: Don’t often get into religion, but yeah, that was
+
+Andrew: We got a little into it. Maybe I’m making a mistake. Think about this. You turn the numbers around, right? You basically not charging students until they get paid. Maybe what I should be doing is charging my guests a therapy. I got to get a little bit more into therapy and then. We’ll see where it goes. All right. I don’t even need to tell people what the URL is. They probably already know it’s Lambda school.com. I had a person basically say, listen, I was at the, it was Matt Miralis. He said I had nothing. I was going to just give up on life completely. And he said, well, I said, he said I had nothing else.
+
+And then I had a scheme. I was going to go to one of these coding boot camps and use my credit card. To go to a coding boot camp. And then there was no way I could afford to pay for them. And he said, my plan was to just default on the debt and at least learn a skill that will get me a job and I’ll be bankrupt, but at least I could get a job.
+
+And they said then Lambda came out and if Lambda was around, I wouldn’t have had to come up with the scheme. And I feel like you’re saving a lot of people from that scheme.
+
+Austen: Yeah, I actually have, there are some students that come in and basically saying, Hey, I know I’ll never make more than $50,000 a year. So I call them the challengers. I say like, they’re pretty confident that they’re never going to pay me anything and I’m going to make sure they pay me 30,000 and that’s,
+
+Andrew: because they don’t have to pay you until they hit at least 50. Alright, it’s Lambda school.com and I thank the two sponsors who made this interview happen. The first you guys know it, if you’re, if you’re looking to hire developers, go to top.com/mixergy. I feel bad saying that because probably we should be saying, go to Lambda schools, but top tile.com/mixergy.
+
+If you’re hiring a developer, if you want to be a developer, go to Lambda school.com. Finally, I want to thank, SCM rush, go to mixergy.com/scm rush. That’ll be available for a limited time. Thanks Austin. Bye everyone.

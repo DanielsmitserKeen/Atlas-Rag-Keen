@@ -1,0 +1,193 @@
+# Tomasz Tunguz on Venture Capital
+
+Before joining Redpoint, [Tomasz](https://twitter.com/ttunguz?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) was a product manager at Google’s AdSense for Social Networks and AdSense International. He’s widely known for [his blog](http://tomtunguz.com/), which is a must read for anyone in the startup or venture capital world. Tomasz writes daily and uses concrete data and statistics to analyze startup fundraising, benchmarks, and management best practices.
+
+I recently caught up with Tomasz to chat about the key metrics he looks for in a potential investment, the funding squeeze that’s currently hitting startups, how changes in the market alter the way young companies should pitch themselves, and much more.
+
+If you like what you hear, [check out more episodes](https://www.intercom.com/blog/podcast). You can subscribe on [iTunes](https://itunes.apple.com/ie/podcast/inside-intercom-podcast/id996103731), [Stitcher](http://www.stitcher.com/s?fid=66385&refid=stpr), or [SoundCloud](https://soundcloud.com/intercom), or grab the [RSS feed](http://bit.ly/intercompodcast).
+
+If you’d prefer to read Tomasz’s insights, what follows is a lightly edited transcript of our conversation. Short on time? Here are seven quick takeaways.
+
+1.  There are three types of [sustainable competitive differentiators](https://www.intercom.com/blog/podcasts/podcast-tomasz-tunguz-on-venture-capital/#competitive): a founder who’s discovered a market opportunity, technology that’s difficult to replicate, or a new distribution mechanism to achieve far better unit economics.
+2.  Tomasz, whose investments take place primarily at Series A stage, typically partners with a [company that has $50,000-100,000 MRR.](https://www.intercom.com/blog/podcasts/podcast-tomasz-tunguz-on-venture-capital/#SeriesA)
+3.  One new innovation area that’s caught Tomasz’s eye is [speech recognition](https://www.intercom.com/blog/podcasts/podcast-tomasz-tunguz-on-venture-capital/#speech), which could have a transformational effect on how we use computers.
+4.  When it comes to a company’s primary growth channel, [content marketing is especially effective early](https://www.intercom.com/blog/podcasts/podcast-tomasz-tunguz-on-venture-capital/#contentmarketing). At scale, diversification and developing a turn key lead generation mechanism are key.
+5.  Tomasz believes [the startup funding squeeze](https://www.intercom.com/blog/podcasts/podcast-tomasz-tunguz-on-venture-capital/#funding) affecting later-stage markets will only mildly impact the Series A market. The closer a company gets to going public, the more public market valuations and forward multiples matter.
+6.  Regardless of whether the market is up or down, a company must always have a plan to [get to profitability on its current cash.](https://www.intercom.com/blog/podcasts/podcast-tomasz-tunguz-on-venture-capital/#profit)
+7.  Investors look at businesses as [collections of risk](https://www.intercom.com/blog/podcasts/podcast-tomasz-tunguz-on-venture-capital/#risk). Before making a pitch, founders must think through and explain to an investor how they will mitigate the larger ones.
+
+* * *
+
+**Des Traynor:** Tomasz, welcome to the show. Could you briefly introduce yourself and explain why you were drawn to the world of venture capital?
+
+**Tomasz Tunguz:** Thank you for having me, Des. I’m a partner at Redpoint Ventures and have been there for about eight years. I focus on early stage software companies. Before coming to Redpoint I was a product manager at Google. Prior to that I was an engineer at a startup, and I founded a software company.
+
+I was drawn to venture capital for a couple of reasons. I have always been fascinated by technology, and I wanted a job with an unlimited learning curve. Venture capital is a really wonderful place to work, because it exposes you to incredibly sharp people who are looking to change the world through new technologies. You are always talking to people who are on the cutting edge, and I really love that part.
+
+I have worked in a bunch of different functions. At Google I was a product manager and actually worked in customer success and operations. I created my first startup with my dad, and I was doing all of the sales and marketing. I have been an engineer, so I thought at some point I would be able to help companies – or at least understand what it is they were going through when they were building their businesses. I got really excited about the prospect of helping founders start those businesses.
+
+**Des:** Does the opportunity to work with so many founders give you a diverse range of experience in terms of the different problems that are out there, the approaches to solving them, and the ways to grow a company?
+
+**Tomasz:** Absolutely. One of the things I was looking for was the unlimited learning curve. I realized that while there is this subject-matter learning curve – trying to figure out what is next in SaaS or in Bitcoin blockchain – there is another that is steeper and much more interesting: How do you partner with a founder to help them achieve their potential? How do you evolve in that relationship, challenge them in the ways they need to be challenged, and support them in the necessary ways to achieve their vision?
+
+**Des:** You have some truly great SaaS companies in your portfolio, including Expensify and Looker. What qualities make for a Tom Tunguz company? Are there qualities that all of your SaaS companies share?
+
+**Tomasz:** We look for a couple of different things. The most important is the sustainable competitive differentiator.
+
+You really want a product or a technology that is able to uniquely position itself in the market and command pricing power. That can be a founder who discovers a market opportunity more quickly than anyone else. It can be a founding team that develops a technology that is really difficult to replicate. It can be a group of people who leverage and exploit a new distribution mechanism to achieve far better unit economics. Most of the time it is a combination of the three things.
+
+**Des:** Do you have any preference between those three, or are they all equally important?
+
+**Tomasz:** You have to match the advantage to the opportunity. If you are creating a new market you really need somebody who can sell as a founder, because you have to educate lots of people about why this new market segment matters. In a certain sense, Intercom is that. Intercom has really transformed businesses’ customer interactions with a new kind of product.
+
+On the other hand if you were going to compete in [marketing automation](https://www.intercom.com/blog/smart-campaigns) with Marketo and Hubspot, you would really look for a technology differentiator, because the market is established. Those companies are well capitalized through acquisitions or because they are public.
+
+**Des:** It’s not a level playing field in that regard.
+
+**Tomasz:** Exactly. You cannot sell your way out of the market, so you need something to hang your hat on.
+
+## Metrics for Future Success
+
+**Des:** Many of your investments are in or around Series A stage. If a startup wants to raise a Series A from you or Redpoint, what are the key metrics that you look at?
+
+**Tomasz:** I am a really metrics-driven guy. I ran an analysis and tried to figure out whether or not there was a correlation between MRR and Series A evaluation. It turns out the relationship is really weak.
+
+Out of the companies I’ve analyzed, 27% of those Series A’s had no revenue when they raised. The other big bump was around $100,000. Right around $50,000-100,000 MRR, typically if a company is in market with a product, tends to be the range we partner with a company.
+
+A substantial fraction of the time we will invest in founders when it is just an idea or before the company has brought the product to market.
+
+**Des:** Do you look at how the revenue is composed? Are you looking for a considered purchase or is it something like 50,000 customers paying $1/month? Do you want to see them going up market at that stage?
+
+**Tomasz:** You’re looking for short sale cycles – 45 days or less. You’re looking for the one or two salespeople on the team who are just blowing past their quota. That tells you the market is pulling the product, the market wants the product, and the company is having a hard time keeping up. The other thing that you are looking for is account expansion. Negative net churn is such a powerful growth mechanism.
+
+![](https://intercom.com/blog/wp-content/uploads/2016/03/customer_pull.png)
+
+**Des:** HubSpot CTO Dharmesh Shah often uses the phrase that products are either bought or sold. It sounds like you’re looking for a product that is bought at Series A.
+
+**Tomasz:** In the mid market that is definitely the case. In the enterprise part of the market, if you are selling ACVs above $150,000, it is hard to find a company that isn’t selling the product, as opposed to it being bought. But in mid market you are definitely looking for that.
+
+## The Importance of Product
+
+**Des:** Aside from revenue or MRR, there is so much talk these days about product-first companies and designer-founders. When you are looking at a deal, how large of a role does product quality play? Will you go for a healthy business with an obviously bad product, or would you go for an obviously good product and an unhealthy business?
+
+**Tomasz:** Product is everything. When you are betting on consumerization of IT, product is the first line. You have to have something great to sell. You also need a go-to-market organization, and the founding team needs to believe in and value what a sales and marketing team can do to accelerate the growth of the business. Between the two of those options you gave me, I would probably take a great product with bad sales and marketing execution because with the right hires, the right advisors, or the right advice, you can transform that business.
+
+**Des:** You mentioned the consumerization of IT. How long does that last for a startup as they move up market? At some point do they bump into companies who still have these protracted buying processes?
+
+**Tomasz:** HubSpot is probably still consumerization of IT, and that is because they made a strategic decision not to move up market. Instead of moving up market, they are growing their revenue by selling more products and cross-selling.
+
+You have other companies like New Relic, who is really trying to push up market to compete with AppDynamics, and they started with consumerization of IT. Now they are going after larger customers. It’s a strategic decision that the company decides to pursue, because if you start with consumerization of IT and all of a sudden reroute up market, your product features need to be different, your marketing positioning needs to be different, and the kinds of sales people you hire are going to have different qualifications.
+
+## Betting on Speech Recognition
+
+**Des:** You recently listed speech recognition as an interesting innovation area. We just saw Google launch speech for type and editing. Is this something you are watching from a VC standpoint? Do you think we are at the precipice of a new input mechanism like touch?
+
+**Tomasz:** I think it’s a big deal. Word error rate for speech recognition accuracy has improved by about 50% in the last three years. A big part of that is advances in machine learning. Another big force is mobile phones – people don’t really like to type as much on mobile phones as they do on computers, so there is a natural UI change. You can actually speak three times faster than world-record holders can type, so the productivity boost there is meaningful. I dictate my emails and most of the blog posts just because it’s faster. Those things tee up a discontinuity in the way that people think about input.
+
+I won’t say that speech will replace the keyboard. You wouldn’t start talking to your telephone in the middle of a busy meeting. There are certain contexts in which it’s socially acceptable to speak to a device. But I am really excited about it. I am excited about it as an input mechanism, and because all of a sudden we can start to extract insights from recorded speech.
+
+**Des:** Bill Buxton from Microsoft taught me the phrase, “the different contexts are eyes-free, hands-free, ears-free, and mouth-free.” Sometimes you can talk but not type; sometimes you can type but not see; and sometimes you want to listen to something. I fully expect the way messaging will evolve is some version of, I will send you a message any way I want. I can record it, send it, or type it. You can then receive it any way you want. It’s like the Star Trek translator mapped onto different input and output mechanisms.
+
+**Tomasz:** Exactly. You have a babble of fish on each side. I never thought about it that way, but that makes sense.
+
+**Des:** If this kicks off there will be a weird butterfly effect. It’s easy to think of this is a more efficient way of typing, but there are implications for office design. People genuinely can speak much quicker than they can type, but we don’t want to do that in massive open-air offices.
+
+There are also implications for software. So much of software is about minimizing the amount of input because typing is difficult, but now you’re seeing us move back towards conversational design where you can see people building bots for plain text input/output. Obviously the backlash against bots will be something like, it is too arduous to type in “cheap flights to Seattle,” but it is very quick to say it. If this kicks off, the tentacles will reach into all aspects of how we work.
+
+**Tomasz:** You are totally right. When I was at Google, we went on this trip to study the ways different people interacted with the internet in five countries. Before then it had never dawned on me to ask the question how, how does a Chinese speaker type?
+
+We went to the Google office in Beijing, and we started watching how people typed on their mobile phones and their laptops. There is a character, the word for “4,” and there is this thing called the Pinyin, which is the Romanized version – how you would spell it with an English or Qwerty keyboard – and that is “si.” It turns out that every Chinese vowel can be said four ways. In order to type the number “4” in Chinese, you first type “si” and then from a pop-up menu, select one of the four characters corresponding to the vowel pronunciation that they mean.
+
+That is just for one thing, one concept, one character. For those languages where the Qwerty or western keyboard does not apply, speech can have a transformational effect in the way people use computers.
+
+## The Role of Content
+
+**Des:** The way I discovered you, and the way most of our listeners will know of your work, is through your blog, where you write data-driven analysis of startups and the entire VC world. You blog almost daily. How did that get started, and why is this still an important outlet for you?
+
+**Tomasz:** I really love to write. The author Gustave Lambert wrote, “Writing is the art of discovering what you believe.” I really like that.
+
+The blog started about six years ago. I would go to board meetings or meetings with founders, and they would ask me questions that I did not know how to answer, like what should my revenue per employee be, how big should my Series A be, or what is going on in the market. Coming from Google I know that data exists, so I started looking around for and analyzing it. Then I said, “There is nothing proprietary within this analysis, so I may as well publish it.”
+
+That is how the blog got started. At the beginning it was more intermittent. Then our older son came along, and he really wanted to drink his milk at 4:30 a.m. I would wake up, give him his bottle, and just start to write. What is nice about that time is it’s serene. There are no interruptions. Within an hour I could crank out 500 words.
+
+**Des:** When you look at companies who use content marketing as their primary growth channel, would you encourage them to diversify and go into paid acquisition, or would you encourage them to double down on content? How focused should a company’s go-to-market be?
+
+**Tomasz:** In the long term [you definitely want diversification](http://tomtunguz.com/five-marketing-channels-saas-companies/), because you want to have a lot of levers to pull. HubSpot proved content marketing can be an unbelievably scalable. They have more than one million subscribers to their blog. In the early days content marketing works really well, and if you can maintain it at scale, that’s terrific. But like anything, you really want diversification.
+
+**Des:** Would you be worried about a Series D company that is still relying on content?
+
+**Tomasz:** The thing with content marketing is it can be unpredictable. When I publish a post I have no idea whether people are going to like it or not. At some point lots of companies decide to develop a more turn key or coin-operated lead generation mechanism, which makes sense.
+
+## The Flywheel Model for Growth
+
+**Des:** You have [written quite a bit about this newer go-to-market trend, the flywheel model](http://tomtunguz.com/saas-innovators-solution/), where an enterprise sales team works on growing existing accounts rather than necessarily growing new leads. Atlassian, who went public for several billion last year, popularized this. Why is this a successful approach?
+
+**Tomasz:** It is really a successful approach when two conditions are satisfied. The first is that the cost to acquire the target customer is really high and there is not a lot of competition. Flywheels in the physical world are big, heavy, and take a while to start, and the same is true for the flywheel business model. If you have a lot of competition, you are going to face a lot of pressure to raise capital and build a traditional go-to-market team with account executives and SDRs. You need time to be able to build it, and you need patience.
+
+![](https://intercom.com/blog/wp-content/uploads/2016/03/flywheel_saas.png)
+
+The second condition is the ability to be patient. Then you can use content marketing, free products, and free trials to educate the buyer. You can let them try it on their terms. That is why Atlassian sells to engineers. An engineer does not want to talk to a sales person. The way a lot of infrastructure software is sold today is through open source, or try before you buy. What engineers really want is to try the product, kick the tires, and see what it is like. Then they’ll buy. That definitely lends itself to a flywheel model.
+
+Asana is another really great example. If you tell me I have the next great productivity or project management app, I am not going to buy it on the spot. It’s an experiential product. I’ve got to give it a shot to see whether or not the product design philosophy fits with the way that I work. There is a long of consideration period and a lot of evaluation required.
+
+In both of those categories, like I said before, those are difficult buyers to convert or buyers with high [acquisition cost](https://www.intercom.com/blog/what-is-customer-acquisition-cost/). It’s a natural place for the flywheel model to work.
+
+**Des:** You mentioned that this model works well when there is little competition. Asana has plenty of competition, but something Asana does seem to have solved is the stickiness of the product. The cost of switching from of Asana is agony. You bend your whole team around Asana in some sense.
+
+**Tomasz:** It’s true. They are selling a philosophy. They are selling another way of working. Once you have an internal champion who decides to move the organization in a certain way, people buy into it and start working. Slack to a certain extent has similar dynamics.
+
+**Des:** If Slack ever gets credible competition, it will be interesting to see how much of a competitive asset the platform is when it comes to switching costs. For switching from HipChat to Slack, there’s a single-click importer. Will the platform, bots, and apps that are built on Slack be their long-term competitive differentiator that stops someone from one-click jumping to the next team messaging product?
+
+**Tomasz:** I think it will be. If anybody has proved that it’s Salesforce. We were Series A investors in Heroku, which is another great example. Over time the barriers to entry have gotten lower there, particularly as the cost of infrastructure of the service has declined. But the app ecosystem on top of Heroku is a huge advantage.
+
+## Navigating the Funding Squeeze
+
+**Des:** Several of your recent posts have been about [how SaaS companies can become profitable faster](http://tomtunguz.com/three-ways-to-become-profitable-faster/) and [the drops in SaaS valuations](http://tomtunguz.com/depression-in-saas/). Where do you stand on the funding squeeze? How bad do you think it is going to be, and how would you like startups to adapt?
+
+**Tomasz:** The Series A market will be mildly impacted. The later stage markets will certainly be impacted, and we are definitely seeing that. The closer you get to going public the more the public market valuations and forward multiples matter. We used to be at 7.7 times the medium forward multiple, and now we are 57% below that. The closer you are to going public the more the multiples are going to hit you. Series A will be relatively untouched, but the seed stage will be impacted.
+
+![](https://intercom.com/blog/wp-content/uploads/2016/03/Drop-in-SaaS-Valuations.png)
+
+Talking to other friends who are Angel investors, they are seeing a little bit of compression in the seed market. As valuations compress, even a little bit, the question you are asking yourself before you lead an investment in almost any stage of the business is, how hard is going to be for this company to raise the next round? If the valuation is too high then it becomes much harder because the company’s execution has to be perfect in order to get there, and it is always nice to have a little bit of a buffer.
+
+**Des:** My optimistic side wants to say the valuations for seed will come down, and we will no longer see these $10-15 million seed runs. We will see people looking for valuations a lot closer to $4-7 million. Is there more money to be made for investors as a result of that? When you think about a seed-stage company today, will we be clear of this compression by the time they need to raise an A, B, or C?
+
+**Tomasz:** The lower the valuation you get into a great company the more money you will make. That’s always the case. The question is, what is the right multiple for a SaaS company?
+
+Is this 7.7 times forward that we were seeing the right number? Is the 3.3 that we are seeing now the right number? Is the medium over the last 10 years, 5x, the right number?
+
+No one really knows. It’s just what the market decides. Lower entry prices mean you get better returns no matter what. Another big factor to consider: There is a lot of volatility in forward multiple, and that might have a much more impact on your ultimate exit, rather than the entry price.
+
+**Des:** Profit becomes more attractive in a compressed market. Is this something you would advise companies to start looking toward?
+
+**Tomasz:** I write a lot about profitability, because it is a point of leverage for founders. Over the last couple of years founders have had a lot of leverage in fundraising conversations, because there is so much competition from investors to invest in great companies. When you have an auction with way more demand than supply, prices go up, and the startup has leverage, which means valuations have increased. What ends up happening if the market continues to turn south – if the supplier remains constant and the demand goes down – the founders have less leverage. You really want leverage at all times. The way to have leverage in a down market is to have an alternative that becomes profitable.
+
+The most important advice is always have a plan to get to profitability on the current cash you have.
+
+**Des:** When there is any constraint environment around availability of cash a lot of the advice that appears, such as cut all unnecessary burn or stop buying expensive coconut water, sounds like, “stop doing dumb shit.” At what point did we say, “Hey, here is some advice for you all, _start_ doing dumb shit.”
+
+**Tomasz:** Really fast growth masks lots of sins. If your company is growing at an incredibly quick rate, nobody is going to ask very many questions about what you’re spending on coconut water. When things get tighter people start asking more probing questions like, “Hey, turns out this line item on the P&L statements is usually high. What is going on there?”
+
+**Des:** Does this environment change how you consider the pitch of a Series A company or the questions you’re asking them?
+
+**Tomasz:** Not really. We’re looking for companies who can win a disproportionate share of their market segments and all of the things a company needs in order to do that. That hasn’t changed. We spend a little bit more time on unit economics, understanding payback period, and trying to understand the cash needs of the business. Then we may have more of a conversation around how hard will the next round be to raise. On the whole it’s unchanged.
+
+## A Collection of Risks
+
+**Des:** What are the most common mistakes you see when founders are trying to win your or Redpoint’s money?
+
+**Tomasz:** There is C-stage investor named Leo Polovets, and [he just wrote about this on his blog, codingvc.com](http://codingvc.com/startups-are-risk-bundles/). A lot of founders don’t understand the way that investors look at businesses. They look at them as collections of risk.
+
+[There are 11 different kinds of risks that a startup can face](http://tomtunguz.com/the-11-risks-vcs-evaluate/). One can be a technology risk – can your build what you say you want to. Another one could be legal risks – are you in the regular category. A third one could be a fund raising risk – the next round is going to be really hard to raise.
+
+Whenever we talk about companies internally we are trying to understand which risks the startup faces and which ones have they mitigated. If you are a group of great technologists and you come in proving that you have built a really great next-generation technology, you really have not de-risked the business very much, because I know the team is going to build a really great technology. The questions I am curious about have more to do with whether this company can sell.
+
+A good thought experiment before pitching would be, let’s create the basket of risks this company faces, look at the ones we know we can handle, and think through how we can argue to an investor that we can mitigate the big ones.
+
+**Des:** Lean into the risks and confront them head on?
+
+**Tomasz:** That is exactly right.
+
+**Des:** Thank you so much for your time today Tom. It has been really enjoyable.
+
+**Tomasz:** Awesome. Thank you so much.

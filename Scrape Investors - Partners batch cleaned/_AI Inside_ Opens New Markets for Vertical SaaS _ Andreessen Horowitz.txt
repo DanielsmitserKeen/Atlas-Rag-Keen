@@ -1,0 +1,49 @@
+# "AI Inside" Opens New Markets for Vertical SaaS
+
+_This is the second installment of a three-part series on Vertical SaaS._ [_Read part one here._](https://a16z.com/vertical-saas-now-with-ai-inside/)
+
+In the first part of this series, we wrote about how [AI enables vertical SaaS companies](https://a16z.com/vertical-saas-now-with-ai-inside/) to take on tasks previously deemed too complex for software. Specifically, we noted that with AI, customers of vertical SaaS (VSaaS) could dramatically reduce internal and external labor spend on sales, marketing, customer service, operations, and finance. For the VSaaS company, extending service offerings into these areas could increase revenue per customer by up to 10x!
+
+In this post, we will look at how AI will open new markets previously deemed too “small” to support a large VSaaS company. By increasing LTV (Life Time Value) per customer (through [replacing labor with software](https://a16z.com/ai-turns-capital-to-labor/)) and reducing CAC (through leveraging AI-driven sales and marketing tools), we believe AI will open a plethora of new markets. Namely, the long tail of niche industries you were likely not thinking of before this post: chiropractors, dry-cleaning and laundry services, veterinary services, and more.
+
+## Many untapped markets for Vertical SaaS
+
+There are more VSaaS companies than you might think: more than 5,000 in the U.S. alone (according to Pitchbook data), focused on industries ranging from trucking to real estate. In the public markets, examples of VSaaS companies include nCino (loan origination), Guidewire (insurance), ProCore  (construction), and Toast (restaurants and hospitality). In private markets, companies like Clio (legal), ServiceTitan (home and commercial contractors), and MindBody (health and leisure) have similarly achieved scale. By building software to streamline industry-specific workflows, successful VSaaS firms become [operating systems](https://a16z.com/vertical-operating-systems-one-system-of-record-to-rule-them-all/), resulting in “winner take most” markets. Given this dynamic, many founders have avoided “small” markets, as it doesn’t pay enough to be a big fish in too small a pond (market). 
+
+As a result of this “small” market problem, a large percentage of the more than 600 unique North American Industry Classification System (NAICS) industries — all with niche workflows, customer needs, and data formats to design and build vertical software for —  have yet to benefit from modern VSaaS software.
+
+## Software replaces labor, making small markets bigger
+
+Imagine a market where a VSaaS company could charge 10k potential customers $1k per month (including fintech revenue). This produces a total market size of ~$120 million. Not very interesting. 
+
+Now imagine the VSaaS company could win the sales, marketing, customer service, and financial back-office budgets of those 10k customers and charge $10k per month. The market size is now $1.2 billion — large enough to make building a solution worthwhile. As VSaaS companies are often able to expand to adjacent markets, building for several of these now larger markets could result in a significantly sized company. 
+
+Instead of just selling booking software or an industry-specific CRM, a VSaaS company can now help the businesses they serve develop pipeline, write cold outbound or use a voice agent to answer inbound leads (sales); ingest data from every customer touchpoint and create personalized campaigns (marketing); answer phone calls and respond to texts of customers inquiries (customer experience); and manage invoicing and data-entry tasks (back office).
+
+The diagram below shows how customer spend on a VSaaS solution can increase as software replaces labor.
+
+[https://d1lamhf6l6yk6d.cloudfront.net/uploads/2024/12/241120-VSaaS\_AI-Opens-Animated-1920x1080\_Corp\_Colors\_01-1.mp4](https://d1lamhf6l6yk6d.cloudfront.net/uploads/2024/12/241120-VSaaS_AI-Opens-Animated-1920x1080_Corp_Colors_01-1.mp4)
+
+## AI reduces the cost of customer acquisition (CAC)
+
+In addition to increasing market size, AI will open markets by [reducing customer acquisition costs](https://a16z.com/ai-second-order-effects/) (CAC). Let’s look back at the market with 10k potential customers. The market becomes even less attractive if company profits are eaten by market & sales costs. But now, AI can [help market](https://a16z.com/ai-marketer-how-gen-ai-based-software-is-advancing-marketing-and-sales/) and [sell](https://a16z.com/ai-transforms-sales/) your VSaaS product.
+
+Take staffing phones for inbound sales, one of the most expensive costs for a business. Many businesses likely don’t even have their best hours covered due to staffing constraints. Most wealth management firms, for instance, staff their phones Monday to Friday. But when do prospective clients have time to discuss their finances? On the weekends. Voice agents can fill this gap. 
+
+Back to our diagram above: reduced CAC increases the gross margin of each VSaaS sale. This ultimately grows the potential profit to be captured in the market and can even increase the number of customers the VSaaS company can serve profitably.
+
+## Challenge all your assumptions on Vertical SaaS
+
+For the first time, it may be worth examining traditionally “small” markets with a small number of potential customers or limited software spend, as these markets become bigger by increasing LTV per customer (through replacing labor with software) and reducing CAC (through leveraging AI-driven sales and marketing tools).
+
+To test this hypothesis, we pulled U.S. NAICS codes for 620 industries and enriched the data with information like firm count, employee count, labor spend, revenue per employee, and market share of the top 50 firms (a measure of market concentration). When viewed in terms of labor spend, the three industries mentioned in the introduction of this article suddenly become much more attractive:
+
+*   Drycleaning and laundry services (NAICS: 81232): **18k laundromats spend $2.7 billion on labor** on 130k employees, with a revenue per employee of $60k.
+*   Chiropractors offices (NAICS: 62131): **38k chiropractor firms spend $4.5 billion on labor** on 140k employees, with a revenue per employee of $97k.
+*   Veterinary services (NAICS: 54194): **28k veterinary firms spend $13.8 billion** on labor on 356k employees, with a revenue per employee of $116k.
+
+All of these markets may have looked small if you were thinking only, “What can I charge a laundromat for software?” but now you can also consider, “How can I target labor spend with AI?”.
+
+And there are many more markets like this! Markets with high revenue per employee (e.g., veterinary services) are well placed for copilots, while markets with low revenue per employee (e.g., laundromats) are well placed for direct automation of administrative tasks through agents. 
+
+If you’d like the full list, download the data (as of 2022) below. Do you have deep knowledge of a market that’s underserved by VSaaS and a plan to wedge in with AI? If you’re building here [we’d love to hear from you](https://a16z.com/enterprise/).

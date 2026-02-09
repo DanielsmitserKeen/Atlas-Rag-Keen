@@ -1,0 +1,241 @@
+# Mapping 101: A Beginner's Guide - Strategic Guide
+
+Wardley Mapping is a strategic visualization technique that helps leaders see their value chain, anticipate change, and outmaneuver competitors.
+
+**Note:** _A leader is someone who finds the next step and makes it happen — not someone with formal authority._
+
+This guide will take you step by step through the fundamentals. You'll learn how to create your first Wardley Map, understand the four stages of evolution, and use maps to make smarter, faster, and more confident decisions.
+
+Whether you're an executive, strategist, or technology leader, Wardley Mapping will transform how you think about competition and strategy.
+
+## What Is Wardley Mapping (and Why Does It Matter Now)?
+
+Wardley Mapping is a strategic framework created by Simon Wardley. It helps organizations understand their environment by mapping the value chain (the activities required to meet user needs) and showing how each component evolves over time.
+
+Why it matters: most strategies fail because leaders rely on guesswork. Wardley Maps reveal hidden dynamics and make change visible — so you can avoid costly mistakes and position your organization ahead of competitors.
+
+### Core Principles of Wardley Mapping
+
+Every business has a value chain — a set of activities that create value for customers.
+
+All components evolve — from early invention to commoditized utilities, following predictable stages.
+
+Strategy comes from timing — winners know where to innovate, where to differentiate, and where to cut costs.
+
+## The Value Chain Foundation
+
+Every map starts with a user need — what your customer wants to achieve. From there, you identify the chain of components that deliver that need, from visible features to hidden infrastructure.
+
+### Key Components of a Value Chain
+
+*   **User**: The person or organization with the need
+*   **User Need**: What your customer wants to achieve
+*   **Channel**: How you reach and interact with users
+*   **Value Proposition**: What you offer to meet the need
+*   **Key Capabilities**: What you need to deliver value
+*   **Key Dependencies**: What you need to operate your capabilities
+
+### Example: E-commerce Value Chain
+
+Let's look at a skincare e-commerce business as an example:
+
+**User**: Adults noticing first signs of aging (fine lines, dullness, loss of elasticity)
+
+**User Need**: Find effective skincare products that improve appearance, protect skin, and build confidence
+
+**Channel**: E-commerce website, mobile app, social media campaigns, beauty influencers, targeted ads
+
+**Value Proposition**: Dermatologist-tested anti-aging products with visible results, convenient delivery, personalized recommendations
+
+**Key Capabilities**:
+
+*   Product development (R&D, dermatology expertise)
+*   Digital marketing & personalization engines
+*   E-commerce platform with seamless checkout
+*   Customer support (consultations, chat, tutorials)
+*   Logistics & last-mile delivery
+
+**Key Dependencies**:
+
+*   Ingredient suppliers (peptides, retinol, hyaluronic acid, antioxidants)
+*   Manufacturing partners for safe, compliant production
+*   Payment gateways & subscription management
+*   Dermatologists / skincare experts for credibility
+*   Fulfillment centers, packaging vendors, delivery carriers
+*   Data infrastructure for personalization & analytics
+
+### Dependency Diagram: Component Dependencies
+
+Now let's show the specific dependencies between individual components:
+
+**Key Insights from the Dependency Diagram:**
+
+1.  **E-commerce Platform** has many dependencies - it's a central hub
+2.  **Dermatologists** are a single point of failure for Product Development
+3.  **Manufacturing Partners** are critical for both Product Development
+4.  **Payment Gateways** are essential for the E-commerce Platform but represent a third-party risk
+
+This diagram is never complete — that's the point. But they reveals gaps and differences of opinions.
+
+## Evolution Stages: The Heart of Strategy
+
+The most powerful insight of Wardley Mapping is that components evolve through predictable stages. Understanding these stages is key to making strategic decisions.
+
+### The Four Evolution Stages
+
+1.  **Genesis** - Novel, uncertain, constantly changing
+2.  **Custom Built** - Growing, becoming more defined
+3.  **Product** - Stable, well-defined, widely available
+4.  **Commodity** - Ubiquitous, standardized, utility-like
+
+### Evolution Characteristics
+
+| Stage | Characteristics | Strategic Focus |
+| --- | --- | --- |
+| Genesis | Novel, uncertain, changing | Innovation, experimentation |
+| Custom Built | Growing, defined, scarce | Building capability, differentiation |
+| Product | Stable, available, competitive | Optimization, market positioning |
+| Commodity | Ubiquitous, standardized, utility | Cost efficiency, scale |
+
+### Why Evolution Matters
+
+Understanding evolution helps you answer critical strategic questions:
+
+*   **Where should we invest?** Genesis and Custom Built stages mean 'differentiation'
+*   **What should we outsource?** Consider commoditized components
+*   **How do we compete?** Differentiate on evolving components, optimize on stable ones
+*   **What's changing?** Monitor components moving between stages
+
+## Real-World Example: Skincare Business Wardley Map
+
+Let's create a Wardley Map for the skincare business value chain we saw earlier. This will show how to map a complex business ecosystem using Wardley Mapping principles.
+
+### Strategic Analysis of the Skincare Business
+
+This Wardley Map reveals several strategic insights:
+
+**1\. Competitive Advantages (Genesis/Custom stages):**
+
+*   **User insight**: Understanding aging concerns and confidence needs
+*   **Influencer relationships**: Custom partnerships with beauty influencers
+*   **Product formulation**: Custom skincare formulations
+
+**2\. Evolving Components (Product stage):**
+
+*   **Website**: Could move toward commodity as platforms mature
+*   **Marketing**: Becoming more data-driven and automated
+*   **Product development**: Leveraging AI and automation
+
+**3\. Commodity Components (Cost optimization):**
+
+*   **Ecommerce platform**: Use established solutions (Shopify, WooCommerce)
+*   **Fulfillment**: Outsource to 3PL providers
+*   **Payment processing**: Use standard gateways
+*   **Manufacturing**: Partner with established contract manufacturers
+
+**4\. Strategic Opportunities:**
+
+*   **AI-powered personalization**: Move from Custom to Genesis
+*   **Direct-to-consumer relationships**: Strengthen Custom stage positioning
+*   **Sustainability focus**: Differentiate in Product stage
+
+**5\. Component Positioning:** The map demonstrates how you can control the horizontal positioning of components within each evolution stage:
+
+*   **Left position**: Components positioned toward the left of their evolution stage
+*   **Center position**: Components positioned in the center of their evolution stage (default)
+*   **Right position**: Components positioned toward the right of their evolution stage
+
+This positioning helps show the relative maturity and evolution direction of components within the same stage.
+
+This map shows how a skincare business can focus its innovation efforts on user insights and influencer relationships while optimizing costs in commodity areas like fulfillment and payment processing.
+
+## Creating Your First Wardley Map
+
+Now let's create a simple Wardley Map step by step.
+
+### Step 1: Identify Your User Need
+
+Start with the user need at the top of your map. This should be a clear, specific need that your business addresses.
+
+**Example**: "Store and share photos online"
+
+### Step 2: Map Your Value Chain
+
+Work backwards from the user need, identifying each component in your value chain.
+
+**Example Photo Sharing Service**:
+
+### Step 3: Position Components by Evolution Stage
+
+Place each component on the map according to its evolution stage. Genesis components go on the left, Commodity components on the right.
+
+**Example Positioning**:
+
+### Step 4: Add Movement Indicators
+
+Show which components are evolving and in what direction.
+
+**Example Movement**:
+
+*   **Photo Storage** → moving from Product to Commodity
+
+## Strategic Insights from Your Map
+
+Once you have a basic map, you can extract powerful strategic insights:
+
+### 1\. Identify Strategic Opportunities
+
+Look for components in Genesis and Custom Built stages - these are where you can differentiate - or optimize.
+
+### 2\. Spot Commoditization Threats
+
+Components moving toward Commodity stage become cost centers, not differentiators.
+
+### 3\. Understand Competitive Dynamics
+
+See where your competitors are positioned and where they are overinvested. If they use custom servers, they will not probably scale as well as you do.
+
+### 4\. Guide Investment Decisions
+
+Place your bets. Observe the results.
+
+## Common Mapping Mistakes to Avoid
+
+### 1\. Starting Too Broad
+
+Begin with a simple map focused on one user need which you have contact with. Do not speculate.
+
+### 2\. Custom Bias
+
+You might have many custom components. It does not mean that everyone else has them.
+
+### 3\. Static Thinking
+
+Wardley Maps are dynamic. Think how components might change.
+
+### 4\. Focusing on Internal Structure
+
+Focus on the value chain, not your organizational chart.
+
+## Next Steps
+
+Now that you understand the basics, here's how to continue your Wardley Mapping journey:
+
+1.  **Practice with real examples** - Map your own business or a familiar industry
+2.  **Study case studies** - See how others have applied the technique
+3.  **Join the community** - Connect with other mappers to learn and share
+4.  **Take advanced courses** - Deepen your understanding with structured learning
+
+## Key Takeaways
+
+*   **Wardley Mapping reveals competitive dynamics** by mapping value chains and evolution
+*   **Evolution stages guide strategic decisions** - invest in evolving components, optimize stable ones
+*   **Start simple** - focus on one user need and build complexity gradually
+*   **Keep maps current** - update regularly as components evolve
+*   **Practice regularly** - the technique improves with use
+
+Ready to create your first map? Start with a simple example from your own experience and build from there. The insights you'll gain will transform how you think about strategy and competition.
+
+* * *
+
+_This guide is part of our comprehensive Wardley Mapping curriculum. Continue your learning with our [step-by-step guides](https://www.wardleymaps.com/learn/guides), [case studies](https://www.wardleymaps.com/case-studies), and [advanced courses](https://www.wardleymaps.com/courses)._

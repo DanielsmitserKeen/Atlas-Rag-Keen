@@ -1,0 +1,890 @@
+# The Bill Gurley Chronicles | Research
+
+What if there was a way to distill all the knowledge that someone’s written over the last 25 years into one, easy-to-read document?
+
+And what if that person was a famous venture capital investor known for betting big on companies like Uber, Snapchat, Twitter, Discord, Dropbox, Instagram, and Zillow (to name a few)? 
+
+Well, that’s what I’ve done with Bill Gurley’s blog _Above The Crowd_. 
+
+Gurley is a legendary venture capital investor and partner at Benchmark Capital. His blog oozes valuable insights on VC investing, valuations, growth, and marketplace businesses. 
+
+This document is a one-stop-shop summary of every blog post Gurley’s ever written. 
+
+Here’s how it’ll look. Each summary will contain the following: 
+
+*   Date, title, and link to blog post
+*   One paragraph summary
+*   My favorite quote
+
+This piece allows anyone to absorb _all_ of Gurley’s knowledge bombs in the fraction of the time it took me to do it. I hope this piece brings you as much value as it did to me. 
+
+Let’s get after it.
+
+## **Years: 1996 -1999**
+
+## **October 21, 1996: Backhoes Don’t Obey Moore’s Law: A Story of Convergence (**[**link**](http://abovethecrowd.com/1996/10/21/backhoes-dont-obey-moores-law-a-story-of-convergence/)**)**
+
+**Summary:** The backhoe improved at an annual rate of 4.4%, falling short of Moore’s Law equivalent improvement of 59.7%. Computers are dependent on telecom to deliver the internet. But telecom is dependent on Moore’s Law failing-backhoes. This means we’re building computer-centric solutions to Internet-based problems without addressing the core problem: laying fiber cables with obsolete backhoes. 
+
+**Favorite Quote:** **_“_**_Backhoe dependency is really just the simple side of our message. It is our impression that the majority of the players in the computer industry bring a “computer centric viewpoint” (CCV) when analyzing the issues that exist with the Internet. This computer-centric view could prove hazardous. Not only will it lead to disappointed expectations, but it may also lead to a less than accurate vision of the future.”_
+
+## **April 20, 1998: How to Succeed in Advertising (**[**link**](http://abovethecrowd.com/1998/04/20/how-to-succeed-in-advertising/)**)**
+
+**Summary**: There are three reasons why success-based advertising wins the day on the internet: 
+
+1.  Customers want it: Advertisers can quickly see if their programs work and easily predict margins using COGS + “bounty fee” model
+2.  Solves excess inventory problems: The best way to reduce inventory is through direct-selling, success-based advertising (think 1-800 ads on cable TV)
+3.  Unsold Ad-Space on Internet: As internet population increases, it reduces the CPM per pageview. This causes an inventory glut of internet space and a perfect place for performance-based ads
+
+Also, you can use a DCF to find the LTV of a customer. It’s simply: $ in FCF per customer/year divided by the discount rate. 
+
+**Favorite Quote: “**_The lifetime value of the customer is equal to the future cash flows (not revenue!) expected over the life cycle of the customer, discounted back by a reasonable discount rate. What we are really doing is treating the customer acquisition as an investment and the lifetime cash flows of the customer as the yield on that investment.”_
+
+## **May 5, 1998: Standards: Open For Business (**[**link**](http://abovethecrowd.com/1998/05/25/standards-open-for-business/)**)**
+
+**Summary:** Open standards is the idea that companies in an industry operate within a specified set of rules (or parameters). Think of printers and PCs. It makes sense for all PCs and printers to be compatible with one another. This reduces time to market for most products. The issue, however, arises when open standards are applied to tech-heavy businesses without distribution advantages. Software is a perfect example. Distribution is effortless, so the only way to gain an edge in open standards is through sales teams and technical support. And who has the lead in that? Large companies. 
+
+**Favorite Quote:** **_“_**_Theoretically, you could have a better sales force or better service and support, but these are not typically assets that small innovative companies possess. This means that competing with a completely “open” strategy would offer very little room for differentiation, and there is almost a necessity to have some closed proprietary advantage. It is difficult to criticize companies for trying to innovate in a proprietary manner. After all, survival is instinctive.”_
+
+## **August 17, 1998: Internet Investors: Beware of the Proxy Valuation (**[**link**](http://abovethecrowd.com/1998/08/17/internet-investors-beware-of-the-proxy-valuation/)**)** 
+
+**Summary:** Investors use proxy valuations to value companies without hard free cash flows (NOPAT – capex). Proxy valuations come in all shapes and sizes, including: P/Revenues, Market Cap / Subscriber, Market Cap / Unique Page View, etc. While proxy valuations are better than blindly picking stocks — it’s not the **end goal.** Businesses must generate cash flow to survive. This brings us to a few dangers of proxy valuations: 
+
+*   Symmetry Risk: Not all proxies are created equal (e.g., Price/Sub not the same as Price/Page View)
+*   Assumption Risk: A customer’s value changes. We can’t assume a company will generate $X from each customer over its lifetime
+*   Arbitrage Risk: Companies IPO based on # of customers, revenue stats or subscribers … **not cash flows or profitability**
+
+**Favorite Quote:** **_“_**_Another reason to be skeptical of proxy valuations is arbitrage. If Wall Street comes to believe that customers, or visitors, or page views, or even revenues are uniquely valuable (regardless of profitability), than entrepreneurs are likely to rush to market with companies that can achieve these targets quite handily, but may have little chance at producing real value in terms of cash flow. With no focus on costs, it is easy to reach non-financial targets. This is the great thing about cash flow-based valuation, it’s hard to sweep costs under the rug.”_
+
+## **October 16, 1998: The Continued Evolution of Advertising or How To Succeed in Advertising Part II (**[**link**](http://abovethecrowd.com/1998/10/16/the-continued-evolution-of-advertising-or-how-to-succeed-in-advertising-part-ii/)**)** 
+
+**Summary:** Traditional advertising is squeezed out of the value chain as ad buyers recognize the difference between pay-per-impression and pay-per-click through. Further, the invention of TiVO (recording shows & content) increased demand for a direct-to-consumer content delivery system. Ideas like pay-per-view TV were born from the idea that you can cut the middleman (networks & advertisers) and directly charge your customer. 
+
+**Favorite Quote:**  _“While this is possible, it ignores the fact that the viewer now has a choice, and that these devices will allow the content provider to push content directly to the end-user, potentially on a pay-per-view basis. If the consumer is willing to pay $5 to watch Seinfeld commercial-free, why should they be denied?”_
+
+## **July 12, 1999: The Rising Impact of Open Source (**[**link**](http://abovethecrowd.com/1999/07/12/the-rising-impact-of-open-source/)**)** 
+
+**Summary:** There are six things to know about open source (OS) code. **One**, open source works. **Two**, OS can produce business-quality code. **Three**, OS business models are emerging. **Four**, OS is a tough competitor (hard to beat free!). **Five**, OS models are entering the content generation space. **Six**, OS may be as helpful as a defensive mechanism than an offensive weapon. 
+
+**Favorite Quote:** **_“_**_Open source as a production model should be appreciated in the same light as Henry Ford’s assembly line or Demming’s Just-In-Time manufacturing process. By taking advantage of the electronic communication medium of the Internet as well as the distributed skills of its volunteers, the open-source community has uncovered a leveraged development methodology that is faster and produces more reliable code than traditional internal development. You can pan it, doubt it, or ignore it, but you are unlikely to stop it. Open source is here to stay.”_
+
+## **October 18, 1999: The Rising Importance of the Great Art of Storytelling (**[**link**](http://abovethecrowd.com/1999/10/18/the-rising-importance-of-the-great-art-of-storytelling/)**)**
+
+**Summary:** Storytelling is one of the most underappreciated business skills. Bill Gates admired a man (Craig McCaw) because he was able to convince investors to invest in a capital-heavy infrastructure business. McCaw created new (proxy) valuations to sell the story the company was trying to deliver. Storytelling also gets a bad rap because it’s associated with “hype” — overpromising and under delivering. Recognizing a good story from a bad one helps investors avoid dreams and invest in the future. 
+
+**Favorite Quote:** **_“_**_As public market investors begin to evaluate younger and younger companies, their valuation tools become limited to subjective notions such as quality of the team and the uniqueness and boldness of the idea.  In other words, if there isn’t enough proof that a business already exists, then they must make a judgment as to whether one will.”_
+
+## **Years: 2000 – 2002**
+
+## **March 6, 2000: The Most Powerful Internet Metric of All (**[**link**](http://abovethecrowd.com/2000/03/06/the-most-powerful-internet-metric-of-all/)**)** 
+
+**Summary:** Conversion rate is the most important metric for internet-based companies. Why? Conversion rate captures _total user engagement_. It also boasts _high_ leverage. Here’s the big idea: **as conversion increases, revenue rises and marketing costs decline.** There are five things that affect conversion rate: 1) user interface, 2) performance (slow v. fast), 3) convenience, 4) effective advertising and 5) word of mouth. 
+
+**Favorite Quote: “**_Let’s assume you spend $10,000 to drive 5,000 people to your site, and your conversion rate is 2 percent. This means that 100 transactions cost you $10,000, or $100 per transaction. Now let’s assume your conversion rate rises to 4 percent. The same $10,000 buys you 200 transactions at a cost of $50 per transaction. An 8 percent rate gives you 400 transactions at a cost of $25 per transaction. As conversion rate goes up, revenue rises while marketing costs as a percentage of sales fall – that’s leverage.”_
+
+## **April 17, 2000: Can Napster Be Stopped? NO! (**[**link**](http://abovethecrowd.com/2000/04/17/can-napster-be-stopped-no/)**)**
+
+**Summary:** Napster paved the way for the free digital music we enjoy today. Here’s how. The software leveraged each user’s computer files and shared music freely between PC devices, not the internet. Napster’s popularity grew, and within six months the software had 9 million users. It took AOL 12 years to get to that figure. There are two important lessons from Napster: 1) the power of community-building and 2) information wants to be free. Connect those two lessons and you have an incredible community-based business. 
+
+**Favorite Quote:** **_“_**_Remember that the amount of bits it takes to represent high-quality audio is finite. Until the past few years, the amount of space on a hard drive, as well as the bandwidth required to transfer an MP3 file, was prohibitive for widespread usage. However, both bandwidth and storage space are susceptible to Moore’s Law. This means that within six years, the amount of drive space or bandwidth needed to trade high-quality music will be unnoticeably negligible. Emailing an entire album of music to a friend will be no different than forwarding a Microsoft Word document today.”_
+
+## **May 15, 2000: A Return to Demand-driven Capital (**[**link**](http://abovethecrowd.com/2000/05/15/a-return-to-demand-driven-capital/)**)**
+
+**Summary:** There is a **huge** difference between demand-driven and supply-driven start-ups. Demand-driven start-ups see an area of the market where a need doesn’t have a solution. Then, they create a company to fill that need. Supply-driven start-ups conceive companies on the idea that _one day_ consumers will need their solutions to problems that might not exist yet. The intellectual satisfaction of creating solutions is more appealing than bottom-fishing for long-standing consumer problems. At the end of the day, it’s better to start (and invest in) demand-driven businesses.  
+
+**Favorite Quote (emphasis mine):** **_“_**_I suspect what’s at work is that Plato-esque idea that creation is much more intellectually appealing than combing the earth for steadfast problems to solve._ **_But keep this in mind: Even a sexy Internet company like eBay was born of demand instead of supply._** _Founder Pierre Omidyar’s girlfriend wanted a place to trade Pez dispensers online. The company rose after the market voted. I suspect that entrepreneurs and venture capitalists alike would be well-served to return to the boring, but perhaps more successful, world of demand-driven capitalism.”_
+
+## **June 12, 2000: Like it or Not, Every Startup is Now Global (**[**link**](http://abovethecrowd.com/2000/06/12/like-it-or-not-every-startup-is-now-global/)**)**
+
+**Summary:** The rising prevalence of start-up infrastructure overseas poses a threat to US-based start-up companies. US start-ups face two main threats: 1) imitation from overseas competitors and 2) expanding too quickly. Faced with growing competition, US companies might go global before establishing a solid footprint on their home turf. This has devastating consequences as they’ll burn more cash and lose focus on their core markets. There are three solutions: 1) Joint ventures, 2) acquisitions and 3) start-up your own global market.
+
+**Favorite Quote:** _“Ironically, the same courage that leads a start-up to look overseas could cause failure if the company moves too quickly and aggressively or assumes it can get by without local partners. When considering such alternatives, it is important to keep one fact in mind: 50 percent of something is worth a lot more than 100 percent of nothing.”_
+
+## **July 10, 2000: The End of CPM (**[**link**](http://abovethecrowd.com/2000/07/10/the-end-of-cpm/)**)**
+
+**Summary:** Echoing Gurley’s 1998 article, 2000 saw the rise of performance-based advertising. The catalyst for such rapid adoption was the outflow of capital to money-losing internet companies. With tight budgets, companies needed ad campaigns that _worked_. The other catalyst is the proliferation of customer behavior data on company websites. Management can see exactly _who_ is on their site, how long they stay, and if they convert. 
+
+**Favorite Quote: “**_Of course, the biggest catalyst in the past 90 days has been the closing of the IPO market and the subsequent focus in the start-up world on profits and cost controls. This abrupt and refreshing change is a major accelerator that immediately tightens the belt of most Internet marketing departments and targets their spending on the most efficient forms of advertising they can find. Gone are the days when companies indiscriminately bought the “anchor tenancy” on the favorite portal just as a branding event.”_
+
+## **February 19, 2001: The Next Big Thing: 802.11b? (**[**link**](http://abovethecrowd.com/2001/02/19/the-next-big-thing-80211b/)**)**
+
+**Summary:** WiFi will revolutionize the way we conduct business and where we choose to interact online. While there are critics of the technology, there is no denying its potential to reach critical mass and spread nationwide. The _real_ catalyst for WiFi’s adoption is the move from corporate offices to homes, then to public places like colleges. 
+
+**Favorite Quote: “**_Like other dislocating technologies, Wi-Fi is now working its way from the office into the home. While home networks are still in their infancy, the benefits of a wireless architecture may be even higher than at the office. Who has the capability to rewire their whole house? And although less obvious, the interest in aesthetics at home heightens the benefit of not stringing wires halfway across the room. Also, as we integrate the home entertainment center with the PC, a wireless link is particularly appropriate. Lastly, what if I could carry my laptop home from work, lay it on the kitchen counter and be online instantly? You can today with Wi-Fi.”_
+
+## **June 25, 2001: The Smartest Price War Ever (**[**link**](http://abovethecrowd.com/2001/06/25/the-smartest-price-war-ever/)**)**
+
+**Summary:** Dell engaged in the smartest price war ever. Their business model, which focused on just-in-time inventory, resulted in positive cash-flows even under income statement compressions. Through five-day inventory, 59-day average payables and 30 days receivables, Dell generated a _negative_ cash conversion cycle. This allowed them to cut prices while their competitors’ models couldn’t allow such maneuvers. Competitors were forced into a lose-lose situation (cut prices and lose margin or not participate and lose market share). 
+
+**Favorite Quote:** _“Much has been written about Dell’s direct model, which removes the middleman, along with his margin, from the sales process. And others have noted that Dell’s incredible five days of inventory allow it to pass on component price declines faster than anyone else in the industry. But perhaps the unique aspect of Dell’s business advantage is its negative cash conversion cycle. Because it keeps only five days of inventories, manages receivables to 30 days, and pushes payables out to 59 days, the Dell model will generate cash—even if the company were to report no profit whatsoever.”_
+
+## **August 13, 2001: Bye, Bye, Bluetooth (**[**link**](http://abovethecrowd.com/2001/08/13/bye-bye-bluetooth/)**)** 
+
+**Summary:** WiFi will eliminate the need for Bluetooth. In its simplest explanation, WiFi works for the internet model whereas Bluetooth works for walkie-talkies. That’s a huge difference. It also shows the power of companies that can quickly cut products/ideas that fail despite tremendous sunken-costs. Bluetooth was a three-year push designed to revolutionize the way computers and devices interacted. Then WiFi came along. Those that quit Bluetooth early not only had a head start on their stubborn competition, they also saved thousands in wasted R&D. 
+
+**Favorite Quote: “**_Even without competition from Wi-Fi, Bluetooth would have major challenges. That’s because the very concept of a cable replacement like Bluetooth is flawed. In a world where every device is connected to a single network (read: Internet), there is no need to connect individual devices on an ad hoc basis. Consider this – a walkie-talkie is a device that supports communication directly between two nodes. A cell phone is a device that supports communications between “any” two nodes because they are all connected to a common network and they all have unique addresses. Blue-tooth is to a walkie-talkie whereas 802.11 connected to the Internet is more analogous to the cell-phone model.”_
+
+## **October 1, 2001: Tapping The Internet (**[**link**](http://abovethecrowd.com/2001/10/01/tapping-the-internet/)**)**
+
+**Summary:** After the terrorist attacks on 9/11, many government officials sprang forward, calling for increased surveillance and backdoors on many privacy networks. The main argument was that these terrorists had access to _high level_ technology and software. The reality was less cinematic. Osama Bin Laden used Steganography to spread information amongst his followers. Unfortunately for senators, Steganography uses _every day_ files like images to transmit messages. So it’s not as simple as allowing backdoor access to private channels. 
+
+**Favorite Quote: “**_The government should not give up on computer surveillance. In fact, as a tool that is used to track down a particular offender after isolation and identification, these technologies can be extremely effective. However, we should not be unrealistic about what type of “magic” spy technologies are at our disposal. We are only going to spend a lot of money, waste a lot of time, and create a false sense of security.”_
+
+## **October 29, 2001: When It Comes to Pricing Software, the Greener Grass Is Hard to Find (**[**link**](http://abovethecrowd.com/2001/10/29/when-it-comes-to-pricing-software-the-greener-grass-is-hard-to-find/)**)** 
+
+**Summary:** The internet allowed software companies to price their product as a subscription service (SaaS) right when companies were facing hardship. The SaaS model eliminates the high-dollar upfront sales pitch and allows the company to generate predictable revenue during the year. However, stretching revenues over months (not upfront) increases short-term operating losses. Those that can withstand the short-term negativity should reap the long-term rewards of the SaaS model. 
+
+**Favorite Quote:** **_“_**_About this same time, the rise of the Internet gave birth to the idea of an ASP – a model where software would be delivered as a service over the web, and customers would “subscribe” to the software. Analysts raved at the genius of the idea. With this model, the customer would pay an incremental fee each month, therefore eliminating the “start from zero” sales game inherent in the software model. Assuming no loss of customers, the revenue from last quarter is already booked for this quarter – all new sales theoretically represent incremental growth.”_
+
+## **April 3, 2002: It’s Time to Put a Stop to Spam (**[**link**](http://abovethecrowd.com/2002/04/03/its-time-to-put-a-stop-to-spam/)**)**
+
+**Summary:** Hackers and spammers always find a way to exploit new technology. Spammers were so bad in 2002 that Gurley had to write about it. The problem lies in time spent deleting spam messages. Time that should garner more productive activities like business. This creates incentives for start-ups to solve such problems. But, the biggest risk facing these spam software companies is a false positive. False positives could delete an email that _was legit_ — potentially costing companies millions in lost revenues. 
+
+**Favorite Quote: “**_Email is fast becoming the preferred communication medium for many corporations. Moreover, email is also the baseline for many new cross-company workflow applications. We simply cannot allow a bunch of Viagra ads to put a dent in the evolution of the global economy.”_
+
+## **Years: 2003 – 2005**
+
+## **January 6, 2003: 802.11 & Cellular: Competitor or Complement? (**[**link**](http://abovethecrowd.com/2003/01/06/80211-cellular-competitor-or-complement/)**)**
+
+**Summary:** Gurley explains that WiFi is to 3G as the personal computer was to the mainframe. By understanding the mainframe/personal computing industry, you could “see” the future of WiFi and cellular data. No-one envisioned personal computers operating hundreds of websites or ERP systems. Yet technologists built products on top of the standardized mainframe. WiFi is no different. At the time, a ~$30 WiFi radio and a Pringles can could get you high-speed connectivity at a 10 mile distance. To Gurley, WiFi and cellular data are complementary. Like chips and salsa, with WiFi stealing incremental market opportunities over time. 
+
+**Favorite Quote:** **_“_**_This exact thing is currently happening with 802.11. This tiny, and increasingly inexpensive radio is already shockingly versatile. The same $30 radio can be used to serve wireless connectivity in your office, connect both you PCs and your multimedia in your home, and provide coverage to a police force across an entire downtown area. Add a Pringles can as a directional antenna (no kidding!), and this $30 radio is capable of providing high-speed line-of-sight connectivity at a distance of 10 miles. In fact, the majority of the volume in the line-of-sight fixed wireless market has shifted almost entirely to low-cost 802.11 radios.”_
+
+## **February 10, 2003: Software in a Box: The Comeback of the Hardware Based Business Model (**[**link**](http://abovethecrowd.com/2003/02/10/software-in-a-box-the-comeback-of-the-hardware-based-business-model/)**)**
+
+**Summary:** Software companies might pitch their product inside a hardware offering, going against conventional Silicon-Valley logic. Gurley notes that while pure software businesses generate higher margins with lower capital intensity, it comes at a cost: **software-only business models are harder to execute.** Gurley saw the software-in-a-box path as the easier option because it addressed seven key issues: 
+
+1.  Development complexity/Quality Assurance
+2.  Performance
+3.  Security
+4.  Provisioning
+5.  Reliability/Stability/Customer Service
+6.  Pricing
+7.  Distribution
+
+**Favorite Quote: “**_There is a silver lining. The industry has changed in ways that improve the “business model” elements of selling hardware. The key driver is the standardization and general availability of hardware components, particularly those used in generic Intel-based 1U servers. As a result, the hardware is not a proprietary design, but rather a type of packaging. Think of it as an alternative to a cardboard box.”_
+
+## **March 18, 2003: Pay Attention to BPM (**[**link**](http://abovethecrowd.com/2003/03/18/pay-attention-to-bpm/)**)**
+
+**Summary:** Business Process Management, or BPM, will change all of business. Gurley was so excited about BPM because it solved four main sticking points in an enterprise’s day-to-day process: 
+
+1.  Codifying current processes
+2.  Automating execution
+3.  Monitoring current performance
+4.  Making on-the-fly changes to improve current processes
+
+For the first time, employees could “hand off” applications to other employees inside the firm. This allowed for faster improvement and implementation of better processes throughout the organization. 
+
+**Favorite Quote: “**_Of course, the real winners here will be customers that embrace BPM to further automate, enhance, streamline, and optimize their core business processes. These processes are the core intellectual property of most businesses. And just as the level of competition in manufacturing increased with JIT, the level of competition with respect to non-manufacturing business processes will increase with BPM. Companies that lead will succeed.”_
+
+## **April 23, 2003: Dot-com Double Take (**[**link**](http://abovethecrowd.com/2003/04/23/dot-com-double-take/)**)**
+
+**Summary:** Many investors threw all “Internet Based” businesses out with the bathwater during the Dot-Com bubble. According to Gurley, that was clearly the wrong approach. Underneath the grime of pump-and-dump schemes, the Dot-com Bubble created durable, profitable businesses (like AMZN, GOOGL, Verisign, etc.). 
+
+Gurley saw four reasons why these left-for-dead Internet companies worked: 
+
+1.  They weren’t bad ideas.
+2.  Rationality set in first. 
+3.  Quick capacity reduction. 
+4.  Internet usage growth is systematic, not cyclical. 
+
+**Favorite Quote:** **_“_**_Consumer spending may be down 5%, but online spending is still such a small percentage of overall consumer spending that growth results from the continued increase in online usage. With IT expenditures already at 50% of corporate capital expenditures, the opposite is true for traditional information technology spending.”_
+
+## **June 10, 2003: In Search of the Perfect Business Model: Increasing Marginal Utility (**[**link**](http://abovethecrowd.com/2003/06/10/in-search-of-the-perfect-business-model-increasing-marginal-utility/)**)**
+
+**Summary:** Increased marginal utility (IMU) is the holy grail of capitalism. It’s also easier than ever to attempt IMU in our internet-based world. IMU means that for each incremental time a customer uses your product/service, they receive **more** value than the previous time they used it. You don’t need switching costs in an increasing marginal utility ecosystem. Why? Because switching costs lock in a customer in an “I win, you lose” scenario. In an IMU world, the customer feels _left out_ if they don’t use your product or service. **The goal: find companies that produce increased marginal utility for their customers.** 
+
+**Favorite Quote: “**_This may be the nirvana of capitalism – increased marginal customer utility. Imagine the customer finding more value with each incremental use. Some may suggest that this concept already exists in the form of volume discounts. However, this offers a vendor no real competitive advantage, as all of its competitors are likely to offer the same discount to large purchasers. Others may feel this is just a buffed-up version of “high switching costs.” On the contrary, increased marginal customer utility preempts the need to impose switching costs, which can be seen as “trapping” or “tricking” the customer. Instead, the customer who abandons increasing marginal customer utility would experience ‘switching loss.’”_
+
+## **July 16, 2003: The Comeback of the Mobile Internet (**[**link**](http://abovethecrowd.com/2003/07/16/the-comeback-of-the-mobile-internet/)**)** 
+
+**Summary:** Mobile internet flourished thanks to the growth in cell phones. With cell phones, billions of people could access the internet, purchase items, and engage in content. In fact, cell phones will _dominate_ the war against PCs. There are a few reasons Gurley believes this claim. First, cell phones are everywhere. Billions of people have them. Second, they’re portable, allowing users to kill time on apps and games. Third, people are more likely to purchase over the internet on their phones. Finally, IP addresses make it easy for billions of users to connect simultaneously. 
+
+**Favorite Quote: “**_While a more carrier-friendly split may be good for the carrier’s bottom line, it could drive content providers to more generous carriers, rendering the greedy carriers’ offerings less attractive to users. Interestingly, one of the most successful content platforms, Japan’s DoCoMo service, is built around an extremely generous 91%-9% split, which is more favorable than all U.S. and European carriers’ current deals. The carriers are all walking a fine line between driving revenues and creating a viable ecosystem to encourage publishers to invest in content.”_
+
+## **August 23, 2003: Much Ado About Options (**[**link**](http://abovethecrowd.com/2003/08/21/much-ado-about-options/)**)**
+
+**Summary:** People worry too much about stock options and their impact on bottom-line earnings. Yes, there are certain instances where stock options balloon to large percentages of pre-tax earnings. But those are few and far between. Also, it doesn’t _really_ matter whether a company grants options or restricted stock. Both offer employees skin in the game, and both cost the company roughly equal equity. That said, restricted stock incentivizes value retention. Whereas options incentivize value creation. 
+
+**Favorite Quote:** **_“_**_In addition, restricted stock grants could encourage a form of widespread corporate conservatism. If an executive is granted $2MM worth of stock, he or she might have incentive to help increase the price to say $2.3MM, or 15%. That said, the incremental $300K is peanuts when it comes to protecting the value of the $2MM already on the table. There is a huge difference between corporate sustainability and corporate value creation. GM traded at $38 per share in 1994, and since it is $38 per share today, it has “sustained” value for the past nine years. Is this the type of behavior we hope to encourage?”_
+
+## **October 7, 2003: Beware the Digital Hand (**[**link**](http://abovethecrowd.com/2003/10/07/beware-the-digital-hand/)**)** 
+
+**Summary:** Digitization is great for consumers, but awful for consumer electronics producers. Semiconductors make electronics faster, cheaper and more powerful. Who reaps the rewards? The semiconductor industry. That’s where differentiation happens. Consumer electronics (CE) companies commoditize, forced to differentiate another way: **supply chain.** The CE leaders will be the ones with the shortest distance between their product and the customer. 
+
+**Favorite Quote:** _“Digitization is creeping its way across the entire consumer electronics industry, as we slowly remove analog media and components from our lives. While this is good news for consumers who benefit from the low prices that the digital hand ensures, the quid pro quo for businesses is brutal competition.”_
+
+## **December 18, 2003: Cleaning Up After the Ninth Circuit in an Attempt to Save the Internet (**[**link**](http://abovethecrowd.com/2003/12/18/cleaning-up-after-the-ninth-circuit-in-an-attempt-to-save-the-internet/)**)** 
+
+**Summary:** A regulated internet disproportionately hurts these four groups: **consumers, IT businesses, American competitiveness,** and **RBOCs**. Regulation hurts consumers in the form of higher prices to compensate for increased taxes. IT businesses hurt because if you slow the speed of internet adoption, you remove the runway for the IT industry. This translates into competitiveness issues as places like South Korea see 60%+ internet adoption. Finally, RBOC’s hurt because it would be a repeat of DSL regulations, which slashed growth and prompted the switch to cable modems. 
+
+**Favorite Quote:** **_“_**_We should all know by now that rather than increasing competition, regulation typically reinforces monopolies and oligopolies. Startups will not and cannot prevail in heavily regulated industries. They lack the required resources and capital to manage fifty different utility commissions on a hundred different regulatory issues. For this same reason, you will never see a startup deliver an automobile in the U.S. as the regulatory red tape swamps all efforts. Increased regulation will do nothing more than ensure that new competitors and innovative solutions are permanently locked out of the market.”_
+
+## **February 2, 2004: The Rise of Open-Standard Radio: Why 802.11 is Under-Hyped (**[**link**](http://abovethecrowd.com/2004/02/02/the-rise-of-open-standard-radio-why-80211-is-under-hyped/)**)**
+
+**Summary:** WiFi will dominate wireless communications for the same reason Ethernet dominated networking and x86 dominated computing: _high switching costs._ This wide-scale adoption causes capital to flow into the standard as companies look to differentiate on top of the existing platform. In doing so, it further entrenches the “open-standard” incumbent. 
+
+**Favorite Quote:** _“Open standards obtain a high “stickiness” factor with customers as a result of compatibility. Once customers invest in a standard, they are likely to purchase more and more supporting infrastructure. As their supporting infrastructure grows, their switching costs rise dramatically with respect to competitive alternate architectures. Customers are no longer tied simply to the core technology, but also to the numerous peripherals and applications on which they are now dependent. All of these things make challenging an accepted open standard a very difficult exercise.”_
+
+## **March 24, 2004: All Things IP: the Future of Communications in America (**[**link**](http://abovethecrowd.com/2004/03/24/all-things-ip-the-future-of-communications-in-america/)**)**
+
+**Summary:** South Korea and Japan are leading the world in broadband speed and connectivity. South Korea, for example, sports 80% broadband adoption. The US on the other hand, less than 50%. Different players battle for the future of US communication. Free services like Skype offer high-quality VoIP calls. But it’s the cable companies, with their mega-cable infrastructure, that lead the way. At the end of the day follow the money. Comcast went after Disney not because of distribution, **but because of content.**
+
+**Favorite Quote: “**_Now, while voice should be free, that doesn’t mean that it will be free. The two conditions outlined above are nontrivial. First and foremost, it is not at all clear that we have enough competition in the U.S. broadband market. Innovations in the wireless market, particularly recent innovations around mesh architectures, have the opportunity to change this. As of right now, however, many users simply lack choice. Additionally, the many state municipalities around the country are eager to place their hands on VoIP. A poorly executed policy could in fact “increase” the long term pricing on voice services for all users (for example, would you really tax a free service?).”_
+
+## **May 6, 2004: Entrepreneurialism and Protectionism Don’t Mix (**[**link**](http://abovethecrowd.com/2004/05/06/entrepreneurialism-and-protectionism-dont-mix/)**)** 
+
+**Summary:** Protectionism and entrepreneurialism don’t work together. One prides itself on open dissemination of ideas, talent and problems (entrepreneurialism). The other (protectionism) desires to keep what’s theirs and turn a blind eye to competition. There are seven reasons why these two ideologies don’t mix: it hurts the economy (comparative advantage), start-ups don’t receive government subsidies (that encourage protectionism), disincentivizes diversity, more start-ups start with a global presence, the hot markets are ex-US, it goes against our global open standards (WiFi, etc.) and its inconsistent with the entrepreneurial mindset. 
+
+**Favorite Quote:** _“It is hard to imagine a successful entrepreneur arguing that he or she deserves a job over someone else that is equally skilled and willing to work for a lower wage. The entire spirit of entrepreneurialism is based on finding ways to do something better, faster, and cheaper. It is the whole nature of the game. If someone can do something better somewhere else, it simply means it’s time to innovate again – with intellect and technology, not politics.”_
+
+## **October 19, 2004: The Revolutionary Business of Multiplayer Gaming (**[**link**](http://abovethecrowd.com/2004/10/19/the-revolutionary-business-of-multiplayer-gaming/)**)** 
+
+**Summary:** Multiplayer gaming is an incredible business featuring five “Buffett-Like” business characteristics: recurring revenue (subscription pricing), competitive moats (switching costs), network effects/increasing returns, real competition with others and high brand engagement. Those that fail to realize the importance (and power) of the video game business model (40%+ operating margins) will miss a huge investment opportunity. 
+
+**Favorite Quote: “**_Some skeptics argue that MMOG is still a “niche” business and that the same half-million users are migrating from Everquest to Ultima Online to City of Heroes. Under this theory, MMOGs will never be mass market and will never really “matter” in the $20 billion interactive entertainment business. However, with billion dollar businesses now dotting the NASDAQ, it becomes harder and harder to invoke such skepticism. And if new paradigms, architectures, and broadband speeds allow for titles that meet the needs of a wider demographic, ignoring MMOGs may be equivalent to ignoring the successor to television.”_
+
+## **March 11, 2005: Believe It or Not: Your State Leaders May Be Acting to Slow the Proliferation of Broadband (**[**link**](http://abovethecrowd.com/2005/03/11/believe-it-or-not-your-state-leaders-may-be-acting-to-slow-the-proliferation-of-broadband/)**)**
+
+**Summary:** In 2005, rumors circulated that laws would pass eliminating a city’s right to offer telecommunications services to its citizens. Gurley suggested states should say “no way” to this offering, and opined six reasons why (straight from the post): 
+
+1.  The primary reason for the proposition is to reduce or eliminate competition for incumbent telcos
+2.  An oligopoly doesn’t make a marketplace
+3.  Taking rights from municipalities will have negative overall impact on American innovation 
+4.  Even if a city has no intention of deploying wireless services, it is still in that city’s best interest to retain the right to do so
+5.  In 2005, isn’t it reasonable for a city to choose to offer broadband as a community service? 
+6.  A founding American principle — localized government whenever possible
+
+**Favorite Quote: “**_In what is ostensibly the cornerstone “democracy” on the planet, one would think that the citizens in each of America’s cities could simply “vote” on the services they believe make sense for their city to provide.  Running a wireless network in a city like Topeka, Kansas simply has no overriding impact on the state as a whole.  As Thomas Jefferson aptly wrote in a letter to William Jarvis in 1820, “I know of no safe depository of the ultimate powers of society but the people themselves; and if we think them not enlightened enough to exercise their control with a wholesome discretion, the remedy is not to take it from them, but to inform them.””_
+
+## **March 21, 2005: The State of Texas Refuses to Block Municipal Broadband (**[**link**](http://abovethecrowd.com/2005/03/21/the-state-of-texas-refuses-to-block-municipal-broadband/)**)**
+
+**Summary:** Gurley’s post before this one did its job and Texas removed the harsh language around cities offering broadband access to its citizens. According to Gurley, the battle moved to Colorado. 
+
+**Favorite Quote:** **_“_**_This proposed bill, in its original form, would prohibit a city from helping any new carrier whatsoever get started.  It’s a pure and blatant anti-competitive move.  It’s been modified slightly, but it is still one of the harshest proposals of any state, and once again created only to help the incumbent carriers by removing competition.  Consumers do not benefit from this language.”_
+
+## **March 24, 2005: Texas Two Step – Backwards (**[**link**](http://abovethecrowd.com/2005/03/24/texas-two-step-backwards/)**)**
+
+**Summary:** After celebrating the removal of restrictive broadband language three days prior, Texas reinserted the notion. What’s crazy is that the member who reinserted the language, Robert Puente, serves in a district where a large telco company has its headquarters. Hmm … 
+
+**Favorite Quote:** **_“_**_It is shocking that these local reps really don’t care if broadband deployment in America continues to fall further and further behind the rest of the world.  Just shocking.”_
+
+## **June 2, 2005: Texas Sets Key Precedent for Other States in Refusing to Ban Municipal Wireless (**[**link**](http://abovethecrowd.com/2005/06/02/texas-sets-key-precedent-for-other-states-in-refusing-to-ban-municipal-wireless/)**)**
+
+**Summary:** It’s interesting that fixed broadband incumbents in Texas are so opposed to wireless broadband. The incumbents claim wireless is a weaker form of their product. But if it’s so weak, why do they want it banned from their state? Why won’t they let natural competition run its course? If it is indeed weak, there shouldn’t be a reason to impose sanctions and restrictions. 
+
+**Favorite Quote: “**_The reason the pro-broadband movement was successful is because they organized, they gathered the real data on the success of municipal wireless deployments, and they were able to inform the citizens about this effort by the incumbents and their key legislators to use regulation to restrict competition.  They leveraged the Internet, blogs, and mailing lists, and made a huge difference.  The tech community also played a role with the AEA, the Broadband Coalition, and TechNet all speaking out against this effort to intentional slow technical progress.  These lessons and resources are now focusing on other states to ensure the Texas outcome.”_
+
+## **July 12, 2005: DVD Glut (**[**link**](http://abovethecrowd.com/2005/07/12/dvd-glut/)**)**
+
+**Summary:** Gurley saw the rise of TiVo and its effect on the DVD industry. Why would people pay for DVDs when they can record their favorite movies on TV and watch them whenever they want? There is no _practical_ use for DVDs outside nostalgia and collection. 
+
+**Favorite Quote: “**_Could it be that people are watching Shrek 2 on Tivo and saving that on Tivo for future viewing?  Could it be that other activities, such as Internet usage, is infringing on DVD time?”_
+
+## **July 19, 2005: Do VCs Help in Building a Technology Platform? (**[**link**](http://abovethecrowd.com/2005/07/19/do-vcs-help-in-building-a-technology-platform/)**)**
+
+**Summary:** There are two important implications for venture capital’s lack of investment in Microsoft’s .NET platform. First, VCs are investing on the Open Platform. This is likely due to (what Gurley calls) “a more benign” platform. Such a platform allows for more creativity and application. Second, VCs aren’t investing in .NET applications because Microsoft’s simply going up the software vertical (owning each spot). There is a lack of opportunity within the existing .NET framework. 
+
+**Favorite Quote: “**_Venture Capitalists look to the public markets for clues on where to go next.  There is no point in investing in technologies that don’t lead to liquidity events.  What the article stresses is that the majority of VC money these days is being spent on top of the Open Source platform rather than the Microsoft’s .Net platform.”_
+
+## **July 22, 2005: Wifi Nation… (**[**link**](http://abovethecrowd.com/2005/07/22/wifi-nation/)**)**
+
+**Summary:** This article gives us an excuse to talk about Innovator’s Dilemma. Clayton Christensen coined the term in his book with the same title. Wikipedia defines the term as, _“the new entrant is deep into the S-curve and providing significant value to the new product. By the time the new product becomes interesting to the incumbent’s customers it is too late for the incumbent to react to the new product.”_ In short, WiFi is disrupting the incumbent broadband and their end consumers. Also, WiFi isn’t built for the incumbents. It’s built for the next generation. 
+
+**Favorite Quote: “**_What you will see, and what many continue to deny, is that Metro-scale Wifi isn’t a theory, its a reality.  The networks are live.  They perform way better than EVDO or any cellular alternative. They are cheaper to deploy.  AND, there is huge momentum around more and more networks.”_
+
+## **Years: 2006 – 2008**
+
+## **April 5, 2006: Why SOX Will Lead to the Demise of U.S. Markets (**[**link**](http://abovethecrowd.com/2006/04/05/why-sox-will-lead-to-the-demise-of-us-markets/)**)**
+
+**Summary:** Sarbanes-Oxley (SOX) killed the small and micro-cap public market spirit. Like most regulations, the creators of SOX thought their stipulations would _preserve_ the growth of public markets. Instead it stunted growth. SOX is an expensive requirement for smaller public companies. The costs disincentivize companies from going public. In return, US capital markets offer less opportunities than global companions. Will this lead to more money flowing overseas?
+
+**Favorite Quote: “**_Ironically, the two gentlemen that created SOX did it with the intention of “preserving” U.S. capital market leadership. Their fear was that people viewed our markets as too risky, and so they created SOX to ensure that investors would “trust” our markets.”_
+
+## **April, 2006: As Wifi Grows, So Do the PR Attacks (**[**link**](http://abovethecrowd.com/2006/04/25/as-wifi-grows-so-do-the-pr-attacks/)**)**
+
+**Summary:** There will always be haters when new technology replaces old, resentful incumbents. Can you blame them? WiFi completely destroyed their business model. Of course they’re going to run sham campaigns. But that’s the beauty of the Innovator’s Dilemma. WiFi doesn’t care about fixed broadband and incumbents. It’s serving its new wave of customers who want something incumbents can’t offer. Look for this in other up-and-coming technologies. 
+
+**Favorite Quote: “**_Better performance than EVDO at a much lower cost.  You won’t stop this with an AP article.  Are their issues?  Sure, but I drop 5 cell calls a day in Silicon Valley and that technology (cellular voice) is over 25 years old.”_ 
+
+## **April 27, 2006: MMOs (MMORPGs) Continue to Rock (**[**link**](http://abovethecrowd.com/2006/04/27/44/)**)**
+
+**Summary:** Gurley again emphasizes the importance of MMO video games — particularly out of Asia. In fact, he mentions that Nexon (Japanese gaming company) plans to file on the JSE. Gurley believes the JSE filing is directly correlated with Sarbanes Oxley (from the article above). Regardless, the real winners in the video game industry are coming from Asia. Winning games will be based on community and entertainment, rather than pure competition. It’s no wonder Fortnite is so popular today. Gurley gave us clues almost 20 years ago. 
+
+**Favorite Quote: “**_Many of the rising stars of multi-player interactive entertainment are more social than interactive. They also target much broader demographics than gaming ever dreamed of hitting. Consider three sites targeted at younger children and teens that are all doing extremely well — NeoPets, HabboHotel, and GaiaOnline (Benchmark is an investor in HabboHotel).”_
+
+## **June 19, 2008: Back to Blogging (maybe)… (**[**link**](http://abovethecrowd.com/2008/06/19/back-to-blogging-maybe/)**)**
+
+**Summary:** Gurley returned from his writing break to mention a few of his favorite reading sources. Gurley notes that he reads each of these websites every morning: 
+
+*   [TechCrunch](https://techcrunch.com/)
+*   [GigaOm](https://gigaom.com/)
+*   [Marc Andressen’s Blog](https://blog.pmarca.com/)
+
+**Favorite Quote: “**_The bottom line is I have been really busy. Busy with our investments here at Benchmark, and busy with three growing kids at home.  But in the end, I am quite fond of writing, and I have been inspired by some of the great writing of others.”_
+
+## **June 30, 2008: Bleak VC Quarter? Why? (**[**link**](http://abovethecrowd.com/2008/06/30/bleak-vc-quarter-why/)**)**
+
+**Summary:** June 2008 marked another dreary quarter for venture capital. Not one single VC-backed company went public. At first glance, this seems bad for venture capital_._ But looking deeper, it’s not venture capital that’s the issue. It’s the _public market._ Between regulations and SOX costs, small companies are opting to remain private at record numbers. As Gurley notes, fund managers _want_ high growth and capital appreciation. But these small growth companies don’t want the issues of being a public company. 
+
+**Favorite Quote: “**_This passionate desire to be public is completely gone in Silicon Valley. For reasons you could easily list – Sarbanes Oxley; 12b1 trading rules; shareholder litigation; option pricing scandals; personal liability on 10-Q filing signatures – it is simply not much fun being a public executive.”_
+
+## **July 22, 2008: BAILOUT what? (**[**link**](http://abovethecrowd.com/2008/07/22/bailout-what/)**)**
+
+**Summary:** Fascinating how relevant this quote is for 2020. What we’ve seen from the US government during the COVID pandemic is a double-downed effort on its bailout precautions. Even going so far as to buy bond ETFs on the open market! Capitalism requires failure. It requires weak businesses to fall by the wayside in exchange for stronger competitors. 
+
+**Favorite Quote: “**_Is our government really going to bail out equity investors in a failed business enterprise? I totally get keeping America afloat, but it is critical that failed businesses FAIL. They must FAIL. You can’t provide band-aids to equity failure. The whole system will come to a halt. Risk that pans out must result in failure. it is a crucial part of the system.”_
+
+## **December 1, 2008: Benchmark Capital: Open For Business (**[**link**](http://abovethecrowd.com/2008/12/01/benchmark-capital-open-for-business/)**)**
+
+**Summary:** Gurley and the Benchmark team continued investing while the rest of their VC peers cowered in fear during the bowels of the Great Recession. Investing when others are fearful is not only a sign of a great VC firm, but _any_ great company. 
+
+**Favorite Quote: “**_I can’t speak for other firms, but make no mistake about…Benchmark Capital is wide open for business and we are eager to invest new capital behind great entrepreneurs.  Right now.  In this environment.  Today. You may wonder why I feel the need to make this pronouncement, and you may even consider this a stunt.  It is not.   We have made fourteen new investments this year, and are actively considering new investments each and every day.”_
+
+## **December 5, 2008: Do VCs Help in Building a Technology Platform; Part 2 (**[**link**](http://abovethecrowd.com/2008/12/05/do-vcs-help-in-building-a-technology-platform-part-2/)**)**
+
+**Summary:** Microsoft offers three years of free software/service to startups. This is a clear signal that Microsoft understands the power of platforms and where companies choose to build their products. Otherwise, as Gurley notes, why offer it for free? This comes on the heels of three new cloud platform technologies entering the space: Facebook, Salesforce and Amazon AWS. VCs may not choose which platform wins, but they choose which platform gets capital. And to some, that’s the same thing. 
+
+**Favorite Quote: “**_It obviously would be overstating it to suggest that VCs help “choose” the platform that wins. That said, it is a powerfully positive indicator if VCs show confidence in a new platform by shifting where they deploy their capital.”_
+
+## **Years: 2009 – 2011**
+
+## **February 1, 2009: Google Stock Option Repricing: Get Over It (**[**link**](http://abovethecrowd.com/2009/02/01/google-stock-option-re-pricing-get-over-it/)**)**
+
+**Summary:** Retail investors, bloggers, and financial pundits argued that Google’s Stock Options Repricing hurt the “common” shareholder. Gurley thinks stock options shouldn’t matter because common shareholders gave up their rights (more or less) when investing in Google shares. The fact is, Google’s founder and original shareholder shares carry 9/10ths voting power. That means minority (aka second-class citizen) shareholders get 1/10th. In other words, **deal with it.** 
+
+**Favorite Quote:** **_“_**_So my reaction to anyone who owns Google stock and is sore over this decision — Get Over It.  You bought a stock where you gave up the ability to vote on such things, and if you don’t like it, sell the stock.  But you have no right to complain, as the rules were laid out from the beginning.”_
+
+## **February 11, 2009: Picture Proof of the Innovator’s Dilemma: SlideRocket (**[**link**](http://abovethecrowd.com/2009/02/11/picture-proof-of-the-innovators-dilemma-sliderocket/)**)**
+
+**Summary:** With a team of 3 engineers and a fraction of Microsoft’s budget, SlideRocket created (arguably) a better version of PowerPoint. According to Gurley, SlideRocket is a _perfect_ example of the Innovator’s Dilemma. PowerPoint took (probably) billions of dollars in R&D and thousands of engineers to create. SlideRocket did it with 4 orders of magnitude less resources. 
+
+**Favorite Quote:** **_“_**_One subtlety of this is that it allows others to catch up and basically recreate the same thing for a fraction of the cost.   In SlideRocket’s case, it appears that a team of 3 engineers with primary work done by the founder, have recreated PowerPoint (leveraging Flex of course).”_ 
+
+## **February 18, 2009: Just Say No to a VC Bailout: A Green Government Venture Fund Is a Flawed Idea (**[**link**](http://abovethecrowd.com/2009/02/18/just-say-no-to-a-vc-bailout-a-green-government-venture-fund-is-a-flawed-idea/)**)**
+
+**Summary:** Some VC investors wanted a bailout from the government during the GFC. Gurley originally thought this was a far-cry from a lone complainer. Then he read an article by Thomas Friedman suggesting the same thing: a bailout for VC targeted at green-tech companies. According to Gurley, VC bailouts are flawed for six reasons:
+
+1.  **There are no lack of capital in VC**
+2.  **VCs don’t deserve a bailout**
+3.  **Those that need bailout are (likely) bad ideas**
+4.  **Excess capital hurts markets**
+5.  **Good companies don’t lack for capital**
+6.  **Use customer subsidies instead of government-backed VC investment**
+
+**Favorite Quote:** **_“_**_Great ideas have never suffered from a lack of capital availability.  Bringing extra government dollars to the investment side will only ensure that marginal and sub-par companies get more funding dollars, which historically has had a perverse and negative effect on the overall market.”_
+
+## **February 22, 2009: Just Say No to a VC Bailout – Part 2 (**[**link**](http://abovethecrowd.com/2009/02/22/just-say-no-to-a-vc-bailout-part-2/)**)**
+
+**Summary:** Continuing the rant from the previous blog post, Gurley hits on three main criticisms with Friedman’s cry for a VC bailout. First, Friedman suggested that the US Treasury give the Top 20 VC firms up to $1B to “invest in the best VC ideas”. When you consider the 2% annual fee each year that VC’s take, you’re effectively giving these firms an additional $4B in partners’ fees. Finally, Gurley hammers home the idea that to win in green-tech you need to incentivize the customer on the demand side. Create a positive ROI proposition for the customer to use the product or service. 
+
+**Favorite Quote:** **_“_**_The key is to create an ROI positive investment for the end customer through subsidies.  Ethanol isn’t falling to succeed because of a lack of capital — it’s a problem with customer ROI.  Invest through subsidies in making the market huge and ROI positive.  Capital alone will not solve the problem as the ethanol case proves.”_
+
+## **February 27, 2009: Perfect Online Video Advertising Model: Choose Your Advertiser (**[**link**](http://abovethecrowd.com/2009/02/27/perfect-online-video-advertising-model-choose-your-advertiser/)**)**
+
+**Summary:** Gurley reveals his “perfect online video advertising model” in which consumers can choose their advertiser. It works like this. Before an online premium or VOD show starts, the content creators present the consumer with a list of 4-9 sponsors for the programming. Then, the consumer picks which sponsor they’d like to see when the inevitable ad runs during their program. The benefit to this is that content creators would know their customers’ interests to the tee, which would allow them to raise prices on advertising channels (read: higher revenue). 
+
+**Favorite Quote: “**_Just because I am a male between 18-24 and watching “Lost” doesn’t mean I want an XBOX.  You are more likely to guess that i might want it, but you would be 10X better off if I chose XBOX as my sponsor at the start of the show.  Then you would KNOW I have an interest — no more guessing. Making predictions is always a dangerous game, but I am fairly certain that this will be the video ad model of the future.  It makes way too much sense not to work.”_
+
+## **March 2, 2009: Looking For Work: Are You an Insurance Agent? (**[**link**](http://abovethecrowd.com/2009/03/02/looking-for-work-are-you-an-insurance-agent/)**)**
+
+**Summary:** One of Gurley’s investments had an unusual circumstance during the GFC: **they had excess demand for work.** LiveOps, a virtual SaaS call center on the cloud, leverages a network of work-from-home call center operators. At the time of writing, LiveOps had 20,000+ live call-center agents working from home assisting companies like Aegon, Colonial Penn, and American Idol. 
+
+**Favorite Quote:** **_“_**_Their core technology is a SAAS “contact center in cloud.” Just like anyone’s call center, it is a four-9’s operation that is highly resilient. What’s different, and very unique, is that the agents on the other end don’t actually work for LiveOps – they work for themselves. So far, over 20,000 “crowd-sourced” agents are now working from home on behalf of LiveOps customers – companies like Aegon, Colonial Penn, etc. One really cool customer example is American Idol. For Idol Gives Back, AI’s charity campaign, over 4000 LiveOps agents handled over 200,000 calls in less than five hours. Only a crowd-sourced play could handle such a ramp.”_
+
+## **March 9, 2009: How To Monetize a Social Network: MySpace and Facebook Should Follow TenCent (**[**link**](http://abovethecrowd.com/2009/03/09/how-to-monetize-a-social-network-myspace-and-facebook-should-follow-tencent/)**)**
+
+**Summary:** Social networks had trouble monetizing their websites. MySpace and Facebook failed to generate revenue like Yahoo, which did $7B at the time of writing. The problem wasn’t growing the userbase (both sites had tremendous user growth). It was the dependence on advertising to generate the lion’s share of their revenues. Gurley compares MySpace and Facebook to Tencent (700.HK). The two primary drivers of revenue for Tencent are digital items and casual game packages and upgrades. These are _significantly_ higher-margin businesses than advertising. At the end of the day, social networks are social status symbols. This means if you want to leverage your business, you need to provide users with ways to improve their social status.
+
+**Favorite Quote:** **_“_**_If you removed the Chanel logo from them, and offered them for $50 cheaper, you could not sell a pair.  Not one.  Why?  People are buying an image that they want to project about themselves.  Without the logo, they fail to make that statement.  The same is true for watches, clothes, cars, sodas, beers, cell phones, and many more items.  People care greatly about how they are perceived and are willing to part with big bucks to achieve it.  Digital items are merely the same phenomenon online.”_
+
+## **March 26, 2009: Note To Timothy Geithner: Do Startups & Venture Capitalists Really Need More Regulation? (**[**link**](http://abovethecrowd.com/2009/03/26/note-to-timothy-geithner-do-startups-venture-capitalists-really-need-more-regulation/)**)**
+
+**Summary:** The US government levied Sarbanes-Oxley on all public companies after the whole Enron, WorldCom saga. The purpose? Protect investors from future frauds. While the efficacy of “Sarbox” remains in question, one thing doesn’t: **the cost on small public companies.** Sarbox costs ~$2-$3M to implement. This makes it nearly impossible for small companies to go public because the Sarbox costs eat away all potential operating profits. Overburdening small companies could restrict the pipeline of new public IPOs. 
+
+**Favorite Quote:** **_“_**_And remember that the largest companies in America that were created in the last 35 years (MSFT, GOOG, AAPL, CSCO, INTC) were all small venture-backed companies at one point in time.  Do we really want to inappropriately restrain or throttle the future pipeline of such companies in America?”_
+
+## **May 2, 2009: Swine Flu: Overreaction More Costly Than the Virus Itself? (**[**link**](http://abovethecrowd.com/2009/05/02/swine-flu-overreaction-more-costly-than-the-virus-itself/)**)**
+
+**Summary:** It’s amazing how relevant this blog post became during the COVID-19 pandemic. Gurley suggests that in some cases, overreacting to news (like swine flu) can have far worse consequences than the natural course of the virus itself. For example, Mexico’s economy teetering on the brink of insolvency as tourism represents a third of their economy. The argument for overreacting is that it prepares people for the worst-case scenario. Yet that decision has consequences. Consequences we can’t see, and might not see for a long time. 
+
+**Favorite Quote:** **_“_**_Some people rationalize that this hysteria serves a noble purpose, in that it prepares us for the worse.  This, however, ignores the fact that there are tremendous real economic costs to overreaction, and that sometimes overreaction has far-reaching negative impacts which can be many times greater than that of the original problem.”_
+
+## **May 8, 2009: Second Life: Second Most Played PC Title, #1 in Minutes/User (**[**link**](http://abovethecrowd.com/2009/05/08/second-life-second-most-played-pc-title-1-in-minutesuser/)**)**
+
+**Summary:** Gurley’s investment in Linden Lab paid off _big time_ in May 2009 when Linden’s hit game _Second Life_ ranked as the #2 most-played PC title. The game trailed World of Warcraft in number of users, but ranked _first_ in number of minutes played per user. Data like this further reiterates Gurley’s earlier claims that selling goods online (digital signs of social status) can make for a great business. It also shows people _love_ distracting themselves from their everyday lives. 
+
+**Favorite Quote:** **_“_**_The truth of the matter is that the company is quite large, it’s growing, it’s profitable,  it has hired a number of great people over this time frame, and as the data shows it’s kicking butt. Note that the data also shows SecondLife actually leads WOW in terms of minutes played per user.”_  
+
+## **May 10, 2009: Bill Gurley’s Online Video Market Snapshot (**[**link**](http://abovethecrowd.com/2009/05/10/bill-gurleys-online-video-market-snapshot/)**)**
+
+**Summary:** Gurley did an _on Hollywood_ talk about the massive changes in the Online Video Market. The link has an 18-minute video where Gurley outlines five things that matter in the coming online video market battle: 
+
+1.  Great content is super expensive
+2.  Affiliate fees are a “huge fucking deal” 
+3.  The Netflix Business model is widely misunderstood
+4.  HBO and the NFL are incredibly well-positioned companies
+5.  Wireless will not save the day 
+
+**Favorite Quote:** I didn’t have a favorite quote from this post as it was mainly a link to the video and slide deck. I highly recommend watching the video and scanning through the deck. It’s 18 minutes long but you can watch at 1.5-2x speed without issue. 
+
+## **May 29, 2009: Will Apple Make an Actual Television? Makes Sense to Me (**[**link**](http://abovethecrowd.com/2009/05/29/will-apple-make-an-actual-television-makes-sense-to-me/)**)**
+
+**Summary:** The thought of Apple (AAPL) making a _physical_ TV seems wild. Yet according to Gurley, there are six reasons why this wasn’t such a farfetched concept. First, TV is a commodity business and AAPL excels at charging a premium on an otherwise commoditized product (i.e., MP3 players). Second, AAPL already makes large iPads that people love. Creating an even larger piece that AAPL fanboys would love to hang in their home makes sense. Third, TV will add an internet stack and AAPL might have to make their own hardware to support that. Fourth, It’s a huge market (Gurley estimates ~$2.5B in sales). Fifth, the TV would integrate with the Apple iOS, creating a seamless experience. Finally, AAPL has the retail footprint to sell its physical TVs. 
+
+**Favorite Quote:** **_“_**_For Apple, the fact that the TV business has become a commodity business will not be a roadblock. In PCs and MP3 players, they have proven they can charge a huge premium and extract enviable gross margins even where others have starved.”_
+
+## **June 2, 2009: A Really Interesting Online Education Company in Korea: Megastudy (**[**link**](http://abovethecrowd.com/2009/06/02/a-really-interesting-online-education-company-in-korea-megastudy/)**)**
+
+**Summary:** Education feels like one of the last industries not hit with the capitalist bug. Maybe it’s the massive bureaucratic red tape or the incumbent teacher’s union. Regardless, Gurley showcases a South Korean company that’s turning to capitalism to give teachers better pay and students better education. The company is Megastudy. There are a few reasons Gurley loves the business: 
+
+*   Subscription service for each course
+*   Easily scalable for teachers as they teach once to as many students as they want
+*   Teachers get ~23% of revenue from the course sales (this created $1M for teachers)
+*   Incentives hinge on how engaging, productive and informative teachers are to students
+
+Gurley said he invested in a company _trying_ to do something similar in the US, _Grockit_. The company was eventually bought by Kaplan in 2013. 
+
+**Favorite Quote:** **_“_**_Many here argue that U.S. teachers are underpaid, so in that sense it should be a huge welcome.  That said, I don’t think any teacher union in the U.S. would support the “eat what you kill” business model in use at Megastudy.”_  
+
+## **June 8, 2009: Amazon’s AWS Strategy Becomes Clearer Every Day (**[**link**](http://abovethecrowd.com/2009/06/08/amazons-aws-strategy-becomes-clearer-every-day/)**)**
+
+**Summary:** Amazon’s strategy when they entered the cloud business was simple: offer the lowest-cost cloud infrastructure and obsess about the customer. The second part is reminiscent of their retail business, and a meme from an [old Jeff Bezos video](https://www.youtube.com/watch?v=vxwjzVW7z5o). This comfortability in running a low-margin business allowed AMZN to move first in the space before IBM, MSFT, etc. Second, Gurley notes that no other cloud company _listens_ to their customers like AMZN. It’s also fascinating to see _how_ AMZN grew their cloud business: **via rogue/small developers**. While most saw this as a bug, insiders knew that’s _exactly_ how you want to grow that business (i.e., bottoms-up growth). 
+
+**Favorite Quote:** **_“_**_Many in the IT world are quick to point out that its only small businesses and rouge developers in large organizations are using AWS.  This is exactly how these markets develop.  Amazon is simply selling to the innovators and early adopters in the market — the exact customers that are prescribed in Crossing the Chasm. These are the customers that others will follow, and by the time the laggards come into the market, the game will be over.”_
+
+## **July 15, 2009: Bill Gurley on the “Free” Business Model (**[**link**](http://abovethecrowd.com/2009/07/15/bill-gurley-on-the-free-business-model/)**)**
+
+**Summary:** The freemium business model is one where a company offers a product or service for free (or marginally zero cost) to its customers. On one hand, it’s a great way to disrupt an industry, and a “simple form of the innovator’s dilemma strategy.” Yet Mark Cuban and Malcolm Gladwell disagree with the “panacea” of the freemium model. The bottom line is that if you have highly differentiated content, you should _charge_ for it. 
+
+**Favorite Quote: “**_Basically, there is always a cost to delivery, even if it’s really low on a marginal basis, and in volume, it can get quite expensive on the cost side. He also, appropriately highlights that “Free” is not a panacea of a business model. It doesn’t always work.”_
+
+## **July 27, 2009: I Do Not Believe that Zappos Was “Forced” to Sell (**[**link**](http://abovethecrowd.com/2009/07/27/i-do-not-believe-that-zappos-was-forced-to-sell/)**)**
+
+**Summary:** The hot rumor in July of 2009 was that Zappos was forced to sell to Amazon by Sequoia Fund (an investor in Zappos). Gurley thinks that wasn’t true for three main reasons: 
+
+1.  Tony (Zappos CEO) could have withheld his vote at the BOD level, or even dissented. 
+2.  For the exact same reason, Tony could’ve withheld a positive shareholder vote from his common shares. 
+3.  Tony could have informed Jeff Bezos that he does not want to sell. 
+
+**Favorite Quote:** **_“_**_Personally, I think it’s a great match and a great outcome for both companies.  They have a shared mission and very similar service-oriented customer brand.”_
+
+## **July 29, 2009: Counterpoint to Calacanis on Yahoo-Microsoft Deal (**[**link**](http://abovethecrowd.com/2009/07/29/counter-point-to-calacanis-on-yahoo-microsoft-deal/)**)**
+
+**Summary:** Obsessing over what competing businesses are doing is a sure way to destroy economic value. Nowhere is this best seen than when companies tried to mimic Google’s offensive search-based ad playbook. Gurley reasons that “laying chase” to an increasing returns business (like GOOGL ad network) is a waste of time. On the other hand, AMZN is a great example of a company recognizing the desire to clone, and doing the opposite. Instead of plunging into search and ad-based models, AMZN created AWS where _they_ can control the pace of the game. 
+
+**Favorite Quote: “**_For all their efforts, it’s unclear to me that Yahoo or Microsoft have created any positive equity value whatsoever based on their obsession with Google. I do not have access to the specific numbers, but from a cash flow perspective it would be easy to imagine that its a net negative for both of them.”_ 
+
+## **August 4, 2009: More IPO News, Ancestry.com Files S-1 (**[**link**](http://abovethecrowd.com/2009/08/04/more-ipo-news-ancestry-com-files-s-1/)**)**
+
+**Summary:** According to journalists, 2009 was a doom-and-gloom year for IPOs. Gurley’s take sounded much different. There were five IPOs during the year (up until this post) and all of them were doing well. At the same time, Ancestry.com filed their S-1. The company opened around $13/share in 2009. They were later bought by a PE firm for $32/share. Not a bad return for the pessimistic IPO market of 2009!
+
+**Favorite Quote:** **_“_**_I wonder how many successful IPO’s we need before people will stop saying the window is closed.  Looks perfectly open to me.”_
+
+## **August 20, 2009: A Real Time Free Vs Fee Example: Rosetta Stone vs. LiveMocha (**[**link**](http://abovethecrowd.com/2009/08/20/a-real-time-free-vs-fee-example-rosetta-stone-vs-livemocha/)**)**
+
+**Summary:** LiveMocha is a free online language learning website with an incredible community of learners and contributors. These contributors often create courses and open the site to new languages _for free._ Of course, LiveMocha isn’t guaranteed a seat at the profitability table anytime soon. The company doesn’t have a clear monetization strategy, and we don’t know how sticky the consumer brand is compared to the household name, Rosetta Stone. 
+
+**Favorite Quote:** **_“_**_If you read our previous thoughts on the free business model, we made one key point. Free is not necessarily a game plan, or a guaranteed model for success, but rather a market reality. Someone may be able to do what you do for free.  Does it guarantee they will be wildly successful? No, but it still may be a massive threat.  Microeconomics is not a zero-sum game. It’s perfectly reasonable for all the players in a market to not generate excessive (or any) profits.”_
+
+## **August 24, 2009: What Is Really Happening to the Venture Capital Industry? (**[**link**](http://abovethecrowd.com/2009/08/24/what-is-really-happening-to-the-venture-capital-industry/)**)**
+
+**Summary:** The VC industry was under heavy pressure in 2009 due to underperformance and bloating AUMs. Gurley suggested the problem stemmed not from VC itself, but from its source of funds. VC firms receive most of their capital from pensions, endowments, and foundations. These are the largest pools of capital in the world. Over time, most of these pools of capital have increased their allocation to VC-based alternative investments. As such, the size of the VC industry ebbs and flows with how much money institutions decide to invest. 
+
+**Favorite Quote: “**_There are many reasons to believe that a reduction in the size of the VC industry will be healthy for the industry overall and should lead to above average returns in the future. This is not simply because less supply of dollars will give VCs more pricing leverage. We have seen over and over again how excess capital can lead to crowded emerging markets with as many as 5-6 VC backed competitors. Reducing this to 2-3 players will result in less cutthroat behavior and much healthier returns for all companies and entrepreneurs in the market. Additionally, at a stabilized market size of well over $15B a year, there should be plenty of capital to fund the next Microsoft, Ebay, or Google.”_ 
+
+## **September 29, 2009: Want To Know More About the Future of Internet TV?: Let’s Look to Korea (**[**link**](http://abovethecrowd.com/2009/09/29/want-to-know-more-about-the-future-of-internet-tv-lets-look-to-korea/)**)**
+
+**Summary:** Studying [countries with faster technology adoption](https://macro-ops.com/the-chandler-brothers-the-greatest-investors-youve-never-heard-of/) is a great way to spot potential trends. Korea was that country with over-the-top (OTT) Internet-based video streaming. The top three South Korean OTT providers passed 800K subs during the year with 90% broadband penetration rates. While that seems high, Gurley notes that estimates a few years back called for _millions_ of subscribers. 
+
+**Favorite Quote: “**_One way to have an advantage in “predicting” what will happen is to look at other countries that are further evolved in terms of broadband. The most obvious of these, with over 90% broadband penetration, is South Korea.”_
+
+## **October 29, 2009: Google Redefines Disruption: The “Less Than Free” Business Model (**[**link**](http://abovethecrowd.com/2009/10/29/google-redefines-disruption-the-less-than-free-business-model/)**)**
+
+**Summary:** Google licensed its map data from two main companies: NavTeq and Tele Atlas. As such, the data-based companies had an economic advantage over Google. That was until Google deployed its own cars and created its own turn-by-turn GPS application. Then Google did the unthinkable, they gave it away for free inside its Google Android OS. In one move, Google went from price-taker to price-maker.
+
+**Favorite Quote:** _“This is not just incredible defense. Google is apt to believe that the geographic taxonomy is a wonderful skeleton for a geo-based ad network.  If your maps are distributed everywhere on the Internet and in every mobile device, you control that framework.”_
+
+## **January 5, 2010: Android or iPhone? Wrong Question (**[**link**](http://abovethecrowd.com/2010/01/05/android-or-iphone-wrong-question/)**)**
+
+**Summary:** It was easy to think Apple and Android fought head-to-head. But that wasn’t true. The iPhone partnered with AT&T, demanded wild economics (upfront payments & revenue shares), and closed its user interface/ecosystem. Google made Android open-source and _paid_ cellular carriers via advertising revenue shares. The result? iPhone captured the high-end of the market while Android flooded/dominated the lower-end where basic smartphones were 10x better than a consumer’s existing option. 
+
+**Favorite Quote:** **_“_**_This is why the two products do not compete head to head. With its super aggressive model, Android will be the choice of the masses, and with its sleek design and non-compromising price point, Apple will rule the high end.”_
+
+## **February 8, 2010: Virtual Goods, Accounting, and the Power of the “Rental” Model (**[**link**](http://abovethecrowd.com/2010/02/08/virtual-goods-accounting-and-the-power-of-the-rental-model/)**)**
+
+**Summary:** In the [virtual economy](https://macro-ops.com/japans-mothers-index-an-under-fished-reservoir-of-growth-value/), renting is a better business model than ownership for six main reasons: 
+
+1.  Items become obsolete as a player levels up
+2.  Users experience substantial inventory glut 
+3.  Allows for more marketing opportunities when item needs to be replaced
+4.  Price segmentation based on length of rental (i.e., 1 day, 7 day, or 30 day rental pricing)
+5.  Creates recurring revenue business vs. one-time purchase
+6.  Simpler accounting as there is no “durable” virtual good
+
+**Favorite Quote: “**_American journalists and corporate executives have been slow to appreciate the beauty, brilliance, and consumer allure of the virtual goods business model.”_
+
+## **April 28, 2010: When It Comes to Television Content, Affiliate Fees Make the World Go ‘Round (**[**link**](http://abovethecrowd.com/2010/04/28/affiliate-fees-make-the-world-go-round/)**)**
+
+**Summary:** If you want to understand the cable/media industry, follow the money, or in this case, the affiliate fees. Affiliate fees were a $32B business in 2010. ESPN is a good example. Content providers like ESPN “charge” $2.00/sub/month to cable companies for the _right_ to stream ESPN content on a cable channel. Gurley notes that affiliate fees affect _every aspect_ of the TV business, from operations to content production to financing/packaging. That there is so much money on the line ($32B) means it’ll be challenging for technology to disrupt the incumbent model. 
+
+**Favorite Quote:**  “_The final and most significant reason is that this is a massive, massive business, and it is critically important to understand where the money flows (most people don’t). You can spend plenty of time talking about other issues, but when it comes to understanding the key factor at play in nearly every major business decision in television, you will find affiliate fees – all $32 billion of them.”_
+
+## **July 8, 2010: Google Acquires ITA: Will Deeper Vertical Integration Lead to Higher Revenues? (**[**link**](http://abovethecrowd.com/2010/07/08/googles-acquires-ita-will-deeper-vertical-integration-lead-to-higher-revenues/)**)**
+
+**Summary:** GOOGL can’t easily penetrate new verticals for two key reasons: competition and LTV-based assumptions. Existing verticals (like travel) offer a significantly better consumer experience, often due to community-based user-generated content (UGC) and hyper-specific datasets. GOOGL cannot easily mimic these advantages. Second, GOOGL’s CPC charge would switch from an “investment’ in Lifetime Customer Value (LTV) to a repeat transaction (or fee) in the eyes of company marketing departments. 
+
+**Favorite Quote:** _“If you are searching for a book or an author you go to Amazon, or at the very least you do a search like “Man in Full Amazon” so that you go directly to the page you want on Amazon. The same is true for hotels with TripAdvisor and for restaurants with OpenTable. These sites offer deeper and richer experiences for a vertical searcher precisely because they incorporate deep meta-data, faceted search, transaction connectivity, and typically a form of community or UGC (user generated content).”_
+
+## **July 15, 2010: On Google, Growth, Pricing Power, and Valuation Multiples (**[**link**](http://abovethecrowd.com/2010/07/15/on-google-growth-pricing-power-and-valuation-multiples/)**)**
+
+**Summary:** GOOGL traded at ~18x 2010 earnings at the time of writing. Why were they so cheap? It wasn’t competitive positioning, as nobody could successfully dethrone GOOGL’s search engine dominance. And it wasn’t lack of growth as GOOGL was generating 20%+ top-line revenue growth. According to Gurley, GOOGL traded at a discount because its business model was “too good.” It grew reached $10B 3x as quickly as GOOGL. However, GOOGL didn’t possess MSFT’s massive embedded pricing power, so Gurley saw little operating leverage inside GOOGL’s business. 
+
+**Favorite Quote:** **_“_**_With its ad optimization engine so amazingly efficient, Google has no obvious pricing power against its current installed base. There is simply no way to “double” the amount of spend from each customer, much less a way to take it up 20X. Additionally, they have not yet identified a product that would represent Google’s version of Microsoft Office in terms of revenue leverage.”_ 
+
+## **November 15, 2010: Silicon Valley’s IPO Anxiety (**[**link**](http://abovethecrowd.com/2010/11/15/silicon-valleys-ipo-anxiety/)**)**
+
+**Summary:** Anxiety about going public is a self-fulfilling prophecy that leads to fewer IPOs, thus fewer new “merchandise” for investors to purchase. Gurley notes that in 2010 most IPOs came _outside_ of Silicon Valley, reaffirming the self-fulfilling prophecy. Sure, Sarbanes-Oxly makes it more expensive to go public. And yes, there are more short-term oriented investors in public markets. However, companies assume those risks for the potential to capture sales/earnings multiples they’d never see if they stayed private. 
+
+**Favorite Quote:** _“To this point, and perhaps ironically to some, most of the people I know that work in high tech mutual funds and hedge funds would like to see more IPOs not less. They are tired of trading the same large technology names that are showing limited equity returns over the past 10 years, and have very low growth opportunities/ambitions.”_
+
+## **March 24, 2011: The Freight Train That Is Android (**[**link**](http://abovethecrowd.com/2011/03/24/freight-train-that-is-android/)**)**
+
+**Summary:** Android and Chrome aren’t business “products”, but a strategy of expanding GOOGL’s existing economic moat. GOOGL removes the layer between itself and its end-user by offering free (or less-than-free) software products (like OS, Search Engines, and Maps). The Search Engine funds this expensive “scorched-Earth” moat expansion policy via its Advertising business (its castle). In essence, GOOGL wants all the market share, but none of the economics. How can one compete against that defensive model? It’s simple, you can’t. 
+
+**Favorite Quote:** _“This is the part that amazes me the most. I don’t know if a large organized industry has ever faced this fierce a form of competition – someone who is not trying to “win” in the classic sense. They want market share, but they don’t need economics. Imagine if Ford were faced with GM paying people to take Chevrolets? How many would they be able to sell? What if you received $0.10 for every free Pepsi you consumed? Would you still pay $1.50 for a Coke?”_
+
+## **May 24, 2011: All Revenue is Not Created Equal: The Keys to the 10X Revenue Club (**[**link**](http://abovethecrowd.com/2011/05/24/all-revenue-is-not-created-equal-the-keys-to-the-10x-revenue-club/)**)**
+
+**Summary:** Only a select few companies can (and should) trade at 10x Price/Sales. The reason is that revenue (and revenue growth) isn’t created equally. There are good and bad flavors of growth. Gurley reveals the ten most important criteria for Revenue Growth Quality by asking 10 questions: 
+
+1.  Does the business have a competitive advantage (Buffett’s “moat”)?
+2.  Does the business possess network effects? 
+3.  How predictable/visible is the company’s revenues? 
+4.  Are there high or low switching costs? 
+5.  Is this a high or low gross margin business? 
+6.  Does the business generate _positive_ marginal profitability?
+7.  How concentrated is the company’s revenues? 
+8.  Does the company depend on 1-3 key partners? 
+9.  Does the business grow via advertising or organic word-of-mouth? 
+10.  How fast is the company growing revenue? 
+
+This is not an exhaustive list, but it’s a great starting point in determining if a business has what it takes to (potentially) trade at 10x Price/Sales. 
+
+**Favorite Quote:** **_“_**_What drives true equity value? Those of us with a fondness for finance will argue until we are blue in the face that discounted cash flows (DCF) are the true drivers of value for any financial asset, companies included. The problem is that it is nearly impossible to predict with any accuracy what the long-term cash flows are for a given company; especially a company that is young or that might be using an innovative and new business model.”_ 
+
+## **September 14, 2011: On IPOs: If You Are Going To File, Make Sure You Price (**[**link**](http://abovethecrowd.com/2011/09/14/on-ipos-if-you-are-going-to-file-make-sure-you-price/)**)**
+
+**Summary:** Companies that file an S-1, only to pull the filing, sow seeds of doubt amongst investors, bankers, and internal employees. Pulling an IPO filing begs _many_ questions, like “Was their valuation too high?” or “Maybe there isn’t enough demand for the stock?” Or even “I wonder if the company’s growth is slowing down and they don’t want to publish those figures?” Regardless of the reason, companies that file S-1s _should_ have the courage to see it through. 
+
+**Favorite Quote:** _“An open IPO window attracts two types of companies – those that should go public, and those that “need” to go public for capital reasons. Portions of the “need” group will always fail to find supporters, and therefore you should not view delays and withdrawals as signs of a weak IPO market.”_ 
+
+## **September 18, 2011: Understanding Why Netflix Changed Pricing (**[**link**](http://abovethecrowd.com/2011/09/18/understanding-why-netflix-changed-pricing/)**)**
+
+**Summary:** Hollywood forced Netflix to change its pricing. Netflix’s original business model formed around the 1908 “First Sale Doctrine” Supreme Court Ruling. The ruling allowed NFLX (or anyone) to rent a DVD the same day of purchase. In this model. NFLX has relatively fixed costs and unlimited “streaming” rights. However, digital is the opposite model. Hollywood _demanded_ an affiliate fee-like pricing model, where NFLX paid Hollywood per subscriber per month for the right to digitally stream its content. Digital now became a fixed rights distribution with unlimited potential costs. NFLX _had to_ increase prices to make its digital model work. 
+
+**Favorite Quote:** **_“_**_Netflix could not afford to pay for digital content for someone who wasn’t watching it. This forced the separation, so that the digital business model would exist on it’s own free and clear. Could Netflix have simply paid the digital fee for all its customers (those that watched and not)? One has to believe they modeled this scenario, and it looked worse financially (implied severe gross margin erosion) than the model they chose.”_
+
+## **November 15, 2011: You Don’t Have to Tweet to Twitter (**[**link**](http://abovethecrowd.com/2011/11/15/you-dont-have-to-tweet-to-twitter/)**)**
+
+**Summary:** Twitter doesn’t compete with Facebook or other social media platforms. Instead, it competes with other news sources, like print/TV media, blogs, and other websites where users publish information. The great thing about Twitter, too, is that you don’t have to tweet to recognize its value. Users get tremendous value from following other people _without_ the need for others to follow them. Plus, T[witter’s strong-form network effects](https://macro-ops.com/episode-32-dissecting-network-effects-local-economies-w-keith-smith-bonhoeffer-capital/) grow with each new user on the platform as more users amplifies any one person’s potential to share information at scale. 
+
+**Favorite Quote:** “_Much like Google, Twitter points out to the world. It’s a “discovery engine” and an “information utility” rolled into one. With Twitter, you get news faster, you see updates from your favorite artists, you hear directly from key politicians, and gain insights from influencers in a wide variety of specializations. Just as Facebook is symmetric in terms of its poster-reader relationship, Twitter is highly asymmetric. The majority of the tweets on Twitter are posted by a small sub-set of the users.”_
+
+## **Years: 2012 – 2015**
+
+## **January 5, 2012: Thinking About Diets and Other Complex Matters (**[**link**](http://abovethecrowd.com/2012/01/05/thinking-about-diets-and-other-complex-matters/)**)**
+
+**Summary:** Whether it’s diets, stock prices, or weather changes, humans love finding patterns for complex matters. If something is too complex for our feeble human brain to comprehend, fear not! We simply create a causation or a pattern so that our minds can _somehow_ understand it. The lesson? Watch out for those that spew “certainty”, those that avoid fresh perspectives or people who won’t / can’t change their minds. 
+
+**Favorite Quote:** **_“_**_When it comes to not fully understood complex systems, it is easy to get things wrong. In fact, its easy for everyone to get them wrong. Don’t fear the new idea or the fresh perspective, and don’t believe something just because everyone else does. But watch out for the preacher with certainty — the ones that are spewing hellfire and brimstone. They are the ones most certainly to be wrong.”_
+
+## **February 1, 2012: Why Facebook Clearly Belongs in the 10X Revenue Club (**[**link**](http://abovethecrowd.com/2012/02/01/why-facebook-clearly-belongs-in-the-10x-revenue-club/)**)**
+
+**Summary:** This was one of my favorite Gurley posts as we became a fly on the wall, listening to how Gurley analyzed Facebook (FB) at the time of IPO. Gurley runs FB through his 10x Revenue Club Criterion and determines that the company firmly belongs as a card-carrying member. Gurley ended up valuing FB around $96B market cap. As of this writing, it trades at $540B. 
+
+**Favorite Quote:** _“With all the hype, assume a 12x multiple on the $6, and you end up right at $72B. You can double-check this with earnings. As operating margin is stable, 60% growth would result in $1.6B in after-tax earnings. At $72B, this is a 45 PE ratio for a company growing at 60%. At a 60 PE, you would have a $96B market capitalization.”_
+
+## **February 23, 2012: Why Dropbox Is A Major Disruption (**[**link**](http://abovethecrowd.com/2012/02/23/why-dropbox-is-a-major-disruption/)**)**
+
+**Summary:** Gurley saw Dropbox (DBX) as a major disrupter because it took something highly complex (file synchronization) and made it “brain dead simple.” However, it’s not in making something formerly complex, simple. It’s the fact that DBX now eliminates dependence on specific computer hardware and software. Who cares if you use iMac or Windows? And who cares if you lose your laptop or phone? If everything’s stored on DBX, you haven’t lost anything. DBX, in essence, commoditized computer hardware and software. 
+
+**Favorite Quote:** **_“_**_Once you begin using Dropbox, you become more and more indifferent to the hardware you are using, as well as the operating system on that device. Dropbox commoditizes your devices and their OS, by being your “state” system in the sky.”_ 
+
+## **April 19, 2012: My Life With Bing (**[**link**](http://abovethecrowd.com/2012/04/19/my-life-with-bing/)**)**
+
+**Summary:** Gurley switched his default browser from Google to Bing for two months. His findings were interesting. He noticed that on “core search” functions, Bing was on-par with Google. However, the biggest difference Gurley noticed was how _conditioned_ he was to Google’s UI/UX. Moreover, he noticed how frustrating it was trying to navigate (read: learn) a new UI/UX in Bing. In other words, customer lock-in doesn’t have to come from product superiority or barriers to entry. It can come from familiarity with navigation and the power of personal routines. 
+
+**Favorite Quote:** “_At the end of the day, for me, my user “lock-in” is associated not with the quality of Google results, but rather with the understanding of the UI features and levers.  More like a traditional software application.”_
+
+## **April 27, 2012: Intuit to Acquire Demandforce for $424MM (**[**link**](http://abovethecrowd.com/2012/04/27/intuit-to-acquire-demandforce-for-424mm/)**)**
+
+**Summary:** Demandforce is a case study on two important company-building topics: **focus** and **local networks**. Gurley frequently mentioned that Demandforce flew under-the-radar from the media, and instead focused _all their efforts_ on their customers and product. Additionally, Demandforce operated in the **Local Internet** world of small business. Demandforce gave local businesses access to enterprise-level SaaS “front office” tools. In effect, the company leveraged the power of the Internet with the pervasiveness of smartphones to service a $125B+ industry.
+
+**Favorite Quote: “**_In a day and age of social media, where many companies project a persona much larger than reality, Demandforce chose instead to focus on its customers and its products. We never even announced Benchmark’s funding of the company, which I believe is unprecedented. The Demandforce team always felt that the attention should be focused on the customer rather than the company.”_
+
+## **June 25, 2012: Social-Mobile-LOCAL: “Local” Will Be The Biggest of the Three (**[**link**](http://abovethecrowd.com/2012/06/25/social-mobile-local-local-will-be-the-biggest-of-the-three/)**)**
+
+**Summary:** Local is a massive and exciting market opportunity for startups to build the next billion-dollar business. There are a few reasons for this belief. First, smartphones have given startups access to billions of people’s locations, allowing them to build hyper-local products and services (think Nextdoor, etc.). Internet adoption rates also remain historically underpenetrated for local small businesses. Finally, local graphs incentivize startups to go deep into specific verticals (like travel, accounting solutions, table reservation), insulating itself from larger incumbents like Google.
+
+**Favorite Quote:** “_But the really exciting part is that we are still really early in this process of transformation away from listing/directory advertising to a local Internet.  By way of comparison, in the fourth quarter of 2011, Southwest Airlines reported that 86% of its revenue was booked online.  By comparison, only 12% of US restaurant reservations are booked online. Only 15% of dentists are connected to customers through services like DemandForce.  Only 3% of takeout orders are processed through online offerings like GrubHub. And less than 1% of realtors are premier agents on Zillow.”_
+
+## **September 4, 2012: The Dangerous Seduction of the Lifetime Value (LTV) Formula (**[**link**](http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula/)**)**
+
+**Summary:** Customer Lifetime Value (LTV) is a popular metric used by investors, marketers, and executives to promote a company’s cash-burning efforts. Gurley outlines ten reasons why LTV ratios aren’t perfect: 
+
+1.  **It’s a tool, not a strategy:** Anyone can copy a formula. LTV ratios aren’t a competitive advantage. 
+2.  **The model is used to rationalize marketing spending:** LTV ratios allow companies to justify burning money today for tomorrow’s “long-term” profitable unit economics. 
+3.  **The model is confused and misused:** Many forget to add expenses like ongoing customer maintenance costs or fail to remove organic customers from the ratio
+4.  **LTV is not an absolute:** LTV is a highly variable prediction based on highly variable inputs that are prone to change and error. 
+5.  **LTV variables “tug” at each other:** Every variable is interdependent. Raise price = increased churn. Grow faster via marketing = Higher SAC, etc. 
+6.  **Growth becomes a grind:** Acquisition costs expand linearly with revenue growth. 
+7.  **Purchased customers underperform organic:** Word-of-mouth customers _usually_ provide higher conversion rates, lower churn, ahd higher NPV. 
+8.  **CAC money could go towards customers:** Instead of spending money acquiring low-value customers, give that money back to your current customers (better product or lower prices) 
+9.  **LTV obsession creates blinders:** Companies obsessed with LTV focus only on dollars spent instead of marketing creativity. Why? Because they worship the formula. 
+10.  **Tomorrow never arrives:** LTV values almost never come to fruition. Remember, it’s a highly variable prediction based on highly unpredictable inputs. 
+
+**Favorite Quote:** **_“_**_Some people wield the LTV model as if they were Yoda with a light saber; “Look at this amazing weapon I know how to use!” Unfortunately, it is not that amazing, it’s not that unique to understand, and it is not a weapon, it’s a tool. Companies need a sustainable competitive advantage that is independent of their variable marketing campaigns. You can’t win a fight with a measuring tape.”_
+
+## **November 13, 2012: Our Most Recent Marketplace Investment, DogVacay from Los Angeles (**[**link**](http://abovethecrowd.com/2012/11/13/our-most-recent-marketplace-investment-dogvacay-from-los-angeles/)**)**
+
+**Summary:** DogVacay is an online marketplace connecting dog lovers with pet owners that want an alternative to the prison-like atmosphere of most dog kennels. The company scored highly on its 10 Digital Marketplace Factors list (see next post below) and averaged an A- rating on each factor. Rover (ROVR) is currently in the process of buying DogVacay as of this writing.  
+
+**Favorite Quote:** _“DogVacay’s six-month ramp and current monthly gross transaction revenue are very reminiscent of the very best of our previously funded successful marketplaces. From out perspective, DogVacay is a winner in the making.”_
+
+## **November 13, 2012: All Markets Are Not Created Equal: 10 Factors To Consider When Evaluating Digital Marketplaces (**[**link**](http://abovethecrowd.com/2012/11/13/all-markets-are-not-created-equal-10-factors-to-consider-when-evaluating-digital-marketplaces/)**)**
+
+**Summary:** Benchmark _loves_ investing in [marketplace businesses](https://macro-ops.com/the-bull-case-for-1stdibs-dibs/). These businesses require “natural pull” on both the supply and demand sides of the marketplace. The good news is that each pull gets easier with each incremental buyer/seller added to the marketplace. Here are Gurley’s 10 Factors For Evaluating Online Marketplaces: 
+
+1.  **New Experience vs. Status Quo:** Is this marketplace exponentially better than the alternative? 
+2.  **Economic Advantages vs. Status Quo:** Does the marketplace provide positive economics for both buyers and sellers? 
+3.  **Opportunity For Technology to Add Value:** Does the marketplace technology actually enhance the customer value proposition? 
+4.  **High Fragmentation:** High buyer and seller fragmentation is great because it signals a large TAM. 
+5.  **Friction of Supplier Sign-up:** Friction of supplier sign-up is a barrier to entry for established marketplaces, but a tough hill to climb for new entrants.
+6.  **Size of Market Opportunity:** Combine TAM analysis with likelihood of online adoption/marketplace success
+7.  **Expand The Market:** Features and capabilities may expand a company’s initial TAM, thus expanding the reach originally thought possible. 
+8.  **Frequency:** All else equal, the greater the friction the better the marketplace. 
+9.  **Payment Flow:** Being part of the payment flow is better than not being part of the payment flow. 
+10.  **Network Effects:** Can the marketplace provide a better experience to customer n+1000 than it did to the first customer? 
+
+Like any formula, it’s not a catch-all list. But it’s a great filter to use when assessing online marketplaces. 
+
+**Favorite Quote: “**_It is also important to realize that finding a great opportunity is only a start, and this analysis could easily mislead one into underestimating the critical role that execution plays when it comes to marketplace businesses.”_
+
+## **December 26, 2012: Favorite Longreads of 2012 (**[**link**](http://abovethecrowd.com/2012/12/26/favorite-longreads-of-2012/)**)**
+
+**Summary:** This post lists Gurley’s favorite long reads of 2012. You can check them out here: 
+
+*   [A BASKETBALL FAIRY TALE IN MIDDLE AMERICA, BY SAM ANDERSON (NEW YORK TIMES MAGAZINE)](https://www.nytimes.com/2012/11/11/magazine/the-oklahoma-city-thunders-fairy-tale-rise.html)
+*   [THE MOST AMAZING BOWLING STORY EVER, BY MICHAEL MOONEY (D MAGAZINE)](https://www.dmagazine.com/publications/d-magazine/2012/july/the-most-amazing-bowling-story-ever-bill-fong/)
+*   [THE MAN WHO BROKE ATLANTIC CITY, BY MARK BOWDEN (ATLANTIC MAGAZINE)](https://www.theatlantic.com/magazine/archive/2012/04/the-man-who-broke-atlantic-city/308900/)
+*   [SCAMWORLD BY JOSEPH FLATLEY (THE VERGE)](https://www.theverge.com/2012/5/10/2984893/scamworld-get-rich-quick-schemes-mutate-into-an-online-monster)
+*   [WHY THE CLEAN TECH BOOM WENT BUST, BY JULIET EILPERIN (WIRED MAGAZINE)](https://www.wired.com/2012/01/ff_solyndra/)
+*   [IS SUGAR TOXIC, BY GARY TAUBES (NEW YORK TIMES MAGAZINE)](https://www.nytimes.com/2011/04/17/magazine/mag-17Sugar-t.html)
+*   [CORMAC MCCARTHY’S APOCALYPSE BY DAVID KUSHNER (ROLLING STONE)](http://www.davidkushner.com/article/cormac-mccarthys-apocalypse/)
+*   [SNOW FALL: THE AVALANCHE AT TUNNEL CREEK BY JOHN BRANCH (NEW YORK TIMES MAGAZINE)](https://www.nytimes.com/projects/2012/snow-fall/index.html)
+*   [JEFF BEZOS ON CHARLIE ROSE, NOVEMBER 16, 2012](https://www.youtube.com/watch?v=HJBz87Q9nyM)
+*   [ADAM DARWIN: EMERGENT ORDER IN BIOLOGY AND ECONOMICS BY MATT RIDLEY](https://www.youtube.com/watch?v=OuCAsUBL0wI)
+*   [EVERYTHING YOU NEED TO KNOW ABOUT FINANCE AND INVESTING IN UNDER AN HOUR BY WILLIAM ACKMAN](https://medium.com/@SeoJaeDuk/william-ackman-everything-you-need-to-know-about-finance-and-investing-f3d26ceadb05)
+
+**Favorite Quote:** None. 
+
+## **April 18, 2013: A Rake Too Far: Optimal Platform Pricing Strategy (**[**link)**](http://abovethecrowd.com/2013/04/18/a-rake-too-far-optimal-platformpricing-strategy/)
+
+**Summary:** Take rates are a vital part of an [online marketplace’s business model](https://macro-ops.com/how-poww-transformed-into-an-online-marketplace-powerhouse/). Get it right and you grow like wildfire. Get it wrong, and you’re dead. Gurley’s idea of a “perfect” marketplace model is one with high volume transactions combined with modest rake (say 10-15%). The danger of charging an exorbitant rake is it opens the door for competitors to undercut your fees.  
+
+**Favorite Quote: “**_High volume combined with a modest rake is the perfect formula for a true organic marketplace and a sustainable competitive advantage. A sustainable platform or marketplace is one where the value of being in the network clearly outshines the transactional costs charged for being in the network.”_ 
+
+## **May 20, 2013: Grubhub and Seamless: Effecting The Elusive Private-Private Merger (**[**link**](http://abovethecrowd.com/2013/05/20/grubhub-and-seamless-effecting-the-elusive-private-private-merger/)**)**
+
+**Summary:** Private-Private mergers don’t happen often. This is due to three main reasons: 
+
+1.  **Structural Challenges:** Private companies sport complex capitalization structures, flooded with common stock, warrants, preferred shares, and potentially debt financing. Merging all that is tough. 
+2.  **People Challenges:** Egos clash over titles, roles, and responsibilities. It’s easy for both companies to think like it’s “us versus them” instead of as a team. 
+3.  **Investor/Founder Mindset Challenges:** Founders tend to think about their personal stakes in their individual companies, instead of as a portion of a greater whole. 
+
+Gurley ends the post by highlighting that most mergers fail _not_ in the acquisition phase, but in the implementation phase. Integration is challenging, especially when it’s a “merger of equals.” 
+
+**Favorite Quote:** _“The only way around this is to reverse your way of thinking. First, you have to focus on the dollar value of your new stake in the combined company instead of focusing on the specific percentage. Even in a 50/50 scenario, each ownership stake is half what it once was. Assuming the deal is accretive, this should be “no-brainer” math; your new stock in the combined company is worth more than it was before.”_
+
+## **July 17, 2013: Transitioning To a Mobile Centric World (**[**link**](http://abovethecrowd.com/2013/07/17/transitioning-to-a-mobile-centric-world/)**)**
+
+**Summary:** Mobile smartphones are changing the way companies are formed, generate revenue, and create value for stakeholders. Companies built for the mobile landscape have clear advantages against incumbent, browser-based players. Gurley offers ten tips for those that want to play in the mobile sandbox: 
+
+1.  **Design takes a greater role:** More constraints (bandwidth, screen size, etc.) equals a better user experience. 
+2.  **Feature depth is limited:** Consumers want a “one-click” experience that solves their problem quickly and efficiently. 
+3.  **Development complexity is a reality as we transition:** A phase-change from browser to mobile means companies might need to develop multiple iterations of apps and experiences for the web, the smartphone, or on Android and iOS. 
+4.  **HTML5 is a head-fake:** Real apps won’t require browser feeds or load pages. Don’t fool users with redirections to internet-based searches. 
+5.  **SEO non-presence is hugely consequential:** No SEO leads to cleaner app designs and user experiences. However, it comes at the cost of a start-ups most easily accessible customer acquisition strategy. 
+6.  **The core concept of “search” is in transition:** On the browser, everything starts with search. On the smartphone, everything starts with apps. 
+7.  **A locked-in mobile app user is worth more than a desktop user:** There is greater friction when downloading an app, signing up for an account, etc. So the ones that do it _really_ want to use the product/service. 
+8.  **Customer acquisition techniques are shifting:** Without SEO tactics, startups must find other ways of capturing customers. 
+9.  **Payment could be a new platform battleground:** Whoever delivers one-button payments will win. 
+10.  **Platforms are still evolving:** iOS and Android are dynamic platforms evolving to compete against one another. 
+
+**Favorite Quote: “**_The biggest losers will be the web incumbents who do not understand the rules of the new road, or the consequences of missed execution. Anyone lost in the desktop world who fails to appreciate the criticality of the mobile-first mindset is subject to demise.”_
+
+## **October 2, 2013: Conversion: The Most Important Internet Metric of All (Revisited) (**[**link**](http://abovethecrowd.com/2013/10/02/conversion-the-most-important-internet-metric-of-all-revisited/)**)** 
+
+**Summary:** Conversion is a function of [customer acquisition](https://macro-ops.com/lifetime-value-customer-acquisition-cost-tools-to-analyze-any-business/) and customer optimization. Most companies spend all their time on customer acquisition without considering optimization. Gurley notes that doing this is like buying gasoline without knowing (or caring) about a car’s fuel efficiency. The better way? Focus on efficiency _before_ buying a bunch of fuel. Anyone can buy fuel, but not every car is fuel efficient. Finally, _small_ improvements in conversion lead to **massive** ROIs and increased cash flow. 
+
+**Favorite Quote:** **_“_**_Tiny moves have huge financial consequences which almost seem magical or unfair. You can build a similar model for your own business, and put in the inputs as you see fit, but you will not find another single area in your business where small improvements will have such a powerful impact.”_
+
+## **October 17, 2013: Stitch Fix: Reinventing Retail Through Personalization (**[**link**](http://abovethecrowd.com/2013/10/17/stitch-fix-reinventing-retail-through-personalization/)**)**
+
+**Summary:** Stitch Fix (SFIX) leverages [personalized data](https://macro-ops.com/where-were-finding-ai-investment-opportunities-education/) to deliver a superior customer experience, and a better  business model. Personalized data allows SFIX to custom order designs, which increases inventory turns. Additionally, customers refine what they want over time, leading to a better experience, and thus greater usage. Benchmark led the $12M Series B. 
+
+**Favorite Quote:** “_By building products to order rather than inventory, Dell’s inventory turns, capital efficiency, and ROIC were dramatically better than the competition. And due to falling competent prices, Dell’s inventory turn advantage also contributed to a gross margin advantage. Dell’s product offering advantage, building to custom order, simultaneously created a business model advantage.”_
+
+## **January 24, 2014: On Bubbles …  (**[**link**](http://abovethecrowd.com/2014/01/24/on-bubbles/)**)**
+
+**Summary:** How can you tell if you’re in a [bubble?](https://macro-ops.com/principle-bubble-rotation/) Gurley offers an interesting heuristic, which he calls the “Discounted Risk of Employer Profitability” Theory. The theory asks the question: **What percentage of employees in Silicon Valley are working at profitless companies?** Replace “employees in Silicon Valley” with “publicly traded companies” and you have another great lens at which to determine if we’re in a public markets bubble. 
+
+**Favorite Quote: “**_An employee’s decision to work for a company that is losing money is an implicit decision to discount risk. If the macro environment changes, that company is under much greater stress than one that is profitable.”_
+
+## **March 11, 2014: A Deeper Look at Uber’s Dynamic Pricing Model (**[**link**](http://abovethecrowd.com/2014/03/11/a-deeper-look-at-ubers-dynamic-pricing-model/)**)**
+
+**Summary:** Dynamic pricing lives inside every pure marketplace business. Dynamic pricing allows supply and demand to clear a market. Take Uber for example. Surge pricing occurs when demand outweighs supply. To counteract this, Uber raises prices for rides. Higher prices incentivizes _more_ drivers to join the supply while concurrently _decreasing_ the demand for rides. This is important because without dynamic pricing, most cities would have no available drivers during times when people need drivers most. 
+
+**Favorite Quote: “**_Without a price increase, Uber’s unfulfilled rate would skyrocket, and most customers would be left without a ride. With dynamic pricing however, the variable Q on the graph is further to the right than it would be without.  More absolute rides are fulfilled precisely because supply increases.”_
+
+## **May 28, 2014: HackerOne: A Superior Solution for Solving Web Vulnerabilities (**[**link**](http://abovethecrowd.com/2014/05/28/hackerone-a-superior-solution-for-solving-web-vulnerabilities/)**)**
+
+**Summary:** HackerOne is another classic Gurley marketplace investment. HackerOne matches companies that need to identify web vulnerabilities with hackers that know how to find such vulnerabilities. The marketplace perfectly incentivizes both communities (companies and hackers). Hackers make money by finding and alerting companies to vulnerabilities. And companies gain a clearer understanding of where/how they can improve their web security. 
+
+**Favorite Quote:** **_“_**_HackerOne is a true win-win, researchers are rewarded for their unique skills, and companies are able to identify vulnerabilities in a way that limits repercussions for their users.”_
+
+## **June 18. 2014: Disrupting Finance From Above: Wealthfront (**[**link**](https://abovethecrowd.com/2014/06/18/disrupting-finance-from-above-wealthfront/)**)**
+
+**Summary:** Wealthfront helps consumers become long-term investors through automated investing in various ETF funds. Wealthfront is just one of many examples for potential consumer financial disruption. Gurley mentions three other examples, including: 
+
+*   **Credit Card Fees:** US fees can be 4.5x as higher than Australia
+*   **Checking Account Competition:** Free checking accounts are becoming less favorable
+*   **ACH Payments:** For some reason, it still takes 72 hours to transfer money “electronically”
+
+Gurley also visited China and met with leading Chinese internet companies. Nearly _all_ of them are implementing some form of banking/payments. 
+
+**Favorite Quote:** “_Wealthfront just hit $1B in assets in a little over 2.5 years, and there are many reasons to believe that the path to $10B will be easier than the path to $1B. A longer track record and larger assets under management will build increasing trust. Soon, you may see Americans directing their paychecks directly into Wealthfront.”_
+
+## **July 11, 2014: How to Miss By a Mile: An Alternative Look at Uber’s Potential Market Size (**[**link**](http://abovethecrowd.com/2014/07/11/how-to-miss-by-a-mile-an-alternative-look-at-ubers-potential-market-size/)**)**
+
+**Summary:** Gurley disagrees with Aswath Damodaran’s estimate of Uber’s TAM ($100B) and potential market share (10%). Let’s start with the TAM assumptions. Disrupting companies expand existing TAMs by providing a “radically different experience”, thus bringing new customers/applications into the TAM. Finally, Gurley argues that network effects and [increasing returns](https://macro-ops.com/how-to-spot-increasing-returns-businesses/) to scale will drive >10% market share, mainly driven by: quicker pick-up times, increased coverage density, and increased utilization. 
+
+**Favorite Quote: “**_The funny thing about “hard numbers” is that they can give a false sense of security.”_
+
+## **January 30, 2015: Uber’s New BHAG: UberPool (**[**link**](http://abovethecrowd.com/2015/01/30/ubers-new-bhag-uberpool/)**)**
+
+**Summary:** UberPool is a **B**ig **H**airy **A**udacious **G**oal. It requires complex transportation algorithms to match drivers with not one, but many riders taking a similar path. However, the rewards for getting this right are incredible. UberPool lowers prices for riders because they “share” the cost of the Uber ride (between their pick-up and drop-off). Additionally, this comes at no extra “cost” to the driver, since they’re already on that route. Finally, UberPool gives Uber a foot in the door in the massive global logistics market. 
+
+**Favorite Quote: “**_It is hard to imagine a world where Uber riders do not want faster pick up times and lower price points. Uber is 100% committed to leveraging its scale and volume to deliver ever lower prices for consumers … UberPool is the natural evolution of this journey, and obvious BHAG candidate for 2015 and beyond.”_ 
+
+## **February 25, 2015: Investors Beware: Today’s $100M+ Late-stage Private Rounds Are Very Different from an IPO (**[**link**](http://abovethecrowd.com/2015/02/25/investors-beware/)**)**
+
+**Summary:** Late-stage private companies face little-to-no scrutiny on their financials. Meanwhile, IPO companies require auditors, bankers, lawyers, oh, and the SEC to verify financials. Additionally, late-stage privates can misrepresent critical financial positioning/revenue information (reporting gross revenue instead of net revenues, etc.). Finally, late-stage private companies flush with new cash are incentivized to extend profitability far into the future, resulting in sustained operating losses. 
+
+**Favorite Quote:** **_“_**_The very act of dumping hundreds of millions of dollars into an immature private company can also have perverse effects on a company’s operating discipline. The only way to use the proceeds of such a large round is to take on massive operating losses.”_
+
+## **May 4, 2015: …Be Like Dave (**[**link**](http://abovethecrowd.com/2015/05/04/be-like-dave/)**)**
+
+**Summary:** Dave Goldberg was the founder of LAUNCH Media, CEO of SurveyMonkey, and husband to Facebook COO Sheryl Sandberg. Goldberg died tragically in 2015 while on family vacation. Gurley’s post reflects on what Dave was like, and why we should be like Dave. Most notably, Dave had a huge heart, immense patience, killer humor, and was an incredible listener. 
+
+**Favorite Quote: “**_Most importantly, Dave showed us all exactly what being a great human being looks like. In a post this weekend on Facebook, Jason Calacanis succinctly noted “He was a better friend, a better husband, a better father, a better leader, and a better person than all of us — and we knew that.””_
+
+## **July 7, 2015: In Defense of the Deck (**[**link**](http://abovethecrowd.com/2015/07/07/in-defense-of-the-deck/)**)**
+
+**Summary:** Jeff Bezos is notorious for hating PowerPoint, and instead, preferring written memos. However, Gurley offers six reasons why good presentation decks are impactful to investors: 
+
+1.  **Importance of Narrative:** Presentations allow founders to tell the story of their company and _show_ investors why their company is a great investment. 
+2.  **Controlling The Cadence:** A well organized presentation creates flow/tempo and guarantees that you make chronological arguments. 
+3.  **Numeracy:** Presentations should have numbers, regardless of where a company is in its lifecycle. 
+4.  **Storytelling Never Ends:** Start-ups are always selling themselves to customers, investors, employees, and prospects. This is much easier to do with a structured/prepared presentation. 
+5.  **The Process Itself Is Useful:** Presentations allow everyone in the company to get on the same page on every important topic. 
+6.  **Be Like Steve:** The best presenters (Steve Jobs, Elon Musk, Jeff Bezos) all leverage the power of a great presentation deck. 
+
+**Favorite Quote: “**_The great storytellers have an unfair competitive advantage. They are going to recruit better, they will be darlings in the press, they are going to raise money more easily and at higher prices, they are going to close amazing business developer partnerships, and they are going to have a strong and cohesive corporate culture.”_
+
+## **Years: 2016 – 2019**
+
+## **April 21, 2016: On the Road to Recap: (**[**link**](http://abovethecrowd.com/2016/04/21/on-the-road-to-recap/)**)**
+
+**Summary:** With valuations at all-time highs, Gurley notes that a fundamental “sea-change” in the investment community has taken place. This change affects all parties involved: founders/employees, VC firms, and investors (LPs). In fact, Gurley highlights five reasons why _more money_ causes _more problems_ in the VC space: 
+
+1.  Record high burn rates
+2.  Companies operating far away from profitability
+3.  Excessively intense competition (driven by cheap capital) 
+4.  Delayed or non-existent liquidity for employees/investors
+5.  Rise of “Shark” or “Vulture” investors
+
+**Favorite Quote: “**_The very best entrepreneurs are relatively advantaged in times of scarce capital. They can raise money in any environment. Loose capital allows the less qualified to participate in each market. This less qualified player brings more reckless execution which drags even the best entrepreneur onto an especially sloppy playing field. This threatens returns for all involved.”_
+
+## **December 18, 2017: “Customer First” Healthcare (**[**link**](http://abovethecrowd.com/2017/12/18/customer-first-healthcare/)**)**
+
+**Summary:** That consumers are steps away from the purchase decision makes healthcare a costly and painful experience. Patients wait for hours, have no idea what anything costs, yet must personally negotiate with insurance companies if things go wrong. Luckily, things are changing. Gurley highlights seven trends shaping a more “customer first” healthcare system: 
+
+1.  **High-Deductible Plans:** Consumers become more cost-conscious as they bear a greater portion of their healthcare costs. 
+2.  **Growing Coinsurance:** Same as the first reason. 
+3.  **FSAs/HSAs:** Healthcare spending vehicles like these allow patients to think more like shoppers, because it’s _their_ money.  
+4.  **Narrow Networks:** Consumers can opt-in to lower premiums with the trade-off of a small service provider network. 
+5.  **Rise of Urgent Care:** Patients receive as good (if not better) service for basic healthcare needs without the added complexity of visiting the ER or hospital. 
+6.  **Growing Use of CRM Tools:** Front-office tools provide better customer experiences, which patients will _expect_ going forward. 
+7.  **Internet Websites/User Generated Content (UGC):** 77% of consumers use online reviews before picking a doctor. It’s also a great way for service providers to promote/advertise their low costs on things like medical exams, sports physicals, etc. 
+
+**Favorite Quote: “**_In many ways, we have the worst of both worlds. Our system, which is the highest in the world as a % of GDP, has the illusion of a free market and the illusion of a regulated market with the apparent benefit of neither.”_
+
+## **April 19, 2018: The Thing I Love Most About Uber (**[**link**](http://abovethecrowd.com/2018/04/19/the-thing-i-love-most-about-uber/)**)**
+
+**Summary:** The thing Bill Gurley loves most about Uber is the freedom it brings to its driver-partners. Drivers decide when to work and how long to work. No other job allows this type of freedom. Imagine emailing your boss saying, “I’m working 3 hours tomorrow, taking Monday off, working 16 hours Tuesday, and then taking the next four days off.” Uber brings freedom and a chance to make a real difference in the lives of its drivers. Whether it’s a single mom providing for her kids, or a retired veteran looking for ways to save for a vacation. 
+
+**Favorite Quote: “**_Driving with Uber reverses the way we have been trained to think about labor. Instead of making labor conform to management’s notion of a ‘job,’ Uber hands control to the worker. You do not have to make your life fit the needs of your job; you can make the job fit the needs of your life. Just how revolutionary this notion is has not, in my opinion, been adequately understood.”_
+
+## **February 27, 2019: Money Out of Nowhere: How Internet Marketplaces Unlock Economic Wealth (**[**link**](http://abovethecrowd.com/2019/02/27/money-out-of-nowhere-how-internet-marketplaces-unlock-economic-wealth/)**)**
+
+**Summary:** Online marketplaces allow _anyone_ to create money out of nowhere. Well, not “nowhere”, but from things like idle free time or unused assets. The internet allows individuals to create money ex nihilo because it flattened the world, eliminated information asymmetry, and reduced geographic relevancy. Gurley mentions three types of online marketplaces: **Exchange of Goods, Sharing Economy,** and **Exchange of Labor.** Each of these marketplaces has one (or many) themes: 
+
+1.  Increase wealth distribution 
+2.  Unlock wasted potential of assets 
+3.  Better match of specific workers with specific opportunities
+4.  Make specific assets reachable and findable
+5.  Allow for increased specialization
+6.  Enhance supplemental labor opportunities
+7.  Reduce forfeiture by enhancing utilization 
+
+If I had to guess, I bet Gurley would coin Online Marketplaces as “The Eighth Wonder of The World” 
+
+**Favorite Quote: “**_Fortunately, the rise of the Internet, and specifically Internet marketplace models, act as accelerants to the productivity benefits of the division of labour AND comparative advantage by reducing information asymmetry and increasing the likelihood of a perfect match with regard to the exchange of goods or services.”_
+
+## **Years: 2020 – 2021**
+
+## **August 23, 2020: Going Public Circa 2020; Door #3: The SPAC (**[**link**](http://abovethecrowd.com/2020/08/23/going-public-circa-2020-door-3-the-spac/)**)**
+
+**Summary:** SPACs are a third option in a company’s toolkit to go public (after conventional IPO and a Direct Listing). There are four distinct benefits to going public via SPAC merger: 
+
+1.  SPACs have a lower cost of capital versus standard IPO
+2.  SPACs have access to primary capital (better than Direct Listing) 
+3.  The company has significantly more control over valuation, price, etc. 
+4.  SPACs are a much faster way to go public (can go public in 2 months)
+
+Gurley notes that SPACs are a legitimate way to enter public markets. Over time, the “SPAC-stigma” will reside and we’ll see more high-profile companies choose SPACs over traditional IPOs and/or Direct Listings. 
+
+**Favorite Quote:** _“It’s worse than being “moronic,” it is financially illiterate. It is hard to imagine how anyone can suggest this \[traditional IPO\] is a good idea with a straight face. And it is increasingly hard to understand how a board of directors can legitimately exercise their fiduciary duty, while subjecting the company to such a structurally backwards approach.”_
+
+## **June 3, 2021: Customers Love Free Stuff … But That’s Not Your Problem (**[**link**](https://abovethecrowd.com/2021/06/03/customers-love-free-stuff-but-thats-not-your-problem/)**)**
+
+**Summary:** Gurley’s latest blog post is yet another lambashing of traditional IPOs versus Direct Listings (DL). In short, going public via DL is better than the traditional IPO because you avoid paying investment bankers a ~20-38% average cost of capital (i.e., the one-day IPO pop). Direct Listings pose two **critical** advantages over traditional IPOs. First, DLs use blind order-matching systems to allow supply-and-demand to determine price and allocation. Second, DLs are open to _any_ investor, not just the fraternity of investment bankers. Finally, DL doubters should be asked two questions: 
+
+1.  Why would you NOT use supply and demand to determine price and allocation?
+2.  Why wouldn’t you open public offerings to all interested parties?
+
+**Favorite Quote:** **_“_**_I have never seen an investment bank offer a “pop” dial to a company’s ad agency, but if you want to boost company morale I suggest giving cash directly to your employees versus using that cash to fund a marketing giveaway for brokerage clients.”_
+
+There you have it! A complete and exhaustive summary of every Bill Gurley blog post ever written. Like I mentioned before, writing this piece was like receiving an MBA in venture capital, online marketplaces, and early-stage investing. 
+
+If you’re interested in thought exercises and in-depth summaries like these, you should join us in the [_Collective_](https://collective.macro-ops.com/join-now). 
+
+The _Collective_ is the internet’s smartest group of traders, investors, and thinkers alike. Members include former hedge fund managers, venture capitalists, prop shop traders, and a couple of former _Market Wizards_ … 
+
+We have one mission: _to learn more each day, become consistently profitable, and have a hell of a good time along the way_.
+
+So, if you want to take the plunge and improve your trading, investing, and decision-making … join the Collective by clicking the button below.  
+
+[![](https://macro-ops.com/wp-content/uploads/2020/12/Collective-Button.jpg)](https://collective.macro-ops.com/join-now)

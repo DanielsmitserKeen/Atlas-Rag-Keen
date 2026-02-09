@@ -1,0 +1,112 @@
+# Everything to know about product-led growth, the new paradigm in software selling
+
+Product-led growth, or PLG, is a term you’ve probably heard a lot about – but what is it? The first things that probably come to mind are “freemium,” “free trial,” or “self-service selling,” and those are definitely important elements of the PLG toolkit, but PLG is also much broader.
+
+PLG is the new paradigm in software selling that utilizes a bottom-up, product-first, and community-based approach to create the most sustainable and (eventually) profitable customer relationships.
+
+Insight’s Onsite team has deep experience working with hundreds of our portfolio companies that pursue this go-to-market strategy. After reading this article, you will:
+
+*   have guidance on the principles for using PLG effectively
+*   know some PLG tools to use
+*   understand why to pay attention to this new paradigm in software selling
+
+## What is product-led growth?
+
+In the simplest definition, PLG is using your product as an active element of your go-to-market motion. Historically, access to a software company’s product was the result of a traditional sales process; however, PLG brings the product directly into the sales process at all stages – acquisition, upsell/growth, and retention. It’s a new mindset in the world of software selling and a logical progression in making software easier to sell and consume.
+
+PLG is the next phase in the evolution of effective software sales as depicted below.
+
+![Timeline](https://www.insightpartners.com//wp-content/uploads/2021/05/Timeline-.jpg)
+
+What a PLG strategy looks like for different companies can vary wildly because it is shaped by the ideal customer profile and journey. However, there are a few principles that lie at the heart of every successful PLG strategy.
+
+### Focus on growth
+
+Whether your main method of PLG growth is expansion of the number of customers through acquisition or expansion of usage and revenue within customer accounts, achieving sustainable, scalable growth is vital to repay the investment in product and infrastructure that PLG requires.
+
+### Lead with value
+
+PLG has changed the way we sell software. Traditionally, companies used sales and marketing to sell value to the buyer before a contract was signed. With PLG, they’re proving value before customers convert or upsell.
+
+### Optimize the customer experience
+
+PLG places a focus on customer experience, using this to drive growth and revenue by demonstrating value to the end-user that is tailored to how they use the product. A customer-centric product will also help develop a community of users who actively evangelize the product, spearheading further growth.
+
+### Be data-driven
+
+Advances in product data, tracking, and experimentation mean that you can use data to drive decision-making far more effectively in a PLG model. This offers significant advantages beyond making decisions based on anecdotal evidence and gut feel.
+
+## The PLG toolbox
+
+![Flywheel](https://www.insightpartners.com//wp-content/uploads/2021/05/Flywheel-image.png)
+
+PLG is largely centered around building and optimizing a “flywheel” of growth that allows companies to land and expand customers quickly and effectively. We break this flywheel into three parts.
+
+1.  **Find and discover –** Allowing effective organic growth by allowing customers to organically find, discover, and test out your product before purchasing. This can also include viewing or participating in how the community of other users get value from the product.  The community of users can be a powerful selling point or reason for conversion.
+2.  **Try and buy –** Enabling customers to buy your product more efficiently and upsell to additional features and functionality.
+3.  **Use and expand –** Ensuring that customers continue subscribing and grow their spending over time.
+
+There are several PLG tools that can be used at each stage of this flywheel, but it is important to note that none of these are prerequisite features of a successful PLG strategy. The right tools to use will depend on your customer base, product, and typical sales motion.
+
+## PLG tools for helping customers find and discover your product
+
+First, and most famously, PLG can help you acquire customers through low-touch acquisition methods that can dramatically increase your lead volume in a scalable way, and then qualify opportunities in the best possible way – by organically testing whether they will make use of and eventually pay for your solution.
+
+*   **Freemium** is offering a totally free tier of your product, limited by features or usage allowances. It can create a large pool of users and organically convert them over time into paying customers (through self-service or sales). [Linktree’s](https://linktr.ee/s/pricing) compelling freemium offering has allowed it to develop a base of 12 million users who are potential targets for the “Pro” plan.
+*   **Free trial** offers time-limited free access to your product for customers to try before they buy. It is typically less risky than freemium because it is less likely to cannibalize existing sales, although it also offers fewer advantages in terms of driving very high volumes of leads. [commercetools](https://ok.commercetools.com/free-trial) offers a 60-day free trial to allow developers to test product suitability without an expensive POC, despite primarily selling at the Enterprise level.
+*   **Open source** is offering source code to the core functionality of your product for free to the developer community. It is often used to build a developer community around the market and can offer brand advantages. It is harder to leverage direct upsell than a freemium or free trial. [Mirantis](https://www.mirantis.com/software/community/) offers open-source software for Kubernetes deployment as well as paid cloud-based products and fosters a community of developers through this offering.
+*   **Incentivizing referrals** can be used to develop viral growth from word-of-mouth. Incentives typically come in the form of product usage (extended trials, higher limits), swag, or gift cards. [N26](https://n26.com/en-us/invite-friends) offers up to $20 per account that is opened from a customer referral.
+*   **Simple, low-touch onboarding** uses checklists, walkthroughs, and other tools to ensure that users can be effectively onboarded into the product without resource-intensive setup or training support. [Monday.com](https://monday.com/pricing/) offers extensive in-app instruction for new users onboarding (using an onboarding checklist) and existing users who are trying new things in the app (through templates, popups, and instruction panels).
+
+## PLG tools for helping customers try and buy your product
+
+Once your users convert to paying customers, there are numerous ways PLG can help you expand their usage and spend by optimizing the cross-sell/upsell path, improving the effectiveness of your go-to-market motion. This often works hand-in-hand with PLG acquisition, as it allows those customers to start on low-commitment contracts and expand as they use, but it can also be very useful in optimizing a sales-led go-to-market motion.
+
+*   **Self-service selling** dramatically reduces the cost of selling and servicing transactional, lower-revenue deals. The product becomes a vehicle for allowing customers to expand their spending through executing upsells, particularly in usage-based pricing models. [Chargebee](https://www.chargebee.com/pricing/) offers two self-service plans in addition to a free offering, which enables SMB and mid-market customers to grow with the platform without needing to talk to sales.
+*   **Data-driven targeting** uses product data in sales targeting and upsell motion; for instance, providing your sales team with a list of customers who are above their usage limits and ready to pay. [Nearpod](https://nearpod.com/pricing) collects data about which teachers are actively using its platform and then leverages this to encourage school districts to become customers.
+*   **New or premium feature adoption** can be improved by guiding users to that feature with product popups and callouts based on their usage patterns and use case. [MURAL](https://www.mural.co/new-features) surfaces new features in-app with contextual triggers, while also providing an in-depth changelog to demonstrate all of the value they are continuously adding to their product.
+*   **Community development** involves fostering a community of users who can help each other understand the product and develop new innovations in usage. This community will form a key source of product advocacy and evangelism, with paying customers advocating to free users, and free users evangelizing the product to prospective users. You should support and foster the community by providing forums and events (user conferences and smaller gatherings) where they can interact, uplifting the most active users of the community, and ensuring company employees interact and become members of the community themselves. [Postman](https://community.postman.com/) has fostered an active community of developers using the product and continues to invest in it.
+
+## PLG tools for retaining customers
+
+Finally, PLG can be used to improve your product stickiness, retention, and upsell by allowing your teams to better direct support resources to where they are needed most and by allowing your product to become more deeply embedded within the technology stacks and processes of your customers.
+
+*   **Data-driven customer success** allows for support to go, quickly, to the place where it’s needed most. In an optimized PLG model, the product should take on much of the heavy lifting of onboarding, training, and basic product help. This allows your customer success team to focus on solving difficult customer-specific issues, and your team can be empowered by telematics in the product to diagnose and solve problems more efficiently and effectively. [Perimeter 81](https://perimeter81.com/) has developed an internal customer-data platform to monitor customer health and help customer success.
+*   **Continuous product optimization** is enabled by smart use of product data and in-app testing environments so that you can optimize the customer experience and test adoption of new functionality (e.g., in a beta phase) prior to a full launch. Perimeter 81 also uses its data platform and telematics to continuously optimize its product.
+*   **Integration and systems embedding** means building links between your product and others within the customer’s tech stack, allowing you to support additional use cases and provide new areas of value while also making it hard for customers to switch from you to a competitor. [Workato](https://www.workato.com/integrations/?utm_source=cpc&utm_source=cpc&utm_medium=adwords&utm_medium=adwords&utm_campaign=sitelink%20integrations&utm_campaign=workato_brand&utm_term=workato&utm_term=workato&matchtype=p&matchtype=p&device=c&device=c&utm_content=workato_specific%20keywords&_bt=511822570536&_bk=workato&_bm=p&_bn=g&_bg=110098320874&gclid=Cj0KCQjw4cOEBhDMARIsAA3XDRh1fqAw125TtJfTh4C4CH2psVtIpuEmdHEXyOM17sNvkSzYhxacC2YaAseVEALw_wcB) provides over 1000 integrations to ensure that customers can automate processes throughout their tech stack, which means their product can become entrenched in their customer’s processes.
+
+## Why leveraging PLG could be important for your business
+
+By adopting PLG principles and using some of the tools in this toolbox that suit your overall strategy, you can deliver real value for your business. In our experience, PLG can lead to significant improvements in the following areas.
+
+### Sales efficiency
+
+PLG allows the product to take on some of the work that was typically done by humans, allowing these humans to focus on more valuable tasks. The product can build awareness, demonstrate functionality, and get prospective customers comfortable with key functionality. This allows your sales, CS, and marketing teams to focus on the more difficult tasks of value-selling, proving ROI, and driving continual customer upsells. The end result is that PLG companies can boast a significantly lower acquisition cost than non-PLG companies.
+
+### Customer health and lifetime value
+
+You don’t need to [lose $500m to poor UX](https://go.forrester.com/blogs/why-citis-500m-mistake-is-really-a-design-debt-interest-payment/) to understand its importance. Software, especially B2B, has not always had a great reputation for usability. PLG changes this, putting user adoption and experience front-and-center in the customer journey, which generates healthier, happier customers who are more likely to grow their spending than churn.
+
+### Organic customer growth
+
+By allowing customers to grow their usage in the product (and avoid churn), PLG allows companies to optimize their net dollar retention through organic upsells.
+
+### Proactive product strategy
+
+By tracking product usage and how it impacts the customer journey, companies can make much more effective decisions on what to build and how to best align to the customer journey, both in terms of usage and monetization.
+
+## Put customers at the center of the journey
+
+Product-led growth is a big shift in how companies sell, market, and develop their product to suit their customer’s needs. By putting the customer at the center of the journey, you are able to generate a strong and stable organic revenue growth story.
+
+Some combination of tools in the PLG toolkit can be used by any software business, regardless of industry or target consumer. Whichever methods you employ, they should be treated as strategic levers tied into your holistic go-to-market motion in order to be truly effective. Adopting a PLG strategy takes time, effort, and investment, but it can supercharge your company growth and significantly improve core company metrics like ARR growth, net dollar retention, and sales and marketing efficiency.
+
+If you have any questions or would like our thoughts on any aspect of PLG, please email us at [PLG@insightpartners.com](mailto:plg@insightpartners.com?cc=content@insightpartners.com&subject=PLG&body=https://www.insightpartners.com/ideas/product-led-growth-the-new-paradigm-in-software-selling/)
+
+_This post was originally published in May 2021 and has been updated._ _Linktree, commercetools, Mirantis, N26, Monday.com, Chargebee, Nearpod, Mural, Postman, Perimeter 81, and Workato are Insight portfolio companies._
+
+#### Mythbusters: Common Product Led Growth Misconceptions That Can Hold You Back
+
+Are you interested in learning more about PLG? In our next blog post, we have dispelled three common myths about PLG, so you can decide if it's right for your business.
+
+[READ](https://www.insightpartners.com/blog/mythbusters-common-product-led-growth-misconceptions-that-can-hold-you-back/)

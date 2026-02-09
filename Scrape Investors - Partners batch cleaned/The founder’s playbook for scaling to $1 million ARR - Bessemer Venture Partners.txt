@@ -1,0 +1,296 @@
+# The founder’s playbook for scaling to $1 million ARR
+
+## Practical guidelines for early stage startups on how to make your first seven figures in annual recurring revenue.
+
+Going from $0 to $1 million in annual recurring revenue (ARR) marks your transition from an idea to a revenue-generating business. It signals you are now on the path to product-market fit, can acquire and retain customers, and are ready to scale. It’s also one of the metrics that can help you get Series A funding.
+
+This early stage sales guide will take entrepreneurs and teams back to basics. To explore how founders can navigate this journey, [Tony Rodoni](https://www.bvp.com/news/bessemer-venture-partners-welcomes-tony-rodoni-as-a-new-operating-partner), operating partner at Bessemer Venture Partners, held a panel discussion with [Paul Fifield](https://www.bvp.com/team/paul-fifield), a four-time founder and operating advisor at Bessemer, and [Kate Jensen](https://www.linkedin.com/in/kateearle/), head of revenue at [Anthropic](https://www.anthropic.com/) — both of whom have built or guided companies to their first $1 million in ARR and beyond. [(Jump here to watch the full conversation.)](https://www.bvp.com/atlas/the-founders-playbook-for-scaling-to-1-million-arr#Video-with-our-experts)
+
+**In this playbook, we share the sales strategies and tactics to help entrepreneurs reach their first seven figures in ARR, determine what to prioritize, how to think about hiring, and the mistakes to avoid.** 
+
+## **How to land your first $1M in ARR (step-by-step)**
+
+*   **Define and focus on an “uncomfortably narrow” ideal customer profile (ICP)** before expanding.
+*   **Founder-led sales should land the first dozen customers**, prioritizing cold outreach to test genuine demand.
+*   **Tailor your sales model** — self-serve/PLG for easy-to-use products, direct sales for complex solutions.
+*   **Carefully consider targeting enterprise** — big deals fast, but with higher demands and concentration risks.
+*   **Outbound sales succeed through focus**, **network leverage, value-driven content, and personalization.**
+*   **Don’t overinvest in high-level sales hires too early**; prioritize agile sales or customer success talent who can iterate and create playbooks.
+*   **Fractional revenue leaders or advisors can bridge expertise gaps cost-effectively.**
+
+## Calculate the path to $1M ARR through customer acquisition
+
+The number of customers required to reach a revenue milestone is inherently tied to both the nature of your product and your target market. For example, targeting enterprise clients typically means fewer deals—perhaps as few as five—because the higher contract values allow you to hit your goals more quickly. In contrast, reaching the same revenue target in the SMB segment could require several hundred customers, as the deal sizes tend to be smaller.
+
+Before you begin customer acquisition, it’s crucial to define your target average **Annual Contract Value (ACV)**. This figure not only helps you estimate how many customers are needed to reach your revenue targets, but it also informs the overall strategy for acquiring those customers. Higher ACVs often necessitate a more personalized, high-touch sales approach, whereas lower ACVs may allow for a more scalable, volume-driven strategy.
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| **Stage** | **Primary owner** | **Focus** | **Key action** |
+| $0–$100k ARR | Founder | Founder-led sales | Land first 10–20 customers via cold outreach |
+| $100k–$1M ARR | Founder + first hire | Refined ICP, playbook building | Begin team-led sales, iterative improvement |
+| $1M+ ARR | Sales team | Scaling, specialization | VP Sales/Scaling GTM engine |
+
+## Win your first customers by yourself
+
+Driving your first dollar of revenue begins with what we call “founder-led sales.” Translation? You are your company’s first salesperson. Eventually, you’ll hire someone and find a repeatable model to build out your team-led sales approach. Depending on what you’re selling, you’ll likely need to hire a few salespeople to hit your $1 million ARR goal.
+
+Paul advises founders to drive the first twenty or so customers. And if you think you’re not good at sales, you probably are, he says. “You’ve just sold 20% of your company to a venture capitalist for X million. I think you can probably sell.”
+
+Tony reminds entrepreneurs not to count sales made to former colleagues or those with strong existing relationships as accurate indicators of success. “Part of mastering founder-led sales is understanding what the experience will be like for your first sales hires—who typically won’t have pre-existing relationships with prospective clients.”
+
+“Founders should be closing deals at the early stage, and at least one deal with a total skeptic,” says Kate, head of revenue at Anthropic.
+
+Paul adds, “Relying on familiar connections can create false signals of product-market fit since these buyers already trust you. That said, founders should leverage every possible avenue to generate early revenue, as it’s a crucial part of the learning process. Just ensure that a significant percentage of your first 10-20 customers come from cold outreach.”
+
+Selling on your own teaches you a lot about your customers. You’ll gain direct insight into their pain points, needs, and how they make decisions. This feedback can refine your ideal customer profile, validate product-market fit, and improve your value proposition. It’s also useful when you hire your first salespeople, giving you a sense of what’s achievable and allowing you to set realistic targets and expectations for them.
+
+At this early stage, sales is less about a perfect product and more about your vision. Many early customers are buying into your vision, just like your early-stage investors. So they need to hear the passion and belief directly from you, the founder. They need to trust that you’ll deliver on what you’re promising.
+
+Your sales reps, however, might not be able to sell your vision with the same conviction.
+
+“There’s no better salesperson at any company than the founder to talk about why they founded the company and their vision. This is true no matter how many millions or billions of dollars in revenue you have,” says Kate.
+
+Prospects also treat founders differently than reps and are less likely to raise their defenses when speaking to them, making it easier to close the sale.
+
+## Create a sales strategy to guide your efforts
+
+You don’t need a hundred-page sales strategy document or to have every detail figured out from the start. You need a functional, agile plan that reflects how you can support customers at every stage — from the first interaction through post-sale.
+
+“Be customer-obsessed when designing your sales process. Think beyond just getting a signature and consider the entire sales cycle when deciding who to hire and how to structure your process,” says Kate.
+
+**Focus your sales strategy document on three key areas:**
+
+### 1\. Define your ideal customer profile and key buying personas
+
+If you’ve been selling already, you likely have a sense of your target market, but you can refine it further. “Make your ideal customer profile uncomfortably narrow — so narrow it almost feels too small,” Paul says.
+
+_Who are the key decision-makers in your deal? What nuances to the problem you solve do they experience?_ **These two questions are critical during discovery calls.**
+
+In an early stage of the sales cycle, your messaging should be focused on the persona. As Paul explains, every conversation is an opportunity to further refine your outreach approach and messaging. And even if your product has broad applications, focus on one ideal customer profile at a time. Perfect serving them and then build a repeatable process before targeting others.
+
+Tony recalls his experience at an early-stage data integration company. While they could integrate any data into apps, they found early success with a medical client using the Health Insurance Portability and Accountability Act (HIPAA) standards. Then they focused 80% of their efforts on similar customers, leveraging the HIPAA use case to build credibility and refine messaging. Over time, they expanded to a second use case in the mortgage industry, based on the Mortgage Industry Standards Maintenance Organization (MISMO).
+
+"Replicate what works, and over time, you’ll build repeatability in your selling process,” he says.
+
+**Note:** Your ICP may evolve or become the wrong fit, and that’s okay. Startups move quickly, so if this happens, simply adjust your sales strategy to match your evolving audience.
+
+### 2\. Choose your sales model
+
+Should you choose a self-serve [product-led growth (PLG)](https://www.bvp.com/atlas/10-product-led-growth-principles) approach or direct sales? Or sell [via channel partners](https://www.bvp.com/atlas/the-gtm-guide-to-building-saas-channel-partnerships) or [marketplaces/platforms](https://www.bvp.com/atlas/building-a-robust-cloud-ecosystem)? It depends on your product and target audience, says Paul. “What's your product and how do people want to buy that?”
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| **Sales model** | **Product type** | **Buyer preference** | **Recommended approach** |
+| PLG | Self-serve/SaaS | Self-motivated | Freemium, trials, no sales rep |
+| Direct Sales | Complex/unique | Hands-on guidance | Dedicated sales team |
+| Channel Sales | Scalable/standardized or niche-targeted | Prefer local expertise, integration, or trusted third parties | Leverage resellers, distributors, system integrators, or referral/affiliate partners to extend reach and accelerate distribution |
+
+If your product is easy to use, has a low entry barrier, and appeals to self-motivated users, product-led growth ([PLG)](https://www.bvp.com/atlas/introducing-enterprise-sales-to-a-product-led-growth-organization) might be the best approach. For example, if you’re [a developer-centric company, such as Twilio](https://www.bvp.com/atlas/explainer-how-to-approach-enterprise-sales-at-a-developer-centric-company), consider PLG with some sales support, as developers often prefer engaging directly with the product over interacting with sales reps.
+
+But, if your product is unique, difficult to explain, or not an online solution, you might need a direct sales model with a more hands-on approach to guide prospects.
+
+You can also [leverage channel partners](https://www.bvp.com/atlas/the-gtm-guide-to-building-saas-channel-partnerships) to distribute your product. Kate shares how Stripe’s partnership with Shopify Pay helped them reach a broader market and scale. “We had a maniacal focus on tech-forward developers who could integrate payments, and some of those developers turned out to work at companies that brought us enormous scale,” she says.
+
+### 3\. Select a sales motion
+
+Generally, companies fall into one of three sales motion categories: small, mid-market, and enterprise. Each has its own cost structure, sales cycle, and required level of effort. The enterprise motion, for instance, has the longest cycle and highest cost, but also the highest ACV, meaning you’ll need fewer deals to hit your $1 million goal.
+
+While it’s possible to have product-market fit across all three motions, Paul advises not to operate across them simultaneously. “They're so dramatically different with different skill sets. Trying to do three at the same time is really hard,” he says.
+
+However, if you decide to target multiple segments, keep in mind that each requires [distinct resources](https://www.bvp.com/pricing-course) to close and deploy deals. “These are very different sales cycles, so have clear internal discussions about what it will take to acquire and serve these customers,” Kate says.
+
+Ultimately, your sales motion should align with your buyers and the value your product brings. Once you identify this, match the motion to their buying process.
+
+## Want to sell to enterprise companies? Keep three things in mind
+
+Selling to enterprise companies gets you to the $1M ARR goal fast, but there are a few challenges.
+
+First, Paul highlights the revenue concentration problem. Enterprise deals are often worth hundreds of thousands of dollars, so losing one or two can significantly impact your revenue. In contrast, SMB customers, with their smaller payments, have a less outsized impact.
+
+Second, enterprise customers have high expectations for the product. This can extend development timelines and delay revenue generation, affecting your VC fundraising strategy.
+
+Third, enterprises often expect to co-develop your product and may request changes or features. But these requests can disrupt your original roadmap and strategy. It doesn’t mean you should never do work outside of your core roadmap. Tony suggests making an exception if the work can bring significant publicity or recognition. “If there’s a feature you disagree with, but it helps secure the logo and a million-dollar deal, it’s okay,” he says.
+
+That said, proceed with caution. Don’t go beyond your core roadmap unless the company is willing to publicly support you through logos, press releases, webinars, or references. “If they’re not willing to go public, don’t bother at all, and charge them a premium. You don’t want to end up with secret enterprise deals you can’t talk to anyone about, as that makes scaling much harder,” Tony says.
+
+He also recommends working only with enterprise companies that are leaders in their category. These companies can unlock opportunities with other enterprises in the market, as others will want to follow their lead.
+
+As for Paul, he advises against pursuing enterprise customers for two main reasons: it’s a risky decision for early stage startups, and teams simply won’t learn as fast since enterprise cycles are long and costly. “If you can, avoid targeting enterprises at first,” he says.
+
+“Focus on the mid-market and build up until your product matures. I believe that's the ideal approach.”
+
+## Tailor the strategies that are right for your startup
+
+Many founders look to sales playbooks for guidance, but the reality is that what works for one startup may not yield the same results for another. The key to successful selling is aligning your sales strategy with the tangible value your product delivers.
+
+**For example, when selling:**
+
+*   B2B SaaS startups should initially focus on getting successful adoption through a "wedge" such as specific use cases or persona and then scale up from this niche afterward, rather than targeting a broad audience from the outset.
+*   Vertical AI startups can gain traction by solving a high-value problem in a specific industry, allowing them to build data advantages and scale into market leadership over time.
+*   Marketplaces often start with a small, well-balanced supply and demand group before expanding.
+
+Once a founder understands who their product serves and the specific problem it solves, the next step is outbound selling—finding the right buyers and budget holders who are willing to pay to make their pain go away.
+
+## Five unique tactics for effective selling
+
+If you're a founder and you don’t know exactly where to start with outbound selling, here are the acquisition tips our experts shared.
+
+### 1\. Hyperfocus on a strategic list and find the “secret door”
+
+Paul recommends that founders take a narrow and deep approach to prospecting.
+
+“Don't prospect into too many accounts at the same time. Most buyers have a strong aversion to mass outreach or generic automated sequences,” he explains.
+
+**Instead, he suggests a strategic, research-driven approach:**
+
+*   Identify your ICP and build a highly targeted list of strategic accounts.
+*   Engage with key personas on social platforms where they discuss industry challenges.
+*   Set Google Alerts to track relevant updates on target companies.
+*   Conduct org mapping to understand decision-makers and influencers within each company.
+*   Find the "secret door"—look beyond obvious contacts. Identify people within the company who might receive less inbound noise but could introduce you to the right decision-maker.
+
+“Every company has a secret door—you just need to find it by being smart and tactical,” Paul advises. “You won’t uncover it by throwing 500 people into a 35-step automated sequence.” By focusing on quality over quantity, founders can build meaningful relationships, increase response rates, and accelerate sales velocity.
+
+### 2\. Tap into the power of network effects
+
+There’s a reason YC startups sell their software to other YC startups—it’s the same reason early-stage companies forge partnerships with venture capital firms to access their portfolio networks. Network selling is a powerful go-to-market (GTM) strategy that leverages existing relationships, customer communities, and strategic partnerships to accelerate sales, reduce acquisition costs, and drive sustainable revenue growth.
+
+Unlike traditional outbound sales, which rely on cold outreach and paid marketing, network selling harnesses trust, referrals, and social proof to create a warm, high-conversion sales pipeline. But to maximize its impact, founders must think strategically about where and how to activate these networks.
+
+For some, this means directly selling into trusted ecosystems—such as investor portfolios, accelerator cohorts, or industry associations. For others, network selling is embedded in the product itself.
+
+For example, B2B AI startups often integrate into incumbent platforms to tap into existing customer bases. Many AI companies go to market as point solutions, solving a highly specific problem before expanding into a broader platform. However, standalone AI apps can struggle to become deeply embedded in existing workflows, which can impact retention and engagement. To mitigate this risk, we’ve seen AI startups leverage network selling by forming tight integrations with dominant platforms, gaining access to an established user base while driving adoption.
+
+As your startup scales, new network-driven opportunities will emerge—whether through strategic alliances, embedded partnerships, or customer-driven referrals. Network selling is a high-leverage GTM strategy that complements PLG, customer-led growth, and community-driven sales. Founders who intentionally cultivate strategic relationships, engage customer networks, and embed virality into their product can unlock faster, more scalable growth while reducing reliance on outbound sales.
+
+### 3\. Run webinars to generate pipeline — both inbound and outbound
+
+When Paul was building Sales Impact Academy, one of the most effective demand generation strategies they used was high-quality webinars. Instead of aggressively pushing for sales meetings or focusing too much on their product, they led with value—creating content that resonated deeply with their ideal customer profiles (ICPs) and buying personas.
+
+The key to successful webinars is curating topics that directly address the biggest challenges of your audience—even if they’re only tangentially related to your product. By bringing in high-profile industry leaders ("wow" names) as speakers, you attract the right audience, establish thought leadership, and position your brand as a trusted authority. This approach not only nurtures potential customers but can even create pipeline opportunities with the very industry leaders you feature in your events.
+
+While webinars are typically used for inbound marketing, they can also be a powerful outbound tool when you proactively invite key prospects to attend. If attendees receive real value, they are more likely to engage with your sales team and enter your funnel.
+
+Kate agrees, adding that webinars also provide an opportunity for co-selling with your reps—giving them a platform to engage with prospects in a low-pressure, high-value setting. At Stripe, webinars were particularly effective for helping customers with deployments, guiding them on how to integrate the product and maximize its value.
+
+Beyond direct sales impact, webinars generate a wealth of repurposable content—from blog posts to LinkedIn clips—that further extends their influence. For founders and sales leaders, this is a great program to develop if you were to invest in demand generation. By consistently running insightful, well-curated webinars, you not only build awareness but also create a repeatable engine for pipeline growth.
+
+### 4\. Send LinkedIn voice notes or videos for outbound
+
+Paul recommends a highly effective outbound tactic: sending personalized LinkedIn voice or video messages instead of generic cold direct messages. This approach helps you stand out in a crowded inbox, making it more likely that prospects will engage.
+
+At his last startup, an SDR used this strategy and she secured more meetings than even some experienced AEs and consistently booked more meetings than any other SDR. The personal touch of a voice note or video message feels more authentic and less transactional, increasing the chances of breaking through and getting a response.
+
+### 5\. Use AI tools to streamline sales processes
+
+AI is transforming sales, but mass email automation isn’t always the best use case. Paul and Kate caution against relying on AI for generic outreach—**effective cold emails are relevant, thoughtful, and valuable**, qualities AI-generated messages have traditionally lacked. However, AI-powered GTM tools are evolving rapidly, with solutions like [Outreach AI](https://www.outreachai.co/) leveraging hyper-personalized, multi-modal capabilities.
+
+The real power of AI lies in sales research and personalized outreach. Instead of automating bulk emails, use AI to gather insights that make outreach more targeted and compelling. For example, [Seam AI](https://www.getseam.ai/), a Bessemer portfolio company, can help build a pipeline with AI agents that prospect exactly like your best salespeople, 24 hours a day. In addition, these types of AI tools can also assess engagement signals to guide the next best action—whether that’s a tailored follow-up, a short video addressing a pain point, or a warm introduction.
+
+By using AI strategically for sales intelligence, early-stage SaaS teams can accelerate prospecting, improve email quality, and boost response rates—without losing authenticity.
+
+These five approaches are by no means exhaustive, but they provide founders with a strong starting point. Once a founder has secured their first customers, the next step is to build a sales team that can scale and drive the business toward new revenue milestones.
+
+## Understand the ROI of your first sales hire
+
+No two early-stage go-to-market (GTM) motions are identical. A startup’s first sales hire—and their objectives—will vary based on industry, customer profile, pricing strategy, and whether the business follows an enterprise-led, product-led growth (PLG), or blended sales approach. It also depends on whether the startup is creating a new category, displacing an incumbent, or targeting new budget lines.
+
+### When to hire your first salesperson—and who to hire
+
+The first rule of thumb for founders hiring their initial sales team is to define customer and business needs first. From there, the cost of hiring—whether for an Account Executive (AE) or a sales leader—should be justified by the revenue they generate.
+
+Don’t hire a VP of Sales too early. Startups with minimal revenue should avoid making a VP of Sales their first hire, as their skillset is best suited to scaling an existing sales operation—not building one from scratch.
+
+*   A VP of Sales is expensive, often earning over one-third of a founder’s $1 million ARR goal, making them a costly early hire.
+*   If you’re considering a VP of Sales, you should already have:
+    *   _Significant_ revenue traction (ideally approaching $1 million ARR).
+    *   Strong retention (to avoid a “leaky bucket” scenario where new customers churn too quickly).
+
+**Some examples of exceptions include:**
+
+*   If you're an AI startup selling to healthcare systems—a market with long sales cycles and high ACVs—it might be worth hiring a seasoned sales leader early.
+*   This “hunter” sales leader should have deep knowledge of the industry, the buyer persona, and be able to land early enterprise deals to set the foundation for future sales hires.
+
+In contrast, a seed-stage SaaS or AI startup with a PLG sales motion may not need a traditional sales team at all—at least not right away.
+
+*   PLG businesses, such as Atlassian, Twilio, and PagerDuty, initially grew by selling to individual users or small teams via a self-serve model.
+*   Instead of hiring a traditional AE, these companies might prioritize hiring consultative “farmer” sales reps who specialize in expanding small accounts into larger ones.
+
+### Hiring on-the-ground sales talent
+
+For most startups, the best first sales hire is an on-the-ground salesperson who can sell directly and build repeatable sales processes. Kate recommends looking for someone who:
+
+*   Has strong sales skills and thrives on direct selling.
+*   Is a self-starter who can build lightweight sales systems without waiting for direction.
+*   Enjoys problem-solving and identifying patterns to create repeatable playbooks.
+
+Alternatively, [hiring a customer success (CS) rep](https://www.bvp.com/atlas/understanding-churn-and-building-an-action-plan-to-fix-the-proverbial-leaky-bucket) first can be a smart move.
+
+A CS hire deepens customer relationships, proactively resolves issues, and increases retention. Strong CS engagement generates case studies, insights, and expansion revenue.
+
+“Everyone focuses on new sales, but learning from existing customers is just as important,” says Paul. Whether your first hire is a salesperson or a CS rep, their primary job is to help refine your ICP — which is foundational to building a scalable sales motion.
+
+**Questions your first hire should help answer when refining your ICP:**
+
+*   Who is your buyer? Are they the same as the end user?
+*   What do they care about? What objections or pain points influence their decisions?
+*   When it’s time for renewal (or upsell), what will their internal discussion sound like?
+
+A great early sales hire works alongside the founder to define these insights, identify market patterns, and optimize where to invest time and resources.
+
+If you do bring a first sales hire before the $1M ARR threshold, know that it’s a crucial decision that can either accelerate or slow down your velocity. Choose someone who can sell, iterate, and help define repeatable processes. By focusing on customer insights, scalable processes, and early revenue efficiency, you set the foundation for long-term GTM success.
+
+## Find a fractional revenue leader to help when recruiting
+
+The hiring process is daunting, especially for first-time or technical founders. It involves creating job descriptions, deciding compensation, sourcing and interviewing candidates, onboarding the hire, etc. While external recruiters can help, their fees can reach as high as [30%](https://outstaffyourteam.com/articles/recruiting-fees) per candidate, which might be too much for a startup just trying to make its first million.
+
+Instead, hire a fractional revenue leader or chief revenue officer (CRO) to [build your early team.](https://www.bvp.com/atlas/how-to-build-and-lead-a-world-class-startup-team)
+
+“Expecting a technical founder to build the first sales team can be as absurd and risky as asking a sales-oriented founder to build the early technology team,” remarks Paul.
+
+It’s a growing trend — a few of the CROs that support Bessemer portfolio companies are fractional, which can offer unique advantages. It can alleviate the hiring stress (a non-trivial amount of time and brainpower) and gives you access to high-level expertise for a few hours a week at a more cost-effective rate. “It’s less risky as they’ll set up compensation plans, create basic processes, and hire the right rep, which is important,” says Paul. And because of their network, they may already know that top rep.
+
+Where can you find these fractional CROs? From your investors. “A great VC is meant to help find the right people to support you. This doesn't always mean full-time hires. It can include advisors and other experts too,” Kate says.
+
+Another recruiting tip is to [hire in pairs](https://www.bvp.com/atlas/best-practices-from-our-portfolio-for-a-high-performing-sdr-bdr-function) — two business development representatives (BDRs), two sales development representatives (SDRs), two account executives (AEs), etc. For one, it’s safer. Even if one of the hires doesn’t work out, you’re not stranded. It also lets you compare performance and establish benchmarks. For instance, if one SDR creates fifteen sales qualified opportunities (SQOs) and another five, you’ll know what’s achievable. This setup promotes healthy competition as they both may strive to outperform one another which can benefit the company. Finally, it makes the job enjoyable. Sales is challenging, and having someone who shares the experience can significantly boost morale.
+
+## Land your first customers — then build to scale
+
+One of the most important things to do at this stage is to take action. You need to get out there, find leads, talk to prospects, and hustle to make your first sales. Tap into your network, lean on connections, and experiment with different approaches. Essentially, “You need to be scrappy,” says Paul.
+
+Don’t worry about building a perfectly scalable sales machine before you’ve generated revenue. Your priority is to land those first customers as quickly as possible. Once you’ve gotten them you can build from there. And with time and effort, you’ll reach the $1 million ARR mark.
+
+## **FAQs for scaling to $1 million ARR**
+
+**What’s the significance of reaching $1M ARR for a startup?**  
+Crossing $1M in Annual Recurring Revenue marks the transition from idea to revenue-generating business, signaling product-market fit and readiness to scale.
+
+**How do I calculate how many customers I need to reach $1M ARR?**  
+Determine your target average Annual Contract Value (ACV). Enterprise targets may require only a few deals; SMB may need hundreds due to smaller deal sizes.
+
+**What is the recommended approach for founder-led sales?**  
+Founders should drive the first 20 or so customers, emphasizing cold outreach rather than relying only on existing relationships to better validate product-market fit.
+
+**What core elements should my early sales strategy document include?**  
+Clearly define your ideal customer profile (ICP), choose your sales model (self-serve, direct, channel), and select a sales motion (SMB, mid-market, enterprise).
+
+**What are the risks and rewards of selling to enterprise customers early?**  
+Enterprise deals can speed up ARR growth, but come with risks like revenue concentration and higher product demands. Consider balancing with mid-market or SMB clients.
+
+**What actionable tactics help with outbound sales?**
+
+*   Hyperfocus on a strategic target list
+*   Leverage network effects and warm introductions
+*   Run engaging, value-driven webinars
+*   Use personalized LinkedIn voice/video messages
+*   Apply AI tools for research and targeted outreach, not generic mass emails
+
+**When and whom should I hire as my first sales hire?**  
+Don’t hire a VP of Sales too early. Start with an on-the-ground salesperson or customer success rep who excels in direct selling, process building, and refining your ICP.
+
+**For more actionable insights, check out the [Go-to-Market Course](https://www.bvp.com/gtm-course) we designed for early-stage companies. We share some best practices and insights to help leaders gain traction, position their businesses, and build recurring revenue engines.**
+
+### Video with our experts 
+
+_This playbook features a panel of seasoned experts: Tony Rodoni, an operating partner at Bessemer Venture Partners and former Salesforce executive with decades of experience guiding SaaS growth; Paul Fifield, a four-time founder and operating advisor at Bessemer known for building and scaling startups to multi-million dollar revenue; and Kate Jensen, head of revenue at Anthropic and former Stripe sales leader, who brings deep expertise in building and leading high-performing sales teams at fast-growing technology companies._

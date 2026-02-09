@@ -1,0 +1,146 @@
+# Sales-Led vs. Product-Led Growth
+
+_In this series, we dive into product-led growth (PLG) and share insights from across General Catalyst’s network. Here, we explore the questions of whether, when, and how to implement a product-led motion alongside a sales-led motion. If you’re an early-stage founder looking for foundational information about PLG, check out_ [The Early-Stage Founder’s Guide to Product-Led Growth](https://www.generalcatalyst.com/perspectives/the-early-stage-founders-guide-to-product-led-growth). _For concrete examples of what PLG looks like in practice at different companies, read our article about_ [Experimenting with Product-Led Growth](https://www.generalcatalyst.com/perspectives/experimenting-with-product-led-growth).
+
+One of my favorite topics to discuss with founders is 0-1 go-to-market. While every founder’s situation is unique, their questions revolve around common themes: How do you choose the right GTM motion? How do you balance different approaches? When is the right time to make a change? 
+
+I asked B2B growth leaders in the General Catalyst network to shed light on these questions. Below, I share insights and real-world examples from these experts:
+
+*   Jeanne DeWitt Grosser, Chief Business Officer at Stripe and former sales director at Google,
+*   Janie Lee, Head of Product at Loom and former product manager at Box,
+*   Andy McCall, Catalyst Advisor at General Catalyst and former CRO at Samsara,
+*   Hila Qu, growth advisor and former Head of Growth at GitLab,
+*   Kady Srinivasan, CMO of Lightspeed and former Head of Marketing at Klaviyo,
+*   Ben Williams, PLG advisor and former VP of Products at Snyk.
+
+## **How do you choose a GTM motion?**
+
+Your decision on a GTM motion will depend on multiple factors, including the nuances of your product and the dynamics of your market. In many cases, founders are intrigued by the concept of growing in a product-led way, because they’ve heard it’s the fastest or most efficient way to grow in the long term. But when I look at what they‘re building and the category they’re in, it’s clear it should be a top-down sales motion, at least initially to distribute the product.
+
+How do you figure out what should be the primary GTM for your product and business? Here are questions to ask yourself: 
+
+### **What’s worked best for other companies in our category?**
+
+The first step is studying other companies that have come before you. What’s the primary GTM that has enabled successful companies in your product category to grow and scale? 
+
+### **What do our customers want?**
+
+“Customers are generally pretty good at telling you how they want to buy,” says Andy McCall. “Understand how they’re finding your product today, what interests them most about your product, and how they’re buying your competitors’ products.” 
+
+If you’re building a tool for developers, for example, you’ve probably already learned that a bottoms-up, product-led growth motion tends to work well. Developers have a reputation for wanting to explore products on their own and may be less interested in sales conversations and demos. You might want to invest in fostering developer communities to encourage word-of-mouth for product distribution.
+
+If, instead, you’re building a more traditional enterprise software company, it’s no secret that sales-led motions will be the norm for your category. You’ll probably find that large, enterprise buyers require a more involved and personalized sales process focused on stakeholder alignment, and security & compliance. 
+
+### **How much friction is involved in adopting our product?**
+
+Refine your strategy based on the barriers you’ll need to overcome to get from initial product discovery to full adoption. Think about questions like these:
+
+*   Can a user buy the product with a credit card? 
+*   What stakeholder coordination is required? For example, do Legal and/or IT need to sign-off on the purchase/contract?
+*   How easy is it for users to navigate the product UI on their own?
+
+If there’s a lot of friction for an end user to adopt the product, you may need to lean more heavily on sales vs. a more product-led motion.
+
+## **Should you try to leverage both product-led and sales-led motions?**
+
+More and more we are seeing B2B companies adopt a hybrid mode vs relying on just one motion. Across the GC portfolio, we often see early-stage B2B companies drive revenue through their sales motion, then set up a self-serve funnel to support some of their lower ACV sales leads, or vice versa starting with a self-serve product and then layer on sales. 
+
+If you’re building a hybrid product-led/sales-led motion, consider the following: 
+
+### **Equal investment isn’t the goal.** 
+
+“Product-led and sales-led motions can coexist, even if one is more dominant,” says Jeanne DeWitt Grosser. “You don’t have to invest equally to build both muscles. The balance will shift over time, based on your ability to invest relative to return.”
+
+It’s important to figure out the primary motion that works the best for your target buyer. Once you’ve identified where you’re seeing the most success, you can invest more into that motion. 
+
+### **There are different ways to be product-led.**
+
+Ben Williams notes that even if you aren’t product-led through the lens of user acquisition, you can still apply product-led strategies to other parts of your business. For example, you might be product-led through the lens of retention—creating meaningful experiences that users love and that compel them to renew. 
+
+## **When is the right time to layer on different motions?**
+
+### **If you’re starting with a sales-led approach:**
+
+For PLG to be viable, the product needs to address an acute user problem with a self-service solution. Ben suggests asking yourself two questions: 1) Is the problem burning enough for people to search for a solution? 2) Is the solution one that users want to adopt themselves?  
+
+Once you’ve determined that PLG is viable for your product, look for organic signals from your user base. These indications could suggest you’re ready to layer on a PLG motion:
+
+*   **Demand from end users:** A PLG motion may be effective if your end user is driving the buying decision. Ben shares an example from Snyk, which built a self-serve motion as they saw increased demand from security-conscious developers. Whereas a sales-led approach worked well for a centralized buying committee, a product-led approach worked better for small engineering teams who were invested in procuring a solution on their own. 
+*   **Lower ACV deals:** If you’re seeing organic interest from smaller or lower annual contract value (ACV) customers, it could be time to introduce a product-led motion. 
+
+It can be costly to introduce a product-led motion before the company or market is ready for it, cautions Kady Srinivasan. For Kady, readiness means having the conviction you can capture a meaningful share of the market profitably. She suggests asking yourself these questions to assess whether now is the right time:
+
+*   Can we reach 3-5% market share in the next 2-3 years?
+*   Do we believe we can land and expand PLG customers in a meaningful way and in a meaningful time frame? Are we expanding our share of wallet by targeting these customers?
+*   What are the unit economics of targeting and acquiring these customers, factoring in their LTV and the potential for higher churn? Do these unit economics meet our NPV requirements?
+
+After answering these questions, Kady recommends looking at your team’s resources and the state of your UI and UX. For example:
+
+*   Are you able to staff a team focused on self-serve growth? “Having a self-serve motion is just the start,” Kady says. “The important bit is to continuously optimize this flow with the right pod of designers, product managers, analysts, and growth marketers.”
+*   Are you able to provide the right UI/UX for customers to sign up for a free trial or paid experience? Are you able to provide the full suite of DIY tools these customers want?
+
+### **If you’re starting with a product-led approach:**
+
+Some companies invest in PLG in the very early stages, then layer on sales efforts as they go upmarket. How do you know it’s the right time to prioritize a sales-led motion? “Look at the demographics of the prospects in your PLG funnel,” Jeanne advises. “If they have characteristics that lend themselves better to a sales-led channel, that might be a good time to invest in experimentation, at a minimum, if not building out your sales team.”
+
+Those characteristics could include:
+
+*   **Company size:** Typically, 100+ employees
+*   **Company maturity:** Series C, D, and beyond
+*   **High ACV:** If the product’s price point is higher than the typical credit card limit, you know that self-serve checkout probably won’t work
+*   **Buyer profile:** Buying committee and/or C-level decision-makers vs. end user
+
+Other signals to look out for:
+
+*   **Expanded product usage:** Customers using multiple SKUs; pockets of purchases within an organization; new user types (e.g., admins and team members)
+*   **Inbound opportunities:** Uptick in prospects raising their hands for sales calls and/or demos
+*   **Competitive pressure:** For example, competitors becoming more aggressive with outbound sales
+
+## **How do you execute both motions simultaneously?**
+
+### **Organize your team around your different GTM motions.**
+
+Your sales reps need different skill sets and technical product knowledge depending on who they’re selling to and what part of your GTM they’re supporting. For example, your existing SDR team may not have the product proficiency to lead more technical conversations with new prospects. In that case, you might consider a role for a dedicated product specialist within sales or customer success. 
+
+### **Create aligned incentives through your sales compensation model.**
+
+Design your sales quotas and compensation models to account for the ACV that comes from product-led vs. sales-led motions. Imagine that for your company, the ACV from PLG is 100X lower than a single enterprise contract that comes in through a sales-led motion. Your sales reps will want to work on the enterprise pipeline vs. chasing 100 SMB deals. 
+
+Typically, companies create sales teams for each market segment (e.g., SMB, mid-market, and enterprise). SMB-focused teams have the most exposure to the PLG pipeline, and their sales quota and compensation models are created with ACV in mind to ensure that reps are incentivized to work those leads.
+
+At both Stripe and Google, Jeanne’s team baked product- and sales-led revenue into their quotas. They set a target for product-driven revenue (say, 20% of overall quota). Anything beyond that number was considered sales-led. This clear delineation gave salespeople credit for deals that were driven primarily by the product but involved talking to sales.
+
+## **How do you rally your team around a PLG motion?**
+
+GTM changes involve some friction. Most commonly, resistance occurs when companies are heavily sales-led and shifting their culture to become more product-led. Making the case for PLG—and motivating the sales team to participate—can be a significant challenge, especially if you’re seeing substantial revenue from sales-led efforts. Here are three ways to build excitement and alignment as you make this change. 
+
+### **Start small and prioritize quality.**
+
+Hila Qu recommends focusing on quality over quantity when proving the viability of a PLG motion. At GitLab, that meant starting with a very high bar for product qualified leads (PQL). “We intentionally limited the scope of the initial PQL project so we were giving the sales team 100 PQL per month vs. 1,000,” she says. Her team selected PQLs based on key behaviors and signals—for example, multiple users and critical feature usage. Those PQLs had 3-5X higher conversion rates than typical MQLs or SQLs, and those results helped the sales team get on board. 
+
+### **Drive early wins and quantify their impact.**
+
+When Janie Lee was at Box, she helped to make the case for investing in PLG. “At the time, Box was extremely sales-led—big gong on every floor, mostly outbound via sales and marketing,” she says. “My manager and I took a bottoms-up approach to validate the need for PLG motions.” Her team started by asking themselves where the product could uniquely add value and identified the first 90 days after purchase. They noticed that customers were not deploying all of their available seats within the first three months, and even after they were deployed, few users were activating. They diversified their communication mix and focused on in-app onboarding to ensure customers could accelerate their time to value. The team increased the number of activated users by 30-40%. After two quarters, Janie’s team could prove the ROI of their PLG efforts, backed up by numbers like these.
+
+### **Build a common philosophy.** 
+
+Ben helped build and scale the PLG motion at Snyk, which had previously been a sales-led organization. He attributes their success, in large part, to cultural alignment—everyone at the company shared the goal of serving users in meaningful ways. That philosophy started with the founder and cascaded to every team. Because of this alignment, Snyk was able to leverage bottom-up user adoption and drive monetization through a combination of product-led and sales-led GTM motions. Over time, about half of all revenue that came through the sales motion originated from product usage.
+
+When I was at Amplitude driving PLG efforts, I would accredit a lot of our PLG success to buy-in from their CEO and executive team. My advice for building this buy-in is to illustrate how PLG works as a long-term strategy; PLG is often critical to driving distribution and mindshare in a market. If you look only at the short term, it can feel as though PLG doesn’t move the needle on revenue. But when PLG is executed well, it can lead to significant long-term growth and increased efficiency. So there needs to be top-level alignment on how PLG fits into the company’s growth strategy, otherwise the teams executing on it will face a lot of headwinds.
+
+It’s a journey to figure out the right GTM strategy for your product and business. When in doubt, listen to your customers and ask yourself where you’re already seeing success. Test other motions when you feel some pull from the market and when your primary motion is becoming more repeatable. At GC, we’re big fans of companies that use a hybrid GTM motion. We’re here to help you navigate these challenges, refine your strategy, and answer questions that arise through the process. Get in touch with me if you are an early stage B2B founder who wants to chat about your GTM!
+
+**Follow our experts on social:**
+
+*   Jeanne DeWitt Grosser: [LinkedIn](https://www.linkedin.com/in/jeannedewitt/), [X](https://twitter.com/jdewitt29)
+*   Janie Lee: [LinkedIn](https://www.linkedin.com/in/janiejlee), [X](https://twitter.com/janiejlee)
+*   Andy McCall: [LinkedIn](https://www.linkedin.com/in/amccall)
+*   Hila Qu: [LinkedIn](https://www.linkedin.com/in/hilaqu), [X](https://twitter.com/hilaqu)
+*   Kady Srinivasan: [LinkedIn](https://www.linkedin.com/in/kadysrinivasan/), [X](https://twitter.com/kadysrinivasan?lang=en)
+*   Ben Williams: [LinkedIn](https://www.linkedin.com/in/theproductledgeek)
+
+**Explore our PLG series:**
+
+1.  [The Early-Stage Founder’s Guide to Product-Led Growth](https://www.generalcatalyst.com/perspectives/the-early-stage-founders-guide-to-product-led-growth)
+2.  [Experimenting with Product-Led Growth](https://www.generalcatalyst.com/perspectives/experimenting-with-product-led-growth)
+3.  [Sales-Led vs. Product-Led Growth](https://www.generalcatalyst.com/stories/sales-led-vs-product-led-growth)

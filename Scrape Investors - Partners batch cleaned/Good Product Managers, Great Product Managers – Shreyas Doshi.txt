@@ -1,0 +1,91 @@
+# Good Product Managers, Great Product Managers – Shreyas Doshi
+
+There are _Good_ Product Managers and there are _Great_ Product Managers. There are also _Okay_ Product Managers and _Bad_ Product Managers, but we will focus on the _Good_ and the _Great_ here.
+
+1/ Good PMs consistently deliver quality products and results. Great PMs consistently and singularly improve the company’s trajectory through the products they work on.
+
+2/ Good PMs make metrics-driven product decisions. Great PMs make metrics-_informed_ product decisions. Great PMs expertly blend quantitative and qualitative inputs, as warranted by each individual situation.
+
+3/ Good PMs extensively research the domain in which their product operates. Great PMs become the worldwide experts in that domain. When new to a domain, great PMs bootstrap this process by seeking the counsel of existing worldwide experts.
+
+4/ Good PMs are proactive about doing user research to identify and fix UI issues in their product. Great PMs have a broader view of the value of user research. Great PMs are diligent about using a variety of user research methods to inform what product to build in the first place.
+
+5/ Good PMs make product decisions based on a thoroughly logical and rational view of the world. Great PMs view logic and reason as important tools, but they also know that people — and therefore the users and customers of their product — are driven by emotion more than by logic.⁰
+
+6/ Good PMs talk frequently to customers and they listen intently what customers say in order to develop their product hypothesis. Great PMs additionally listen to what customers don’t say and they anticipate where the industry overall is headed in order to develop their product hypothesis.
+
+7/ Good PMs inspire teams with _their_ creative product ideas to get buy-in. Great PMs know that buy-in isn’t enough; you need passion and a sense of ownership to build great products. Great PMs facilitate discussions that get _the entire team_ to come up with creative product ideas.
+
+8/ Good PMs seek to validate their ideas and instincts with trusted colleagues. They often ask: “Does this make sense?”. Great PMs make it as easy as possible for colleagues to push back on their ideas and instincts. They often ask: “What am I getting wrong?”.¹
+
+9/ Good PMs are detail-obsessed, making sure that the product meets the desired quality bar for launch. Great PMs pay this degree of attention to the entire customer experience: they know that the documentation, the API, the blog post, the website, the canned responses, etc. are also _the product_.
+
+10/ Good PMs can make convincing arguments to support their point of view. Great PMs can also make convincing arguments to support the _opposite of_ their point of view.
+
+11/ Good PMs write detailed and lucid product requirements documents (PRDs). Their teams become highly reliant on these PRDs to make forward progress on engineering and design tasks. Great PMs iteratively write their PRDs so engineering and design tasks are rarely blocked on them.²
+
+12/ Good PMs work hard, are always extremely busy, and are often overwhelmed. Great PMs work hard but are rarely overwhelmed. Great PMs understand task leverage and spend the majority of their time on the highest-leverage tasks for the company.³
+
+14/ Good PMs over time converge on a set of processes and frameworks that they trust: sprints, OKRs, RICE, etc. Good PMs employ these tools with all their teams to ensure disciplined execution. Great PMs are more adaptive and don’t take a one-size-fits-all approach. Great PMs employ a wider repertoire of frameworks and processes, expertly tweaking these tools for each specific team based on its composition, stage, and needs.
+
+15/ Good PMs understand the value of working on infrastructure and tech debt, but they advocate for more engineering time to be spent on features that meet customer needs. Great PMs actively advocate for infrastructure and tech debt work because they care as much about uptime, latency, security, and dev productivity as they do about new feature work.
+
+16/ At product reviews, Good PMs provide thoughtful answers to executives’ questions. Great PMs see their role as being greater than just answering executives’ questions. Great PMs know that product reviews are a joint truth-seeking process and so they often reframe executives’ questions.
+
+17/ Good PMs usually deal in answers and data. Great PMs usually deal in questions and wisdom.
+
+18/ Good PMs are outstanding problem solvers. Great PMs are outstanding problem preventers. Great PMs are discerning about which problems to prevent, which problems to solve, and which problems not to solve.⁴
+
+19/ Good PMs try their best to deliver optimal results for a given product strategy. Great PMs first ensure that the product strategy itself is optimal. Great PMs know that their team’s time is too precious to be squandered away on flawless execution of a flawed strategy.⁵
+
+20/ Good PMs can describe their product strategy over the course of a short elevator ride. Great PMs ensure that _their team members_ can also describe the product strategy over the course of a short elevator ride.
+
+21/ When their products do well, Good PMs use the spotlight to give credit to the builders i.e. the team members who worked to build the product (eng, design, research, data science, developer relations, …). Great PMs remember to also give credit to the enablers (marketing, legal, sales, support, operations, …).
+
+22/ When their products fail, Good PMs run a post-mortem to assess reasons for the failure and improve their future approach. Great PMs, in the rare instances of product failure, improve not just their own approach but they also share the lessons learned with the broader company.⁶
+
+23/ Good PMs weave stakeholder concerns (legal, privacy, security, …) into their plan and get their approval well before launch. Great PMs know that these groups are not _approvers_, they are _valuable advisors_. With due consideration of stakeholders’ concerns and recommendations, Great PMs ultimately decide what’s best for their customers and the business.
+
+24/ Good PMs espouse the company’s existing processes and product ethos to build better products. Great PMs edit the company’s processes and product ethos before espousing them: they identify the unintended flaws in the company’s principles and fix the flawed parts. Great PMs are high agency people with a strong internal locus of control.
+
+25/ Good PMs move heaven and earth to meet their team’s quarterly goals and targets. Great PMs always think a few levels higher than their current place in the organization: when warranted, they will happily sacrifice their team’s goals and targets in favor of the greater good for the company.
+
+26/ Good PMs are keen students of the company’s PM career ladder. Good PMs regularly evaluate their ladder progression with their manager and identify the near-term efforts that will get them to the next level. Great PMs know that career ladders are imperfect proxies: they are more fixated on tangible competence and impact than on checking off boxes on the ladder. Great PMs play the long game.⁷
+
+27/ Good PMs can find a way to motivate themselves to deliver results despite being at odds with the company’s values. Even within a rapidly deteriorating company culture, they might pledge to “go down with the ship”. Great PMs know when it is time to amicably disembark from the ship due to values-conflict or culture-conflict, and they muster up the courage to follow through with it.
+
+28/ Good PMs seek _PM-driven_ _companies_ as a way to make an impact in their role as PMs. Great PMs know that PM-driven companies are rarely able to create superb products. Great PMs seek _product-obsessed companies_, where Eng-Design-PM-DataScience operate as equals.⁸
+
+29/ Good PMs are constantly learning about the craft of product management through the projects that they take on at work. Great PMs also do learn through their work projects, but they learn a lot more about their craft in their personal time because of their curiosity and passion for self-improvement.⁹
+
+30/ Good PMs attain conventional career success at pretty high rates. Great PMs also attain conventional career success. In addition, Great PMs attain a higher form of success; which is to have helped others around them find flow and fulfillment.
+
+Naturally, very few PMs are Great. And I don’t know any Great PM who does all of the above, all of the time. That’s because Great PMs know that these ideas should be viewed as signposts, not as commandments.
+
+If you are a Good PM, you already have the intellectual capacity to become a Great PM. You don’t have to do everything that Great PMs do at once — start with what resonates above, see how that feels, see how that makes others feel, and iterate.
+
+If you put in the hard work necessary to become a Great PM, you will create tremendous career optionality and time optionality for yourself. And you will leave a lasting imprint on the companies and industries you work in. All on your own terms.
+
+And for that I wish you all the best!
+
+### Footnotes:
+
+⁰ Related material: [Suggested books on honing one’s thinking abilities as a PM](https://twitter.com/shreyas/status/1223849973327912961), balancing the logical and the psycho-logical
+
+¹ Related material: Confidence is good, but it needs to be adequately balanced with genuine competence. [A set of tweets](https://twitter.com/shreyas/status/1223858900937478144) that explore this topic and provide a couple of book recommendations
+
+² How might such iterative PRD development work? This deserves an article of its own, but the gist is that you need to create a collaborative discovery process between PM-Design-Engineering to provide “just enough” requirements so Design can begin exploration and Engineering can begin mulling over architecture. For modern consumer and enterprise products, such an approach works much better than the traditional waterfall approach in which the PM, after 2 months, emerges with a “perfect, highly detailed spec” for Design and Engineering to “implement”. Further reading: [Product Discovery](https://svpg.com/product-discovery/) by [Marty Cagan](https://www.linkedin.com/in/cagan/).
+
+³ “Being too busy” is a common challenge for early- and mid-career PMs. I’ve found the [LNO Framework](https://twitter.com/shreyas/status/1223816209159712769) to be the single-most powerful antidote to this.
+
+⁴ Related material: [Why Smart Companies Become Stupid: the Preventable Problem Paradox](https://www.linkedin.com/pulse/why-smart-companies-become-stupid-preventable-problem-shreyas-doshi/). Also [available as a Twitter thread](https://twitter.com/shreyas/status/1218724150312751104)
+
+⁵ Related material: [Good Product Strategy, Bad Product Strategy](https://twitter.com/shreyas/status/1244810075908128768) and [my stack rank of strategy books](https://twitter.com/shreyas/status/1247377548083748864)
+
+⁶ Related material: [How to Use Pre-mortems to Prevent Problems, Blunders, and Disasters](https://medium.com/@shreyashere/how-to-use-pre-mortems-to-prevent-problems-blunders-and-disasters-6ecc6df6e22a)
+
+⁷ Related material: A Twitter thread on [PM Career Management and PM Leadership](https://twitter.com/shreyas/status/1055718652102594560) (associated [video of my Products That Count talk](https://vimeo.com/297832206)) and advice on [being intentional about career priorities](https://twitter.com/shreyas/status/1223835229057503232), not just chasing the VP Product title
+
+⁸ Related material: [A set of tweets](https://twitter.com/shreyas/status/1223852735209996288) on choosing between PM-driven vs. product-obsessed companies, along with an unusual book recommendation for PMs
+
+⁹ Related material: As a PM, you not only need to focus on growing your strengths, but also address weaknesses (counter to traditional career growth advice). [A set of tweets](https://twitter.com/shreyas/status/1223811588320198656) that explore this topic in-depth, along with an introduction to [10-30-50 PMs](https://blog.tryexponent.com/10-30-50-product-management/)

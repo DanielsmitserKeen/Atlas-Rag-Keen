@@ -1,0 +1,719 @@
+# Product People | Transcript: EP68: Brian Casel on productized services
+
+Speaker 1: [00:36](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=0m36s "Jump to 00:36 in this episode")
+
+Alright. Welcome to the Product People Show. This is Justin Jackson here. You can follow me on Twitter at the letter m, the letter I, and Justin, m I Justin. So it's been a while since I released the show.
+
+Speaker 1: [00:52](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=0m52s "Jump to 00:52 in this episode")
+
+I'm so sorry about that. I got so busy with travel, went to Portland for a week and, to attend the Sprinkly Quick Left grand opening right in Downtown Portland in the historic Hawthorne Building. It was a great party, great time. Thanks for all the folks that hosted me in Portland. My buddy Chase Reeves took me up for an amazing meal over at POC POC.
+
+Speaker 1: [01:20](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=1m20s "Jump to 01:20 in this episode")
+
+And, yeah, just got to hang out with some good folks. Hung out with Colin from customer.io. Met Tom Dale from ember.js and just had a good time. But this week, we're back with a really great show. Brian Castle from casjam.com.
+
+Speaker 1: [01:38](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=1m38s "Jump to 01:38 in this episode")
+
+He's involved in all sorts of things, but recently he's been on productized services. Don't know what a productized service is? Well, listen in because you're about to find out. But first, Stryker medal. Hey everybody, it is Justin Jackson here and I am with Brian Castle.
+
+Speaker 1: [02:07](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=2m7s "Jump to 02:07 in this episode")
+
+How's it going Brian?
+
+Speaker 2: [02:09](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=2m9s "Jump to 02:09 in this episode")
+
+Going good, thanks Justin.
+
+Speaker 1: [02:11](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=2m11s "Jump to 02:11 in this episode")
+
+Now Brian is into so many things. Going be hard to mention them all. He blogs at casjam.com. Is that how you pronounce it?
+
+Speaker 2: [02:23](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=2m23s "Jump to 02:23 in this episode")
+
+Yeah, casjam. Casjam. Casjam.com. My nickname growing up was Cast for castle and Jam. This goes back to my AOL screen name when I was like 13 years old.
+
+Speaker 2: [02:41](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=2m41s "Jump to 02:41 in this episode")
+
+You know, it was castjam. Stuck with it. I got the domain name when I was, you know, what, like 17, 18 years old or something and then stuck with it. I don't know what it means.
+
+Speaker 1: [02:52](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=2m52s "Jump to 02:52 in this episode")
+
+Were you always into technology? Were you always interested in business?
+
+Speaker 2: [02:57](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=2m57s "Jump to 02:57 in this episode")
+
+That's yeah, that's a good question. You know, I I was always into technology. I was, you know yeah, I'm I'm a web designer by trade and I started out as a teenager, you know, tinkering around with HTML in the, in in the GeoCities days, you know. But I was also very much What
+
+Speaker 1: [03:16](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=3m16s "Jump to 03:16 in this episode")
+
+community were you in? I was Yosemite.
+
+Speaker 2: [03:19](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=3m19s "Jump to 03:19 in this episode")
+
+Oh, I I don't I don't know it that well. My memory is just not good enough. Think my first memory of creating websites was creating one for my band. I was playing music in high school bands and then in bands in college and as like an amateur web designer, put together a website for my band. I was kind of always into technology and also design and design for the web and I've always been into that kind of merger of creative design.
+
+Speaker 1: [03:56](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=3m56s "Jump to 03:56 in this episode")
+
+Yeah. And how do you describe yourself? Are you a designer? Are you a developer? Are you When you're at a cocktail party, how do you introduce yourself?
+
+Speaker 2: [04:06](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=4m6s "Jump to 04:06 in this episode")
+
+Yeah. For years, when someone says, What do you do? I say Web Designer. It's harder to say that these days because I don't exactly do Web Design consulting work anymore. Anytime you say web design at a cocktail party or a meet anywhere, it's like, you do websites?
+
+Speaker 2: [04:26](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=4m26s "Jump to 04:26 in this episode")
+
+Can you make me a website? And it's like, no, not really. But yeah, so yeah, guess I'm a web designer by trade. The developer side of things, yeah, I can develop. Much more a front end guy.
+
+Speaker 2: [04:42](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=4m42s "Jump to 04:42 in this episode")
+
+So I know WordPress development pretty well and I know HTML CSS, that's been my thing for years. Back end development, database stuff, I better not touch it because I'll probably break something.
+
+Speaker 1: [04:53](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=4m53s "Jump to 04:53 in this episode")
+
+Not as much. Now how did you first get into products? If you've always been into computers and the web, when did you first get interested in products?
+
+Speaker 2: [05:04](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=5m4s "Jump to 05:04 in this episode")
+
+Yeah, so I was a freelance web designer. So I start after college, couldn't get a job in the music industry. So I I got a job at at a web design agency in New York and worked there full time for three years. And then I went out on my own as a freelance web designer and did freelance web work for years. So I became a freelancer about seven or eight years ago, and then about three years ago, I started really making the push to get out of the client work and into products.
+
+Speaker 2: [05:38](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=5m38s "Jump to 05:38 in this episode")
+
+And so the first digital product that I created was WordPress themes. I started a little business called Theme Jam. It's actually still better today, you know, still up and running today. It's very much a small side business that I rarely touch anymore. But you know, I designed a couple of premium WordPress themes, put those up for sale on my own site and that was my first taste of working on something and then getting paid for it and it's detached from my time.
+
+Speaker 2: [06:13](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=6m13s "Jump to 06:13 in this episode")
+
+And that was pretty exciting.
+
+Speaker 1: [06:14](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=6m14s "Jump to 06:14 in this episode")
+
+And what was your inspiration for that? How did you know that that was something that was even possible? Did you have some people you were looking up to at the time?
+
+Speaker 2: [06:23](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=6m23s "Jump to 06:23 in this episode")
+
+Yeah, yeah, definitely. I was I was heavily into following Adi Panar, founder of Blue Themes, co founder of Blue Themes, and Jason Schuller, Press seventy five, Brian Gardner, you know, StudioPress. So those guys are kind like the pioneers of that WordPress themes market. I mean when I started coming across those guys like on Twitter and their blogs and things, up until then I I honestly never really considered the idea of getting into products or even calling myself an entrepreneur. You hear a lot of these stories of business owners who are like, ever since I was a young kid, I wanted to own my own business.
+
+Speaker 2: [07:08](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=7m8s "Jump to 07:08 in this episode")
+
+I never thought of it that way. I kind of just like one year after the next, kind of just fall into doing this other thing. I became a freelancer for the first time, I was working at this agency and I saw that they were hiring freelancers. And I was like, oh, I guess you can be a freelancer at this. So I kinda got into that and then a few years after that I see, oh, these guys are selling WordPress themes.
+
+Speaker 2: [07:32](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=7m32s "Jump to 07:32 in this episode")
+
+I I could do that, you know. Yeah. So I I kinda got into it that way.
+
+Speaker 1: [07:39](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=7m39s "Jump to 07:39 in this episode")
+
+Sometimes it's just knowing that something's even possible, you know. If you haven't thought about it before or you were never introduced to it, seeing someone else do it, it is, it's like, it's kind of just like a light bulb. This whole new world is available, and so you jumped in, you started creating themes, and how did that go? What was the launch of your custom themes like?
+
+Speaker 2: [08:07](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=8m7s "Jump to 08:07 in this episode")
+
+Yeah. You know, I at this point, I had not done I had no education when it came to launching products or bootstrapping or entrepreneurship or anything. So I spent months designing and building all these themes. I designed this fancy e commerce site to sell these themes. I spent way much more time and effort on this than I probably should have.
+
+Speaker 2: [08:33](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=8m33s "Jump to 08:33 in this episode")
+
+But then I finally, know, the launch day came and you know, at this point I'm spending like all nighters, you know, putting this stuff together and really kind of hustling. Doing client work during the day as well. It launched and I remember I was so so afraid that I would launch it and there would be no sales. And I didn't
+
+Speaker 1: [08:54](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=8m54s "Jump to 08:54 in this episode")
+
+Why was get a that a fear? Why do you think that? Because that comes up all the time.
+
+Speaker 2: [09:01](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=9m1s "Jump to 09:01 in this episode")
+
+Yeah.
+
+Speaker 1: [09:02](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=9m2s "Jump to 09:02 in this episode")
+
+What is it about launching to know sales that scares people so much?
+
+Speaker 2: [09:06](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=9m6s "Jump to 09:06 in this episode")
+
+I guess it's know, did I just waste all this time and energy and, but at the same time I did go into that first thing like this is an experiment, I try want my hand at this and see if I can do it. I knew I didn't expect it to be a huge success by any means, you know. But I was I just really didn't want it to be a total flop, like zero sales.
+
+Speaker 1: [09:32](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=9m32s "Jump to 09:32 in this episode")
+
+Yeah.
+
+Speaker 2: [09:32](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=9m32s "Jump to 09:32 in this episode")
+
+And I had a first sale in first day and I remember like, Oh my God, is that real? Is this the order really? That was a really great feeling. And then, you know, and that feeling of launching new things, it never goes away. Years later, I've launched a number of products business since then.
+
+Speaker 2: [09:54](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=9m54s "Jump to 09:54 in this episode")
+
+Next week, I'm launching a new course on my site and I still have that fear right now. You know. Yeah. It's totally possible that zero people will buy this thing and it freaks me out, you know.
+
+Speaker 1: [10:07](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=10m7s "Jump to 10:07 in this episode")
+
+Yeah, yeah. I think for me that fear is often more social than anything else. That idea of we're pretty transparent these days when we're working on things, we often, you know, start promoting something before it's even finished or launched, and this idea of releasing something that, you know, and having people socially know that it didn't work out, I think is a big pressure nowadays.
+
+Speaker 2: [10:37](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=10m37s "Jump to 10:37 in this episode")
+
+Totally. It is. It really is, especially you know, we web people, you know, we really put ourselves out there. We're blogging. We're on Twitter, you know.
+
+Speaker 2: [10:48](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=10m48s "Jump to 10:48 in this episode")
+
+Especially if you do what a lot of us do, myself included, is I blog about the things that I'm working on and how they're going and the lessons that I'm learning. And so I do try to be as open as I can. And if it is a total flop, I think I will talk about it. So I try to share these lessons and I also try to learn things the hard way. I think that's a really important, that's kind of guided me the whole way through.
+
+Speaker 2: [11:22](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=11m22s "Jump to 11:22 in this episode")
+
+It's like just get to that launch, see what goes right, see what goes wrong, and learn something and do it better than that time.
+
+Speaker 1: [11:29](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=11m29s "Jump to 11:29 in this episode")
+
+What do you mean learn things the hard way? What does that mean for you?
+
+Speaker 2: [11:33](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=11m33s "Jump to 11:33 in this episode")
+
+I'm all about learning by doing. You know, you can read business books and I read a couple of them here and there, but I never really that doesn't really help me in my career. That might give me some inspiration. And there are all sorts of really great bloggers and podcasts to tune into. But again, I kind of just tune into those just for inspiration.
+
+Speaker 2: [11:54](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=11m54s "Jump to 11:54 in this episode")
+
+The things that I've really learned that have helped me move forward and get from point A to point B, It's from trying it, it's from putting in the hours and getting my hands dirty and also putting myself out there and exposing myself and having that fear, know. It's going through all of that. That's what has really pushed me from one level to the next for sure.
+
+Speaker 1: [12:20](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=12m20s "Jump to 12:20 in this episode")
+
+Yeah. I've got a question from the chat room here. Helen wants to know if you Do you know where that first sale came from And how did you promote that theme business when you launched it? What were the things you did?
+
+Speaker 2: [12:36](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=12m36s "Jump to 12:36 in this episode")
+
+That's a great question. So this goes back to like 02/2009, I think, when I launched that. Or maybe early twenty ten or something. It's hard for me to really remember. I was blogging and I was on Twitter, but I didn't have much of a follow-up back then.
+
+Speaker 1: [12:57](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=12m57s "Jump to 12:57 in this episode")
+
+How did people hear about it then? How did people know that you even had something for sale that was worth buying?
+
+Speaker 2: [13:03](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=13m3s "Jump to 13:03 in this episode")
+
+I'm trying to remember actually. I think I was running some Google AdWords. I think I probably tried that.
+
+Speaker 1: [13:09](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=13m9s "Jump to 13:09 in this episode")
+
+Okay.
+
+Speaker 2: [13:10](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=13m10s "Jump to 13:10 in this episode")
+
+And I did I had something like maybe 500 or 600 Twitter followers. It was not that many, but I think maybe one or two of them helped share it. Eventually, I don't know if this happened from day one, but at some point, Theme Jam was accepted into the wordpress.org commercial theme vendors page.
+
+Speaker 1: [13:36](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=13m36s "Jump to 13:36 in this episode")
+
+Okay, yeah.
+
+Speaker 2: [13:37](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=13m37s "Jump to 13:37 in this episode")
+
+So that definitely helped and that still helps today. I mean, drives whatever sales we're getting today for sure. So we're on that page, of course that brings in a lot of traffic. I don't remember if that happened from day one or not but it was soon after the launch. That's yeah.
+
+Speaker 2: [13:56](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=13m56s "Jump to 13:56 in this episode")
+
+I don't know where the first customer came from but the first few in the first month probably came that way.
+
+Speaker 1: [14:02](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=14m2s "Jump to 14:02 in this episode")
+
+So you tried a few things, you had a sale, you're excited, you kind of caught the bug. What did you do after? What did you do after launching Theme Jam? What was the next thing?
+
+Speaker 2: [14:13](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=14m13s "Jump to 14:13 in this episode")
+
+Yeah. So I added a couple of themes to Theme Jam and I tried to grow it that way and that that helped a little bit. I probably ended up adding about four or five themes. I think today I've narrowed that down to only three or four and it turned out like only one or two of them were kind of like big sellers and they've sold over the years. And then I focused on building one very specialized theme called WP Bids.
+
+Speaker 1: [14:44](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=14m44s "Jump to 14:44 in this episode")
+
+Okay.
+
+Speaker 2: [14:45](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=14m45s "Jump to 14:45 in this episode")
+
+And I launched that and again that's still around today and what that was, so I was a freelancer, I wrote a lot of proposals for my web design work and I wanted a way to create those in WordPress with like a really nice looking way to present it like a web based proposal. And so I created a theme for creating proposals. And that was kind of like a specialized product from Theme Jam and then I even gave it like its own site at wpbids.com and that's continued to do pretty well as well. Since that was kind of like a unique product, like creating proposals using WordPress, a few people blogged about that and kind of spread it around and people kind of talked about it a little bit. That kind of drove some of those sales.
+
+Speaker 1: [15:35](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=15m35s "Jump to 15:35 in this episode")
+
+How did you know that was going to be a good product? How did you know that was something people needed or wanted?
+
+Speaker 2: [15:42](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=15m42s "Jump to 15:42 in this episode")
+
+Again, I didn't do any kind of customer validation or anything and that was totally scratching my own itch. I wanted to create proposals myself using WordPress and I also thought it would be a cool idea for a product so I just went ahead and built it. Interesting. And obviously that's probably not the smartest way to go about things and it didn't turn into a massive quit your day job type of business for me or anything but it sold and it continues to sell and it's, you know, I've been pretty happy with it.
+
+Speaker 1: [16:14](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=16m14s "Jump to 16:14 in this episode")
+
+Yeah. And what was your inspiration to build things on top of WordPress?
+
+Speaker 2: [16:19](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=16m19s "Jump to 16:19 in this episode")
+
+You know, for me, I was always using WordPress for my client work and so that's just the platform that I've come to know the most about and become comfortable with. And then I know all of the resources around WordPress like the plug ins and also develop relationships with other developers and contractors that I would bring in on client projects. That just made everything easier for me, And later on when it came time to build restaurant engine, I had all the pieces in place. I knew I was gonna use WordPress. I knew I was gonna use multi site.
+
+Speaker 2: [16:57](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=16m57s "Jump to 16:57 in this episode")
+
+I knew I was gonna work with this developer and we're gonna plan it out this way. Just, I knew the system inside and out. For me it made sense. Know that a lot of developers out there have their qualms with WordPress for various reasons. And I think there are a lot of merit to those.
+
+Speaker 2: [17:18](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=17m18s "Jump to 17:18 in this episode")
+
+And it's not the best fit for every type of business. And even for like, as like a CMS, there are other CMS out there that are, they do a perfectly fine job, sometimes a better job. But but for me, as a bootstrapper, it it allowed me to get all the resources together quickly and and and move forward.
+
+Speaker 1: [17:40](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=17m40s "Jump to 17:40 in this episode")
+
+Yeah. So what happened because eventually you launched Restaurant Engine, which is one of your main products now. Was there anything else in between Theme Jam and Restaurant Engine?
+
+Speaker 2: [17:54](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=17m54s "Jump to 17:54 in this episode")
+
+Yeah. There were quite a few. There there were some things that that never even got off the ground and and then there were some that did and that that I'm no longer in. So I can talk about a few of them. So like the things I never got off the ground, kind of partnered up with a couple of different people.
+
+Speaker 2: [18:17](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=18m17s "Jump to 18:17 in this episode")
+
+One was at one point I wanted to launch like some kind of app to be to help me manage my network of contractors that I was built. Like I was building a lot of these mini teams as I was doing the web work and started to build up like a web virtual agency. And I wanted like an app to help me manage the hiring process and managing my team. I started partnering with a developer on that and different commitment issues and everything and it just never even made it to launch. Another one I was working with my friend Brad, another WordPress developer.
+
+Speaker 2: [19:01](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=19m1s "Jump to 19:01 in this episode")
+
+We were we were going to launch something around sending referral business. Like freelancers get all this overflow work and you need to refer it out to another freelancer. We were going to set up some kind of like marketplace for that. Again, an idea we started doing mock ups and everything, but it just never really we I think we both got too busy doing other things and never never made it to launch. Then in 2013, this was actually Okay, so I launched Restaurant but then in 2013 I kind of took my eye off the ball with Restaurant Engine and I joined up with two other guys to start an app called Sweet Process.
+
+Speaker 2: [19:47](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=19m47s "Jump to 19:47 in this episode")
+
+And and
+
+Speaker 1: [19:50](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=19m50s "Jump to 19:50 in this episode")
+
+this
+
+Speaker 2: [19:50](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=19m50s "Jump to 19:50 in this episode")
+
+is an app that still exists today. I I was one of the three co founders and together we've we we built it. There was a developer, another guy kind of doing the business marketing stuff, and I was in charge of all the design for SuiteProcess. We launched that really quickly and we had some paying customers. And it actually did pretty well and it started to grow.
+
+Speaker 2: [20:13](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=20m13s "Jump to 20:13 in this episode")
+
+But it was through that year of 2013 that I was also very heavily involved in restaurant engineering and I was splitting my time between the two and writing a lot on cash gen and doing books and everything. So long story short, by the 2013, I was spread way too thin and I had to make a very difficult decision to step out of sweet process and focus solely on restaurant management. That's what happened.
+
+Speaker 1: [20:44](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=20m44s "Jump to 20:44 in this episode")
+
+So you were pretty driven. You were driven to keep doing new things, keep releasing new stuff. What was driving you all this time to do all this stuff?
+
+Speaker 2: [20:57](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=20m57s "Jump to 20:57 in this episode")
+
+I guess you can say driven. I don't know. I think part of it is, you know, the classic shiny object syndrome. You see an idea, you see an opportunity, you just stop everything and you go after And that's kind of that was the way I operated for a while there and that's what led me into all these different projects and businesses. You know, I think what I learned is really the power of focus and how much that truly helps when you're trying to grow something from one level to the next level.
+
+Speaker 2: [21:39](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=21m39s "Jump to 21:39 in this episode")
+
+Yeah. When you have your eye on an end goal for one thing, if you're working on two end goals in parallel, it's a very difficult thing to do. And that was kind of the big lesson that I learned. Yeah.
+
+Speaker 1: [21:52](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=21m52s "Jump to 21:52 in this episode")
+
+Yeah. So, and what was it about Restaurant Engine that you said, you know, I've got to focus on this. This is the one thing I'm going to, you know, this is the basket I'm going to put my eggs in.
+
+Speaker 2: [22:03](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=22m3s "Jump to 22:03 in this episode")
+
+Yeah. So I started I started that in I think I launched it in 2012, early twenty twelve. And and it it slowly grew in 2012 and then it it continued to grow in 2013. But again, in '13 I was starting to really lose that focus getting spread into all these other projects. Restaurant Engine was continuously growing until the end of twenty thirteen when it kind of plateaued.
+
+Speaker 2: [22:31](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=22m31s "Jump to 22:31 in this episode")
+
+And that was kind of a big wake up call for me when that's when I really learned that I'm not focused enough and if I continue to go down this path, that stagnation is going to turn into a dip. And then I regained that focus and went back up. I guess the reason why I chose that is because I started it earlier. I was really invested in that in terms of time, in terms of the money that I spent on it. And it just, you know, I grew it from the ground up and it was thriving, it was growing, I couldn't just let it like flounder, so I kind of stuck with that and that's kind of where I'm at today.
+
+Speaker 1: [23:16](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=23m16s "Jump to 23:16 in this episode")
+
+Yeah, and why restaurants? What why that sounds like a hard actually. Selling websites to restaurants, what was it about that market that made you choose it?
+
+Speaker 2: [23:29](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=23m29s "Jump to 23:29 in this episode")
+
+It's a good question. You know, I don't have any special connection to the restaurant industry other than waiting tables back in college. But the original idea was just that I wanted to do some kind of hosted web design service built on restaurant engine built on WordPress. And you know, again, knew WordPress really well. I knew WordPress multi site.
+
+Speaker 2: [23:56](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=23m56s "Jump to 23:56 in this episode")
+
+I knew all the ins and outs. Like the problem, the pain point that I saw was that a lot of these small business clients, they know how to put all the pieces together. As easy as it is for us web people to go out and get a web host and install WordPress and find a theme. Install the theme, configure the options, get all the plugins that you need, put in your content, customize it. There is a lot of know how there.
+
+Speaker 2: [24:26](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=24m26s "Jump to 24:26 in this episode")
+
+And most small business owners don't even know step one. They don't even know what a web host is. So I wanted to put together a totally streamlined solution for getting a high quality professionally built WordPress website. Like sign up, a few clicks and there it is. And I just kind of saw a big gap there.
+
+Speaker 2: [24:50](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=24m50s "Jump to 24:50 in this episode")
+
+So I wanted to put together like this hosted service. What I found was if we just served everyone, like all sorts of businesses, restaurants, portfolio sites, plumbers, anyone who wanted a website, there would be way too many variables. Different requirements. So I knew that I needed to niche down into some kind of vertical that had a similar set of requirements. And then I just started thinking of, okay, there's restaurants, there's lawyers, there's doctors, I think all of them are viable verticals, right?
+
+Speaker 2: [25:22](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=25m22s "Jump to 25:22 in this episode")
+
+So I kind of landed on restaurants because I saw that as something worldwide market and it's a very clear feature set. Like every restaurant needs a menu. Every restaurant needs to show their hours. They need location information. They need upcoming events.
+
+Speaker 2: [25:45](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=25m45s "Jump to 25:45 in this episode")
+
+So I saw a way to really standardize you know, setting up a website so that we only need to focus on building those standard features and those options.
+
+Speaker 1: [25:57](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=25m57s "Jump to 25:57 in this episode")
+
+Yeah. In the last part of this podcast, I wanna talk about a few things so we'll see if we can get through them all. The first is I want to talk about what has it been like serving that vertical because some, there's a different train of thought which is don't start with a vertical, especially a vertical that you don't know, start with an audience or a community that you're already a part of and so you've chosen industry basically that you're not a part of. It'd be interesting to see how's that worked out for you, what have been the challenges?
+
+Speaker 2: [26:35](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=26m35s "Jump to 26:35 in this episode")
+
+Yes.
+
+Speaker 1: [26:35](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=26m35s "Jump to 26:35 in this episode")
+
+Would you do that again? The second thing let's get to is just what's happening in in WordPress these days and is that still an ecosystem that it's worth launching products into? So let's start with the first one.
+
+Speaker 2: [26:54](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=26m54s "Jump to 26:54 in this episode")
+
+Okay.
+
+Speaker 1: [26:55](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=26m55s "Jump to 26:55 in this episode")
+
+How has that been serving restaurants? Would you do it again?
+
+Speaker 2: [27:01](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=27m1s "Jump to 27:01 in this episode")
+
+It has been difficult, I'll say that. I know that you write a lot about building audiences and starting with a community that you're already a part of. And I think that is very wise for sure. So with Restaurant Engine, I learned a lot of things the hard way, again. And, you know, I started by doing content marketing, and we still do heavily with content marketing.
+
+Speaker 2: [27:32](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=27m32s "Jump to 27:32 in this episode")
+
+We do a lot of blogging, and we have an email newsletter for that and we've done pretty well with the organic search engine rankings. And so that's been our main source of traffic. So that is how we actually reach that market. And now when it comes to content marketing, you know, conventional wisdom is like, you know, the founder, you do all of the blogging and the writing yourself. And if you're not part of that industry, you know, it is an uphill battle.
+
+Speaker 2: [28:04](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=28m4s "Jump to 28:04 in this episode")
+
+And yeah, for us it was. I mean in the beginning I did write a lot of those articles. But my whole my entire goal since day one with restaurant management was to build a business that runs without me. You know, build it into a it just run on autopilot, know. And one of the first things that I did to remove myself from the service was start to hire writers and kind of systemize and automate that whole process of writing blog articles, getting it out to the email newsletter.
+
+Speaker 2: [28:39](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=28m39s "Jump to 28:39 in this episode")
+
+So today that whole thing runs completely without me. We can just consistently put out content. My writers are awesome and they do a great job. And then I also removed myself from all of the other service. Well, guess let me step back.
+
+Speaker 2: [28:55](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=28m55s "Jump to 28:55 in this episode")
+
+The other big thing that I learned over the years of running Restaurant Engine is it went from being like a do it yourself SaaS type of service. You know, I wanted it to be any restaurant owner can come on and sign up and create their own site and and be done with it. It turned into much more a done for you service, like a productized service. So we still build like it's a SaaS software as a service. But we you know, today we have like a setup fee and they sign up and we we create their website for them.
+
+Speaker 2: [29:29](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=29m29s "Jump to 29:29 in this episode")
+
+We actually, before that, we even do, like, a phone consultation, sometimes several phone calls with with new leads as they come in. Then my team sets up their website, inputs their food menu for them, you know, makes customization tweaks, and then ongoing we make updates for it, like they need to change their menu or something. We do that for them. It's all done for you. And again, over the last year or two, I've removed myself completely from all of this, right?
+
+Speaker 2: [29:59](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=29m59s "Jump to 29:59 in this episode")
+
+So a new lead comes in, my team calls them up and does the consultation. We have a system and a procedure for that and a follow-up sequence. Then my support team sets up their website and inputs all their content. They do the back and forth. It all just gets handled without me.
+
+Speaker 2: [30:18](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=30m18s "Jump to 30:18 in this episode")
+
+Just kind of focus on marketing and the big picture. So it has been like an uphill battle, me not personally being in that audience. But at the same time, I've just been so focused on systemizing it and getting to that goal of building a business that runs and grows without me, that I can focus on other things. I think that's basically what I've done. And it's been an evolution.
+
+Speaker 2: [30:46](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=30m46s "Jump to 30:46 in this episode")
+
+I thought it would be totally like hands off, do it yourself. And it has turned into productized service and with building a team and processes and systems. You know, but getting to your question about serving your audience, someone like a community that you're a part of, Kind of in parallel, I've been doing that with castjam.com and my blogging and teaching. And that is where I am actively trying to serve the people, like my people. Fellow bootstrappers, freelancers getting into bootstrapping products.
+
+Speaker 2: [31:26](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=31m26s "Jump to 31:26 in this episode")
+
+That's who I'm writing for. That's who I teach courses for. So in that sense, on that side of what I do, I'm very much kind of following philosophy there of like serving that audience.
+
+Speaker 1: [31:40](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=31m40s "Jump to 31:40 in this episode")
+
+Yeah. And I think I'm always kind of revising what I think and you know, the nice thing about building something out of the community you're a part of, I mean the benefits are obvious. Know how to talk to those people, you know where they hang out, you already hopefully have some sort of network, you've got a built in advantage. Sometimes I think we don't cast a wide enough net when we're considering those things. For example, people often default to, I'm gonna serve DIYers, do it yourselfers, and so there's a lot of us that are kind of focused on that market, but you know, whatever you do for work professionally during the day could also be something.
+
+Speaker 1: [32:29](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=32m29s "Jump to 32:29 in this episode")
+
+You could also look at all the customers you've served in the past.
+
+Speaker 2: [32:32](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=32m32s "Jump to 32:32 in this episode")
+
+There there are are always problems and pain points and needs in in within our own community that we can look to. But I mean, was a professional web designer and I felt the restaurant world is a part of the web that desperately needs the help of professional web designers. Not that I'm by any means any better than any other web designer out there, but the sites that my team and I can build are far and away better than most restaurant websites, right?
+
+Speaker 1: [33:01](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=33m1s "Jump to 33:01 in this episode")
+
+Yeah.
+
+Speaker 2: [33:02](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=33m2s "Jump to 33:02 in this episode")
+
+So you know, I kind of looked at it like we can use our skills and apply it to a different industry.
+
+Speaker 1: [33:11](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=33m11s "Jump to 33:11 in this episode")
+
+Yeah, yeah. Yeah, I agree. I think there's, again, serving your own audience is still building an audience regardless, no matter what you're doing I think is still important. Serving a community you're already a part of, I think sometimes we're too narrow and sometimes we're still following just what other people have done before us, and you know, what I'm thinking about a lot lately is how what are other communities I'm a part of that aren't being served, and maybe they're not immediately obvious, you know? Like initially, I would say, you know, my audience is product people because I started this podcast and I also had an audience, but that was just because it was the first thing that came to mind, it's like, okay, well that's an audience I already have, it's a community I'm already part of, but if I keep thinking like wider and wider, it's like, Well, I'm also part of the software development community, like the bigger software development community, community of managers, you know, there's this big group of people that are managers for a living.
+
+Speaker 2: [34:24](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=34m24s "Jump to 34:24 in this episode")
+
+Yeah.
+
+Speaker 1: [34:25](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=34m25s "Jump to 34:25 in this episode")
+
+So I like that you're thinking about that too and this idea of kind of expanding what it means to be a part of a group and sometimes also just looking for opportunities. It's okay to break some rules too go after Yeah, the
+
+Speaker 2: [34:42](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=34m42s "Jump to 34:42 in this episode")
+
+and I think it's also about thinking about, and I did not think about this very much early on in the beginning of Restaurant Engine, but how will you reach the market that you're going after? I think today I would be a little bit I would take that much more into account than I did. Restaurant Engine, I never really even considered that we would have to rely so heavily on phone sales. We speak over the phone with every new customer. And I never considered myself a sales person, certainly not a telephone salesperson.
+
+Speaker 2: [35:22](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=35m22s "Jump to 35:22 in this episode")
+
+When I realized that's the only way to get customers to sign up, it's like, alright, well I guess I gotta figure out how to talk on the phone with these people. And then I had to figure out how to train someone else to do it so I didn't have to do it.
+
+Speaker 1: [35:35](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=35m35s "Jump to 35:35 in this episode")
+
+Yeah. So
+
+Speaker 2: [35:36](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=35m36s "Jump to 35:36 in this episode")
+
+like thinking about how you're going to market and how you're going to reach your audience. If it's not in your particular if you're not part of that community then there are certainly avenues that you can take, whether it's systemizing and delegating or even looking at other channels like paid acquisition and whatnot. But then looking at the blogging and teaching on Cast Jam and everything, that like I don't want to outsource any of it because I love writing for these people. They're my people and I don't ever want really outsource the content creation. I do it because that's what I enjoy doing the most.
+
+Speaker 2: [36:22](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=36m22s "Jump to 36:22 in this episode")
+
+So it's yeah, there's that kind of flip side to everything.
+
+Speaker 1: [36:27](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=36m27s "Jump to 36:27 in this episode")
+
+Yeah, exactly. Is it getting harder to be in your space now? I I'm thinking about especially about Squarespace, it's a it's a huge huge competitor and you know they've invested quite a bit in you know making something really low cost and easy to use. It becoming harder on the know the WordPress hosting businesses?
+
+Speaker 2: [36:55](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=36m55s "Jump to 36:55 in this episode")
+
+You know I think just being a web designer in general, I think all web designers are up against that. You know yeah, we see it for sure. Know Squared Space, know, GoDaddy site builder. I mean a lot of small business owners just go to whatever they see first, know.
+
+Speaker 1: [37:14](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=37m14s "Jump to 37:14 in this episode")
+
+And
+
+Speaker 2: [37:16](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=37m16s "Jump to 37:16 in this episode")
+
+I, you know, I do think that especially as bootstrapped business, there's more than enough room in the world to serve your niche market. We have a tiny, tiny drop of a sliver of the restaurant market. And it probably won't ever get much bigger than, you know, bigger than that. And so How
+
+Speaker 1: [37:41](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=37m41s "Jump to 37:41 in this episode")
+
+how do you compete with those folks? What are what are some things
+
+Speaker 2: [37:44](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=37m44s "Jump to 37:44 in this episode")
+
+Yeah, like
+
+Speaker 1: [37:45](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=37m45s "Jump to 37:45 in this episode")
+
+Are you actively trying to differentiate yourself or
+
+Speaker 2: [37:49](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=37m49s "Jump to 37:49 in this episode")
+
+Yeah, mean we do a few things to position ourselves, right? So in conversations when I'm talking to new customers about that, they bring up or they say like, you know, we're currently using GoDaddy or we're currently using Squarespace or something. The response that we have is, look, we are built for restaurants. And number one, we're designed specifically for restaurants and food trucks. We get a lot of them as well.
+
+Speaker 2: [38:16](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=38m16s "Jump to 38:16 in this episode")
+
+And so our feature set is perfectly designed to exactly what you need and then we talk about that. The other piece is that it's professionally designed website. We're giving you everything that hiring a web designer would give you literally at a fraction of the cost. I mean we So what we've been trying to do and I think successfully, I hope, is that we don't compete so much with the free versions and the do it yourself website builders. We're a productized service.
+
+Speaker 2: [38:51](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=38m51s "Jump to 38:51 in this episode")
+
+So we're competing with hiring a local web designer down the street. And we even have a graph like on our website like restaurant engine versus hiring a web designer. And you can pay a couple thousand dollars to hire a web designer but then you have to go find your own hosting and you need a mobile site. That usually costs a little bit extra and you need this and you need that and then you just line it all up. It's like, alright, well we have professionally designed templates.
+
+Speaker 2: [39:17](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=39m17s "Jump to 39:17 in this episode")
+
+They're all mobile optimized. The cost is a fraction of the average cost of hiring a freelancer. So becomes kind of a no brainer when you position it the right way.
+
+Speaker 1: [39:30](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=39m30s "Jump to 39:30 in this episode")
+
+Yeah. Now you've been talking a lot about productized service lately. What is a productized service?
+
+Speaker 2: [39:38](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=39m38s "Jump to 39:38 in this episode")
+
+Yeah. So, know, again with Restaurant Engine, we've kind of evolved into this. And so I've been writing and teaching a lot about this. My new course called Productize, of course, is all about this. Basically, the way that I define a Productize service is it's one specific service with one highly compelling value proposition packaged at a set price and a set scope.
+
+Speaker 2: [40:04](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=40m4s "Jump to 40:04 in this episode")
+
+So you compare that to the typical freelancer or consulting engagement where you have to do like these discovery meetings and needs analysis and you write up a long proposal and you have to give an estimate and you figure out all the different requirements and then you give them the price quote and then maybe or maybe not they take you up on it. This is much different. This is look, we do a, b, and c and it's designed for you, the ideal customer. Here's the price. Buy now.
+
+Speaker 2: [40:36](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=40m36s "Jump to 40:36 in this episode")
+
+You know, it's no negotiation, no discovery process. And then it's the other piece of this is that it is a done for you service. It's not a do it yourself. It's not necessarily software. You might use software to help streamline your process.
+
+Speaker 2: [40:51](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=40m51s "Jump to 40:51 in this episode")
+
+But it's a done for you service which can then be it can be designed to run with you, like staying small solo, like a productized consulting situation or it can be a productized service where it's designed to scale up processes, systems, building a team, delegating as the founder removing yourself. I've been talking to so many of these founders of Productive Services and all these case study interviews. Got someone like Dan Norris, WP Curve, right? They are growing like crazy. I think they're hiring like a new employee every single week.
+
+Speaker 2: [41:37](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=41m37s "Jump to 41:37 in this episode")
+
+When I spoke to them a couple of weeks ago, they had 20 employees. They're adding customers like crazy. They do manually they do live customer support for WordPress sites and this is all done manually. This is speaking to customers and they've been able to scale that up, systemize it and it just runs like a machine. And then on the other end, you have productized consultants, right?
+
+Speaker 2: [42:03](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=42m3s "Jump to 42:03 in this episode")
+
+Just before this call, was talking to Jarrod Drysdale who launched Landing Page in a Day. It does what it sounds it does. He'll design and write the copy for your landing page in one day and there's a set price on that and I think within the first week he actually booked seven of these landing page in a day projects. So you just see, this is kind of becoming a really exciting alternative to the model doing things. And it's also, if you're bootstrapping a product, you want to get into building a software product, or you want to transition from being a freelancer to being a product business.
+
+Speaker 2: [42:51](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=42m51s "Jump to 42:51 in this episode")
+
+The other thing I'm hearing in all these case studies is that a product has service helps you launch so much quicker. I mean, Jared literally launched his thing in one day and had a paying customer like by day two. Spoke to Adam Clark. He does WP theory. I mean, he launched the thing at a weekend.
+
+Speaker 2: [43:08](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=43m8s "Jump to 43:08 in this episode")
+
+And think like, you know, just launching to paying customers, just by packaging up one specific service, of course there's a lot more that goes into it. Know, you gotta develop a strong value proposition and know who your customer is, who your audience is and all that, but
+
+Speaker 1: [43:26](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=43m26s "Jump to 43:26 in this episode")
+
+yeah. And what's the process for doing this? So if you were a freelancer sitting at home listening to this right now, what kind of process would you do to discover that thing that you should offer and where would you go from there?
+
+Speaker 2: [43:41](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=43m41s "Jump to 43:41 in this episode")
+
+Yeah, that's a great question. So you know, it's all about finding your one thing and it's really about focus. Have to first you have to shift your mindset from as a freelancer, as a consultant, typically you'll do anything, right? Like somebody comes to you with a need for website or an application and okay, let's talk about it because I can build basically anything. This is, we don't do everything and anything, we do one thing.
+
+Speaker 2: [44:11](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=44m11s "Jump to 44:11 in this episode")
+
+So it's about figuring out what your one service is and who your one customer is. So you don't wanna serve everyone and everyone. It's just like, how can I make this the most ideal service for the ideal customer? In choosing your one thing, just look to what you're doing right now. Look at the things that have come up if you're doing these consulting projects.
+
+Speaker 2: [44:36](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=44m36s "Jump to 44:36 in this episode")
+
+Like what is the one thing that new clients always ask for? And especially what are those things that they're paying for? Or what are the things that they include in the scope that are kind of like they seal the deal? Like if it wasn't in there, probably wouldn't have gone with you. You want to look for those things that clients are willing to pay for and ideally have paid you for in the past.
+
+Speaker 2: [45:02](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=45m2s "Jump to 45:02 in this episode")
+
+You know, that shows that there's some real value there and that there's a real problem with the solution that's kind of worth exploring.
+
+Speaker 1: [45:10](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=45m10s "Jump to 45:10 in this episode")
+
+Mhmm. That's actually some advice that goes into all sorts of spheres including finding you know, what how do I figure out what marketing to do, how do I figure out what you know, thing to offer. This is something Heaton Shaw told me when I was in San Francisco, he said, whenever I asked him for his advice, like what's working for him, he said, no, no, no, don't ask me about me, What's working for you right now? So, you know, if you're thinking about a new product idea, what do people what kind of questions are people asking you right now? What are some things you've done for people that they go, man, that was so helpful.
+
+Speaker 1: [45:50](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=45m50s "Jump to 45:50 in this episode")
+
+I that would you know, what's the Excel spreadsheet that you made at work that everyone, you know, just went crazy over? And it works for marketing too, so if you see, you know, how do how am I getting even if you only have one customer or two or three, what did you do to get those customers, what's already working and doing more of that?
+
+Speaker 2: [46:09](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=46m9s "Jump to 46:09 in this episode")
+
+Totally. Couldn't agree more. I mean talking to customers, I should a better way of saying it is listening to customers, right? And putting yourself in a place where you can listen to customers. That means getting on calls.
+
+Speaker 2: [46:24](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=46m24s "Jump to 46:24 in this episode")
+
+That means manning the live chat on your site. That means doing the emails and just listening for those questions. And if you're a freelancer, you're in these meetings with new prospects talking about getting new consulting projects and what are the questions that come up again and again and again? They always pop up. There's always some kind of pattern there.
+
+Speaker 2: [46:49](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=46m49s "Jump to 46:49 in this episode")
+
+Then you start to dig into those. Say, well, does that matter so much? What is it about your business or your situation that what's driving that? Or can you give me an example of that? Just really get to know your customer.
+
+Speaker 2: [47:03](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=47m3s "Jump to 47:03 in this episode")
+
+And the more you focus in on that one customer and then the more you learn about them, the easier everything else gets. Right? We all struggle with writing a landing page. How do I write this headline? How is it going to resonate?
+
+Speaker 2: [47:17](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=47m17s "Jump to 47:17 in this episode")
+
+Or I'm writing a new blog post. How is this thing going to get shared a 100 times? How do I know that what I'm writing about is really going to matter to people if you know who it is on the other end and you've written about this, really like having empathy for that person.
+
+Speaker 1: [47:37](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=47m37s "Jump to 47:37 in this episode")
+
+Mhmm.
+
+Speaker 2: [47:39](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=47m39s "Jump to 47:39 in this episode")
+
+Putting yourself in their shoes and knowing which questions are in their minds and just writing the answer, you know. Like everything else just becomes so much easier when you know them.
+
+Speaker 1: [47:52](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=47m52s "Jump to 47:52 in this episode")
+
+Yeah. And so let's close with this. How would you What's the next step? How would you validate that you know, you have a good idea for a productized service? What's the next step people should take?
+
+Speaker 2: [48:07](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=48m7s "Jump to 48:07 in this episode")
+
+Yeah, so the process that I've been kind of laying out is start with what you're doing and throw up a landing page. These days it is so easy to literally launch something in a weekend. I mean by the way back to Dan Norris, I mean he literally launched a paying customers in less than a week I think.
+
+Speaker 1: [48:24](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=48m24s "Jump to 48:24 in this episode")
+
+Yeah.
+
+Speaker 2: [48:26](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=48m26s "Jump to 48:26 in this episode")
+
+Yeah, you know, launch some kind of landing page or even like write up an email and send it to your list or your networks or you know, clients that you've been speaking to. Get it in front of people as quickly as possible. Right?
+
+Speaker 1: [48:38](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=48m38s "Jump to 48:38 in this episode")
+
+And would you have like everything built by then or just like the idea on the landing page?
+
+Speaker 2: [48:43](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=48m43s "Jump to 48:43 in this episode")
+
+Idea on the landing page, nothing else. And you know, get it in front of people and then get on calls with them. I usually recommend trying to get on at least 10 calls and have a whole list of customer interview questions and again doing those like follow ups, really digging in. You'll learn a lot on those and you'll back to that landing page and rework it based on what you've learned.
+
+Speaker 1: [49:07](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=49m7s "Jump to 49:07 in this episode")
+
+What kind of questions are you asking in the phone call?
+
+Speaker 2: [49:10](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=49m10s "Jump to 49:10 in this episode")
+
+Yeah, so you know, you start off like building rapport. What are you working on? Tell me about your history. Like where are you coming from? What led you to where you're at today?
+
+Speaker 2: [49:23](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=49m23s "Jump to 49:23 in this episode")
+
+And then what really matters is where do you want to go tomorrow? And where do want to go in the next twelve months? What's kind of standing in your way? What is the biggest hurdle between today and a year from now? What do you need to learn that you're not really sure of yet?
+
+Speaker 2: [49:42](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=49m42s "Jump to 49:42 in this episode")
+
+And then listening to their answers and then coming up with 10 follow-up questions based on what they told you. Yeah, I mean, then once you really internalize all that customer feedback, you work it back into the landing page and get it out there and see people are willing to pay for it. Know, you can all sorts of ways you can kind of promote it from there. That's, again, with productized services, it's a manual process. You don't need to go out and build fancy software.
+
+Speaker 2: [50:13](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=50m13s "Jump to 50:13 in this episode")
+
+You can add that stuff later, streamline it later, but you can get a paying customer on day one just doing everything manually.
+
+Speaker 1: [50:20](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=50m20s "Jump to 50:20 in this episode")
+
+And do you think that's the best way to see if people will pay you money is to put out this landing page, put a price on it and do it so quickly and not even like, I guess you have to be willing and able to hustle and do the work if someone pays, but is that the idea? You just put it out and then, okay, if someone pays you know you've got some validation there?
+
+Speaker 2: [50:43](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=50m43s "Jump to 50:43 in this episode")
+
+Yeah, I mean definitely if people are paying for it that's a great form of validation, right? Validation is a tough word because when is it truly validated? Are two paying customers really a validated business? Like can it grow? But yeah, I mean, course you should keep going if people are paying you for it.
+
+Speaker 2: [51:07](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=51m7s "Jump to 51:07 in this episode")
+
+And you know, and if you don't have the response right away, still talk to your customers and follow-up with them like why is this not valuable? What is it about this that's not connecting? I just want to understand where you're coming from. What is it about your current situation that's not connecting? And then you learn from that.
+
+Speaker 2: [51:30](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=51m30s "Jump to 51:30 in this episode")
+
+It that you're not the ideal customer for this? Have I put the pitch or the scope? Is that not quite right? Just really figuring that out.
+
+Speaker 1: [51:42](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=51m42s "Jump to 51:42 in this episode")
+
+Yeah. Cool. Well this has been great, Brian. Tell us where we can find out more about this course you're offering.
+
+Speaker 2: [51:50](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=51m50s "Jump to 51:50 in this episode")
+
+Yeah, so you know my site is castjam.com. I do have a free version of the course, a crash course. That's right on the homepage of castjam dot com. And then the course is opening on October 21 and that's at castjam.com/productize. And you can always I'm on Twitter, castjam, and any questions or anything, feel free to email me briancastjam dot com.
+
+Speaker 1: [52:19](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=52m19s "Jump to 52:19 in this episode")
+
+Cool. Well, thanks so much for
+
+Speaker 2: [52:21](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=52m21s "Jump to 52:21 in this episode")
+
+I also co host the Bootstrap Web podcast with Jordan Gal, you were recently on there as well, so that was a lot of fun.
+
+Speaker 1: [52:28](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=52m28s "Jump to 52:28 in this episode")
+
+Yes, yes. Go and check out Brian's podcast for sure, bootstrappedweb.com. It's a great podcast, especially if you're interested in bootstrapping do you talk about productized services on there too?
+
+Speaker 2: [52:45](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=52m45s "Jump to 52:45 in this episode")
+
+Yeah, we do and you know we of we matter on a lot of different topics. We also talk about our personal updates and everything and I think probably next week's episode will be about product type services as well.
+
+Speaker 1: [52:57](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=52m57s "Jump to 52:57 in this episode")
+
+Yeah. I think for anyone that's listening right now that's been wanting to release something and it's been now months or years and you still haven't done anything, I'd really recommend you go check out Brian's course because I found for myself this is something that actually helped me get unstuck. So I offered, I guess, form of productized service which is a webinar. You take some information, you get people to pay a 100 or $200 for an hour or two and, you're giving them consulting, I guess, as a product. And it really helped me get unstuck.
+
+Speaker 1: [53:37](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=53m37s "Jump to 53:37 in this episode")
+
+So if you're someone that's sitting at home and you're thinking about, Man, I really want to release something and I'm tired of working forever on these things that never launch, go check out Brian's course and, see if you can maybe learn how to do product type services.
+
+Speaker 2: [53:55](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=53m55s "Jump to 53:55 in this episode")
+
+Yeah. Thanks Justin.
+
+Speaker 1: [53:57](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=53m57s "Jump to 53:57 in this episode")
+
+Cool. Well, we will see you all next week. Thanks for listening. There you go. Nice, big, long episode for you.
+
+Speaker 1: [54:15](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=54m15s "Jump to 54:15 in this episode")
+
+Like I said, go check out casjam.com. Brian's course is out right now and I highly recommend it. Also, if you're not on my email newsletter list, I send a new newsletter every weekend about all this stuff, building products, building an audience, marketing products. If that sounds like your jam, go to justinjackson.ca/newsletter. Alright.
+
+Speaker 1: [54:42](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=54m42s "Jump to 54:42 in this episode")
+
+I will see you next week. Beauty. Thanks Brian. Let me stop the broadcast here. Thanks everyone who is listening live.
+
+Speaker 2: [55:05](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=55m5s "Jump to 55:05 in this episode")
+
+Cue the heavy metal.
+
+Speaker 1: [55:07](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=55m7s "Jump to 55:07 in this episode")
+
+Yeah, we'll cue the heavy metal here. For all the people in Product People Club that might be watching this, this is the dungeon here. I'm in a vault, it's like a bank vault but it's actually from a post office. This is our new co working facility and this is where I've been relegated to recording. This is
+
+Speaker 2: [55:30](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=55m30s "Jump to 55:30 in this episode")
+
+The basement of an old post office.
+
+Speaker 1: [55:32](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=55m32s "Jump to 55:32 in this episode")
+
+Yeah, it's like these are all I think it's concrete or something, but it's
+
+Speaker 2: [55:39](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=55m39s "Jump to 55:39 in this episode")
+
+Looks pretty solid?
+
+Speaker 1: [55:40](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=55m40s "Jump to 55:40 in this episode")
+
+It's pretty solid. I think the benefit is if I'm podcasting and there's a nuclear holocaust, I will survive in here.
+
+Speaker 2: [55:47](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=55m47s "Jump to 55:47 in this episode")
+
+You wouldn't even know it, you You won't miss an episode.
+
+Speaker 1: [55:52](https://productpeople.tv/episodes/ep68-brian-casel-on-productized-services/transcript#t=55m52s "Jump to 55:52 in this episode")
+
+That's right. There would be an episode even if there was a nuclear holocaust. Yep. Alright, so I'm gonna click stop. Thanks again everybody.
+
+Listen to **Product People** using one of many popular podcasting apps or directories.

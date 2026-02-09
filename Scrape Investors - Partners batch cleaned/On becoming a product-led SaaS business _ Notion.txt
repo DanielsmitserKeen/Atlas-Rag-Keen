@@ -1,0 +1,152 @@
+# On becoming a product-led SaaS business
+
+While operating as a SaaS-focused VC, we spend a lot of time focusing on the problems our companies are solving and the products they are building, and have spent time diving into this topic with product leaders both within and outside the portfolio. So I was intrigued when one of our founders asked, “How do I become a product-led business?” The first question that came to mind was, “How do you know you’re not?” In order to help this CEO, I felt I needed clarity on these questions:  
+
+1.  What is a product-led business? To be clear; we are not talking about ‘product-led growth’ (that’s an important, but entirely different topic).
+2.  How do I become a product led business?
+3.  How will I know if I am one?   
+
+  
+At Notion Capital we have invested in more than one hundred European SaaS companies over the last ten years and one obvious benefit of that is, between them, they have a huge amount of product expertise. So I reached out to our portfolio community and they came back with some great insights. I also looked at some additional helpful resources, in particular a fantastic guide from Pendo, “[Becoming product-led](https://www.pendo.io/resources/becoming-product-led/)”. It’s an excellent article on what it means to be a product led, yet customer-centric business. I’ve linked other great sources below.  
+
+I’ve also consulted the writing of two product gurus we have had the pleasure of working with; [Marty Cagan](https://www.linkedin.com/in/cagan/) and [Gib Biddle](https://www.linkedin.com/in/gibsonbiddle/).  
+
+**Setting the scene**‍
+
+So how and why does a company transition from being customer-led to product-led? After all, many large enterprises are proud to finally be becoming more customer-led. Isn’t that the holy grail?
+
+In fact, being product-led means anticipating customer needs, rather than being led by them. That identifies competitive advantage, and to capitalise on it, it means creating a business that puts the product, and the experience of that product, at the heart of everything you do.  [‍](https://www.gibsonbiddle.com/)
+
+[Gib Biddle](https://www.gibsonbiddle.com/) expresses this product focus [in an excellent series](https://gibsonbiddle.medium.com/intro-to-product-strategy-60bdf72b17e3) in which he describes Product Strategy as answering the question, “How will your product delight customers, in hard to copy, margin-enhancing ways?” 
+
+Gib’s got a track record in achieving exactly that: he ran product management at Netflix, who certainly created products that delighted and also surprised customers, by being one step ahead of their expectations.
+
+\---------------------------------------------------------------------------------------------------------------------
+
+Gib’s “DHM” model:
+
+1.  **Delight customers:** Think about how your product delights customers, both now and in the future. 
+2.  **Hard to copy:** how will you build product in a way that makes it hard to compete with?
+3.  **How will your product generate margin?** You’ll need profits to invest in innovation to build an even better product in the future.  
+    
+
+Think of your product strategies as hypotheses for how you hope to delight customers in hard to copy, margin-enhancing ways. As an example, Netflix personalization delights customers by making it easier to find movies they’ll love and the technology to predict the movie tastes of 220 million members is very hard to copy. Last, Netflix is able to predict how many members will watch a movie or TV show, enabling them to “right size” their investments. Knowing 100M members would watch “Stranger Things,” they invested $500M in the series.  Anticipating that 20M members would enjoy “Bojack Horseman” they invested $100M. 
+
+\---------------------------------------------------------------------------------------------------------------------  
+
+**Can product-led and customer-led approaches co-exist?**   
+
+[Stuart Bailey, CPO at Currencycloud](https://www.linkedin.com/in/%F0%9F%90%9D-stu-bailey-467703/) offers an interesting perspective: “In my opinion, being customer-led or product-led is a false opposition. The operational purpose of a business should be to delight customers, which you do by crafting products to achieve this.” Which ties neatly to Gib’s approach.
+
+Stuart frames his approach around Customer Development. He describes this as an art that involves:  
+
+1.  Discovering problems that current and prospective customers have; 
+2.  Discovering problems that current and prospective customers don't know they have; 
+3.  Discovering and anticipating problems that current and prospective customers may have in the future. 
+
+Every student of business knows about item 1 on that list. Product-led CEOs have an eye on items 2 and 3 too.
+
+Delivery is then a case of crafting solutions to these problems in a way that delights customers. To maintain that delight, product strategy means engaging in a constant and ongoing dialogue, simultaneously leading, and being led by, your customers. 
+
+Perhaps the best way to describe this approach is product-led, but customer-centric?**‍**
+
+**Remember why you exist**‍
+
+The above sounds like a world of constant change; and in the world of SaaS software, that couldn’t be more true. Most businesses have a “vision”; in high-growth SaaS the vision is an important anchor.  [Jirka Helmich, CPO of Mews](https://www.linkedin.com/in/jirihelmich/?originalSubdomain=cz), believes it’s crucial never to lose sight of why the company exists. “Being product-led means you have a strong vision that you’re tirelessly making a reality, and doing so step-by-step”, he says. “This means that you are building a product that has a broader ambition - almost an unreachable one - to change an industry, or the whole world. That inspiration does not come from your customers, it comes from within the business.
+
+Jirka challenges founders and leaders to answer a simple question: “Why did you start the company?” Suddenly, they remember that they had an idea that sparked a vision, so they built an initial product to solve a problem in an industry-changing way. Over time, your work on the product gets you closer to achieving that vision.   
+
+However, Jirka believes you do need to be customer-led at the outset: “Once you find a market to go after, with that initial product, and start scaling, you need to hustle to win the next deal. While you don’t want to be doing this for a long time, and every product book will discourage you from doing so, I think this is a very valid stage for every startup, to prove their product/market fit. However, it’s a stage that you need to watch closely and minimise. As soon as possible, you should get back to putting effort only into creating things that are aligned to your vision. At some point, you need to say ‘enough’ and manage your product in a way that leads the whole company towards the vision.”_‍_
+
+> "If you keep going to where your customers are asking you to go, you can win a lot of customers, that’s for sure. But your customers will often ask you to adjust your dream, based on where their previous solution was and what their immediate needs are. While still being aligned to your vision, these are small detours from it. And just like the expression “death by 1000 cuts”, before you know it, you are not delivering on your vision. Your promise to your customers is broken, they will be disappointed and they will churn, regardless of whether you’ve listened to them and built what they needed. In practice, your roadmap and strategy is being reverse engineered by the needs of the customers. And that’s not a good thing!" Jirka Helmich.
+
+Jirka makes a compelling point: what’s the chance that a random set of customers will create a roadmap that happens to lead to your vision? In reality, being customer-led beyond the early days means the promise of your vision soon becomes eroded. Being product-led simply means navigating towards your vision and making sure you don’t get lost along the way. Clearly stating the steps towards your vision will ensure that all stakeholders know where you are going, why, and how they can help you to get there.  
+
+**Forward thinking, working towards a vision, with empowered teams**‍
+
+“The hardest thing,” says [Finn Hegarty, CPO at Glofox](https://ie.linkedin.com/in/finn-hegarty-2871037), “is not reacting to what customers want now (and committing to that as a roadmap) and instead searching for opportunities to solve problems proactively that they don’t know they have, but really need.”
+
+Finn takes a leaf out of Marty Cagan’s book ‘Empowered’: “The answer for us is empowering teams to solve the most important problems related to our vision. What we don’t want is to hand our product teams a feature list generated by Enterprise clients. This is a big mindset shift, where we evolve towards business outcomes, not outputs.” 
+
+“This can be a big culture shift,” he explains, “creating a culture of empowerment and experimentation, while revisiting and iterating MVPs to make improvements to drive more value for our clients. Product analytics are invaluable in helping us make better product decisions.”
+
+Glofox now increasingly uses the product itself (rather than just sales presentations) to show the value they can deliver for prospects and customers.  “In parallel,” Finn continues, “we’re currently executing a product-led growth (PLG) go-to-market strategy, for which a product-led mindset is definitely a prerequisite. This also requires significant investment, buy-in from everyone in the business and a cultural shift for the majority of functions across the team. Not every company can rely on a PLG go-to-market, but every company can lead with a product-led mindset.”  
+**‍**
+
+**Defining the product-led business**‍
+
+Bringing together the themes we’ve examined and the experiences of our founders, a product-led business is one that:  
+
+1.  Anticipates customer needs;
+2.  With products that delight; while
+3.  Working towards a vision that will reinvent an entire industry or create an entirely new category.  
+    
+
+Again, Pendo’s ‘[Becoming Product-Led](https://www.pendo.io/resources/becoming-product-led/)’ describes it well: _‍_
+
+_For a product-led company, nothing matters more than delivering a product that anticipates and answers—in a simple, intuitive, and enjoyable way—the evolving needs of its users._   
+
+_Success requires focusing every part of an organization on the product so that it becomes a primary means of acquiring and retaining customers, driving growth, and influencing organizational priorities. The product is not just one part of the customer experience; it is the experience._
+
+_But the benefits of adopting a product-led strategy go beyond building products users love. Radically reorganizing your company around your product can help increase communication, bring you closer to your customers, and improve collaboration by providing product and go-to-market teams with a common view of success—and a common vehicle to get there._
+
+_Source:_ [_Becoming Product Led_](https://www.pendo.io/resources/becoming-product-led/)_, Pendo_‍
+
+We must re-emphasise, product focus is not to the detriment of the customer. “Customer delight” is a recurring theme, whether in Gib Biddle’s DHM framework: “delighting customers in hard to copy, margin enhancing ways”, or in Stuart Bailey’s approach: “The operational purpose of businesses should be customer delight. You do this by crafting products that delight the customer.” 
+
+And the engine of customer feedback informing product while product sets a new bar for customer expectations is fuelled by a vision. As Jirka Helmich explains: “Being product led simply means you’re navigating towards your vision and making sure you don’t get lost along the way.” **‍**
+
+**Becoming a product-led business**‍
+
+Becoming a product-led business is all about culture, says [Jon Moore, Partner, SVPG.](https://www.linkedin.com/in/jonathonmoore/?originalSubdomain=uk) “Product-led companies have a very strong discipline of product management and associated ways of working,” he explains. “They expect small teams of highly competent cross-functional individuals (mainly engineers, designers and product managers) to partner with the business to achieve strong and consistent value accretion. 
+
+He explains that product-led businesses are notable for pushing decision-making down through the organisation. “Product-led businesses do not focus on solutions, they focus on problems. They obsess over the competency of their teams and the individuals within those teams (because they give them maximum leeway to make hard calls).” Jon feels strongly that in these organisations there is a very strong expectation that the PMs are expert and capable of making very significant calls. “The teams carry real weight and the individuals within them are strong. They do not require consistent checkpoints/status meetings/oversight (though that’s not to underestimate the importance of good servant leadership and active management).”
+
+Jon thinks about the question of becoming a product-led business in these terms:   
+
+1.  Does the organisation have expert teams, able to truly own the outcomes of their decisions, and committed to solving the problems they have been assigned? 
+2.  Do these teams have cross-functional, expert staff who have a deep understanding of (and access to) customers, data, the business, trends and products? 
+3.  Are the teams fixated on validating as much as they can pre-delivery, to ensure maximum outcomes?  
+    
+
+In truly product-led organisations there is genuine trust between management and the teams who deliver; because those teams are necessarily staffed by very strong individuals capable of driving real, visible growth.**‍**
+
+**Are you a product-led business?**  
+[  
+Martin Buberl, CPTO at Avrios](https://www.linkedin.com/in/martinbuberl/) makes two important points about the characteristics of product-led businesses.
+
+Firstly, product-led businesses insist on showing their value through the product itself, allowing customers to experience it directly rather than telling them what the value might be. They “lead by showing, not telling.”
+
+By extension, in a product-led organisation, all departments must leverage the product to hit their goals. Marketing should ask themselves, “how can we use the product as a lead magnet?” Sales teams might ask themselves, “How can we use the product to qualify prospects?.” This creates a company culture that is centred around product and focused on providing value to customers.
+
+And secondly, the product department must take ownership and accountability for revenue goals; partnering with sales, marketing and success teams to drive growth.
+
+Transitioning Avrios to product-led, for Martin this has been the biggest change: product teams need to be aligned to driving growth, whether that is through customer acquisition, customer activation, product adoption, renewal or expansion.
+
+‍**Contrasting product-led and sales-led companies**‍
+
+When thinking about a customer-led organizations, it seems obvious to think that companies that have taken this approach may have contracted revenue even before they build the product. These companies build their products based on the problems that their users have; they listen to customers' needs and they build their products based on that feedback, says [Itxaso del Palacio](mailto:idelpalacio@notion.vc), Partner, Notion Capital.
+
+On the contrary, product-centric organisations build a product that anticipates needs and let their customers experience the value of that product, often before purchasing. The revenue comes only after the product is built and the customers have found, used and received value from the the product. The products in a product-centric organisation are not built based on customers’ specifications and nor under a contractually defined timeline. What we clearly see in the private and public markets is that product-led organisations can unlock exponential growth, often in the absence of a sales-led culture. This product led approach may not be for everyone, but it is certainly one that excites and interests me more and more every day.**‍**  
+
+**In conclusion…**‍
+
+Technology is evolving faster than ever. Once upon a time, consumers took what they were given. More recently, enterprise technology firms have battled to improve their products in order to meet customer expectations; based on the standard of digital experience those customers received from Apple, Facebook and Netflix. SaaS founders listened, and the era of the customer-led startup was born. 
+
+But in our interconnected world, smart SaaS CEOs know that they must anticipate what customers don’t yet even know they need. Waiting for the focus group just won’t cut it. And so comes the product-led business; creating an engine of growth in which product innovators and customers develop experiences that deliver competitive advantage at breakneck speed.
+
+So reverting to our starting point, these are my attempts to answer the questions we posed:
+
+The product-led business works single-mindedly towards a product vision, with capabilities that anticipate and delight customers’ expectations.
+
+This requires a strong vision for your market or industry, combined with a committed culture of customer discovery and empowered product teams.
+
+When an obsession with Product informs every aspect of the business, you’ll be on track.  
+
+**A few Notion Capital Product Resources:**
+
+1.  [What makes a good product company](https://notion.vc/resources/what-makes-a-good-product-company-with-marty-cagan/), Marty Cagan, Silicon Valley Product Group
+2.  [Talking product strategy, consumer science and culture](https://notion.vc/resources/talking-product-strategy-consumer-science-and-culture-with-gibson-biddle/), Gibson Biddle
+3.  [Building tech products loved by millions](https://notion.vc/resources/building-tech-products-loved-by-millions/), Lea Hickman, Silicon Valley Product Group
+4.  [Building the Product Machine](https://notion.vc/resources/building-the-product-machine-with-carlos-gonzalez-cadenas/), Carlos Gonzalez-Cadenas, GoCardless
+5.  [Building products your customers will buy](https://notion.vc/resources/lean-customer-development/), Cindy Alvarez, Github

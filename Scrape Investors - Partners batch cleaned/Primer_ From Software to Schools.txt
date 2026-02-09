@@ -1,0 +1,532 @@
+# Primer: From Software to Schools
+
+_Welcome to the **665 newly Not Boring people** who have joined us since last week! If you haven’t subscribed, join **241,032** smart, curious folks by subscribing here:_
+
+**Today’s Not Boring is brought to you by… [Ramp](https://ramp.com/business-cards?utm_source=substack&utm_medium=email&utm_campaign=not-boring-newsletter)**
+
+[
+
+![A Ramp Visa Signature Business card is placed on a white and brown surface](https://substackcdn.com/image/fetch/$s_!TJOK!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F54cf54b3-591e-4010-91ba-a3f270cc03a4_700x394.jpeg "A Ramp Visa Signature Business card is placed on a white and brown surface")
+
+](https://ramp.com/business-cards?utm_source=substack&utm_medium=email&utm_campaign=not-boring-newsletter)
+
+_[Ramp](https://ramp.com/business-cards?utm_source=substack&utm_medium=email&utm_campaign=not-boring-newsletter) reached a new valuation this week: $13 billion. The [Financial Times reported](https://www.ft.com/content/458a96ba-e022-4b06-b028-b4bc41a969b6) that [Ramp](https://ramp.com/business-cards?utm_source=substack&utm_medium=email&utm_campaign=not-boring-newsletter) is now processing $55 billion in payments on an annualized basis, up from $10 billion two years ago. It is a company that is here to stay._
+
+_Announcing the fundraise, Ramp CEO Eric Glyman wrote, “We’re not Steve Jobs or Wilbur Wright. We won’t invent the next iPhone or flying machine. Our job is more modest: save you time and money, so perhaps you can.”_
+
+_Whether you’re inventing the future, leading a Fortune 500, or running a small business like Not Boring, Ramp has the tools your business needs to grow intelligently. It streamlines approvals, automates expense management, delivers real-time insights, and seamlessly syncs with ERP systems. Your finance team gets the control and visibility they need, without the busywork._
+
+_That’s why [Ramp](https://ramp.com/business-cards?utm_source=substack&utm_medium=email&utm_campaign=not-boring-newsletter) is trusted by 30,000+ companies big and small, including Shopify, Anduril, Barry’s, Stripe, CBRE, Notion, Cursor, Kumon, and of course, Not Boring to achieve more with less. **Join us.**_
+
+_Time is money. It’s time your team upgraded to **[Ramp](https://ramp.com/business-cards?utm_source=substack&utm_medium=email&utm_campaign=not-boring-newsletter): The Official Business Card of Not Boring,** now and for a very long time to come._
+
+[Upgrade to Ramp](https://ramp.com/business-cards?utm_source=substack&utm_medium=email&utm_campaign=not-boring-newsletter)
+
+Hi friends 👋,
+
+Happy Wednesday!
+
+Over the past five years, I’ve written Deep Dives on 80 companies. I’ve only written about one company more than once: [Ramp](https://ramp.com/business-cards?utm_source=substack&utm_medium=email&utm_campaign=not-boring-newsletter). They just announced a new $13 billion valuation, up ~43x since the [first time I wrote about them in 2020](https://www.notboring.co/p/ramp-the-card-sized-finance-team).
+
+One of the things I’ve learned from the Ramp experience, and from five years of writing about and investing in startups, is that there really are a handful of companies that will end up mattering more than all of the others, and that it’s often clear who has a shot at mattering pretty early on. I was an idiot (even more of an idiot than I am now if you can believe it) in 2020, and even I could tell that Ramp was going to be special.
+
+Which would suggest that instead of simply writing about more and more companies, I should go back and revisit some of the best companies I’ve already written about. There’s as much, if not more, to learn from their evolution than from the shiny new thing. And it’s fun to keep myself honest - to see what I got right, what I got wrong, where I maybe took too many leaps, and why, despite that, the call ended up directionally correct anyway.
+
+Maybe, by studying some of the same companies over time, we can learn a little bit more about the up-and-down journey of the greats while they’re in the process of becoming the greats, before their stories have been injected with narrative collagen to smooth out the unsightly wrinkles (while keeping some charming ones, of course).
+
+I’m going to be playing around with different ways to follow-up. New Deep Dives on new angles. Profiles on founders. And a lot of conversations. Hopefully, these conversations will benefit from the history and depth of understanding.
+
+For the first one, there’s no better company to follow up with than **[Primer](https://primer.com/)**.
+
+When I first [wrote about Primer in April 2022](https://www.notboring.co/p/primer-the-ambitious-home-for-ambitious), they were a mostly online home for ambitious kids to learn in Clubs with other ambitious kids outside of school that was just getting ready to launch its first Microschools. They have since gone all-in on in-person Microschools based on the realization that if you want to actually fix K-12 education, you can’t nibble around the edges with software; you have to build a better version of the system and compete.
+
+Primer is running the [Vertical Integrator](https://www.notboring.co/p/vertical-integrators) strategy for education, where the sclerotic incumbent is the US public school system. It’s the kind of incumbent that you don’t even really realize you can compete with, until you realize that you can, and then once you do, realize that you must.
+
+Primer is the perfect company to come back to first, because its evolution mirrors the evolution of my thinking: the only way to fix a broken system is to compete with it and win. Some problems need more than software.
+
+So today, I’m sharing a short essay on my refreshed thesis, a Follow-Up Conversation with Primer founder and CEO Ryan Delk, and a transcript. You can also watch on [YouTube](https://youtu.be/jR3-MFVT0bY) or [listen on Spotify](https://open.spotify.com/episode/13PA3bKVPOSvTX0RlsxRPm?si=nNnoWr_VTBuGJFkDF2I3ng). Let me know what you think of this format.
+
+Let’s get to it.
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!Yy3_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8863f27d-99ee-4c5f-99f8-b58a1af1886a_1200x600.png)
+
+](https://substackcdn.com/image/fetch/$s_!Yy3_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8863f27d-99ee-4c5f-99f8-b58a1af1886a_1200x600.png)
+
+Ryan Delk used to begin [Primer’s](https://primer.com/) investor updates with a “Tweet-Length Summary”:
+
+“Closed x partnership. Shipped y product. Increased conversion z%.”
+
+That was how he was doing it when Not Boring Capital first invested in the company in late 2021, and when I wrote a Deep Dive on the company in April 2022:
+
+**[https://www.notboring.co/p/primer-the-ambitious-home-for-ambitious](https://www.notboring.co/p/primer-the-ambitious-home-for-ambitious)**
+
+The product was growing so the updates were good. They were good in the way a lot of startups’ updates are good. Build a thing, grow a thing, optimize a thing.
+
+The plan back then was to offer kids online Clubs where they could follow their interests and meet other curious, ambitious kids _outside of school_. Kids would go to whatever school they went to during the day – good, bad, mediocre – and then after school and on the weekends, they’d pull their curiosity out of the locker and log into Primer.
+
+Long-term, Primer always expected to build Microschools, like the one Ryan’s mom created for him and his siblings when he was growing up in Florida, but that was _eventually_, once Primer had used software to acquire customers who were potential students at zero customer acquisition cost (CAC). Then, maybe, you’d start to offer something in-person as an extension of the online community the kids had come to love. The sequencing made sense. It got me.
+
+The allure of Clubs was the allure of any social software product: tap into the internet’s scaled niches to build network effects at scale, then expand from there.
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!TCUq!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fac688462-c101-42e1-994e-203356a46ed7_910x507.png)
+
+](https://substackcdn.com/image/fetch/$s_!TCUq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fac688462-c101-42e1-994e-203356a46ed7_910x507.png)
+
+_Primer Deep Dive, April 2022_
+
+And it was going really well. It was growing. Kids _loved_ Primer’s Clubs.
+
+One time, Ryan got an email from a mom who said that her child “had not told her that she loved her in four years” until she found Primer, joined the Clubs, met other kids who shared her interests, and for the first time in four years told her mom that she loved her. The mom “literally recorded a video and sent it to me through tears explaining this,” Ryan told me.
+
+Another time, two other kids asked their parents if they could go to San Francisco for spring break so they could visit the Primer offices. Then they … did. They hung out at the Primer offices all week.
+
+That’s the kind of customer love most startups would kill for. And Primer had it.
+
+Then Primer killed Clubs.
+
+Not because they weren’t working; because no matter how well they worked, they weren’t going to solve the real problem.
+
+On a walk with a friend, Ryan told me, “\[The friend\] just looked at me and was like, ‘Why would you not just go after the absolute hardest version of this problem immediately?’”
+
+Good point. So he did. Primer started running actual schools, competing with a public school product that, while many parents were unhappy with it, was state-supported, Lindy, and free.
+
+Since then, Ryan has begun every [Primer](https://primer.com/) investor update with a reminder:
+
+**“This is a civilizationally-important problem and we are willing to go to war to solve it.”**
+
+That’s not what you write when you’re selling Club software. It’s what you write when you’re trying to rebuild a system that has no intention of being rebuilt.
+
+I was wrong about Primer in the way I was wrong about a lot of companies back in 2020-2022, and in the way I think a lot of investors are _still_ wrong: I thought that software (a clearly superior business model) was a better approach than rebuilding the entire product, atoms and all. That you might really be able to solve the problem with software.
+
+And I’m writing about it now because Primer’s evolution mirrors both the evolution of what startups think they’re capable of doing and how I think about companies, which goes something like this:
+
+**One vertically integrated startup willing to compete with incumbents to fix the actual problem is worth 1,000 startups writing software to improve this or that little problem on the margin.**
+
+If you want to fix energy, you need to build lots of nuclear reactors and install lots of batteries.
+
+If you want to fix space exploration, you need to build your own rockets.
+
+If you want to fix air travel, you need to build fast fucking planes.
+
+If you want to fix housing, you need to build more houses.
+
+**And if you want to fix K-12 education, you need to build schools.**
+
+For two school years, that’s what Primer has been doing.
+
+Primer partners with teachers in local communities and gives them the tools they need to start their own schools. They help them find a space – a church, a community center, any space that isn’t in use during the day (Primer recently pushed legislation through in Florida to dramatically expand the locations zoned for schools) – handle all of the paperwork to get them up and running, give them software to run the schools, and provide a core curriculum for students to follow.
+
+Whereas Primer’s software used to be student-facing, most of it is now teacher-facing. This is a big shift, and it meant making big changes on the team side. Now, the goal is to use software to enable teachers to provide the best possible education for the lowest possible cost.
+
+Cost is an important factor when you’re competing against free. In Florida and Arizona, where Primers exist today (Primer is announcing another state soon), parents can use their state’s school choice program to offset much of the cost of school. These programs are growing both in terms of the number of states offering them and the size of the programs, something I’ve seen first hand as an investor in [Odyssey](https://withodyssey.com/), which helps state governments administer their school choice programs. (For those getting mad just reading the words “school choice,” watch the video.)
+
+As school choice dollars grow and Primer’s costs shrink, something critically important happens.
+
+In our conversation, Ryan announced for the first time that, “**We will have 100% free Primers live in August of 2026. So zero tuition, no out-of-pocket tuition for parents, just use the state scholarship.”**
+
+At free, Primer is the same price as public school, and its goal is to offer a higher-quality education that continues to improve – top quartile today, top decile soon – and costs less and less to serve.
+
+This is the Vertical Integrator mantra: **better, faster, cheaper, at higher margins**. Primer is applying it to a $1.5 trillion US education market ($870 billion of which is [spent on public elementary and secondary schools](https://www.statista.com/statistics/184228/expenditures-for-public-and-private-elementary-and-secondary-schools/)) – a gargantuan market whose impact as a multiplier on all other markets is even larger.
+
+In its first deck, Anduril wrote “Anduril is a company that will save Western civilization by saving taxpayers hundreds of billions of dollars a year as we make tens of billions of dollars a year.”
+
+Primer is pursuing that same promise in education – if it can provide kids with a better education at scale for a third or less of the cost of the traditional public school system, it will save our youth by saving taxpayers hundreds of billions of dollars a year as they make tens of billions of dollars a year.
+
+That seems overly optimistic if you view Primer in the context of traditional EdTech companies, which despite their lofty missions have generally failed to produce generational companies. But if you think about Primer as a company whose top line approaches the budgets of US public school systems at high and growing margins, it tracks.
+
+Today, Primer owns a _minuscule_ percentage of the overall market. There is much work to be done – technological, operational, and pedagogical – to even scratch that opportunity. And given the turning tides for school choice in America, there will be plenty of legitimate competition (not to mention a flood of “competition” from standalone AI tutors, a seeming threat we discuss in the conversation). Education will not be a winner-take-all market, and it shouldn’t. But there will be a _biggest_ winner, and my bet is that Primer will be it.
+
+Ryan told me that Primer is making three bets:
+
+1.  **That there will be a Moore’s Law for Education**: that software will help deliver a better and better education for a lower and lower cost.
+    
+2.  **That teachers can be excellent entrepreneurs:** Primer is relying on teachers in local communities to attract students and provide them with a great education.
+    
+3.  **That it’s possible to scale physical schools quickly with asset-light real estate:** that by skipping the high CapEx and long timeline buildouts both public and private schools undertake, Primer can move faster and cheaper and focus on the thing parents actually care about: teaching their kids.
+    
+
+To me, this is one bet, and it’s the thesis against which I’ve invested in Primer two more times since that initial 2021 investment:
+
+**It is possible to build a better school system, one that gets better and costs less over time. To do that, you need to build something that** _**looks**_ **like the existing school system, but that has some of the scale and financial characteristics of a technology business.**
+
+That’s what Primer is building. It offers physical schools. Its teachers teach a core curriculum in the morning, and then give kids the freedom to pursue their curiosity in the afternoon. As states pay more in scholarships and Primer lowers costs, it can offer a product that is free to customers at growing margins. Using technology but not defined by it, Primer can offer students an education that gets better as Primer grows, until it can provide a better education for any family that wants one.
+
+Which sounds great on paper, but which is really, really hard in practice. Ryan and I discuss those challenges and the tremendous opportunity in our Follow-Up Conversation.
+
+You can watch the video up top, or watch/listen wherever you prefer:
+
+**YouTube**
+
+**Spotify**
+
+Listen and read along below:
+
+Audio playback is not supported on your browser. Please upgrade.
+
+**Packy (00:00)**
+
+Ryan, welcome to, this is an unnamed podcast, but what I wanna do here is three years ago, which feels like a crazy long time ago, I invested in Primer and wrote a deep dive on the company and rereading it, some of it's held up really well, some of it has completely evolved, and you've, kind of as my thesis has evolved into vertically integrated companies taking on these sclerotic incumbents, Primer's kind of like, moved into that position as well.
+
+In this case, it's a sclerotic incumbent that I didn't think was touchable, which is the United States public school system. And so I'm really excited to kind of talk to you just on what has changed and what all of that is and what all of that has looked like. So thank you for doing this little experiment with me.
+
+**Ryan Delk (00:48)**
+
+Yeah, always happy to hang.
+
+**Packy (00:50)**
+
+So I think, you there's a few investor updates that kind of like I look forward to every month and Primer is one of them and right up top, you say, and you have, think maybe every investor update since the beginning, this is a civilizationally important problem and we're willing to go to war to solve it. Why is fixing K through 12 education civilizationally important and how are you solving it? What does it mean to go to war?
+
+**Ryan Delk (01:12)**
+
+There’s couple ways I would answer. there's one, think K-12 education in the US is one of those like boiling the frog, it's kind like the national debt where it's like, you talk to anyone, the mainstream view is like, hey, this isn't working. This is probably totally unsustainable. But it's sort of like, it's not acute. It's never acute enough that it's like, have to solve this right now.
+
+I would argue that the compounding effects of an interest rate are very similar in the negative direction, are very similar to the compounding effects of an education system where, according to the NAEP scores that came out, 80 % of eighth graders are not on grade level on one of the core subjects, at some point that catches up with you and has really, really bad downstream effects for the rest of society, whether that's overall life happiness or career prospects or percentage of families that stay together and have kids and have lives or just overall human flourishing.
+
+And so it's this interesting problem where it's sort of like, it's like cool to like armchair quarterback this on Twitter and talk about how bad public schools are or whatever. But it's actually, it's been a very sort of intractable problem.
+
+And historically one where it's been almost impossible to solve the core problem and so everyone's just tried to solve these like small orthogonal problems, which in some ways actually like we, which we can talk about it if you want, we sort of spent a little bit too long solving one of those I think orthogonal problems instead of just going after the absolute hardest problem as fast as possible. And so you have like, know, software, people that sell software to public schools and different things that maybe make an impact on the margins but are certainly not solving the fundamental problem.
+
+And so I think that this is, for a variety of reasons which we can talk about, this is the moment where you can make a pretty big actual impact on the fundamental problem for K through 12, which is, know, a reductionist view would just be academic progress and getting kids back on grade level and accelerating academic progress back to, you know, at least the grade level standards we had 30 or 40 years ago. But in a more philosophical view, would be things like, you know, students having a better shot at reaching their potential or, you know, living a life where they truly flourish or being excited about coming to school every day or whatever, you know, sort of higher level metric you wanted to use. And then I think the go to war part is as much a reminder for our team as it is for everyone else, which is that this is really, really hard. And there's a reason why no one has succeeded at this. And the incumbent machine is very, very good at making sure that all other alternatives and other supplies is choked out of the market and making sure that the sort of current status quo stays the way that it is.
+
+And so I think that without the posture of this is going to be a fight and we've got to be ready to come to that fight, you end up, you know, you could end up with a demoralized team, you can end up not being aggressive enough, and we've sort of taken the posture from day one that this is going to be probably the hardest thing that any of us ever do, and we need to wake up every morning, you know, ready to take some punches. Otherwise, you have no chance of, you know, surviving long enough to actually make the impact that you want to make.
+
+**Packy (04:04)**
+
+You anticipated my next question. You mentioned kind of nibbling around the edges to start. So when I wrote the piece in twenty twenty two, really it seems like the core of Primer was software online, these clubs that either were posted by people who were like excellent at kind of educating kids at scale or even some of the kids were making their own clubs. It has all of these like Internet benefits where you can get the absolute best teacher in the world and then you get these network effects almost from more people join, you can find more people to be a part of your club, and all the things that historically you want in your business, those things felt like they were kind of nascently there for Primer. In the same piece, we mentioned that the next week or something, you're about to start launching Microschools, which is a physical product and does not have any of the characteristics that investors like or that you traditionally want to see in a startup.
+
+Since then, you've leaned pretty heavily into microschool. So what changed from being a software-first company with a little bit of a physical thing to a vertically integrated company with physical at its core and then software enhancing that?
+
+**Ryan Delk (05:07)**
+
+So I, I mean the original vision for Primer in our very first memo was always to eventually get to micro schools. It was to get to the education that I had growing up. And we had this, I think, too clever by half plan, which looked really good in an investor deck and had a lot of theoretical benefits, but in practice was very difficult to execute on, which was that we were going to build, and we did build, this online platform where ambitious kids, home school, private school, public school, could work on projects together. And they could be student driven or expert driven and We were going to get geographic density and key markets with that platform and Then we were going to launch micro schools in them the communities where we had the most geographic density and We were going to have this sort of zero cac or very very low CAC engine because you have this zero marginal cost software product that is ripping through all the most ambitious kid communities in the US and then you're just upselling them on, wouldn't it be great if your school operated just like this? And all the parents say, wow, that's amazing. So it sounds great in theory. Right.
+
+**Packy (06:12)**
+
+And I'm smiling because this is the bullshit that I absolutely loved and I think probably the biggest lessons that I've learned and luckily I fell for it here. The biggest lesson that I've probably learned over the past few years investing is I could ping pong that too well and be like, my God, it's the most brilliant plan in the world. Why was it not and what changed?
+
+**Ryan Delk (06:18)**
+
+Yeah. Yeah.
+
+And so what I realized was that, this was the fatal flaw, was that the company, the team that you architect to execute on the software platform for all the world's ambitious kids to come work on products together is very different than the team that you architect to build a software platform that's going to empower great teachers to launch micro schools, thousands and thousands of micro schools all across the US.
+
+Vinod Khosla, who's one of our investors, has a saying that the team you build is the company you build. And people often quote that in the context of, if you want to build sort a high performing company or you want to build a top 1 % company, you have to build a top 1 % team, which all those things are true. But actually, I think the more interesting part of it is, at least in our context, is that you have to purpose build the team for the precise product and outcome that you're building towards. just generically hiring great software engineers and great designers, unless you're just building sort of a vanilla SaaS product, is not enough. And so I had this realization as we were launching the first microschools and we were sort of trying to do both that I had basically two teams or two companies inside of one company. And I was very torn up inside over this because the software product was doing quite well by most metrics. And we were getting this incredible feedback from parents. I remember three weeks before we decided to go all in on microschools, which we can talk about, I got an email from a parent who told me that her student or her child had not told her that she loved her in four years and she found Primer and joined these clubs and met all these other kids that also shared her interests and for the first time in four years she just told her that she loved her and she literally recorded a video and sent it to me through tears explaining this. And so we getting this anecdotal feedback from parents which was clearly moving the needle for them for making this huge impact on their kids but we were not solving the fundamental problem. We were not fixing, we were not doing anything really to fix K through 12 education in the US.
+
+**Packy (08:09)**
+
+Whoa.
+
+**Ryan Delk (08:25)**
+
+Cool community for kids, on the margins, was helping them meet other kids that are ambitious and probably become more ambitious themselves. But they were still all stuck in these crappy schools where the really wealthy families sent their kids to great private schools. And so I had a conversation with one of our mutual friends that you know well, and he basically challenged me, and I was sort of talking about this debate with him, and the challenge that I was trying to think through, and he just looked at me and was like, why would you not just go after the absolute hardest version of this problem immediately? Like, you have the best investors in the world behind you, you have a great team, this is the ultimate vision, just accelerate everything to now and just go after the hardest version tomorrow.
+
+And I was sort of already leaning towards some version of that. But we had all these kids and users that were really excited about the product. And so we ended up doing that. And I was able to kind of build the conviction internally. And it was very difficult decision. I probably should have ended up way faster. But we took all the software that we built, we put it inside the microschools, and then we went all in on Primer microschools. And that is what we've been working on for the last two and a half, three years now.
+
+The fundamental problem is a one-for-one replacement for public schools, private schools, charter schools, teachers that love their community, that want to serve their community, can use our software to launch their own school and then give kids an alternative that is typically either free or very low cost and will outperform almost any school that they're in currently.
+
+**Packy (09:44)**
+
+Yeah, there's so much in there. want to before we get there, like just that pivot moment, you're kind of lucky, but also, mean, like the eventual plan, like you said, was micro schools, but you have founders fund and Khosla are kind of the biggest investors behind, behind Primer. And so they're used to things that are physical, real world require a bunch of CapEx might be slower bill interact with the government, all of that. Still, it's like a different kind of thing than, than you'd been tracking towards, and like a kind of accelerated timeline. What were those conversations?
+
+Like I guess one with the investors but then two with the team because I know also that like even changing you know breather when we changed our sales model from like kind of short rentals to long rentals same team same everything it was a really hard pivot it's like what are those two sets of conversations like?
+
+**Ryan Delk (10:28)**
+
+The investor side was, I mean, I think for early stage companies, great investors are betting on the founder and to some extent the market, and that's it. So the investor side was very easy. It was sort of immediate, like, all right, if you've got a condition, sounds great, let's talk through the plan, how can we help? The team side was much harder because we had to make a hard, I knew that we had to make a full sort of, All in bet on building this platform to launch schools. And that meant shutting down or shifting a lot of the software that we had built to only live within schools. And there was a lot of, that was a very emotional experience for the team because we had all these kids across the US and the world. mean, literally they would send handwritten letters to our office. I remember two kids, they asked their parents for spring break, instead of taking a vacation, can we come to San Francisco and just visit the Primer office?
+
+They spent their spring break in San Francisco to come to the Primer office because they just wanted to meet the team. So this was like, you know, classic, like, cult, you know, kind of product. And that was very, very difficult for the team because there was a sense that we were abandoning, you know, these people that been, like, long time users and really benefited from the product. But I think it was obviously the right thing to do, but that didn't make it any less hard.
+
+**Packy (11:43)**
+
+And did people see that? There's also, I think people forget when you hear about companies that there's a mix of senior people who've thought about the strategy and junior people and people who work on certain products and others who kind of have the higher level view. I would imagine some people think that you're a complete idiot at this point and think that you're missing or are heartless or missing these people actually are really getting a lot out of the product. walk me through some of that.
+
+**Ryan Delk (11:59)**
+
+Yeah. Yeah, we had multiple team members that said all those things and many other colorful versions of that. And I don't actually, I mean, I think, I don't actually blame them. Like, I think that they're...
+
+I think that as a founder, you have to be honest about the different decision inputs and different decision framework that you're going to have than your team. And there's going to be times when those two things diverge and you can't expect every team member to make decisions in the same way or want you to make decisions in the same way that you're going to make as the founder. And so I knew that I was only doing this to try to build a true alternative to the current K through 12 system in the U.S. And it was only worth every marginal day of my time if I felt like we were doing
+
+the highest probability path to get there. And once it was clear that it was not the highest probability path to get there, I felt like I had a moral, ethical, fiduciary, opportunity cost, whatever framework you wanna use, obligation to get us to the, once I found this new path that I thought was more of a straight shot, I felt like I had to get us there as fast as possible.
+
+But I can't expect everyone on the team to also have that exact same framework. These are employees that, obviously they were very bought into the vision and the mission and they were wonderful, kind of all in team members. And some of them said, great, let's go, we're in. And others said, hey, this is not what I signed up for. I signed up to build this thing. And I think that it's easy to villainize them or to say, hey, you don't see the big picture. How can you not see this? But I think that there is just a very different framework that you have as a team member versus a founder, and I think that's fine.
+
+**Packy (13:32)**
+
+Yeah, think it's to be, you want them to be super passionate about the product that they're building and the impact that they're having. It's just hard. moving on from that hard part, what is, how is the micro school product evolved? What is the micro school product and why vertically integrate and then how far do you integrate? Are you building schools? Are you designing the curriculum? How do you choose where to integrate and what to build?
+
+**Ryan Delk (13:40)**
+
+Yeah. There's basically three bets that Primer is making. The first is that software is going to, that there's almost like a Moore's law in education, which is that you are going to be able to deliver higher and higher quality academic outcomes as measured by the NWA map or whatever sort of nationally normed test you wanna pick for a lower and lower cost. And that some of that will be AI tutors and these things that are coming down the pipe. But other of this is just pure operational efficiency that you can drive by software, like not having teachers fill out paperwork and automating attendance and things like that. So that's sort of one bet.
+
+The second bet is that teachers are actually phenomenal entrepreneurs - not necessarily in the venture backable sense, but in the kind of small business sense. And the idea of giving them a small organization to run, a small school to run, actually a much higher percentage of them than you think would thrive in that and a much higher percentage than you think would want that. And we've consistently seen, we have thousands of teachers that apply to launch Primers. And they actually really, really resonate with this idea of this thing that becomes their own that they can run and grow.
+
+And then the third bet is that it's possible to very quickly scale this software platform with real world schools through sort of an asset light real estate strategy. We don't ever build schools, we don't do a bunch of construction. The teachers find the campuses for their schools. We have a regulatory engine that helps them get that approved and that's part of it, so that will all be productized as part of the software. But they're responsible for finding students, finding the location, and that allows us to get to scale very quickly in new markets because our go-to-market motion doesn't look like a traditional school operator.
+
+Put those together, you have a platform that can deliver, hopefully, a top quartile or eventually top-design education at half or better of the cost to educate per student for the median cost in the states that we operate in. You have teachers that are kind of in the driver's seat running these schools. And then you can scale very, very quickly because you're not sort of encumbered by, our parents do not choose Primer because there are marble staircases and charcuterie boards and champagne galas. They choose Primer because we teach their kids math, how to read, and how to write really, really well.
+
+And they get time to start companies and work on things they're excited about every day. And so the physical facilities are not the defining characteristic. And so that allows us to open in a lot of places that maybe other people wouldn't want schools, like churches or community centers or libraries or any place that the community really likes and gravitates towards. And so we put all that together. In theory, you can grow really, really quickly and scale this high quality education option at a much lower cost. So that's sort of the bets that we're making.
+
+**Packy (16:28)**
+
+It makes sense. Again, I'm going to draw on the breather thing here. I think if anything, we made a mistake in not vertically integrating enough. The ideal world capital is not a constraint. You just own buildings and then you keep all the margin and all of that. Because the space was the product. For you, it's a very clear, you say asset light up front, it's a very clear decision to save all of that money, save all of that time and put it towards the education. I guess that's a really good heuristic actually is what do customers expect from you and be as good as you can possibly be on that.
+
+**Ryan Delk (16:48)**
+
+Yep.
+
+**Packy (16:56)**
+
+And kind of throw out the other stuff, do you see over time kind of either you deciding to integrate further into that stuff or giving teachers the ability to decide, you I want my school to be this high-end thing where we do have caviar toasts for our students. How do you think about what happens over time as you earn the right to integrate more?
+
+**Ryan Delk (17:15)**
+
+I could see us maybe going up market a little bit. I think the market for schools that are highly competent at teaching math, reading, writing, and science is so large, tens of millions of students a year, that it's hard for me to imagine tapping that out and feeling like we need to go further up market to the other things that parents care about on top of that. But in theory, the teachers are in the driver's seat, and so they could choose to push up market.
+
+But we are laser focused on that segment, sort of the 80 % of the population, where those are the core things they care about. And I think it will take us many years or decades to tap that out.
+
+**Packy (17:50)**
+
+Yeah, it makes a ton of sense, which brings to bet number two, which is how do you build a product that parents across the country can come to trust and give teachers control? What's the balance there of what they can control, what is standardized throughout the system?
+
+**Ryan Delk (18:05)**
+
+Yeah, we are always toying with this balance. It's basically a question of, we think of it in terms of legibility. do not want to take pedagogical or other types of risk, most parents, on their kids' education. And so there's lots of these schools that have tried these highly innovative, either structural innovations or pedagogical innovations. And I think that just creates a ceiling on the percentage of parents that are gonna be willing to take some bet on some new thing. And so you, think for the segment of the population that we're serving, is sort of like, know, middle class, upper middle class, some lower class families.
+
+They just want a really good school that's great at core academics and that's like that's that's what they that's what they are they are looking for. And so it has to be legible. The program the curriculum everything has to be legible enough to them that it feels like a one for one substitute for whatever their current school is. And so the way that we do that is we have a very very intense and rigorous core academics that happen in the morning and parents have total transparency into that they can see on their dash parent dashboard everything that's happening every day. We calculate learning velocity for every student.
+
+And so we can literally project like by the end of the year by the end of the month by the end of the week like where should the student be if something goes off we know why we try to diagnose that But then the afternoon's kids can do these pursuits which are like passion projects like starting companies a lot of the original club stuff They can start companies they can launch podcasts write books And and I think that that is sort of as far as we're gonna push the envelope on legibility where parents can go Okay, like I can sort of understand core academics in the morning these kind of like, you know a creative passion parks in the afternoon and and that is
+
+That is as far for now as we're going to go, and maybe in the future we'll go further. But that is sort of the mix that we chose right now.
+
+**Packy (19:42)**
+
+It might be early to know this, maybe not. How much does having the passion projects?
+
+Impact the kids desire to learn in the kind of morning core session I asked because my like son I mentioned this briefly in a newsletter But my son like wants to build worlds and now like I can teach him I can like tell him to do anything It's he's you know, years old I could be like well You obviously have to go to swim class because like you're want oceans on your world, right? Or like we better practice our math because like you need math to do physics and like it works all the time Like if you have that motivation of a thing that you want to get done this morning He was homesick and he was dreaming he like wanted to go back to sleep because he was in middle of a dream
+
+**Ryan Delk (20:08)**
+
+Yeah. Yep.
+
+**Packy (20:18)**
+
+…about building this world with his grandmother. He's just obsessed. And so you can jam so much down that. And so I would imagine the projects kind of serve that same function. Does it make kids want to learn more because they have something to apply it to?
+
+**Ryan Delk (20:22)**
+
+So awesome.
+
+That is the dream is that every student is experiencing some version of that. In practice, it's very difficult. So one of the things that we do academically is that every student has a personalized academic plan based on where they are. So it's hard to ensure that every student's project that they're working on directly ties in with where their academics are. But in theory, that is where the software we built will get to. That's the long-term goal. There's some.
+
+You have to be careful because you want there to be some intrinsic motivation. Like it's not just purely to unlock this other passion project later. But the version you're talking about is not as reductionist as just, hey, if you do this, then you get to do this fun thing. It's actually, hey, we need to learn math because it's going to help you build a more robust world or understand how this part of the world's going to work. And that, think, is the connection at its best. And so in theory, that is what we will get to. In practice, it's very hard to do that for thousands and thousands of kids that are all different academic levels, but that is eventually the goal.
+
+**Packy (21:31)**
+
+Totally. All right, which I mean, that perfectly leads us into bet number one, is the software. I love the idea of kind Moore's Law for delivering quality education. Like, what are the different dimensions? see the chips have gotten cheaper and they've also gotten better. are you kind of on this software trajectory or, you know, the slope where in two decades we wake up and Primer is just the cheapest, but also the best education that you can possibly get? Like, how does that play out over time?
+
+**Ryan Delk (21:57)**
+
+Yeah, I told the team the other day, it's like surreal that there is literally going to be trillions of dollars this decade spent on CapEx that will basically directly reduce our cogs and our cost to educate and improve our academic outcomes at a lower cost. so.
+
+The latest AI stuff, it's still not quite ready for primetime for AI tutors. still, still host, it's a little bit too high.
+
+The way we think about AI tutor is the value of an AI tutor is directly correlated by how independently a student can use it. But that often, that is also precisely correlated with the magnitude of the downside if or when it hallucinates or gets something wrong because if a fourth grader is using it independently and doesn't know that it's being taught to mean incorrectly, then you're lodging this thing in their brain that is not correct. But they're getting very close. so right now most of what we've done is on the administrative logistical kind of like, you know, deleting the bureaucracy from the system for educators. And so like, don't think any teacher at Primer has ever filled out a piece of paperwork, for example. Probably some, one of them will email me after this and tell me that they did. But it's not a part, normal part of the experience at all. Like all these things are either automated or taken care of for them, or it's, you know, a couple clicks in their dashboard.
+
+And so we're pretty relentless on that front. And I think we have a very, very,clean experience for the Primer leaders, which you'd be surprised how big of a difference that makes, just that difference when they come from their old school to Primer. And so now phase two is, how do you start to really improve the academic outcomes while also decreasing costs for students, and then specifically improve the personalization that you can offer? And so right now we use a combination of software tools and virtual tutors for students that need remedial support and live instruction from the primary leader. And in theory, more and more of that will get eaten by AI tutors as they get ready for prime time. And I think we're probably like six months away. If you're working on this, please email me. I want to meet you. Because I think all the technical building blocks are there. It's just going to take someone actually putting it all together.
+
+**Packy (23:54)**
+
+I mean, this is one of the things that I love about building a vertically integrated business is that you can be like, I hope that somebody solves AI tutor. Cause then I just plug that into my thing where I've done like all of this actually really hard stuff that nobody wants to do. And so like you want the world to come to you and it's not a competitive threat. I guess the flip side is there a world in which, you we wake up in five years and Apple figures out the vision pro and or meta does and it becomes cheap and then like there is a really good tutor in your classes and like it's just actually better to for kids to sit at home and in a VR with a perfect personalized tutor is like is there something that you think could could knock off Primer that you worry about in the future
+
+**Ryan Delk (24:31)**
+
+I have a very, very strong conviction that, so lots of people talk about this, AI vision for the future where every student's just sitting at home on a tablet, you know, learning from some AI tutor. That is such a like coastal elite like idea.
+
+97 % of American families need their kids to go to school because they go work during the day and they need a place for their kids to go. And another 35 % of American families rely on schools to provide some other services for them, whether that's aftercare or lunch or various other things that they literally can't provide for their kids. And so this idea that every kid in America is just going to be sitting at home I think is totally wrong. And so that's actually part of the reason why we specifically decided for Primer to, single Primer as a physical location and we do all that work to help these educators find those locations to get them approved for school use because that is the bet is that that is never going to go away and that is going to be part of the durable advantage is this network of thousands and thousands of physical locations and so even as you know cogs and go down and AI tutors you know get ready for prime time you know kids are still going to need a place to go while their parents are working and and that's that is a like very important part of the bet that we're making.
+
+**Packy (25:36)**
+
+Yeah, it's also, even saying it out loud, like asking the question, didn't mean to make it sound like a but even saying it out loud, you're like, that sounds like the worst possible version of the future that everybody's just sitting inside.
+
+**Ryan Delk (25:44)**
+
+You have socialization, have all sorts of reasons why that's not gonna happen. But I think the most important one is just structural. Parents just need a place for their kids to go from nine to three or nine to five every day.
+
+**Packy (25:54)**
+
+Yeah. Well, I mean, so obviously right now, wouldn't get into it right now. That role is often served by the public school system in the US. It feels like things are really moving Primers way on the government side, but I would just love to like kind of, could you give us a snapshot in time of why the opportunity right now to kind of rebuild the system that does so much for so many people right now, why that opportunity exists right now from a government perspective, and then we can deal with the antibodies and all sorts of stuff that comes with that.
+
+**Ryan Delk (26:26)**
+
+I think coming out of COVID, two important things happened during COVID. One, think parents got a different and higher fidelity view into aspects of their kids' think kids were at home, and so they saw more of what was happening from an academic perspective. And I think a lot of parents rethought education. And then on the teacher side, I think a lot of teachers got burned out and kind of like, hey, there's got to be something better.
+
+So that's one component of it. And then I think that cause or accelerated a lot of the regulatory bodies, sort of that state, local, federal, to think about alternative structures for K through 12 education. And so we had this pretty contrarian view when we started Primer, which is that eventually, micro schools and these kind of smaller, innovative schools would be a very significant portion of the U.S. K-12 education system.
+
+And basically everyone thought we were insane. And now maybe a lot of people still think we're insane, but fewer people think we're insane. And you can at least squint and see that this could happen. And so I think we've had the state level stuff is probably where the most drastic changes happened over the last four years, where you've had 17 or 18 states come out and say, hey, we're going to give, we're going to create state scholarships for families, basically a tax refund. If you're paying property taxes and state and local taxes that go to fund the public school system, if your kid does not use that public good, you can get a portion of that back and you can use that somewhere else since you're not consuming the good that you're paying for.
+
+I think it started as kind of a niche idea and then now it's just cascaded to, I think the majority of states will have those programs by the end of this year, which was sort of unthinkable five years ago. so parents are now, I think in the driver's seat, the meta here is that the parents are now more, have higher agency over their students' education and I think there's less of this just pure inertia towards the public school system. And part of that is psychological for parents coming out of part of that is regulatory from states kind of rethinking these programs. But that I think is sort of the meta thing that shifted over the last five years.
+
+**Packy (28:31)**
+
+It makes sense. I've seen this both with Primer and then with Odyssey and like really kind of supporting the ESA kind of payouts and making that easy for parents. Clearly there is a like red blue divide on which states have ESA programs and which don't. I'm hoping like, you know, I'm from Pennsylvania originally, someone like Josh Shapiro can purple it and bring ESAs to Pennsylvania. But, you know, even my sister, when I talk about this stuff positively, is like, what about the public schools? you know, are you just taking
+
+**Ryan Delk (28:52)**
+
+Yep.
+
+**Packy (28:59)**
+
+money and like giving you know giving better schools and better options to rich kids and you know leaving the public schools in a lurch like I guess one steel man the argument against kind of school choice or like why are blue states is there a good reason for them to be you know to be a little bit behind there and then two I guess you know address the address your own steel man and and like kind of explain why that might not actually be an issue and why what Primer is doing is not like this evil thing.
+
+**Ryan Delk (29:26)**
+
+The Steel Man is some version of historically non-public schools have done a poor job of serving students that either fall outside the middle 50 % of students on any dimension, whether that's income or academic ability or behavioral or whatever dimension you wanted to pick. And they have been extremely high cost, both in terms of actual tuition, also in terms of CapEx to get live.
+
+And so if something is a very high CapEx effort, meaning for folks from the term, meaning like the initial costs that are required, whether it's real estate or otherwise, to get the thing spun up. You have this issue where in like highly rural areas and lower income areas, no one's gonna go through all the trouble to launch a non-public school. And so in theory, if you give parents back this portion of their taxes that they pay for public schools, that money ends up just going to existing private schools.
+
+No new supply comes onto the market in rural areas or low-income areas because there's no incentive to do that and you end up just you know having $40,000 a year private school now cost 40 or $33,000 a year which doesn't make it any more affordable to a middle-class you know single mother who in theory these programs are supposed to hurt help and So so this is all just sort of one giant, you know handout or something
+
+And I think that is… That is sort of a very narrow, it is true in the most narrow sense if you assume that it is just a subsidy of demand and not, and it doesn't impact supply in any way. And I think that is part of why people are so excited about Primer is that we are able to, because of the Asset Light Real Estate Strategy, we are able to spin up these schools very cheaply and very quickly, but also in areas that historically would not, you would not be building or launching a new non-public or private school.
+
+And then you're able to offer that at a price point that even very very low-income families can afford and so we have schools With Primer we have them in you know the wealthiest neighborhoods of many cities But we also have schools where 96 or 97 percent of families are on food stamps And they are in the you the lowest income literally the lowest income neighborhoods of entire states Have Primers and they're thriving and they're self-sustaining and the the communities love it and the teachers love it and so we're sort of
+
+I think breaking that narrative. And I think that's part of what the excitement is, that historically a lot of the innovation that's happened in education, in full stack education, has either been one-off charter models, where you have one really great school or two really great schools, but it's very difficult to scale, or really high-end private schools, like I won’t name any names, but they've tried and they haven't succeeded, or they've succeeded in a very limited scope at the $50,000 a year price point, but it's never actually made an impact for the families that need it the most. And so I think that's sort of the argument that applies to maybe weight 1.0 of this world, but everything that's shifting now, I think sort of bucks that argument.
+
+**Packy (32:18)**
+
+Yeah, I it like the 2.0, like it is a very interesting and disruptive and I hate that word because it's overused, like, disruptive thing when you can actually bring the cost of the education down as you're getting these subsidies, like where at some point, you know, if you're on that Moore's law curve, at some point, the ESAs, which are, you know, some states, I'm sure like as low as, you know, a couple thousand dollars up to what max of eight to $10,000. At some point you should be like the all in costs should be below that. Like what is the Primer if you're, if you're willing to talk about it, Primer cost to serve now versus what it costs, you know, public school in a similar area to serve a student's education.
+
+**Ryan Delk (32:55)**
+
+We will have 100% free Primers live in August of 2026. So zero tuition, no out-of-pocket tuition for parents, just use the state scholarship.
+
+And we are very, very confident in that. That won't be every single Primer, but it will be a lot of them in several states. And we will probably have one or two of those piloting this year in August. So that's the future. And that's part of why I'm so excited about all the stuff that's happening on the software side, is you can deliver these incredible academic outcomes at a much lower price point than it was ever possible. And so when you pass those savings on to parents, you end up being able to, these programs end up being able to have the impact
+
+that they purport to have, which is for families that can't afford a better alternative, it's giving them access to something that they never would have been able to afford otherwise, and a much better education for their kids.
+
+**Packy (33:44)**
+
+That's amazing. So free for the families just like public school would be taxpayers save whatever the delta is between what it costs Primer to serve and what it costs state schools, what it costs the local public schools to serve. And you have this education that is improving and keeping up kind of over time.
+
+versus one that is just because it's part of a bigger kind of system, slower and harder to move. It's like a win-win-win. We were talking beforehand a little bit though that there are some people who are not as psyched about this. What's your experience been with the unions?
+
+**Ryan Delk (34:14)**
+
+Yeah. What to share here.
+
+The incumbents are very good at staying incumbents, is something you learn in this world. And I definitely did not fully appreciate that. I think I had some broad sense going into starting to build Primer that that was the case. But I did not appreciate the extent to which it was true. And I thought of it more in the sense of, sort of like acute attacks which have happened and we have crazy stories to that end. It's actually the harder thing to overcome is the structural extent to which the kind of incumbent education system has captured every type of regulatory body that acts as a gatekeeper to new supply coming onto the market. And so everything from land use and zoning, to other like regulatory state level or local level regulatory approval that you have to have. All of these things are, you end up in a situation where it is very, very difficult for a new supply to come onto the market. no one, there's not one individual that's sort of culpable for this. It's that the entire system is designed to ensure that you can't get new supply onto the market. And that's part of the structural stuff that we spend a lot of time fighting.
+
+**Packy (35:19)**
+
+You had a big win on that front in Florida. How do you win it? Is it just like waking people up and tapping them on their shoulder and being like, hey, while you weren't looking, it was illegal to launch a school in this open public space, or is it harder than that? Like, what does it look like to change all of that?
+
+**Ryan Delk (35:32)**
+
+Yeah.
+
+Part of it is like the you can just do things meme. We, I heard from so many, I talked to someone who was like, yeah, for the last 12 years, I've been trying to figure out how we can fix, you know, zoning for new schools. And we just wrote some legislation and found some legislators that were excited about it and we got a pass. And so we changed state law in Florida and opened up 50,000 new locations where you can open a private school.
+
+And everyone was like sort of, everyone in that space was like, wow, this is amazing. Never thought we would see the day. And I wasn't easy, but it wasn't that. It was not in the top 10 hardest things Primer has done and probably not in the top 100 that we will do. And so it wasn't objectively that difficult. It just was no one had actually gone and tried to actually do it. And so there's things like that that we try to tackle on Spearhead. But it's also, think, it's a...
+
+It's one of those things where until you are in it, it is very difficult to understand the specifics of what makes it so hard. And so you have many well-intentioned people in the legislature and different governing bodies who think that they've sort of solved these problems and it's not that hard. But when you're in it and you're actually trying to launch schools, you learn the actual mechanics and where the friction points are. And so in some ways, you kind of have to do it to figure out what's broken. And we were in a unique spot to be able to go fix it after that.
+
+**Packy (36:49)**
+
+The like, cynic view on this would be, like there's a lot of different types of cynic view. The business cynic view of this is like, damn, you're doing a lot of hard work to like, build an ed tech company and like, aren't these the worst businesses of all time? Like, what is the market opportunity? like, when you think about Primer as a business, like how do you think about that and what the kind of upside is there?
+
+**Ryan Delk (37:08)**
+
+For the last 50 years, the only thing you could do in the education world was this sort of thin slice of the market that we called EdTech, which was basically software that was either sold to public schools or to parents. And it was this very thin slice of, we spend $1.5 trillion a year on K through 12 education in the US. was this tiny little, low tens of billions of dollars spent, component of that. And that entire segment produced basically zero generational companies or organizations, very few amazing outcomes for the world or for investors or whoever.
+
+And so, and I think that was a structural, it was a structural limitation, which was that the majority of this $1.5 trillion a year was basically just totally locked down, kind of one shot to public or charter schools. And there was nothing that parents or anyone else, there was no discretion over any of that. was just sort of, it was just gonna keep happening. And so if you wanted to do anything and try to improve anything or build organizations in the space, you either had to do it sort of at very small subscale, very small scale, you know, build one charter school or something like that. Or you had to just play in this sort of software space with these two year long procurement cycles and terrible margins, all that. And now, because of all these structural shifts, is the first time where you can actually go innovate on the bulk, like the foundational problems, which is the actual schools themselves. And you can go build alternatives.
+
+And so I think… I think that it would be a mistake to conflate what's going to happen over the next 20 years of folks building things in education to what's happened for the last 20 years. I think that the opportunity now, think that we finally have a chance to try to improve and attack some of the hard foundational structural problems that have basically been off limits, not for lack of good intentions, but just because of the structure, that have basically been off limits for the last 30, 40, 50 years. And so obviously, there's a lot of execution risk and very hard problems to solve still, but the structural stuff has been unlocked. And so now it's up to us and hopefully many others to go improve the lives of families and kids and deliver great outcomes.
+
+**Packy (39:16)**
+
+When I hear like a $1.5 trillion, like there's very few markets that are the size of a defense, the defense budget is 900 million billion in the US. But if you include allies around the same size, like would it be easier for you to fundraise if you have like a physical school that you just like dropped in in different places and it like looked like you were doing this like hard tech thing or like it does feel to me like when you talk about it that way.
+
+And when you really think about the business, like one of those kind of knocking over the defense primes, size opportunities, is it easier if you have a shiny physical product or what's that like convincing new investors?
+
+**Ryan Delk (39:51)**
+
+We've been pretty lucky on that front. We have a great group of investors that are very long-term ideologically aligned. And so I think we are very lucky. And I think that part of that is that our team is this mix of people that have come from the traditional education world. So we have people that have built some of the most iconic schools in the US that have a lot of hard-won battle scars and have been doing it for decades. And then we have people from the tech
+
+and startup world that have built many iconic software companies and been early at places like Uber and Coinbase and other companies. And so I think that Nix has allowed us to attract a bunch of very high caliber capital. But I do think there's there, I do often think of that, if you were doing the more sexy version of this, then maybe it would be a little bit more hypey. But I actually think it's quite, I think staying under the radar
+
+little bit and kind of just sort of building the version of this that really works for like blue collar, know, everyday Americans actually is the right long term, long term bet. And I think that that we are that is now like increasingly obvious to the market.
+
+**Packy (40:59)**
+
+How do you see the market playing out? Is this winner take most? Is this, there's gonna be a million different players? When you are doing all that hard work in Florida to get all these spaces approved, can there now be 10 other companies that come in behind you and say, awesome, we're gonna use that to launch schools as well? Or does the software side make it, you think, take most at the end?
+
+**Ryan Delk (41:19)**
+
+I don't think it's winner take all. mean, there's 80 million-ish kids in the US and it's one and a half trillion dollars a year of total spend. part of the promise of what's happening is that you will have a much higher aperture or variance of types of options available for families and so I hope that Primer eventually can be the platform that you folks launch amazing you know farm schools or technical immersion schools or language immersion schools or Religious schools are all sorts of different things that that you could use the Primer platform to launch
+
+But I also think that we need a lot more types struck structural innovations people trying crazy crazy ideas and so I hope that part of what happens over the next 10 years is that you have much higher variance people trying You know things that have never been tried before to see if they work I think for for students with special needs there's a huge underserved market there that we have not You know really done a lot or explored but that's something that I feel I'm personally very interested in and invested in and And would like to to for primary part of the solution there, but that's something that's there's an amazing autism school in Phoenix, for example, has been able to grow tremendously because of lot of the legislative changes, but also deliver just incredible outcomes for these students that, as far as I'm aware, have literally never happened anywhere in the US, and now they're taking that same model and scaling it to a bunch of other states.
+
+And so I think that that, it is definitely not one or take all. It is an enormous market, and I hope that the end state is every family and every student being able to find something that is closer to the ideal school for them, rather than this sort of one size fits all sort of defaults that we've been operating with for the last 50 years.
+
+**Packy (42:57)**
+
+I guess kind of snapshot moment in time right now, so when we revisit this again in three years, what can you give me on revenue growth? Like where were we in 2022? Where are we now? Where do we expect to be in the next kind of two to three years?
+
+**Ryan Delk (43:10)**
+
+Yeah, we're we've grown about 5x… 4.7x year over year from last year to this year.We will be announcing expansion to a new state. I'm actually here right now in our office in said state and We'll be announcing that soon. We'll do another another with another new state expansion lineup for next year.
+
+So yeah, are, we are operationally, the constraint right now is operational capacity, not students or teachers, which I think is the problem you want to have, but is also the most frustrating problem because it is 100 % under your control and there's only one person to blame for not increasing capacity, which is yourself. And so that is what I'm spending all my time on right now. But I hope that three years from now we will have ubiquitous free Primers that are available to families across many states and that are delivering top quartile or hopefully maybe top decile academic outcomes at either free or very, very low cost for families. at that point, I will feel very confident in our ability to scale that to many hundreds of thousands and eventually millions of students.
+
+**Packy (44:18)**
+
+What are those big unlocks that kind of get you there? Are there like step changes where all of sudden, maybe in 10 years it looks like the federal government's like, great, we're dropping Primer and everywhere. That's obviously a ridiculous case, but are there big unlocks like this or is it just like we're grinding this thing, compounding for the next decade or two?
+
+**Ryan Delk (44:36)**
+
+We don't need any big structural unlocks. think there will be a lot of stuff that will happen on the software side that will keep pulling costs down and pulling academic outcomes up. But I suspect that will be, some of the AI stuff will probably feel like a step change when we're able to implement that. But a lot of it is just gonna be, we have better data, I think we have a better data set than any education provider on the planet because of the way that we've architected the operating system.
+
+We are able to predict which interventions are going to work, recognize when learning velocity dips below the projected amount for a student that intervene in a way that I think probably no school on the planet can. And so a lot of this will just be letting that compounding advantage continue to play out, improving the product, improving the program. And if we can continue that, I think that it won't require any big structural unlocks. It'll just keep getting better every year.
+
+**Packy (45:29)**
+
+All right, so kind of just two last questions.
+
+One, if you could go back and tell Ryan in April 2022 when I wrote the Deep Dive on Primer, if you could go back to the past and give him one piece of advice over the next three years, what would it be?
+
+**Ryan Delk (45:43)**
+
+It's gonna happen faster than you think, so be more aggressive.
+
+**Packy (45:47)**
+
+Be more aggressive is great. And then if there are people, and this is the last one, people who want to get involved, want to be more aggressive, want to help solve that operational constraint, what are you hiring for right now? What's the best way to kind of turn this into going to work at Primer?
+
+**Ryan Delk (46:01)**
+
+Hiring for almost every role across the company, marketing, growth, operations, admissions, engineering, design, product, education. email me r at Primer.com if you have a proclivity towards the types of problems that we've talked about and you're interested in working extremely hard on trying to solve it. It will be the hardest thing you've ever done, but it hopefully will be the most meaningful work of your life. And if you're a teacher that's interested in launching a school,
+
+Either in Florida or Arizona or other states, please email me because I'd to add you to the list and get you involved in that when we're there.
+
+**Packy (46:32)**
+
+Ryan, thank you for doing this. I definitely get excited when I write about companies and somehow as excited as I was when I wrote about Primer in the beginning, just kind of getting to know you and the company more over the past three years. This is just a massive opportunity that if it goes right, you can't think of a bigger lever on kind of everything downstream. So I can't wait to do this again and kind of follow the story over the next three years. But thank you for doing what you do.
+
+**Ryan Delk (46:55)**
+
+Thanks, Packy. Always fun to hang.
+
+_Thanks to Ryan for the great conversation!_
+
+That’s all for today. Please let me know what you think about this format, and if you want to stop reading and just get to work fixing education by working at Primer or launching a Microschool, check out **[Primer’s career page](https://primer.com/careers)**.
+
+We’ll be back in your inbox with a Weekly Dose on Friday, by which point I fully expect you to have your company set up on **[Ramp](https://ramp.com/business-cards?utm_source=substack&utm_medium=email&utm_campaign=not-boring-newsletter)**.
+
+Thanks for reading,
+
+Packy

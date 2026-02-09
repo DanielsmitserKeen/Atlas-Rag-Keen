@@ -1,0 +1,264 @@
+# What Does ACV SaaS Mean in Marketing?
+
+ACV (annual contract value) helps determine the health of your SaaS business.
+
+It enables you to identify low-tier clients so you can upsell them to generate more revenue. In fact, the majority of successful SaaS companies [generate 16% of ACV](https://bluetree.ai/saas-statistics/) by upselling to their customers.
+
+However, when it comes to understanding and calculating ACV, there’s a lot of confusion in the industry.
+
+In this article, I will explain ACV and discuss the difference between ACV and ARR. I will also describe ways to calculate and increase your SaaS ACV.
+
+Let’s begin!
+
+**Book My Free SaaS Marketing Consultation**
+
+### **TABLE OF CONTENTS:**
+
+*   **[ACV Definition](https://www.singlegrain.com/saas/acv-saas/#acv-definition)**
+    
+*   **[How to Calculate ACV](https://www.singlegrain.com/saas/acv-saas/#how-to-calculate-acv)**
+    
+*   **[ACV vs. ARR](https://www.singlegrain.com/saas/acv-saas/#acv-vs-arr)**
+    *   [Calculating ARR](https://www.singlegrain.com/saas/acv-saas/#calculating-arr)
+    *   [Calculating ACV](https://www.singlegrain.com/saas/acv-saas/#calculating-acv)
+    *   [When Should You Use Each Metric?](https://www.singlegrain.com/saas/acv-saas/#when-should-you-use-each-metric)
+*   **[What Is a Typical SaaS ACV?](https://www.singlegrain.com/saas/acv-saas/#what-is-a-typical-saas-acv)**
+    
+*   **[How to Increase Your ACV](https://www.singlegrain.com/saas/acv-saas/#how-to-increase-your-acv)**
+    *   [1) Upsell to Existing Customers](https://www.singlegrain.com/saas/acv-saas/#1-upsell-to-existing-customers)
+    *   [2) Filter and Focus on Highly Qualified Leads](https://www.singlegrain.com/saas/acv-saas/#2-filter-and-focus-on-highly-qualified-leads)
+    *   [3) Offer Exceptional Customer Service](https://www.singlegrain.com/saas/acv-saas/#3-offer-exceptional-customer-service)
+    *   [4) Minimize the Churn Rate](https://www.singlegrain.com/saas/acv-saas/#4-minimize-the-churn-rate)
+    *   [5) Get Your Pricing Right](https://www.singlegrain.com/saas/acv-saas/#5-get-your-pricing-right)
+    *   [6) Improve Your Marketing Targeting Process](https://www.singlegrain.com/saas/acv-saas/#6-improve-your-marketing-targeting-process)
+*   **[Last Word on SaaS ACV](https://www.singlegrain.com/saas/acv-saas/#last-word-on-saas-acv)**
+    *   [Hopefully you learned how to increase your ACV, but if you just want a SaaS agency to do all the work for you, click the orange button below!](https://www.singlegrain.com/saas/acv-saas/#hopefully-you-learned-how-to-increase-your-acv-but-if-you-just-want-a-saas-agency-to-do-all-the-work-for-you-click-the-orange-button-below)
+
+## **ACV Definition**
+
+**Annual contract value (ACV)** refers to the subscription revenue generated from each contracted customer in a year. So if a customer signs a three-year deal for $30,000, your ACV will be $10,000.
+
+However, if you charge one-time fees (for set-up, onboarding or training), your ACV for the first year will be higher than the later years’ ACV in a multi-year contract.
+
+Let’s suppose that you signed up two customers:
+
+*   Customer A chose a $299 per year plan for 2 years. One-time fees for this plan is $70.
+*   Customer B chose a $199 per year plan for 2 years. One-time fees for this plan is $45.
+
+Here’s what your ACV will be:
+
+*   ACV for the first year = ($299 + $70 + $199 + $45)/2 = $306.50
+*   ACV for the second year = ($299 + $199)/2 = $249
+
+As you can see, the ACV for the first year is higher than the second year because of the one-time charges.
+
+## **How to Calculate ACV**
+
+Calculating ACV is pretty simple. Here are two formulas to calculate ACV:
+
+**ACV = Total contract value/Number of customers under contract**
+
+Or…
+
+**ACV = (Monthly recurring revenue \* 12)/Number of customers under contract**
+
+Let’s say you signed up two customers:
+
+*   Customer A agrees to a $2,200 per year agreement for one year and pays yearly.
+*   Customer B agrees to a $6,000 agreement for 24 months. This brings us to an MRR (monthly recurring revenue) of $250. This will be valued at $3000 in terms of ACV.
+
+Hence:
+
+*   ACV for the first year = ($2,200 +$3,000)/2 = $2,600
+*   ACV for the second year = $3,000/1 = $3,000
+
+## **ACV vs. ARR**
+
+**ARR (annual recurring revenue)** reveals how much income you can expect based on yearly subscriptions, while **ACV** unveils the average revenue that you can generate from contracted customers.
+
+Let’s look at an example to better understand the difference between ACV and ARR.
+
+Suppose you have three customers:
+
+*   **Customer A:** Agrees to pay $1,600/year for 1 year
+*   **Customer B:** Agrees to pay $1,300/year for 2 years
+*   **Customer C:** Agrees to pay $1,800/year for 3 years
+
+### Calculating ARR
+
+ARR is the _sum_ of what each customer pays you in a year:
+
+*   **Year 1**: $1,600 + $1,300 + $1,800 = $4,700
+*   **Year 2**: $1,300 + $1,800 = $3,100
+*   **Year 3**: $1,800 = $1,800
+
+### Calculating ACV
+
+ACV is the _average_ of all subscription revenue:
+
+*   **Year 1**: ($1,600 + $1,300 + $1,800)/3 = $1,566.60
+*   **Year 2**: ($1,300 + $1,800)/2 = $1,550
+*   **Year 3**: $1,800/1 = $1,800
+
+### **When Should You Use Each Metric?**
+
+**You should use ARR** when you want to measure the overall or year-over-year growth of your SaaS company. ARR also includes the monthly recurring revenue (MRR). Tracking ARR helps you plan business expansion for both the short- and long-term.
+
+**You should use ACV** when you need to determine how your SaaS business is performing. ACV helps measure your sales and customer success teams’ performance over time. It also informs you how much you should be investing in marketing and sales efforts.
+
+**More SaaS Content**:  
+\* [SaaS Marketing Strategy: 12 Killer Ideas to Grow Your Company](https://www.singlegrain.com/saas/saas-marketing-strategies/)  
+\* [5 Reasons How SEO Benefits Your SaaS Business (+ SaaS SEO Strategy)](https://www.singlegrain.com/saas/5-reasons-how-seo-benefits-your-saas-business-saas-seo-strategy/)  
+\* [A 3-Step Strategy to Build Links and Drive Referral Traffic to Your SaaS Website](https://www.singlegrain.com/saas/a-3-step-strategy-to-build-links-and-drive-referral-traffic-to-your-saas-website/)  
+
+## **What Is a Typical SaaS ACV?**
+
+There isn’t enough data to set a typical SaaS ACV benchmark. Besides which, there are also a wide variety of subscription models, B2C vs. B2B sales, and company-specific calculations.
+
+KBCM Technology Group conducted a [survey](https://www.forentrepreneurs.com/2017-saas-survey-part-1/) that consisted of 400 private SaaS companies, which revealed that the average ACV is $21,000. In the survey, 26% of businesses had an ACV of less than $5,000, while 13% had more than $100,000.
+
+Keep in mind, however, that the survey was small and didn’t use a wide enough sample to represent the SaaS industry as a whole.
+
+Another [study](https://blog.rjmetrics.com/2015/08/05/whats-a-typical-saas-acv/), this one by RJMetrics, indicated that there’s a huge difference between B2B and B2C companies’ ACV. According to the study, B2C SaaS companies have an average ACV of $100, while for B2B, it is $1,079:
+
+![Average ACV by business model](https://www.singlegrain.com/wp-content/uploads/2020/09/Average-ACV-by-business-model.png)
+
+**Note:** ACV is directly proportional to [CAC](https://www.singlegrain.com/saas/saas-cac/). Even if your ACV seems low against your peers’, you might be generating as much profit if you’re not spending as much to acquire customers.
+
+**Dive Deeper:** [SaaS CAC: A Guide to Customer Acquisition Costs](https://www.singlegrain.com/saas/saas-cac/)
+
+## **How to Increase Your ACV**
+
+Your ACV depends largely on the type of target audience you have. For instance, [Netflix](https://www.singlegrain.com/saas/examples-of-saas-companies/) has a low ACV, but their CAC is also less. In contrast, Salesforce has a high ACV, but they spend more on securing contracts.
+
+Irrespective of your audience, there are some great ways that can help increase your ACV.
+
+### **1) Upsell to Existing Customers**
+
+Upselling is the most reliable way to increase the revenue you generate from each customer. Many of the [top SaaS companies](https://www.singlegrain.com/saas/examples-of-saas-companies/) are leveraging the upsell tactic to increase their ACV.
+
+[The best way to upsell is by adding value to your premium SaaS plans. As customers start getting the results they are looking for, they will naturally upgrade their plan.](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.singlegrain.com%2Fsaas%2Facv-saas%2F&text=The%20best%20way%20to%20upsell%20is%20by%20adding%20value%20to%20your%20premium%20SaaS%20plans.%20As%20customers%20start%20getting%20the%20results%20they%20are%20looking%20for%2C%20they%20will%20naturally%20upgrade%20their%20plan.&via=singlegrain&related=singlegrain) [Share on X](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.singlegrain.com%2Fsaas%2Facv-saas%2F&text=The%20best%20way%20to%20upsell%20is%20by%20adding%20value%20to%20your%20premium%20SaaS%20plans.%20As%20customers%20start%20getting%20the%20results%20they%20are%20looking%20for%2C%20they%20will%20naturally%20upgrade%20their%20plan.&via=singlegrain&related=singlegrain)
+
+Here are a couple more tactics to upsell to your existing SaaS customers:
+
+*   **Help customers understand the value** they are already getting. Then give them upsell suggestions based on their past behavior, product usage, and current needs.
+*   **Nurture customers** via emails and phone calls (if appropriate). Provide tips, how-to videos, hacks, and industry news to build trust with them.
+*   **Highlight the benefits** the customer gets by upgrading their plan. For example, Grammarly sends emails mentioning the key benefits of upgrading the plan in detail. Here is an email I received from them, which clearly communicates how the upgrade will help me:
+
+![josdks4](https://www.singlegrain.com/wp-content/uploads/2020/09/josdks4.png)
+
+*   **Offer a free trial** of a higher plan (for a limited time) to demonstrate what the customer can achieve by upgrading.
+*   **Share case studies**, testimonials, and reviews of customers who accomplished their goals by upgrading from a low-tier to a high-tier plan.
+*   **Offer a one-time discount** so they get the upgraded version at a price similar to what they are paying now. However, make sure to nurture and engage them so they renew their plan at a normal price.
+
+**Book My Free SaaS Marketing Consultation**
+
+### **2) Filter and Focus on Highly Qualified Leads**
+
+Not all leads are equal. For example, high-value customers are harder to sell to, but on the other hand, they often choose the highest-tier package and churn less frequently. By [segmenting your leads](https://www.singlegrain.com/digital-marketing/strategists-guide-marketing-segmentation/) based on their likelihood of selecting different plans, you can identify the most profitable (highly qualified) leads.
+
+Here are some ways to filter highly qualified leads:
+
+*   **Ask for all the details that you need to qualify a lead** on the sign-up page. For example, Single Grain asks for website URL, company role, and monthly marketing budget (on top of basic details like name and email):
+
+![SG free consult](https://www.singlegrain.com/wp-content/uploads/2020/09/SG-free-consult.png)
+
+*   **Check the features** your customers use the most with your free trial. How many reports are they generating each day? Are they using the features that are only available in the top package?
+*   **Use data enrichment tools** like [Clearbit](https://clearbit.com/) to identify your ideal customer profiles. It provides all the information you need to qualify a lead, such as their company’s value, lead’s seniority (to determine if they can make decisions), number of employees, and location.
+
+![jiea](https://www.singlegrain.com/wp-content/uploads/2020/09/jiea.png)
+
+*   **Track their activity** to discover which emails they are engaging with, how often they visit your site, and the pages they are browsing on your website. This will give you a fair idea about how sales-ready they are.
+
+**Dive Deeper:** [The Anatomy of an Effective SaaS Lead Generation Strategy](https://www.singlegrain.com/saas/lead-generation-strategy-for-saas/)
+
+### **3) Offer Exceptional Customer Service**
+
+Given the unpredictable nature of software, there might be a slight momentary lag now and then. When that happens, customers turn to your support team. As a SaaS business owner, you need to ensure that the user is getting the right assistance at the right time.
+
+If not, you are likely to lose the customer who can easily search for a similar product:
+
+*   [50% of customers](https://www.zendesk.com/blog/why-companies-should-invest-in-the-customer-experience/) will abandon your product for the competition after just one negative customer service experience.
+*   80% will stop doing business with a company after two or more bad customer service experiences.
+*   [86% of customers](https://www.smartinsights.com/user-experience/customer-experience-management-cxm/the-complete-guide-to-a-great-customer-experience/) are willing to pay more for better customer service.
+*   $1.6 trillion is lost every year by U.S. businesses as a result of poor customer experience.
+
+Here are some easy ways to offer exceptional customer service:
+
+*   **Offer live chat support.** Customers these days do not want to wait for hours to get replies via email, they want an immediate response on the platform on which they are browsing.
+*   **Ensure that your FAQ page** **does a good job** of answering your customers’ questions. Also, update your FAQ page frequently to reduce the number of issues that reach your support team.
+*   **Build a knowledge base** where users can find solutions to their problems themselves. Write in-depth content and categorize it based on the type of query. For example, [SEMrush’s knowledge base](https://www.semrush.com/kb/) has different categories (getting started, how-to, toolkits, billing) to make it easy for users to get help immediately:
+
+![izjsrdkdf](https://www.singlegrain.com/wp-content/uploads/2020/09/izjsrdkdf.png)
+
+*   **Use a CRM to keep all the customer requests in one place.** This allows you to check all the issues a customer has had in the past, irrespective of the channel they used to contact you. This helps provide quick solutions for them.
+*   **Assist your customers even when they haven’t complained about anything.** For example, BuzzSumo sent me an email asking if I needed any help using the product. The email says, “_Just email me back with what you’d like to achieve with BuzzSumo, and I will get back to you with advice._”
+
+![skvmd](https://www.singlegrain.com/wp-content/uploads/2020/09/skvmd.png)
+
+**Dive Deeper:** [3 Steps to Increase SaaS Conversion Rates with Customer Education](https://www.singlegrain.com/saas/saas-conversion-rate/)
+
+### **4) Minimize the Churn Rate**
+
+> The lower the churn rate, the higher the ACV.
+
+A high churn rate can hinder your SaaS business’s overall growth. The average churn rate for SaaS companies is [around 7.5% monthly](https://growrevenue.io/churn-rate-benchmarks/). However, with some extra effort, you can identify and reduce your company’s churn rate.
+
+Here are the best ways to reduce your churn rate:
+
+*   **Understand the reason behind customer churn.** Do they find your services expensive? Were they unable to solve their problems using your product? Are they dissatisfied with your customer service? Knowing the exact reason behind churn can help improve your operations and retain more customers.
+*   **Improve the onboarding process.** While customers on a free trial aren’t included in the churn rate, hooking them from the first day can help convert them into subscribing to your premium plan. Get on a call or send them videos to make it easy for them to get started with your product.
+*   **Use [predictive analytics](https://www.singlegrain.com/digital-marketing-analytics/how-to-use-predictive-analytics-for-better-marketing-performance/) to identify clients** who are likely to stop engaging with your product. Then, send surveys via emails to understand their experience with your product, offer a helping hand, and give discounts to encourage them to engage with your brand.
+*   **When a user begins the cancellation process, encourage them to stay**, even if it means encouraging them to degrade their plan. Though it is the last thing you want, it is still better than losing the customer.
+*   **Educate your users on how to use your product efficiently.** Send how-to blogs, conduct webinars, and share [case studies](https://www.singlegrain.com/about-us/case-studies/) on how other customers are using your product to achieve their goals. For instance, Pro Writing Aid sends emails to its customers to help them improve their writing:
+
+![jifkd](https://www.singlegrain.com/wp-content/uploads/2020/09/jifkd.png)
+
+**Bonus:** Bring back already churned customers by educating them on how your product can benefit them. For example, SE Ranking sent me an email saying, “_We miss you_.” They then said, “_We can always schedule a demo, and I’ll show you all the different ways how our software can benefit your business_.” It works because it demonstrates genuine care for the person reading it.
+
+![jiskd](https://www.singlegrain.com/wp-content/uploads/2020/09/jiskd.png)
+
+**Dive Deeper:** [Should You Offer a Freemium Level for Your SaaS Platform?](https://www.singlegrain.com/saas/should-you-offer-a-freemium-level-for-your-saas-platform/)
+
+### **5) Get Your Pricing Right**
+
+Price is an important factor in determining your ACV: Charge more than your competitors (for similar features) and your customers will likely bounce. Reduce your prices, and you won’t be able to make profits.
+
+Therefore, it is essential to balance your pricing and [choose the right strategy](https://www.inturact.com/blog/the-top-10-saas-pricing-strategies). It enables you to convert more customers, retain them, and increase your ACV.
+
+Here are some things that can help you master your SaaS business pricing strategy:
+
+*   **Conduct [competitor research](https://www.singlegrain.com/digital-marketing/how-to-perform-competitor-research-using-the-best-tools/)** to determine which features others offer and at what price range, in order to understand what customers are willing to pay.
+*   **Determine what kind of customers you want** to attract and set your prices accordingly. For instance, if you \\ target freelancers or SMBs, you should keep your prices low to make them affordable. However, if you wish to attract enterprises, a higher cost won’t be a problem.
+*   **Decide whether you want to offer per-user pricing,** feature-based pricing, pay as you go, or custom pricing. It depends largely on the industry you are in and your ideal customers. For example, AWS has a pay-as-you-go option, while Spotify uses per-user pricing.
+
+![ijremsd](https://www.singlegrain.com/wp-content/uploads/2020/09/ijremsd.png)
+
+*   **Consider future marketing strategies** when deciding the right price for your product. For instance, you might want to offer discounts or adopt penetration pricing to attract more customers. At the same time, you would not want to incur a loss. Hence, a good idea would be to raise your prices and then offer a discount to make it affordable for customers.
+
+**Dive Deeper:** [The Competitive Pricing Strategy Guide (Covers B2B and B2C Businesses)](https://www.singlegrain.com/marketing-strategy/competitive-pricing-strategies-b2c-b2b/)
+
+### **6) Improve Your Marketing Targeting Process**
+
+Acquiring more customers is yet another way to increase your ACV. In order to do so, you need to improve your marketing targeting process. The better the targeting, the faster the [customer acquisition](https://www.singlegrain.com/customer-acquisition/customer-acquisition-trends-for-2019-beyond/).
+
+Here are some ways to target your ideal customers to maximize relevancy:
+
+*   **Create a detailed [buyer persona](https://www.singlegrain.com/buyer-personas/complete-guide-developing-using-buyer-personas/)** to better understand your customers and their pain points.
+*   **Develop a [content marketing strategy](https://www.singlegrain.com/content-marketing-strategy-2/content-marketing-guide/).** Make sure each content addresses your target audience’s concerns. Also, follow an 80/20 rule, where 80% of the content is educational while 20% of it is promotional.
+*   **Conduct competitor research** to understand what kind of messages resonate the best with your target audience. Check the type of content your rivals are publishing on their blog and social media. Tools like [Ahrefs](https://ahrefs.com/) and [Sprout Social](https://sproutsocial.com/) can help you do that. For instance, the below image shows top pages, monthly traffic, and traffic value for a website, which is valuable info to fuel your content marketing strategy:
+
+![pasted image 0 3](https://www.singlegrain.com/wp-content/uploads/2020/09/pasted-image-0-3.png)
+
+*   **Create a market profiler.** This helps determine the most effective type of marketing communications for your target market.
+*   **Build separate [landing pages](https://www.singlegrain.com/conversions-2/ultimate-guide-to-creating-a-high-converting-landing-page-in-2019/)** for each customer segment. For instance, if you provide services to individuals, small businesses and enterprises, create different pages to highlight the features for each of them. You can then use paid ads to drive targeted customers to various landing pages.
+
+**Dive Deeper:** [Best SaaS Marketing Agency: Top 5 Choices for 2023](https://www.singlegrain.com/blog/saas-marketing-agency/)
+
+## **Last Word on** **SaaS** **ACV**
+
+SaaS ACV is a vital metric to track because it determines how quickly your business can grow. To increase your ACV, begin by upselling to existing customers, filter highly qualified leads, and offer exceptional customer service. Additionally, create strategies to reduce the churn rate and improve your marketing strategy.
+
+### **Hopefully you learned how to increase your ACV, but if you just want a [SaaS agency](https://www.singlegrain.com/saas-marketing-agency/) to do all the work for you, click the orange button below!**
+
+**Book My Free SaaS Marketing Consultation**

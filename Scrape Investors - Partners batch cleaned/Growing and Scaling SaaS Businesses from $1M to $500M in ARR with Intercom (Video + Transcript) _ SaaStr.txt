@@ -1,0 +1,277 @@
+# Growing and Scaling SaaS Businesses from $1M to $500M in ARR with Intercom (Video + Transcript)
+
+In this session from Annual 2018, [Intercom COO Karen Peacock](https://youtu.be/v-6YPMicyPc) shares success stories, battle scars and practical advice she’s learned from growing scaling SaaS businesses from $1M to $500M in annual recurring revenue.
+
+**In case you haven’t heard, we’re building a completely immersive experience for SaaStr Annual 2019!** With 3 full days of sessions, featuring over 300 speakers from the best SaaS companies around the world, SaaStr Annual will be filled with actionable thought leadership to help grow your business. [Use this link to get your tickets to the SaaS show everyone will be talking about](https://www.eventbrite.com/e/saastr-annual-2019-tickets-42854448810?aff=SaaStrBlog).
+
+[![karen-peacock-saastr-annual-2018](https://i0.wp.com/www.saastr.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-20-at-3.45.28-PM.png?resize=948%2C528&quality=70&ssl=1)](https://youtu.be/v-6YPMicyPc)
+
+**Announcer:** Please welcome Byron Deeter, Partner at Bessemer Venture Partners, and Karen Peacock, COO at Intercom.  
+  
+\[music\]  
+  
+**Byron Deeter:** Hello, hello. Welcome back from lunch, everyone. Thank you for joining us on the opening day of SaaStr. I’m Byron Deeter with Bessemer Venture Partners, and I’m absolutely thrilled to be with you today, most importantly because of my guest to my right.  
+  
+Karen Peacock is not only a friend, but a superstar senior executive, perfectly positioned to address our topic today of hyperscale, and in particular, this aspirational journey from the $1 million ARR mark up to $500 million and beyond.  
+  
+She’s actually done it, both as an advisor with small companies, but also at Intuit as a GM, where she managed a multibillion dollar P&L, including over $500 million of ARR directly, and walked them on this journey to a decacorn status.  
+  
+Most recently, she has joined Intercom, one of the hottest cloud unicorn companies in our industry, as their COO. Intercom, for those of you who don’t know, is a messaging product, a modern messaging product for sales marketing, support, and operations teams.  
+  
+Karen, today, is going to give us some words of wisdom, but maybe first, give us a little color if you can about Intercom and what COO means, and your role there please.  
+  
+**Karen Peacock:** Absolutely, happy to do that. Thanks very much, Byron. Thanks everyone for coming. Decacorn, I think we should officially attribute to Byron here.  
+  
+A little bit of a background first on Intercom, and then I’ll tell you more about my role. I think it helps set that context. When you’re in a website or you’re in an app, and you see in the lower right corner a little message bubble, that is likely Intercom. That’s just one of the faces of Intercom.  
+  
+Companies like Spotify use Intercom embedded in their app in order to send targeted messages to their trial customers and help encourage them to become paid customers and keep them engaged down the road.  
+  
+Companies like Tradeshift use Intercom on their website to help them convert visitors to their website into qualified leads, and then turn those folks into paying customers, so driving more customers faster.  
+  
+In fact, one of the things that we just recently heard, Byron, is that of the most recent Y Combinator class of all of the companies there who are using any kind of messaging or chat solution, 84 percent are using Intercom. Intercom is very much becoming a part of the default modern tech stack in order to help companies grow.  
+  
+My job in Intercom is to help Intercom as a company grow in scale, just like we help our customers. From a functional perspective, I’m responsible for sales, marketing and support, which are actually a pretty common combination for COOs to work on. What’s probably a little bit less common is I’m also responsible for our San Francisco Engineering and Product team, and Data and Analytics.  
+  
+That’s because of my background in product and in data.  
+  
+**Byron:** Great. Talk a little bit about this pairing, if you could, with CEO and COO, dramatic lighting please.  
+  
+**Karen:** Yes. We meant that to happen.  
+  
+**Byron:** A lot of people in the audience — founders, CEOs — you’re probably going through this team-building question. There’s always this notion of what level executive do you bring in? How do you divide roles and responsibilities? What should the profile be?  
+  
+People hear about the Sheryl Sandberg, Mark Zuckerberg pairing, or Dennis and Drew maybe at Dropbox in the cloud world. How do you think about your role and that interplay with the CEO, and maybe even the profile of a COO type for that CEO to consider?  
+  
+**Karen:** Happy to talk about that. Before I joined Intercom, I was looking at both CEO roles and COO roles. People told me, “Don’t take a COO role.” I obviously didn’t listen very well.  
+  
+The reason why they told me that is they also quoted figures like, “Did you know that the average tenure of a COO is eight months?” That’s terrible, right? I mean that’s just like…  
+  
+**Byron:** You’ve beaten it over. You won.  
+  
+**Karen:** Exactly, I won, done. All right. I dug into that and I wanted to learn more. I spent time talking to CEOs, successful COOs, to venture capitalists, to recruiters, and folks who were around that ecosystem, just trying to figure out why that was the case.  
+  
+I’m happy to share with you today the number one reason why COO hires fail so that you can avoid that. I think the reason why it fails is because there’s a myth out there. People tell CEOs and founders to think about all the things that you love doing, that you’re great at doing, that you want to spend your time doing.  
+  
+Great. Now, think about all the stuff that you hate doing, that you’re not very good at doing, that you don’t want to do, and go hire someone who likes that and is good at that.  
+  
+If you only follow that advice, you will most likely fail. That’s because what you’ve just hired is your polar opposite. You end up in a situation where one person is over here, another person’s over here, it’s like oil and water. The first time you disagree, you start pulling the company in different directions.  
+  
+That’s not good for anybody. I think what you should be doing instead is finding, yes, somebody who complements you and is good at doing some of the things that you don’t like to do as much, but they’re really important for your company, or you’re not as good at or is experienced that.  
+  
+Find someone who can spread out on the playing field with you, like that, but also someone where you have some amount in common. If you could imagine like a little Venn diagram rather than sitting like here and here with your COO, you want to be in a place where there’s some level of overlap.  
+  
+For me, when I was looking at…I met Eoghan McCabe, the CEO of Intercom, I realized that we had exactly that, the ability to spread out in the playing field. What we had in common was we’re both product people. We both care very deeply about customer experience. We both care less about preserving the status quo, and very much about building a very special business.  
+  
+**Byron:** You heard it from Karen, conventional wisdom is totally wrong on COO spec, which is quite interesting. What about stage for when someone should think about bringing on a COO? Is there a right size, or stage, or scale? If Intercom had tried to bring you on three years ago, would it have been too early, and would it have failed?  
+  
+Was there maybe not enough for you to do when you came on, and waiting two more years could have been the right model? How should people think about when to bring in that experienced senior executive to help the great founder culture?  
+  
+**Karen:** I think that all very much depends but one thing that is certainly true is don’t bring on a COO until you are ready for that person to drive the bus, and while you drive the bus as well.  
+  
+Just making sure that don’t be in a situation where you’re both trying to pull on the wheel. Do it at a time where you feel like there’s enough complexity in your business, that that person you need is a senior leader to run and operate one part of the business while you’re operating it as well, where there’s enough complexity that you need like two senior leaders both driving.  
+  
+**Byron:** That actually feeds into this notion of stages, as a former entrepreneur myself and having spoken with a number of the founders in the room. So much of the focus is on these round numbers. This notion of, “OK, I’m at a million now. I’ve sort of made it but if I can just get to 10 million, then everything will be good and the world will be fine.”  
+  
+Oftentimes, we actually find that people cut some corners or perhaps don’t get to 10 in the right way. Even though they hit where they thought was that next great milestone, they plateau. So many times, businesses will be on this rocket ship ride and then stall out.  
+  
+What should founders think about to avoid those mistakes? What have you seen in terms of words of wisdom for the scaling challenge, specifically in that 1 to 10 journey?  
+  
+**Karen:** That’s a great question because it’s very tempting to focus on those numbers, like, “I’m at one million. I just want to get to 10 million. Now, I want to get to 50, and then 100.”  
+  
+The fact is the more you focus on revenue, the worse off you will be. Actually, I know… \[laughs\]  
+  
+**Byron:** The irony of focusing on 10 million means that you won’t get there.  
+  
+**Karen:** If you focus on revenue, that’s actually the last thing that you should focus on. What you should focus on first is value and engagement. I can talk a little bit about both of those things, tell you more about what we’re doing in Intercom there too.  
+  
+Focus on value, and this is specifically really deeply understand the value that you’re providing to your customers. Make sure that you are clear on what that is. Make sure it’s super compelling to your customers. Measure it and get better and better at doing that.  
+  
+On the engagement side, make sure that people are actively using your product. Make sure that every constituent, if you’re in a marketplace, make sure you’ve got both sides using your product or service. Value and active engagement.  
+  
+I can tell you then, for Intercom, because I always think it’s…the theory of these things is very different than the actual. It’s helpful to hear a specific example I think.  
+  
+For Intercom, what we focus on is on the engagement side tracking both how much people are using our product, and how much they’re using our product to touch and help their end customers. If we start with the first one there, how much they’re using our product?  
+  
+We track active use. Today, Intercom has 91 percent of our customers who use the Intercom product and platform every single business day. Really strong engagement that we’re really good about that.  
+  
+In terms of how much they’re then touching their end customers, we’re now at the state where we’ve got 500 million messages that our customers send to their customers every month. 500 million messages every month. We track that very closely, and that’s been doubling year-over-year.  
+  
+We expect and hope for that to continue to double. That’s the engagement side. The value side, and this is something that we’ve only recently gotten a lot better at tracking. We’re very clear for each of our products and for each of the use cases that we saw for our customers on what that value is.  
+  
+For example, one of the things that our customers buy us for is to help them take visitors to their website and turn those folks into qualified leads, get them to the right folks, whether it’s on the sales or support side, and then convert those customers into paying customers.  
+  
+Across that, the key benefit metric that they’re really looking for is driving up conversion rates, like more customers faster. We track exactly that, how many customers are our customers converting because of using Intercom?  
+  
+We find that our customers who touch their customers with Intercom actually end up converting at 83 percent higher. That’s awesome results. 83 percent lift in conversion is something that we would all sign up for every day.  
+  
+We seek to keep getting that better and better. Our product team very much focuses on, and all of us really focus on, how can we keep driving that benefit higher and higher?  
+  
+My advice to all of you would just be super clear on exactly what is the benefit that you are giving to your customers. Make sure it’s something that they really value. Be really crisp on that, and then figure out actually how to measure that and how to get better and better at delivering more and more of that value over time, and then revenue will come.  
+  
+**Byron:** Interesting. The paradox of overly focusing on revenue first can drive wrong behavior as opposed to usage and intention will take you on the journey that you can then monetize.  
+  
+**Karen:** If you just focus on the revenue side, you can end up in a hamster wheel situation where you’re just trying to do everything to squeeze a little bit more water out of whatever situation you’re in versus actually focusing on the long-term growth driver, which is around value.  
+  
+**Byron:** You’re a math major, so the metric side may come a little easier to you, but for founder’s in the room that maybe aren’t as quantitatively oriented, can you talk about the role of data and metrics in the business, and in particular for earlier stage businesses?  
+  
+When you were talking about the importance of usage, and retention, and these elements, obviously there’s a metrics component to it. How do you introduce that discipline in your business early on, but in a balanced way so you’re not overly focused on a scoreboard versus building the platform of the business in the right way?  
+  
+**Karen:** I think that there’s always the art and the science to everything that you do, the quantitative and the intuitive side. It’s really important to have both of those in everything you do.  
+  
+You have to start with the intuitive and the leap of faith and the problem that you’re solving. From there, you want to figure out how to hold yourself really accountable to that, like, “Am I really solving that problem well?”  
+  
+You could come up with 100 different metrics and ways of measuring that. That’s why I would suggest to pick like one way of measuring the value that you’re providing, and then one way of looking at your funnel and assessing how you’re doing at attracting your customers, turning them into buyers.  
+  
+You can look at your revenue from there, as well as things like retention. Just a very, very simple dashboard to start with, but actually do think that every company really at every stage needs at least a very simple dashboard.  
+  
+That is not at all at the expense of focusing on what first matters, which is really understanding the product, understanding the problem, having that inspiration and that intuition, which really fuels the ideas that you then measure.  
+  
+**Byron:** A lot of that touches on this elusive notion of product market fit, this idea that we’re all chasing this interplay between the right product for the right set of customers that will put you into the vortex of sales adoption.  
+  
+Maybe going back also to your Intuit days and your work advising startups, what has worked for you? What are some of the important factors in finding this perfect market vortex for that storm that you want of sales and adoption?  
+  
+**Karen:** I have to say I’ve learned a lot from Scott Cook, who’s a mentor and a friend of mine. Some of the mantras that I take and I share going forward are number one to fall in love with the problem, not the solution. I’ll talk a little bit about what that means.  
+  
+To watch what people do, not what they say. I’ll share with you a story of when I didn’t do that. Hint spoiler, it’s not going to work out well in what happened.  
+  
+\[laughter\]  
+  
+**Karen:** A few years ago when I was at Intuit leading product for QuickBooks, I was out talking to customers, was an incredibly successful product. Hundreds of millions of dollars in revenue around it. People loved it. High Net Promoter Score. Folks were telling me things like how QuickBooks is great but the one thing it really needs, the one thing it’s really missing…  
+  
+I’m like, “Yes. What is that one thing? It’s budgeting. OK. Tell me more.” We learned about budgeting. We learned exactly what it was that people wanted to do in their budgeting. We built a cool budgeting product. We brought people in to usability studies. We made it better and better.  
+  
+They really liked that budgeting tool. We launched it. What happened is almost nobody ended up using it, and that’s because budgeting is tomorrow’s problem, not today’s problem. Budgeting is something that you’re going to do tomorrow.  
+  
+For many people, that tomorrow actually never comes. We went back to the drawing board because we knew there was something there. People were really passionate about it and were asking about something.  
+  
+We realized what we had done is fall in love with the solution, the solution that customers had said they wanted, the solution that we had been built and fallen in love with ourselves.  
+  
+We stepped back and spent time thinking about what the problem really was. We spent time watching what small businesses actually spent their time doing today.  
+  
+We realized that the real problem was cash management. The real problem was I can’t pay my bills. I need to figure out how to get my money in line so that I don’t lose this partner relationship that I have. It’s really all about cash management and having enough money to pay the critical bills when they were due.  
+  
+As we deeply understood that, we were then able to build out a very different type of solution, which is a very lightweight cash management solution. We built that. We launched that. It was very successful. Now, hundreds of thousands of small businesses use that.  
+  
+Byron: Excellent. It’s the aspirin versus painkiller versus vitamin.  
+  
+**Karen:** The vitamin versus painkiller, so you’ll always do better in a situation when you are selling something that’s really mission critical, and necessary versus something, that’s a nice to have, an aspirational need.  
+  
+**Byron:** Interestingly, sometimes customers themselves may not know that difference. They’re the aspirational then may be different from the day-in day-out pain that they’re feeling. That’s part of the product TrueNorth, the company has to have, I assume.  
+  
+**Karen:** That’s exactly right. Nobody ever asked for an iPhone, or at least 10 years ago, they didn’t. Now, they do.  
+  
+**Byron:** That’s a medium to long-term view in terms of building a company to last, and from platform, but do you have any quick hit advice for the audience here if you were to join them in a boardroom, or an executive team off-site? Is there a low-hanging fruit that operators today could implement, that you’ve seen your years’ experience?  
+  
+**Karen:** Yes. I’ll share with you one of the first things that I have done in literally every business that I have run over the years. It has always worked. I’ll share with you guys because I bet it will work for you as well.  
+  
+That is to focus on that magical time when a customer first comes to you or a prospect first comes to you and is interested in learning about what you do, and thinks they might want to become a customer.  
+  
+Focus on that onboarding process for new customers and making that experience amazing, making it very clear what the benefit is that they’re going to be getting. We are talking about it in terms of value and streamlining and speeding people through the process as soon as possible.  
+  
+There is a phrase that the Mint team developed that I really like. Mint, for those of you who don’t know, is basically a personal financial management solution. The first thing you do when you start using Mint is you basically plug in and connect your different bank accounts or credit card accounts. What happens once you plug those in and get those all hooked up is it creates a pie chart.  
+  
+That pie chart is a distribution of all the things that you spent on. It’s done all sorts of cool things behind the scenes, machine learning to do different categorizations and auto-categorize things. It shows you, “Here is where your money is going.” It gives you recommendations on a lot of other things from there.  
+  
+What the Mint team discovered is that for customers who get to that pie, they had this aha moment. You literally see people’s eyes light up the very first time they see where their money is going. That aha moment and that pie leads to much higher engagement down the road.  
+  
+My advice to both myself that I take and to all of you is to figure out, what is your pie in your product or service? What is that moment that when customers get to that, their eyes light up and they say, “Yes! This is the thing that I wanted. This is why I bought the product and why I did all the work that I was doing.”  
+  
+Figure out what is your time to pie. Figure out what is your pie. Figure out how you can make that time to pie as fast as possible, and just lightning speed through there. That’s one of the areas that I focus on, as I said, in every business that I’ve ever run. It always leads to good short-term results.  
+  
+Along the way there, interacting with customers during that magical time when they are first considering your product, being as real time as possible also changes things in a big way.  
+  
+As much as you can reach out to customers with your sales team within a minute of a customer coming, who is the right type of customer for your product, as much as you can reach out the second somebody has a question, answer that instantly.  
+  
+We have seen this is one of the things that the Intercom product actually helps you do, and frankly, one of the reasons why I was so attracted to join Intercom to begin with. I saw the value firsthand. The ability to interact with customers in a real-time way during those magical moments can massively change the trajectory of customer adoption.  
+  
+We’ve seen customers who have grown their conversion rates by as much as 4x when they interact with a customer right at that point of need, within a minute of that customer needing that. Figure out how you want to interact with your customers. Figure out how to do it as real time as possible. You will see great results.
+
+**Byron:** Building on that, a lot of times in this journey, marketing budgets open up for the first time for these founders. How do you think about marketing spend and resource allocation? Maybe in that real-time construct, but life hacks and quick hits for that, lessons learned perhaps, and stumbles to avoid.  
+  
+**Karen:** Absolutely. I can share with you a story of the very first VP job I ever had, which is the VP of marketing. I was leading Intuit’s payroll products. $800 million business, big business, very successful, my first VP of marketing job.  
+  
+I got into the role. I spent about a month talking to customers, learning the product, checking out competitors’ products, looking at our metrics, talking to and learning from everything that everyone had already in their brains in the business.  
+  
+After that time, I made my first decision, my first big bet. What I did is I took a big chunk of our marketing program spend. I used it to fund hiring an engineering team to focus on onboarding and first use, literally putting my money where my mouth is here.  
+  
+**Byron:** You voluntarily redirected your marketing budget to engineers?  
+  
+**Karen:** Exactly. My couple of…  
+  
+**Byron:** Said no CMO ever, by the way. I’m impressed.  
+  
+\[laughter\]  
+  
+**Karen:** That was the thing. Basically, the CMO crew came to me. They were like, “Whoa! Careful here.” Literally, my peers, the other VPs of marketing running others of these multi-million dollar businesses, multi-hundreds-of-millions of dollar businesses came to me.  
+  
+They’re like, “You know, I know you’re new to being a VP of marketing, but we don’t do that. \[laughs\] Don’t give away your money. Your money is your power. That is what helps you achieve the goals that you’re signed up for. \[laughs\] Don’t give like…we’ll just give you this advice.” This was behind-the-scenes conversations, people truly trying to be helpful.  
+  
+I listened, asked a few questions. Then I said, “You know what? I am directing this money to what I think is going to lead the best possible customer acquisition results. I’m doing exactly what I think is going to be the best possible investment that I could do. I’m sticking with it.”  
+  
+Actually, in the time, I said, “I’m sticking with it. In fact, I think this will be the best investment that I make this year.” I said, “Actually, I think it’s going to be the best investment that any of us make this year.” I got a few smiles on that one like, “Oh, yeah? We’ll see.”  
+  
+That’s actually exactly what ended up happening. It was the best investment that I made. It massively increased the conversion rate, which increased all of the different effectiveness of all of the rest of my marketing spend. My customer acquisition went down dramatically. In the next year, everybody else did the same.  
+  
+My point there is not a, “Don’t spend in marketing.” \[laughs\] My point is, “Make sure that you really deeply understand the customer experience and the funnel that you bring people into.” Think about the best possible ways that you can invest. Not just the things that are within your functional area. Not just the things that everybody else does.  
+  
+Think about what’s really going to drive a difference in that customer experience and really drive rapid growth. When you’re to the point that your funnel is actually pretty strong…and it doesn’t have to be perfect. You don’t have to wait 10 years till your funnel is like a shoot. I’ve never even seen one of those. Maybe one of these years, I will.  
+  
+**Byron:** \[laughs\] We’re still looking for one, too.  
+  
+**Karen:** You don’t have to wait till it’s 100 percent perfect. When you feel like it’s a strong funnel and you can acquire customers in a cost-effective way, by all means, amp up your marketing at that point. At that point, there are three things I think about wanting my marketing spend to do. I want it to increase brand awareness and purchase consideration.  
+  
+I want it to have some direct results. Those might be two different buckets of spend. I want some of it have some real clear, direct results. I want to be investing in always learning and trying new things so that you get better for the future. When you’re ready, absolutely go ahead and amp up your marketing spend. Just make sure you got the right funnel in place to do that.  
+  
+**Byron:** That’s particularly relevant for the audience members here, founders and CEOs with that full-company view because not all VP of marketing or CMOs will be that visionary, I have to say. Oftentimes, it takes the full-company perspective to go through that resource allocation, to do what’s right for the company.  
+  
+Maybe building on that in other surprising ways, is there advice that you’d give startups that is counter-intuitive or that may surprise them, distribution, intel or otherwise?  
+  
+**Karen:** Yeah. One of the things a lot of startup founders like to talk with me about or have on their mind is, “What should I focus on? There are so many things that I could be doing. Where should I be spending my time? Where should I be spending the company’s resources?”  
+  
+Oftentimes, it will be a story of, “Well, I could focus on this, which is my core product, my original idea, and has some very promising things that we’re seeing there. But on the other hand, there’s a big company out there that’s got a big name and a lot of customers.  
+  
+“They’re really excited about what we’re doing. They’re saying that they could actually sell this product to all of their customers. What do you think I should do?”  
+  
+I would just say, “Do not pin all of your hopes and dreams for growth on a partnership with a big company.” I’m not saying, “Don’t ever partner with a big company.” I’m just saying, “Go in, eyes wide open, and test first.”  
+  
+At Intuit, we had a number of partnerships — let me give you an example — on both sides. For example, email marketing. I had this great idea within QuickBooks.  
+  
+We would tie together the data in QuickBooks of the customers and what they purchase. Then with email marketing, we could do targeted campaigns out to folks who have built something super cool. A startup that we partnered with, invested a lot. We invested a lot. Guess what? Nobody bought it.  
+  
+What I realized is we could have tested that with an hour of work. Figure out how to do the lean test to see whether anyone is even interested in it. I’m not saying, “Don’t partner with a big company.” Go in, eyes wide open, and lean test as you go. Intuit has had a lot of very successful partnerships, for example, on the financing side and other places, but test first.  
+  
+**Byron:** Maybe just to double click on that, nine and a half years ago, Bessemer released their first 10 laws of cloud computing. One of those laws had to do with this notion of channel dependency and how hard it is to get channel partners to sell cloud software, because services’ attach rates are lower and the hardware attach rates are nonexistent. Do channels ever work in a cloud 10 years later?  
+  
+**Karen:** \[laughs\] They do sometimes work. One of my favorite examples from the Intuit days is around financing, small business financing. If you pick a product that is adjacent enough, really, really close to what the customer is already doing, where you’re selling to actually the same person, not the same company but the same person…For example, with QuickBooks, you’re selling to the bookkeeper.  
+  
+The bookkeeper or owner is often the person who is also thinking about lending. Selling to the same person, where that person is in that same mental space to buy the other product, it can work if both companies are really motivated to do that.  
+  
+For example, through QuickBooks, there’s been about, I think it’s 800 million loans today gone through third-party partners, folks like OnDeck and Fundbox and others. It can work, but just be careful. \[laughs\]  
+  
+**Byron:** Karen, last question. Marc Benioff and many others have been on record about this cloud unicorn trend and companies staying private longer, and have essentially come out and said, “Grow up already. Why don’t your companies go public? This whole nonsense of billion-dollar-plus private valuation is really manipulating the market,” or even some terms used.  
+  
+When will Intercom go public? Why haven’t you gone public yet? What are you waiting for? What advice do you have for people in the room on that point?  
+  
+**Karen:** Having sat on both sides of that — run a large P&L in the public eye, responsible for quarterly earnings, gone to play on the private side, which is so fun — I would just say that going public to many people can feel like it’s a finish line.  
+  
+You are a founder and a CEO of a public company. You and your whole team are soon thereafter liquid. Amazing. Incredible finish line there. I would say, definitely an incredible milestone, an unbelievable success.  
+  
+However, that is very much just the starting line. It’s the starting line to a whole new race with a whole new set of characters and stakeholders who care very deeply about different things than what you’re used to caring about, and care very much about things like quarterly earnings.  
+  
+It’s very easy to get distracted and spend a lot of time trying to micromanage your quarterly earnings and forget about driving massive innovation, trying to break through new things that might work and might not work, and really driving value. If you end up getting to be so focused on your quarterly earnings, what will happen is you will turn into one of those companies that you seek to disrupt.  
+  
+It’s very important to wait and only go public when you are really ready. You have the discipline to be able to hit those quarterly numbers and have the ability to think big, to innovate, to focus on value, and to do all of that together.  
+  
+Waiting as long as possible is good. There’s plenty of ways to get large amounts of funding in the private markets today that you never used to be able to, used to only be available if you go public.  
+  
+Take advantage of those things. Then when it’s time and when you’re ready to go public, we all here wish you all the best.  
+  
+**Byron:** You navigated that one pretty well, maybe a future in politics after this tech stuff’s over.  
+  
+\[laughter\]  
+  
+**Karen:** I doubt that. Definitely not. That’s not going to happen for me. \[laughs\]  
+  
+**Byron:** Please join me in a big round of applause for Karen.  
+  
+**Karen:** Thank you, Byron.

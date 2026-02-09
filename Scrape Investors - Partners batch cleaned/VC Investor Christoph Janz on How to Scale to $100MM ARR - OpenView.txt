@@ -1,0 +1,71 @@
+# VC Investor Christoph Janz on How to Scale to $100MM ARR
+
+_**Editor’s Note:**_ _The following article is based on a recent episode of OpenView’s [BUILD podcast](https://openviewpartners.com/podcast/). You can listen to the full episode featuring Christoph Janz, Managing Partner at Point Nine Capital [here](https://labs.openviewpartners.com/growth-when-is-a-startup-ready-to-scale-podcast/)._
+
+As an early stage-investor, Christoph Janz from [Point Nine Capital](http://www.pointninecap.com/) has an excellent track record of investing in high-growth technology companies – think FreeAgent, Geckoboard and Typeform. Perhaps one of the best-known companies in his portfolio, however, is also the first.
+
+> _“It really all started with Zendesk. I knew nothing about SaaS, but I fell in love with the idea of the consumerization of enterprise software.”_
+
+Christoph got involved with the company when it was about a year old and the product had only been in the market a few weeks. At that time, the fledgling company boasted a whopping fifty or so customers, each paying $100 per month. Today, Zendesk is aiming to hit a billion dollars in ARR within the next couple of years.
+
+Clearly, the Zendesk team knows a little something about growth.
+
+Yet it definitely wasn’t smooth sailing all the way. After procuring a pretty small seed round, the company was on the hunt for its next round of financing, but nobody wanted to invest. Christoph describes it as a “difficult time,” noting that while they did eventually land great Series A and B investors, he’s sure there were plenty of issues he wasn’t aware of at the time. It just goes to show that even the companies who are setting the bar had to start somewhere and clear their share of hurdles, just like everyone else.
+
+Being as close as he was to the growth experiences of Zendesk and other ventures, Christoph has earned unique and valuable insight into why growth is so important and how to drive and manage it successfully. In a recent conversation, he shared some of his hard-won knowledge.
+
+## Knowing When to Scale (and Proving It’ll Work)
+
+One of the most crucial pivot points in a company’s growth arc is the point at which you start to scale. How do you know when you’re ready to flip that switch, and how can you prove to investors and others that you can make it work?
+
+Christoph’s primary rule of thumb is that you’re ready to scale when you are confident that you will be able to maintain your return on investment (ROI) as you grow. So, for instance, if you double your investment in sales and marketing, then you should be able to double your results – capture twice as many leads, convert twice as many customers, or drive twice as much revenue. “It’s obviously not going to work overnight after you pull the trigger,” Christoph says. “But, if you’re starting off at a pretty small scale, you should see your results scale more or less in step with your efforts pretty immediately. If you don’t see that, it’s an indication that you’re not really ready to scale.”
+
+Christoph has observed that, typically, the biggest obstacle to building a $100M+ company is identifying customer acquisition channels that are both profitable and scalable. Unlike in consumer sales, there aren’t many mass-market advertising channels that work well for B2B. You can be pretty sure that you’re at a point where you can overcome this additional challenge if:
+
+*   **New hires are hitting their quota.** This means not only that there’s enough demand for your product, but also that you’ve been able to industrialize your sales process so that founders and superstar sales people are no longer necessary in order to make a sale.
+
+*   **Outbound sales is a strong channel for you.** Maintaining a reasonable CAC with outbound is difficult, so if it’s working for you that’s a strong indicator that you’re ready to scale.
+
+*   **You’re able to increase your SEM budget without jeopardizing CAC.** While this isn’t a reliable indicator of future performance on its own, in combination with other positive factors, it helps to corroborate your claim that it’s time to scale.
+
+*   **Your content marketing “machine” consistently generates more leads each month.** This means that you’ve found the narrative that resonates with your audience and that you’ve got the right marketing people on your team. Time to charge ahead.
+
+Based on Christoph’s experience, he notes that other prerequisites for successful scaling include a high return rate, a non-leaky funnel, and unit economics that make sense. If you’re missing any of these puzzle pieces, it may mean you’re not quite ready to start ramping up.
+
+## The Tricky Business of Defining “Good” Growth
+
+“Venture capitalists have a kind of strange business model,” Christoph says. “This is because the history shows that the vast majority of the returns in any venture capital fund are driven by a small number of extraordinarily exceptional outliers.” This is one reason why an investor’s perspective on growth can be very different from a founder’s.
+
+An investor might set a benchmark based on the incredibly fast and substantial growth of standout brands like Slack and Dropbox. These rare “unicorn” companies skew expectations, often to unrealistic heights. A founder, on the other hand, may be very happy to build a viable and profitable company that may eventually exit for a few hundred million dollars. Even that scenario represents a sort of outlier, though it’s not enough to capture the attention of a large VC firm.
+
+In addition to having to balance these different perspectives and opinions about what constitutes “winning” growth, there are many other factors that come into play. For instance, the market or vertical may be one that doesn’t grow as fast as other markets. Sometimes, it pays to be patient.
+
+## How to Grow – Multiple Paths to the Same Destination
+
+Just as there are different ways to define growth, there are different ways to create it. There’s no one-size-fits-all strategy that will work one-hundred percent of the time. The right approach depends on the company, the product, the market, the vertical, and a number of other influences. In the SaaS industry, there’s sort of a magic number that companies aim for: $100 million in ARR. This sweet spot is somewhat arbitrary, it’s also pretty universally recognized as an earmark of companies that are worth a billion dollars (or on their way to reaching that lofty goal).
+
+Christoph created a framework to help SaaS leaders get their heads around which path their company might take to earn a coveted spot in the $100 million ARR club. He uses animals to define the different combinations of ARPA (average revenue per account) and number of customers that will get a company to $100 million in ARR. Here’s a quick excerpt from his [initial blog post](https://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html) on the topic:
+
+To build a Web company with $100 million in annual revenues, you essentially need:
+
+*   \[The Elephant\] 1,000 enterprise customers paying you $100k+ per year each; or
+*   \[The Deer\] 10,000 medium-sized companies paying you $10k+ per year each; or
+*   \[The Rabbit\] 100,000 small businesses paying you $1k+ per year each; or
+*   \[The Mouse\] 1M consumers or “prosumers” paying you $100+ per year each (or, in the case of eCommerce businesses, 1M customers generating $100+ in contribution margin per year each); or
+*   \[The Fly\] 10M active consumers who you monetize at $10+ per year each by selling ads
+
+[![](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)](https://openviewpartners.com/wp-content/uploads/2018/07/five-ways-to-build-a-100-million-business.png)
+
+Christoph points out in his original post (and a [subsequent one](https://christophjanz.blogspot.com/2014/11/three-more-ways-to-build-100-million.html), which added three new categories to his original framework: the Blue Whale, Brontosaurus, and Microbe) that hunting each of these different “animals” requires a very different approach. You can’t hunt an elephant the same way you’d hunt a rabbit. (For the record, Christoph – who is a vegetarian – only uses the term _hunting_ figuratively).
+
+For each of these growth strategies, you need the right tools. “One of the biggest reasons why SaaS companies can’t find ways to grow beyond a certain scale is that they are hunting deer from an ACV perspective, but it takes elephant-type effort to acquire these customers,” Christoph explains. “I’ve seen many cases of companies that are in a situation where they have to apply field sales to sell a product either because the product is too complicated to sell over the phone, or because there isn’t enough online demand. The trouble is, if you’re not able to extract six figures from each customer, you’re not going to be able to build a profitable and scalable customer acquisition engine.”
+
+Bottom line: you need the math to work.
+
+* * *
+
+There really is more than one way to get from startup to $100 million in ARR; and how you get there depends a lot on your particular product, business model, market, and audience.
+
+Christoph currently has a number of fast-growing companies in his portfolio – Front, Automile, Algolia, Contentful, and Typeform – each one taking their own approach to growth. Outside of his own investments, he admires Slack and Dropbox, two companies that have seen astronomical growth using a bottom-up, [product led acquisition model](https://labs.openviewpartners.com/how-lucidchart-reached-10-million-users-on-a-shoestring-budget/). “It’s probably no coincidence that these two companies – which are maybe the two fastest-growing SaaS companies in recent history – both have a bottom-up, viral distribution element,” Christoph says. “It allows them to grow much faster while also being more capital efficient than traditional SaaS companies.”
+
+Whether you’re collecting elephants or mice as a way of growing your company, you’ll have a better shot at reaching your goals if you’re clear and strategic about it. You will be more successful if you understand the different paths to that elusive $100 million ARR, where your product fits in Christoph’s business-building framework, and how to recognize the signals that it’s time to start scaling.

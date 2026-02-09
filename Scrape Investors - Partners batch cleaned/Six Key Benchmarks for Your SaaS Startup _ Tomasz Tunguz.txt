@@ -1,0 +1,17 @@
+# Six Key Benchmarks for Your SaaS Startup
+
+One of the most frequent questions entrepreneurs ask me is how does their business compare to others? Benchmarking is a great tool, if you can get access to representative data. Pacific Crest and David Skok have released a fantastic survey benchmarking SaaS metrics for early and growth stage companies. The entire report is well worth [reading](http://www.forentrepreneurs.com/2013-saas-survey/). Below is my list of the six most important benchmarks and observations from that report.
+
+**Inside Sales Driven Companies Grow Fastest** Inside sales driven distribution companies grow about 40% faster than companies using field sales, web sales or channel, or about 37% revenue growth per year.
+
+**Price the Product Between $1k to $25k Annually to Optimize Growth** Companies with contract sizes of $1k to $25k grow the fastest, about 26% faster or 35% y/y. I suspect there are two reasons to support this pattern. First, purchases under $25k tend to require fewer approvals which decreases sales cycle. Second, these accounts can be closed by inside sales reps which are far less expensive than field sales. On the same sales investment, a startup may be able to hire three or four inside sales reps for each field sales rep.
+
+**Cost of Customer Acquisition is About 11 Months' of Revenue** The median startup spends about 92% of first year average contract value on the sale, implying an 11 month payback period on the CAC. An additional months' revenue is required to upsell a customer and about the same is required to close a renewal.
+
+**Upsells are a Secret to Growing the Business Twice as Fast** The top 50% of growers generate more upsell business than their slower growing competitors. The difference in growth rates becomes more pronounced as the business scales into the $15M+ in annual revenue range where upselling companies grow more than twice as fast. In the early days of the business, net new account growth is a priority for most businesses but the growth rate data and CAC data indicate that upselling existing customers is an important and underemphasized key to growth.
+
+**Sales commission as % of ACV 9%** I’ve written about [When to Hire Your First Sales Person](http://tomtunguz.com/when-to-hire-a-salesperson) and what a hypothetical compensation plan for sales people might look like. There I assumed the typical ACV/compensation ratio was about 4:1 but in practice that number is closer to 10:1.
+
+**Median Monthly Revenue Churn is 0.75%** Churn rates vary dramatically by product category and customer. SMBs churn with greater frequency than enterprises and marketing software has an intrinsically greater churn rate than accounting software, so the median may be misleading for particular categories. This means each year, the median business loses about 10% of its revenue to churning customers.
+
+Benchmarking is a great first order evaluation tool. It can answer the question of whether your startup is the ballpark of other companies. But it’s important to dig into the next step and understand where your startup’s variances exist from the median and why. It could be the sales compensation plan needs revision, or it could be that you’ve captured lightning in a bottle and invented a new sales model.

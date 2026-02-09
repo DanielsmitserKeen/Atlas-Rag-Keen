@@ -1,0 +1,91 @@
+# How Superhuman using leading indicators
+
+**Summary**
+
+_Superhuman struggled to reliably set and meet goals. But with “a clarifying metric”—aka, the right leading indicator—the team found a way to execute quickly and successfully. “It was a game-changer for our company,” says the founder. Here’s how they did it._
+
+* * *
+
+Imagine if you could find one critical success factor — a single metric that could be measured and tracked — that could galvanize your organization to achieve one clear Objective. While large organizations may not be able to settle on just one goal, start-ups often live and die by having a single-minded focus.
+
+In 2016, Superhuman was a startup of 14 people struggling to launch its first product, an application for email power users that superimposes a faster, more productive interface for Gmail. Founder and CEO [Rahul Vohra](https://www.linkedin.com/in/rahulvohra) was searching for the elusive “product/market fit”: a general state where you know that your efforts have created magic in the marketplace, something that venture capital leader [Marc Andreessen](https://www.forbes.com/profile/marc-andreessen/#2aca80bd57aa) famously defined as such:
+
+_"You can always feel product/market fit when it is happening. The customers are buying the product just as fast as you can make it — or usage is growing just as fast as you can add more servers. Money from customers is piling up in your company checking account. You’re hiring sales and customer support staff as fast as you can. Reporters are calling because they’ve heard about your hot new thing and they want to talk to you about it. You start getting entrepreneur of the year awards from Harvard Business School. Investment bankers are staking out your house._"
+
+Those, however, are outcomes, not Objectives, and none of them were happening for the San Francisco-based start-up. “In the beginning, I wouldn’t say that we were well run,” Vohra says. “We struggled to have a cadence for what we were building.” Worse, the company’s [value statements](https://www.whatmatters.com/faqs/how-to-find-company-why-purpose-mission) — such as “create delight” and “achieve remarkable quality” — were failing to create focus for employees.
+
+By themselves, those values were too vague to be of much use. “We did weekly or bi-weekly sprints and those worked fine for short-term planning,” Vohra says. “But when it came to goals — such as this quarter we’ll do this, or in six months, we’ll do that — we were unable to reliably set and meet those goals.”
+
+![rahul vohra ceo of superhuman, rahul vohra, superhuman](https://images.ctfassets.net/mu244eycyvsr/OrAp2TUYRbNS1U5mnaIwp/1a6ccc0b9902f849accad84a0baebeb0/okrs-superhuman-magic-metric-2.jpg?w=1600&q=50&fm=webp)
+
+## Looking for a leading indicator
+
+For a solution to this lack of discipline, Vohra turned to the system of Objectives and Key Results (OKRs). “I stumbled upon information on OKRs and for me, it was a sufficiently compelling and [articulate description of a process](https://www.whatmatters.com/okrs-explained/okrs-strategy-and-execution) that I thought we could follow,” he says.
+
+It took the team three or four quarters to really get the hang of using OKRs, to the point where they accelerated development. Yet by the summer of 2017, the company still hadn’t launched its product after three years of coding.
+
+Things only started to turn around when Vohra discovered what he calls “a clarifying metric.” Turns out, product/market fit was a [lagging indicator](https://www.whatmatters.com/okrs-explained/leading-lagging-key-results). What Superhuman needed was a leading indicator. Vohra was inspired by Sean Ellis, an entrepreneur best known for his early work with DropBox, Eventbrite and LogMeIn.
+
+What Ellis did was turn to users, [asking them, simply](https://www.cleverism.com/product-market-fit-sean-ellis-test/): “How would you feel if you could no longer use the product?” The key was to measure and track how many of them answered “very disappointed.”
+
+Ellis surveyed almost 100 start-ups and found a magic threshold: 40 percent. Companies that failed to achieve product/market fit came in below that number, while those that did came in higher. For instance, Slack reached 51 percent and became a giant growth story.
+
+Vohra unleashed this survey question on the beta users of Superhuman, and the number that came back was 22 percent. This wasn’t terrible. After all, more than 1 in 5 users surveyed were saying that they loved and needed the product. “Our team now had a single number to rally around instead of abstract ideas,” he says.
+
+Yet it wasn’t enough to get over that threshold — 40 percent reporting that it was indispensable, the OKR that would make the company sink or swim. Vohra considered this metric to be more on target than [a net promoter score (NPS)](https://www.whatmatters.com/faqs/customer-service-okrs-examples), because it was personal, not just asking whether you would recommend the product to others.
+
+![rahul vohra ceo of superhuman, rahul vohra superhuman okrs, balloons that spell "yay"](https://images.ctfassets.net/mu244eycyvsr/5asgLuSMGiVNFwVZncOYzy/dd4eae8877587f4973a736673247d4fe/superhuman-composite-1.jpg?w=1600&q=50&fm=webp)
+
+## Targeting high expectations
+
+Vohra went deeper into the data. By segmenting the responses — putting more casual email users in one bucket and creating separate categories for job types — Vohra isolated a group he called HXC, for the “high expectations customer.” These are the folks [using email for sales](https://www.whatmatters.com/faqs/great-sales-okrs-examples), business development, and other mission-critical functions.
+
+Of those, 32 percent said they’d be “very disappointed” if they could no longer use Superhuman. That still didn’t meet the threshold for product/market fit, but it was getting tantalizingly close. When asked what the key benefit was, these super-users reported “speed.” Many super-users had the goal of getting through hundreds of emails each day and achieving “inbox zero.”
+
+The survey also showed that the Number 1 complaint about the product was “lack of a mobile app.” The start-up was assuming that email power users were desktop users, but that assumption turned out to be wrong.
+
+By introducing a Superhuman mobile app and optimizing the product around speed, the golden OKR jumped to 58 percent. By this point, users had been joining long wait lists to use the product, as raves became the norm. “No app has changed my business life like the week I’ve now spent with @Superhuman,” superuser JP Schust commented. “It’s impossible to overstate the value this has brought to my ability to deal with email and focus.”
+
+In short, many of the product/market fit results highlighted by Marc Andreesen are coming true, leading to another $33 million in venture capital investment for Superhuman, at a far higher valuation.
+
+## Powering through a privacy crisis
+
+However, in July 2019, a crisis gripped Superhuman. Trade journals were reporting that those who receive email from a Superhuman user are being tracked using on-screen pixels as to what they are doing online — known as read statuses — and even where they were located when they opened their email.
+
+The uproar threatened to derail Superhuman’s progress, because location tracking has become controversial throughout the industry as a potential privacy violation.
+
+Vohra responded immediately both in the press and on the company blog, apologizing and promising to change the company’s privacy practices, but without doing away entirely with pixel tracking and read statuses, which have become essential for super-users.
+
+Effective immediately, [he wrote](https://blog.superhuman.com/read-statuses-bdf0cc34b6a5), Superhuman will stop tracking location, will delete existing location information, and will turn off read receipts by default. “I have come to understand that there are indeed nightmare scenarios involving location tracking,” Vohra said, adding later: “I wholeheartedly apologize for not thinking through this more fully.”
+
+Vohra won praise for his quick and decisive response, making pixel tracking an opt-in feature while not caving to the pressure in the press and retaining read status information.
+
+![two employees at superhuman showing off swag](https://images.ctfassets.net/mu244eycyvsr/5LoPbnYpxA8uk0c5KjrvcR/8078662a7c9a2de9bacf411e6c488540/okrs-superhuman-magic-metric-3.jpg?w=1600&q=50&fm=webp)
+
+## OKRs for the future product growth
+
+By now, the company has expanded its use of OKRs beyond the 40 percent “very disappointed” Key Result for super-users who are asked what would happen if they lost access. “We’re still tracking it,” Vohra says, “but the plan is to make it into more of a health metric going forward.”
+
+The firm is now focused on using OKRs to help scale the company and to [turn core values into Objectives](https://www.whatmatters.com/okrs-explained/okrs-conflict-resolution), such as:
+
+kr1
+
+Grow to $X annual recurring revenue by the end of the quarter from current: $Y.
+
+kr2
+
+Mobile: improve sentiment to 75% from current 69%.
+
+kr3
+
+Desktop: improve sentiment to 92% from current 89%.
+
+Superhuman now has 35 employees, and its use of OKRs has been flexible enough to help drive new phases of growth, while also aiming for individuals to achieve more personal objectives.
+
+“As we bring on more seasoned managers,” Vohra says, “we’ll also bring on the discipline required to run an individual OKR process.”
+
+Finding the magic metric for user passion turned out to be the key to the company’s current success. “The use of OKRs has been a game-changer for our company,” Vohra says. The waiting list for Superhuman grew to 450,000 people, and social media is abuzz with potential users seeking referrals to jump the queue. That’s when you know you’ve achieved the elusive product/market fit.
+
+![siyarin poon celebrating her 1000th onboarding at superhuman](https://images.ctfassets.net/mu244eycyvsr/4vtE2MQauR9aTYIHq4qqaV/f66422046fc58c11de60a34b141a150b/okrs-superhuman-magic-metric-4.jpg?w=1600&q=50&fm=webp)
+
+## Where can I get more information?

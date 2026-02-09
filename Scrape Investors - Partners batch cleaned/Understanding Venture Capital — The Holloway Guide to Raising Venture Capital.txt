@@ -1,0 +1,418 @@
+# Understanding Venture Capital — The Holloway Guide to Raising Venture Capital
+
+When it comes to raising venture capital for a startup, many founders find themselves grasping at all the terms and language that get thrown around. What actually _is_ a startup? Heck, what’s a founder? How is venture capital different from other kinds of investment? Who are venture capitalists? How do they make money? If you’ve ever nodded along to a conversation, hoping to get from context a definition of a term you think you should already know, this section is for you. Experienced entrepreneurs may wish to skip it.
+
+### What Is Venture Capital?
+
+Venture capital is a kind of investment raised by startups—typically by startup founders—to fund growth. Now let’s break that down.
+
+A **startup** is an emerging company, typically private, that aspires to grow quickly and substantially in size and revenue.[\*](http://www.paulgraham.com/growth.html) Once a company is established in the market and has been successful for a while, it usually stops being called a startup.
+
+​confusion​ The term _startup_ does not have legal significance, and in fact, there is no formal, consistent definition for what a startup is.
+
+Startups are not the same as small businesses. Small businesses, like coffee shops or plumbing businesses, typically intend to grow slowly and organically, while relying much less on investment capital and equity compensation. Distinguished startup investor [Paul Graham](https://en.wikipedia.org/wiki/Paul_Graham_\(programmer\)) has emphasized that it’s best to think of a startup as any early-stage company intending to grow quickly.[\*](http://www.paulgraham.com/growth.html) Similarly, [The Kauffman Foundation](https://en.wikipedia.org/wiki/Ewing_Marion_Kauffman_Foundation), devoted to encouraging entrepreneurship, categorizes startups as “innovation-driven enterprises” that require innovation in “product, process, or business model,” whereas small and medium-sized enterprises (SMEs) “tend to be individual or family owned with little outside investment.”[\*](https://www.kauffman.org/entrepreneurship/reports/a-tale-of-two-entrepreneurs-understanding-differences-in-the-types-of-entrepreneurship-in-the-economy/)
+
+​Definition​ An **entrepreneur** is an individual who starts a company, and a **founder** is a type of entrepreneur whose company is a startup. **Solo founders** start their companies alone, whereas **co-founders** share the founder status between two or more people. Many founders also run their companies in at least the first years.[\*](https://www.cbinsights.com/research/liquidation-preferences-senior-preference/)
+
+​confusion​ Occasionally individuals describe themselves as entrepreneurs—but not as founders—if they have key roles at a company they did not, in fact, start. Some would call these entrepreneurs “early employees” instead.
+
+In almost every case, the term _founder_ is used to describe the people who started, or _founded_, a company. It is rare but sometimes possible for a senior person to negotiate a co-founder title when joining a company after it’s founded or to be given a co-founder title if they contributed profoundly to a company’s mission or development early on.
+
+Unlock expert knowledge.
+
+Learn in depth. Get instant, lifetime access to the entire book. Plus online resources and future updates.
+
+[](https://www.holloway.com/g/venture-capital/about)
+
+​Definition​ **Fundraising (or financing)** is the process of seeking capital to build or scale a business. Forms of fundraising include selling shares in a business, loans, [initial coin offerings](https://www.cnbc.com/2018/07/13/initial-coin-offering-ico-what-are-they-how-do-they-work.html), and selling securities that convert into shares.
+
+While public companies can finance their operations through revenue or by selling equity in the public markets, private companies need to bring in cash in other ways. Typically, it is the startup founder (or one of the founders) who does the work of securing financing for the company. In the case of raising venture capital, this broadly means developing a business plan, researching and meeting with investors, and negotiating a deal.
+
+​Definition​ **Venture capital** is a form of financing that individual investors or investment firms provide to early-stage companies that appear capable of growing quickly and commanding significant market share. This financing is generally offered in exchange for equity in the company. _Venture_ refers to the risky nature of investing in early-stage companies—typically startups—with unproven businesses. Investors who provide this financing are called **venture capitalists (or VCs)**.
+
+​confusion​ The term _VC_ is often used to refer to venture capital firms, individual venture capitalists, and the broad category of investment into risky businesses.
+
+Venture capital is, by its nature, a dance between the interests of founders and investors. Venture capitalists aim for the capital (financial assets or money) they invest in a startup to dramatically increase in value over time, as the company grows. That value will be paid out to investors, founders, employees, and others who hold stock in the company in the event of some kind of _exit_. To maximize the chances of an increase in the value of a company’s stock and in a successful exit, venture capitalists often provide mentorship, connections, and more to the founders they fund.
+
+On the other hand, the venture capital business model doesn’t care if your company fails—it relies, as we’ll explain, on the massive success of [only a few companies](https://www.holloway.com/g/venture-capital/sections/exits-and-returns). Venture capital pushes companies to grow very big, very quickly, and venture capitalists can pressure or even force founders into making decisions for their businesses that serve that growth over all else. No matter which [financing structure](https://www.holloway.com/g/venture-capital/sections/choosing-a-financing-structure) is used in an investment deal, venture capitalists are always purchasing part of a company. Founders want to hold on to as much ownership as they can—because more equity usually (though [not always](https://www.holloway.com/g/venture-capital/sections/how-vcs-can-control-your-company)) means more control—while raising sufficient money for their company to achieve desired growth.
+
+Where investors and founders are usually aligned is in building an _innovative_ company. Startups seek to provide something—like a product or technology—that is new to a market and has the potential to transform that market. Different investment mechanisms evolved to serve different purposes, and the venture capital firm exists to finance truly innovative companies that need the capital to experiment with a new idea.
+
+These innovative companies are rarely obvious to spot early on and it takes a highly skilled VC (or a very lucky one) to do so. In 2007, Logan Green, the founder of Lyft, was vaguely excited about carpooling—so much so that he got beaten up in New York for commenting on five men crowding into a Mercedes late at night.[\*](https://techcrunch.com/2014/08/29/6000-words-about-a-pink-mustache/) Still, it wasn’t until 2010 that either Lyft (called Zimride at the time) or Uber (UberCab back then) raised a $1M+ round.[\*](https://techcrunch.com/2010/08/23/zimride-funding/)[\*](https://venturebeat.com/business/ubercab-funding/) By that point, Zimride had gained traction with carpoolers on university campuses, and UberCab was targeting San Franciscans tired of notoriously unreliable taxis—neither had yet launched the peer-to-peer ridesharing services used today. While the success of these companies looks obvious in retrospect, only a small handful of investors took a risk on either of these companies early on.
+
+#### Figure: Historical Monthly U.S. Venture and Angel Funding
+
+_Source: Crunchbase[\*](https://www.crunchbase.com/)_
+
+### VC Firms and Funds
+
+​Definition​ A **venture capital firm (VC firm or venture firm)** is a collection of legal entities formed for the purpose of generating substantial returns for its investors by investing in high-risk companies that have yet to prove that their business models work and are sustainable in the marketplace.
+
+​Definition​ A **venture capital fund (or venture fund)** is a legal entity, created by—but separate from—a VC firm, that pools money from outside investors and directs investments to companies seeking capital. Venture capital funds are typically structured as partnerships.[\*](https://abovethelaw.com/2017/06/how-venture-capital-funds-work/)
+
+It is helpful to understand venture firms as institutional investors to differentiate them from other kinds of startup investors, such as angels, and when contrasting institutional venture rounds from angel rounds.
+
+​confusion​ Venture capital firms and venture capital funds are not the same thing. A venture firm is the perpetual legal entity under which many individual venture funds can be raised and closed over time. For example, [Hunter Walk](https://twitter.com/hunterwalk) and [Satya Patel](https://twitter.com/satyap) run Homebrew, their venture firm. In a post on the Homebrew blog, Hunter and Satya announce that they’ve raised $50M for “Homebrew Fund II,” the second venture fund raised and managed by Homebrew.
+
+​controversy​ Venture capital firms and institutional investors also are not technically the same thing, although many refer to venture capital firms as institutional investors. Both make investments from pooled resources, but institutional investors typically act as intermediaries, rather than investing directly in companies. For example, an institutional investor may become a limited partner in a venture capital firm.[\*](https://www.bvca.co.uk/Our-Industry/Institutional-Investors) Traditional examples of institutional investors include investment banks, endowments, hedge funds, and insurance companies.[\*](https://www.sciencedirect.com/topics/social-sciences/institutional-investor)
+
+A new VC fund is kind of like a startup, just one that writes checks instead of code.Hunter Walk and Satya Patel, Partners, Homebrew[\*](https://homebrewvc.tumblr.com/post/111578394863/announcing-homebrew-ii-now-back-to-work)
+
+#### Stage of Investment
+
+Venture capital firms and funds are semi-formally divided into stages of investment that reflect the maturity of the businesses they invest in. Many VC firms focus on particular stages, and a few focus on many stages. The types of VC firms are inextricably linked to the terminology of rounds.
+
+​important​ Keep in mind that none of these terms are standardized in any legal or universally recognized way.
+
+Over time, venture firms may invest in startups outside their typical stage range. A firm could be in the seed stage for a few years, investing in seed-stage companies, but later, they might raise a larger fund to invest in later-stage companies. NextView Ventures provides data on how investment stages shifted from 2002 to 2016.[\*](https://nextview.vc/wp-content/uploads/2016/01/Screen-Shot-2016-01-25-at-4.21.35-PM.png)
+
+Additionally, many firms may continue to invest in a company that has performed well over time, even if that company has matured outside the VC fund’s typical range.
+
+*   **Pre-seed and seed stage investments.** The term _pre-seed_ is relatively new,[\*](https://nextview.vc/blog/what-are-pre-seed-rounds/) likely coming into use around 2015.[\*](https://www.axios.com/2017/12/15/the-rise-of-pre-seed-venture-capital-1513305959)
+    
+    Pre-seed firms invest in _pre-product_ companies that do not yet have a product or service ready for client or consumer use. These companies might have a lightweight prototype, or nothing more than an idea on a napkin. Pre-seed investors write checks ranging from $50 to $500K.
+    
+    ​confusion​ Not everyone has embraced the _pre-seed_ term, which some consider overly specific and constraining. Until recently, a company’s earliest venture capital investors were simply called _seed stage_ firms. Some firms that consider themselves seed-stage will invest pre-product, all the way up to the last check before a Series A round.
+    
+*   **Early stage investments.** Some firms that call themselves _early stage_ will invest all the way from pre-seed to Series A, while others will only do seed-stage deals.
+    
+    ​important​ If a firm describes itself as early stage, it’s worth asking how many deals the investors have done in pre-seed, seed, and Series A in the last year, to get an idea of where their sweet spot is.
+    
+*   **Mid-stage investments.** These firms invest at or right after a company reaches product-market fit, which is usually around Series A or Series B rounds.
+    
+*   **Late stage or growth stage investments.** These firms invest in companies that have reached product-market fit. Companies usually spend the money they raise at this stage to help them get to IPO.
+    
+
+#### Type of Investment
+
+​Definition​ **Generalist firms**, **thematic firms**, and **thesis-driven firms** are types of venture capital firms that differ in how they choose companies in which to invest. Generalist firms invest in companies in almost any sector (healthcare, FinTech, automotive, et cetera) or business (data aggregation, human computer interaction, marketplaces, et cetera) within the stage the firm typically invests in. Thematic firms invest in companies operating in particular sectors or working on particular types of problems.[\*](https://venturebeat.com/entrepreneur/the-rise-of-the-thematic-vc-and-what-it-means-for-founders/) Thesis-driven firms are a narrower version of thematic firms, investing only in companies that fit a hypothesis about where an area of focus is heading.[\*](https://avc.com/2009/11/thematic-vs-thesis-driven-investing/)
+
+​confusion​ Classifying venture capital firms according to these three types isn’t always straightforward, and firms can drift between types—particularly between thematic and thesis driven—over time.
+
+Examples of thematic firms are [Psilos](http://psilos.com/), which invests in healthcare companies; [The Water Council](https://thewatercouncil.com/), which focuses on clean-water based opportunities; [Kapor Capital](https://www.kaporcapital.com/), which invests in tech companies serving low-income communities and communities of color; and [Backstage Capital](https://techcrunch.com/2018/05/07/backstage-capital/), which funds companies founded by entrepreneurs from underrepresented backgrounds. An example of a thesis-driven firm is [Union Square Ventures](https://www.usv.com/), whose [thesis as of April 2018](https://www.usv.com/writing/2018/04/usv-thesis-3-0/) is “USV backs trusted brands that broaden access to knowledge, capital, and well-being by leveraging networks, platforms, and protocols.”
+
+Some funds take a geographic focus, like [Chicago Ventures](https://chicagoventures.com/), which focuses on tech companies in Chicago and the Central region of the U.S., [Drive Capital](https://www.drivecapital.com/), which focuses on the Midwest; and Steve Case’s seed fund [Rise of the Rest](https://revolution.com/entity/rotr/), which focuses on companies outside the “big three” VC markets of Silicon Valley, New York, and Boston.
+
+#### Figure: The Geography of U.S. Venture Capital Investment
+
+_Source: National Venture Capital Association\*_
+
+#### Roles at a VC Firm
+
+In the process of raising venture capital, you’ll interact with a lot of different people at VC firms. When you stalk them on LinkedIn or see a title in their email signature you don’t recognize, you can revisit this section to better understand what that individual is likely responsible for at their firm. This will help you know what kind of relationship you might have with them and what questions they can answer for you.
+
+Typically, some individuals have the ability to make an investment unilaterally (that is, write a check), while others might need consent or consensus among senior partners before making a deal. Some staff may focus only on sourcing deals, analysis, operations, or other tasks besides investment decisions.
+
+Most venture capital firms have some form of hierarchy, with associates and analysts at the entry level and managing directors and partners near the top, but not all of them follow this formula. What’s important to know is that some people can make a decision to invest, and others cannot. When you’re starting to fundraise, you should try to get a meeting with someone who has the authority to make an investing decision. Some venture firms prefer to observe a process where every company, unless it’s exploding with growth, meets with an associate or principal before a decision-maker.
+
+​important​ Do not assume that structures and titles used at one firm will be the same at another, even if they seem similar. Roles, titles, and decision processes vary significantly. The list that follows gives an indication of common meanings of these titles, but it’s generally wise to ask a given individual about their role and confirm whether they can invest unilaterally. Given the ego involved in titles, some investors may inflate their influence. The best way to handle this is to ask investors the following:
+
+*   Can you walk me through the process of how a deal gets done at your firm?
+    
+*   Do individuals at the firm have the ability to write checks unilaterally? If so, who has that ability?
+    
+*   If not, are decisions made by majority vote or unanimous approval? Who has the power to vote in either circumstance?
+    
+
+Be wary of investors who get prickly when you go down this line of questioning. It’s perfectly reasonable for a founder to expect to get answers to these questions.
+
+​caution​ Although awareness of seniority is key to understanding the operation of VC firms, watch out for any tendency to devalue more junior partners. It is both good karma and good business to treat everyone you work with, including junior associates, with respect. As a founder, doing otherwise can be rude and is almost certainly not in your own interest. Every person at a firm can have influence, and a more junior partner may have more time to give you as they search for the risk that will propel their own career. On the other hand, despite being unable to actually execute any deals and having the primary job of collecting information, some junior partners or lower-level individuals may present themselves as having more autonomy than they do, which can be maddening to deal with as a founder.
+
+##### Top-Level Roles
+
+*   **Managing directors (MDs)** and **general partners (GPs).** Individuals with these titles are almost always the ones who make the final decisions on investments and sit on boards. As a rule, no firm will have managing director _and_ general partner titles. A GP title carries formal legal liability, while an MD title does not. Many firms, in lieu of the legal distinction around the GP title, have opted to simply use the title _partner_.
+    
+*   **Partners.** The partner title has a lot of variability. In some firms, especially those that forego using managing director or general partner titles, the partners are the most senior employees who have the authority to write checks. On the other hand, some firms have eliminated hierarchy from their titles and refer to all employees as partners. In between, some firms use the partner title more broadly to describe individuals with influence over decision-making but who are not necessarily able to write a check.
+    
+
+##### Mid-Level Roles
+
+*   **Principals and directors.** Individuals holding one of these titles will rarely be able to make an investment decision without approval from a more senior person at the firm. In some cases, associates may be promoted to principal before being promoted to partner. While they may not be able to write checks, individuals with these titles wield more influence on a deal than analysts or associates.
+
+##### Lower-Level Roles
+
+*   **Associates and analysts.** These persons generally take on a wide range of supportive functions at a venture firm.[\*](https://bothsidesofthetable.com/want-to-understand-what-associates-at-vc-firms-do-ad2b431bb9f9) Many associates are hired out of top MBA programs, but some firms prefer to hire individuals before they’ve gone to business school. Associates may stay at a firm for two to three years and then go on to work at a portfolio company, start a business, or get their MBA, and in some cases, they’re promoted within the firm.\*
+
+##### Other Roles
+
+*   **Platform.** Many venture capital firms employ a variety of individuals with specific subject matter expertise, in an effort to add value beyond capital to portfolio companies. [Stephanie Manning Cohen](https://twitter.com/steph_manning07), the director of platform at Lerer Hippeau, lists talent, business development, content, marketing and communications, community and network, operations, and events as six of the common buckets that platform roles typically fall into.
+*   **Venture partners and operating partners.** At some firms, venture partners and operating partners have a similar standing to those of principals and directors, with the _venture partner_ title acting similarly to a _junior partner_ title. In other cases, venture partners may be experienced angels or entrepreneurs who work part-time for the firm, similar to EIRs.
+*   **Entrepreneurs in residence (EIRs).** Every now and then, a venture capital firm will extend an offer to an entrepreneur to work out of the firm’s offices while they develop their next idea. Usually, there’s some form of a handshake agreement that the founder will let the venture firm invest in their company, should they decide to raise. Venture firms sometimes ask EIRs for their opinions on potential investments.
+*   **Scouts.** In 2012, [Sarah Lacy](https://twitter.com/sarahcuda) at Pando broke a story about Sequoia Capital giving cash to well-connected individuals, called _scouts_, via a [limited liability company](https://www.investopedia.com/terms/l/llc.asp) that doesn’t appear to be affiliated with the firm.[\*](https://pandodaily.com/2012/05/04/sequoia-confirms-existence-of-stealth-scout-program-whos-next/) Most scouts don’t have enough money to invest in companies on their own; otherwise, they probably would do just that. By 2017, _The Wall Street Journal_ reported that Accel Partners, CRV, First Round Capital, Flybridge Capital Partners, Founders Fund, Index Ventures, Lightspeed Venture Partners, Social Capital, and Spark Capital all had scout programs up and running.[\*](https://www.wsj.com/articles/scout-programs-spread-in-silicon-valley-1500377402)
+*   **Student VCs.** A small group of VC firms have begun hiring students on a part-time basis to source deals on college campuses, and some have even started student-focused funds. Prominent student-run VC firms are First Round Capital’s [Dorm Room Fund](https://www.dormroomfund.com/) and General Catalyst’s [Rough Draft Ventures](https://www.roughdraft.vc/).[\*](https://medium.com/the-mission/student-venture-capital-programs-47cf3537b2fe)
+
+#### Limited Partners: Investors’ Investors
+
+In many cases, individual partners at venture firms invest their own money into each fund. All VC firms require senior members to invest their own money into funds they raise and eventually deploy into companies. In some funds, the total amount invested by the partners can be as small as 1%, but you rarely see more than 5%. Most of the money a VC firm invests has itself been raised by investors outside the firm, called limited partners. (It really is [turtles all the way down](https://en.wikipedia.org/wiki/Turtles_all_the_way_down).)
+
+​Definition​ **Limited partners (LPs)** provide capital for venture firms, similarly to the way VCs fund startups—they invest in companies in exchange for equity (or part ownership of the business). The vast majority of money a VC invests is money raised from LPs, who often manage sums in the billions. LPs invest in a range of different [asset classes](https://www.investopedia.com/terms/a/assetclasses.asp), each with a different profile of risk and expected returns.
+
+Venture capital is one of the riskiest asset classes for an LP, which means the right investment into a VC firm can generate the greatest returns for LPs. LPs only invest a small portion of the money they manage into venture capital firms. For example, Harvard’s endowment was worth $39.2B in 2018, and it may invest a small percentage of that into a number of different venture firms, say, 5–10%.[\*](https://www.nytimes.com/2018/09/28/business/harvard-endowment-gains.html) But the word _small_ can be misleading, given that 5% of a $39B endowment is almost $2B.
+
+​Definition​ **Limited partnership agreements (limited partner agreements or LPAs)** are contracts that investors sign with venture capital firms to become limited partners. These agreements outline how the relationship will operate, including how the capital will be invested and distributed back to the partners of the firm.\*
+
+Some LPAs or side letters with LPs restrict investors from investing in controversial industries,\* such as recreational cannabis or pornography.
+
+​Definition​ **Anchor LPs** are limited partners that invest early into a venture fund, set the terms of the investment, and in some cases get preferential terms.
+
+A venture firm’s LPs can be any of the following:
+
+*   **Family offices.** These are money managers employed by wealthy individuals to ensure their money is safe and growing.
+    
+*   **Fund of funds.** These LPs take money from other LPs and invest it in multiple venture capital funds.
+    
+*   **Insurance companies.** With large numbers of individuals or companies paying premiums into an insurance company, these companies can quickly accumulate vast sums of cash that they want to make sure grow.
+    
+*   **Public or corporate pension funds.** Retirement funds for government institutions and companies.
+    
+*   **Sovereign wealth funds.** Government institutions that invest a country’s surplus capital.
+    
+*   **University and non-profit endowments.** Universities and non-profits collect and hold donations in endowments. The institution that’s set up to manage that endowment is tasked with making sure the money grows at least beyond the rate of inflation.
+    
+*   **Wealthy or high-net-worth individuals (HNWIs).** These are individual investors who are investing their own money.
+    
+
+​caution​ In 2018, many founders—especially those with SoftBank as an investor—found themselves in an ugly spot in the wake of the murder of Saudi journalist and _Washington Post_ columnist Jamal Khashoggi when they realized that Public Investment Fund of Saudi Arabia was one of their investor’s LPs.[\*](https://techcrunch.com/2019/03/06/softbank-vision-fund-asia-deals/) Unsurprisingly, in the same month as the Khashoggi assassination, Fred Wilson penned [a post](https://avc.com/2018/10/who-are-my-investors/) on how VCs should question whether it’s right to take money from certain LPs.
+
+### Exits and Returns
+
+When founders and investors disagree about scale or speed of growth, it often comes down to what VCs expect in returns (and need to deliver to their LPs), and how they chase them. In this section, we’ll explain how VCs generate returns through exits. To learn how VCs measure returns before and after a company’s stock has become liquid, visit [Appendix B](https://www.holloway.com/g/venture-capital/sections/appendix-b-returns-management-fees-and-carried-interest).
+
+​Definition​ In finance, a **return** is the profit an investor receives from an investment. Returns can be expressed as absolute sums (“the fund returned $30M to investors”), multiples of the original investment (“the investment returned 3X”), or as percentages (“the fund boasts a 300% return”).
+
+Limited partners expect venture capital firms to generate net IRR (internal rate of return) in the neighborhood of 20% annually—no small task when you’re talking about tens or hundreds of millions or even billions of dollars. Venture capital funds aspire to generate 3X net IRR. Most firms end up in the 2X category, 5X is the breakpoint for a top-tier fund, and 10X is exceptional (and rarely repeats in the next fund).
+
+So how do venture capital firms generate these kinds of numbers? Through liquidity events.
+
+​Definition​ **Liquidity events (or liquidation events)**, also known as **exits**, convert equity held in a company into cash or freely tradable public company stock. Liquidity events are called exits because the conversion of ownership stock into cash is an “exit strategy” for owners. Liquidity events include when a company is acquired by another company, begins trading its stock on the public markets in an IPO, or if the company discontinues or shuts down, resulting in a sale of “substantially all”[\*](https://corpgov.law.harvard.edu/2011/10/19/what-constitutes-a-sale-of-substantially-all-assets/) of the assets of a company.
+
+There are three types of liquidity events, all of which are essential to the venture capital business model:
+
+​Definition​ A **merger or acquisition event (M&A event or M&A)** takes place when two companies combine their assets into a single new company or one of the existing companies. The legal distinction between mergers and other types of acquisitions depends on the way the transaction is structured. An M&A event allows a company’s shareholders to cash out some or all of their shares in exchange for cash or equity in the acquiring company.
+
+​confusion​ Many people use the terms _merger_ and _acquisition_ interchangeably because the details that distinguish them can be complex and technical. However, they are [distinct legal concepts](https://pitchbook.com/news/articles/ma-101-the-difference-between-mergers-and-acquisitions) and financial transactions. _Acquisition_ is the more expansive term, encompassing asset acquisitions, stock acquisitions, and mergers. _Mergers_ are a form of acquisition in which one company is legally collapsed into another.
+
+​Definition​ An **initial public offering (IPO)** is the first sale of a company’s stock to the public where the sale is registered with the SEC, specifies an initial trading price for the stock, and is generally financed by one or more investment banks.[\*](https://www.sec.gov/files/ipo-investorbulletin.pdf) An IPO is not the only way for a company to first sell its stock publicly, but it is the most common.\*
+
+After an IPO or other form of public offering, a company is referred to as a _public company_, as it is traded on open exchanges where anyone can use a broker to purchase shares of that company. Before a public offering, a company is referred to as a _private company_, as the company controls who is and isn’t able to purchase shares of the company.
+
+​Definition​ A **secondary sale (or secondary)** is when a shareholder in a private company sells some or all of their stock to a third party outside the context of an M&A event. Secondaries are common at late-stage startups as investors seek liquidity but do not want to wait for an M&A or IPO. The term _secondary_ can also be used to refer to a **secondary offering**, which is an additional issuance of stock to the public, via either an existing large shareholder selling their shares or the creation of new stock for issuance after an IPO has taken place.
+
+#### Why VCs Seek Outliers
+
+Silicon Valley is a system for running experiments. It’s the nature of experiments that some fail—the key is for the ones that work to really really work.Benedict Evans, Partner, Andreessen Horowitz[\*](https://twitter.com/BenedictEvans/status/1008038770396942336)
+
+Venture capitalists take risks on a lot of untested companies because the venture capital business model depends on the extravagant success of a small number of those companies. Most of a firm’s investments are expected to “fail”—that is, not return money to the investors—because the success of a single company can make up for the risks that don’t pay out. Companies that make up that small number are called _outliers_.
+
+LPs are looking to get net 3X their original investment back from a venture capital fund, so outliers must generate enough capital to return 1X+ the original sum of the entire fund of each of their investors. Due to their ability to produce a return equal to or greater than the sum of a whole fund, investors also call these outliers _fund returners_.
+
+There’s one description out there of the venture capital business model that a lot of people take as gospel:
+
+…\[We\] expect to lose our entire investment on 1/3 of our investments, we expect to get our money back (or maybe make a small return) on 1/3 of our investments, and we expect to generate the bulk of our returns on 1/3 of our investments.Fred Wilson, Partner, Union Square Ventures[\*](https://www.usv.com/writing/2007/11/failure-rates-in-early-stage-venture-deals/)
+
+However, in 2014, [Seth Levine](https://twitter.com/sether) of Foundry Group shared data from Correlation Ventures that told a different story:
+
+…a full 65% of financings fail to return 1X capital. And perhaps more interestingly, only 4% produce a return of 10X or more and only 10% produce a return of 5X or more.Seth Levine, Managing Director, Foundry Group[\*](https://www.sethlevine.com/archives/2014/08/venture-outcomes-are-even-more-skewed-than-you-think.html)
+
+Returning a fund once, let alone five or ten times, is no easy task, and the challenge of doing so only increases with a fund’s size. For example, Steve Anderson’s Baseline Ventures raised a combined $70M for its first three funds. Anderson invested $250K into Instagram and owned 12% when Facebook bought the company for $1B, valuing Anderson’s shares at $120M, enough to return nearly 2X the value of his first three funds.[\*](https://www.forbes.com/sites/ryanmac/2016/03/23/steve-anderson-baseline-ventures-instagram-venture-capital-raver) However, had Anderson’s fund been a $250M fund, the $120M from Instagram wouldn’t even get the fund to break even on their LPs’ investments.
+
+Much of the math around venture capital fund returns comes down to ownership percentage. With 10% ownership, a $250M fund needs a company to exit for $2.5B to return the fund once, but with a 20% stake, the fund needs the company to exit for half of that. When venture capitalists talk about ownership targets, they’re talking about reducing the hurdles to getting a meaningful return out of an acquisition or IPO.
+
+​important​ Given the variance in fund sizes, it’s not necessary for every company to generate a $1B or greater exit for their investors. But most of the bigger funds _do_ need these $1B+ exits to make their business model work.
+
+The National Venture Capital Association’s 2018 Yearbook, one of the most comprehensive annual reports on the venture capital asset class, reported that there are 1,047 venture capital firms in existence.[\*](https://nvca.org/pressreleases/latest-nvca-yearbook-highlights-record-levels-reached-u-s-venture-ecosystem-2018/) But according to CB Insights, there are only ~363 companies with valuations over $1B[\*](https://www.cbinsights.com/research-unicorn-companies) (the so-called [unicorns](https://techcrunch.com/2013/11/02/welcome-to-the-unicorn-club/)).
+
+The highly uneven distribution of venture capital returns, where most returns come from a _tiny_ number of companies, is a [power law](https://en.wikipedia.org/wiki/Power_law). According to the NVCA Yearbook, more than 8,300 companies raised venture capital in 2018, and only ~1900 are capable of returning funds for more than 1,000 venture firms. The power law that governs returns in venture capital gets a lot of attention, and this is a simple explanation of the complicated math and economics involved. (If you’re interested in going _deep_ on power laws, we highly recommend you read Jerry Neumann’s “[Power Laws in Venture](https://reactionwheel.net/2015/06/power-laws-in-venture.html).”)
+
+So if venture capital as a business depends so much on outliers, investors must be geniuses at finding hugely successful companies, right? [Not so much](https://medium.com/ulu-ventures/successful-vcs-need-at-least-one-outlier-to-have-a-well-performing-fund-c122c799dfb3). One criticism of venture capital is that the number of investments a VC makes means that they don’t have to be experts on picking winners at all—odds are, one of those risks will pay off, but investors don’t know who it’s going to be. But certainly, some venture capital firms are better at picking and getting access to fund-returning companies than others.
+
+In 2017, PitchBook reported that Fidelity invested in 34 of these unicorns, while Sequoia Capital and Andreessen Horowitz each invested in 30.[\*](https://pitchbook.com/news/articles/high-fidelity-meet-the-worlds-top-backer-of-unicorns) The same data suggested that only 18 venture firms have portfolios with 15 or more unicorn investments. While the firms’ ownership percentages are not public, these data indicate that venture capital returns are not only skewed regarding how few companies can generate returns, but they’re also skewed to benefit only a small number of firms.
+
+Assessing a fund based on the _number_ of unicorns in a portfolio is misleading, however. What really matters is at what stage the fund invested and how much ownership they received for that investment. If, like Fidelity, a fund invests at the late stages, their return will be much lower than if the fund invested when the company was only worth single-digit millions.
+
+Knowing how venture capitalists make money investing in risky businesses will help founders understand how their companies are viewed by VCs, what they’re looking for in the long term, and what motivates them in negotiations. Ultimately, understanding how the business of venture capital works is important for founders when they’re considering whether or not raising venture capital is the right decision.
+
+### Angel Investors and Micro VC Firms
+
+​Definition​ **Angel investors (angels or individual investors)** are wealthy individuals who invest their own money directly into companies. Angels are almost exclusively active at the pre-seed and seed stages. The most comprehensive list of angel investors can be found on [AngelList](https://angel.co/). **Super angels** are angel investors with a proven track record of successful investments as angels, but there is no agreed threshold distinguishing them from other angels.
+
+​controversy​ A lot of people don’t consider angel investors to be venture capitalists. In principle, angel investors are a kind of venture capitalist—they’re hoping to make money through returns on their investments into risky, early-stage businesses. But angels and VCs who work for firms with other investors’ money do have a different set of practices and priorities that set them apart from angel investors, including when they invest and how much. In practice, founders and investors generally do not refer to angels as venture capitalists.
+
+Angel investing offers individuals an alternative model to institutional investment, in which they provide money to an entity, which in turn invests in companies. While some angel investors create business entities out of which they invest their money, the term _institutional investor_ is rarely used to refer to them.
+
+​Definition​ **Accredited investors** are individuals, banks, corporations, or other institutions that hold unique investor status, because their accreditation is regulated by the Securities and Exchange Commission (SEC) and they meet net worth and income thresholds. Their status is based on asset thresholds (typically an individual net worth of more than $1 million or annual income more than $200,000 or $300,000 with spouse, for each of the last two years; or an entity with assets exceeding $5 million). Accreditation is meant to prevent unregulated investors from losing a meaningful percentage of their money on a risky investment.
+
+​important​ Not all angel investors are accredited, so it’s a good idea to check before accepting money from an investor. You can check with your legal counsel if individuals interested in investing don’t meet the standards, or use a qualified third party like [VerifyInvestor.com](https://www.verifyinvestor.com/) or [Early IQ](https://www.earlyiq.com/investor-verification) to verify the status of an accredited investor.
+
+#### Angel Investments
+
+According to 2018 data from AngelList, only 35 of more than 12K angel investors have made 50 or more angel investments, and only 116 have made 20 or more investments.[\*](https://web.archive.org/web/20190501135939/https://angel.co/2018) This list includes notables such as Esther Dyson, Reid Hoffman, Mark Cuban, Marc Benioff, Ashton Kutcher, Peter Thiel, Keith Rabois, Paul Buchheit, Alexis Ohanian, Ron Conway, and Naval Ravikant. Investing in 20 companies at a check size of $50K apiece comes out to $1M. Compare that with Ravikant’s reported 130+ investments at the same check size, and you’re looking at an individual who may have put as much as (or more than) $6.5M of their own money into high-risk ventures via angel investments.
+
+Founders often raise some of their earliest funding from angel investors, in angel rounds, before moving on to entities like VC firms. We’ll discuss this in greater detail in our section on [rounds](https://www.holloway.com/g/venture-capital/sections/rounds). In general, the larger the check size, the more likely the check is coming from an entity.
+
+#### Micro VC Firms
+
+Many super angels go on to start _micro VC_ firms. Depending on whom you ask, these firms usually invest out of funds that are less than $100M and can invest at the pre-seed and seed stages.[\*](https://mattermark.com/the-micro-vcs-are-coming/) When angel investors prove they’re able to repeatedly make investments into high-growth, successful companies at the earliest stages, other investors are interested in investing their money for the angel to manage in one of these micro VC funds. Ron Conway founded SV Angel for this purpose, Peter Thiel founded Founders Fund, and Naval Ravikant founded AngelList.
+
+### Accelerators and Incubators
+
+Many founders don’t start companies with pre-existing networks of venture capitalists and a wealth of knowledge on how to hire a team, build a product, get customers, and raise capital. Accelerators and incubators aim to fill this gap in network, knowledge, and skills. Accelerators and incubators have nuanced differences. Some invest small sums of money in exchange for equity, while others are just physical spaces that offer discounted or free space for founders to work while in the early stages of their businesses. If you’re a first-time founder, accelerators and incubators are worth considering.
+
+​caution​ When considering an accelerator or incubator, be wary. Most accelerators ask for 2–10% of your company in exchange for capital and connections. _Make sure the connections will actually be worth 2–10% of your company!_ The amount of equity you sign over to an accelerator or incubator is literally a price you are paying for a service. Treat it as such.
+
+#### Accelerators
+
+​Definition​ An **accelerator** is an institution that offers typically fixed-term, cohort-based programs for early-stage, growth-driven companies, investing capital in and offering services to these companies in exchange for an ownership stake.[\*](https://www.brookings.edu/research/accelerating-growth-startup-accelerator-programs-in-the-united-states/) Common services include offering access to investor networks, mentorship, office space, and an opportunity to pitch directly to investors at the end of the program. Accelerators differ from traditional venture capital firms in that they focus on investing in very early-stage teams.[\*](https://fundingsage.com/startup-funding-rounds-and-the-funding-life-cycle/lifecycle-content-parts/seed-accelerators/) Paul Graham and Jessica Livingston pioneered the accelerator model with Y Combinator.[\*](https://www.businessinsider.com/how-y-combinator-started-2012-3)
+
+​danger​ Some accelerators charge companies fees for the office space and other services they provide. Founders should read accelerator term sheets carefully, as a $50K investment may only actually give you $30K of capital after you fulfill your obligation to the investor.
+
+There are hundreds of accelerators out there that all flaunt the power of their networks, but the quality of these networks ranges widely. Almost every accelerator will tell you they can give you access to a network of investors and mentors. You’ll hear about how the mentors in the network have built and sold successful companies, and they’ll tie that back to those individuals being able to help you build yours. In an ideal world, accelerators can offer you access to expertise via mentorship in go-to-market strategy, sales, product development, recruiting, fundraising, and more. In reality, few accelerators have networks strong enough to be very helpful. One thing to be wary of with accelerator mentor networks is the applicability of mentors’ experiences to yours. Someone who built a business in a different industry 20 years ago will definitely be able to draw upon a successful career for generalized coaching, but their tactical experience may simply be out of date.
+
+Accelerators also vary in the amount of funding they offer and size of the ownership stake they take. According to the [2017 Seed Accelerator Rankings Project Report](https://web.archive.org/web/20220201070520/www.seedrankings.com/pdf/sarp_2017_accelerator_rankings.pdf), the average cash investment is $39,500 in exchange for a 6% ownership stake.
+
+Companies apply to accelerators via online applications and are accepted into rolling batches that are usually broken up by year, quarter, or season. Many accelerators accept applications [via AngelList](https://angel.co/accelerators/apply) or [F6S](https://www.f6s.com/).
+
+The Corporate Accelerator Database regularly updates a [full list](https://corporate-accelerators.net/database/) of startup accelerators.
+
+Most accelerators invest in companies in a wide variety of areas (hardware, software, energy, and so on), but a few choose to focus on one specific area such as:
+
+*   [**Highway1**](https://highway1.io/) (hardware)
+    
+*   [**Rock Health**](https://rockhealth.com/) (healthcare)
+    
+*   [**IndieBio**](https://indiebio.co/) (biotech)
+    
+*   [**Matter**](https://www.matter.vc/) (media)
+    
+
+Others focus on supporting specific groups of founders:
+
+*   [**Pear Accelerator**](https://www.pear.vc/accelerator) (students and recent graduates)
+    
+*   [**Manos Accelerator**](https://manosaccelerator.com/) (Latinx founders)
+    
+*   [**Startup52**](http://startup52.com/) (founders from underrepresented communities)
+    
+*   [**FundingSage**](https://fundingsage.com/) offers a list of accelerators supporting [startups led by women](https://fundingsage.com/accelerators-focus-women-led-startups/)
+    
+*   [**37 Angels**](https://www.37angels.com/) offers a [list of resources](http://www.37angels.com/female/) for women founders, including accelerators that support women.
+    
+
+#### Seed Accelerator Rankings
+
+As of October of 2018, the [Seed Accelerator Rankings Project](http://www.seedrankings.com/) has analyzed data on outcomes and ranked accelerators on a scale from Silver to Platinum Plus.
+
+Tier
+
+Programs (a-z within tier)
+
+Platinum Plus
+
+[AngelPad](https://angelpad.com/), [StartX](https://startx.com/), [Y Combinator](https://www.ycombinator.com/)
+
+Platinum
+
+[Amplify LA](https://amplify.la/), [Chicago New Venture Challenge](http://www.chicagonvc.com/), [MuckerLab](https://www.mucker.com/muckerlab-accelerator/), [TechStars](https://www.techstars.com/)
+
+Gold
+
+[500 Startups](https://500.co/accelerators), [Alchemist Accelerator](https://www.alchemistaccelerator.com/), [Dreamit](https://www.dreamit.com/), [Gener8tor](https://www.gener8tor.com/), [HAX](https://hax.co/), [Healthbox](https://www.healthbox.com/), [IndieBio](http://www.indiebio.co/), [Mass Challenege](https://masschallenge.org/), [SkyDeck](https://skydeck.berkeley.edu/)
+
+Silver
+
+[Accelerprise](http://acceleprise.vc/), [Alphalab](https://alphalab.org/), [The Brandery](https://www.mainstventures.org/brandery), [Capital Innovators](https://capitalinnovators.com/), [Healthbox](https://www.healthbox.com/), [Health Wildcatters](https://www.healthwildcatters.com/), [Lighthouse Labs](https://www.lighthouselabsrva.com/), [Reach](https://nar-reach.com/), [Tech Wildcatters](https://www.techwildcatters.com/), [Health Tech](https://www.tmc.edu/innovation/accelerator-healthtech/), [Zero to 510](https://zeroto510.com/)
+
+The Seed Accelerator Rankings Project is based on _valuation_, _qualified exits_, _qualified fundraising_, _survival rates_, and _alumni network_ data.
+
+#### Incubators
+
+​Definition​ An **incubator** is an institution that offers some combination of office space, cash, and expertise to new companies. Some incubators offer these things in exchange for equity, some for a fee, and some for free. Incubators almost always offer coworking spaces, where entrepreneurs can rent a desk to begin hatching plans for a new company.
+
+An important distinction between accelerators and incubators is that accelerators have a graduation date or demo day after a short period (usually under three months), whereas incubators can work with companies for much longer periods of time.
+
+Some incubators are willing to invest in the companies they provide office space to, but terms from incubators are often convoluted, unsophisticated, and disguised as competitive with accelerators like Y Combinator.
+
+​caution​Founders should beware of incubators touting expertise and mentorship as a benefit, especially if the incubator is charging a significant fee or asking for equity. Ask specific questions about who the mentors are, research them online, and make your own assessment as to whether you believe they could add significant value to your company. Many incubators around the country have a standing group of well-intentioned “mentors” who have had some minor business success but offer little to no value when advising companies interested in solving large problems. Make sure the mentors in an incubator’s network are actually qualified to help you out.
+
+### Rounds
+
+There are many steps that founders and investors have to go through to find each other and partner up in an investment. Throughout your company’s lifetime, you will continue to develop your [network](https://www.holloway.com/g/venture-capital/sections/appendix-a-networking-and-mentorship) and deepen the self-awareness and market research required to draw up a convincing [pitch](https://www.holloway.com/g/venture-capital/sections/designing-your-pitch). Each time you seek funding, you will be tasked with [researching potential investors](https://www.holloway.com/g/venture-capital/sections/creating-a-target-list-of-investors), [getting meetings](https://www.holloway.com/g/venture-capital/sections/getting-the-meeting) with investors, [making the case for your company](https://www.holloway.com/g/venture-capital/sections/telling-your-company-story), and finally negotiating and signing a [term sheet](https://www.holloway.com/g/venture-capital/sections/understanding-term-sheets).
+
+​Definition​ Each separate instance of a company raising money—by selling equity, a convertible note, or convertible equity like a safe—is referred to as a **venture round (or round)**.
+
+​Definition​ A **priced round (or priced equity)** is a direct transaction where an investor purchases a fixed portion of ownership in a company, in the form of shares, in exchange for a fixed amount of capital. This results in a transparent price per share for the company and the investor and giving the term “priced round” its name.
+
+In the context of raising venture capital, founders typically raise a priced round to finance the company for 12–24 months, to achieve a set of clear milestones.
+
+When raising a priced round, founders need to find an investor willing to lead the round.
+
+​Definition​ A **lead investor (or lead)** is the first investor to commit to a given round of funding and agrees to set the terms for any other investors who participate in the financing. This is called “leading the round.” The lead investor always makes the largest investment in the round and usually takes a board seat as part of the deal.
+
+​confusion​ When raising venture capital through a convertible instrument, finding a lead investor is not necessary. Founders need to decide [what kind of investment they want to raise](https://www.holloway.com/g/venture-capital/sections/choosing-a-financing-structure), which can change depending on the stage the company is in.
+
+When raising a priced round, subsequent investors, like other VC firms or angels, “follow on” to “fill out the round.” For example, a lead investor may put $1M in a round where four other investors invest $250K each, for a total round size of $2M.
+
+“Once you have a lead, we’re in for $X.” This can be one of the most frustrating phrases a founder encounters on the path of raising venture capital. Very few investors are willing to take the risk to set terms, write the biggest check, and sit on a company’s board. Some investment firms, such as Correlation Ventures, have even set up their funds to never lead an investment and only follow lead investors with good track records.
+
+#### Types of Rounds
+
+Rounds always have labels, which generally help outsiders benchmark a company’s stage. Unfortunately, these labels are not standardized, vary across industry, take on new meanings over time,[\*](https://nextview.vc/wp-content/uploads/2016/01/Screen-Shot-2016-01-25-at-4.21.35-PM.png) and some investors have even cast doubt on the validity of certain labels.
+
+Have a headache yet? That’s normal. Here are some broad-stroke classifications of different labels you’re likely to see. Both the rounds themselves and their ambiguity will sound familiar from our section on [VC firms](https://www.holloway.com/g/venture-capital/sections/vc-firms-and-funds): it is _not_ a coincidence that the types of VC firms correspond to these labels.
+
+**Friends and family rounds.** Sometimes referred to as _FFF_ or “friends, family, and fools,” this round of capital is raised from individuals who have a close personal connection to the founders—venture capital investment is not a part of this round, which is usually the first capital a founder will raise from others. While not every founder will raise this round, of the $30K it takes on average to start a business, 80% of that comes from friends, family, and personal savings.[\*](https://qz.com/455109/entrepreneurs-dont-have-a-special-gene-for-risk-they-come-from-families-with-money/) Pre-FFF round, personal savings and personal debt often go to cover incorporation costs and personal costs (rent, healthcare, et cetera), after which the money from friends and family goes to the costs of building the company off the ground. There’s no definition of how large this round typically is in terms of cash, as it depends on the liquidity and generosity of a founder’s personal connections.
+
+**Angel rounds.** Many founders raise an early round of financing exclusively from angel investors. Angel investors often invest in pre-seed and seed rounds as part of a syndicate. Additionally, they may invest follow-on capital in Series A rounds, but only so many angels have deep enough pockets to continue investing into subsequent rounds. Angels that do participate in later rounds typically negotiate for pro rata rights in term sheets, to guarantee a right to continue to invest.
+
+​important​ Friends and family and angel rounds are sometimes called _first money_ rounds. Rounds subsequent to the friends and family and angel rounds are _institutional rounds_—this is where venture capital firms come into play. As we stated above, angel investors sometimes participate in institutional rounds, especially at the early stages, but when the majority of the money comes from non-angels, it’s an institutional round.
+
+**Pre-seed rounds.** Pre-seed rounds are usually between $50K and $500K, but can be up to $1M or beyond for highly competitive companies.[\*](https://nextviewventures.com/blog/what-are-pre-seed-rounds/) Pre-seed rounds are almost always raised when a company is pre-product (that is, they have not yet built a salable product or a product that anyone is using). It’s worth noting that the “pre-seed” label only came about between 2015 and 2016 and is viewed as having varying degrees of credibility—low[\*](https://twitter.com/bryce/status/1039721406982844416) and high.[\*](https://nextview.vc/blog/pre-seed-investors/) Some see the pre-seed label as the butt of a joke.[\*](https://twitter.com/cyantist/status/1012247248959201281)
+
+**Seed rounds.** Seed rounds are typically the first round of funding founders take from entities like VC firms. Experts disagree on whether friends and family, angel rounds, and pre-seed rounds should be included under the umbrella of seed rounds. When considered a separate round, average seed rounds were $1.4M in 2018, and median seed rounds were $700K.[\*](https://news.crunchbase.com/venture/venture-capital-in-q1-2019-the-world-pulls-back-from-record-highs/) Corresponding valuations in the Bay Area ranged from $1.4M to $3.3M at pre-money valuations and $4.5M to $9.8M post-money in 2017.\*  
+Some firms that will invest in seed rounds are willing to do so pre-product, pre-traction, or pre-product-market fit, while others expect companies to have demonstrated some progress on product, traction, or product-market fit.
+
+Any money raised before the Series A is often referred to as _seed money_, and it’s generally accepted that it is much harder to raise subsequent rounds of venture capital after seed rounds, starting with the Series A.
+
+**Series A rounds.** After seed, rounds are labeled in alphabetical series (A, B, C, and so on). The Series A, however, represents a “moment of truth” for startups. According to _Crunchbase News_, 42% of seed-funded startups go on to raise Series A rounds—this is often referred to as the “Series A crunch.”[\*](https://news.crunchbase.com/venture/what-does-it-take-to-raise-your-next-round-in-2018/) Median Series A rounds were around $6.1M in 2017.[\*](https://pitchbook.com/news/articles/fewer-fatter-seed-series-a-deal-sizes-skyrocket-in-2017) In the Bay Area, Series A valuations ranged from $4.9M to $10.8M at pre-money valuations and $12M to $30M post-money in 2017.\* Most companies that successfully raise a Series A have almost always launched a product, have clear _indications_ of product-market fit, and are seeing significant growth (measured in different ways depending on the type of business model). Series A funding is most often used to prove these indications of product-market fit are real, build an executive team, and prepare to scale a business.
+
+​important​ Before Series A, investors are mainly looking at the promise of a company’s team. At Series A, they start looking for proof on that promise. Put another way, companies need to shift from selling the dream to showing the metrics. But each firm defines what constitutes “proof” differently, and some have a clear idea while others do not. Depending on the competitive landscape, the goalposts for what proof is can also move every year.
+
+In general, you can think of it like this: investors look at a company raising Series A and say, “Is there a clear indication that something magical might be happening here?” In a B2B SaaS company, that might mean, “Are they selling the product? $1M in ARR?” In consumer companies, what indicates future success to an investor can be impossible to predict. Some VCs will say, “1M monthly unique visitors is good enough,” while others will say, “Wow, you have 250K students using this for five hours every week, but no revenue, let’s do the deal!”
+
+As a founder, it’ll help to think of what would prove to you that your company is ready for Series A. It doesn’t have to be rock-solid proof, but there has to be some strong indication of magic.
+
+**Series B rounds**, **Series C rounds** and beyond, or **growth rounds.** Once a company has demonstrated not just indications of product-market fit but clear proof of product-market fit in a large market, the company faces a choice to either expand quickly to dominate that market or expand slowly and invite competitors. By the Series B stage, most companies have hired a few key executives, like a VP of product or VP of sales, to lead part of the expanding company. Series B rounds are primarily used to fuel growth, meaning the company has figured out a way to make money, but they are limited from growing, either because they need cash to hire, acquire customers, or expand their business (new products, new geographic expansion, et cetera). Series B rounds in the Bay Area averaged $26M in 2015, according to Mattermark.[\*](https://www.slideshare.net/Mattermark/2015-venture-capital-startup-traction-report)
+
+**Mega rounds.** When companies raise rounds greater than $100M, they are referred to as _mega rounds_. Mega rounds are a relatively recent phenomenon. Mark Suster points out that $100M rounds accounted for only 13% of rounds in 2013, but now account for 47%.[\*](https://bothsidesofthetable.com/a-deep-dive-into-what-has-really-changed-in-venture-capital-f5d225f7f8) In the same report, Suster points out that while there were only 20 or so mega rounds in 2009, there were 198 in 2019. Mega rounds break the traditional alphabetical naming sequence of rounds. Take GitHub, for example. In 2015, GitHub’s founders raised $250M after the company’s 2012 Series A; the next round would logically be a Series B. The average Series B size for the same period was ~$26M, though, making it dubious to say that a $250M round was in the same class as those in the range of $26M; doing so would clearly be comparing apples to oranges. In 2017, the Japanese conglomerate SoftBank announced the largest venture capital fund of all time, the $100B Vision Fund, to exclusively lead mega rounds. SoftBank’s strategy has been controversial—and not just because [Saudi Arabia is a marquee LP](https://www.bloomberg.com/news/articles/2018-10-21/explaining-softbank-s-close-ties-with-saudi-arabia-quicktake). An argument can easily be made that they are picking winners on the path to IPO and giving those companies no choice but to take their money. SoftBank’s offer to invest can appear threatening. If a company refuses a $100M+ injection of capital to them, SoftBank may turn around and invest that money in their biggest competitor.
+
+**Bridge rounds.** In a perfect world of raising venture capital, companies would raise a single seed round, go on to raise a Series A, then a Series B, and go public or become profitable enough to no longer need venture funding. This neat progression rarely happens, often because companies underestimate how long it will take to develop their product, take it to market, reach product-market fit, and grow to dominate that market. It is likely that they will need to raise additional capital in between traditional rounds. These are called _bridge rounds_. A bridge round between seed and Series A is called a _second seed_ or _seed+_. Some believe the need for a bridge round implies that a company was not able to reach the milestones necessary for the “traditional” venture round progression. But companies can use bridge rounds strategically in between major raises in order to extend their runway, get a better valuation at the next major round, and test the market’s appetite for what they’re offering.
+
+**Inside rounds** and **outside rounds.** When a round is primarily funded by investors who invested in a company’s previous rounds, it’s called an _inside round_. The people putting money in are already on “the inside.” An _outside round_, in comparison, is a round led by a majority of new investors. Inside rounds can be great for founders, as the investors are already familiar with the company and can make decisions quickly. But as a company’s capital requirements grow, inside investors may not be able to meet the company’s needs, and an outside round may be the wiser choice.
+
+**Party rounds.** Most venture rounds have one lead investor and a small group of other investors who follow on, called _follow-on investors_. Other rounds, called party rounds, do not have lead and follow-on investors but instead involve a larger number of investors writing smaller checks. But the rules on this term aren’t hard and fast. A $1M round composed of ten $100K checks would be considered a party round. A $1M round where one investor put in a $250K check and fifteen investors put in $50K checks could also be considered a party round. The main characteristic of a party round is that there is a long tail of investors who wrote small checks. Party rounds are not usually considered the best option for founders; investors willing to write larger checks tend to be much more committed than those who do not (though this is, of course, not universally true, and a smaller, newer fund can still be extremely committed to a startup’s success), and party rounds mean that a time-strapped founder will have to manage a greater number of investor relationships.
+
+#### Figure: Bay Area Capital Investment and Deal Count (Series Seed)
+
+_Source: Silicon Valley Bank and PitchBook Data\*_
+
+#### Figure: Bay Area Capital Investment and Deal Count (Series A)
+
+_Source: Silicon Valley Bank and PitchBook Data\*_
+
+#### Rounds and Valuations
+
+In addition to labels referring to a company’s stage at the time of financing, venture rounds can also have a separate set of labels that refer to the valuation of that round in relation to the last round of financing the company raised. We’ll talk more about valuation in [Determining How Much to Raise](https://www.holloway.com/g/venture-capital/sections/understanding-venture-capital#price-dilution-and-valuation).
+
+​Definition​ **Up round**, **down round**, and **flat round** are descriptions of a company’s valuation in a new venture round as compared to the previous round. An up round occurs when the valuation of the new round is higher than the valuation of the previous round, and a down round occurs when the valuation of the new round is lower. A flat round occurs when the valuation does not change between the two rounds. Flat rounds are [relatively rare](https://www.wsgr.com/en/insights/the-entrepreneurs-report-private-company-financing-trends-1h-2019.html).
+
+​caution​ Investors don’t want to have bad blood with other investors—they may have to work together in the future. This means they won’t, for example, be eager to throw in on a down round, because it puts them in the position of forcing prior investors to write down their investment.[\*](https://bothsidesofthetable.com/the-damaging-psychology-of-down-rounds-bed334ff9958) Not all investors think a down round is a bad thing—Randy Komisar, author and general partner at Kleiner Perkins, for example, says they just reflect down markets.[\*](https://techcrunch.com/2016/08/02/all-your-questions-about-startup-fundraising-for-kpcb-asked-and-answered/)
+
+#### Syndicates
+
+​Definition​ A **syndicate** has evolved to have multiple meanings in the fundraising ecosystem, and may refer to the total [group of investors](https://avc.com/2010/10/vc-syndicates-how-many-vcs-is-too-many/) who invest in a given company’s round, a group of investors who frequently [invest together](https://www.cbinsights.com/research/venture-capital-investment-syndicate-heat-map/), or an [AngelList syndicate](https://angel.co/help/syndicates).
+
+Many rounds have more than one investor. At the earliest stages, angel and seed rounds usually have a mix of angel investors and VCs.
+
+​caution​ Jeff Bussgang, GP at Flybridge Capital Partners and Harvard Business School faculty, points out that having more than one firm involved with the company can have benefits and risks.[\*](https://seeingbothsides.com/2006/02/19/syndication_sci/) Benefits include diversity of thought and networks that comes from multiple VCs, and more bargaining power via competition between investors in future rounds of investment. On the other hand, each additional investor requires more time on the founder’s part to manage those relationships. And because investors usually want to own a meaningful amount of a company, the more investors you bring on, the more of your company you’re selling.
+
+AngelList syndicates, launched in 2013, allow a single investor to create their own fund on the AngelList platform and then invite other investors to invest with them. AngelList handles all of the back-office fund administration in exchange for a percentage of the carried interest (or carry) on each deal done through AngelList. AngelList syndicates can be beneficial for investors with smaller funds, as they can choose to invest $25K in a deal and then ask anyone in their AngelList syndicate if they want to participate, with checks as small as $1K. Often, this can add up to many multiples of the original fund’s investment. You can read more about AngelList syndicates [here](https://angel.co/help/syndicates#syndicates-1).

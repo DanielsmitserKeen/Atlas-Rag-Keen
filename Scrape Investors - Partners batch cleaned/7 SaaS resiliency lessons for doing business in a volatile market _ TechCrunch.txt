@@ -1,0 +1,156 @@
+# 7 SaaS resiliency lessons for doing business in a volatile market
+
+Over the past year, we’ve witnessed one of the most tumultuous times in the history of software. Fearless founders and teams have battled seemingly never-ending and unprecedented obstacles — from macroeconomic uncertainty, to banking collapses, to geopolitical instability, to recession fears. For startup leaders and operators right now, it may seem that the blows keep coming. But know that you are not alone — even the most battle-tested leaders have been challenged, as many of these headwinds are not idiosyncratic and have impacted everyone in the industry.
+
+We’ve unmistakably moved into a new paradigm, and much of the industry’s thought leadership and benchmarks from the past decade-plus of bull-market exuberance fail to accurately capture the nuance and conditions of operating through a volatile period. Cloud leaders will inevitably experience up and down markets depending on the market cycle.
+
+As we approach the 24-month mark of this bleak period and start seeing more light at the end of the tunnel with stabilizing macro conditions and recent watershed IPOs and M&As, we reflect on seven lessons about resilience based on actions that growth-stage SaaS leaders took over the past year to equip founders to weather any future storms.
+
+## 1\. Leverage expansion as a durable growth driver
+
+During recessionary periods, companies should be prepared to face “double-whammy” headwinds impacting both new customer acquisition and existing customer expansion.
+
+For new customer acquisition, it becomes unsurprisingly harder to land new logos in an uncertain market environment due to frictions such as:
+
+*   Lengthened sales cycles.
+*   Delayed deals.
+*   Increased budget scrutiny (e.g., requiring C-suite sponsor sign-off for new deals).
+*   Required additional justification for new procurements.
+*   Frozen budgets that block new software purchases.
+*   Turnover of key stakeholders.
+
+All of these headwinds take a fast-acting toll on sales efficiency. For instance, in 2022 we saw CAC payback periods for EMCLOUD (Emerging Cloud) companies extend significantly to an average of 30 months, even skyrocketing to 40 months in Q1 2023. These statistics were dismal when compared to the [benchmarks for CAC payback periods during more exuberant market periods](https://www.bvp.com/atlas/scaling-to-100-million#CAC-Payback), which are closer to 12 months for SMB-market focused accounts, 18 months for mid-market-focused accounts, and 24 months for enterprise-focused accounts.
+
+![EMCLOUD: Median CAC Payback graph for Q2 2021 through Q2 2023](https://techcrunch.com/wp-content/uploads/2023/11/Median-CAC-payback.png)
+
+**Image Credits:** Bessemer Venture Partners
+
+In addition, while existing customer expansion motions are also not immune from headwinds, there are more levers to pull on this front, such as:
+
+Techcrunch event
+
+San Francisco | October 13-15, 2026
+
+*   Upselling tiers, add-ons, or upgrades.
+*   Cross-selling products.
+*   Adding more seats or users.
+*   Increasing volume or consumption.
+*   Raising prices at renewal.
+
+Each of these levers exhibits differing levels of sensitivity to macro conditions. For instance, seat-based expansion dynamics could be more impacted during recessions as customers reduce headcount. But on average, during the current pullback period, EMCLOUD companies have quickly experienced an overall deterioration in net dollar retention (NDR) fundamentals from 120% in Q2 2022 to 112% in Q1 2023 — reinforcing how eeking out incremental growth within the current customer base becomes demonstrably harder in weaker demand environments.
+
+![EMCLOUD: Net dollar retention graph](https://techcrunch.com/wp-content/uploads/2023/11/Net-dollar-retention.png)
+
+**Image Credits:** Bessemer Venture Partners
+
+Notably, companies that employed a business model based on consumption pricing saw significantly more impact compared to subscription pricing peers. This intuitively makes sense since while consumption models are structurally poised to benefit from bull markets, the reverse also holds true during market pullbacks, since customers can instantaneously cut back on usage to reduce spending during tough economic times. This impact will show up right away since revenue recognition in a consumption model is a function of usage and time. Subscription pricing models, on the other hand, generally recognize revenue ratably, making such revenue more durable during downturns since demand impacts are spread out over time.
+
+![BVP cloud index YoY growth chart](https://techcrunch.com/wp-content/uploads/2023/11/BVP-cloud-index-YoY-growth.png)
+
+**Image Credits:** Bessemer Venture Partners
+
+Still, a silver lining in an uncertain market is “incumbency bias”: Customers tend to stick with existing vendors instead of taking risks on new suppliers. That is why we have found that expansion tends to be a more reliable growth driver in down markets. Overall, many companies’ growth formula tends to weigh expansion more heavily in challenging times:
+
+![EMCLOUD growth formula contribution graph](https://techcrunch.com/wp-content/uploads/2023/11/EMCLOUD-growth-formula.png)
+
+**Image Credits:** Bessemer Venture Partners
+
+Many companies have recognized the critical importance of this observation and are increasingly leveraging existing customers as a growth lever. Over the last 18 months, companies have doubled down on the philosophy that “customer success is company success” by:
+
+*   Ensuring that customer success divisions had adequate resources and support to keep the current install base happy, and even adjusted quotas to reward expansion.
+*   Revisiting or establishing a customer health program with specific dashboards to keep a close eye on current customer accounts, assess seat utilization, track customer feedback and renewal likelihood, and churn risk.
+*   Instituting new churn deep-dive sessions with the board on a monthly basis to stay proactive and keep all stakeholders updated on the progress of major accounts in between quarterly board meetings.
+
+## 2\. Revisit pricing strategy especially when headline value becomes top of mind
+
+As IT budgets have changed in the last 18 months, we’re seeing the C-suite get involved in granular amounts of spend — as small as several thousand dollars. The perception of absolute value matters to key buyers more than ever before.
+
+For new customers, many sales conversations break down in the quoting process as decision-makers balk at big headline prices, which could even be a nonstarter during uncertain times. Similarly, for key decision-makers evaluating renewals, if the list price of a contract is $100,000 for an entire organization — even if the effective price per user is likely meaningfully lower — reducing a handful of these contracts could generate significant cost savings versus a tool that perhaps has a smaller list price.
+
+Throughout the downturn, companies have comprehensively revisited their pricing strategies to ensure their headline prices are tied more closely to perceived value. These are some creative examples:
+
+*   Several introduced “starter packs” to make it more frictionless to land new customers as companies selling initial $1 million+ annual contracts faced a disproportionate lengthening of sales cycles.
+*   Others that had existing large enterprise contracts worked very closely and flexibly with these key accounts to reconfigure contract prices to prevent full churn. Note that a down-sell is perhaps a better alternative than having to win back a fully churned account at a later date.
+*   Some introduced a freemium tier to allow customers to downgrade for a period of time but still stay within the product ecosystem until their budgets could be unlocked.
+
+## 3\. Develop a granular understanding of end-market exposure
+
+During the recent downturn, many companies have taken a fine-tooth comb to examine their customer base in order to glean actionable insights into where the most pain has been felt and adjust accordingly. For instance:
+
+### SMB vs. enterprise exposure
+
+*   In a recessionary environment, the SMB segment faces more pressure than usual, and some SMBs may go out of business altogether.
+*   However, in some cases, enterprises may have longer approval cycles, pricing leverage, and additional processes that could result in longer deal cycles and delays.
+
+### Vertical sensitivity
+
+*   Certain software markets are particularly exposed to the cyclicality of the verticals they serve (e.g., slowdowns in construction or consumer spending).
+*   Companies selling primarily to other high-growth startups also saw more friction, as they were hit particularly hard by macro headwinds.
+
+### B2B vs. B2C
+
+*   As elevated inflation drove a pullback in consumer spend, many B2C companies were hit faster than their B2B peers.
+
+### Public sector vs. private sector
+
+*   Revenue from government revenue streams (e.g., federal, state, and municipal) emerged as slightly more resilient compared to commercial streams as public sector budgets remained more intact over the last year. Some federal budgets even expanded significantly based on the government’s spending priorities.
+
+We saw companies institute extra-strong hygiene around customer segments at a highly granular level, distinguishing accounts by vectors such as industry, company size, division budget, penetration of number of users versus addressable user base, etc. Following this exercise, companies formed specific plans of attack and assigned an accountable leader based on the strategy built for each segment. Companies that had meaningful concentration in high-risk segments also proceeded to reduce this risk through diversification and targeting different segments.
+
+## 4\. Engage customers with a mission-critical narrative
+
+In boom times, customers do not always check if they are using software they have paid for, but this switches quickly during bear times as discretionary budgets become limited and all usage is scrutinized closely. During the past 18 months, many customers have dug into product engagement metrics as a “north star” for whether a software solution is considered “mission critical” to the organization or just a “nice-to-have” within the stack.
+
+In response, companies have:
+
+*   Collaborated proactively with customer champions to set specific engagement metrics and holding teams accountable to these thresholds. Product metrics such as engagement data are “leading” indicators (forward-looking, predictive drivers) that send signals about “lagging” indicators (after-the-fact, measured outcomes).
+*   Identified “power users” (based on usage data) at customer organizations and leveraging them for evangelism.
+*   Reoriented product strategy to further integrate into day-to-day user workflows and habits. For instance, launching mobile widgets for users who are on the move or launching email plug-ins to reduce click paths for users.
+*   Armed reps with usage data during renewal conversation to supplement tangible ROI calculations.
+
+## 5\. Position as a platform to counteract vendor consolidation
+
+During bull markets, many companies had the luxury of procuring multiple point vendors to have the most nuanced, best-in-class solutions for their workflows. But during the pullback, we saw many organizations take rational action to reduce their tech stack and cut spend, especially around vendor consolidation to generate cost-savings.
+
+Consequently, many products that were point solutions and not full-platform plays became significant casualties during budget cuts. To counteract this, companies began building out their platform narrative to position themselves strategically by:
+
+*   Redesigning marketing and sales playbooks to emphasize their products as a system of record or system of action; combining tactical and strategic selling narratives to sell the vision of what a product can be, and weaving product roadmap into the selling conversation.
+*   Accelerating platform initiatives on their product roadmap.
+*   Creatively partnering with other platforms for leverage. For instance, some companies invested in efforts to further embed into the wider ecosystem, including opening channel/partnership programs with broader category incumbents and also tighter integration partnerships. Others even went one step further by establishing formal SPIFF and go-to-market programs with partners.
+
+## 6\. Index on margin quality, not growth-at-all-costs
+
+In the past 13-year bull-market run, cloud companies have overindexed on growth. In the face of one of the toughest years in the history of the cloud economy, we saw companies adapt very quickly in a paradigm shift from the age of excess to the age of efficiency. Within the year, we saw many cloud companies shift their focus away from growth at all costs toward profitability.
+
+![EMCLOUD companies pivoted graph](https://techcrunch.com/wp-content/uploads/2023/11/EMCLOUD-companies-pivoted-quickly.png)
+
+**Image Credits:** Bessemer Venture Partners
+
+Margin quality and demonstrating a path to profitability is critical not just in terms of a company’s ability to weather any impending storm, but also in terms of the impact on a company’s valuation. In the public cloud markets, valuations became more tightly coupled with efficiency scores than absolute growth. [We observed that this efficiency premium on valuation](https://www.bvp.com/atlas/state-of-the-cloud-2023#Efficiency-insights-for-cloud-founders) is material with “Rule of 40+” EMCLOUD companies trading ~1.7x higher than less-efficient peers.
+
+Similarly for private companies, not only is growth at all costs no longer being rewarded by investors, but also managing margins and cash could quite literally mean the difference between life and death as fundraising activity becomes more uncertain and exit windows freeze. We saw the top growth-stage cloud companies of the Cloud 100 [embrace this efficiency mandate very quickly](https://www.bvp.com/atlas/the-cloud-100-benchmarks-report?from=feature#Cloud-100%E2%80%99s-year-of-efficiency).
+
+![About 60% of unprofitable cloud 100 companies improved burn graph](https://techcrunch.com/wp-content/uploads/2023/11/unprofitable-cloud-100-companies.png)
+
+**Image Credits:** Bessemer Venture Partners
+
+## 7\. Renewed focus on employees as the heart of your organization
+
+Over the past 20 months, EMCLOUD companies have seen valuation fall from peak levels, and a majority of the cohort have conducted at least one RIF. The biggest cost to an organization during challenging times is often the impact to employees and company culture. Valuation pullbacks, restructuring, and compensation changes often take a big toll on human capital, morale, and focus.
+
+Regardless of the size of reduction or stage of organization, RIFs are never going to be easy. There is no one-size-fits-all approach to executing upon such a difficult decision, but all actions should stem from compassion and preparedness. Here are a few real-life examples demonstrating these guiding principles:
+
+*   Cut once and deep quickly instead of making many small cuts over a prolonged period of time. This is to provide more peace of mind and to minimize periods of instability for employees.
+*   Lean on your board members for support. For instance, having board members address the employee base in a post-RIF town hall to offer perspective on the market and the company’s future ahead could help to boost morale.
+*   As a rule of thumb, we recommend at least five months of thoughtful planning before announcing a RIF and be sure to plan for even the most granular detail (e.g., an exact hour-by-hour timeline for the day of RIF around location, access, last paycheck, etc).
+*   Coordinate RIFs with other business decisions (e.g., merging a team or shutting down an office location) to reduce the frequency of organization shocks.
+*   On the day of the RIF, proceed with immense empathy and give individuals room to express themselves. For instance, it is okay if a conversation runs long or if individuals need time to step out of the room to process.
+*   The day after the RIF is perhaps the most important day in addressing the organization. Leadership, HR teams, and comms teams need to be in lockstep around messaging and announcements. It is important for leaders to have one-on-ones with their remaining employees during this period.
+*   Track KPIs such as attrition metrics closely post-RIF; data can give you signals about the aftereffects.
+*   Care for people after the fact! For individuals who were impacted, be thoughtful about how you can help them land their next role. Some actions companies have taken include giving LinkedIn premium access, pro-rating bonus payments, creating an opt-in contact list to be distributed, and asking board members to leverage their firm’s talent network to place impacted individuals at other portfolio companies.
+
+## The cloud model is one of the most resilient business models ever invented
+
+At Bessemer, we’ve partnered with the world’s best cloud companies since the inception of cloud computing, from Twilio to Shopify to Toast. We are believers in long-term tailwinds, rather than short-term market turbulence. We fundamentally believe that the cloud model, with its recurring revenue nature, low marginal distribution costs, and strong net-dollar retention dynamics, is perhaps not just one of the most attractive business models to be invented, but also one of the most resilient.
+
+Some of the most iconic cloud companies we partnered with not just survived but also thrived through uncertain times such as the dot.com bust, the global financial crisis, and the pandemic period, giving us even more conviction that we will see a new crop of cloud leaders emerge stronger than ever following the turbulence of the last year.

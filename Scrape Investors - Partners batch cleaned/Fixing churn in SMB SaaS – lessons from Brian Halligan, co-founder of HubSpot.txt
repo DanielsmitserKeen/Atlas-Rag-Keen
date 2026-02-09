@@ -1,0 +1,32 @@
+# Fixing churn in SMB SaaS – lessons from Brian Halligan, co-founder of HubSpot
+
+SMB SaaS has a notorious churn problem. Brian Halligan, the co-founder of HubSpot [wrote](https://www.linkedin.com/pulse/how-hubspot-fixed-retention-brian-halligan-rbxce/) about the various tactics they tried in the initial years of HubSpot to reduce churn and improve retention. Here’s the summary of what worked and what didn’t:
+
+**Things that did NOT work**
+
+A culture related tactic that failed was when they started having an empty seat in every meeting for a customer. The idea was that the customer should have a seat at the table in every meeting. But within about 5 seconds of the meeting starting, the team ignored the empty seat.  Then Bryan had the brilliant idea of getting a large doll and putting it in that empty seat to be the voice of customer.  Bryan says: “Also didn’t work and made me look like an idiot.”
+
+**Things that worked** (in rough order of impact)
+
+*   **\[Very high impact\]** Sales: HubSpot decided to comp the sales team based on retained customers instead of simply on new customers who signed up. While internally an unpopular decision, this changed the incentives of the sales team to avoid bringing in customers who were likely to churn in the initial few months. New customers dropped initially, but the cohort of customers who did join were much healthier and had better retention. Bryan: “Of all the changes… this might have been the most important one to move the needle.”
+    
+*   **\[Medium-high impact\]** Customer Success: Hubspot added a CS team whose job was to focus exclusively on the customer post the sale and implementation and help with any issues they face. This team was comped on retention rates and eventually a usage stat. Bryan: “This caused them to really think about it and really put pressure on the reps who were signing up crappy deals to clean up their act.  This wasn’t cheap, but it worked very well.”
+    
+*   **\[Medium-high impact**\] R&D: The company initially spent too much on Sales and Marketing versus R&D. They changed this and retention improved when the product got stronger.
+    
+*   **\[Medium impact\]** Ops: HubSpot changed the metrics they used to evaluate the performance of the leadership team. Specifically, they added customer NPS and net retention to the bonus calculation for the entire leadership team. Bryan says: “ I “think” this worked.  If nothing else, it definitely sent a message that we were serious about changing the culture.” The other two important analyses they started doing regularly was cohort analysis on retention/ usage and looking at net new ARR as kind of a north star. Bryan says it took them way too long to realize the importance of these metrics.
+    
+*   **\[Medium impact\]**Culture: HubSpot made several changes to shift from employee-first to customer-first. They restructured management team meeting agendas by reducing discussions about employee issues (culture, benefits, recruiting) and replacing them with customer metrics (NPS, usage). They also added customer panels in all management and board meetings, with customers coached to give the cold, hard truth about their experiences. The customer panels brought clarity to the organization and eventually connected everyone from board members to engineering interns with the customer voice.
+    
+*   **\[Medium impact\]** Product: Initially, HubSpot’s core product was focused on customers looking to improve their top of the funnel. But after looking at product analytics data they found that customers who were using their other product modules which were about middle of the funnel, were much stickier even though that part of the product was half-baked at best. Armed with this new data, they shifted resources from TOFU to MOFU and made some progress. They acquired Performable to help strengthen the MOFU product. 
+    
+*   **\[Medium impact\]**Channel: HubSpot had both direct and partner channels to market, each representing about 50% of their business. Bryan: “One intrepid ops person did some analysis and found out that the retention rates for the 50% of customers closed by partners was better than the retention rates for customers closed directly.” In more recent years, HubSpot developed effective strategies by creating strong incentives for direct reps to bring in partners and hand direct accounts to partners for setup and service.
+    
+*   **\[Medium-low impact\]** Pricing: An investor suggested that they add another axis of pricing, so they introduced pricing based on the number of contacts you have on HubSpot. The larger a customer’s database of contacts would grow, the more they would pay, but the less they would pay per contact.  This change largely worked and aligned incentives relatively with customers.
+    
+*   **\[unclear impact\]** Marketing:  Hubspot had three customer personas – Owner Ollie (small business owner, luddite), Marketer Mary (first full time marketing hire at a 20 person company, mid tech skills), and Internet Ian (tech founder, geek). While they ruled out Internet Ian early on, there was a lot of back and forth about whether they should focus on Mary Marketer or Owner Ollie. The team decided to focus on the Mary Marketer persona as it had better retention and that they would not serve Owner Ollie or at least not build for that persona. Dharmesh (the other co-founder of HubSpot) often reminds Brian that Shopify focused on Owner Ollies and still made it big.
+    
+
+#### Discussion about this post
+
+### Ready for more?

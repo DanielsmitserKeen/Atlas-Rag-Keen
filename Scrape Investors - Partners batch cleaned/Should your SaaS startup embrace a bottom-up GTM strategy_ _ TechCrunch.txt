@@ -1,0 +1,113 @@
+# Should your SaaS startup embrace a bottom-up GTM strategy?
+
+Many of today’s most successful software companies, from Atlassian and Datadog to Zoom, subscribe to the bottom-up SaaS go-to-market model. In this model, the user purchases software directly from a website, without ever speaking to a sales person. The product essentially sells itself.
+
+The bottom-up model has a few key benefits: Companies spend dramatically less on sales than their peers, allowing them to invest more in product; they can sustain hypergrowth for longer because they are not as reliant on raw sales headcount to win business; and they tend to be more profitable in the long run, leading to premium valuations.
+
+For all these reasons, more and more SaaS startups are choosing to adopt the bottom-up go-to-market model. But for every Atlassian or Zoom, there are many more companies that fail — often because they don’t understand the hidden challenges and costs that come with the bottom-up model.
+
+Before proceeding further, it’s important to note that bottom-up is not the right starting strategy for every company. A few quick ways to see if bottom-up is the right place to start for you:
+
+1.  Product: People can easily try your product.
+2.  Decision-maker: Your decision-maker is a line-level employee (not C-Suite).
+3.  Users: Teams and individuals can get value from your product (doesn’t have to be full enterprise roll-out).
+4.  Data: The data involved isn’t something that compliance would need to review.
+
+For companies that meet these criteria, there are three important questions that you must be able to answer:
+
+1.  Who needs to work together to make a bottom-up SaaS model work?
+2.  What is the value you deliver to your customer and how do you determine pricing that matches that value?
+3.  When do you hire a sales team? (Spoiler alert — it’s sooner than you think!)
+
+In this piece, we will tackle each of those questions in turn and share some of the best answers we’ve seen from companies that are making it work.
+
+## Who needs to work together to make a bottom-up SaaS model work?
+
+Unlike most traditional companies who rely on a head of sales to keep tabs on customers and how much each one is paying, most successful bottom-up companies rely on a combination of product, sales, customer support, marketing and community teams to manage revenue.
+
+Techcrunch event
+
+San Francisco | October 13-15, 2026
+
+> [How startups close their first big sales](https://techcrunch.com/2019/12/17/how-startups-close-their-first-big-sales/)
+
+When done right, this approach creates happy, even evangelical customers, who then help drive more sales. But getting there requires making sure multiple teams across the company are pulling in the same direction.
+
+One way to do it is to hire a chief customer officer (CCO) to oversee the complete life cycle of the customer. Figma and Guru have done this very effectively, and we expect the CCO role to become more and more common.
+
+While having a single leader at the helm can help, building a successful product-led sales organization requires much more than just a new C-suite executive. It requires deep and impactful change at every level of the organization, often redefining traditional roles — and creating some new roles entirely.
+
+Here’s a sample of how different business functions will need to evolve to meet the needs of a bottom-up SaaS go-to-market model.
+
+### **Customer Support**
+
+A traditional enterprise sales model depends heavily on a sales team that pounds the ground for leads and nurtures and closes deals. That team is paid quarterly, with a commission as a percentage of their booked sales, and encouraged to focus on whales. At the tail-end of the process is a customer success team, but it’s usually relatively small and focused on implementation and support.
+
+In a bottom-up sales model, customer success is often the first group a company invests in, not the last. This is because the incremental “lift” from customer success is much bigger in the bottom-up model. In the traditional sales model, once the customer gets to customer success, you probably already have a $100,000+ deal. In the bottom-up model, customer success is getting tiny $1-$2,000 customers, and growing them into $1 million+ customers. It’s no wonder then, that they are paid much more to do this — and that the caliber of talent you need to fill these roles should be much higher than ever before.
+
+Bottom-up SaaS companies like Gong and Catalyst, have been effective by being focused on and intentional in how they develop this motion, including paying out commissions to customer success, recruiting top-tier talent and investing in sales enablement tooling.
+
+### **Product and Marketing**
+
+While customer success teams are taking an increasingly prominent role, members of the product team are the ultimate salespeople in bottom-up companies where the product is supposed to sell itself. As a result, more engineers and product managers are being exposed to customer feedback and expected to be continuously iterating to drive urgency and sign-ups.
+
+This can be challenging for product people who might prefer a little more separation. However, that’s not an option in a bottom-up company. Product teams need to work closely with marketing teams to understand the problems customers are facing and clearly explain how a product solves those problems — as well as the different options and pricing structures available.
+
+Companies such as Airtable and Notion have created well-executed onboarding processes, with a clear on-ramp, emails from the CEO and case studies of how comparable companies use their products — which makes marketing feel almost like an extension of the product versus an independent effort. Similarly, more and more software companies are launching “live demos” on their websites to replace the traditional salesperson’s demo — another example of a joint product and marketing effort that is seamless and actually useful.
+
+### **Community Management**
+
+It’s not just old functions that are getting revamped — we’re also seeing the rise of entirely new functions. The most important of these is community management and developer relations, which serves to grow and manage the large base of free users. These users are a bottom-up SaaS company’s number one most valuable asset, and bringing them closer increases the chances that they will become paying customers.
+
+Platforms like Common Room, Orbit Love and Discourse are reinventing the sales funnel, which now starts with a download, Twitter follow or pull request — not an inbound email. After that, they’ve created a framework for capturing that first moment of engagement and nurturing users before they even become prospects or customers.
+
+## What value you deliver to your customer and how do you determine pricing that matches that value?
+
+One of the most common questions we get from companies trying to create a bottom-up SaaS model is how best to strategize when deciding how to set prices. In a bottom-up world, pricing needs to be completely transparent — with standardized options published on a website. But how do you set the right ones? And how much should you charge each customer, given you don’t know anything about their individual needs?
+
+To answer these questions, every bottom-up SaaS company needs a concrete pricing strategy to MAP customer value with pricing. Below is a summary of our MAP customer value framework. We’ll delve more into this in [our next post](https://techcrunch.com/2020/12/01/bottom-up-saas-a-framework-for-mapping-pricing-to-customer-value/)_,_ a deep dive on what we believe are best practices, including advice on how to structure tiered pricing, suggestions on when to publish versus not to publish pricing and strategies for thinking about gating features across different plans.
+
+### **The MAP customer value framework:**
+
+**Metrics:** What are the key metrics the customers care about? Is there a threshold of value associated with this metric? Metrics can include things like minutes, messages, meetings, data and storage. Examples:
+
+*   Zoom — Minutes: Free with a 40-minute time limit on group meetings.
+*   Slack — Messages: Free until 10,000 total messages.
+*   Airtable — Records: Free until 1,200 records.
+
+**Activity:** How do your customers really use your product? Are they creators? Are they editors? Do different customers use your product differently? Examples:
+
+*   Figma — Editors versus viewers: Free to view, starts changing after two edits.
+*   [Monday.com](http://monday.com/) — Creators versus viewers: Free to view, creators are charged $30+/month.
+*   Smartsheet — Creators versus viewers: Free to view, creators are charged $10+/month.
+
+**People:** How do your customers fit into a broader organization? Are they mostly individuals? Groups? Part of an enterprise? Examples:
+
+*   Superhuman — Individuals only: No free version, $30/month.
+*   Asana — Small team versus bigger teams: Teams of <15 people can use the product free.
+*   Atlassian — Free versus team versus enterprise: Pricing scales with size of team.
+
+> [To measure sales efficiency, SaaS startups should use the 4×2](https://techcrunch.com/2019/12/06/to-measure-sales-efficiency-saas-startups-should-use-the-4x2/)
+
+## When do you hire a sales team?
+
+At first, this question might be confusing. Isn’t the whole point of a bottom-up go-to-market model that you don’t need a sales team?
+
+The truth is, the product-led sales model does not last forever. If you successfully execute on the strategy above, you will inevitably reach a point where you have monetized early adopters in tech-forward companies and will start to think about how to reach larger, more traditional companies. Often, these companies will require more handholding — or exist in a space where your competitors are deeply embedded.
+
+That’s why the question is not IF you hire a sales team, but WHEN. And most companies wait too long. They’ve gotten so comfortable relying on their bottom-up self-service model that they don’t realize the opportunity they are missing on the enterprise side or the upside potential in their existing customer base. Competitors (or the big guys) end up eating their lunch.
+
+One reason it’s important for companies to think carefully about this transition is because it’s hard. Often, it’s a cultural challenge, a hiring challenge and an organizational challenge bundled together. And timing is key. Starting too early risks disrupting a well-oiled, bottom-up machine. Starting too late risks ceding the upper-end of the market to competitors and constantly having to play catch-up, since a good enterprise sales team can’t be built overnight.
+
+While there is no one right answer to the question of when to start hiring a sales team, there are a couple thresholds companies can look out for:
+
+1.  **The $1 million customer threshold:** Every company hopes to get to a place where their largest customer is spending more than $1 million with them. For the most successful companies, this happens sooner than expected — and these customers tend to be the most demanding with radically different needs. When this happens, it’s often a good time to start building a second team, with a traditional sales leader, to cultivate the largest accounts and figure out who could be next.
+2.  **User thresholds:** When a company’s largest accounts start to scale to 1,000+ users, often rapidly, it often demonstrates a level of maturity and product-market fit. Like the $1 million customer threshold, servicing customers at this scale often requires a new set of players who can serve them better and go hunt for more.
+
+If the past five years are any indication, product-led sales will increasingly become the dominant model for selling software. As the cost of distribution disappears and buyers become more sophisticated, money that used to be spent on field sales will be redeployed into product improvement, customer support and community management.
+
+This is an exciting time, but it’s also a difficult one. Aligning pricing, product, innovation and customer value can create the best of all worlds, but it requires companies to think carefully about who their customers are, what they have to offer, who they need to hire and how they need to execute.
+
+The important thing to remember is that this is a long-term play. Product-led sales take time, patience, intelligence and a new way of thinking. But for companies that get it right, the effort will more than pay off.
+
+_The information contained in this blog should not be considered investment advice from Coatue. As of the date of publication, please note that Coatue currently has private investments in **Airtable, Figma, Gitlab, Gong, Notion and Superhuman** all of which are referenced in this article. As of the date of publication, please note that Coatue may or may not hold positions in the public companies referenced in this article and that other than in publicly available SEC filings, the federal securities regulations limit Coatue’s disclosure of public stocks in which it is invested._

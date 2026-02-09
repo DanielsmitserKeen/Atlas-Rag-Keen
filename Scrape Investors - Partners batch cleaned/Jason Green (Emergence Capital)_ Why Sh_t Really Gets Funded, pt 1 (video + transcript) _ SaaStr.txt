@@ -1,0 +1,149 @@
+# Jason Green (Emergence Capital): Why Sh\*t Really Gets Funded, pt 1 (video + transcript)
+
+![Jason Green, General Partner at Emergence Capital, SaaS VC Firm, speaking at SaaSt Annual 2015](https://i0.wp.com/www.saastr.com/wp-content/uploads/2015/12/Saastr-2-389.jpg?resize=1000%2C667&quality=70&ssl=1)
+
+We’re publishing the full series of transcripts and videos from all of the awesome [SaaStr Annual 2015 sessions](https://www.saastr.com/saastr-annual-2015/) (check out the [Partnering with the Big Guys](https://www.saastr.com/leyla-seka-salesforce-how-to-really-partner-with-the-big-guys-video-transcript/), [Hyperscaling Inside Sales](https://www.saastr.com/zenefits-how-we-hyperscaled-inside-sales/) with Zenefits, and the unicorn journeys of [Slack and Yammer](https://www.saastr.com/david-sacks-yammer-stewart-butterfield-slack-unicorns-or-bust/) posts if you missed them).
+
+In Part 2 of “Why Sh\*t Really Gets Funded,” [Jason Green](https://www.emcap.com/people/jason-green/), co-founder and General Partner at Emergence Capital, a SaaS-only VC firm that has backed industry giants like Salesforce, Box, Yammer, DoubleClick and Veeva, dives deep into his portfolio to bring you the info anyone looking for funding (_and who isn’t?_) is dying to know! Jason has been investing for over 15 years and has backed 7 Unicorns to date.
+
+In today’s session, Jason shares which factors VCs evaluate before investing. Using Emergence investment case studies, he gives the low down on the metrics, team dynamics and key differentiators that can make or break funding. _Pay attention – he’s giving you the playbook on how to stand out in a crowded herd of wanna-be unicorns vying for an investment.  Doesn’t get much better than that, does it?_
+
+Check out the full transcript from the session below! Then head on over to [Part 2](https://www.saastr.com/mamoon-hamid-socialcapital-why-sht-really-gets-funded/), where Mamoon Hamid dives into his own investment portfolio and shares the details on how to calculate the ratio that Social+Capital uses as a benchmark to gauge the overall health of a recurring revenue business. (This one is also a don’t miss.)
+
+**Also, make sure you grab your ticket to the** [**_2016_** **SaaStr Annual**](https://www.saastrannual.com/)**.  Join 5,000 SaaS founders, execs, and investors for 3 full days of inspirational content and unparalleled networking. We’re 75% sold out, and _everyone_ in SaaS will be there. You [can’t afford to miss it](https://www.saastr.com/top-5-reasons-to-attend-the-saastr-annual/).** 
+
+**Mallun**:  I’m Mallun Yen. I’m with a company called RPX. We offer a subscription service that helps companies reduce risk from patent trolls. We founded the company about six years ago and grew the revenue from 0 to over $200 million in five years. In 2011, we took the company public.
+
+Today, I am absolutely delighted to be able to introduce this next session. We’ve all read in TechCrunch and elsewhere about all those venture rounds with high valuations of SaaS companies. But what makes these deals get done? What causes a VC to invest in one SaaS company versus another? We’re extremely fortunate today to have two of the most active investors in SaaS to tell us why.
+
+First up, we have **Jason Green with Emergence,** followed by **[Mamoon Hamid of Social Capital](https://www.saastr.com/mamoon-hamid-socialcapital-why-sht-really-gets-funded/)**.
+
+Both of these individuals have exclusively invested in SaaS for their entire careers as VCs. Frankly, they invested in SaaS before SaaS was cool, if you can imagine that. Go ahead, Jason, take it away.
+
+**Jason Green**:  Thank you Mallun. I’m going to stand up. Jason asked us to speak, Mamoon and I, a little bit about what really gets funded in the SaaS space. Just to give you a little background, I’m with Emergence Capital. I co-founded the firm back in 2003. We actually started the firm to focus entirely on the Enterprise Cloud. We live, we breathe, we bleed SaaS… and we’ve been doing it for about a decade now.
+
+**Jason**:  This is our team, it’s an amazing team. We’re about 20 folks at Emergence now, 10 of us on the investment team. We all focus on Enterprise SaaS. You can talk to anybody on the Emergence team. We operate very collaboratively. We try to team tackle opportunities.
+
+We have, what we call, unanimous enthusiasm to invest in a new company, which is quite rare in the venture business and the only reason we’re able to do that is because we’re all focused in the category of Enterprise Cloud, so we’re all experts in it.
+
+**Jason Green:** We’ve been very fortunate over the last 10 years. Our first investment was Salesforce.com, which obviously got our entire sector kicked off. Companies like Success Factors, Veeva, [Yammer](https://www.saastr.com/david-sacks-yammer-stewart-butterfield-slack-unicorns-or-bust/), and [Box](https://www.saastr.com/aaron-levie-of-box-if-we-just-sold-to-silos-in-the-enterprise-wed-only-be-a-25000000-business-saastrannual/). They’re now termed unicorns I guess if they make the billion dollar threshold. There was an article on Fortune recently about unicorns. **There are now 80 private companies funded at a billion dollar or more market capitalization.** You know what, unicorns are no longer enough apparently.
+
+There are now eight companies valued at $10 billion or more. If you want to [get the attention of VCs](https://www.saastr.com/dont-have-an-exit-strategy-but-do-have-a-competitive-and-cooperative-landscape-slide/), then you might want to think about how you position yourself for decacorn hunting. We’re all hunting decacorns, and the question is, “How do you build a decacorn?” Unicorn’s great, but how do you build a decacorn?
+
+We’re going to talk a little bit about 10 examples of companies that actually got funded at Emergence over the last 10 years. I tried to pick a mix of some companies that were earlier on and then some more recent because the market certainly has changed. I think what you’ll see is a little bit of a pattern that starts to play out in the investments.
+
+Mamoon, now I’m going to ask to jump in on a couple of them here, because we’re actually co-investors in a number of these. Box has gotten a lot of attention this last few weeks obviously. We invested a little bit later than we typically get involved in a company.
+
+We invested back in 2011 in a series D round. Mamoon actually led the series B. By that time, the company really had made its transition from a B2C company to a B2B company, and was really on the rails in terms of a lot of the key metrics of the business.
+
+They’ve grown their revenues by about 3x year over year. They were at about a $15 million run rate, over 100 employees. This is kind of in the spectrum of where Emergence plays in the late stage of where we would play. We were really thrilled to have an opportunity to invest in the company even though it was a little bit later stage. When I think back about what made Box really unique and special at least from our perspective was the first generation of SaaS businesses were really focused, I think, on getting clunky enterprise software into the cloud.
+
+What Box really revolutionized was focusing on the end user first, getting end users really passionate about using the product, and then combining that with a [freemium business model](https://www.saastr.com/you-need-50-million-users-for-freemium-to-actually-work/) allowing the product to essentially do the marketing for it.
+
+It was a combination of this product orientation as well as the disruption of the freemium business model. Then, the team, I called them the Triple Threat of Silicon Valley, Aaron Levie, Dylan Smith, and Dan Levin. These guys were amazing, very complementary.
+
+Dan had joined about six months before we actually invested and was bringing a lot of expertise from having helped scale other companies including Intuit. Finally, for a later stage investor, what you’re looking for is still a venture return. We were investing at that time it was about $180 million valuation at the time. We were clearly focused on, “Could this thing be a $2 billion opportunity.”
+
+As it turned out, it is, and the reason was Aaron Levie and the team really were going big. They were going big or they were going home, and they were aggressive all the way around.
+
+I’m going to put Mamoon on the spot a little bit because I know he’s going to talk about some other examples and not Box. Mamoon, what did you see at the Series B because it clearly wasn’t as far along as it was when we invested?
+
+**Mamoon**:  I loved that there were 50 other competitors. It was Aaron, and just Aaron at the time. Kidding aside, really, it was this transition from file storage, behind the firewall or in closets, moving to the Cloud in the enterprise. We were really just a B2C company at the time with the goal and the aspirations of being a B2B company.
+
+We were just making that transition. This is in the beginning of 2008 when we invested. If it comes down to it, it was the vision that Aaron painted, and our belief in Aaron to actually build a really big company. It was really backing the entrepreneur who was going to stand out of the 50 other file sharing companies that existed in 2008. Really, there were like 50 other companies.
+
+**Jason**:  Right.
+
+**Mamoon**:  Aaron would say it was pure luck that for us, as investors, at the time we should not have invested because there’s nothing that suggested that we should invest.
+
+**Jason**:  Clearly, it was a good decision in retrospect. We are very proud of Box. Yammer is another example of a company that we funded. This one we funded at a little bit earlier stage in the Series B.
+
+Yammer was really a perfect, I call it, “Sweet spot for Emergence.” They had spun Yammer out of another company called Genie, which is interesting because there’s also a B2C story here. They were started as a B2C company, they spun out this project called Yammer from Genie.
+
+David Sacks, the founder, was really a consumer Internet guy. He was very focused on product and again the end user kind of focus. The company had raised some money from the existing investors in Genie, but it just started really monetizing the enterprise in the B2B side of it.
+
+What we found really intriguing about the company at the time, it was about 25 people, was the user growth. It had gone from essentially zero to about half a million users in a year.
+
+What was interesting was while this is a linear growth chart here, the time to get to that next whatever million users was starting to shrink. We could see it in the numbers. The second most compelling thing about Yammer was the conversion rate.
+
+Like Box, they had a freemium business model, but most freemium business models have low single digit conversion rates. Yammer’s was in the double digits, and it was increasing.
+
+Those are what I call the “Money slides.” When you think about raising money from a venture capitalist, what one or two things were they just going to get so excited about that they can see and they can capture the imagination of the potential for this business. To me, **it was this amazing viral growth of users and the conversion rate to monetization.**
+
+Those two things really closed the deal for us. The third thing was the team. This is the PayPal mafia, many have gone on to found incredibly successful businesses after PayPal; LinkedIn and Square among others.
+
+David clearly had a mindset of very big ambitions when he started Yammer. He was running that business to win. I remember one quote from David which really resonated, and a lot of people sometimes criticize companies for being so aggressive in the market. They raise a lot of money, they hire very aggressively, they’re spending aggressively.
+
+The question is, “Should they be doing that. Is it really prudent.” From his perspective, he thought that it was the least risky thing to do.
+
+I think if more entrepreneurs understood that the market they were going after was kind of a winner take all had these network effects and really could attract the capital and the talent to really win in the space. The market leader gets about a 10x valuation increase over the next guy. Yammer was clearly the leader.
+
+CoTap is another favorite of ours in Emergence. This one was on the other side of the spectrum of Box. This was a pre-revenue business. We don’t typically invest in pre-revenue companies, but what was special about CoTap was two things.
+
+One was they were going after a very big idea. This was to be the WhatsApp for business. Just like Yammer was Facebook or Twitter for business, CoTap was trying to be the mobile equivalent or WhatsApp for business.
+
+We know that was going to be an absolutely huge opportunity. The second thing and probably more compelling to us was the team. Both Jim and Zach were literally like the first dozen folks over at Yammer. Zach was the first engineer and Jim was really David’s right hand man on the product side.
+
+Two of the best product visionaries and product executors that we knew. You pick a very big target like WhatsApp for business, you pick a team that can build a product, and you’re off to the races.
+
+Obviously, that’s still a very early stage business. They’re doing incredibly nicely, on track to hit a million users this year. We hope it has a similar WhatsApp kind of outcome.
+
+SteelBrick is another really interesting company. I think it’s a great example of…I call it two X factors coming together.
+
+One X factor was this company was bootstrapped by a technical founder named Max Rudman. He had built the company to 100 customers without any outside capital, and they were just raving fans of this product. Then, he partnered with a team out of a company called “Big Machines” that had gotten bought by Oracle. Big Machines was the leader in Enterprise CPQ solutions.
+
+I don’t know if many of you know what CPQ is. How many use a CPQ solution in the audience? If you don’t, you should be. Take a look at SteelBrick, but it is an amazing company. We had a team that basically had built the enterprise software leader from a go to market strategy combined with the best cloud product that Max had built. This company has scaled from 5 people to about 50 people in the last nine months and is off to the races.
+
+In fact, this week, I think they just announced a follow on financing. For us, again, that was the sweet spot. It was I’d say less than $1 million of revenue, had early product market fit, great customer adoption, but then this kind of X factor of the team coming together with our capital and their expertise that could really accelerate the business.
+
+ServiceMax is a company that was really early on building on top of the Force.com platform. We had actually sponsored an event with Salesforce to find the best applications built on Force.
+
+We’ll talk about another company later called Veeva Systems that was similar to that, but ServiceMax was really trying to automate field service applications built on Force, also a bootstrapped business. They had about a dozen customers, maybe 20 customers, less than $1 million in revenue, but what was the X factor here in addition to betting on the Cloud Platform, was we had a guy in our hip pocket, a guy named Dave Yarnold.
+
+Dave was the former VP of sales globally at Success Factors, one of the few guys that had actually built a SaaS business from pretty much the ground all the way up to a billion dollar public company. Dave was ready to be CEO of this company, ServiceMax.
+
+He also had quite a bit of domain expertise having been in a company called Clarify, which is, for those of you who were in the software business in the 80s and 90s, had a lot of field service applications.
+
+Combining a really new disruptive platform with an amazing guy and a track record of building a SaaS business. The company is now in its sixth year, I believe, with 100 percent compound annual growth, and we’re incredibly excited.
+
+Let’s change gears a little bit. One of the areas that we’re really excited about in Emergence is healthcare. We’ve invested in a couple of early stage businesses, which I think are fairly risky, but I think if we win, we win big. It’s back to creating these unicorns or decacorns. Augmedix was a seed investment of ours, probably earlier than our sweet spot, but the value proposition was so compelling.
+
+This was about physicians wearing Google Glass during a visit with a patient, and being able to essentially improve the way they were able to capture all that information while they had that visit. The question was, “First of all, would physicians accept this? Would patients accept this? Would it provide a significant value proposition?”
+
+We were able to seed the business, do about three or four key pilots in significant Healthcare Organizations, and see dramatic impact. Physicians loved it, patients actually felt it was a better experience because they were one on one with the doctor instead of the doctor sitting there and typing on the computer. We knew that if they could actually make this thing to scale, that it was going to really change the face of Healthcare.[](https://i0.wp.com/www.saastr.com/wp-content/uploads/2015/12/6.png?quality=70&ssl=1)
+
+It’s still early days with Augmedix. It’s betting on a fundamentally new platform, which is Google Glass. We don’t know if Google Glass is going to be successful yet. It’s still to be determined, but we know that Google is investing very heavily in that platform, we’ve seen some of the Google Glass 2.0 early looks, and it’s pretty amazing.
+
+One of the things you really get attracted to as a venture capitalist, I think are not just me too ideas or point solutions. You’re looking for companies that build applications, solving really big problems, that are somehow enabled by a really new compelling thing. That’s what I love about Augmedix.
+
+Veeva is one of the most incredible SaaS businesses ever built. This is a company that raised $6 million of capital all the way to a public offering. They’re valued at about $3.5 billion dollars today, several hundred million in revenue. How did they do that?
+
+Veeva discovered early on the sales efficiency of focusing in on a very specific industry vertical. We call it the “Industry Cloud Model.” Industry cloud has become now one of our most exciting new investment opportunities. We’re literally going through every major industry, hospitality, real estate, transportation, and looking for SaaS leaders that are going to dominate it.[](https://i0.wp.com/www.saastr.com/wp-content/uploads/2015/12/7.png?quality=70&ssl=1)
+
+What Veeva figured out is they could own unlike, let’s say, CRM which is a huge market but you can only own a fraction of a percent of the market, even Salesforce has less than 10 or 15 percent of the market today. Veeva potentially could own 80 percent of the market.
+
+That has tremendous sales and marketing efficiency associated with it. They’ve also come out with new products that they can sell into those existing customers.
+
+The other factor here was the team. It’s really hard to find technology folks, and domain experts when you back an Industry Cloud Company. What was really magical about Veeva was we had Peter Gassner from Salesforce.com, a guy that we knew quite well, who understood the platform, and then Matt from Siebel who ran the healthcare practice there had a lot of the domain expertise selling the life sciences.
+
+You combine that domain expertise with the technology platform and those two just created really magic together. It’s been a remarkable company, probably our best investment, maybe it will be our best investment ever.[](https://i0.wp.com/www.saastr.com/wp-content/uploads/2015/12/8.png?quality=70&ssl=1)
+
+Civitas Learning is also an industry cloud focused company. They’re focused in on education. Similar thing using predictive analytics to really help dramatically improve the ROI for tracking students, basically in online education.
+
+This was a team that had deep domain expertise, half a dozen early pilots with great ROI. Again, it took advantage of our ability to get involved in the company when they had early product market fit and really accelerate sales and marketing.
+
+I’m running out of time here, so I better go quick. We’ll skip Doximity for a sec. Let’s talk about Zoom because they just announced their financing yesterday. It’s our largest check to date for Emergence, initial check, and what we loved about this company was a couple things.
+
+First of all, **they had this tremendous user growth with zero dollars in marketing. They had that early customer product market fit. Secondly, the team was an incredibly domain specific team** [](https://i0.wp.com/www.saastr.com/wp-content/uploads/2015/12/9.png?quality=70&ssl=1)**here.**
+
+The guys that founded WebEx and built that product. It’s an incredibly hard product to build well. Maybe you don’t want, we were talking about travel earlier, if you want to reduce your travel, try Zoom. It’s an amazing product. We’re already using it in Emergence for board meetings and other things.
+
+This is a company that’s at a little later stage than we would typically get involved, but we were able to still write a significant check, be an important contributor to the company, and now it’s about building that go-to-market team.
+
+I would ask you to just ask yourselves when you’re talking to a venture capitalist, “Our risk profile is the same for every deal, which is zero.” The only thing that matters is the upside for taking the risk that we do. What is your X factor? If you have one X factor that’s great. If you have two X factors, you’re going to get a second meeting. If you have three X factors, you are going to be having people knocking your door down.[](https://i0.wp.com/www.saastr.com/wp-content/uploads/2015/12/10.png?quality=70&ssl=1)
+
+Some of these companies can have four or five X factors, then it tends to be a little later stage, but I would ask you to think, “What is your X factor? How to build a company that people will die to invest in?” I’d like to hand it off to Mamoon.
+
+**Mallun**:  Thank you Jason for that fascinating look behind the scenes of why you invest in companies.
+
+_**Hungry for more** **SaaS VC insights?** Check out “[Why Sh\*t Really Gets Funded – Part 2](https://www.saastr.com/mamoon-hamid-socialcapital-why-sht-really-gets-funded/)” with Mamoon Hamid of Social+Capital… and if you haven’t done it yet, go grab your tix to [SaaStr Annual 2016](https://www.sasstr.com/saastr-annual-2016)!_

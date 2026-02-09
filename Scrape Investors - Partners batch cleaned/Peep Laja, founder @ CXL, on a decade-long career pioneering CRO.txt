@@ -1,0 +1,506 @@
+# Peep Laja, founder @ CXL, on a decade-long career pioneering CRO
+
+## Ever been overwhelmed while trying to figure out exactly what to test on your site?
+
+You’re not alone. Every time you go online to Google “conversion optimization,” you’ll see thousands of sites touting _proven strategies that_ you need to try on your own site. Where do you start? Peep has built CXL by helping provide strategies for companies of all sizes to implement CRO.
+
+While conversion optimization might not be as sexy as traffic or funnels — it’s value can’t be diminished. Peep started diving into conversion in 2007 when not a ton of other people were doing it, and he currently sits at the cutting edge of CRO strategies
+
+### _Join us as we learn from Peep’s decade long career pioneering CRO._
+
+[Listen to Scale or Die on iTunes](https://podcasts.apple.com/us/podcast/16-peep-laja-founder-cxl-on-decade-long-career-pioneering/id1450534819?i=1000448448662)  
+[Listen to Scale or Die on Spotify](https://open.spotify.com/episode/7LP5ICWtgrrtt2GDwmlsuU?si=D7o1FoRaR1G3hIMbQq1HKQ)  
+[Listen to Scale or Die on Stitcher](https://www.stitcher.com/podcast/scale-or-die/e/63642069?autoplay=true)
+
+[Subscribe to Scale or Die](https://useproof.com/scaleordie)
+
+## In This Episode You’ll Learn:
+
+1:08 — The backstory on how Peep got started in Conversion Optimization   
+2:53 — Common mistakes companies make when approaching CRO  
+6:03 — “99 proven strategies for conversion” — which one works for you?   
+9:54 — The best practices for quality assurance when you’re A/B Testing   
+17:26 — Insights about user testing  
+37:25 — The Salty Six
+
+## Full Transcript:
+
+**DR:** Today, we’ve got a master of conversion optimization himself (in my mind at least), Peep Laja.
+
+Peep has been kind of in my mind, the guy that all companies are going to in order to learn conversion optimization. He’s been an advocate, he’s beating that drum and I have personally learned a ton from him. I know a ton of other big startups that you guys all follow, either you have worked with his agency or are working with the Institute in learning through online platforms and live training.
+
+So Peep, excited to dig in and talk about conversion optimization specifically for startups? Welcome to the show!
+
+**PL:** Thank you. Thanks for having me.
+
+**DR:** So you talk about this stuff all the time, I feel?
+
+**PL:** All the time.
+
+**DR:** This is your thing?
+
+**PL:** It is.
+
+**DR:** So how did you get into conversion optimization? I guess why? Because I don’t see a ton of people talking about this but you do.
+
+### So I guess I’m gonna start with, why conversion optimization?
+
+**PL:** I mean, more than 12 years ago I was doing SEO and PPC. In like 2007, it wasn’t too hard to get sites ranking like number one on Google.
+
+So when I did that for my clients, I saw, okay they’re getting a bunch more traffic but not necessarily making more money. So I realized, oh there’s a piece missing here.
+
+So traffic is not the be-all, end-all and then I stumbled upon conversion optimization. There were very few people doing it back then. It was mostly uncharted territory, but I was lucky with finding some mentors along the way and a lot of trial and error. Mostly errors… But since 2011, I’ve been doing it full-time since I started CXL.
+
+**DR:** Why is conversion optimization not as sexy as traffic or funnels?
+
+**PL:** Beats me, man. I think it’s fascinating, I mean also like if I tell you the concept like this, “Hey so like we could just improve this metric and you’ll make a bunch more money, like improve your conversion rate by 20% and it’s the same as like tripling your traffic.” I don’t know why it’s not mainstream, beats me, man.
+
+**DR:** I wanna dive in and ask about your process and how you teach people. I also want to cover how you guys implement it yourself.
+
+### But first, what are the big mistakes?
+
+**PL:**
+
+The first thing that popped to my mind is, thinking that shiny new toys are selling well. So think back a couple of years ago.
+
+![ebay slider](https://blog.useproof.com/static/1b6a523ab15b636e97a96c0e6e4d09ba/Screen-Capture-on-2019-09-03-at-15-43-31.gif)
+
+Example of a slider on eBay
+
+Every single e-commerce store, they had to have those automatic sliders. Like every three seconds, there’s a new image.
+
+Oh, that’s cool, that’s fancy, executives like it, we need some of that. It kills conversions like nothing else.
+
+Or now every cool startup has to have a video background. I mean sure it looks cool, does it sound? No, it’s distracting.
+
+So chasing those new trends or ghost patterns and all these design trends, that’s a mistake. What else? I mean, trying to sound too clever either by inserting a lot of jargon into your messaging, _very common among b2b startups_, trying to sound fancy and smart now with more AI and the like.
+
+> But when a human being is reading the value proposition, they’re not actually getting it and clarity trumps persuasion any day.
+
+**DR:** So if they come to the site, do they quickly know what the heck it is that you’re selling or talking about?
+
+**PL:** Exactly right. So, if you’re a well-known brand if you’re like Amazon or Salesforce, you can get away with it because people know you and trust you.
+
+But if you’re a small startup you’re facing an uphill trust battle as it is. People haven’t heard of you and then also there needs to be clarity.
+
+Like what is it that you guys do how can you help me? If you go down the jargon route, which is very attractive to do, that’s also the first sign of a rookie copywriter. They default to jargon. I don’t know why that is, but yeah.
+
+### **DR:**
+
+### Have you seen or done any tests on whether adding the word AI or machine learning actually does increase anything, anywhere?
+
+**PL:** I personally have not, but I saw the guys at ProfitWell. [They did a study](https://www.profitwell.com/blog/ai-machine-learning-impacts-willingness-to-pay) where, a pricing study where they saw that people, when something is now with AI they’re ready to pay like a premium price for it, like 30% more or something.
+
+**DR:** Interesting.
+
+**PL:** So yeah.
+
+**DR:** You think that’s true?
+
+**PL:** I mean, executives again, they like shiny new toys. Now with more blockchain and AI, it’s like at 50% average order value.
+
+**DR:** All right, maybe I’ll try that out.
+
+Let’s talk about just like the process. We can go super deep if you want, we can kinda just skim over the bold points at the top.
+
+### But when you’re thinking about teaching this or working with a new startup, what is the process?
+
+**PL:** Right, so people have three or so faulty assumptions. First of all, they think CRO is a list of tactics that maybe you can copy from a website. There are plenty of blog posts around it.
+
+**PL:** 99 Proven Strategies. That always work.
+
+**DR:** I think I’ve probably put some of those out there.
+
+**PL:** Yeah I mean people wanna believe it’s true and so they tend to get a lot of backlinks and social shares and so on — but it’s not the truth!
+
+So let’s say you find a list of 99 tactics. So what do you do with that list? Do you implement them all at once on your website?
+
+I mean, no, your website would look crazy. It’s like [Lings Cars](https://www.lingscars.com/), look that website up. 
+
+That’s like 99 tactics implemented all at once. So okay, we can’t do that.
+
+> There’s also like, if we implement 99 tactics at once, some will work, some will not work and they cancel each other out. And then you don’t know which one of these 99 works, so we can’t do that.
+
+So okay, can we test them one by one and see which one will work?
+
+This is another huge mistake companies make. They don’t know statistics. And they think running a test is like, “oh seven versus 10 conversions and now we know.”
+
+That’s far from the truth. So on an average website with average traffic, an average A/B test should run like four weeks. So testing like 100 ideas one by one takes like seven and a half years. So you can’t do that. Nobody has that kind of time.
+
+And also, okay let’s start testing them — but like what do we test first second and so on? How do you prioritize random ideas off a blog post?
+
+You can’t, there’s no way of doing it. So instead what you need to do is you need to understand what are the actual problems your very specific website has and the only way to do that is through research.
+
+So you need to conduct qualitative and quantitative research to understand what are the particular problems your website has and what issues are your specific users having with your website.
+
+There are multiple ways so — or like I’ll walk you through a process that works phenomenally well. With user research, you can go crazy in-depth, deep, but that also means it costs a lot of money, it costs a lot of time.
+
+So you really need to weigh your, do a cost-benefit analysis here, and of course, the bigger you are in terms of your transaction volume the bigger the impact of any improvements, the bigger the impact.
+
+So for instance, if I increase your sales by 1%, if your annual revenue is 100,000 that’s like what, 1000 bucks? Not very much.
+
+Whereas if my revenue is 100 million, 1% is a million bucks. It’s worth investing in research.
+
+So there’s this research excel framework that I came up with a number of years ago which is this, let’s say distilled down user research and the minimum viable research process. Essentially, that doesn’t take a lot of time or money and gives you greater days. So step one is, you wanna look into any technical issues that your site has because odds are, your front-end developers did not do their QA right.
+
+Nobody wants to do QA, it’s boring, it’s terrible, time-consuming and they probably all have like big ass 50-inch monitors and then they’re on their Mac books and they never looked at the website on a 13-inch Dell or something.
+
+**DR:** Or the one that always gets us is mobile.
+
+**PL:** Oh yes.
+
+**DR:** Like we launch something, we think it’s amazing, four days later someone is at home going to bed and they pull it up on their phone they’re like, “Oh my gosh, it doesn’t even fit on the screen!”
+
+**PL:** Yeah, absolutely. So I mean, the best way is that you have real-time QA reporting. So if a conversion rate on a particular device or segment tanks fluctuates more than 20% below average you get a notification. Somebody can go and check it because no human can really do this fast enough
+
+**DR:** How would you get that up?
+
+**PL:** Google Alerts, Google Analytics Alerts. They’re really slow though, they’re like 24 hours back. You’ve maybe already lost a bunch of money.
+
+> Manually what you should do is go into your web analytics app — most people use Google Analytics — and you look at the conversion rate per browser version per device category or even a particular device.
+
+Let’s say iPhone X converts at 5% whereas your latest Samsung converts at 3%. Why is that? Well I mean, some of it might be due to non-technical factors.
+
+So, for instance, people using, say Safari browsers versus Internet Explorer might be a thing that people using Internet Explorer have old computers, they don’t have much money and hence they’re not spending as much and they convert at a lower rate whereas iPhone people are likely younger, richer and so on.
+
+But if you compare your conversion rate, latest Chrome versus Chrome two versions ago and there’s like a 30% conversion rate difference there, it’s likely because of bugs. So you wanna take care of all that stuff, step one.
+
+### **DR:** How often do you see companies solving big problems there?
+
+**PL:** Well when we come on, that’s the first thing. On their own, hardly ever.
+
+> They’re focused on like [CTA copy](https://call-to-action-examples/) or how big a button is and silly things like that. So I mean, over the course of like last 7 years my agency has probably made companies 100 million bucks just by detecting bugs.
+
+**DR:** Interesting.
+
+**PL:** Stuff doesn’t work on a particular browser or device combination, so that’s step one.
+
+Step two is like you wanna conduct a walkthrough of your website, page by page, desktop and mobile separately. This is best done as a group exercise and you start assessing each page on your website against certain set criteria like clarity.
+
+Do I understand exactly where I am, what I’m supposed to do on this page, what to do next?
+
+What’s vague? Anything vague, I like to take like screenshots and put like annotations on screenshots. This is too vague, this is too vague, we need to enhance clarity here.
+
+> Then we want to assess friction. So every page in a website should be designed to get the user to take one particular action.
+
+If they’re on your home page usually the action is getting them off the home page. Click somewhere and maybe self segment.
+
+“I’m a solo user,” “I’m a big enterprise.” Well, whatever it is.
+
+Then maybe we want them to go or take a product tour go to the feature space. So the feature space will say, “Hey, look at the pricing.”
+
+And the [pricing page](https://pricing-page-examples/) would say, “Go to check out” so on.
+
+So what is holding people back? What is stopping people from taking action? What is causing friction?  
+
+Write it down — all the ideas that we have. And then what are we doing to increase user motivation to take that action that we want them to take?
+
+Maybe it’s to increase social proof, maybe it’s to list more benefits. What’s in it for them? These kinds of things.
+
+> It’s so frequent when people actually forget to list what’s in it for the user. They’re all about we we we. In the industry, we call it we-ing all over yourself.
+
+And then again take note of all these things. What else could we do to increase their motivation? Because if you think about conversion optimization or getting people to take action you only have two levers.
+
+One is increasing their motivation. They might come in with some sort of intrinsic motivation if they’re inbound traffic.
+
+The other lever you have is decreasing friction. So for instance if on my website is you need to fill out a form, the more form fields there are, the more friction, right?
+
+But if my motivation is sky-high, I don’t care. If you’re gonna give me a brand new Ferrari if I fill out your form with 80 form fields. I’m gonna do it because I want that free Ferrari.
+
+Like the friction doesn’t matter, and of course, what you sell is not a free Ferrari. You sell something else, so you can’t have that much friction.
+
+You might wanna have some friction to filter out tire kickers, people who are gonna waste your sales people’s time if you do demos and things like that.
+
+And so all these things that you write down about how could we improve our pages, this is not, of course, the truth, these are assumptions or ideas of why our website might or might not be working as well.
+
+Now the next phase is qualitative-quantitative research to figure out what are those observations about our website, whether they’re actually valid or invalid. For qualitative, I wanna do probably three things that are really easy to do. One is user testing. So usertesting.com or its many cheaper, way cheaper competitors because usertesting.com is now pretty expensive.
+
+BrowserStack’s testing page
+
+**DR:** I think I’ve used [BrowserStack](https://www.browserstack.com/) before. I guess is that more like…
+
+**PL:** Oh BrowserStack! Well, that’s QA.
+
+**DR:** Oh, QA.
+
+**PL:** So it’s not actually user testing.
+
+**DR:** The user testing is actually sending it to your users?
+
+**PL:** So exactly, it’s recruiting people who represent your target audience. They might not be perfect people but like they are actually human beings and if they can read and you have words on your website it’s already pretty good.
+
+**DR:** There’s the one I’ve used it like shows people for like five or 10 seconds and they have to like type out what that was.
+
+Five second test by Usability Hub
+
+**PL:** Yeah [five-second test](https://fivesecondtest.com/), UsabilityHub. Also good, not as insightful as user testing.
+
+I think we’re using Validately as the tool right now. It’s exactly like [usertesting.com](https://www.usertesting.com/) but just much cheaper. So basically you wanna recruit like 10 or so people and have them perform certain tasks.
+
+You wanna ask them about, “Hey, what do you think this website is about?”
+
+Checking your clarity, and then you wanna say something like “find out how much it costs” because you wanna see how long it takes for somebody to figure it out. This is especially important if you have complicated pricing. It might be super easy, but it depends on your site.
+
+So never ask for their opinions like, “Hey, would you sign up? “Would you pay for it?” Things like that because these people are not risking their own money. So user testing super inside. You’ll find all the sources of friction, confusion, things like that.
+
+**DR:** We had an event at our office recently. It was called [UserTestFest](https://www.reallygoodux.io/user-test-fest) and everybody came to our office, and we were just testing our app and we had them like set up a new campaign. I mean it is so insightful, like four people in, we knew like all the problems and then the rest of the night it was just everybody repeating the same exact things, and it was just like unbelievably exciting to do that. And we skipped it for years and it’s like I think most people aren’t doing that stuff.
+
+**PL:** It’s so fast and cheap to do.
+
+The second thing we do is, on Google Analytics or whatever you use for your funnel measurement metrics, you see where people are dropping off. Maybe we have, let’s say 1000 people on our features page, but only a 100 go to pricing and to buy.
+
+So it’s like okay, so we have like this significant drop-off in our flow here. So what is holding them back on this pricing page? Like 100 people go, two people sign up, 2%. Well, not too terrible but people who make, but terrible for the pricing page because people who finally make it to your pricing page should convert at like 70-90%.
+
+It all depends of course, on what they know and so on. So how do you improve your pricing page? Well we can hypothesize all day long and some of those ideas are probably pretty good, but again we don’t know which ones.
+
+So easy way to do is, you put a paw on the website using maybe Hotjar or one of those tools. Ask, “Hey, what’s holding you back from signing up right now?” And sure you don’t get a high response rate, you maybe you’ll get a 2% 4% response rate.
+
+So depending on your traffic it might take a while for you to get enough answers, but I typically wanna get like 200-250 responses in and then people will tell you right away what’s holding them back.
+
+**DR:** Are you putting there like on the pricing page, on the order form kind of?
+
+**PL:** On the page where the drop of happens. You maybe trigger it after you look after they spend 10 seconds on that page.
+
+So you wanna trigger that when they’ve shown above-average engagement, so you filter out instant answers and irrelevant people and then you pop the question. You’ll learn things that you never thought about.
+
+So for instance, I remember working with this e-commerce site where massive drop-off on their cart page and we’re looking at this page like, it looks perfectly legit to us and then put a poll on it and like almost everybody, like 80% said, “Oh, it’s the high shipping costs.”
+
+Whereas like if you look at the page you don’t think about high shipping costs. Oh yeah, high shipping costs, so we need to solve that problem. 
+
+The final third thing to do is you survey people who just completed the signup. They signed up for a free trial or a paid plan, whatever it is. You survey them, you ask about their friction, you’re like, what kind of doubts and hesitations you have before signing up? Well, what almost stopped you from completing the signup?
+
+Any questions you had you couldn’t find answers to? Things like that.
+
+While they still freshly remember their sign up experience, super insightful and you also wanna know something about themselves, are they small business, big biz, depending on who you’re targeting, like are they male/female? Those can be like multiple-choice types of questions because you might wanna segment their answers based on certain criteria.
+
+But all the other questions have to be open-ended, no multiple-choice, because with multiple choice you assume you know what the possible reasons are and you’re shutting yourself completely off to what you don’t know, that you don’t know.
+
+**DR:** You guys never would have asked about the high shipping cost, if you had like four answers.
+
+**PL:** Yeah, exactly, it never crossed our minds.
+
+> And you learn all kinds of things like well, people have all kind of weird fears because you are so into your business, you forget what kind of hesitations people have.
+
+Another useful question to ask is, how many other sites did you check out before signing up with us?
+
+Let’s say that you’re selling invoicing software. Everybody and their mother are selling invoicing software, right? There are so many options out there. Are they really comparing only signing up with you or not at all?
+
+No, they’re checking out everybody and often you learn that these guys did 30 days of research, they did demos with like eight software and then you wanna know which ones are they comparing you to.
+
+> Of course, you know your competitors, you can go to G2crowd and just look them all up. But sometimes there are competitors you didn’t know that people compare you against.
+
+And then does your website articulate clearly, why choose you over all those guys? And of course, do you have competitor comparison pages? When they’re searching for use proof versus usetheotherproof.com and then you wanna make your case, right?
+
+And if you don’t have a case, well you have a huge business problem. This is not a conversion optimization problem anymore. Like if you don’t have a competitive advantage or you can’t clearly articulate your benefit, well like why to choose you over the other guys, that’s a whole another deal.
+
+So that’s the qualitative bit and qualitative I’ll tell you is, it’s the most enlightening part of it. The rest of it, quantitative research is digital analytic stuff it’s the funnel drop-off, segmentation.
+
+And another thing that I don’t see people typically do is finding correlations between user behaviors on your website and signing up.
+
+So for instance, let’s say that you have, I don’t know, a pricing calculator on the website, some widget that people can interact with. So if they come to your website, interact with that widget, are they now more likely to sign up? Less likely to sign up or no difference?
+
+So in Google Analytics, I grant it that you’re firing an event when somebody interacts with that, using Google Tag Manager or whatever. So if you can measure that so let’s say you see, oh people who interact with this widget now convert 20% better.
+
+Now the question is, well we don’t know if it’s the widget or the people who were more likely to sign up, we’re just also more likely to interact with that widget because it was more relevant for them.
+
+So you need to devise an A/B test. So how can we get more people to interact with that widget? So if we can increase it from 20% — or let’s say that there are only 10% of the traffic, can we increase it to 20% of the traffic and see an uplift. Does the 20% improvement in conversion rate still stand?
+
+So how do we do that? We don’t know how to get more people to interact with it. So we’ll need to come up with a couple of hypotheses. Typically if you want more attention to something, it’s all about real estate, making it bigger, more prominent, [above the fold](https://useproof.com/personalization-glossary/above-the-fold), on your highest-traffic page. So you put the interactive widget on your home page above the fold, to start there.
+
+Kinda like, you wanna look at insurance companies like their lending pages. Like if you search for life insurance quotes or so on, those clicks and adverts they’re like 50 bucks a click. So, of course, the lifetime value is insane on the backend but you wanna look at the funnel that they throw you in, it’s all about interactive widgets man.
+
+**DR:** Well it seems like this is like 80% research
+
+**PL:** It totally is.
+
+**DR:** And hugely front-loaded with let’s dig and do the research and then a little bit of hey, here’s how you set up the test, here’s how you set the analytics, here’s the actual like application.
+
+**PL:** It is, it is totally, because I mean, setting up tests is not hard. Assuming you have a front-end developer available. Some people think that they can set up A/B test using their visual editors of all those testing tools. No no no that’s for children. 
+
+**DR:** Why? Why would you say that?
+
+**PL:** I mean what happens if you, well you can use it to test copy. It’s easy to make changes, but like if you make small changes you also get small uplifts.
+
+Unless you know, I mean with copy you could potentially get big uplifts too, depending on how horrible it was before.
+
+But also what happens is if you start messing with the page, you make bigger changes with the visual editor, it auto-generates the front-end code. It’s jQuery code and usually, it’s like such a horrible code that it will break the website in like half the browsers and half of your functionality stops working and so it’s a huge QA problem, so.
+
+### **DR:** Do you guys use those or do you generally just have front-end developers code it in?
+
+**PL:** All 100% developers, I mean, any testing tool also has a code editor or at least an API you can use to deploy your code.
+
+["So nobody can do A/B testing without the front-end developer — otherwise, you're just playing with a toy, it's not real A/B testing."](https://twitter.com/intent/tweet?url=https://blog.useproof.com/peep-laja-cxl&text=So%20nobody%20can%20do%20A/B%20testing%20without%20the%20front-end%20developer%20%E2%80%94%20otherwise,%20you%27re%20just%20playing%20with%20a%20toy,%20it%27s%20not%20real%20A/B%20testing.&via=useproof&related=useproof)
+
+So A/B testing these days is not hard. Great tools are available, Google Optimize is free (the initial version).
+
+So if you’re just dipping your toes in there’s no excuse. The tools are not expensive. Also like, low-cost tools that are pretty good, plenty and available.
+
+But what to test is the hard part and that is all about research. Usually when we do conversion research takes us, depending on how large the website is, two to four weeks of somebody doing it and then we end up with at least 100 issues. 100 problems that we have identified. Some of those severe, some of those minor usability issues.
+
+And so then you start fixing them. Some of those are like no brainer issues, like oh, people can’t read your text on your website because the font size is too small. Well, that’s easy, just increase the font size, no testing needed or something is buggy or people don’t know how to go there. Like some obvious fixes.
+
+But for many things, let’s say like, we wanna increase the number of people interacting with something or going to a certain page, there’s no way to know what’s the best way to accomplish that. So we need to generate ideas.
+
+And so there we need to develop a bunch of test ideas. We talk through in a team setting, all of the possible and radically different ways of doing it and then, of course, we need some kind of a prioritization methodology to prioritize those various test ideas and to go with our best one to test.
+
+Of course, if you’re a huge company you can test multiple variants at once. If you’re a smaller company you probably can just do a regular old A/B test and you need to know your basic A/B testing statistics because people think that once you reach 95% statistical significance, the test is done. But that’s not a stopping role and people even don’t know what statistical significance means.
+
+**DR:** You gotta have the sample size and you gotta let it run at least a week.
+
+**PL:** Or probably more.
+
+I mean if you’re a very high-traffic website, a week might be enough but yes, you start with your sample size calculations, there are plenty of calculators online available. And then, so let’s say, the calculator tells you that you need 10,000 users per variation, based on the uplift you wanna be able to detect and you have Amazon-style traffic so you reach that in five minutes, that sample size. Is the test done?
+
+> Well no, because what you did was you took a convenient sample, not representative traffic because how traffic behaves on Mondays is different from how it behaves on Fridays. How it behaves on Valentine’s Day, even like hours of today are different.
+
+Also like on this particular time when you run your test or like today your competitor might be having a huge sale that’s like affecting your test. So all these extra analogies that might be influencing your test here, so hence you wanna run the test, I say minimum two weeks to make sure that it’s not just about, I mean so that it’s representative of who comes, different traffic sources, different days of the week, all that stuff and then finally you look at the significance ’cause you can achieve significance with a tiny sample size. Seven conversions versus 16 conversions but like it’s actually the margin of error and the statistical power on that is going to be terrible.
+
+**DR:** I’ve had one challenge I ran into and think about is, on one hand, I’d love to run these perfect tests, all the way to 99% significance and just like know for a fact.
+
+### Another hand, I’m running the business. I’m trying to get some wins, I’m trying to move quickly and iterate quickly. I guess, how do you think about that dichotomy?
+
+**PL:** Totally. So I think it really depends on what you’re testing and the importance of that outcome on your business strategy. So if you’re banking all your strategies on the outcome of an A/B test, you wanna be really sure that this is a legit outcome. So, for instance, it’s like, hey, maybe we should change our target market or maybe we should go after these other guys.
+
+So let’s split this our messaging and say, version A is small guys, version B is big guys and oh, big guys, wow! That’s converts way better. They wanna buy, changing pivoting, new target audience. But actually you had like a shitty test, the data was incorrect and now you’re, basically, you’re ruining your future doing that but if it’s like you’re testing messaging on a button “sign up now” versus “get instant access,” it probably doesn’t matter that much.
+
+**DR:** It’s okay if there’s a 10% chance, it’s an invalid test and you can go back.
+
+**PL:** Yeah, you’re gonna have false positive as well as false negatives, that’s a given. So if it’s not a big deal, that’s fine.
+
+I’ll also recommend that people actually use Bayesian statistics rather than frequentist, which is the default. Bayesian statistics don’t have p-values and the reason I’m saying is not the frequentist is in any way superior and if you have any statisticians listening in they’re gonna murder me here.
+
+But basically, the reason why I would endorse that people use an A/B testing tool that uses Bayesian stats like VWO, for instance, is because it’s easier to understand what the results mean.
+
+So if you have 95% statistical significance which is the regular frequentist stats, it doesn’t mean that it’s 95% probability that a B was better than A nor does it tell you about the risk of making a mistake. So all that statistical significance of p-value shows you is what are the odds that we’re seeing the result or more extreme, assuming that A and B are actually identical.
+
+So it’s a concept that’s very hard to wrap your mind around, whereas in Bayesian statistics it’s dealing with actual probabilities.
+
+It’s, oh we think that based on the test here, there’s 80% probability that B is better than A and if you could take 80% probability to Vegas he’d take that any day. So stopping the test at 80% probability is a risk that I as a business owner, I’m ready to take any day, when I’m testing button copy or like when I’m testing my business future type of test, of course, I wanna be more sure.
+
+**DR:** Yeah, so like 95% significance, if their sample size is saying 19 out of 20 times you run this thing, we think you’re gonna get this result?
+
+**PL:** Not quite, but that’s for another day.
+
+**DR:** Deeper dive.
+
+**PL:** Yeah.
+
+**DR:** Perfect. One other question I had, something that we wrestle with is if you just have two tests running, your A and B.
+
+**PL:** Two variants?
+
+**DR:** Yeah, those are two variants.
+
+### Is there ever a time to not have it split 50/50?
+
+**PL:** Totally.
+
+**DR:** What you think about that?
+
+**PL:** So I do endorse banded testing.
+
+So bandit testing is the traffic allocation to a variant changes dynamically as B starts converting better, more traffic flows to B and then when A is converting better more traffic flows to A So this is the type of test you wanna run during a promo campaign.
+
+It’s Christmas, it’s Black Friday and Black Friday is just one day. A bunch of traffic coming in you have a sale but you don’t know which version of your website will sell better. So you use bandit testing and it will automatically maximize the amount of revenue you make per minute, so to speak.
+
+And if it’s 50/50 split and B was like 30% worse, ah man, half of the traffic, we lost so much money. So bandit testing perfect for that allocation. Also, a bandit is great for if you’re dealing with personalization and this is machine learning-based personalization meaning that, old-school way of doing personalization.
+
+Your website is like, if a user comes from Facebook say, oh hello Facebook visitor and something, manual rules, if 10 rules, whereas how you should do it today is all that the machine learning algorithm detects.
+
+We know something about the user when they come in based on their IP and all, this is somebody from Idaho. Maybe they log in, now we know they’re 26-year-old male, they’ve bought this and this in the past, maybe there’s some other stuff that we know through like, we enrich the email with Clearbit, we know that there are other Vice Presidents of Marketing from a SaaS company doing 50 million a year.
+
+We can know all these variants and personalize the website accordingly. And maybe we have seven variations and we don’t know what this guy, which version will work best for this guy. So now the machine learning algorithm starts learning which of your many variations works better for this particular guy, knowing what we know about this person. And again start shifting traffic accordingly.
+
+So next time another person who is a similar person comes in we immediately show the variation D because that tends to work better with this type of person, so again that’s a bandit.
+
+**DR:** You couldn’t do that with just rules-based or traditional testing?
+
+**PL:** It’s too complicated. I mean, you’d have to have a full-time person manage this and also the right answer might change. So like the VP marketing type of people used to convert better for B but now six months later, D is better. So the machine can learn that and adjust quickly and there are multiple tools on the market that do this automatically, conduct tricks, Intellimize and so on.
+
+## The Salty Six
+
+**DR:** Very cool and to wrap up, I’ve got, well I call the salty six. Fixed rapid-fire questions for us to just get to know you better and hear a little bit more about you. Does that sound good?
+
+**PL:** Cool.
+
+### **DR:** Alright, salty six number one, outside of work and outside of A/B testing, what do you do for fun?
+
+**PL:** I kickbox and I lift weights. Play with my kids.
+
+**DR:** Very cool, alright.
+
+### Do you have a morning routine and if so, what is it?
+
+**PL:** My morning routine is, I consume 30 grams of protein in a liquid form, drink a cup of coffee and go to work.
+
+**DR:** At the door. Alright, what time do you go to work?
+
+**PL:** I get up at 6:00, I go to work at 6:30.
+
+**DR:**
+
+### Alright, how do you focus during the day? You got a lot of stuff coming at you, do you have any strategies for time boxing or whatever you do, how do you focus?
+
+Timeboxing for the win, man. And I also try not to schedule meetings for every day, so I have two days in my week booked out in my calendar so nobody can book a meeting with me, so I can do deep work, because if you know that you have a bunch of meetings coming up and you wanna do some really intense work, it really can’t get into it. So yeah, timeboxing and not scheduling meetings for every day.
+
+### **DR:** What’s a book that has impacted you deeply in the last few years?
+
+**PL:** Oh my God, just now I finished the book that blew my mind, it’s called, [_The Road Less Stupid_](https://www.amazon.com/dp/B077NXPL4L/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1).
+
+**DR:** Right, what is that?
+
+**PL:** It’s a guy actually here in Austin, like an old dude, who’s experienced a lot of, like an experienced business owner and this is a book for business owners. I’ve always thought of myself as a conversion optimization consultant expert, and so on. So in the last couple of years, I’ve shifted my mindset to being a business owner and now the skills that I’m now developing are all related to being a better business owner. A better manager and so on. So this book was like mind-blowing.
+
+**DR:** That’s good. I feel like I’ve seen that in your tweets over time. It used to be a lot more conversion and now it’s just, here’s what I’m learning about business, here’s what I’m learning about teams and people.
+
+**PL:** Totally.
+
+**DR:** Very cool, okay.
+
+### What’s the best purchase you’ve made recently under 150 bucks?
+
+**PL:** Oh, one of those, what’s it called? The device that you put on your back when you’re slouching?
+
+**DR:** I’ve seen that.
+
+**PL:** [Upright](https://www.uprightpose.com/).
+
+**DR:** Okay.
+
+**PL:** Yeah those things really work.
+
+**DR:** You’re wearing that now?
+
+**PL:** No not right now but the hardest part is remembering to put it on but once you put it on, you realize how often you slouch. It’s not even funny.
+
+**DR:** Have you seen other benefits from slouching less or just?
+
+**PL:** Ah, totally. I mean that’s so important, yeah.
+
+### **DR:** Very cool, okay. And then finally, what’s a trait or characteristic that you have that has led to the success that you have today?
+
+**PL:** I’m ridiculously proactive. I take responsibility for everything. So what can I do to improve this situation and also I’m super fast in terms of my mindset. It’s like, oh there’s a problem that I identified, let’s fix it right now. So where some people might be like, oh let’s think about it, let’s consult with somebody, let’s meet, let’s ponder, I’m like fast action and taking responsibility.
+
+**DR:** Default to action, let’s solve this thing. You’re married?
+
+**PL:** I am.
+
+**DR:** How does that work in marriage? Do you come in and just wanna solve everything?
+
+**PL:** Yeah it drives my wife nuts.
+
+**DR:**– I feel the same way. Well, there you have it, man. Thanks so much for being here. Thanks for being on Scale Or Die. If people wanna find out more about you, about the Institute, I know you’ve got a conference, how do they look you up?
+
+**PL:** [ConversionXL.com](http://conversionxl.com/).
+
+**DR:** And your [Twitter](https://twitter.com/peeplaja)?
+
+**PL:** Yes.
+
+**DR:** Pretty spicy man, you’ve got some hot takes on there.
+
+**PL:** Thank you.
+
+**DR:** Alright, well thanks so much for being here, thanks for watching. We’ll see you in the next episode.
+
+_This interview has been edited and condensed._

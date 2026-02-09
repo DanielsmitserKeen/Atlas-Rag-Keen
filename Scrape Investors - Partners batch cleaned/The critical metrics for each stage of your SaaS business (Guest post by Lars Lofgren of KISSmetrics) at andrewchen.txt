@@ -1,0 +1,249 @@
+# The critical metrics for each stage of your SaaS business (Guest post by Lars Lofgren of KISSmetrics) at andrewchen
+
+Dear readers, I have moved to Substack and I will be writing here from now on:  
+👉 [andrewchen.substack.com](https://andrewchen.substack.com/)  
+In the meantime, I will leave andrewchen.com up for posterity. Enjoy!
+
+\[_My friend Lars is a product marketer at [KISSmetrics](https://www.kissmetrics.com/) and loves helping SaaS businesses understand how their business is growing. He writes regularly for the [KISSmetrics blog](http://blog.kissmetrics.com/) and his [personal marketing blog](http://larslofgren.com/). He wrote the following post about SaaS products and the metrics you use to evaluate their success level. Lots of great information in there. You can follow Lars at [@LarsLofgren](http://twitter.com/LarsLofgren) -Andrew\]_
+
+[![critical_metrics_blog](http://andrewchen.co/wp-content/uploads/2013/05/critical_metrics_blog.png)  
+](http://andrewchen.co/wp-content/uploads/2013/05/critical_metrics_blog.png)
+
+**How healthy is your SaaS business?**
+
+We’re bombarded with KPIs and an endless series of metrics to tell us how we’re doing.
+
+But instead of using data to measure our progress, it’s much more likely that we get lost and start focusing on metrics that are easy to track but don’t mean anything.
+
+For a SaaS business, there are a few core metrics that need your undivided attention. And the priority of these metrics shift as you grow. If you’ve only had paying customers for 2 months, it doesn’t make much sense to track lifetime value. But later on, lifetime value is essential.
+
+In this post, I’m going to break down the essential metrics for each stage of a SaaS business.
+
+What this framework will give you:
+
+*   By focusing on a few key metrics, you’ll also be focusing on the core problems you need to solve to get your business to the next level.
+    
+*   Data doesn’t do you any good unless you act on it. Each of these metrics clearly tells you how you’re doing. Right away, you’ll know where you need to spend your time.
+    
+*   Each stage has two metrics that balance each other. This keeps you from over-optimizing one metric and unintentionally harming the long-term health of your business.
+    
+
+Let’s jump in.
+
+**Before Product/Market Fit  
+**You’ve just made the decision to start your business and you’ve got plans for world domination.
+
+But before you can start building your empire, you need to make sure you have the right product for the right market.
+
+For most new products, there’s usually a disconnect at the beginning and customers don’t quite want what you have. Either you need to go after a different target market or you need to change your product to fit their needs. When you get this match, we call it product/market fit.
+
+You’re probably in this stage if:
+
+*   You’ve just started.
+    
+*   You don’t know who your ideal customer is.
+    
+*   People are testing your product for the first time.
+    
+
+This is the first major hurdle you’ll need to overcome. But how do we measure our progress when we don’t have any data? You don’t even have any paying customers at this point and if you do, it’s not many. At this point, running a bunch of A/B tests won’t help you test your business model.
+
+Instead, you’ll rely heavily on qualitative feedback and one critical survey question.
+
+Primary Goals:
+
+*   Validate core business assumptions by talking to people in your target market. If people ask you for your product before you even try to sell them, you’re going in the right direction.
+    
+*   Survey users and have at least 40% say that they‘d be very disappointed if they had to stop using your product.
+    
+
+**Metric #1: Qualitative Feedback  
+**Yes… this isn’t technically a metric. But it’s too early for data anyway so you’ll need to make the most of what you can get: feedback.
+
+Right now, you really only have one goal: build the right product for the right market. And the fastest way to do this is to start talking to your customers.
+
+If you have any users at this point, jump on Skype and get a deep understanding of their main problems. Ask them to show you how they currently solve the problem you’re going after. Then show them what you’ve been working on to see if they get excited about it. Usually, you’ll want to follow this format for the interview:
+
+1.  Basic demographic questions to get a better sense for who you’re talking to.
+    
+2.  Deep questions about the current problem.
+    
+3.  Present your solution for feedback (don’t sell it, just get feedback).
+    
+
+You’ll want to do 10-20 of these customer interviews.
+
+If you don’t have any users at this point, go and talk to people that you think would want to use your product. This is a great way to start testing different target markets efficiently. It’s a lot easier to schedule 10 more Skype meetings than it is to rebuild or rebrand your product.
+
+When you want to start scaling feedback (especially as you move into the later stages of your business), use [Qualaroo](https://qualaroo.com/) surveys, [SurveyMonkey](http://www.surveymonkey.com/), feedback forms, and usability tests like [UserTesting.com](http://www.usertesting.com/). But when you’re just starting, talk to people in your target market one-on-one. The insights will always be much better.
+
+At KISSmetrics, we still do customer interviews each and every time we make a major change to our product. Adding a new feature? Go talk to customers. Revamping an old feature? Let’s talk to our customers that use it the most. Starting a new project like our [Google Analytics app](http://www.myanalyticsapp.com/)? Find a group of Google Analytics users to talk to. We do it every single time.
+
+**Metric #2: Measuring Product/Market Fit  
+**There’s just one little problem with all this customer feedback though.
+
+It’s super difficult to measure objectively. Are people REALLY interested in our product or are we only focusing on the positive feedback while downplaying the negative feedback?
+
+Luckily, there is a survey question that will help you quantify whether or not you’ve reached product/market fit. [Full credit goes to Sean Ellis for this question](http://www.startup-marketing.com/using-survey-io/). Here it is:
+
+How would you feel if you could no longer use \[product\]?
+
+1.  Very disappointed
+    
+2.  Somewhat disappointed
+    
+3.  Not disappointed (it isn’t really that useful)
+    
+4.  N/A – I no longer use \[product\]
+    
+
+Send this to people that have used your product at least twice, experienced your core product offering, and used it in the last two weeks. The goal is to get at least 40% of your users to say “very disappointed.”
+
+If you don’t meet the 40% benchmark, you may need to reposition your product or pivot entirely. If you do hit it, time to move on to the next stage.
+
+**More Resources  
+**To dive into more detail on what you’ll need to make it through this stage, read through these posts:
+
+*   [Marc Andreessen’s post on product/market fit](http://web.archive.org/web/20070701074943/http://blog.pmarca.com/2007/06/the-pmarca-gu-2.html) (this is an archived page, the original was removed from his blog).
+    
+*   [This breakdown of customer interviews](http://jasonevanish.com/2012/01/18/how-to-structure-and-get-the-most-out-of-customer-development-interviews/) will walk you through all the details.
+    
+*   Experiment with [these methods to scale your customer feedback](http://blog.kissmetrics.com/best-ways-to-get-feedback/).
+    
+*   [A great deck from LaunchBit on how to find customers to interview](http://www.slideshare.net/dunkhippo33/lean-startup-circle-boston-april-28-2011).
+    
+
+**Beginning to Scale  
+**So you’ve found product/market fit.
+
+You’ve got revenue coming in and a growing customer base. Now it’s time to build a business.
+
+Up until this point, you didn’t really need to track much. Outside of basic user signups and revenue, there wasn’t anything to track. Now that you got the right product for the right market, there are two metrics that will keep you headed in the right direction.
+
+You’re probably in this stage if:
+
+*   You’ve found at least one way to acquire customers consistently.
+    
+*   Many of your customers stay subscribed and want to keep paying you.
+    
+*   Your monthly revenue is starting to grow.
+    
+
+Primary Goals:
+
+*   Consistently grow MRR while controlling churn.
+    
+*   Get monthly churn to 1-2%. If it’s above 5%, ignore everything else until you lower it.
+    
+
+**Metric #1: Monthly Recurring Revenue (MRR)  
+**For a SaaS business, monthly recurring revenue is a much more valuable metric to track than traditional revenue. It’s the total revenue you received during the month that came from recurring subscriptions.
+
+The health of a SaaS business heavily depends on recurring revenue. It can take months to regain the cost of acquiring a customer and the real profits come from increasing that subscription revenue. One-time windfalls just aren’t that valuable to us. By tracking monthly recurring revenue, we can see exactly how our business is doing month-to-month.
+
+Unfortunately, tracking MRR can get tricky. There’s several use-cases that your tracking systems will need to be able to handle:
+
+*   Having annual plans on top of your regular monthly plans complicates things a bit. The annual revenue actually needs to get divided between each month of the subscription, not just the month when the customer is billed.
+    
+*   Upgrades and downgrades get tedious to track. If a customer moves from a $10/month plan to a $50/month plan, you’ll need to add an extra $40/month to your MRR.
+    
+*   You’ll need to remove revenue when it churns with a cancellation.
+    
+
+Speaking of churn…
+
+**Metric #2: Churn  
+**Growing MRR is one side of the coin at this stage. The other side is churn. If you can’t keep customers subscribed, it won’t be long before your MRR won’t budge and your business will stall.
+
+The thing is, churn can be a devious metric. At the beginning, a monthly churn rate of 10% doesn’t seem so bad. If you have 100 customers, 10 of them left. Not that big a deal right? It’s pretty easy to get 10 more customers. But what happens when you have 10,000 customers? Now 1,000 of them left in a single month. Even the best marketing machines have a hard time keeping up with something like that.
+
+Your churn rate starts out innocent and easy to handle. But it can quickly get out of control if you’re not keeping a close eye on it. In order to build a strong foundation that will help your company grow over the long-term, you absolutely, without a doubt, NEED to get control of your churn rate.
+
+So what’s a good churn?
+
+It always varies by industry. But in general, it’s critical that you get your monthly churn under 5% and your goal should be 1-2%. Later on, you can experiment with upsells and cross-sells [to get negative churn](http://www.forentrepreneurs.com/why-churn-is-critical-in-saas/).
+
+**Expansion  
+**Sooner or later, you’re going to hit a wall.
+
+The main channel you’ve been using to acquire customers will start to slow down and you’ll hit diminishing returns. If you want to keep growing each month, you’ll need to find new sources of growth.
+
+You might start testing affiliate programs, new ad networks, PR, business development, referral programs, new types of content marketing, conferences, event marketing, or whatever type of marketing happens to be hot at the moment. You’ve got LOTS of options to choose from. Some of them will be a great fit for your market, others will fail completely.
+
+You’re probably in this stage if:
+
+*   Growth is beginning to slow for the first time.
+    
+*   Continuing to improve your main channel is getting a lot harder.
+    
+*   You’ve successfully controlled your churn.
+    
+
+So as you start to experiment with new channels of growth, you need to focus heavily on two metrics. These metrics will keep your experiments in check and make sure you scale profitable channels.
+
+Primary Goals:
+
+*   Keep your cost per acquisition to one third of your lifetime value.
+    
+*   Get each customer to profitability within 12 months.
+    
+
+**Metric #1: Lifetime Value (LTV)  
+**How much revenue do you earn in total from a customer before they leave your business? For a SaaS business, it’s absolutely critical to track lifetime value. When you factor in acquisition, support, and product costs, it can take a SaaS businesses 6-12 months to turn a profit on a customer.
+
+To make sure customers stay long enough to keep your business healthy, we use lifetime value (some people abbreviate it as CLV or LCV).
+
+By now, you’ll have had customers long enough so that you can actually figure out your LTV. [Use the formula here](http://www.forentrepreneurs.com/saas-metrics-2-definitions/) to get started. When you have more resources, you might also want to include [second-order revenue](http://saastr.wordpress.com/2013/02/01/its-not-just-cltv-its-your-trgcltv-that-matters-total-all-in-revenue-generated-by-your-customer/) in your LTV calculation.
+
+**Metric #2: Cost Per Acquisition  
+**As we begin to experiment with new channels to keep growing, cost per acquisition keeps us in check. It’s the total cost it takes to acquire a customer from a particular source.
+
+For the average CPA of your business, you can total up your entire marketing and sales expenses over a month then average that out over the total customers you acquired. But we need to take it a step further and segment CPA by acquisition channel. This tells us whether or not customers from new channels are worth the effort.
+
+When you’re experimenting with new channels, it’ll usually be pretty obvious if the math won’t work out. Bad channels tend to be BAD channels. So keep experimenting until you find the ones that work.
+
+Not only will CPA help you evaluate new channels for growth, it’ll help you figure out how far to push your main channels. How much can you actually spend to acquire a customer on AdWords or Facebook? How many writers can you hire to put together content? By keeping an eye on these metrics, you’ll know how far is too far.
+
+A popular rule of thumb is to keep CPA to one third of your LTV. And a customer should become profitable within 12 months.
+
+**More Resources  
+**Once you get past product/market fit, use these posts to help you work through all the details:
+
+*   Use this [list of metric definitions from David Skok](http://www.forentrepreneurs.com/saas-metrics-2-definitions/) for your formulas.
+    
+*   Also read through Skok’s [SaaS Metrics 2.0 post](http://www.forentrepreneurs.com/saas-metrics-2/) which is probably the best post on SaaS metrics I’ve come across.
+    
+*   Here’s a [great SaaS KPI dashboard from Christoph Janz](http://christophjanz.blogspot.com/2013/04/a-kpi-dashboard-for-early-stage-saas.html).
+    
+*   [Why you shouldn’t worry about applying a discount rate to your LTV as a startup](http://ufert.se/user-acquisition/freemium-games/should-lifetime-customer-value-lcv-be-discounted/) (the post focuses on mobile gaming but it’s applicable to any startup).
+    
+*   Some of the [downsides of focusing on LTV too heavily](http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula/).
+    
+*   [David Cancel’s framework for building a data-driven startup](http://www.slideshare.net/dcancel/data-drivenstartups) (with a bit more emphasis on funnels and cohorts).
+    
+
+**A Quick Overview  
+**For each stage of your SaaS business, track these metrics:
+
+1.  Before Product/Market Fit: Customer feedback and the product/market fit question
+    
+2.  Beginning to Scale: Monthly recurring revenue and churn
+    
+3.  Expansion: Lifetime value and cost per acquisition
+    
+
+Keep in mind that each stage is not completely exclusive. Let’s say that I’ve found product/market fit and I’m starting to scale. If I’m using AdWords to acquire my customers, I’ll definitely want to keep an eye on my cost per acquisition. But at this point, I’m still trying to get a handle on my churn for the first time. I don’t REALLY know how long these customers are going to stick around. So I’ll check my CPA to make sure it’s somewhat reasonable (if the total revenue from a 12-month subscriber doesn’t cover it, you have a problem). Otherwise, I’ll spend most of my time improving MRR and churn.
+
+What about funnels? What about engagement metrics, ARPU, active users, number of visits to signup, and everything else? By all means, track the other metrics you need. But the above metrics are the bare minimum. Move mountains to track them before worrying about the rest. There’s little reason to track a random engagement metric if you don’t know what your MRR or churn is.
+
+**What have I missed? I’d love to know how you track your own SaaS business.**
+
+**PS. Get new updates/analysis on tech and startups**
+
+I write a high-quality, weekly newsletter covering what's happening in Silicon Valley, focused on startups, marketing, and mobile.
+
+Views expressed in “content” (including posts, podcasts, videos) linked on this website or posted in social media and other platforms (collectively, “content distribution outlets”) are my own and are not the views of AH Capital Management, L.L.C. (“a16z”) or its respective affiliates. AH Capital Management is an investment adviser registered with the Securities and Exchange Commission. Registration as an investment adviser does not imply any special skill or training. The posts are not directed to any investors or potential investors, and do not constitute an offer to sell -- or a solicitation of an offer to buy -- any securities, and may not be used or relied upon in evaluating the merits of any investment.
+
+The content should not be construed as or relied upon in any manner as investment, legal, tax, or other advice. You should consult your own advisers as to legal, business, tax, and other related matters concerning any investment. Any projections, estimates, forecasts, targets, prospects and/or opinions expressed in these materials are subject to change without notice and may differ or be contrary to opinions expressed by others. Any charts provided here are for informational purposes only, and should not be relied upon when making any investment decision. Certain information contained in here has been obtained from third-party sources. While taken from sources believed to be reliable, I have not independently verified such information and makes no representations about the enduring accuracy of the information or its appropriateness for a given situation. The content speaks only as of the date indicated.
+
+Under no circumstances should any posts or other information provided on this website -- or on associated content distribution outlets -- be construed as an offer soliciting the purchase or sale of any security or interest in any pooled investment vehicle sponsored, discussed, or mentioned by a16z personnel. Nor should it be construed as an offer to provide investment advisory services; an offer to invest in an a16z-managed pooled investment vehicle will be made separately and only by means of the confidential offering documents of the specific pooled investment vehicles -- which should be read in their entirety, and only to those who, among other requirements, meet certain qualifications under federal securities laws. Such investors, defined as accredited investors and qualified purchasers, are generally deemed capable of evaluating the merits and risks of prospective investments and financial matters. There can be no assurances that a16z’s investment objectives will be achieved or investment strategies will be successful. Any investment in a vehicle managed by a16z involves a high degree of risk including the risk that the entire amount invested is lost. Any investments or portfolio companies mentioned, referred to, or described are not representative of all investments in vehicles managed by a16z and there can be no assurance that the investments will be profitable or that other investments made in the future will have similar characteristics or results. A list of investments made by funds managed by a16z is available at https://a16z.com/investments/. Excluded from this list are investments for which the issuer has not provided permission for a16z to disclose publicly as well as unannounced investments in publicly traded digital assets. Past results of Andreessen Horowitz’s investments, pooled investment vehicles, or investment strategies are not necessarily indicative of future results. Please see [https://a16z.com/disclosures](https://a16z.com/disclosures) for additional important information.

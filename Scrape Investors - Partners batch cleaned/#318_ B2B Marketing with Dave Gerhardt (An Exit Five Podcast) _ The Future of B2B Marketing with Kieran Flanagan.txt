@@ -1,0 +1,711 @@
+# #318: B2B Marketing with Dave Gerhardt (An Exit Five Podcast)
+
+Dave Gerhardt \[00:00:00\]:  
+You're listening to B2B marketing with me, Dave Gerhardt. Hey, what's up, everybody? My guest on this episode is Kieran Flanagan. Kieran is a marketing executive at HubSpot, where he leads a marketing team of 300 marketers globally. And before that he was CMO at Zapier. But you probably know him as the guy who's been talking a whole lot about AI and marketing on LinkedIn. And that's exactly why I reached out to have him on the show. We talk about AI, come on the hottest topic in marketing right now. We talk about what role AI will have in B2B marketing, what the future marketing team might look like, how the role of CMO changes in the world of AI.
+
+  
+Dave Gerhardt \[00:00:49\]:  
+And I got a bunch of your comments and questions and I tried to get him to open up and share some of his secret AI prompts that you can use too. We had a great chat. We talked a lot about marketing, not just about AI. You're going to love this if you're a B2B marketer. Here's my conversation with Kieran Flanagan. All right, super excited to have Kieran on the pod today. Got a bazillion comments of questions that I should ask you. And then I read them all and I'm like, I like my questions better.
+
+  
+Dave Gerhardt \[00:01:15\]:  
+I'm going to stick with them.
+
+  
+Kieran Flanagan \[00:01:16\]:  
+Probably just all about my prompts.
+
+  
+Dave Gerhardt \[00:01:18\]:  
+Yeah, yeah, we have a bunch of things. But before I instantly jump off and ask you a question, just can you just give the listeners background on you real quick? You've been marketing leader, CMO at Zapier. Now you're back at HubSpot doing some cool stuff with AI. But how do you explain who you are and what you do?
+
+  
+Kieran Flanagan \[00:01:35\]:  
+Yeah, I will condense my career into wanted to be a builder. So I was a developer, software developer. It's what I went to university for and pre AI tools. Because I'm going to circle back to this. I sucked. I was like terrible. I used to like sit there, recode in books, could not code or could code, but was always average. And I was like, I'm going to have a very average career.
+
+  
+Kieran Flanagan \[00:01:56\]:  
+I find my way in marketing because at that time marketing was. It was like the kind of 2008 and so the Internet started to change. I think marketing to be a much more technical discipline. And so I got into search, got into performance marketing and then I did the kind of like thing you do in Dublin when you get into SaaS, help brands to grow internationally because, you know, that's what you get used up the base in Emea, you grow internationally. I did that for Salesforce Marketo. That was my first stint in HubSpot, like my first two years. That was good fun. Then I went and did an eclectic mix of things for HubSpot.
+
+  
+Kieran Flanagan \[00:02:28\]:  
+I would say the fortunate thing that I have managed to do is I've never really had a straightforward marketing job per se. I've always had like more of a range of like missions. And so first one was helping to grow the business internationally. Second one was helping us to shift towards a PLG business which I think you were in HubSpot at that time, maybe around the time we were starting to move to that plg. The third one was really we had to kind of rebuild the way all of our go to market customer demand engine worked. The fourth, which was a lot of fun was building our media network which was acquiring the hustle, building this kind of media network. And then the fifth was like a collection of things but I didn't really have like a core mission. I work on two year increments and so I have to have a core mission that lasts two years.
+
+  
+Kieran Flanagan \[00:03:11\]:  
+So I went to Zapier, did the GM role for Self Serve. That's an incredible company. The hours were a bit of a stretch. I'm based in Dublin, a lot of it was based in San Fran. That's like 5pm Their day starts my time and so I wanted to try to. I said like that's not going to work. We decided to, decided to look for something else. And then Kip, who you know really well was like, hey, we need to like do a bunch of AI transformation within the company.
+
+  
+Kieran Flanagan \[00:03:38\]:  
+And that really is. I'm a shiny objects person for better or worse. Actually a lot of times for worse if I'm being honest. And so AI was like, I was like obsessed by AI. I was like the only thing I really care about is being the most knowledgeable person in operator who can do AI. And so I was like, oh, I get real practical knowledge. And so there's three core things in HubSpot. I still do a lot of the marketing.
+
+  
+Kieran Flanagan \[00:03:59\]:  
+A bunch of the marketing teams report to me. I have all of the cross functional teams that are doing a bunch of the internal AI transformation and then do a lot of things for our SMB go to market. So I get a real, an eclectic mix of things I think.
+
+  
+Dave Gerhardt \[00:04:12\]:  
+Yeah, I love that. And it just, I mean obviously as you, as you grow and mature, it's about learning, learning where to operate and what gives you joy. You Said you work in two year increments. Is that like an actual, like contractually obligated thing or is it like a Kirin mental framework for like just kind of time boxing your life a little bit?
+
+  
+Kieran Flanagan \[00:04:30\]:  
+It's a Kieran framework. But like, people who work with me know that's how I work. And so I will always look to see what the next incremental mission is coming into the second year. Usually like the last six months of the second year. So even here in HubSpot, I have three core missions and I can actually time box them into really like two years. The reason two years is because anything that is, I think, impactful takes some time. But I think to actually have something that really motivates you, you should be able to do it within a, you know, a foreseeable amount of time. It was five years.
+
+  
+Kieran Flanagan \[00:05:01\]:  
+It's too long away for me to like stay motivated that long to see the impact of it. So, like two years, I think has always been a great force and function to say, am I doing something meaningful? And can I actually see the end inside? Because that's what motivates me is getting to the end and seeing it, you know, making sure that it actually has some sort of impact.
+
+  
+Dave Gerhardt \[00:05:17\]:  
+I like that. Just like, even for people listening, right? Like, so obviously we've all gone through growth and change in our career and you know, sometimes I say things and someone's like, well, that's easy for you. You've proven yourself. You kind of have a pick of your job or whatever. But I even like that even, even if you're stuck in a shitty job, right? It's like, okay, maybe I'm early in my career and I can't leave the company. Can I give myself a two year mission of like, is there something that I can work on where I can gain some skills inside of this company and then I can more have a pick of my next thing kind of after that, right?
+
+  
+Kieran Flanagan \[00:05:45\]:  
+Yeah. Because again, I think you have to commit to doing something long enough that you can earn your stripes. Right? You have your pick of jobs because you've earned your stripes. I think there's a lot of people aren't willing to do the grind. And I think, you know, a good example of that is me and Kip getting growing. This YouTube channel will nearly be the death of me. Like, so we have marketing against the grain. We decided to pivot from RSS to YouTube.
+
+  
+Kieran Flanagan \[00:06:10\]:  
+It's the hardest thing to do. Like, YouTube is one of the hardest channel and we are grinding because we have like, A bunch of other things we do. But that grind is what I think separates people who will be successful versus will not. And two years is enough time that you actually really have to grind through some stuff, but not so much time that you cannot stay motivated to achieve that outcome. So even if I was early in my career, I remember I used to be really obsessed by titles. I think most people are. The earlier you are in your career, the more assessed you are by titles. And I think that's fine because titles do come with better salary, things like that.
+
+  
+Kieran Flanagan \[00:06:40\]:  
+And so I used to wake up every day and say I had a whiteboard that just said I want to be a marketing director for a US based company. Now for most people based in the US that's not an ambitious goal. When you were based in Ireland, that is a pretty ambitious goal because there's not a lot of US companies were coming to Ireland at that point. And it's harder to like climb the career ladder in American companies if you're not based in America. So I used to have that as my kind of two year force and function. I want to be director and then I want to be vp. And now it's really just about solving problems.
+
+  
+Dave Gerhardt \[00:07:10\]:  
+Yeah. What is it about being in Ireland? Is it just that there were not a lot of. I mean, is that true now? Like, I feel like last time I was over there was like every Corner is a SaaS company.
+
+  
+Kieran Flanagan \[00:07:21\]:  
+But there's a lot more opportunity now. I think still a lot of the US companies come here and what the marketers end up doing is replicating the global strategy on an international basis. But I think, I think that even in itself is becoming more innovative. Like the. It has definitely evolved since I first started doing it. I think there's a ton more opportunity. I think remote work has opened up a ton more opportunity for folks. And Ireland actually has a pretty good.
+
+  
+Kieran Flanagan \[00:07:46\]:  
+Not as good as it should be, but they have a startup scene, like a growing startup scene as well. So there is plenty more opportunities for people here.
+
+  
+Dave Gerhardt \[00:07:52\]:  
+Yeah, my, you know, just being a dumb American, my Irish knowledge spans mainly Rory McIlroy and Shane Lowry. And then in golf. Yeah, and golf.
+
+  
+Kieran Flanagan \[00:08:03\]:  
+Yeah. I watched the Roy McAway Roy. Talk about persistence. Right. Like, what a great example of someone who was it 14 years, bottled it in so many occasions, basically nearly bottled it again and still came out and won that last shot. So I think that's a great example of perseverance.
+
+  
+Dave Gerhardt \[00:08:20\]:  
+I mean it's just being. Being obsessed with the craft. Right?
+
+  
+Kieran Flanagan \[00:08:22\]:  
+Yeah.
+
+  
+Dave Gerhardt \[00:08:23\]:  
+Okay, so something I want to ask you about you mentioned. So at least in my mind you're this strange blend of like marketer, hacker, grower, entrepreneur, but you also have a team. How do you balance both of those things? Because I feel like oftentimes it's you're either one or the other and it's like, oh, if you want to do all this stuff then you're just going to be like the high paid ic. But you've managed to do it both. How do you operate? How do you do both of those things?
+
+  
+Kieran Flanagan \[00:08:49\]:  
+It's a good question and I will say it is hard because.
+
+  
+Dave Gerhardt \[00:08:53\]:  
+And by the way, I'm not asking from like a time standpoint. I just, I feel like oftentimes the, the maker, it's like the program maker, manager thing. Like those are just very different Personas. And so I'm wondering how you, how you can be both.
+
+  
+Kieran Flanagan \[00:09:05\]:  
+Okay, I actually, I'm going to bring something up because it might be interesting to you. I think what you're asking is because I was asking AI about this. I think what you're asking is basically how do you be? Is it like a great people manager but also a great executor? Because usually the people who are great people managers are obsessed with people and the people who execute well are obsessed by problems. And how do I actually blend the two together?
+
+  
+Dave Gerhardt \[00:09:25\]:  
+Yes, and I'll give you my selfish story of this is like I was a great marketer. You know, this is not ego, it's just kind of like giving a frame of this. Like I was like the best marketer on the team. And then because of that I grew into like, well I guess you're the VP of marketing because you're, you're the guy. And then when I got to like there was, wasn't even that big compared to the size you guys have operated at, but it was like a marketing team of 30. And I'm like, this is not what I signed up for. Like my whole day is performance reviews and one on ones and shitty conversations. I'm like, I want to like write some headlines and shit.
+
+  
+Kieran Flanagan \[00:09:55\]:  
+I think this is the battle of anyone who is great gets a team and then they get sucked into people advent. I do wonder if it's going to change that. I have seen a lot more founders and people want to hire like Super ICs as leaders and I think AI is going to make teams smaller.
+
+  
+Dave Gerhardt \[00:10:11\]:  
+Dude, this is, this is what has relit my candle for marketing is like I think in the future like what I wanted to be is more possible it's like, oh, you can be cmo. Because I'm not saying I don't want to work with people, but I think like I, a small team cmo, you get to do some shit and you have a team of like, you know, five to 10 people. Like that would be money.
+
+  
+Kieran Flanagan \[00:10:29\]:  
+Yeah. And I think that's where we're going. But like, I think specifically the reason I'm bringing this up because I do think there's a real like incredible learning here. And I will actually answer the question. I'm just bringing up this quote. So I had AI, basically we did it live on a show. But because it has memory and because I spend my entire life in ChatGPT, it knows a lot about you. Right.
+
+  
+Kieran Flanagan \[00:10:48\]:  
+And I asked it, I asked it these questions, which is like, hey, if someone was on board and to work with me, what are some of the things you would tell them about how I work? And it was like, you know, while you're incredible this, you're incredible at that. And then I basically said, you know, tell me actually the hard truths, like, tell me the things that people would not enjoy. And it had this thing, I'm going to read it out because it probably was the most articulate way of explaining one of my constant battles that no one else has really articulated to me in this way. It said he could. Kieran can be mentally 10 steps ahead and emotionally 10 steps removed. Kieran thinks in systems and long term leverage, not entrepreneursal minutiae. That means he may not always sense when someone's overwhelmed, unclear or demotivated. Unless you tell him he's not cold, just focused.
+
+  
+Kieran Flanagan \[00:11:29\]:  
+But emotional cues and people management don't always come naturally or first. I was like, wow, wow. I was like, okay, like you have.
+
+  
+Dave Gerhardt \[00:11:36\]:  
+Dude, this is an amazing. Because years ago there was that like the Startup Growth Handbook by that guy Elad Gill. And in it he had this like Claire Hughes Johnson was. I don't know if she still is. I don't really pay attention. Was the COO of Stripe and it was like this. She published this like how to work with me doc. And I was like, oh, this is genius.
+
+  
+Dave Gerhardt \[00:11:56\]:  
+Like I just need to write all these things up front so people know that I'm not an asshole.
+
+  
+Kieran Flanagan \[00:12:00\]:  
+It's just like I do think that's what I do.
+
+  
+Dave Gerhardt \[00:12:01\]:  
+But now you have all of this, you know, have this third party to tell you, hey, help me write like you know how I am. Help me write how to work with me. It's a great use case.
+
+  
+Kieran Flanagan \[00:12:10\]:  
+Yeah. So the three Things I do is I do this how to work with me. And I think AI is able to be really honest and then you have to be honest with yourself. I think a lot of people want to give the best version of themselves. I don't. I actually give the real version of myself. And I think my flaws are always going to be that I am more problem obsessed than people. That's obsessed does not mean I don't care about the people.
+
+  
+Kieran Flanagan \[00:12:30\]:  
+It just means my energy is from trying to solve problems. And if I'm trying to solve that problem by myself and if I can do it by myself, which would AI, I can do it a lot more often by myself. I am as energized to do that as I am with people. Other people who are much more gravitate towards people are much more energized to solve that person that thing with a person. And I, it doesn't matter to me as long as I'm solving a hard problem. I think the other thing I do is I have incredible people who do work with me who understand what are my skills and strengths and so they will do what this thing said you have to do which is like they're much more proactive at telling me this is a problem with the team. That person is not happy with you because you have not done a great job. So they are able to like be more proactive.
+
+  
+Kieran Flanagan \[00:13:10\]:  
+And like where am I falling dime Because I'm so in the weeds. And then the last framework I use is push and pull. So if I look across my remit and HubSpot like I have like 300 plus direct reports and then two really large cross functional teams. So I cannot be in the weeds on everything. And so I use this push and pull where I tell people this quarter these are the things I'm going to be in the weeds on. Which means I'm going to push really hard. And it does not mean I don't think you're good at your job. It just means I'm obsessed with this problem and I'm going to act like a team member.
+
+  
+Kieran Flanagan \[00:13:39\]:  
+Everything else I expect you to pull me in when you need me. But for the most part I'm not going to be like knocking at your, knocking at your door on slack or emailing you constantly like what's happening here? Because I assume it's going well unless you pull me in. That's kind of my model. Do I think I'm perfect in the way it works? No. Like I've definitely met, I've definitely constantly have like gaps in what's happening, especially across the people side. But it's the only way to work in a way that actually will keep me super motivated to, like, solve these hard problems.
+
+Dave Gerhardt \[00:14:07\]:  
+I think that's great. I think it's, I mean, it's, it comes with the wisdom of having gone through change and growing a big org and knowing yourself. But I think one of my biggest weaknesses as a manager is I'm a strongly opinionated marketer. And so, like with you, right, you have a. You have 300 people on a team. I'm sure you see things and you're like, I would have written that headline differently. Like, how do you not, how do you not share that feedback? I find myself, like, I try to be the push and pull guy and then like, I'll be going through my emails and I'll see one of our emails and like, I send it to the team and I'm like, I don't like this subject line. Here's how I would have wrote this intro.
+
+  
+Dave Gerhardt \[00:14:42\]:  
+And I'm like, is that the right. Like, there are multiple. It doesn't always have to be Dave's way. I think, I think it should be.
+
+  
+Kieran Flanagan \[00:14:49\]:  
+This is actually a good topic. I think that we have been taught in tech that the way you manage people is to, like, ask probing questions and like, direct them towards your way of thinking. But don't give them their direct feedback or don't just do it for them because that's not how they learn. I think actually the people do want to work for craftspeople who can actually do the craft and have a really high standard. So to me, I will just say I want to do it this way. And I think over time you can. I think there's forums that we have that we can debate those things out. But I think strong point of view, marketers are what is needed today.
+
+  
+Kieran Flanagan \[00:15:22\]:  
+And I think that there should be crafts people who manage teams who say, that doesn't hit my bar. I want to do it this way and it will come out in the results. I've never been a great fan on the kind of management where you're like probing and there's all these questions. Like, you get a memo, right? And every memo is a question, but the question is like, really what you think? But you won't say it, but you're trying to like, unnaturally guide the person towards what you want them to do. Just tell them what you want them to do. Like, they'll agree or disagree.
+
+  
+Dave Gerhardt \[00:15:49\]:  
+God, this is, Is this therapy for me or am I having you on the podcast. Because I do this all the time. I'm like, because I want to involve people. I want to be a good leader. I want to be a good manager. Let's do a collaborative brainstorm session about, you know, X. And then, like, everyone submits their ideas and then, like, I sleep on it and I go for a walk. I'm like, no, no, I know exactly what I want to do.
+
+  
+Dave Gerhardt \[00:16:09\]:  
+And then everyone's mad because they're like, what the fuck, man? We just. You took two hours out of our day to when you could have just told us what to do. And I think I'm getting more comfortable with being like, oh, yeah. And this is why the whole thing of, like, vibe marketing and AI and where AI is going and that role of marketing is changing. Like, and I've heard you guys talk about this and I love it. Like, I love the thought of, like, great marketing is being a tastemaker in marketing. And there's. I'm not the spreadsheet guy, but I think I have strong opinions.
+
+  
+Dave Gerhardt \[00:16:35\]:  
+I think I. I think I have creative ways to solve problems. And I'm like, I kind of just want to say what the answer is and have people execute on it sometimes.
+
+  
+Kieran Flanagan \[00:16:42\]:  
+Versus, like, I think teams want that. I think more teams want that. And my experience, like, there's definitely teams who are like, hey, I don't want to be told the answer. I want to be able to try to do this myself. But there's a lot of other teams that actually appreciate core points of view and direction. I think some of the best managers or leaders are the best leaders because they understand the crafts and you want to be on their team because you're going to learn. And sometimes that means that you are doing the executing and they're doing all of the thinking, but sometimes it means that you're going to do the thinking because you just have better. You have better thoughts, you have better points of view.
+
+  
+Kieran Flanagan \[00:17:11\]:  
+And being a great leader is understanding where that person idea is better than yours. But I certainly am more aligned with your way of just, if you have an answer, just give it to them. Versus spending three to four hours probing, you know, are you sure this is the right headline? Are you sure it shouldn't be this thing? No, we're going to do our one.
+
+  
+Dave Gerhardt \[00:17:30\]:  
+My first, like, real marketing job was a PR internship and my, My boss would always. This was like, when you're using Outlook for emails, and I would send an email to a client and my boss would send it back to me all like, marked up with red. And he would. He literally would rewrite all my emails and the subject line. And I was like, at the time, I hated it, but now it's like, I guess it's like parenting in somewhere where like, oh, man, that guy helped me be a good communicator by, like, instead of being like, what do you think you should have said here he'd be like, here's how he rewrite the whole email. And like, you know, you remember that feeling of getting, like a doc back and it's all marked up in red and you're like, this. I didn't keep a single word that I wrote, but that was how I learned to write effectively.
+
+  
+Kieran Flanagan \[00:18:09\]:  
+So, first of all, that exact process is basically sounds like copy work, right? Copy work is when you're just writing that. You know this because you're incredibly good at copy, where you're writing at the same time copy time and time again to learn it. The other my experience, very similar to that is one of the. I give this famous presentation in. In HubSpot, and it was called a death march because it just sucked so bad. I know. I knew. It's like someone said, fuck, this sucks during the presentation and someone, like, afterwards, basically just like, give me the play by play of, here's how it sucked.
+
+  
+Kieran Flanagan \[00:18:37\]:  
+This sucked, that sucked. And I cannot even, like, tell you how much I learned from that versus someone who wouldn't tell me straight how bad that was and why it was bad. Like, you just. That's how you learn. I think you just learn much more quicker.
+
+  
+Dave Gerhardt \[00:18:49\]:  
+Do you ever listen to your own podcast?
+
+  
+Kieran Flanagan \[00:18:51\]:  
+I listened to the parts where we have made, like, where I think there's, like, funny things that we did. So we did that Kip and I did the AI Giving us the real truths about us because we're so alike. I just know it says some things about us I just thought were hilarious. And I'm like, how the frick do you know this? Like, it's weird that you know this, but not really. No.
+
+  
+Dave Gerhardt \[00:19:09\]:  
+My wife sent me this. This Instagram video of, like, a guy going for a walk with, like, this, like, robot. It's like, she's like, this is you in chat. GPT. And then I saw another one that was like. It was a robot just wandering the beach. And it was like, chad, GPT Doing a mental health walk after talking to me all day.
+
+  
+Kieran Flanagan \[00:19:27\]:  
+I. I do want, like. It is incredible how much of our lives we're spilling out into ChatGPT. I was talking to someone earlier, and they're like, well, is there any real switching cost between these? And I'm like, well ChatGPT is like literally my friend.
+
+  
+Dave Gerhardt \[00:19:38\]:  
+Okay, so this is one of my questions for later is like one of the things that, you know, you guys drive me nuts because you make me feel like, man, am I only using, I'm only using chat GBT because I, I know there's so many use cases but I'm like the lock in is so real because it's been two years and I've spent so much time writing in there and like the memory is becoming such a part of the lock in that it's like, man, that is, that's the gold of that. God, I hope they, I hope they protect that, that data. That would be, that'd be worse than leaking my Google search history or the group chat, the group text. Getting, getting.
+
+  
+Kieran Flanagan \[00:20:13\]:  
+But I think what you're saying is incredibly important. The memory has been an unbelievable lock in for these companies. Like they all have it. But now anyone who chatgpt has a real reason for you to keep using that. I think there's reasons to use different models. But ChatGPT Claude was my go to. I was like talking about Claude nonstop. I still love that product.
+
+  
+Kieran Flanagan \[00:20:32\]:  
+But Claude is not trying to be, trying to think about where these companies are going. Claude is actually not trying to be a personal assistant. They want to be an infrastructure company. They want to power agents. Their latest release, Opus 4 was much more around powering other companies, autonomous agents. I think ChatGPT wants to be your assistant. Google want to be your assistant. So memory is a real lock in and so there's different reasons to use different models.
+
+  
+Kieran Flanagan \[00:20:52\]:  
+I would say for most people right now, ChatGPT can do most of the things you want to do. There are some business use cases that Claude I think is really good for.
+
+  
+Dave Gerhardt \[00:21:02\]:  
+Like what, like projects. I see. I know you guys use it a lot internally for like sharing work and context. What are the business use cases?
+
+  
+Kieran Flanagan \[00:21:10\]:  
+The projects are shareable. Like so when you have teams, I think AI in general suffers from multiplayer, multiplayer mode. And so I think it's much more single player, which for an introvert like me is pretty bad because it gives me another reason not to talk to humans. But Claude has like more shareable features. OpenAI has this now, but Claude has like really great integrations. And so I was doing a little video for my newsletter subscribers to show how you could basically get all of your whole market. In summary for the year, like basically what did we achieve this year? Key, key milestones, all of those different types of things. And it's getting all of that from our Asana G drive email everywhere else.
+
+  
+Kieran Flanagan \[00:21:47\]:  
+And it's able to do a whole summary and presentation on what we've done. But Claude has access to about 8,000 tools now through Zapier's MCP, so you can do a ton of like, business stuff just through the interface. Gemini is a really good model. I know it's really good. I just don't have time. I just not had. Not. I use it now and again, but I just, I'm so intertwined with ChatGPT right now.
+
+  
+Kieran Flanagan \[00:22:08\]:  
+I just have not used it as much as I was using it.
+
+  
+Dave Gerhardt \[00:22:10\]:  
+No, that makes me feel better to hear you say that. So I saw you often write about, like when it comes to ChatGPT, you often like, at least in the post you write, you, you always say like, O3 is the blank. Like I just check my default is 4 0. But I always see you talking about 03. What is the difference? Why would I switch them?
+
+  
+Kieran Flanagan \[00:22:28\]:  
+So O3 is a reasonable model. It is for more complex tasks. I do think I overuse it. So when you have like complex tasks that require a multitude of different steps, O3 is a better model to use. The O model is just for your everyday tasks. Okay, here's what's happening actually, what's kind of really interesting. At some point very soon, you know, you have to drop down and you have to pick like the O3 model, the O model, the deep research model, the image that whatever it may be, they are starting to combine all of these. So even in your own model now, I think if you do a kind of prompt that is more suited to deep research, it will do the deep research without you having to trigger the deep research.
+
+  
+Kieran Flanagan \[00:23:04\]:  
+And GPT5, which is coming out, I thought may, so it's obviously been delayed. I have not checked back in to see if there was an update. They're going to collapse it all into a single assistant because they want to get to the personal assistant. So you don't even have to think about what model do I use. They know that that is a friction point for users. It's just because they can't figure out the intent. So they don't know if you need reason and they don't know if you need deep research. You should just pick it yourself.
+
+  
+Kieran Flanagan \[00:23:29\]:  
+They're going to solve that with the next model. I think that is going to be the next leap in terms of adoption for AI because it's going to make it just so easy to use these things. For the average user.
+
+  
+Dave Gerhardt \[00:23:38\]:  
+Yeah, that's nice. There's a lot of, like, it is moving so fast and even. Even just like the memory. As an example, I remember as recently as, like a year ago, I shared with the people on our team, like, hey, here, copy my custom instructions. Because my. I've trained my ChatGPT to be so good around Exit Five and knowing our business and our Persona and all that. And now I don't even have to do that anymore because it's like, if you just start using it, all the memory gets saved. And so the innovation is.
+
+  
+Dave Gerhardt \[00:24:04\]:  
+Is great. And ultimately, that's what I want. I don't like. I'm a very simple per. Like, I don't like decision fatigue. I don't like knowing there's 20 tools. I want to use the one and I want to go. Go deep in that.
+
+  
+Dave Gerhardt \[00:24:14\]:  
+I've always been that way from, like, even studying copywriting. It was like, I'm going to pick. I picked Dan Kennedy and David Ogilvy, and I just studied all that stuff versus trying to, like, you know, do the broad worry about everything else. So simple as better. Okay, let's. Let's talk about what does this all mean for marketing? I have some specific questions that I want to get into later, but just like the existential. Everyone listening to this now, you know, there's thousands of listeners to this podcast that work in marketing, and a lot we all believe in. In what's happening with AI, but there's also this.
+
+  
+Dave Gerhardt \[00:24:44\]:  
+This. I don't know if it's fear or skepticism. I don't really have a question, but it's like, I'm give you a prompt and you can re. You can kind of riff on this. And then I'm like, you know, it's an interesting question to, like, you know, talk to you about and talk to Kip about because, you know, you guys are pushing the boundaries and you're at the front lines of AI, but at the same time, you have a. You know, you have 300 people on the marketing team, and are they, like, hearing the things you're saying about, like, the marketing team is dead, and are they, like, running around HubSpot like, oh, my God, what the hell is going to happen to my job? Like, how do you balance all those things? And where do you think this is going?
+
+  
+Kieran Flanagan \[00:25:15\]:  
+I think I'm going to do this as I'm giving the most positive, optimistic view for marketers, because I think there's a lot of negative ways that you can look at this. I'm going to give the more optimistic view, I think for marketers. And I'm also going to try to stick to the things that strongly believe that there's some sort of evidence. And I think some of them are pretty self evident in terms of what's going on. We are going to get rid of the era of informational content because what we're moving from is answers to action. So we grew our careers in the era of, hey, we can create a bunch of content, get it to rank on Google. I think the average, on average, 80% of the B2B buyer journey starts on Google.
+
+  
+Dave Gerhardt \[00:25:52\]:  
+Right.
+
+  
+Kieran Flanagan \[00:25:52\]:  
+Gartner predict that in 2027 it's going to be 95% in an LLM assistant. The LLM assistant is using the informational content to give you action. So instead of me saying, how do I create Facebook ads that convert? I literally just go to the LLM assistant and say, give me Facebook ads that convert. Right. So I've moved from answer to action. That's a huge.
+
+  
+Dave Gerhardt \[00:26:11\]:  
+It used to be like if you, if you sold a sales tool, you know, like early days of HubSpot, It'd be like 10 best sales tools. And then like we write the article and we're like number three on the list.
+
+  
+Kieran Flanagan \[00:26:21\]:  
+Exactly. And then we can just convert it into customers. And I think that goes. That is going away, right? I think so. With that to me is the visit layer. So visit layer, clicks, less clicks. I think if you go up one, I think that you have to be, we have to be much better at how we garner awareness and attention. Like that's one of your superpowers.
+
+  
+Kieran Flanagan \[00:26:39\]:  
+It's how do you actually create things that stand out from the noise. I do think what's happening is the channels where you do that gravitate towards a creator person versus a brand. Which I think is another hard thing for marketers who work for brands. And like Substack, Substack is one of the sites that is actually growing in traffic. Right. Podcast and YouTube, social, all of these things are much more better for the individual. So that top layer is much harder for a brand because visits are being disrupted, awareness is being disrupted. The channels that grow in are much more suited to a creator.
+
+  
+Kieran Flanagan \[00:27:14\]:  
+But all of the value from AI is accruing in the what happens when you capture the contact. And I think that is a ton of a lot of reasons to be optimistic. Right. Because some of the things that I think are really interesting is in B2B we were sold that segmentation is the way we build our marketing plans. Like, hey, you all look, you're all kind of the same. So here you go. This is like the thing that you should all enjoy. And I think, I think AI allows you to go right into marketing at the company level, right? So we can actually, you know, some of the crazy things you could do is dynamic website optimization, which is when you change the homepage based upon whatever you segment you're in, you get this copy, you get this look and feel, which never really worked that well.
+
+  
+Kieran Flanagan \[00:27:56\]:  
+In the future you could build that person, that person could have a separate micro site like just for their company because code is super cheap. So you can actually build these tailored websites for individual companies instead of having a one to many newsletter, you can do this. Now you can use AI plus these kind of tools to build newsletters for one to one. Like you could be in our database and I could build a newsletter that you want to describe to based on stuff that I know about you. And so I think we move towards micro audiences and much more tailored campaigns to those audiences which should allow us to extract more from less. Now I'll give some other optimistic things about the top part. OpenAI is going to release ads in their freemium tier, right? That's why they hired the ex CEO of Instacart, which is great. Now we at last get another platform that we can do stuff in, right? And for them to make that work, I do think they'll want to actually have traffic go into publishers because I don't.
+
+  
+Kieran Flanagan \[00:28:53\]:  
+I think they're smart enough to realize, well, if we break the relationship between why you create content and getting traffic back for that content, then over time we have to rely on training models via synthetic data. So what I mean by synthetic data is no one's creating content anymore, so the AIs have nothing else to learn from. So the AI itself has to create content for the AI to learn from. Now I will say the scary thing is deep SEQ's latest models have shown that synthetic data may be better than what we produce, which is a whole other rabbit hole to go down that you may not need humans at all. But I do think what I have seen this year, if they really have started to change the way that they surface people's websites and content in the app itself. And we at HubSpot have seen a real increase in traffic coming through the LLMs because of that. It's much more prevalent that your website is one of the sources. It's not just buried as the link, they're doing the actual website and little containers.
+
+  
+Kieran Flanagan \[00:29:47\]:  
+So I'LL stop there. I can go in any direction you want, but I think that's, that's somewhat where we are. And then I'll end with the thing you and I, I think are fans of is AI. I think as a marketer you can do much more marketing because AI gets rid of a lot of the admin overhead.
+
+  
+Dave Gerhardt \[00:30:01\]:  
+Oh, do you know how many? So your point? You said my superpower is awareness, attention. Right? Like my. I've always been the ghostwriter for CEO's founder. I've always been like, oh, we need Dave to make the deck. Best thing to ever happen is Canva AI Gamma. I see you guys talking about Gen.
+
+  
+Kieran Flanagan \[00:30:19\]:  
+Spark, like so good.
+
+  
+Dave Gerhardt \[00:30:20\]:  
+If I had this stuff back then, man, I would have been like, CEO. We're sitting down in the room. I'm going to interview for an hour. I got the transcript. I'm going to go make the slides. I don't have to wait. You know, it just would always be a cycle of waiting for a designer or waiting for a developer.
+
+  
+Kieran Flanagan \[00:30:34\]:  
+Oh my God. Okay, you're touching this. I have never been so happy to be a marketer. So I know like people are scared. I'm freaking so excited.
+
+  
+Dave Gerhardt \[00:30:41\]:  
+Yeah.
+
+  
+Kieran Flanagan \[00:30:42\]:  
+Kip and I talked about this. I love doing the craft. I can actually do all the things that you're. So basically I can create the design. I can actually be way more autonomous because I actually think I have good ideas and know how to execute. If you're that person, I think this is amazing. This is super amazing.
+
+  
+Dave Gerhardt \[00:30:58\]:  
+I agree. So the pivotal moment of my career was I was working at Drift. David Kansas was the founder and CEO was like, I was just seeing what everybody was doing in the world and I was like, I gotta become this like growth marketer. I gotta become the like funnel, you know, I gotta become like the demand gen guy if I want job security. And he was like, he, you know, visionary found. He was like, no. He's like, absolutely not. Do not do that.
+
+  
+Dave Gerhardt \[00:31:22\]:  
+He's like, you have a superpower, which is creativity, storytelling, copywriting, awareness, attention. He's like, just double down on that stuff. And like we can hire other people and agencies and whatever to do that. And that is now why, like, I'm not joking to you. I was like pretty burnt out on marketing. I was like, man, I've been doing this for a long time, but the last two years have been like, oh no, no, this is re lit my candle because I'm like all the things that I like. I like the making ads, I want to make videos I want to do creative. I want to do story.
+
+Dave Gerhardt \[00:31:49\]:  
+I don't want to be sitting in the meeting looking at the funnel, you know.
+
+  
+Kieran Flanagan \[00:31:53\]:  
+Yeah. Where this is, like real therapy here. I was the same two years ago. I was like, I've done a lot. I've luckily had some success. I was like, I'm going to just go to the, you know, steady state. I thought I was going to go do VC or do just steady state. Right.
+
+  
+Dave Gerhardt \[00:32:04\]:  
+Yeah.
+
+  
+Kieran Flanagan \[00:32:05\]:  
+And then I got into AI and I just was reawakened, like, for the very same reasons that I think I can just do a ton of cool shit, like, each and every day you can execute. You have someone that can. You can. You can get through things much faster. I do think. I don't know if you feel that there is something that I have started to become more cognizant of for people who are really in the weeds is like, AI fatigue at the end of the week. I feel. Maybe because I have a toddler as well, but I feel more tired than I ever feel.
+
+  
+Kieran Flanagan \[00:32:30\]:  
+Because you're really doing stuff. You're not having to, like, wait a day for someone to come back and another day for someone to come back and another day for someone to come back. The one thing that I have to try to, like, hold myself back is the ability to multitask is. Yeah, that's the thing. I'm trying to hold myself back. Last night, I was, like, prototyping the software app. I was trying to solve a hard problem. I was trying to do something legal, and a legal situation I'm going through.
+
+  
+Kieran Flanagan \[00:32:52\]:  
+Nothing bad, but, like, in my personal life, I was trying to get the AI to optimize my investment portfolio. I was trying to do something else, and it was like half eleven at night, and I was like, what am I doing? I need to do it.
+
+  
+Dave Gerhardt \[00:33:05\]:  
+Yeah. Yeah.
+
+  
+Kieran Flanagan \[00:33:05\]:  
+That's too much AI.
+
+  
+Dave Gerhardt \[00:33:07\]:  
+I feel that. I feel that. I mean, I think that our brains were not meant to multitask. I'm terrible. You know, I'm a. My team tells me that I'm a good multitasker, but I. I see that as. That's not a compliment because it means that I am multitasking when I should be focused.
+
+  
+Dave Gerhardt \[00:33:21\]:  
+And I do find that when I've put in a good day's work, it's usually one or two deep projects. Whack a mole.
+
+  
+Kieran Flanagan \[00:33:28\]:  
+Yeah.
+
+  
+Dave Gerhardt \[00:33:28\]:  
+Or I need to time box that. Whack a mole. And so, like, I usually have some time in the morning and some time in the afternoon where that's my Like Slack and email time. But the other day, man, I took half the day and I worked on a like, positioning vision thing for our company and I was like, I did nothing else. I ignored my text messages, my slack. It was just me and my chat GPT, you know. But that, that always feels better. Is that, that deep work? So, yeah, I like the look.
+
+  
+Dave Gerhardt \[00:33:55\]:  
+I think, I think anything, all these things in life. I think history is why I like reading history, I like studying history because what's happening with AI now is what happened with the Internet. It's like you can go back to all these technological innovations. There is always people that are claiming that this thing is going to be the end of the world and everybody's doomed. And I think I appreciate the, like, let's look at the positive and like, if you like the craft of marketing, then I think there's a lot of positive things here now. Yeah, if you just want to like write a bunch of kind of shitty social copy and like automatically schedule it and blast it out and you think that is marketing, then like, of course all that stuff is, can, can be replaced by AI. But I like the opportunity of like human plus AI, like tastemaker, creative human working with this like super machine to create stuff like Man Don Draper plus Chat GBT would be like the most insane thing of all time.
+
+  
+Kieran Flanagan \[00:34:48\]:  
+So the way I think about it for marketers is you have to be a, you have to now be at the opposite, the opposite end of the spectrum. And if you are, if you can combine these things, you have a superpower, which is you have to be incredibly technical. Because I think AI can be deployed across all marketing workflows. And for me, you have to think about marketing in some ways like an engineer thinks about solving problems because you look at everything as a workflow and you figure out how AI could be integrated to uplevel that thing, reduce the amount of time spent on that and allow the humans to spend 10x more time on the things that are really valuable. So I think there's like the technical thing really matters and I've seen that time and time again. You see roles called these kind of new roles like gta, engineer and all these roles. I think there's like a technical discipline getting stood up that really matters. Or and because if you're a special snowflake, maybe you're an ant, you have to be like at the, at the outer edges of creativity because ideation really matters, storytelling really matters, copyright really matters.
+
+  
+Kieran Flanagan \[00:35:41\]:  
+Like actually the things that you spent your time mastering, I think those Are the most important skill sets to learn at the opposite ends. What actually is problematic is the middle portion. All the messy middle, where you're not actually at the outer edges. You're just good enough.
+
+  
+Dave Gerhardt \[00:35:55\]:  
+Right.
+
+  
+Kieran Flanagan \[00:35:55\]:  
+All the good enough stuff. I actually do think that is going to be problematic. So I would pick a lane and try to make sure that you are on the outer edges of that lane.
+
+  
+Dave Gerhardt \[00:36:03\]:  
+It's so true. Because the middle can just be like. I can just write an average prompt and get the. Get the landing page copy for, like, a webinar that we're doing and generate the emails and, you know, takes five minutes to do that.
+
+  
+Kieran Flanagan \[00:36:14\]:  
+Yeah.
+
+  
+Dave Gerhardt \[00:36:15\]:  
+Okay. A couple questions for you, sir. This is great. It's, by the way, must be fun for you, not hosting your. It's always fun when you're not the host. You just get to hang out. But it's much more fun having a conversation with someone who is used to the banter on a podcast. Like, you ever interview someone and it's like, yes, next question.
+
+  
+Dave Gerhardt \[00:36:29\]:  
+Dave.
+
+  
+Kieran Flanagan \[00:36:29\]:  
+Yeah, you do the questions. Can I get the questions in advance? And then they answer the question, and that's it. I've had some experience early because this is my. The marketing experience. My second podcast, my first one was like, this growth tldr. I've probably done, like, you're similar because I know you've been podcasting. I think you've done way more podcasts than me. But I've probably done, along with Kip now, 700 episodes.
+
+  
+Kieran Flanagan \[00:36:48\]:  
+Yes, that one on my last one. And, like, so I think it's actually. Even if it never grew, do you think? I think this way, it's given me a real ability to have clear and concise points of view and think on my feet a lot more. You actually learn something by just doing it other than the numbers.
+
+  
+Dave Gerhardt \[00:37:03\]:  
+I mean, I think it's great. Like, I think if nobody listened to your show but you and Kip riffing on the AI stuff like that is going to inform HubSpot strategy. Just because you're. It's like a comedian working out bits and stuff. And I. I do it, like on these webinars that we host or something. Like, if I make a joke or you make an analogy and I see the chat, like, light up, I literally write that down, and then that becomes like, it's no different than, like, writing on LinkedIn or that's where the things come from. Like, I'm taking notes during this conversation with you, and I've gotten a bunch of ideas of, like, they're essentially bits like, okay, ooh, that, that I kind of lit up around that one.
+
+  
+Dave Gerhardt \[00:37:36\]:  
+Let's. Let's take that.
+
+  
+Kieran Flanagan \[00:37:37\]:  
+Like, funny thing is, I think the exact same way I think of everything in terms of short form content. And there's so many times Kip and I are talking, and Kip is like, short. He's a bit machine. Like, he says things and I'm just like, oh, that's good. Like, he has a great way of, like, framing things. And he's not as. He's really dial in on trying to get the podcast there. He's maybe not.
+
+  
+Kieran Flanagan \[00:37:56\]:  
+He's not as, like, focused on other channels. So he always sees me take his bit and it appears in one of my channels, and I'm like, oh, I did your bit and got a ton of traction. He's like, okay, cool.
+
+  
+Dave Gerhardt \[00:38:07\]:  
+I love that. All right, somebody. All right, so. So I did. I did get a couple of listener questions. Somebody said, Kieran is a prompt genius. Get him to share some of his prompt frameworks to help marketers find white space where they can't be replaced by AI. Another way to say this.
+
+  
+Dave Gerhardt \[00:38:22\]:  
+And this is my ChatGPT. Like, iteration on this is. You've said that prompting is a new literacy. So what makes someone an expert prompter? How do marketers learn that skill? And how do you train your brain to think in terms of prompts prompting? I.
+
+  
+Kieran Flanagan \[00:38:38\]:  
+So I can tell you what I do. I don't think I'm. I think I'm never the smartest person doing these things, but I. I'm very, very quick at iteration and very, very good at perseverance. And so I'm looking at it here. I have like 12 different custom GPTs that are all trained on different prompt methodologies and frameworks. So whenever I find something that works or wherever I iterated on something that works, I will create a custom GPT so I can conversate with that GPT and it will turn that conversation into a prompt. And I can give you the example.
+
+  
+Kieran Flanagan \[00:39:08\]:  
+I just this morning. So Cursor's system prompt leaked, which is like Cursor. These are. These are autonomous agents that are working on prompts, just like you and I create prompts. That's a $300 billion company. And so their system prompt leaked. You can go get it. It's online.
+
+  
+Kieran Flanagan \[00:39:22\]:  
+And so I went and basically spent this morning with O3 really trying to distill down the core learnings from that system prompt. Then I will extract those core core learnings and try to figure out which ones are applicable for, like, marketing and growth. And then I will train a custom GPT to turn any kind of outcome I want. So one of the examples I did was, hey, I want a campaign. It should be quirky. It should be 30 days and generate a hundred customers. Let's say I ask it for that. It will take the learnings that we took from the system prompt and craft that into a prompt, and then I will iterate on that a little bit.
+
+  
+Kieran Flanagan \[00:39:54\]:  
+That is how I am doing. All of the prompts that people see publicly is. I have trained custom GPTs on things that I find online that I can use to craft all of these different prompts. One of the interesting things that is going back and forth in my mind is like, I get lit up on the YouTube comments. Like, you kind of showed three prompts and you said you wouldn't share one. I'm like, should I share it or not share it? And I've realized that at the moment, some of the stuff is proprietary. Like, it's like you can literally build software apps from this stuff. So I think it's like, I think marketers are going to have their own little secret treasure troves of prompts.
+
+  
+Kieran Flanagan \[00:40:27\]:  
+And some marketers are going to be much, much better because they figured out some things in that prompt and how long it lasts for. I don't know when the AI becomes much better.
+
+  
+Dave Gerhardt \[00:40:34\]:  
+Okay, well, I'm going to try. I think my key takeaway from Kieran for everybody listening on that is like, and this is where I make a mistake is I sit there and I try to think of the prompt that I need to write. You're very much like an action. And this is why, like, you know, for marketers have always had a swipe file. And basically, if you have a curious mind and you're seeing things around you that you like, grabbing them, using them as examples, using them to integrate into the prompts, Even asking, you know, writing prompts to help you write a prompt. Like, hey, here's the thing that I'm trying to solve. What would be the way, you know, what would be the questions that you'd want to ask to get there?
+
+  
+Kieran Flanagan \[00:41:06\]:  
+Exactly. Yeah. The swipe file is a perfect analog. Again, it's think. It's how you train yourself to think. Everything I see, I'm like, that I could take that and turn that into some sort of prompt in GPT.
+
+  
+Dave Gerhardt \[00:41:15\]:  
+Yeah, well, it's help me work. You know, I've always had strong opinions on marketing, but I'm not a designer. And so I don't speak the language of I don't, you know, like the padding and this vector. I don't know that nonsense. But now it's amazing because if I'm working with a design designer, I can basically find design things that I like and I put them in chatgpt and I say, hey, can you describe the similarity? Like here are three websites or three aesthetics. Like, tell me about them, tell me what you like. And then now I sound like this very, you know, cultured designer when I'm working with a creative person. It's great.
+
+  
+Dave Gerhardt \[00:41:43\]:  
+Okay. Yeah, I gotta hit on some more things with you. What do you think about the role? So we've talked about, you know, a little bit about the marketing team. What maybe just these are all kind of quickish answers if you can.
+
+  
+Kieran Flanagan \[00:41:54\]:  
+Yeah.
+
+  
+Dave Gerhardt \[00:41:55\]:  
+The role of the CMO in the future, what do you think is going to change about the CMO role in B2B marketing?
+
+  
+Kieran Flanagan \[00:42:00\]:  
+I think it's going to be what we've talked about. Cross person practitioner, smaller team, less people management, less having to move boxes around, more actually can do the job. I suspect like your story was, hey, that's why I didn't like being a cmo, because I didn't get to do that. I think, and I hope that we go back towards people who actually are craftspeople.
+
+  
+Dave Gerhardt \[00:42:18\]:  
+Yeah, that would be nice. That'd be fun. That's how I could be somebody's cmo. That would be great. Here's a listener, another listener question. Okay, Karen, if 95% of what agencies offer today is automated by AI, how do you see creative shops, say video production companies evolving to best serve marketers in the future?
+
+  
+Kieran Flanagan \[00:42:35\]:  
+Video, specifically video shop. But I think agencies in general will instrument agents for companies. So you will. I think that's one of the better services is you take the thing service you do and you customize it for that company and give them agentic workflows. That's what I would do if I was an agency.
+
+  
+Dave Gerhardt \[00:42:51\]:  
+Another trend. This is not, this is not necessarily related to AI, but I interview hundreds of marketing leaders every year and have done so for the past, you know, God knows how long. And the number one trend over the last two or three years, there's AI. The other one is in person and in person everything. And it's like there's kind of two ends of the spectrum. It's like, and you talked about this earlier, either you're going to get your answers and information from the LLMs or you're going to like go and talk to your Peer group. I'm just curious how you feel like do you agree with that trend? Are you seeing that too where it's kind of like these. We either want to like hang out with our people or talk to Chad GPT.
+
+  
+Kieran Flanagan \[00:43:27\]:  
+Like everything gets polarized. I actually think the want for people to be part of a community, a tribe that want for people to have human interactions where they add value. I think maybe that's the part right is like where it adds value so you can automate all of the places that used to be friction and add humans in where they actually add real value. But I definitely think if the bet I was making is like in person, events, communities, things that give you mastermind groups, things that give you a tribe are going to be way more in demand. I think it's more and more of our day to day interactions move towards AI.
+
+  
+Dave Gerhardt \[00:44:01\]:  
+Yeah, we do a bunch of, we do a bunch of events and we have sponsors who do stuff across all of our channels and everything and everyone we, you know, if I had a team of 50 people we could keep up with the demand right now. But it's like if we could do a dinner in a city every week or a meetup like everybody wants to do those types, types of things. And it's, I think the AI, the.
+
+Kieran Flanagan \[00:44:19\]:  
+Smaller meetups as well I think are great. I think the thing you should do here is like I'm not an advanced person. Poker nights, I want events. Like I think all events should do poker nights. I think that's the thing. I would, I think poker is like one of the most awesome social gathering games and events to all do that.
+
+  
+Dave Gerhardt \[00:44:34\]:  
+Well, I think in, in that case like poker might be your thing but I think there's like people want to play pickleball, people want to go for a hike. It's not just like. And nobody drinks anymore. So it's like, you know, nobody wants to meet up and have a drink. And so it's like everybody's, you know, we're doing activities.
+
+  
+Kieran Flanagan \[00:44:49\]:  
+Yeah.
+
+  
+Dave Gerhardt \[00:44:50\]:  
+Okay, quick hitters for you. What's the most overrated AI marketing use case LinkedIn comments? I don't know if you've ever seen my. I just have fun now. I just like write the most absurd things back to people and like yeah, there's just like, you know, I'll instantly get 10 comments and it's always the most absurd things. And I just, I go to ChatGPT and I say can you write me an absurd comment back to this person? And so I give them like Robot.
+
+  
+Kieran Flanagan \[00:45:15\]:  
+Dave back to That I always like to think of it as like the start of a story. I know, but like the start of the sci fi movie when you were a kid. And that it opens up and there's this like incredible future and there's all this robotic stuff. And then it pans to the marketer and they're like automated LinkedIn comments with their AI brains.
+
+  
+Dave Gerhardt \[00:45:33\]:  
+I don't even like, I just, like, I'm straight up in the comments. Like, I'll just reply to someone, be like, you're not a real person. I can't. I can't handle it. Can't say. You can't say Chat gbt. You can't say Claude, give me a third tool that you're using the most right now.
+
+  
+Kieran Flanagan \[00:45:48\]:  
+Genspark.
+
+  
+Dave Gerhardt \[00:45:49\]:  
+Genspark, yeah.
+
+  
+Kieran Flanagan \[00:45:51\]:  
+It is awesome. Like it's only a year.
+
+  
+Dave Gerhardt \[00:45:53\]:  
+It's.
+
+  
+Kieran Flanagan \[00:45:53\]:  
+It's so. It has kinks. The founder is awesome Expedie. But they're, they're the first agent they built that I'm really using is their presentation tool. I did something was at an offsite in San Francisco. All of my decks that went down really well. Looked like designer had did them all. All done by myself.
+
+  
+Kieran Flanagan \[00:46:12\]:  
+They were done by O3 in me. I think that's the little tip I'll give your audience is like, don't do the prompt in Genspark. Get the O3 to create the prompt for Genspark. Here's a little tip. If you're using other tools, give O3 the technical documentation for those tools and have O3 craft the prompt for the tool. And that's what I did.
+
+  
+Dave Gerhardt \[00:46:29\]:  
+Oh, interesting. So you would go basically write your slides in O3 and then go to Genspark to build out the deck and.
+
+  
+Kieran Flanagan \[00:46:35\]:  
+Copy and paste a prompt. I literally then will cut and paste the slide image and say, hey, this has gone wrong. Can you tell the kind of app how to fix this? I do that with Lovable. I spend a ton of time on Lovable. And I have O3, prompt and lovable.
+
+  
+Dave Gerhardt \[00:46:48\]:  
+Okay, I like that. And then you're basically just working out of ChatGPT, getting your content there going. And the deck thing is such a good use case. All right, shout out to genspark. They just got three new users, maybe four. Biggest mistake marketers make when using AI copy.
+
+  
+Kieran Flanagan \[00:47:03\]:  
+I think you have to be really skilled at both copy and prompting to get it to create something good. I hear this all the time. AI is not a great creative partner. It's because you can't prompt. I promise you that you Cannot prompt. It is a great creative partner if you know how to prompt it for content. But most of what I see marketers do is create average content at scale.
+
+  
+Dave Gerhardt \[00:47:23\]:  
+Yes. I like this, what you said earlier, it's the swipe file idea. It is not that. It's not the tool. It's like if you have a creative mind and you're grabbing inspiration from here and from there and from there and then you give that to ChatGPT, that.
+
+  
+Kieran Flanagan \[00:47:34\]:  
+Is like, teach it what's good. That's actually Greg Brockman, the founder. Co founder of OpenAI released a prompt. And one of the core things about that is the more specific you are on the outcome, the better the AI system will be able to do a replicate in that.
+
+  
+Dave Gerhardt \[00:47:45\]:  
+Do you think people care if it's AI generated or not?
+
+  
+Kieran Flanagan \[00:47:48\]:  
+That is a great question. All right, so I think in your interactions, like, because we're doing a bunch of AI interactions across chat, across other places, you should disclose that this was AI created. Would people care if they were reading like a substack created by an AI influencer? I actually don't know. The only thing I have to go on is some of the biggest and fastest growing influencers on Instagram or AI, and people don't seem to have any problem interacting or following them. I don't know. Like, it's great.
+
+  
+Dave Gerhardt \[00:48:15\]:  
+Wait, sorry. In your first example, you're saying if it's a chat, you should like, if you're chatting. Yeah, like if you're interacting or something.
+
+  
+Kieran Flanagan \[00:48:21\]:  
+Yeah, exactly. You should never mimic a human with AI, not the other person. They're. They're conversating with an AI.
+
+  
+Dave Gerhardt \[00:48:26\]:  
+Because I was thinking about this, like now I was like, you know, we talked to a lot of like agency owners and stuff, right? And if. Or I'm thinking about my own business. If somebody, if we hired somebody to a project and they delivered the work for us and the work was amazing and I was totally happy with it and it did the job. And then later, after the fact, I found out it was done by AI. What? Why would I care? I don't care.
+
+  
+Kieran Flanagan \[00:48:45\]:  
+But if you are. If you read like, do you read content for. Do you read like whoever your favorite newsletter writers are, do you read it because it's. You gravitate towards those people, have a ton of respect for those people, and the content kind of fulfills the way you thought think about that person, or do you just gravitate towards a content agnostic of the person? I think there's some places will I ever follow an influencer AI created avatar on YouTube and sign up to their channel. I don't know. Because I think I care about the person more. I care about the content.
+
+  
+Dave Gerhardt \[00:49:12\]:  
+Yeah. I think it's like, you're the broader point, which is like, people want. It's like, people first, the influencers. But I think if I'm, like, looking for an answer for something like how to fix a clogged toilet or something, then I don't care if it's AI.
+
+  
+Kieran Flanagan \[00:49:23\]:  
+If it's a functional need, I don't care if it's something I need, I don't care.
+
+  
+Dave Gerhardt \[00:49:27\]:  
+Okay, Biggest lesson you've learned becoming a father.
+
+  
+Kieran Flanagan \[00:49:30\]:  
+Oh, God, it has to be. Wow. There's a lot. I think the amount of time I wasted prior to becoming a father, I'm like, what did I do? What was I doing? And why didn't I build, like, a rocket ship or something? Because when you become a parent, mentor.
+
+  
+Dave Gerhardt \[00:49:46\]:  
+Of mine used to tell me, man, before I had kids, he said, man, you don't know it, but you had nothing but free time right now.
+
+  
+Kieran Flanagan \[00:49:51\]:  
+No, it's incredible. Like, and then. And so you have to be very cognizant about what you are spending your time on. I think that's one of my biggest lessons. The other thing is, like, I know it's. It comes back to something you started with, which is it's easy sometimes for some people who have had some success in a career to say this, but, like, none of this is that serious. You know what I mean? There's just, like, more important things. Like, I try to have fun with that.
+
+  
+Kieran Flanagan \[00:50:12\]:  
+That's why I try to remind myself is like.
+
+  
+Dave Gerhardt \[00:50:14\]:  
+Like, I see a heated discussion on LinkedIn about, like, how using the M Dash, I'm like, give me a break, dude. What are we doing here? Like, this is.
+
+  
+Kieran Flanagan \[00:50:23\]:  
+This is fun. Like, this is. Have fun with it. Just have fun with it.
+
+  
+Dave Gerhardt \[00:50:26\]:  
+All right, we gotta wrap up. Kieran Flagen, thank you so much. Finally get to hang out on the pod. This was great. Everyone's gonna message me and tell me to have you on again. Do me a favor. If you like this stuff, go check out Kieran and Kip show. It's called marketing against the grain.
+
+  
+Dave Gerhardt \[00:50:39\]:  
+They don't want your RSS listens. They want them on YouTube. So go to YouTube. Watch the short videos. But look, I believe from a learning standpoint, I think decision fatigue is real. And so my kind of the way that I've learned marketing over the years is I've kind of always picked one or two people and gone deep with them. And then for me. So for me, you guys don't know this, but a big part of me learning AI and getting into AI from a business and marketing standpoint has been through your show.
+
+  
+Dave Gerhardt \[00:51:03\]:  
+And so if you're, like, overwhelmed by all the AI stuff right now, don't worry about trying to pay attention. There's always that one guy on LinkedIn who's like, breaking news, this thing, this just, you know, Kip and Karen will do a good job on marketing against the grain of, like, digesting that. And, you know, that would be nice. Go, go throw them a couple subscribers and that would make us happy. And maybe we'll get Karen to come back on again. All right, cool.
+
+  
+Kieran Flanagan \[00:51:25\]:  
+I love being here.
+
+  
+Dave Gerhardt \[00:51:26\]:  
+Thanks, man. Hey, thanks for listening to this podcast. If you like this episode. You know what? I'm not even going to ask you to subscribe and leave a review, because I don't really care about that. I have something better for you. So we've built the number one private community for B2B marketers at Exit Five. And you can go and check that out. Instead of leaving a rating or review, go check it out right now on our website, exitfive.com our mission at Exit Five is to help you grow your career in B2B marketing.
+
+  
+Dave Gerhardt \[00:51:56\]:  
+And there's no better place to do that than with us at Exit Five. There's nearly 5,000 members now in our community. People are in there posting every day, asking questions about things like marketing, planning ideas, inspiration, asking questions and getting feedback from your peers, building your own network of marketers who are doing the same thing you are. So you can have a peer group or maybe just venting about your boss when you need to get in there and get something off your chest. It's 100 free to join for seven days, so you can go and check it out risk free. And then there's a small annual fee to pay if you want to become a member for the year. Go check it out. Learn more exitfive.com and I will see you over there in the community.
+
+‍

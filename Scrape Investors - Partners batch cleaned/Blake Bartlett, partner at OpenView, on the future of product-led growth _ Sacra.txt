@@ -1,0 +1,196 @@
+# Blake Bartlett, partner at OpenView, on the future of product-led growth
+
+![](https://prismic-io.s3.amazonaws.com/sacra/869b3341-1d4e-4cdd-abfc-731301d0af9d_CleanShot+2020-09-04+at+16.02.20%402x.png?rect=43%2C0%2C1148%2C1148&w=500&h=500)
+
+Jan-Erik Asplund
+
+Published Jun 27th, 2023
+
+[](https://sacra.com/access/)
+
+![None](https://images.prismic.io/sacra/52ad8014-3921-4090-9598-5221384d71e8_Blake+Bartlett.jpg?auto=compress,format)
+
+## Background
+
+Blake Bartlett is a partner at OpenView. We talked to Blake about the past, present and future of product-led growth, how companies begin to fold enterprise sales into their PLG strategy, how PLG companies use capital to scale revenue, and what metrics OpenView uses to assess PLG companies.
+
+## Questions
+
+1.  [How do you define PLG? How would you contrast it with other approaches to growth?](https://sacra.com/research/blake-bartlett-openview-future-product-led-growth/#_1de1d9d8-5bfc-59d1-904a-47ddf0e61985)
+2.  [How do you think about the move to expand the definition of PLG to incorporate top-down enterprise sales or carve out what comes “after” PLG as companies grow to a certain scale?](https://sacra.com/research/blake-bartlett-openview-future-product-led-growth/#_803ff01f-6ab1-5eff-895d-2f60460b79d8)
+3.  [When you evaluate B2B SaaS PLG companies, do you more heavily weight any specific metrics, e.g., expansion, quick ratio, acquisition velocity, viral coefficient etc? How do you determine whether a B2B SaaS company has a PLG motion that's working?](https://sacra.com/research/blake-bartlett-openview-future-product-led-growth/#_fcca80dd-c8a1-59d5-8fe1-5273ec18a11d)
+4.  [For a sales-led company, once we determine that a company's motion is working, we know how to scale revenue—by scaling the sales team. For a PLG company, what's the thesis for how capital can accelerate growth once we identify that a company's PLG motion works?](https://sacra.com/research/blake-bartlett-openview-future-product-led-growth/#_30ded1e5-c952-5407-b526-3bcd542b4fdc)
+5.  [How important is the "modern data stack" infrastructure of companies like Endgame, Calixa, Census, and Hightouch to building and scaling a PLG sales motion? Do you see that a particular stack or set of vendors gives PLG companies a competitive advantage or do you consider it mostly marketing spin?](https://sacra.com/research/blake-bartlett-openview-future-product-led-growth/#_a7dded51-8d67-5550-8dce-046f691a98d6)
+6.  [Many companies with major B2B use cases that lead with AI have experienced consumer-esque demand and growth like Jasper, Copy.ai and Rewind.ai. How does PLG change with the rise of AI?](https://sacra.com/research/blake-bartlett-openview-future-product-led-growth/#_ea18952e-30a3-52d4-b6e9-215a72e9f257)
+7.  [You're an investor and on the board at Calendly. Can you tell the story of their initial product-market fit and how they discovered their PLG motion?](https://sacra.com/research/blake-bartlett-openview-future-product-led-growth/#_e0839009-0308-5a80-a30c-8e1da264ba67)
+8.  [As companies grow and go upmarket, they tend to layer sales on top of their PLG motion. Sometimes, the PLG culture of the company rejects this. How do companies layer sales on successfully vs where are some common places companies get tripped up in your experience?](https://sacra.com/research/blake-bartlett-openview-future-product-led-growth/#_26b6bbeb-fd9b-5721-b40d-651e8b907161)
+9.  [Multi-product has become a must for B2B SaaS companies looking to maintain growth at scale. How does a company's PLG GTM evolve as product complexity goes up with multi-product and how are the best companies doing it?](https://sacra.com/research/blake-bartlett-openview-future-product-led-growth/#_044ffb48-80c9-55d6-821e-20ad3aeeeb16)
+10.  [You're an investor and on the board at Cypress.io. Can you talk about PLG specifically for devtools? What's similar and what’s different compared to selling typical B2B SaaS?](https://sacra.com/research/blake-bartlett-openview-future-product-led-growth/#_cb1f071f-fb15-5eb9-99d9-de442080ea15)
+11.  [You're an investor in Postscript. Can you tell the story of Postscript's initial product-market fit? How do you think about PLG in the context of app marketplaces and anchor platforms like what Shopify is for the ecommerce ecosystem?](https://sacra.com/research/blake-bartlett-openview-future-product-led-growth/#_acf92d21-69ac-50a4-9c4a-18d388371486)
+12.  [A lot has been made about "community", specifically in the context of web3 and open source, as it enables a bottom-up motion. However, community struggles to scale. How do you think about "community" and its role in PLG?](https://sacra.com/research/blake-bartlett-openview-future-product-led-growth/#_4f1e819e-25f0-5fb9-b1da-cf4969b0b603)
+13.  [Many folks have written on "what's next" in PLG or post-PLG. What are you seeing on the next iteration of PLG and where it's headed?](https://sacra.com/research/blake-bartlett-openview-future-product-led-growth/#_8aa57238-bbe4-5ceb-946c-c0befeef885e)
+14.  [Where does AI stand to make the biggest impact on how PLG companies sell software? AI has the potential to dramatically reduce team sizes, especially in high headcount areas like support and sales. What’s your take on that so far?](https://sacra.com/research/blake-bartlett-openview-future-product-led-growth/#_6686c2ef-8a5c-522f-ae6b-34260585912e)
+
+## Interview
+
+**How do you define PLG? How would you contrast it with other approaches to growth?**
+
+Product-led growth—and we coined the term at OpenView in 2016, so we can actually state the “official” definition—is a go-to-market strategy that relies on the product itself as the primary driver of customer acquisition, conversion, and expansion. This is in contrast to non-PLG where humans on your sales & marketing team are the primary driver of growth.
+
+Product-led growth in many ways is about bringing a B2C or consumer-like user journey into the enterprise. It lets you adopt enterprise software, the same way you would sign up for a consumer website or app in your personal life.
+
+What that means in practice is that the customer journey starts with self-service. This doesn’t mean PLG is anti-sales just because self-service exists. It just means that talking to a sales rep and signing a contract is not required to adopt a new B2B SaaS product. Sales still very much exists in PLG, but it’s optional, not foundationally necessary.
+
+**How do you think about the move to expand the definition of PLG to incorporate top-down enterprise sales or carve out what comes “after” PLG as companies grow to a certain scale?**
+
+PLG is more of a foundation that you build on. If you look at big public PLG businesses—Datadog, Atlassian, Snowflake—the majority of their revenue comes from big enterprise sales deals, but a user can still come to those platforms, and sign up, and get started, and start the journey the way that people did in the early days of those companies. It doesn't go away—it's not like you turn off self-service and only start selling million-dollar deals.
+
+Software buyers have always wanted to self-educate before making a large purchase. What better way to self-educate than using the product yourself? This doesn’t become irrelevant to the buyer just because you as the vendor are larger.
+
+That’s the buyer side of product-led growth, but there’s also the vendor benefits of product-led growth. As a vendor, self-service means automation. If a user can do everything themselves, then there is less resourcing required to acquire, activate and support customers. PLG lets you de-labor the growth engine behind your business, which drives major savings on COGS and sales & marketing spend. Even if you do start serving enterprise customers who need human help, the humans have the benefit of automation in the background which gives them more leverage and you don’t have to throw bodies at the problem to scale.
+
+**When you evaluate B2B SaaS PLG companies, do you more heavily weight any specific metrics, e.g., expansion, quick ratio, acquisition velocity, viral coefficient etc? How do you determine whether a B2B SaaS company has a PLG motion that's working?**
+
+These are still B2B SaaS businesses, so the classic SaaS metrics matter: ARR growth, gross and net retention, and CAC payback period.
+
+Ostensibly, product-led growth is going to make those things better. If you have a lot of self-service, and perhaps a strong viral loop, all of that should lead to a more efficient CAC payback period. Once you acquire a customer with self-service, maybe you have strong internal virality like Slack or usage-based pricing like Snowflake, both of which should lead to stronger net dollar retention.
+
+There are additional things to evaluate on top of these traditional SaaS metrics. Analyzing a self-service PLG funnel is similar to evaluating a consumer funnel. You need to look at signups, activation rate, 7-day retention, 14-day retention, conversion to paid via credit card, etc. These are more relevant top-of-funnel metrics for PLG than traditional B2B marketing metrics like MQLs.
+
+So in many ways, evaluating a PLG company requires using both a traditional B2B and B2C mindset.
+
+**For a sales-led company, once we determine that a company's motion is working, we know how to scale revenue—by scaling the sales team. For a PLG company, what's the thesis for how capital can accelerate growth once we identify that a company's PLG motion works?**
+
+First and foremost, the term is product-led growth, so you’ve got to build more product.
+
+You'll typically ramp up product building roles first—PMs, engineers, designers, and the like. You might hire a growth team, which is really just a specialized version of a product team, that's all about, “How do we get our users to experience those features in a frictionless way and get them to an aha moment faster?” Core product teams optimize product benefits and growth product teams optimize the user funnel so the product benefit actually happens for the user.
+
+Then you have to think about how to drive more traffic to the product-led growth engine that you have. Product-led growth is not a replacement for marketing, though it looks a little bit different than traditional B2B marketing. You're trying to get sign ups to a self-service platform. You're not trying to get MQLs to pass to a sales team. So you'll fuel marketing through things that look more consumer-like in the beginning phases to drive user sign ups, and then you'll start adding more traditional B2B stuff over time.
+
+At some point, you add sales, and this depends on the nature of your product, the nature of your buyer's journey and how much of a considered purchase and heavy implementation it is. Is it a lightweight, simple product that anybody can adopt in a few minutes, like [Calendly](https://sacra.com/c/calendly/)? Or is it a much meatier thing to evaluate and implement, like evaluating Snowflake as an enterprise buyer? In that case, self-service might still exist, but the product is a mission-critical investment, so the buyer is going to do their homework and take their time by talking to sales.
+
+When you do add sales to your PLG equation, it’s not as a competitor to PLG, but instead as a sales assist to help people continue the journey they started with self-service.
+
+**How important is the "modern data stack" infrastructure of companies like Endgame, [Calixa](https://sacra.com/c/calixa/), [Census](https://sacra.com/c/census/), and [Hightouch](https://sacra.com/c/hightouch/) to building and scaling a PLG sales motion? Do you see that a particular stack or set of vendors gives PLG companies a competitive advantage or do you consider it mostly marketing spin?**
+
+Great telemetry in your product is tremendously important—without it, you're flying blind in product-led growth. And telemetry in your product for product-led growth is very different than the telemetry or the go-to-market data stack in a non-product-led world.
+
+You can't take traditional B2B tools and force-fit them into product-led growth. There is a need to modernize the data stack, and there are lots of different approaches to how you do that. Many people roll their own. There's a lot of vendors going at it, but they're all going at the same recognition that this is a real challenge.
+
+What's the nature of that challenge? Say you're a sales rep at [Miro](https://sacra.com/c/miro/), [Calendly](https://sacra.com/c/calendly/), Zoom, or some other PLG company with millions of users. In one sense, you have a very easy job, because you have all of these users that are already aware of and getting value from your product. It’s a great opportunity for a land-and-expand sales approach to capture more users and drive more usage in the account. The problem is, where do you start? And who do you call? When do you call them? Once you’re on the call, what do you say to have an informed conversation that's based on their usage of the product and not just a generic sales conversation?
+
+That becomes the challenge. You're wading through a sea of millions of users from the most diverse set of accounts possible—from individual solopreneur users all the way up to users in the largest enterprises in the world and everything in between. Without the right data, the sales rep is just guessing at where to focus.
+
+Outside of sales, growth teams are built on rapid experimentation where you’re testing hypotheses based on user behavior. If you don’t have the user behavior data to actually measure the results of your many experiments, then your growth team is unable to have any real impact over time.
+
+This is why great product telemetry data is a must-have feature for PLG organizations.
+
+**Many companies with major B2B use cases that lead with AI have experienced consumer-esque demand and growth like [Jasper](https://sacra.com/c/jasper/), [Copy.ai](https://sacra.com/c/copyai/) and Rewind.ai. How does PLG change with the rise of AI?**
+
+I think that it changes a lot.
+
+I think about this through the user journey. The user journey in PLG is very similar to consumer, where people are very impatient, very fickle, very apt to forget your product. You really have to stand out.
+
+Time-to-value is incredibly important in product-led growth. But time-to-value, when you think about it through this individual self-service user journey, is really about when a user gets to their ”aha moment”. You ideally want to be able to deliver that in the first session or the second session.
+
+What's the role of AI in this? Well, when you're able to sign up for a service, and have a truly magical experience almost instantly—where something that seemed impossible all of a sudden is presented to you within seconds—that's a pretty great time-to-value.
+
+That's what you get with something like [Jasper](https://sacra.com/c/jasper/), especially in the early days when it first launched and ChatGPT wasn’t in the world yet. You have this absolutely magical experience within seconds or minutes. So if “magic” becomes the new standard for time-to-value, and you don't have magic in your product, and it takes three sessions to get to an aha moment, guess what? You're going to start having a user activation issue.
+
+**You're an investor and on the board at [Calendly](https://sacra.com/c/calendly/). Can you tell the story of their initial product-market fit and how they discovered their PLG motion?**
+
+What's interesting about [Calendly](https://sacra.com/c/calendly/) is that they didn’t invent this concept. There were scheduling links that existed before [Calendly](https://sacra.com/c/calendly/). There were things like TimeTrade, ScheduleOnce, and some other platforms as well. But those platforms were not PLG. When you received an invite via those platforms, there was no call to action in the email or product, so it was like “Oh, that was a nice experience.” Then you’d forget it and move on.
+
+When you make it fully PLG, and you lean into the natural virality of scheduling, magic happens, because the nature of the scheduling problem is that both people have the same exact problem at the same time.
+
+With [Calendly](https://sacra.com/c/calendly/), we're both trying to find a date and time that works to meet. When somebody introduces an obvious solution into that shared problem, the recipient has seen the light and doesn’t want to go back-and-forth in a bunch of emails. So they click on the post-scheduling CTA and get their own [Calendly](https://sacra.com/c/calendly/) page for free. It’s a beautiful viral loop that applies to virtually every knowledge worker on earth.
+
+This kind of viral loop means that anyone using the product is also promoting the product and acquiring users as exhaust. And then those new users start sending their link to all of their contacts and the viral loop continues to compound. It’s like this snowball rolling downhill that only picks up mass and speed as it continues to go.
+
+That really was the key unlock, recognizing that scheduling is an inherently viral problem. And that if you lean into that with PLG, you can ride the viral wave of K-factor to become the standard in the industry.
+
+**As companies grow and go upmarket, they tend to layer sales on top of their PLG motion. Sometimes, the PLG culture of the company rejects this. How do companies layer sales on successfully vs where are some common places companies get tripped up in your experience?**
+
+I think the biggest failure mode is when you view them as two separate funnels, or when you bring in a sales leader that might not appreciate what PLG is and they just see it as a lead source. They start to abuse it, where it's just, “Give me more leads so I can call them. If they're not a good fit, and if they don't convert, then I'm just going to leave them by the roadside.”
+
+That’s when you start to create a reputational issue and a user experience issue, because users can sniff out if all you're trying to do is exploit them for your own sales goals and not actually give them a delightful product experience.
+
+The right way to view it is not as two separate funnels, or one that feeds into the next, but as a continuous journey. People start their journey with self-service. They get to whatever point they can get to and experience whatever value they can experience. Ideally, they've been able to experience enough value to self-convert with a credit card. Every user and team will have their own self-service ceiling, and the job of sales in PLG is to identify when that happens and then step in with human effort to assist them in getting beyond that ceiling to continue their journey and experience more value.
+
+**Multi-product has become a must for B2B SaaS companies looking to maintain growth at scale. How does a company's PLG GTM evolve as product complexity goes up with multi-product and how are the best companies doing it?**
+
+It depends on how naturally complimentary your products are. If they integrate really well and work well with each other, and it's basically the same persona that's using and buying it, then I think you can lean into self-service and people naturally discovering new features.
+
+Atlassian does this really well, where you're in one product, and it surfaces stuff from another product. And even if you haven't paid for that additional product, you can still see that it exists and where it could benefit your workflow.
+
+If, however, you are selling products that live in different departments—you sold your first product into sales, and then now you're selling a product to support where there’s different buyer and user personas—that's where it becomes much more challenging to drive cross-sell with self-service alone.
+
+That's where a sales conversation is likely going to be required to make the business case to that new persona. You already have a champion on the other complimentary team, so it should improve your sales conversation with the new persona, but it still requires a sales conversation nonetheless.
+
+**You're an investor and on the board at Cypress.io. Can you talk about PLG specifically for devtools? What's similar and what’s different compared to selling typical B2B SaaS?**
+
+Some things don't change, in the sense that you're still on this self-service journey. You still need to make people aware, get them to sign up, get them activated, have them have value or some magical experience, and continue their journey from there. That doesn't change. But the specifics of what that looks like does change.
+
+Certainly, developers can come into your funnel through traditional content, but they're probably more likely to come in through developer content, which is basically documentation. So your docs become like your blog, in terms of its importance of SEO value, where people start their journey, how they assess the legitimacy and the capabilities of your solutions. So with a developer audience, your docs become your primary content and SEO asset, not your blog.
+
+Open source certainly complicates it, because you can have a ton of open source love and a ton of open source traction, but telemetry doesn’t really exist in open source. You can’t easily understand who these users are and what they’re doing in your product. This hinders traditional marketing and sales efforts.
+
+And the developers themselves might have limited knowledge of your company beyond the open source project—for example, they might not be aware that you even have a commercial product. That's another opportunity for your documentation—you can use your docs as a merchandising or awareness building opportunity for your commercial product.
+
+**You're an investor in [Postscript](https://sacra.com/c/postscript/). Can you tell the story of [Postscript](https://sacra.com/c/postscript/)'s initial product-market fit? How do you think about PLG in the context of app marketplaces and anchor platforms like what Shopify is for the ecommerce ecosystem?**
+
+PLG products are often discovered organically, so you need to make yourself discoverable. Marketplaces and app stores are a great place to be discovered, because users are often looking for ways to improve and extend the functionality of an existing platform. Some of the best examples of platforms that can drive distribution and discovery include the Shopify App Store, Chrome Web Store, and Slack App Store. If the user discovers your app there, it’s a 1-click install to try it out.
+
+For Postscript, the Shopify App Store has been a great distribution channel. Merchants find them there, and the product value is higher out of the gates because of the native integration to their core ecommerce system.
+
+All this having been said, marketplaces and app stores are not a distribution silver bullet. Most signups on the Chrome Web Store are with consumer Gmail accounts, which creates a visibility problem—is this actually a consumer, or is this a business user who signed up with a personal email? On Shopify specifically, you don’t have the consumer signup problem, but there is a divide between Shopify Core and Shopify Plus. At scale, companies like [Postscript](https://sacra.com/c/postscript/) typically see most of their ARR coming from Shopify Plus merchants, and there is not the same tendency to leverage marketplaces from that audience.
+
+**A lot has been made about "community", specifically in the context of web3 and open source, as it enables a bottom-up motion. However, community struggles to scale. How do you think about "community" and its role in PLG?**
+
+Community can be an accelerant to PLG, but creating a community from scratch is incredibly difficult. Making it actually deliver real business value versus just vanity metrics that make you feel good is even more difficult.
+
+There was a tremendous amount of community hype over the last couple years. You can't argue with that. But you don’t just “do community” by hiring a community team and then spinning up a Slack or [Discord](https://sacra.com/c/discord/) channel.Those are window dressing elements of community, but doing those things doesn't mean that you have a community.
+
+I do think community is incredibly powerful, especially once you're at scale and once it connects to your own marketplace. I would point to examples like [Notion](https://sacra.com/c/notion/), [Miro](https://sacra.com/c/miro/) and [Webflow](https://sacra.com/c/webflow/). These are some of the best PLG businesses, as well as some of the best communities out there.
+
+What are those community members doing? They're doing some of the classic stuff, like sharing their product love on social and providing lightweight support to questions from other users.
+
+Where it really becomes high value is when they care so much about your product that they basically start building product for you. For example, if you have a developer-focused product with open APIs and extensibility, your community literally might start building and improving product for you for free (e.g., building an integration or extension), just because they believe in it that much.
+
+Even if you don't have a developer product, your community can build product for you. [Miro](https://sacra.com/c/miro/) has this thing called the [Miro](https://sacra.com/c/miro/)verse. This includes templates, use cases, and galleries that show what’s possible with the product. It drives additional discovery from new users and it also drives activation, because templates and the like can address a “cold start” problem for new users.
+
+**Many folks have written on "what's next" in PLG or post-PLG. What are you seeing on the next iteration of PLG and where it's headed?**
+
+It's interesting because of where we are with PLG today. 5-10 years ago, PLG was the exception, not the rule—startups were able to disrupt existing categories by introducing the only self-serve alternative to expensive and cumbersome sales-led products. When you’re the only easy alternative, you get a lot of attention.
+
+For a while, this was the best kept secret in SaaS because the sales-led companies didn’t take it seriously—they thought PLG was a cute toy for prosumers and SMBs, not a real product for real businesses.
+
+Fast-forward to today, that’s all changed. Look around at any software category, and PLG is now the default—certainly for all the new entrants but also for the established companies in a space. You’ve either built for PLG from day 1 as a startup, or you’ve layered in a PLG motion as an incumbent.
+
+PLG becoming the rule and not the exception is both good and bad. It’s good for customers—for all of us who use business software, we have near endless options of great products that we can try for free without talking to sales. We’re all empowered to build our own best software stacks, rather than being forced to accept what the higher ups purchased for the company years ago. But it’s bad for software vendors themselves, because now it’s harder to differentiate. PLG and self-service have become table stakes. This means that new user acquisition and activation have never been harder because there many copycat alternatives to your product, all of which can be discovered and tried with ease. Additionally, user and customer retention is under major pressure because the same proliferation of PLG alternatives means switching costs have never been lower.
+
+Does that mean that we throw PLG away and go back to the days of enterprise sales and field reps? No. It just means we need to think about what comes next—PLG is a foundation and now we need to build on top of that foundation to scale.
+
+I believe the solution is adding sales assist early—find product-market fit with self-service, then immediately add a sales assist motion to proactively drive your customers to success. And by success I mean everything from initial activation to conversion to team adoption to continued expansion. Sales assist does not mean traditional sales, especially not in the early days. Instead, it looks to the user more like support or success. Chat-based reps with titles like Product Specialist are the new SDRs—however, rather than qualifying you as a lead, they act as a concierge to help you on your journey. And yes, at the right point, they’ll connect you with a sales rep who is fully in the loop on your product usage and team priorities to help you drive wider adoption as a team.
+
+The days of building PLG on “easy mode” are over, and we need to accept that and embrace what’s next.
+
+**Where does AI stand to make the biggest impact on how PLG companies sell software? AI has the potential to dramatically reduce team sizes, especially in high headcount areas like support and sales. What’s your take on that so far?**
+
+First, there are the obvious things that it seems everyone is doing today. Use ChatGPT or a GPT-powered platform to help with marketing content ideation and creation. If you do paid media, experiment and iterate faster with LLM-powered workflows, which is the new norm for growth marketing. Leverage the LLM features in sales tools to automate and improve sales communication. Nothing really novel about these suggestions—most folks in SaaS GTM have quickly standardized on these things.
+
+The biggest opportunity, however, revolves around thinking through how you can make your product more valuable through elegant implementation of LLM features that create that feeling of “magic” I mentioned earlier and automate JTBDs that were previously driven by manual workflows in your UI. For software companies, and especially in product-led growth, product value and product magic are always the best investments.
+
+And yes, there will be a future state not too long from now where the sales assist motion I mentioned before will not require human chat-based reps and instead can be fully automated with LLMs. I don’t think LLM-powered chatbots are intelligent or elegant enough to go beyond basic product support Q&A today in terms of quality. But the rate of change is obviously extremely high, so we’re likely not far off from a world of really great “digital sales reps” that outperform chat-based SDRs and are infinitely more consistent, scalable, and economical.
+
+## Disclaimers
+
+_This transcript is for information purposes only and does not constitute advice of any type or trade recommendation and should not form the basis of any investment decision. Sacra accepts no liability for the transcript or for any errors, omissions or inaccuracies in respect of it. The views of the experts expressed in the transcript are those of the experts and they are not endorsed by, nor do they represent the opinion of Sacra. Sacra reserves all copyright, intellectual property rights in the transcript. Any modification, copying, displaying, distributing, transmitting, publishing, licensing, creating derivative works from, or selling any transcript is strictly prohibited._
+
+### Read more from
+
+### Read more from
+
+### Read more from
+
+### Read more from

@@ -1,0 +1,320 @@
+# The Expansion Playbook Every Founder Needs
+
+At some point, every ambitious European founder faces the same decision: expand to the United States or stay local. It’s not just a growth lever. It can be a **company-defining bet**.
+
+[Index Ventures](https://www.indexventures.com/) has written the most comprehensive playbook on this topic, _[Winning in the US: The Founder’s Guide to Building a Global Company from Europe](https://www.indexventures.com/winning-in-the-us/key-contributors)_. Their research shows how the timing and strategy of a US move can make or break a European startup.
+
+The numbers explain why. Early-stage US startups [raise more than 7×](https://www.zapflow.com/resources/news-blog/exploring-the-valuation-gap-analyzing-europe-vs.-usa#:~:text=Early%20Stage:%20The%20data%20clearly%20demonstrates%20that,is%20well%2Dknown%20to%20active%20transatlantic%20venture%20capitalists.) the capital of their European peers, often for the same product idea. That’s the kind of gap that can multiply your valuation by 3–7×, or, if mishandled, fracture your team and stall momentum entirely.
+
+I recently sat down with [Martin Mignot](https://www.indexventures.com/team/martin-mignot/), Partner at Index Ventures and early investor in Revolut, together with [Guillermo Flor](https://open.substack.com/users/48117658-guillermo-flor?utm_source=mentions), to unpack this very question. We talked about the mistakes founders make, what signals matter most, and how to time the leap. You can watch the full conversation here:
+
+The old playbook treated US expansion as a late-stage milestone. That’s outdated now. The smartest founders treat it like the $100M decision it is, grounded in timing benchmarks, traction signals, and capital leverage.
+
+This article builds on the Index Ventures frameworks and our conversation with Martin, with one goal: to help you decide when, how, and whether to cross the Atlantic.
+
+[
+
+![Illustration of European startup expansion from Eiffel Tower in Paris to Statue of Liberty in New York, symbolizing transatlantic growth](https://substackcdn.com/image/fetch/$s_!6dZF!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5563eeaa-88fe-4bab-9d2e-5ccd9e5c13ea_1024x653.jpeg "Illustration of European startup expansion from Eiffel Tower in Paris to Statue of Liberty in New York, symbolizing transatlantic growth")
+
+](https://substackcdn.com/image/fetch/$s_!6dZF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5563eeaa-88fe-4bab-9d2e-5ccd9e5c13ea_1024x653.jpeg)
+
+From Paris to New York: European startups are increasingly charting a strategic path to US expansion, driven by capital, customers, and global ambition.
+
+1\. The Expansion Gap: Why the US is No Longer a Later-Stage Move
+
+2\. US Expansion Strategy is Not a “One Size Fits All”
+
+3\. The Expansion Equation: Readiness Matters More Than Stage
+
+4\. It’s Not Copy-Paste: Rebuilding GTM for the US
+
+5\. Spotify vs. Klarna: Two Contrasting Journeys Across the Atlantic
+
+6\. Founder Playbook: How to Nail US Expansion in 7 Steps
+
+Until recently, [European founders](https://www.thevccorner.com/p/how-two-european-founders-raised) treated the US as a milestone for when the company had “made it.” But data tells a different story nowadays. A story that’s quietly reshaping how top startups scale.
+
+[According to data by Zapflow](https://www.zapflow.com/resources/news-blog/exploring-the-valuation-gap-analyzing-europe-vs.-usa), between 2013 and 2023, the **valuation and funding gap** between Europe and the US remained striking, even during a period of global corrections:
+
+[
+
+![Chart showing the median deal size in U.S. vs. European startups from 2013 to 2023](https://substackcdn.com/image/fetch/$s_!2X_o!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F555512fc-e883-4b29-85d0-e0f6aa4e5c3f_677x559.png "Chart showing the median deal size in U.S. vs. European startups from 2013 to 2023")
+
+](https://substackcdn.com/image/fetch/$s_!2X_o!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F555512fc-e883-4b29-85d0-e0f6aa4e5c3f_677x559.png)
+
+U.S. startups consistently raised 2-3x more than European counterparts across all stages, creating a structural capital advantage. (Image source: [Zapflow](https://www.zapflow.com/resources/news-blog/exploring-the-valuation-gap-analyzing-europe-vs.-usa))
+
+These aren’t minor deltas, they’re multiplicative handicaps.
+
+Imagine two teams building the same product. One in Berlin, one in Boston. Same category, same skill, same market insight. But the Boston founder walks into a Series A with **three times the capital, better talent leverage, and more runway to learn.** The Berlin founder starts behind, stays behind, and still gives up more equity to get there.
+
+This is the cost of staying local. It means **less capital, lower valuations, and slower compounding.** For ambitious **European startups in the US**, the timing of entry is now turning into a funding strategy.
+
+So if the US offers higher capital at better terms, the question isn’t _if,_ it’s _when_.
+
+There’s no universal blueprint for scaling into the US, only **strategic archetypes** that match different company DNAs.
+
+What separates a successful US expansion strategy from wasteful ones often comes down to fit: how your product, TAM, and organizational design align with your path to America.
+
+Index Ventures, in their book _[Winning in the US: The Founder’s Guide to Building a Global Company from Europe](https://www.indexventures.com/winning-in-the-us/)_, identified **five dominant expansion archetypes**. These frameworks are based on research across 500+ VC-backed startups and dozens of founder interviews, and each archetype reflects a distinct approach to scaling across the Atlantic.
+
+[
+
+![Through working with hundreds of companies making this journey, Index has identified five distinct archetypes for building transatlantic businesses out of Europe.](https://substackcdn.com/image/fetch/$s_!Vkud!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F62f149d2-2741-4b30-9376-e17b5eaea99b_1764x1056.png "Through working with hundreds of companies making this journey, Index has identified five distinct archetypes for building transatlantic businesses out of Europe.")
+
+](https://substackcdn.com/image/fetch/$s_!Vkud!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F62f149d2-2741-4b30-9376-e17b5eaea99b_1764x1056.png)
+
+Through working with hundreds of companies making this journey, Index has identified five distinct archetypes for building transatlantic businesses out of Europe. (Image source: [Index Ventures](https://www.indexventures.com/winning-in-the-us/the-archetypes)).
+
+**Worldview:** The US isn’t just the next market, **it’s** _**the**_ **market.**
+
+Magnet companies feel gravitational pull from the outset. Their TAM is US-heavy by default, their early customers or competitors are American, and **they choose to relocate fast**, often before Series A.
+
+**[Personio](https://www.personio.com/hr/hr-software/)** is a great example of a Magnet. The company was founded in Munich, Germany and built a strong HR platform tailored to European SMEs initially. But despite its European scope, Personio saw significant US investor and client interest by 2021, which prompted a US expansion strategy.
+
+So Personio’s demand wasn’t always customer-first, **it was a strategic magnetism that combined capital and ecosystem pull.**
+
+[
+
+![Logo of Personio, European HR tech startup](https://substackcdn.com/image/fetch/$s_!YW5P!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0cac1a63-9515-4f03-b44f-aa88b9c77677_2000x870.jpeg "Logo of Personio, European HR tech startup")
+
+](https://substackcdn.com/image/fetch/$s_!YW5P!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0cac1a63-9515-4f03-b44f-aa88b9c77677_2000x870.jpeg)
+
+Personio acted as a Magnet: pulled into the U.S. by capital and customer interest before Series A.
+
+**Worldview:** There are two centers of gravity, and you need to swing between them.
+
+Pendulum companies operate dual hubs, often with engineering in Europe and GTM in the US It’s all about balancing product depth and market proximity.
+
+**[Pleo](https://www.pleo.io/)** was born in Copenhagen. After building [product-market fit](https://www.thevccorner.com/p/how-to-find-product-market-fit) and [raising a $150M+ Series C](https://blog.pleo.io/en/series-c-funding), it began expanding its **commercial focus to the US**, with senior GTM hires and CEO time shifting toward US opportunities while retaining its R&D in Denmark.
+
+Ultimately, the startup’s brain remained in Europe, but the muscle moved west.
+
+[
+
+![Pleo logo, startup with dual-market strategy](https://substackcdn.com/image/fetch/$s_!TA5m!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F433776c4-de0a-4072-b6ae-913a6f8808d9_1080x602.png "Pleo logo, startup with dual-market strategy")
+
+](https://substackcdn.com/image/fetch/$s_!TA5m!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F433776c4-de0a-4072-b6ae-913a6f8808d9_1080x602.png)
+
+Pleo exemplifies the Pendulum archetype, balancing R&D in Europe with commercial growth in the US.
+
+**Worldview:** Europe is home base, but the US is a foothold worth planting.
+
+Anchors scale primarily from Europe but establish US presence to support key accounts, GTM motion, or leadership.
+
+Take **[SEON](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChsSEwjKsI7p0tWOAxXny0QHHWa7Jk0YACICCAEQABoCZWY&co=1&ase=2&gclid=Cj0KCQjws4fEBhD-ARIsACC3d283uDmA2YwL87z_e0RIWR3EEfPCr9RfPL3MVXC19VbDB5r3FbkufS0aAiWfEALw_wcB&ohost=www.google.com&cid=CAESVuD2rL2974yzle_CI-6qnh_gG_DQrOoJ93X45LbG0zOgmscytv-AQlPccQAPei7NgXrYfgXB7Mnqa2mG_Zsa6vfYZLJyldlzQQLbo0IxI-oktqWGy5U4&category=acrcp_v1_40&sig=AOD64_2oERNLm8TvxStGSYL41CpNf0wCIg&q&nis=4&adurl&ved=2ahUKEwjkyojp0tWOAxUw-wIHHSOqNfMQ0Qx6BAggEAE)**, a Hungarian fraud prevention startup. payments company. It secured a series of fintech and crypto clients in the US before launching formal commercial operations. **Expansion was “pulled” by specific deals, not a general go-to-market campaign.**
+
+The Anchor model works when your product already sells globally, and **you’re optimizing your reach instead of reinventing it.**
+
+[
+
+![SEON logo and news on U.S. expansion](https://substackcdn.com/image/fetch/$s_!q65w!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9f2689d-7753-4ddc-8cdf-b4f1b5c90f4e_1400x800.webp "SEON logo and news on U.S. expansion")
+
+](https://substackcdn.com/image/fetch/$s_!q65w!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9f2689d-7753-4ddc-8cdf-b4f1b5c90f4e_1400x800.webp)
+
+SEON followed the Anchor model pulling into the US through customer demand before scaling operations.
+
+**Worldview:** You can win the US without setting foot there, at least for a while.
+
+Telescope companies focus on product-led growth or viral adoption to reach American users from abroad. GTM is digital-first. Physical presence comes only after traction is proven.
+
+**[Factorial HR](https://factorialhr.com/)** is a prime example of a Telescope company. It opened a small US operation early, primarily to observe how HR SaaS differs in GTM and compliance versus the EU.
+
+They planned their expansion slowly over 7 years by taking **a research-first approach.**
+
+Ultimately, for self-serve SaaS or creator platforms, **Telescope is a powerful entry strategy.**
+
+[
+
+![Factorial HR logo representing cross-border SaaS](https://substackcdn.com/image/fetch/$s_!3zwZ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdad0bb18-6a1b-46b4-a9c2-cc1d33c4af97_1566x446.png "Factorial HR logo representing cross-border SaaS")
+
+](https://substackcdn.com/image/fetch/$s_!3zwZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdad0bb18-6a1b-46b4-a9c2-cc1d33c4af97_1566x446.png)
+
+Factorial HR used a Telescope strategy, testing US waters digitally before deeper market entry.
+
+**Worldview:** If the US is your future, move your roots.
+
+Transplants relocate their entire operations. Their leadership, culture, and ultimately, their HQ. They see no point in splitting attention when the **US is central to their scale.**
+
+**Algolia**, though founded in Paris, shifted its HQ to San Francisco early. It rebuilt the company around the US dev ecosystem, its ideal customer profile, and the talent pool it needed to win.
+
+Choosing the wrong model can derail timing, funding, or product-market fit. A Telescope trying to behave like a Transplant may burn capital without traction. An Anchor that should’ve gone Magnet may watch competitors leap ahead.
+
+Founders should identify their archetype early, and **revisit it at every stage.**
+
+But remember, your European startup go-to-market strategy **isn’t a fixed plan.** It should be a reflection of evolving ambition, resources, and pull from the market.
+
+[
+
+![Algolia logo showing expansion from EU to U.S.](https://substackcdn.com/image/fetch/$s_!yfVB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0c37cb6-a3ef-4ee5-a128-652d4e6b5845_815x260.png "Algolia logo showing expansion from EU to U.S.")
+
+](https://substackcdn.com/image/fetch/$s_!yfVB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0c37cb6-a3ef-4ee5-a128-652d4e6b5845_815x260.png)
+
+Algolia is a Transplant. It moved its HQ to the U.S. early to fully align with its ideal customer and ecosystem.
+
+The idea that US expansion happens in a single leap is a myth, and a dangerous one at that.
+
+In reality, most successful companies treat it like **a staged funnel**, advancing only when signals and systems support the next step.
+
+According to _[Frontline Ventures’ U.S. Playbook](https://frontline.vc/report/the-us-playbook/when-to-expand/)_ and Index Ventures’ research in _[Winning in the US](https://www.indexventures.com/winning-in-the-us/)_, the average time for European startups to open their first US office was just four years before 2020. Post-pandemic, that timeline has stretched closer to five years, not due to slower ambition but because remote-first GTM motions now allow founders to test the US market earlier and at lower cost.
+
+[According to Frontline Ventures’](https://frontline.vc/report/the-us-playbook/when-to-expand/) _[U.S. Playbook](https://frontline.vc/report/the-us-playbook/when-to-expand/)_, the average time to first US office for European startups **was just four years before 2020**. Post-pandemic, that’s stretched closer to **five years**, not because ambition has slowed, but because **remote-first GTM motions** allowed founders to test the US market earlier and cheaper.
+
+[
+
+![Index Ventures chart showing median time to expand to the U.S. from founding](https://substackcdn.com/image/fetch/$s_!XtYs!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3131a2d-564d-4d6d-b324-0777cb41b275_1210x780.png "Index Ventures chart showing median time to expand to the U.S. from founding")
+
+](https://substackcdn.com/image/fetch/$s_!XtYs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3131a2d-564d-4d6d-b324-0777cb41b275_1210x780.png)
+
+Data from Index Ventures’ _Winning in the US_ shows that most European startups take 3–5 years to enter the US market. The most successful treat expansion like a staged funnel rather than a single leap, advancing only when signals and systems support the move. (Source: [Index Ventures,](https://www.indexventures.com/winning-in-the-us/) _[Winning in the US](https://www.indexventures.com/winning-in-the-us/)_).
+
+Nowadays, US expansion doesn’t mean earning a visa. It can be done by just a Slack ping, a well-timed cold email, or a founder willing to run late-night demos.
+
+This is what modern US market entry timing actually looks like:
+
+1.  **Start from Europe** - Close your first US customer from home. Prove interest, not intention.
+    
+2.  **Bridge the time zones** - Layer in hybrid support. Onboard users during US hours, even if your team’s asleep.
+    
+3.  **Make your first hire** - That could be a Customer Success or Business Development role. One person embedded in-market, not a full team.
+    
+4.  **Build your US GTM spine** - Sales, support, and leadership with real accountability.
+    
+5.  **Then relocate** - Founder or executive relocation only comes once the funnel justifies it.
+    
+
+This 5-step plan is not based in theory. It’s **the actual ladder most breakout companies climb.**
+
+Some steps happen quickly, others slowly, but they’re rarely skipped. Because **premature expansion is expensive.**
+
+Many European founders make the same mistake: they try to drag-and-drop their home-market GTM into the US. That means using the same funnel, exact same pitch, maybe even the same customer profiles.
+
+**And then wonder why nothing sticks.**
+
+Imagine a scenario where a Berlin fintech that’s nailed mid-market sales to European banks now expanding to New York. They roll out the same outbound engine. That means local SDRs, white papers, patient multi-touch sequences.
+
+But on the other end of the call, US banking VPs demand urgency. They want a demo tomorrow, and cannot wait until next week. They want proof that your security systems are up to enterprise standards, seamless integration with Salesforce, and at least three American logos before they forward you to procurement.
+
+They ask for ROI calculators, pricing one-pagers, and a live sandbox. But none of it exists yet. **Everything goes out the window.**
+
+That’s because US GTM isn’t just faster. It’s also different.
+
+*   Pitches go **top-down**, not bottom-up. Titles matter more.
+    
+*   Buyers expect **US-specific value props** and ROI framing.
+    
+*   Trust hinges on **reference customers and recognizable brands**.
+    
+*   Segmentation is often by **industry vertical**, not just company size.
+    
+
+This is where many expansion attempts break: founders assume they can adapt. But adaptation isn’t enough. You need to **build a second GTM engine**, one engineered for the speed, psychology, and structure of the US buyer.
+
+If your **European startup [go-to-market strategy](https://www.thevccorner.com/p/the-ultimate-7-step-gtm-framework)** was built for consensus-driven procurement and long-cycle nurturing, you’ll need to unlearn parts of it. The US doesn’t wait. And it doesn’t care what worked in Frankfurt.
+
+There’s no universal timing for entering the US, only trade-offs. And no two companies highlight that better than **Spotify** and **Klarna**.
+
+Spotify played the long game. It resisted the gravitational pull of the US market for years, not out of hesitation, but out of discipline. The streaming giant’s founder, Daniel Ek understood that **cracking America wasn’t just about launching a product**, it was about orchestrating a symphony of licensing deals, brand positioning, and cultural fit.
+
+Spotify fine-tuned everything before entry: the product UX, the catalogue depth, the mobile readiness, even the PR narrative. By the time it launched in the US in 2011, it didn’t feel like a foreign startup, **it felt like a long-awaited upgrade.**
+
+[
+
+![Spotify launch event photo from U.S. expansion](https://substackcdn.com/image/fetch/$s_!4cec!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6bd45aef-d696-47ba-b5df-f63d24cb6641_600x376.png "Spotify launch event photo from U.S. expansion")
+
+](https://substackcdn.com/image/fetch/$s_!4cec!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6bd45aef-d696-47ba-b5df-f63d24cb6641_600x376.png)
+
+Spotify’s methodical U.S. launch remains a textbook case of timing-led expansion strategy.
+
+Spotify treated the US not as a proving ground, but as a **multiplier**. It was a classic Anchor strategy: **delay the leap until the landing is soft.**
+
+Klarna did the opposite. It ran towards the US at full speed. The Swedish fintech had already found massive European traction and saw the States not as an expansion, **but as its reckoning.**
+
+When it entered, the risk of staying out felt bigger than the cost of going in. Klarna didn’t wait for perfect product-market fit or regulatory clarity. It bet on branding. It bet on capital. It bet that speed would cover the rest. The expansion was noisy, bold, imperfect, and intentional.
+
+Ultimately, Klarna treated the US not as a bonus round, but as a **future-defining market**. A Transplant in motion.
+
+[
+
+![Visual comparison of Spotify and Klarna’s timelines and strategies for entering the U.S. market](https://substackcdn.com/image/fetch/$s_!YljO!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5cec3d81-4d7b-4e8a-8993-a39df5593511_1536x1024.png "Visual comparison of Spotify and Klarna’s timelines and strategies for entering the U.S. market")
+
+](https://substackcdn.com/image/fetch/$s_!YljO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5cec3d81-4d7b-4e8a-8993-a39df5593511_1536x1024.png)
+
+Two contrasting expansion strategies: Spotify delayed for perfect product fit, while Klarna raced ahead to dominate the U.S. fintech scene.
+
+Both companies succeeded, but their lessons diverge.
+
+Spotify reminds us that **timing can protect product credibility.**
+
+Klarna shows that **timing can be forced by competition, narrative, or sheer ambition.**
+
+**Spotify’s strategy works when readiness is existential. Klarna’s works when urgency is existential.**
+
+And the difference had little to do with geography or category, it had everything to do with how each founder saw the stakes.
+
+As you chart your own path, ask yourself: _are you refining your core, or racing the clock? Do you need the US to accelerate what’s working, or to become what you’re not yet?_
+
+By now, the strategy is clear: US expansion is not a rite of passage, it’s a series of deliberate moves. The best European startups in the US didn’t wing it, **they executed a plan.**
+
+Here’s the seven-step playbook founders use to de-risk and accelerate US expansion:
+
+Magnet, Pendulum, Anchor, Telescope, or Transplant. Your GTM motion, product footprint, and TAM should point to one. Know it. Embrace it. Let it guide not just _when_ you expand, but **how you do it.**
+
+If you pick the wrong model, you’ll either over-invest in a market that doesn’t need it yet, or worse, under-commit and miss your window.
+
+Is your product usable out of the box for US customers? Is your UI clean, your onboarding intuitive, your support timezone-aware?
+
+Keep in mind that US buyers expect polish, speed, and trust cues, such as compliance, integrations, testimonials.
+
+**If your product isn’t ready for scrutiny, expansion becomes damage control.**
+
+Before you leap, listen. Are US-based leads organically filling your pipeline? Are enterprise buyers opening your emails, asking for [SOC 2](https://secureframe.com/hub/soc-2/what-is-soc-2), or inviting late-night demos? If not, you’re chasing a market. If yes, you’re responding to one. Let demand, not ego, pull you in.
+
+You don’t need a Delaware C-Corp and an office lease to validate the US. Start from Europe. Use founder-led outreach, async demos, and low-cost pilots. Close 2–3 logos. Learn what breaks. Partnerships with agencies or resellers can open doors. **Quiet success is still success.**
+
+Don’t start with generalists. Your first US hire should be a domain-native, someone who’s seen scale, knows the buyer’s psychology, and brings network gravity. **NYC for GTM**, **SF for tech**, **Austin for hybrid operations**. Hire slow, but once you do, commit to backing them fully.
+
+American buyers don’t want your European pitch, pricing logic, or nurture funnel. They want speed, clarity, and proof.
+
+Rebuild your motion: new personas, new email copy, new sales assets. Think ROI calculators, fast-launch checklists, and value props that convert in 3 seconds.
+
+Expansion fractures teams that aren’t ready. Time zone drag, misaligned incentives, and language gaps compound fast. Default to English. Build async rituals. Make sure your European HQ can operate independently, because t**he US will consume more of your time than you expect.**
+
+Founders who follow this roadmap don’t just show up in America. **They land ready to play.**
+
+> _“The best founders don’t ask if they should go global. They start by designing a company that already is.”_
+
+If you want the full research, case studies, and archetypes, go straight to [Index Ventures](https://www.indexventures.com/)’ book _**Winning in the US**_. It is free and worth your time:
+
+[Read it for free](https://www.indexventures.com/winning-in-the-us/key-contributors)
+
+[
+
+![Winning in the US book by Index Ventures, a founder’s guide to building a global company from Europe](https://substackcdn.com/image/fetch/$s_!scmX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90a18154-db6e-41fa-ba96-067749e52c6f_1360x1100.webp "Winning in the US book by Index Ventures, a founder’s guide to building a global company from Europe")
+
+](https://substackcdn.com/image/fetch/$s_!scmX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90a18154-db6e-41fa-ba96-067749e52c6f_1360x1100.webp)
+
+_Winning in the US: The Founder’s Guide to Building a Global Company from Europe_, a playbook published by Index Ventures to help European startups expand successfully to the United States
+
+We also had the chance to dive deeper into this topic with **Martin Mignot**, Partner at Index Ventures and early investor in Revolut, on our podcast _[Compound](https://www.youtube.com/channel/UCT3j9DwCFYMVcNRfSJFWW0Q)_. You can watch the full interview here:
+
+If you’re not yet subscribed, now’s the time. On _[Compound Podcast](https://www.youtube.com/channel/UCT3j9DwCFYMVcNRfSJFWW0Q)_ we’ve already hosted conversations with:
+
+*   The CEO of **WeWork**
+    
+*   The founder and CEO of **Amplitude**
+    
+*   A partner at **NFX**
+    
+*   The CEO and founder of **Substack** (yes, the creator of this very platform)
+    
+
+And this weekend, we’re releasing an exclusive interview with the founder and CEO of **[Synthesia](https://www.synthesia.io/)**. This company raised $180M at a $2.1B valuation for its B2B AI video platform earlier this year.
+
+**👉 [Subscribe](https://www.youtube.com/channel/UCT3j9DwCFYMVcNRfSJFWW0Q) to** _**Compound Podcast**_ **on [YouTube](https://youtu.be/1l3HFeRiRt8?si=0AhpS0WuunEk2LR-) to never miss an episode.**
+
+And if you want to go one step further, Index Ventures has built a free interactive tool to help founders figure out which US expansion archetype fits their company best:
+
+The _[Index Ventures Expansion Plan](https://www.indexventures.com/expansionplan/)_ walks you through key questions about your TAM, go-to-market model, regulatory challenges, and competition. At the end, it shows whether you’re more of a Magnet, Anchor, Telescope, or Pendulum.
+
+It’s a quick way to benchmark your own strategy against the playbooks that Europe’s most successful startups have already used to scale across the Atlantic.

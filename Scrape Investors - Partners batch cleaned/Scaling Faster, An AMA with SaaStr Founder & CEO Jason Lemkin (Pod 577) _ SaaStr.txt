@@ -1,0 +1,333 @@
+# Scaling Faster, An AMA with SaaStr Founder & CEO Jason Lemkin (Pod 577)
+
+Jason recently opened up an AMA on Twitter Spaces to answer questions about how to scale faster. Episode 577 of the podcast is an excerpt from the recording, and you can find the full transcript below.
+
+**Jason Lemkin:**
+
+Okay. Let’s get it going!! Times are good. These are interesting times if we want to skew it. If we want to queue up the conversation, we did a blog post on SaaStr last week, about how [everyone from Salesloft, to Zendesk, to Salesforce, Workday said they’re really seeing no slow down](https://www.saastr.com/salesloft-zendesk-salesforce-and-more-theres-no-slowdown-yet/). Those are all a bit enterprise biased. Obviously, others have seen the other things, but one way or other, we all have to still hit our plans with less. So that is the theme of today. If anyone has a question to open it up, please do, I’m here. I’m ready to help it in any way that possible that we can, just let me know. We are here to chat.
+
+**Yuri Vaskovski @yurivaskovski:**
+
+> ### One of the projects that I’m running, it’s a new look at how a multimedia outlet should be in a hotel room. And my question would be, how do you approach hotels to actually look at the system?
+> 
+> **Because it’s quite a big entry point for them. Because besides getting the software interest in the software company, you also need to basically acquire tablets for each room.**
+
+**Jason Lemkin:**
+
+I try to focus on things after you have 10 or 15 or 20 customers. So you’re really asking how do you get a business going, like selling to restaurants that not only is hard to penetrate but has a hardware component. All I can tell you is, it’s certainly challenging. At a personal level, first of all, it’s not hotels, but you can study [Toast](https://www.saastr.com/5-interesting-learnings-from-toast-at/). Toast is public. You can read all their investor reports and our SaaStr post on them, and see how they got going. In my own personal portfolio, the closest thing I have, and it is a challenge, is a company called Owner, owner.com. In some ways they’re a next-generation marketing automation system for restaurants, sort of a, they’re a Toast partner but a Toast Plus. And I’ve watched them fairly quickly scale, to soon they’ll be at 10 million in revenue. First of all, let’s flip the two points you asked.
+
+**Jason Lemkin:**
+
+One is, how do you penetrate tiny SMBs that aren’t Googling, searching, that don’t have time, and two, how do you subsidize hardware costs in SaaS? So let’s break it down into two, and I’ll help as much as I can. First of all, penetrating tiny SMBs is extremely hard, but when you get good at it, it’s highly defensible because your typical, lazy marketing tactics don’t work. What I can tell you is, first of all, outbound always works, as annoying as it is, walking into a hotel, walking into a restaurant, trying to talk to the owner. That sort of works. Facebook marketing is a pain in the ass today. The costs have doubled or tripled in the last 18 months, and targeting is more challenging, but it’s still a top channel. It still does work to get to these folks, and you’ve just got to penetrate. It’s hard, but once you do, the benefit is you do get a viral word of mouth that’s going. But the lazy approach, the content marketing approach, it has some benefits but it really is tough to penetrate these traditional offline businesses.
+
+**Jason Lemkin:**
+
+On the hardware side, man, that’s a tough one. Subsidizing a little bit of hardware in the early days of SaaS isn’t that big deal. If you need to give hotels 10 tablets, as expensive as that is, you can probably just go buy 10, $100 Android tablets, configure them yourselves. You’re at a thousand dollars, it’s really not a big deal. But boy, I can tell you from all the companies I have invested and worked with that have a hardware/software component, it really actually gets brutal as you scale. Once you cross three, four, five million, if you have SMBs paying you monthly, but then you have to buy hardware, and you have to install it, and you have to deploy it, and you have to deal with recalls and upgrades and everything, you can burn through on a fully burdened basis, six months of the revenue you get from a tiny business, even on a hundred dollars or $200 fully burdened cost of hardware.
+
+**Jason Lemkin:**
+
+And if you’re billing monthly, it’s almost impossible to recuperate that. It’s really an existential challenge. Enough venture capital can certainly bridge that gap. I think it is possible to get some revenue-based financing here, for sure, both from SVB and others, and also new emerging vendors from Pipe and on, you can get some. But the number one thing I can tell you, is you have to just be absolutely rigorous on the hardware cost. And if you can, at least get the customers to pay the hardware cost upfront. I know no one wants to do this. I know in many industries they almost collect tablets like trash in their back offices because so many vendors give them free tablets. But run the numbers and be very thoughtful and rigorous on it because it will destroy you by four to five million, if SMBs are paying you monthly, but you’re sending out six months’ of revenue worth of hardware without getting it back. It is a brutal model that you at least have to be laser-focused that you don’t get wrong.
+
+**Jason Lemkin:**
+
+Another one I’ll tell you and then I’ll take the next question. There was another company I invested in called Automile, that for a while was quite successful in SMB fleet tracking, tracking where your fleets of vehicles are. And they sold right after COVID hit, when their business got impacted, for a billion Swedish somethings. It was a decent outcome, but they were coming up on 20 million. So maybe it was a crummy time to sell as they were coming up on 20 million US dollars in revenue. But they had a bunch of challenges with the hardware component. Even though it wasn’t that expensive, in the early days, they literally would ship it for free and assume the customer would close.
+
+**Jason Lemkin:**
+
+Now, in the beginning, they were quite good at qualifying customers. They had about a 90% trial-to-close rate, so they would ship out these $50 or $60 trackers. The product’s $20 to $30 a month. I mean consumed a little bit of capital, but if 90% of them converted in the trial period, it all worked out on the hardware. As they scaled, they radically changed how they did sales. They moved to a more traditional SaaS inside sales model, and they started shipping out these hardware devices, and only 30% to 40% of the customers would end up paying for them.
+
+**Jason Lemkin:**
+
+They’d have to try to get them back, ship them back. It was a headache, no one would, and there was nothing you could do. And it became a massive capital sink, as the company changed its go-to market around five million in revenue. And it’s just an example of not getting it laser right. It seemed like this hardware worked when 90% of customers paid for it, but when it plummeted to 30% to 40%, all of a sudden almost overnight, this went from a very capital efficient business to one consuming capital at a shockingly scary rate. So thanks for the question. Anybody else have another question to add?
+
+**Omer Perchik (@OmerPerchik):**
+
+> I’m the founder and CEO of this popular task management app, over 30 million users worldwide. We’ve been in the consumer market for a very long time. And we’re about to add basically a team collaboration tier on top of the product. And I wanted to ask you basically two questions. **One, if you have good examples of companies who did both single player and multiplayer in the product that worked really well.** I have a few examples like Canva, is a relatively good example. Dropbox ish, but I couldn’t find that many companies that provide both single user and multi user value. So that’s one question.
+> 
+> The second question is more about, given that we’re basically users would be self qualifying into team management offering like a project management, et cetera. One of the challenges in the market is that people are looking for… It’s hard for them to translate their business workflows into digital versions, right? So like you have templates, you have communities, you have all of those things. **I was wondering if you’ve seen anything that is interesting and unique that is less sales driven and more obviously product and marketing driven or community driven, to help basically maximize activation during that period.** Thanks.
+
+**Jason Lemkin:**
+
+And sorry. Today how many customers do you have using the non-collaboration version of the product?
+
+**Omar:**
+
+So we have daily active users at about 1.2 million.
+
+**Jason Lemkin:**
+
+Yeah. So listen, there’s probably a lot of specific things in your question that I can’t help with, that I might not be smart enough or fully understand. But I think the question is, in general, who has added a collaboration layer on top of a single user product and been successful and what can be learned from that? I will give you a sort of a crummy answer because you can challenge it, but I actually think it’s a very good answer. And then let me talk about the topic at a high level in terms of adding collaboration to single-user product. I know it is not exactly the right example, but I actually think one of the most interesting examples is Calendly.
+
+**Jason Lemkin:**
+
+And the reason I think Calendly is interesting is, yes Calendly as a single user is a collaboration product in a sense, right? Because it is viral, but is viral like Dropbox as you noted, it is viral like DocuSign and Adobe Sign were when we built it in the early days, when by signing a contract, someone else inherently saw the product. And Calendly is somewhat viral because the recipient has to learn how to use it. But go to saastr.com and [watch the session that the CMO, Patrick Moran did](https://www.saastr.com/whats-changed-in-product-led-growth-with-calendly-cmo-patrick-moran/), the SaaStr session he did. And it was great.
+
+**Jason Lemkin:**
+
+He compared how this went from the early days of PLG, the early days of WebEx, to what he learned at New Relic when they started off PLG and at Calendly. And what he did was really talk about how all of them started off as self-serve PLG, pseudo single user products, and then really accelerated when enterprise came in. And he talks about the numbers, they are a few months dated, but the numbers, the acceleration that Calendly saw when it added Calendly Enterprise, so that enterprises could collaborate on these meetings, it’s just jaw-dropping the acceleration they saw, where they could access these big enterprise deals, rather than one-off freemium deals.
+
+**Jason Lemkin:**
+
+So I know people think they know the Calendly story, but I don’t think people understand just how incredibly powerful adding that enterprise edition was. And Patrick, again, walks through all the details, what worked, how they experimented, how they tested it out, really one of the best sessions we’ve ever done.
+
+**Jason Lemkin:**
+
+It’s really great because he does three case studies, WebEx New Relic and this one. The larger point, maybe not for you, although maybe for you but for the other audience is, look. And I think [Canva](https://www.saastr.com/lessons-learned-scaling-canva-to-1-billion-with-zach-kitschke/) is a great example. Canva was very late to add collaboration and enterprise features. Maybe not late to add lightweight collaboration to share portfolios, but the kind of stuff that Calendly enterprise, they waited until they were doing 500 million or more of revenue, was late and it worked for them. I think the meta lesson from all of that is, collaboration to me is like freemium or a long tail, which is that it doesn’t have to be perfect. If you can get 10, 20, 30% of your base at first using your collaboration features, not only does it typically add much more value to your app, make it stickier, make your customer lifetime longer and your churn lower, you create a slow viral loop.
+
+**Jason Lemkin:**
+
+Now I don’t know what Calendly’s viral loop is, how long does it take someone to receive a Calendly before they become a Calendly user and then a Calendly customer but I suspect it’s longer than you think. In the old days at Adobe Sign, at EchoSign we did this study. And it’s not like Calendly, but when you think about e-signing an agreement for the first time, it was magical when people hadn’t done it. And they click on a link and, “Whoa, I’ve signed a document,” and it says, “Use Adobe EchoSign or EchoSign or Adobe Sign today.” It was magical. And that really became the majority over time of our lead flow and more, but it took about eight months to get to paid on average.
+
+**Jason Lemkin:**
+
+The average person that would sign their first contract on EchoSign, and I’m sure it was true of DocuSign too, they might not convert to a free user at first, or they might not do a free trial first. It might take a few times. Might take a few times to understand how that Calendly works or others. It’s not like Canva where I’m being invited into a collaboration suite. And it took eight months. And so the reason I bring it up, not to be a non-sequitur, the point is if you’re going long, this is a great boost to your revenue. You may not become a hundred percent collaborative. I don’t know that Canva will be a hundred percent enterprise and collaborative. And it’s okay. That doesn’t have to be the goal, right?
+
+**Omar:**
+
+I understand that. I just say that there’s a nuance point in this category which is, what is the core unit of what people are doing? So for example, in Canva, right? Like you’re designing something, you’re normally designing it for the business you work for, and then you share it with your collaborators and stuff like that to get feedback from them. So that was a natural behavior and it all happened within the workspace, even if you were a free user.
+
+**Jason Lemkin:**
+
+For sure.
+
+**Omar:**
+
+I’m assuming that’s the exact same thing with EchoSign and any other kind of signature and whatever. In our case, people use Any.do, for managing their personal tasks. Obviously, a lot of them are work-related. And so our wedge to getting them into the workspaces has to be something that is non-organic, let’s call it, which makes it more challenging. So I was wondering if you have other examples.
+
+**Jason Lemkin:**
+
+I hear you. I’ll give you one last example. I know this one might frustrate you because it’s imperfect, but I actually think one of the more interesting ones, if you’re talking about where the single user is a bit orthogonal to the corporate use case is Expensify. And if you don’t know Expensify, we did a [5 Interesting Learnings](https://www.saastr.com/5-interesting-learnings-from-expensify-at-140000000-in-arr/) on SaaStr.
+
+**Jason Lemkin:**
+
+And it’s super interesting that even at the IPO, [60% of Expensify’s eventual customers–eventual–came from one-off free users using it just to manage their own expense management.](https://www.saastr.com/5-interesting-learnings-from-expensify-at-140000000-in-arr/) Now, of course, a one-off free user Expensify is going to use that to submit their expense reports to the company but if the company is running on a different system which most folks are, it doesn’t mean that they become an Expensify customer overnight, it actually takes quite a long time. But it’s a super interesting one step remove viral loop, if you study Expensify, which is that they built up this massive free user base, whom customers wouldn’t make big workflow changes to use it for expense management, but enough do over time. Enough do over time that 60%, even at 200 million in revenue, 60% of Expensify’s customers came from these free users, even though originally they were essentially rogue usage outside of the current business processes. So thanks, man. Anybody else have a question I could help with or we could help with?
+
+**Rob Hanna (@SocialWealth):**
+
+> ### In terms of enterprise, SaaS and scaling fast, do you see a preference between freemium and premium? In other words, is it make sense to just try to grab market share and go free and then try to cash in revenue later? Or would you think that a more measured approach with generating revenue from the get-go makes better sense?
+
+**Jason Lemkin:**
+
+Well, look. I don’t know, but let’s step back for a minute. There’s a couple things we do know. If you don’t build that free freemium DNA into your product from day one, it’s almost impossible to acquire it later, right? I wrote in the CEO of Five9, just did a response to a tweet on a post we did just yesterday on SaaStr, called sales versus PLG. Like sales doesn’t like freemium. It was literally yesterday, sales versus PLG. They don’t like the long lead times. They don’t like the fact that free users don’t pay.
+
+**Jason Lemkin:**
+
+So if you don’t build this DNA in early, you’ll never get there. So that’s the one, and ultimately the CEO and the founders have to drive that because everyone measuring themselves on this month, this quarter, is not going to love prioritizing a long tail or a free strategy. But you’ve got to have that DNA. You’ve got to be at the product side, at the revenue side so that you can go long. So then the question is what’s the trade-off? Short-term versus long-term revenue.
+
+**Jason Lemkin:**
+
+First of all, a challenge, a challenge to that thinking. If you really do it right, it may not be the trade-off that it looks. We wrote about this a little while back on SaaStr. Again, you could find it if you search for [Slack](https://www.saastr.com/5-interesting-learnings-from-slack-at-1b-in-arr/) and [Zoom](https://www.saastr.com/5-interesting-learnings-from-zoom-at-4-3b-in-arr/) and [things are getting freer](https://www.saastr.com/dear-saastr-does-freemium-always-work/). Slack and Zoom are examples of folks that never tightened, and I hate this term, but they never tightened the choke. Until actually, literally until like a month or two ago, Zoom never got less free. Now we could argue over how great the Zoom free edition is. It cuts you off after 40 some odd minutes. But for a single user Zoom, you could leave it on all day, all week until just a couple weeks ago since inception.
+
+**Jason Lemkin:**
+
+And I know people think that 40 minute thing is so limiting, but I can tell you as someone that runs on both a paid and a free Zoom domain myself, a lot of times I don’t know which one I’m on. And I’ve only once been caught running over. Zoom free is a pretty amazing product. Slack free is even better. Slack is epically free. So many folks, if you don’t need archiving, if you don’t really need enterprise scale, you don’t ever need to pay for Slack for most teams. And it’s crazy. And I remember asking Stewart Butterfield that, at the [2020 Bridging the Gap session](https://youtu.be/5kG3WfUyBJc), and he was like, “Actually, the more free we do, the faster we scale.” That was the numbers behind the numbers. And I didn’t really get the full analysis from him, but my question was sort of, after COVID hit and things got harder, was that impacting conversions because free blew up?
+
+**Jason Lemkin:**
+
+He’s like, “No, no. The more free we get, the more paid we get.” So it’s just a challenge for the thinking. We’re not all Zoom and Slack or Expensify, like we just chatted about, but maybe that trade-off doesn’t exist. Maybe the freer you make the product, the more revenue you get, I think. And then I’ll give you just one last interesting case study on it, hopefully this helps answer the question. I just think the general point is that, what we’re learning more and more is that the more you take friction out of the product, the more you sell. And there are times when sales wants to inject friction to a product, to force a buying decision. And you have to allow that, in fact, you have to support that in your sales team.
+
+**Jason Lemkin:**
+
+But it’s funny, the second investment I ever made is a company called Algolia. It’s a search as a service API coming up on 200 million in revenue, accelerating. It’s accelerating, it’s going to grow faster at 200 than it did at a hundred. And I think, it grew faster at a hundred than it did at 50. And there’s a bunch of things that changed, bringing in a new management team that had more experience at scale was a big one. But one of the most interesting changes that Algolia did, was remove these pricing tiers. And since inception, in part to support the sales team, Algolia had these pricing tiers, and it’s developer-centric, but you could use the product but you would hit a certain amount of usage, and you would have to talk to sales and buy certain tiers.
+
+**Jason Lemkin:**
+
+And they knew that created friction. They knew from the feedback, but they were scared to change. They didn’t know. Those friction points when you used the product more created big bumps in revenue. And so everyone was afraid to get rid of it. But then they went through a slightly rough patch, never had a bad patch, but they went through a slightly rough patch, and they brought in a new revenue team, and they said, “Heck it. Let’s finally run this experiment like many other folks do, and let’s move to this more consumptive pricing that is more customer-centric,” And magic happened. Within one quarter, removing those steps and those frictions, led to more acceleration.
+
+**Jason Lemkin:**
+
+So I know that doesn’t perfectly answer this question of this tension between the long tail and sales. [And literally I wrote about it yesterday on saastr.com](https://www.saastr.com/sales-vs-the-long-tail/). But maybe it’s an illusion if you do it right. If you really make a product that’s so easy to use, so elegant, so easy to adopt maybe they’re more hand-in-hand than we think. Thanks for that, Rob.
+
+**Rob:**
+
+Yeah. You’re welcome. I guess two quick takeaways. So a principle about giving away value always comes back with ROI in some form or fashion. I think underlying that there, it just makes a lot of sense. So thanks for getting deep on that.
+
+**Jason Lemkin:**
+
+Yeah. And maybe the last point, and then I’ll break and someone else, please ask a question. I just think that the other thing as founders we have to remember, and I guess it’s obvious, but I think the thing so many of us that have been doing SaaS for a long time, didn’t believe for a long time and then screwed up, was under-investing in our brand. And boy, now we all know this, but I got to tell you even five years ago, I’m not sure we all believed it. I’m not sure five years, even maybe six, seven years ago, I’m not sure we all believed NRR could scale forever. So every time I do a [5 Interesting Learnings](https://www.saastr.com/category/company-stage/scale/5-interesting-things/) post on SaaStr, and a company’s is at 200 or 500 million ARR or a billion, I always call out the, not just the NRR, but that it’s expanding, right?
+
+**Jason Lemkin:**
+
+Because we all used to think that NRR had to shrink. You had to saturate accounts and markets but no, NRR can grow forever in SaaS, it turns out. Well past a billion of revenue. And the other thing we didn’t fully realize, even though it’s so obvious in the rest of our business lives, is how much brand is the number one determinant of buying decisions. And if we’re founders, we can make fun of Gartner and Forrester and even things that we love, like G2, we can make fun of them a little bit because like, all these grids are silly, like they’re gamed. But no, like 80% of the world buys based on brand. And the minute you have a brand, whatever’s producing that brand you want to lean into it. You want to have advocates, you want to have more customer support. You want to build community like Omar talked about.
+
+**Jason Lemkin:**
+
+And that goes back to this point of everything on your long tail and this tension, the more you invest in your brand, the more folks you have saying how great you are, the more it’s going to behoove sales, even if you have to make your product freer to do it. So sorry for the ramble, but whatever you can do, lean into your brand and support it, that’s the way you’re going to hit the plan the next year and the following year. All right, who else? Anyone else have a question we can help with?
+
+**Alex Stoica (@heyalexstoica):**
+
+> ### How do you see right now, the no-code with the trend and what opportunities are there?
+
+**Jason Lemkin:**
+
+How do I see no-code? Listen, honestly, I don’t know if this one I can help as much as some other questions on scaling the revenue side. Obviously, no-code, it’s one of these things like PLG, you could say it’s nothing new. But it’s finally getting powerful, right? And Workato in the enterprise and Zapier, more pan-enterprise, were examples of, hey, these ideas aren’t new but finally making them elegant is just super powerful. And that’s just a little piece of no-code, right? Obviously, the Zapier, Workatos, and others, it’s so powerful, but it’s a work in progress, right? We still can never build a Workday or a Salesforce in a no-code environment.
+
+**Jason Lemkin:**
+
+So I don’t have the answer. But I think what I do know one thing for sure, if you’re building something no-code and you’re good is that, whatever happens in the B2C markets, whatever’s happening over there, the CIO dollars going to cloud deployment and digital transformation is so powerful. It’s such a force of nature. And the enterprise piece of no-code, even if, UI Path and some others have some short-term struggles, it’s such a powerful trend, right?
+
+**Jason Lemkin:**
+
+There’s five to 10 years in the enterprise, in the CIO office, that’s going to want to do more and more no-code and low-code things, and it’s a wave. It is a tailwind pulling you up. So find a niche, find a niche that one or two or three enterprise customers will pay for that is no-code E. And just reproduce that case study. Go sell it to another three or six or nine customers like it and there’s more because it’s so powerful in the enterprise. So thanks for the question. Anyone else that we can help with?
+
+**Chandral Thakor (@Chandral\_):**
+
+> ### You mentioned a good point about brand, that 80% of the people buy based on the brand that you have.
+> 
+> ### So I would assume that, if you are not a brand yet, the kind of things, decisions you’ll have to make to scale faster would be different than when you are already a brand and you want to still scale faster. Would that be correct?
+
+**Jason Lemkin:**
+
+For sure. Let’s just step back for a minute. I don’t want to spend too much time on this point, but 80% of folks are going to buy the dominant brand. And maybe 10% more are going to do a bake-off, they’ll go look at the others and probably still buy the dominant brand. But there’s another 10% of the 100 percent that is looking for innovation. They’re looking for a new vendor that does something, one important thing, 10 times better than anybody else. And that’s where most of the time in SaaS, the disruption comes from. Like, you can’t make up for the thousands and thousands of engineering hours that have gone into all these SaaS leaders. That’s not how Notion could compete with Asana.
+
+**Jason Lemkin:**
+
+You have to find this wedge that is 10 X better, and there’s always some budget there. It may not be a million dollars a year, your first year. Sometimes it might be like a Veeva, but that’s the piece. That’s the piece where this innovation budget and/or folks looking for a 10 X solution to one real problem. That’s where they’ll take a risk on a vendor and that’s where you can to continue to win. The other point that’s somewhat obvious too on brands, is that brands begin to abandon non-core segments of the market. So like earlier this week, you can see it on SaaStr, [we wrote about Zendesk](https://www.saastr.com/5-interesting-learnings-from-zendesk-at-1-6-billion-in-arr/), which just got acquired for 10.2 billion.
+
+**Jason Lemkin:**
+
+And while Zendesk’s–half of its customers are still tiny single-seat customers, one care under a year, they’re a token amount of revenue. Like even though they’re half their customers are only 1% of their revenue. Now, how could half of Zendesk customers be only 1% of their revenue? Well, it’s because they don’t want them anymore. And that 1%, that bottom ofthe market and Zendesk is wildly successful. That bottom of the market has been absorbed by scores of SaaS companies that themselves may ultimately go enterprise or larger, but are no longer of much interest to Zendesk. And so that’s another way, the bottom of the market is not always abandoned but it’s often abandoned as folks go more and more up market. Thanks for the question.
+
+**Brittany Fuller (@BAMarieFuller):**
+
+> My name is Brittany. I’m the co-founder at a company called Notably. We help customer research teams to analyze qualitative data. We’re pre-seed, so pretty early on, just cracking into the 5k MRR territory. So we have a freemium, I guess, going back to this topic about freemium and PLG, we have a free plan. And one thing that we’ve noticed as our product has matured and we’ve started having more sales conversations with larger companies, is that large companies are asking for free things more often than anyone else.
+> 
+> And at first I think we were pretty flattered to have these bigger brands using our product, asking us for more. Essentially they’re asking for more access while they are working through procurement and getting things on their end. And when I shared that this was happening, because it has happened probably 10 times, in the last couple months. And when I shared that this was happening with our sales advisor… Because I guess I’m a people pleaser, so I’m like, “Yes, of course, let’s make you happy. Let’s give you access.” Because we tend to stand by our product experience and think that would be a benefit. And then our sales advisor was like, “No, what are you doing? Why are you giving away things for free?”
+> 
+> ### So I was just wondering if you had any thoughts about how to handle larger companies, larger teams asking for things for free at this stage.
+
+**Jason Lemkin:**
+
+Well, let’s break that up. The question of how do you handle when big… In the very early days when folks want something for free? I think your sales advisor is maybe giving you 66 or 70% the right advice. Look, what we all learn as we scale is that things like free pilots are for suckers. Okay? As you scale, if a big enterprise isn’t willing to pay something for a pilot, something to use your product in the early days, they almost never will. Almost any sales and revenue leaders can tell you, free pilots never convert and they’re huge headaches.
+
+**Jason Lemkin:**
+
+But two things. First of all, don’t forget very few customers have the energy to waste their time. If they’re having conversations with you, you’re lucky to be having their conversations. And if they actually want to use your product at 5k in revenue, that’s a gift. It’s one of the greatest bits of market intelligence and G2 you can get is to get 10 customers in a month to want to try your product and give you feedback. So if the bar is reasonably low, and they really will use your product, then even though your sales advisor is right, she’s wrong. Like do it anyway. Get it in the hands of 10 folks that can give you not just interview level feedback, but honest feedback on the product. And look, it’s a tough wedge to follow. Like you can’t do too many of these. And I would say, even in six months, you should do none of them. In six months you probably should do no free users, free pilots. But I think at 5k, you’re still learning and you have something special going on here.
+
+**Jason Lemkin:**
+
+Somehow you’re getting 10 of these a month. And whether it’s from your hutzpah for going out and getting them or even better, if it’s from inbound because that shows pretty insane product market fit, or potential product market fit. If you build it, if 10 big customers a month are finding you so early, it’s just a gift to be able to do this. And the final point I’ll make, and this is one of the earliest things we wrote on SaaStr, and then we’ve come back to it again and again. When you get a couple of big customers early in your lifetime, when you’re early and you can close them and they do have to pay you. Free customers are not customers, they don’t count. Certainly when I invest, I just draw a black line through any free customers because they’re not customers.
+
+**Jason Lemkin:**
+
+But if you can get a couple bigger paying customers early, a lot of sales folks will tell you they’re distractions if they want you to build this feature or that feature, but more likely they’re the future. Because if at 5k in revenue, 10 big customers have found you, that means you’ve tapped into some really big need that’s not being met by the market because there’s so many other vendors out there that have brands that are well established. So you found a wedge. If you can build something that two or three enterprise customers love early, even if it changes the order of your roadmap, they will drag you to the future. They’ll drag you to 5 million, 10 million, 20 million, 30 million. They will show you what the market needs when you don’t fully know in the early days.
+
+**Jason Lemkin:**
+
+So the last point I’ll make is, I get most of us founders want to be people pleasers, it’s a strength and a weakness. It’s mostly a strength. You can suck up all of your organization’s time with free fake customers, that’s your job to make sure it doesn’t happen. But I’d still, since you’re early, I’d try to use my awareness, my situational awareness to deliver for one or two. But if they can pay something, it’s always 10 times better if they don’t. So thanks for the question, Brittany. Anyone else have a question maybe we can help with?
+
+**Alex Stoica (@heyalexstoica):**
+
+> ### What are the biggest mistakes that VPs of marketing make scaling from one to 10 million, the most common.
+
+**Jason Lemkin:**
+
+What are the biggest mistakes a VP of marketing makes from one to 10? I’m going to answer that question, hopefully helpfully. It’s something we’ve talked about before. I don’t think they make any mistakes from one to 10. And what do I mean by that? What I mean is in marketing, you get the marketing programs, you get the marketing initiatives that you hire. And there are so many different things that marketers do. There are things you absolutely don’t need in the early days, like corporate marketing. You probably don’t even need product marketing until you’re at eight or 10 million. There are all these other types of marketing. You really only need demand gen or growth marketing in the early days.
+
+**Jason Lemkin:**
+
+But in any event, there’s a whole list of things marketers can do. They can be very good at SEO. They can be good at AdWords. They could be good at understanding how to use G2 and Capterra. They could be good at events. They could be good at webinars. They could be good at partner marketing and joint go togethers. I would say there’s two main reasons VPs of marketing fail in that one to 10 phase, that I’ve worked with. The number two reason is, it’s just… Well, I guess maybe, actually I take it back. They’re all really the same reason, which is what the company needs to do, what they’re good at from one to 10, isn’t what they want to do.
+
+**Jason Lemkin:**
+
+So I’ll boil it down and then let me step back. If you’re at one or 2 million in ARR, something’s working, something is working. There is some channel by which you are acquiring your customers. It’s not perfect, no one’s ever going as fast as they like, but the successful VPs of marketing from one to 10, take what’s working, make it better, and then add a couple of things on top of it. What the VPs of marketing that fail do again and again and again, is they don’t do what works well at one or 2 million in ARR, because at their last company they did something different. I’ve seen this so many times.
+
+**Jason Lemkin:**
+
+A company gets to say, $2 million in revenue, really well through channel partnerships or events and a VP of marketing comes and they don’t know how to do that. They love SEO. So they spend all of their next six months optimizing keywords on a website, and not only does it not move the needle, actually, everything decelerates because they stopped doing what you were good at. And you would think, “Hey, why doesn’t a VP of marketing come in and just focus on what’s working? Why can’t I trust him or her to do that?” Well, you sort of can, but here’s what I’ve learned: There are so many things to do in marketing.
+
+**Jason Lemkin:**
+
+A new VP marketing really only does like two or three things their first six to 12 months. And just, this is my last point, ask them, ask them. Tell them to force rank it. Before you bring a VP of marketing on, ask them. Just force rank in order, what are the new initiatives you’re going to get done when you start? And they’re only actually going to do the first two or three on the list. And if those two or three are not at least primarily what’s already working, you have the wrong candidate. That’s what happens. They come in and they do just different things and they’re the wrong things for the company. So thanks for the question. Anyone else have a question we can help with?
+
+> Hey Jason, this is Rob, CEO of Koyfin. Just a follow on question to that. So what’s worked for us to get to about 2 million of ARR is all organic growth and referrals on a bottom up basis. And our customers, we have about 4,000 customers, 70% are individuals, and then 30% are professionals that are financial advisors or investors that are looking at the market. Sorry, I didn’t give you an overview, but we provide financial research and data to users, to research stocks, mutual funds, etcetera. So related to your last point on focus on what’s working. If what’s working before was this organic bottom up growth, how do we actually take that if we want to build out a sales strategy and start…
+> 
+> ### We can’t double down on referral and word of mouth, how do we know what to focus on as the first step if we don’t know what’s been working? Or the enterprise sales motion hasn’t been in motion up until now?
+
+**Jason Lemkin:**
+
+Well, look, there’s a lot of good questions there, and we may not be able to get into all of them. But basically you’ve got a couple million in revenue based on this referral model without a sales-driven motion, right? So what to do next is the question.
+
+**Jason Lemkin:**
+
+Right? So two things, one, let me just tie this to the last question. When you do hire more folks on marketing, you’re probably, and then I’ll answer your question on how to move it to a sales-driven motion. You may be tempted to hire folks that want to do other things beyond this partner channel, because you may feel like it’s exhausted. You already have thousands of tiny customers, right? And as we’ve written about on SaaStr many times, you can do a search for the [lead plateau](https://www.saastr.com/the-lead-plateau-you-may-hit-just-as-it-gets-good-how-to-plan-around-it/). [All channels eventually slow down](https://saastrstage.wpengine.com/every-marketing-initiative-every-channel-plateaus-plan-for-it/), right? And especially, very few channels can produce more than thousands of customers. Very few channels can produce tens of thousands of customers.
+
+**Jason Lemkin:**
+
+So it’ll be natural to want to hire a marketing person that can add new channels and they should, like absolutely. You need to add like two more channels to what’s working but you can’t let the core go. There’s always more you can do. There’s always more you can bring in. There’s always more to optimize. There’s always more to do, especially tiny. So just make sure that you don’t under-invest in the core, even if it’s slowing down. But the second part to the question, and I may answer this one wrong, okay? But I think when you’ve gotten to a couple thousand customers without a self-driven motion, you need someone that’s a miner in sales. Someone that can come in and mine your base, that can segment those 2000, go out and talk to them and figure out which ones can buy.
+
+**Jason Lemkin:**
+
+And you need this, someone that has basically done high velocity, inbound sales, that’s smart. And they’ll just go and you need to give them a little bit of data. I remember in the early days, the first investment I ever made was Pipedrive, which sold about a year and a half ago for 1.5 billion, sort of low end CRM. So there’s probably some vague similarities to what you’re talking about. And I invested just past a million in revenue a little earlier than you are. And I put in one of the folks on my old sales team, Mohammad Ocean, and they’d never had a sales motion, right?
+
+**Jason Lemkin:**
+
+And he went in and in his first month he closed, by far, the biggest deal ever with AOL back then. And how did he do it? Well, no one had ever called them. He literally just did a sort in a PivotTable or an Excel or Google Sheet of all the folks that at least had bought the $49 or the $99 a month edition, he eyeballed them. Probably today, he would put it into some sort of system, like some data enrichment system to see the size of the accounts, and he just reached out to them from the top list on down. And it worked magically. It worked in 30 days.
+
+**Jason Lemkin:**
+
+So you need someone with that sort of DNA, that knows how to mine a lot of leads, a lot of folks and reach out to them and talk to them on how to sort it, and just have that conversation. Someone that has worked early in a high lead, low ACV environment. That combination, high lead, low ACV and knows how to mine it, knows how to reach out it. It does work it, at least it can work like magic at this time. Just talking to folks. We just got back from SaaStr Europa in Barcelona. I was talking with a founder that literally after four years of hard work, went from one to five this year, crazy, right? One to five million revenue, all self-service. And we were chatting after and he was asking for my advice and I kept talking and talking, I didn’t let him talk enough, hopefully that’s not my top flaw. But he’s like, “Hold on, Jason. We actually don’t have any salespeople.”
+
+**Jason Lemkin:**
+
+And I’m like, how could you not… Well, it was really hard before is we grow so quickly and I’m like, “But you don’t literally talk to any of your customers? That’s the first thing you should do.” And he’s like, “Well, we’re too busy.” And that’s really the point of the story. You’re too busy. You’re not too busy for this person. And all your first revenue leaders should do, is go talk to 10 or 12 customers a day, existing customers that possibly could pay more, talk to them and he, or she will find a way to get more revenue out of them. It just works again and again. So hopefully, that’s helpful, even if it’s not a perfect answer. Thanks for the question.
+
+**Alex Stoica (@heyalexstoica):**
+
+> ### What tips or what advice do you have for a small team that is building right now a SaaS with no revenue? And I just want to know from experience, what would you recommend for young and small teams?
+
+**Jason Lemkin:**
+
+Well, look, it’s SaaStr, so we try to focus on folks that have some revenue, at least 10 or more customers to start. Although I’ve done it as a founder, it’s not my strength. But I will tell you a few mistakes that I see. And I know these are going to sound obvious, but a couple mistakes pre-revenue folks make again and again and again, even really the most experienced and successful folks is one, no one’s talking to enough customers. You’re building too much software, which is great, and not talking to enough customers. You’ve got to at least talk to 20 or 30 potential customers before you commit a line of code. And you should be talking to anyone that will talk to you to learn to where you get… And far too many folks sit and build code.
+
+**Jason Lemkin:**
+
+And look, if you have the world’s most agile team and your burn rate is zero, and you want to throw a product up on Product Hunt and see where it takes you, so be it. That can work. But I would say in B2B SaaS, folks pre-revenue are not talking to enough customers. Two, they’re screwing around and spending too much time on pricing. I literally invested in one of the best founders I know, he had a billion-dollar exit in his last company, a couple hundred million before that, but he is pre-revenue. That’s why I made him an exception to invest pre-revenue because I know he is great. But it’s a new space for him, which has some risk, and he just keeps screwing around with the business model, again and again, I’m like, “Dude, you don’t have time. The answer’s just comps.”
+
+**Jason Lemkin:**
+
+Go figure out what a product is that looks like your product vaguely, and price it either the same, that takes friction out of the process. A little bit lower, if you want to signal that you’re cheap, or a little bit higher, if you want to signal you’re more enterprise but stop wasting too much time pre-product on 10,000 iterations on pricing and business model. Instead, just build the fact in your product that you could do some A/B or multi-variant testing to pricing and get it out there. So too much talk on pricing, not enough analysis of business models, and not talking to enough customers are the issues.
+
+**Jason Lemkin:**
+
+And then the final point, which sounds obvious, but it isn’t, and it’s even more important today, is pre-revenue founders just don’t give themselves enough time. One of the earliest posts I ever wrote on SaaStr was, [you’ve got to give it at least 24 months](https://www.saastr.com/if-youre-going-to-do-a-saas-start-up-you-have-to-give-it-24-months/) to go from an MSP, a Minimum Sellable Product, not viable, sellable product to any material revenue. [UI Path took 10 years to get to a million in ARR](https://www.saastr.com/5-interesting-learnings-from-uipath-at-600000000-in-arr/). 10 years! Now they subsidized it with consulting and other businesses. It took UI Path, today worth 10 billion and a billion in revenue, 10 years to get to their first million.
+
+**Jason Lemkin:**
+
+There are so many startups out there that when you go back, it took them 24 months to get to a million in revenue. So folks don’t budget enough time. And if folks say, “Well, I don’t have enough money. I don’t have enough time,” then don’t be a founder. I know it’s harsh, but maybe you’re not ready to be a founder. Maybe you should join another team. Maybe this isn’t your time because you’ve got to make the time in SaaS to build up momentum from a Minimum Sellable Product. So thanks for the question. We can do one last question, I think, and then we’ve got break.
+
+**Pavel Dolezal (@Pabu01):**
+
+> ### Hi, Jason is Pavel, from Keboola. I have a question, I love what you said about 80% of brand. And I have a question for you. So we actually grew to 5 million in one particular country, in Czech Republic. When you have perfect brand in one geographical location, how do you scale it globally? And yes, you have that 10 X in one particular niche, but nobody knows about you past your geographical location.
+
+**Jason Lemkin:**
+
+Yeah. Let me just ask you one follow-up question because it’s a much more interesting question in some ways today than it was even three or four years ago. Of the folks that come inbound to your website, how many are outside of Czech Republic?
+
+**Pavel:**
+
+That is a great question. Thank you for that. So we started last year, we opened up a freemium, and we got 3000 people to sign up last year. This year is going to be 7,000, and 60 to 70% of them are outside of the Czech Republic.
+
+**Jason Lemkin:**
+
+Well, then that’s your answer, right? Look, when I started investing in SaaS, I invested in some European startups, Pipedrive was from Estonia, Algolia was my second from France, Talkdesk was my third from Portugal. And they all had global footprints and they all came to the US to go big. But I guess the point, which maybe I’m not properly tying, is that we used to think that local markets were just too small. Like you couldn’t start in France or Germany or wherever. It was just a failed way to start a SaaS company. But now that cloud has gotten so big, now that everything is 20 to a hundred times bigger than it was just 10 years ago, it’s turned out to be a great wedge strategy, right? Because maybe five or six years ago, you couldn’t even get to a million in the Czech Republic. Now, if you can get to 10 million, oh my God, actually, it’s almost like a vertical, right? It’s almost like a great vertical.
+
+**Jason Lemkin:**
+
+And it’s a gift now, these local markets because you can get to 10 or more million, even in what used to seem like a small market. Now look, if you have no natural inbound at all, as you get to millions of revenue, then you’re hyper-localized for some reason, and you’re going to have to brute force it, right? But most of the time, that’s why I ask the question, most of the time, when I meet founders like this, I ask them, “How much of your organic inbound comes from other countries?” And it’s usually somewhere between 20 and 50%, right? It’s a lot. And then I usually find the product’s not that well localized, right?
+
+**Jason Lemkin:**
+
+The localization’s crummy. It doesn’t really look American. The English is off. There’s no local support in the States. People aren’t running the help desk, they’re not treating it like a global company. And so that’s my challenge. Make sure your product is really as global as you think it is. If you don’t, have a bunch of American users use your product, try your product, see if it’s localized enough, and then put a local team on it. Now that local team would be nice if they’re in these other countries, but they don’t have to start there. Right? But they are dedicated to these leads to these countries.
+
+**Jason Lemkin:**
+
+And my last point is, maybe even if you’re sales driven, you pay these guys a lot more money as a percent of the deal in the beginning, so they can put points on the board, right? So you can send them. But you’ve done the hard part. You have the leads coming in, you’re just not resourcing it properly. So make it more local and put a specific team on it. You’ll probably see pretty quick impact. Thanks for the question. And again, everybody, thanks for this.
+
+**Rob Hanna (@SocialWealth):**
+
+> ### Jason, your SaaStr Scale 2021 resources on your website are awesome. Is there a 2022, and how do we participate?
+
+**Jason Lemkin:**
+
+Well, I mean, [SaaStr Annual 2022](https://www.saastrannual2022.com/buy-tickets?promo=blog20). Just come if you can. It’s in the Bay Area, September 13th to 15th, and we’ll stream a lot of the content. So that, and we’ve got about 60 SaaStr Europa sessions that’ll be on our [YouTube channel](https://www.youtube.com/saastr), a couple a week going forward. But in terms of pure digital stuff with people, yes. We’re going to do SaaStr Scale again for the fourth time. We’ll announce it in a month or two. It’ll likely be at the end of November instead of early December, because we might do a SaaStr Singapore meetup the first week of December. But yes, SaaStr Scale digital will be again, it’ll be late November. It’s digital, so just look for it in a month or two, when we announce it, we have some pretty epic speakers coming. So thanks for the question and thanks everybody, really appreciate it. We’ll do more of these and thanks for investing some time on Wednesday. Bye guys.

@@ -1,0 +1,134 @@
+# Enterprise SaaS Pricing: How to 10x Your SaaS Prices
+
+A young SaaS company can cut its teeth and perfect its product in the SMB market. Eventually, though, they'll probably look to catch some bigger fish. To do this, they head upmarket.
+
+Yet, to charge enterprise-level prices—to really 10x your current prices—you have to deliver and communicate an enterprise-level product. 
+
+Enterprise customers need large-scale solutions, which means huge opportunity to monetize the delivery of greater value. Charging enterprise customers enterprise-level prices can be a game changer for your company—you'll see more revenue from fewer accounts and **[lower user churn](https://www.paddle.com/resources/reduce-customer-churn)** from your most lucrative customers.
+
+We'll walk through a framework for thinking about enterprise-level pricing, and then examine the strategies successful SaaS companies have used to deliver and communicate value to their big-fish customers.
+
+## **What is enterprise SaaS?**
+
+Enterprise SaaS is software bought by a company and installed on its employee’s computers. Enterprise software is often more expensive since a business needs it for so many users. 
+
+## Why move upmarket to sell to enterprise customers?
+
+There are strategic reasons why most SaaS companies start out in the SMB market:
+
+*   Customers here are smaller in size, which generally means their value needs are smaller in scope.
+*   You don't need a sales team. Much of SMB SaaS is self-serve.
+*   The low prices of SMB solutions allow for low-friction conversions and low customer acquisition costs.
+
+![](https://images.prismic.io/paddle/MjhiYzE5ZTktMDE1MC00MzhjLWFmYTUtYzk1OTEzZjg1ODIx_7fc06e4e-a6d1-4c31-adef-543b4b3c4678_customer-pyramid.jpeg?auto=format%2Ccompress&fit=max&w=1200)
+
+A SaaS company would accept the high cost of acquisition, high-touch sales model, and high level of customer support needed to acquire and retain these customers because**high ARPU customers provide greater revenue and growth opportunity**. This is fundamentally the main reason that many companies move upmarket.
+
+Additionally, the greater need for a solution, longer contracts, and high cost/high friction of switching products means
+
+**[significantly lower customer churn from higher ARPU customers](https://www.profitwell.com/blog/saas-churn-benchmarks-mrr-churn-study)**, according to our study of 941 SaaS companies and their customers.
+
+![Chart shows higher ARPU correlates to lower churn](https://images.prismic.io/paddle/NjRjZWNhNTAtZTdkMS00Njk1LWFlYWUtM2FmNzkwY2ZiN2E0_90b1b0ec-e3f8-4477-ab9b-db536056882f_higher-arpu-lower-churn-graph.jpeg?auto=format%2Ccompress&fit=max&w=1920)
+
+The high **[customer churn rates](https://www.paddle.com/resources/calculate-churn-rate)** that growing SaaS companies begin to see from their SMB customers can really motivate the move up-market. **[VC Tom Tunguz at Redpoint Capital](https://tomtunguz.com/saas-innovators-dilemma)** estimates based on observation that while SaaS companies generally see 3-7% monthly user churn from SMB customers, they see 0.5-1% monthly user churn from their enterprise customers.
+
+Since churn can so drastically and insidiously inhibit growth, customers who contribute more revenue and are less likely to churn can prevent revenue from leaking out. This provides a more stable foundation for revenue growth.
+
+There are also less obvious , but still compelling, secondary ways that moving upmarket will benefit a company's revenue growth:
+
+*   Large, well-known customers add credibility to your company and can generate significant **[second-order revenue](https://www.saastr.com/its-not-just-cltv-its-your-trgcltv-that-matters-total-all-in-revenue-generated-by-your-customer)** through referrals.
+*   Moving upmarket could improve your big picture development—large customers force you to think more about **[selling a solution](https://www.saastr.com/on-your-next-big-deal-double-your-pricing)** rather than selling a product.
+
+**[Selling to the enterprise market](https://www.salesmate.io/blog/enterprise-sales-guide)** means your company has to embrace product, company, and customer development opportunities—but as a result, you'll see more cash in your bank and greater opportunity for future revenue growth.
+
+## Monetize by building solutions to specific enterprise problems
+
+VC Jason Lemkin proposes that on your next big deal, you should **[just double the highest quote you've ever made](https://www.saastr.com/on-your-next-big-deal-double-your-pricing)**.
+
+He's not advocating for pulling numbers from thin air. He's suggesting that most SaaS companies undervalue the solution that their product provides.
+
+This is especially true for large customers who can feel the burden of a small issue multiplied throughout a huge, interconnected organization. Imagine one of your enterprise customers has 10,000 employees, and using your product will save 10 minutes a day for 1,000 of them. Your solution saves that customer 43,500 hours per year—not to mention the money that they can make in that recovered time.
+
+**The key to monetizing your product for enterprise customers is showing your customer that you have an [indispensable solution, not an optional tool](https://www.saastr.com/call-me-maybe-solution-sales-can-be-worth-3x-tools-sales-for-the-same-tool)**.
+
+It's the job of top management at large enterprises to provide solutions to large company problems—so if you can help them solve a large problem, you're helping them to do their jobs better and having an impact across a business ecosystem. That's worth an enterprise-level price.
+
+The following companies have successfully created the **[enterprise-specific solutions](https://www.enterpriseready.io/#features)** they need in order to sell their products at higher prices. They serve the enterprise market by identifying value that's important to that market and communicating it to customers who are willing to pay.
+
+### 1\. Box provides the right product assortment for enterprise customers
+
+The tool Box for cloud file syncing, storing, and sharing, exists in a competitive market side by side with DropBox. However, DropBox focused from the beginning on the individual consumer and SMB market and has struggled to move upmarket. Meanwhile, Box defined its value as a **[collaboration solution](https://timezy.com/free-online-collaboration-tools)** for enterprises by providing **product assortment** in its pricing packages.
+
+![Starter, business and enterprise plans](https://images.prismic.io/paddle/MTRiMmFlNjAtYWI2Ny00MjY0LTk0NzAtM2E3MDQzMGZiMGJk_141c6423-3d8a-4aa1-a80b-f3d573b361f1_box-pricing.jpeg?auto=format%2Ccompress&fit=max&w=1920)
+
+Box has an **[assortment of features](https://www.enterpriseready.io/features/product-assortment)** but emphasizes the ones that specifically benefit enterprise companies in its enterprise package.
+
+![Features broken down by plan](https://images.prismic.io/paddle/ZTk5ZjAzMTMtYjBkMi00NWUzLWJlZmUtZmNkNTAyOGFlMzNl_8e972848-9c6a-4489-b354-a5f06f995cd5_box-features.jpeg?auto=format%2Ccompress&fit=max&w=1920)
+
+The product features included in the enterprise package turn Box into a solution for _collaboration_, which is necessary for a product that is going to be uses across a large organization. These features address the unique issues that enterprise customers face, such as:
+
+*   “Unlimited external collaborators”: This allows enterprise companies to not only use Box within their organization but also use it to **work with their thousands of customers seamlessly**.
+*   “Full content visibility and management”: This addresses **access management and control of privileges**, which is important for a collaborative tool used by many employees for various purposes and with various types of data.
+*   “Metadata”: This ensures advanced **organization and searching capabilities** that a large company with a high volume of files would require.
+*   “Device trust”: This ensures an ecosystem of security partners that **reduce risk** associated with the scale of data that enterprises handle.
+
+Box provides the right assortment of product features that speak directly to enterprise customers' collaboration needs and packaging them into a plan specifically for this section of the market. They then market to and monetize these customers' needs.
+
+The assortment of features allows them to create other combinations of features in other smaller, more streamlined plans. This means they don't have to forego SMB customers that have different needs, even while catering to larger customers.
+
+**Takeaway** Identify which features are most important to enterprise customers. Then package these features into an enterprise plan to provide a solution directly tailored toward solving the specific issues that enterprise customers face, in a way that works with the challenges of a large-scale workflow.
+
+### 2\. HubSpot handles the data reporting and analysis that enterprises need
+
+HubSpot started out as an SMB marketing SaaS product and is making an aggressive effort to expand its product offerings to enterprise customers.
+
+HubSpot has created a valuable solution for end-to-end marketing management in large companies by offering **[advanced analytics and reporting capabilities](https://www.enterpriseready.io/hubspot/reporting)**.
+
+![](https://images.prismic.io/paddle/NWQwYmI2ZGItNWQzNS00OGNjLWI2NDQtMTYxOWIyNjE4MmFj_34aeedf8-eb70-4bdc-ab6f-50e424f5303c_hubspot-reporting.jpeg?auto=format%2Ccompress&fit=max&w=1920)
+
+_\[**[Source](https://www.enterpriseready.io/hubspot/reporting)**\]_
+
+Analytics and reporting allows users to extract actionable outcomes from the product. This capability is very important at enterprise companies, where the greater number of people using the product means there will be a wealth of actionable data.
+
+HubSpot's enterprise reporting capabilities are perfect for capturing value that enterprise customers want because:
+
+*   The plan exclusively offers revenue, custom event-based, contacts, and companies reporting.
+*   The company can create its own custom reports and dashboards to focus on the data that is most relevant to them.
+*   The user doesn't need technical skills to build or analyze the reports—which members of a marketing team may not necessarily have.
+*   The reports can be easily shared in scheduled emails for easy communication across a large organization.
+
+Offering powerful reporting is also a valuable **[software monetization strategy](https://www.paddle.com/resources/software-monetization)** because higher prices can be justified with the results of the reports: these capabilities make the product 
+
+**[provably effective](https://www.enterpriseready.io/features/advanced-reporting)**. This is so valuable to enterprise customers that SaaS companies can charge 
+
+**[on average $526 more per user](https://www.oreilly.com/ideas/ditch-the-data-dump)** for advanced reporting, rather than basic reporting.
+
+**Takeaway** Enterprise customers will generate more data when they use your product than SMB customers. Building in advanced reporting capabilities will not only make your customer more successful with your product, it will help them to see your product's effectiveness. This justifies the higher price that companies are willing to pay for this added value.
+
+### 3\. Salesforce integrates with other enterprise products to create a SaaS ecosystem
+
+The workflows at enterprise companies are complex. Salesforce embraces and caters to this complexity by enabling many third-party integrations. These provide value for enterprise customers in the form of saved time, reduced effort, increased simplification, and increased connectivity.
+
+![](https://images.prismic.io/paddle/OTQ0NmYxNDYtNjAyYi00YzJkLTlkMWEtNmE5ODYzZTNjZWE1_aa20e525-9d22-4a1a-b749-253cedd1e339_salesforce-integrations.jpeg?auto=format%2Ccompress&fit=max&w=1920)
+
+Salesforce provides the integrations with products like **[Google Apps](https://www.salesforce.com/blog/2016/05/google-apps-salesforce-integrations.html)**, Oracle, and Microsoft. This helps Salesforce capture and monetize enterprise customers because:
+
+*   Users can pull in more data and discover greater functionality from Salesforce products. Integrations _add utility_ for your customer because they provide more ways for your user to access and leverage the capabilities of your product.
+*   There are more places for customers to use Salesforce throughout their day. Integrations _make your product more valuable_ to your customer's workflow by increasing the number of times that your customer interacts with your product.
+*   Customers using other popular enterprise products will find your product easy to adopt—and you can target customers by **[building connections to popular tools](https://www.enterpriseready.io/features/integrations)**. Integrations _increase the visibility of your product_ in the market and confer brand trust from partner products.
+
+Third-party integrations enable the interconnectedness of activity that takes place at enterprise companies.
+
+**Takeaway** Building integrations incorporates your product into an ecosystem of other enterprise-ready products. Being a part of this ecosystem will increase your product's value and make it more visible—which means higher customer willingness to pay and more widespread adoption in the enterprise market you're targeting.
+
+## Build the big value that big customers are willing to pay for
+
+Selling your solution at a higher price in the enterprise market requires that you _build_ and _communicate_ the value that enterprise customers want.
+
+Once you recognize the solution that your product provides, you need to communicate it to your potential enterprise customers with prices that demonstrate the value it could provide across the customers' entire organization.
+
+![](https://www.paddle.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbg-billing-banner.aeafb277.jpg&w=3840&q=75&dpl=dba77620fcc28a77c7c749ddc2c4a2047fea93ea86953e46b65a470cdda20752363935653436323630373637373530303038383062323337)
+
+## Take the headache out of growing your software business
+
+We manage your payments, tax, subscriptions and more, so you can focus on growing your software and subscription business.

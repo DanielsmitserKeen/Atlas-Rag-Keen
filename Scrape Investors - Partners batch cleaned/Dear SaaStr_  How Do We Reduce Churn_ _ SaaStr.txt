@@ -1,0 +1,46 @@
+# Dear SaaStr: How Do We Reduce Churn?
+
+> ### **Dear SaaStr: How Do We Reduce Churn?**
+
+Churn is one of the most critical metrics in SaaS.  Maybe the most critical in the end.  With too much churn … in the end, it _doesn’t_ compound.
+
+![](https://i0.wp.com/www.saastr.com/wp-content/uploads/2025/04/nope-scaled.webp?resize=455%2C304&quality=65&ssl=1)
+
+It’s the silent killer of growth—if your churn is too high, it’s like trying to fill a leaky bucket. You can’t scale effectively if you’re constantly losing customers faster than you’re acquiring or expanding them.
+
+### There are two main types of churn to track:
+
+1.  **Customer Churn**: This is the percentage of customers you lose in a given period. It’s a good indicator of how well you’re retaining logos, but it doesn’t tell the full story because not all customers are equal in value.
+    
+2.  **Revenue Churn**: This is the percentage of revenue lost due to churned customers. It’s more telling because losing a big customer can have a much larger impact than losing several small ones. Ideally, you want negative revenue churn, where expansion revenue from existing customers outweighs the revenue lost from churned customers.
+    
+
+### Why Churn Happens
+
+Churn can happen for a variety of reasons:
+
+*   **Product Fit Issues**: The customer didn’t get enough value or ROI from your product.
+*   **Customer Oversold.**  A variant of the first point.  Some of this will happen in a sales-driven model, but ideally only a little bit.
+*   **Poor Onboarding**: If customers don’t see value quickly, they’re more likely to leave.  90%+ of start-ups don’t do enough here.  Do more here.  I’m going to say this again and again … for a reason.
+*   **Lack of Engagement**: If customers aren’t actively using your product, they’re at risk.
+*   **External Factors**: Budget cuts, company downsizing, or acquisitions can lead to churn, especially in SMBs, where natural churn tends to be higher.
+*   **Materially Better Competition**: In some ways, a variant of Product Fit.  Someone else materially pulls ahead here.
+
+### How to Reduce Churn
+
+1.  **Invest in Onboarding.  Really, Really Invest**: The first 30-90 days are critical. Make sure customers see value fast. If they don’t hit their “aha moment” early, they’re more likely to churn.  I see way too many start-ups with 10%-20% of their new customers not onboarding in the first 30 days.  This isn’t OK in the enterprise, but it’s a tragedy in SMB.  Try to get SMBs onboarded as close to instantly as possible.
+    
+2.  **Make Time-to-Value a Top Company Wide Metric****.** Relentlessly drive down how quickly customers launch and see value.  Too few start-ups track this as a core KPI.
+    
+3.  **Proactive Customer Success**: Don’t wait for customers to complain. Monitor usage data and reach out to customers who are disengaged or struggling. However you do it, have a real dashboard you review at least weekly on the health of every single customer.  And reach out to more of them.
+    
+4.  **Close the Feedback Loop**: If customers churn because of missing features or poor service, fix those issues. Lost customers don’t complain—they’re already gone. Complaints are opportunities to save accounts.
+    
+5.  **Build Relationships Across the Org, Especially in Bigger Accounts**: Don’t rely on a single champion. If they leave, your account is at risk. Build multiple relationships within the customer’s organization to reduce dependency on one person.
+    
+6.  **Segment Churn**: Not all churn is equal. Separate voluntary churn (customers who leave by choice) from involuntary churn (e.g., failed payments).  And segment by customer size, at least S, M and L.  Each requires a different strategy.
+    
+7.  **Focus on Logo Retention**: Even if a customer downgrades, keeping the logo is critical. Downgrades can turn into upgrades later if you maintain the relationship.
+    
+
+Churn is inevitable, but the goal is to drive it down every quarter. If you can get to 120%+ net revenue retention in the enterprise, 110% from mid-market, and 100%+ from SMBs … you’re in a great place. That means your expansion revenue is more than offsetting any churn, and you’re growing even without adding new customers.

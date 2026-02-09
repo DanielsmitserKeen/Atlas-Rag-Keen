@@ -1,0 +1,172 @@
+# Intercom co-founder Des Traynor on starting up
+
+It’s why we’ve written more than 500 articles on this blog and why we recently published [_Intercom on Starting Up_,](https://www.intercom.com/blog/books/starting-up) which packages the highlights of those posts, along with our latest thinking on those topics, into a beautifully designed hardcover book.
+
+To go a bit deeper on many of those early-stage lessons and how they apply to those who are starting up today, I hosted our co-founder and chief strategy officer Des Traynor on our podcast. In our chat, Des explains how he corralled Intercom’s earliest customers (and why that work is still paying off), the impact pricing has on your startup’s trajectory, how he built out our marketing team, and much more.
+
+If you enjoy the conversation [check out more episodes](https://www.intercom.com/blog/podcast) of our podcast. You can subscribe on [iTunes](https://itunes.apple.com/ie/podcast/inside-intercom-podcast/id996103731) or grab the [RSS feed](https://rss.art19.com/inside-intercom) in your player of choice. What follows is a lightly edited transcript of our conversation, but if you’re short on time, here are five key takeaways:
+
+*   Intercom was born out of a problem that the four founders felt keenly at their previous startup – [being able to see and talk to the users of your product](https://www.intercom.com/blog/podcasts/intercom-co-founder-des-traynor-on-starting-up/#problem).
+*   Having [a shared history of working together](https://www.intercom.com/blog/podcasts/intercom-co-founder-des-traynor-on-starting-up/#history) was so important for the four founders of Intercom. It meant they could count on each other to be cool and calm in a crisis but also they had a commitment to a shared way of doing work.
+*   [Free is actually not a great monetization strategy](https://www.intercom.com/blog/podcasts/intercom-co-founder-des-traynor-on-starting-up/#pricing). If you’re a B2B SaaS company like Intercom, start charging something sooner than you’re comfortable with and then iterate on your pricing based on the data that comes back.
+*   It’s not a badge of honor to say your startup [doesn’t do marketing yet](https://www.intercom.com/blog/podcasts/intercom-co-founder-des-traynor-on-starting-up/#marketing). It’s not simply a case of hiring a marketing expert and suddenly demand for your product will grow exponentially.
+*   Intercom is at its very core a tool that will help you run your startup. [So we published _Intercom on Starting Up_ for the same reason we do other content;](https://www.intercom.com/blog/podcasts/intercom-co-founder-des-traynor-on-starting-up/#content) to help spread the word of Intercom by being as educational as possible and helping as many people along their journey as possible.
+
+* * *
+
+**Matt Hodges:** I want to start from the very beginning. How did Intercom come to be? What problem were you trying to solve with your co-founders?
+
+**Des Traynor:** It starts really with this first wave of SaaS businesses. We had an error tracking tool for developers, Exceptional, and like most SaaS businesses, we charged a monthly fee. People signed up all the time. Not all of them became happy customers. You have to bear in mind this was 2009, 2010, 2011. There was no Stripe publicly available. PayPal was the way you did your business. Frameworks weren’t what they are today. A lot has changed.
+
+Our problem was that we had all these customers and it was really hard to talk to them. To talk to them we very literally would go to PayPal and get an export of all of your paying, active subscriptions. You’d import that into [Campaign Monitor](http://campaignmonitor.com/email-marketing) or Mailchimp, and you’d write an email like, “Hey we’re working to improve Exceptional…”, and you’d ask questions. All of this would come into your inbox. You just dealt with hundreds of user replies.
+
+It was so hard to distinguish a paying user from someone on a trial. You would get replies like, “Dude, I just signed up yesterday, give me a break,” or like, “I quit using the product six months ago”. You didn’t know who you were speaking to.
+
+We realized talking to your users is probably _the_ most important thing you do, especially in those embryonic stages of a company. It’s the most important thing to do and yet one of the hardest things to do. We started building bits and pieces of things to make this easier and then at some point in [Eoghan’s](https://intercom.com/blog/author/eoghan/) head a light bulb went off – this actually might be bigger than the thing we were doing. That became the origins of Intercom.
+
+![](https://intercom.com/blog/wp-content/uploads/2016/08/Screen-Shot-2016-08-18-at-11.22.46.png)
+
+_Screenshot of the post announcing Intercom, originally published on the Exceptional blog_
+
+We named it Intercom because it used this actual metaphor of an intercom. That’s what the logo is. It’s a way you can see and talk to your users.
+
+## Solving a meaningful problem for users
+
+**Matt:** Was there a specific event or occurrence that led to that light bulb moment where you and Eoghan realized there’s a business in this?
+
+**Des:** There were a few different pieces. A recurring task we had was apologizing for downtime. When you’re building software that lives inside of other people’s applications, it’s just more complicated than building a recipe app or a project management app where every action has to be created by a human. When you’re inside other people’s things, there are massive scalability challenges. We used to have to apologize for this all the time. We built a way where we could push a little message inside the product to say sorry about that downtime. A lot of people said, “What is this thing? This is cool.” It is actually cool. Then we realized there is raw value in being able to talk to your customers in context. That was the moment we thought this thing was going to be popular.
+
+Everything starts out like a feature.
+
+At the time the idea that you’d build a company out of lots of other companies was pretty weird. This felt like a feature. But the classic “product manager guru” thing to say is, be careful to build a product and not a feature. _Everything_ starts out like a feature. Today for example if you’re building a product you can use a tool called Algolia to do hosted search. You can use a tool like Layer if want your customers to message each other. Before you know it you can actually build whole products out of other people’s products. That wasn’t a known or common thing in 2011 either and that was part of the tide we were going against.
+
+One early customer said something like, “This is cool but I think that I should build it myself”. That’s the bootstrappy mindset of rather than spending $49/month, you might spend four days a month trying to host and build a piece of shit that won’t even do half of what you wanted. We knew we were swimming against the tide, but we also knew there was a lot of people coming with us. In that any credible, serious business would look at this and say, “Shit, I actually need this”.
+
+The idea of actually seeing who is using your product was just so weird. Google Analytics never showed you that – it just showed you 87 page views today – and nothing else did either. The idea of understanding who your active users were was something that did not exist before the Intercom dashboard. When you sign into Intercom, you see who is using your product right now. That’s a very powerful thing for a product person, founder, CEO, head of marketing, etc, to actually know. I’m sure there was some random startup that also had this out there in the world, but it just wasn’t a mainstream thing. People didn’t talk about their monthly active users because they didn’t know who the hell they were. Now you can talk to them with two clicks.<
+
+## Co-founders: shared value, shared history
+
+**Matt:** You actually worked with your other co-founders before Intercom. Tell me more about that. What impact do you think that had on Intercom’s trajectory?
+
+![](https://intercom.com/blog/wp-content/uploads/2017/04/Founders-SF-2011.png)
+
+_Intercom co-founders (from left): David, Des, Eoghan and Ciaran_
+
+**Des:** It was so important. The biggest thing for me is knowing how you work with other people – that you can count on them and they’re going to be calm and cool in moments of crisis, that you have a longitudinal deep loyalty and commitment and dedication to a style of work that’s shared. You don’t get that doing cofounder dating. If you’re looking for a technical cofounder you might find the modern day [David Heinemeier Hansson](https://twitter.com/dhh) of engineering but you might not get along with them. The interpersonal dynamics are never tested as hard as they are in the early days when you’re pretty sure nothing is going to work out but you all have to agree to a shared sense of delusion.
+
+Interpersonal dynamics are never tested as hard as they are in the early days.
+
+We worked together for years and we had already established that we all believe in hard work, diligence, dedication and single-purpose devotion. One of our early rules was we don’t do anything professionally that’s not for Intercom. No side projects, no advising other companies. When you have all that baked in and everyone’s signed up for it, you literally can archive a whole set of concerns from your brain.
+
+There are other things like respecting each other’s discipline and understanding each other’s responsibilities. When you can basically start a company without having to worry about any of that, it’s magical. My heart bleeds talking to people who are like, “I’m six months in with a cofounder, we’re splitting the company 50-50, and it actually turns out he doesn’t work that hard.” Good luck. How do you recover from that? My top tip is only work with people you have an undying trust and loyalty with.
+
+## Recruiting your earliest customers
+
+**Matt:** In the early, early days you really were on the front lines of the business, weren’t you?
+
+**Des:** Everyone is in different ways. If you’re engineering, you’re getting feedback on every line of code you deploy the following minute. For me the front lines meant I was out there trying to get customers. I literally would spend morning, noon, and night emailing people who had a product and for whom I knew Intercom would work. At the time I very much was saying, “Look, we have invented something that you are going to love. All I need you to do is trust me. Install this line of JavaScript, log in here, and if you’re not blown away, delete the JavaScript. I will never talk to you again, but I’m telling you you’re going to like this.”
+
+If you look at the first four or five pages of my Gmail account, which is now six years old, it’s all me emailing people asking if they want to try Intercom. Showing them a screenshot of what it might look like in your product, and ask, “Does this seem useful to you?” Showing them how you can see all your active users. Isn’t that cool? It worked. It’s not scalable, but that was one whole piece of it.
+
+The other piece was a weekly webinar live with me at 6pm every Wednesday in Dublin where I would literally be walking people through not just the actual product, because we’ve always had a pretty well designed project that doesn’t need a whole heap of explaining, but actually the philosophy behind how you think about using Intercom.
+
+A lot of people were saying, “Sweet, you mean I can message all my users all the time? Awesome.” And they’d just start spitting out messages, which is obviously a shit customer experience. We needed these webinars to show how you should think about retention and churn and customer engagement, and explain the role each play. To show, here’s how you develop a hypothesis for what’s causing somebody to engage, to stick around, to quit, and here’s how you can test that hypothesis and improve that with Intercom. Here’s my suggested roadmap for how you should try these things out. That was the webinar.
+
+> I’m up at 6am to run a seminar for good folks in Australia, New Zealand, India, Singapore and more. Starting now: [https://t.co/GAVLVk7z](https://t.co/GAVLVk7z)
+> 
+> — Des Traynor (@destraynor) [August 2, 2012](https://twitter.com/destraynor/status/230892993673064448)
+
+Then every three weeks you get mail from somebody who’s in Australia, India or somewhere in Asia saying 6pm doesn’t work for me, so eventually we started doing 6am ones as well, which was mental – getting up at 5:30am, speeding into work, going through a one-hour webinar then straight back home and back to bed again.
+
+There’s an incubator in New Zealand that I used to do 11pm webinars for, and even today we have a stronghold in New Zealand. You think these things don’t matter but actually it all matters, especially when the numbers are small. It doesn’t take a lot to create a massive increase in your numbers as long as you’re willing to work for it.
+
+**Matt:** Today, go to market strategy is very much driven by inbound but in the early days it sounds like it was very much an outbound strategy?
+
+**Des:** These weren’t literal random people. At the very least we had commented on each other’s blog posts or I had met them at a conference or something like that, and they were willing to give me the benefit of the doubt. Good people are willing to try out good stuff when they half trust the person who it came from.
+
+## How do you begin pricing your product?
+
+**Matt:** Pricing is perhaps one of the hardest things for a startup to get right, but if you do, it’s one of the biggest levers for changing your trajectory. If we look at Intercom, it was completely free for its first year of existence. Can you talk us through the journey we went on from that point to the pricing strategy we use today?
+
+**Des:** There are a few things we learned. One is that free is actually not a great monetization strategy. We didn’t hit any ARR records charging zero dollars. We needed to start charging money because we actually needed to start making money. Who do we charge and how much? The general, _ye olde SaaS thinking_ at the time was to have three price plans; gold, silver and bronze. You’d make gold comically expensive, bronze a little bit too shit and you’re going to promote silver in the middle, which going to be really big and bold and look sparkly. Pricing is hard. The gravitational pull there isn’t actually bad in that if you don’t know what you’re doing, do this and it will probably be all right. I think there’s a few different things going on there.
+
+![](https://intercom.com/blog/wp-content/uploads/2016/06/Price_Not_Value_Graph.png)
+
+I wrote this post a while ago, [“Four pricing principles to never forget”](https://www.intercom.com/blog/four-pricing-principals-to-never-forget/), and my thoughts there are still the same. One, we started charging a flat fee of $50. That advice came to us from [Basecamp CEO Jason Fried](https://intercom.com/blog/podcast-jason-fried-product-strategy/) and it was sharp and blunt. Sharp in that it was smart and blunt in that you’ve got multibillion-dollar companies paying $50 for a product they say they heavily depend on, which is definitely not an ideal monetization strategy. We decided to charge $50 and see how that settles in. Then we’ll come back to this problem and we’ll know more. The data from the future isn’t here yet, so let’s wait until we get that data and then we can base our next move on that.
+
+It was a good thing to do from the point of view of getting something out the door. It got that perpetual monkey off our back of, “It’s a bit of a toy, will people ever pay for it?” Turns out, yes, they will. They’ll pay for it in massive amounts. They were happy to do so. Pricing from there, we tried to get progressively more advanced, and today we understand that we sell to different sides of an organization. We sell to support. We sell to marketing. We also understand there’s a difference between a company with a million active users and a company with ten active users. We’ve baked in some other philosophies into our pricing too. For instance we want Intercom to be used by everyone in the company. That’s why we don’t charge per seat.
+
+From a startup perspective specifically, in general, get a price out the door – just make it clear that it’s your beta pricing. Otherwise people conveniently forget these things. Then plan on changing price. For any growing business, the biggest amount of revenue is going to come from the future. It’s not from your current customer base. That’s why you can afford to do things like generous grandfathering, etc. but say you’ve been charting $20/month forever. Guess what? Starbucks increases their prices all the damn time. Why did we end up in this world where people feel that software pricing has to be stuck in 2007, where you once set it way back? Why do we feel that it’s okay to build tools that are worth $9/month?
+
+![](https://intercom.com/blog/wp-content/uploads/2017/04/Pricing-over-time.png)
+
+There’s a lot going on in pricing and some of it has to do with the type of company you’re trying to run on and what your top-level ambition is. But I think most people who hold opinions about pricing that are you should never change or it should be really, really low, haven’t fleshed out their thinking in true actual practice or application of those ideas. I talk to a lot of businesses that should be very successful..they have got 3,500 customers, but the problem is that their top plan is something like $24/month. I’ll ask, “Who is your best customer?” and they say LinkedIn. LinkedIn are paying $24/month for this? Do you not see a problem here?
+
+You have to at the very least be aware of the value your product delivers to an org, and the buying power of the org, to have an intelligent price. Otherwise, you do end up with this proverbial situation where the software team’s coffee run is more expensive than their core tool. I have a friend who had a developer tool for testing. There’s genuinely a team in IBM whose coffee run is significantly more expensive than their infrastructure for testing. Something has gone wrong here. You have not got an effective monetization strategy. Charge more money for the work and have respect for the stuff you produce. Anyway, enough on pricing.
+
+## From product strategy to people strategy
+
+**Matt:** Six years ago you were heavily involved in product strategy and designing UX. What does a day in the life of Des Traynor look like today?
+
+**Des:** Today I run marketing, and marketing is an umbrella term for a group of functions which are all united around the shared idea of creating, capturing and converting demand. The organisations that make up marketing at Intercom are:
+
+*   **Communications**: Do we talk to journalists? If so when? What do we have to say?
+*   **Demand generation**: How do we actually create demand for Intercom in the sense of like paid online marketing or outbound campaigns.
+*   **Content**: They run the Inside Intercom blog and podcast, and our books.
+*   **Product marketing**: They basically own all the properties that attempt to persuade people of the value of Intercom, so that they’ll use it.
+*   **Product education**: They create our docs.
+*   **Events**: They put together our world tour, which is coming up soon.
+*   **Brand design**: They are responsible for the look of everything you see that’s Intercom.
+
+Day-to-day it will be a few 1:1s with the leaders of those functions. It’ll be a few exec team meetings, meetings with Eoghan, talking about top line hires, new projects etc. I try to carve out an hour or two to do some writing every now and then, but what’s actually happened now is people are forever bombarding me with shit to review or to write. Your motivation to do stuff for other people is always less than the things you actually want to do yourself. I wrote a [piece on voice UI](https://www.intercom.com/blog/benefits-of-voice-ui/) recently, and it actually took me like a month and a half to get that out the door because people just kept interrupting. That’s the challenge.
+
+It’s mostly a blend of what you call boring manage-y stuff, but it is genuinely interesting. I love talking about the future. I love talking about projects. I love talking about what we’re going to do next quarter, etc. It’s all good fun, but it’s very little individual contributor work. That’s why you don’t see as much from me except for the Twitter burst I’ll go on.
+
+## Bringing marketing into the equation
+
+**Matt:** I was our first marketing hire. Who owned the job of marketing before then?
+
+**Des:** At the time the narrative was we don’t have marketing. People like to boast about not having marketing, but actually that’s not a great thing to say. We didn’t say it like that. We said we haven’t done marketing _yet_. We always figured marketing would be this extra gear, and it turned out to be. People can get a little too boasty or confident about the fact that they have yet to do marketing. They talk about it like it’s a home run, as if all they need to do is hire Mr. or Mrs. Marketing and all of a sudden demand will just fly off the shelves. It doesn’t actually work like that.
+
+Who did marketing? Well, it depends. If you’re talking about who designed a homepage that would have been the work of Eoghan, our CEO, and [Frank](https://dribbble.com/blackyeti), our designer. Who was generating the buzz on a day-to-day basis? That was me. I was writing weekly newsletters. I wrote 93 of the first 100 blog posts. We published two to three posts a week back then. I also ran the Twitter account where we’d share all the stuff. Back then, we also used to share links that we’d read from different parts of the world that we thought were good as well. I talked to our customers. I did all the webinars. That was all on my shoulders in a sense. We never would have called that marketing. We would have called that “just keep the buzz going” or some abstract word for that.
+
+I don’t think that was necessarily wrong. Marketing is genuinely one of the hardest functions to hire because they’re really good at selling themselves by virtue of it, but in general, you have a lot of different challenges. One is that not all brands are equal. Not all products are susceptible to the same types of marketing or the same approaches. At the same time you’re in an industry that likes to define itself by playbooks that say here’s how you do this and here’s how you do that. That, in our experience, hasn’t been something that works. Either through stubbornness or through some sharp insight, we’ve decided to do things our own way. That’s what feels better for us, but it doesn’t mean that you have to hire people who are bringing a wealth of raw aptitude and IQ, an open mind about how to do things and an enthusiasm for the role. Someone like yourself actually embodies that for us, but the thinking wasn’t that mature at the time. It’s hard.
+
+Not all products are susceptible to the same types of marketing.
+
+Most startups genuinely think, “We’re going to put a screenshot on the homepage. We’ll put a tagline on it, which will be something like ‘ticket tracking reimagined’, have an email signup and we’re done. Box checked, back to product.” Then there’s this cynical thing that startups have, that at some point they say, “We’re going to bring in someone who’s got striped shoes, striped suits and hair gel, and they’re going to do all the real stuff, but we’re intellectually above that.” Actually, you’re not.
+
+There’s so much beautiful, elegant literature about marketing. [David Aaker’s](http://facultybio.haas.berkeley.edu/faculty-list/aaker-david/) writing on how to establish a brand, for instance. The whole theory of brand architecture is really interesting. Truly, intellectually thinking about how you generate demand and how you create, capture and consume. There’s so much there. You just don’t know it.
+
+Marketers don’t do themselves any big favors. There are lots of good blogs that talk about how to build a product and how to build a business. There’s very little good marketing material out there. I’ve been pushing our team to try and contribute but there’s not as many thought leaders in the marketing space for SaaS as there are for product. To really change this perception we need to get people out there who are well known to be good marketers and yet they’re not the black hat SEO people.
+
+**Matt:** I’m still here three years later, so things have gone somewhat right. I know a lot of startups really do struggle with their first marketing hire and trying to find the right person. Based on the mistakes that we’ve made and the successes we’ve seen at Intercom, what advice would you give fellow founders looking to make that first marketing hire? Are there any specific qualities, characteristics or skills that they should be looking for?
+
+**Des:** I think starting with product marketing actually makes sense. Understand that marketing is not a team. It’s not just marketers and they’re all somehow this interchangeable thing. There are different types of marketers and there are different types of marketing functions. That’s really important to know.
+
+Secondly, you need to understand where your first problem lies. We really wanted a sharper way to communicate to the world what Intercom is. That is product marketing. However, if your app is quite clean and tight in scope maybe it’s very self evident. Say you do expense tracking. That’s literally what you do, so maybe communicating that isn’t your first challenge. Maybe your first challenge is actually penetrating Fortune 500 companies or getting all of the world talking about expense tracking. You might have different challenges.
+
+If you’re in a situation where you’re producing a product that is both incredibly valuable and hard to explain, your first challenge is positioning, it’s packaging, it’s, “What is the product?” That’s where we started.
+
+Product marketing is also a good place to start because great product marketers are great product people and great product people are great marketers. You find some intellectual common ground really quickly between those two sets of people that you don’t necessarily find when you bring in the SEO guru. That’s not to be dismissive of the SEO guru. I don’t mean to belittle their work. I just mean there’s less shared ground between how you do keyword stuff on a blog post with how you make product decisions. Product and product marketing are so beautifully joined that it’s a great inroad to start a marketing team from. But again, that only makes sense if you’re that type of product.
+
+Launches are a great testbed  
+for all of the functions of marketing.
+
+If you have a consumer mobile app and you just want to crank up demand, maybe your first marketer is somebody who knows online advertising really well. I genuinely don’t know. But the traits you’re looking for are somebody who gets the product, somebody who loves the product, somebody who is intellectually able to match the people there and understands the constraints of “we can’t build everything and yet we need to build stuff that resonates with our audience”. Someone who understand that some stuff will come later and some stuff will be shipped today. They’re all the traits you need.
+
+Lastly, the first thing you’ll do no matter what in a startup is some type of launch, so you need somebody that can help you navigate that minefield. Launches are a great testbed for all of the functions of marketing. They’ll highlight all the functions you don’t have whether you want it or not. For example, when you don’t have a comms agency and you want to get press, what do you do? Launches are this perfect storm of everything marketing brings to the table and it will highlight all the areas in which you’re impressive and all the areas in which you’re deficient as well.
+
+**Matt:** Speaking of marketing, our sixth book, [_Intercom on Starting Up_](https://www.intercom.com/blog/books/starting-up), is hot off the press. Why do we even publish books at Intercom, and what’s the story we’re telling with this one?
+
+**Des:** We published this book for the same reason we publish a blog and a podcast. We have long felt that the best way to help spread the word of Intercom is by being as educational as possible and helping as many people along their journey as possible. Intercom is at its very core a tool that will help you run your startup. We want our customers to be wildly successful. Most of our customers are startups themselves. They really want to know how do they get from 1-1,000 (customers) or 1,000-10,000. Everything we learn where our thinking is philosophically pure, we’ll share. We don’t write posts about shit we don’t understand. We don’t write posts where you go off and do a lot of research to talk about a topic you didn’t understand. We wait until we actually have distilled thinking on ideas and we share them.
+
+[![](https://intercom.com/blog/wp-content/uploads/2017/04/blog-footer.png)](https://www.intercom.com/blog/books/starting-up)
+
+We’ve written [books on support, Jobs-to-be-Done, product management, onboarding and customer engagement](https://www.intercom.com/blog/books), and we’ve done those because our thinking is pretty dialed and we believe we’ve found stuff that works. We believe that if you read the book and are convinced by the ideas, you’ll be convinced by the company and at some point you’ll be positively predisposed to Intercom, such that when you bump into a problem around support, engagement, onboarding, etc, you might think Intercom can help.
+
+The book is [_Intercom on Starting Up_](https://www.intercom.com/blog/books/starting-up), and it’s basically the lessons we feel that make sense at the early stages. We’re not claiming this will work for IBM. It won’t. You need an _Intercom on Fortune 500_ for that one. We’ll get there. But I think by any measure, to all of our customers, it’s fair to say we have started up.
+
+When we begin a blog post and say the next step is to ask your research team, if you’re four people in a garage somewhere, you don’t have a research team. Maybe you have a person who ⅛ of their job is research. It’s definitely a challenge for us is to find a voice for these people and yet we have all this material that we know is good advice for years 0, 1, 2, 3. Here we’ve compiled it all together.
+
+The book is littered with stories, anecdotes, photos, quotes, etc all to gel together the thinking around starting up. It’s not the story of Intercom at all. It’s mostly the sort of questions you’re going to have as you go through your journey. I hate the word journey because it has been so bastardized but it does feel like a journey. Here’s the thoughts you’ll have along the way and here’s how we think about them. How much did you charge? What did you market? How do you pick your first feature? If our thoughts can help you clarify your thinking even a little bit along the way, we’re absolutely happy to do that. That’s why we do these things.

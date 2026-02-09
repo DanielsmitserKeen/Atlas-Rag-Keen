@@ -1,0 +1,315 @@
+# SaaS Product-Led Growth and the New Customer Journey – with Blake Bartlett \[263\]
+
+Blake Bartlett is a partner at Openview, a venture capital firm that focuses on B2B companies in the expansion stage such as Highspot, Calendly, and Expensify.
+
+These days it seems like everyone in SaaS is talking about product-led growth (PLG). But for many critics, it's just a buzzword and for others, it's not even a new concept.
+
+So I decided to sit down with the guy who actually coined the term product-led growth and explore this topic in more depth with him.
+
+If you're not familiar with product-led growth, then I'd suggest you listen to episode 251 where I cover the fundamentals of PLG with Wes Bush (founder of Product-Led Institute).
+
+In this interview with Blake Bartlett, we build on that and answer questions like:
+
+We also explored how a fictional sales-led SaaS company might transition to a product-led growth model. And we examined some of the challenges the company would face trying to do that and how it might overcome them.
+
+I think it's a great conversation with someone who thinks deeply about product-led growth all the time and is involved in a number of PLG focused B2B SaaS companies.
+
+I hope you enjoy it.
+
+**Omer:** \[00:00:00\] Welcome to another episode of The SaaS Podcast. I'm your host Omer Khan and this is the show where I interview proven founders and industry experts who share their stories, strategies, and insights to help you build, launch and grow your SaaS business.
+
+\[00:00:25\] In this episode, I talk to Blake Bartlett. A partner at OpenView, a venture capital firm that focuses on B2B companies in the expansion stage, such as Highspot, Calendly and Expensify.
+
+\[00:00:39\] These days it seems like everyone in SaaS is talking  about product-led growth or PLG, but for many critics, it's just a buzz word. And for others, it's not even a new concept. So I decided to sit down with a guy who actually coined the term product-led growth and explore this topic in more depth with him. If you're not familiar with product-led growth, then I'd suggest you listen to Episode 251, first where I cover the fundamentals of PLG with Wes Bush, who's the founder of Product-Led Institute.
+
+\[00:01:10\] In this interview with Blake Bartlett, we built on that and answer questions like is product-led growth, a new concept, or is it just a new term for something that many businesses have already been doing for years?
+
+\[00:01:23\] What exactly is the new customer journey and why is it important for SaaS companies and leaders to understand it? Can you build a product led growth company without free trial or freemium offering in your product? And if so, how, and what's the role of marketing teams versus growth teams versus sales teams in a product-led growth SaaS company.
+
+\[00:01:47\] We also explored how a fictional sales-led SaaS company. Might transition to a product-led growth model. We examined some of the challenges the company would face trying to do that and how it might overcome them. I think it's a great conversation with someone who thinks deeply about product led growth all the time and is involved with yeah, a number of PLG focused B2B SaaS companies. So I hope you enjoy it. Blake, welcome to the show.
+
+**Blake:** \[00:02:16\] Great to be here. Thanks for having me.
+
+**Omer:** \[00:02:18\] So do you have a favorite quote, something you can share with us, something that maybe inspires or motivates you.
+
+**Blake:** \[00:02:23\] Yeah. I actually have two they're both related. The first one is a popular phrase in investing, which is that, “In order to be successful and be a good investor, you need to be contrarian and right.”
+
+\[00:02:35\] And then, yeah, the other quote is the one that says “Be yourself because everyone else is taken.” And I think that those two things are very closely coupled if you see the world differently than others, Investigate it, do your research, make sure that it's actually true and then have conviction to act on that because whether it's investing or whether it's anything in business, if you try to be like everyone else and try to fit the consensus, you're not going to stand out.
+
+\[00:02:59\] And so you're not going to be successful, but if you do it differently, if you're contrarian. And right. And you're being yourself and you're sort of leaning into your perspective on the world or your perspective on your space. That's what's going to, to break out and really stand out.
+
+**Omer:** \[00:03:14\] Love it. Two great quotes.
+
+\[00:03:16\] So for people who aren't familiar with OpenView, can you just tell us a little bit about the company? What do you guys do? What kind of companies you work with?
+
+**Blake:** \[00:03:27\] Yeah. So OpenView is a venture capital firm. And so we invest in startups and specifically our focus is to invest in, exclusively in SaaS, hence why we're talking.
+
+\[00:03:36\]and that's been our focus since day one, back in 2006, when the firm was founded, we're also pretty specific about investing at what we call the expansion stage. Which is really what we think about is companies that have a product in market. They have customers using it. There's product market fit, starting to see some initial growth in terms of the go to market engine and ready to raise and ready to scale.
+
+\[00:03:55\] And so that's, that's our swim lane. That's our focus, as we've invested in great companies like Datadog and Expensify, Calendly, many others. And that's really open to you in a nutshell.
+
+**Omer:** \[00:04:06\] Awesome. And tell us a little bit about your role at OpenView. For people who. aren't familiar, you are the guy who originally coined the term product-led growth, but you do a lot more than that, right?
+
+**Blake:** \[00:04:21\] Yes, I am a partner at the firm. So I'm one of the individuals looking for the next great company, looking to then, you know, write a check into that company. And then we're very involved as VCs, as you would expect after making the investment. So take board seats. And then we also have a, a large group at OpenView that we call the expansion team that helps with things like recruiting and go to market and as you mentioned, product-led growth. And so this has been a big area of focus for us. And so building out and carving out this idea of the new way that SaaS is being done, which is increasingly bottoms up and increasingly starting the customer journey with self-serve. That is what product-led growth is and that is kind of the space that we're looking to carve out and to build a movement around, to build a community around, because we really do see it as the future of SaaS.
+
+**Omer:** \[00:05:04\] So let's just start from the top and. Let's go through just some of the fundamentals to make sure that everybody's on the same page. Tell us what exactly does product-led growth mean.
+
+**Blake:** \[00:05:17\] So Product-Led Growth, is a go-to market strategy that relies on the product itself as the primary driver of customer acquisition, conversion, and expansion. And that would be as opposed to relying on sales and marketing as being the primary driver of customer acquisition, growth and expansion.
+
+\[00:05:36\] So you're leading with product as opposed to leading with a human-based sales effort.
+
+**Omer:** \[00:05:41\] Okay. So this probably people who are listening to this saying, well, that doesn't feel like, I mean, there's a lot of people that get excited about product led growth, but maybe that doesn't sound that new to them. And it could be because they couldn't afford a sales team or they didn't like sales.
+
+\[00:06:02\] So they actually had to spend a lot more time thinking about how their product could drive sales for them. But what do you think it is like from your experience? And since you know, in the last few years, why do you think it's sort of taken off so much and resonated. With so many people and companies in the SaaS space, this whole idea.
+
+**Blake:** \[00:06:21\] Yeah. I agree with you that it's not new. I would say going back to the first instance that I can think of, of classic product-led growth. There's there's two there's a Survey Monkey comes to mind, which was started in late nineties, early two thousands, and really had this awesome viral loop. But with how they went to market very self-serve and, you know, we're able to serve consumers and prosumers and business users and then expand and into the enterprise.
+
+\[00:06:44\] And, and also Atlassian right? Atlassian was also started in late nineties. And that's a really good example that you point to, which is maybe they couldn't afford a sales team, or maybe there was some, Oh, their motivator. And I really think of Atlassian as being a perfect example because out of necessity almost, they had to be self-served,  Atlassian was started in Australia.
+
+\[00:07:02\] And if there's certainly are other companies they could sell to in Australia, but it's a relatively small local market. And so if you want to go much broader, you have to sell outside of your country, but it's Australia has a couple of challenges. one it's an Island. So if you want to go and see people in person, which was certainly the way that sales was done back in the late nineties, early two thousands, you're talking to very expensive plane flight, just to get anywhere to attempt, to try to get a customer.
+
+\[00:07:28\] And that could be cost prohibited for an early startup. and if you want to do phone-based sales, another challenge, especially if you're thinking about selling into the US Australia time zones are almost perfectly aligned to not be convenient, to have phone conversations with people in the US as an example.
+
+**Omer:** \[00:07:44\] Right.
+
+**Blake:** \[00:07:45\] So, almost out of necessity, if you set it up as a self-serve, you know, almost eCommerce like way to use the software. You know, all the Australians can be sleeping soundly at night and the product can still be selling into the US right. And you don't have to jump on a plane in order to sell it to a customer that might be based in the UK or elsewhere.
+
+\[00:08:02\] And so out of necessity, they went self-service and then fast forward the tapes a couple of decades later, and it lasts yin is one of the most important companies in enterprise software today, but they still continue to be built off of this backbone of self service and have an eCommerce online business model, as they describe it in their investor materials
+
+**Omer:** \[00:08:22\] Now you talk a lot out, I've heard you talking, it'll be about the new buyer journey. And I think that's maybe another way of looking at just product-led, growth and helping people to sort of understand why that's different to maybe sort of a more trhttps://saasclub.io/wp-content/uploads/2025/01/tools-and-materials-used-for-fashion-designing-4XD3MX3.jpgional sales-led approach. So can, can you sort of just explain that a little bit and what you mean by the new customer journey?
+
+**Blake:** \[00:08:44\] So it really is back to that, that concept of what I was saying before, which is in the old-world sales leads and product follows. If you think about the buying cycle, even if it's a fast buying cycle, which might be 30 days or maybe 90 days or somewhere in that zone, you're still starting with a marketing touch points to begin with to educate the buyer.
+
+\[00:09:04\] And then if they're qualified and if they're interested, then they're moving into a sales funnel, right? You're initially qualifying them with an SDR as they continue through the journey. Then they're talking to an AE, you're doing a demo, you're showing them the product and then you're negotiating contract.
+
+\[00:09:20\] And hopefully again, within 30 days, 60 days, 90 days, whatever it is, you're getting that closed one, or you're getting that gong. And then what happens afterwards? Well, then you're passed over to the customer success team, they help you get implemented onboarded trained and ready to go. And you know, again, if you're doing it well, that might be another 30 days.
+
+\[00:09:39\] And so start to finish. We're talking multiple months before the software is even ready. For the users to get their hands on the keyboard and start using it. And so very clearly sales leads and much, much later product follows. And in this new customer journey, it's exactly inversed and it's exactly the opposite.
+
+\[00:09:58\] Which is I'm finding products these days. You're probably finding products these days, all the listeners are probably finding these products these days, by just going online or seeing a tweet or getting a link to something that's being shared with them, or serendipitously discovering something on an app store or marketplace picking one button and then boom, using the enterprise software.
+
+\[00:10:19\] And so they're almost instantly into the product and they're able to. Try it out, kick the tires and see if it's going to add value to them. If it does, then they'll tell their co-workers about it. They'll start sharing it out externally adoption and the usage will grow alongside it. Right. And then later on, as you start to see that expansion and you start to say, as the vendor, again, as the software company, you say, I think there's opportunity to sell more.
+
+\[00:10:43\] They're there, they're really picking up what we're putting down. Maybe I should call in and maybe I should see if we can do more to help them. And that's the sales call, but it's a sales call that feels a lot more like customer success than it does like trhttps://saasclub.io/wp-content/uploads/2025/01/tools-and-materials-used-for-fashion-designing-4XD3MX3.jpgional sales, because you're not pitching them to use your product or to adopt your product.
+
+\[00:10:59\] They've already done that. They did that on a self-service basis, but you're trying to help them see what else they could do with the product and how they could get even more value out of it if they're adopting new features or expanding to additional teams and things like that. And so the product leads and then the sales effort or the human effort follows.
+
+\[00:11:16\] And so that's the, that's what I mean when I say the old customer journey versus the new customer journey.
+
+**Omer:** \[00:11:21\] So I think Calendly is a great example of this. And I've had Tope on the show kind of to tell the story of Calendly and how it all started, but for them, having a freemium product seemed like that was a big part of sort of a big driver in helping that business grow.
+
+\[00:11:44\] Where does sort of free fit into this model for you? Is that something that has to be part of this customer journey? Does it make it easier or does that really just depend on the product and the market?
+
+**Blake:** \[00:11:58\] I think it's pretty darn important. I'm not going to say 100% of the time. It has to be there, but, but I think it's pretty close to a hundred percent.
+
+\[00:12:05\] And here's why, so the other mindset that I think about is that today, again, in that new customer journey and the old journey, you going to the executive who had budget and you're a cold calling him or her trying to convince them to allocate budget to you. So it was all about this executive and courting the executive, and then in the new world, the people that are self-servicing and finding the products tend to be more the actual users themselves rather than the executives with budget.
+
+\[00:12:32\] And so there's also this fundamental shift you need to think about, about the persona. The buying persona and the product persona, and that you're no longer going after building for and going after this executive, but instead you're building for and going after this end user. And so with that in mind, I think about end users being they're just consumers, right?
+
+\[00:12:52\] You as a person, me as a person, I'm the same, same guy, whether I'm at work or whether I'm at home, I have the same preferences, the same likes and dislikes. And so if I think about that in the context of adopting new products and new technology, again, as a consumer. If I'm signing up for a new app or new service, and I have to talk to somebody, you know, no chance I'm going to continue in the funnel, right.
+
+\[00:13:13\] Or if the, even if the sign up form or the checkout page is overly cumbersome and there's too many fields or I'm getting confused, or I got surprised by, you know, how much they're asking me to pay up front. I never even got to give it a spin again. That's going to cause me to bounce.
+
+\[00:13:28\] But if I instead have you know, signing up for Netflix, signing up for Spotify. It's almost always that you get 30 days free and you're able to very frictionlessly and very quickly sign up and adopt that product and start using it to see do I like it? Can I start bingeing a few shows on Netflix before I, you know, upgrade to, to pay?
+
+\[00:13:46\] Can I build a few playlists on Spotify before I upgrade to paid? That's how we think as consumers. And again, back to the context of enterprise end users are consumers who just happened to be at work. You need to lean into that. And so the setup for a core pillar of product that I think about, which is that in this journey of finding the product and trying the product, you need to deliver value to the end user before requesting value in return.
+
+\[00:14:14\] And so that means that some component of free to show that proof of value is incredibly important before you ask them to whip out their credit card. And that could be time-based free, which is a free trial. You get all the features, but you only get them for 14 days. You only get them for 30 days.
+
+\[00:14:30\] Or it could be feature-based free, which would be freemium, which there is a free tier that you can be free forever. But if you want additional functionality and additional superpowers or additional usage in the product, that's what causes you to, to sort of cross the paywall. But this, the mental idea of delivering value before you request it, value is incredibly important right now, because again, we're going after consumers and they just think differently than the trhttps://saasclub.io/wp-content/uploads/2025/01/tools-and-materials-used-for-fashion-designing-4XD3MX3.jpgional executive that we used to sell to in a prior era.
+
+**Omer:** \[00:14:59\] Right. That's great point. What about sales?
+
+\[00:15:02\] So I think, you know, I've heard some people sort of look at the whole idea of product-led growth and sort of think like, okay, that's sort of is minimizing the value of sales teams, but I don't think that's what you're saying. Or you just, it's just sort of really saying like sales is just as important as it's always been, but there's a different way. You should tackle sales rather than leading with that. I think that's really what you're saying, right?
+
+**Blake:** \[00:15:33\] Yeah. So product-led growth is not anti-sales. I think that's one common misconception that I hear oftentimes. We are big fans of sales in the product-led world. But as I mentioned before, you just change the order of operations. So instead of sales, being at the front in the very beginning and really the access point to the customer journey into the product, instead later it comes in and helps to amplify the usage of the product and really. Help people continue to get to where they want to be in their product adoption and in their customer journey with you.
+
+\[00:16:03\] And so, yeah, it's, it comes later, you don't hire them first. You hire them a little bit later, once you have traction and once the customers are showing that they they're ready for it. And then it does look a lot more like calling into existing accounts for an upsell or for an expansion. And as I mentioned before, the conversation, because of that, because you're calling into somebody who's adopted the product who loves the product and probably wants to use more of it.
+
+\[00:16:27\] You have more of a consultative customer success like conversation, and it's a much warmer. It's not just a warm lead, it's a warm relationship. It's a, they already have positive feelings towards your product. And so it changes the nature of sales, but sales still fundamentally is very much needed. I mean, nobody is going to put a hundred thousand dollar deal in a credit card.
+
+\[00:16:46\] Nobody is going to just accept the T's and C's with one click of a button. Okay. And for a hundred thousand dollar deal or, you know, much larger than that. On a totally self-service basis without talking to a human. And so when you get to that point of the journey, again, it all starts with self-service.
+
+\[00:17:01\] When we start to get to the point of the journey where your internal champion or your internal users are starting to hit their own internal friction and bureaucracy, quite frankly, budget limits and approvals. And, you know, at this point or a budget, or at this point of adoption, we need to get legal involved.
+
+\[00:17:17\] We need to get sort of, you know, finance involved for an additional executive overview on a budget. That's that large. That's totally acceptable. It's totally understandable. But your champion probably needs some help navigating that internal bureaucracy and that internal red tape. And so the salesperson, again, acting more like a customer success person can kind of be hand in hand with the champion and say, Hey, we're going to tackle this together. We're going to navigate your internal buying process together because we both have this shared goal of you using more of my product. You want it because you think it's valuable. I want it because I, I want to sell more. And so we're locked. Arm-in-arm navigating through this, this next phase of the customer journey together.
+
+\[00:17:55\] So again, that's a long way to say that we're, we're big fans of sales. It just looks a little bit different in this new world.
+
+**Omer:** \[00:18:02\] Okay. I want to kind of try and do a little exercise with you, and, and sort of, maybe let's just sort of think through, if somebody is listening to this, they they're the CEO, the founder of a company, let's say steam reasonably well, but it's not a product-led growth business today, maybe, you know, there's, there's a reasonable sized Salesforce. The product is decent and this person is sort of thinking, listening to this conversation saying, okay, that sounds all great. And I'm really starting to understand the value of product-led growth and what that can mean to my business, but where do I start?
+
+\[00:18:47\] I mean, obviously there's, there's sort of the product itself and thinking about what you need to do there, but there's also other aspects it's about what does this mean for my people and the way I organize my teams or what kind of process or goals do I need to have in place to sort of make this work?
+
+\[00:19:04\] And obviously, you know, we call it, come up with, you know, a detailed plan in the next 15 minutes or something, but it would be great to at least sort of pick your brain and sort of talk through that a little bit. Like where, where would somebody start?
+
+**Blake:** \[00:19:19\] What I'll say first is that if you are a company that fits that profile, you just described it's not easy to go from a sales-lead motion to a product-led motion. You know, the company has been going for 10, 15 years and you, you have the customers, you have the adoption, you have a way that you build product. You have a way that you go to market to fundamentally rewire that from the ground up to be now product-led, is a lot harder than it sounds. And I think this points to one of the misconceptions that I, I often will see for existing companies who want to embrace product-led growth, which is that okay, well, all I have to do take my existing product and put a self-service sign up form in front of it. Right. And then I'll be off to the races and now I'm going to be product-led.
+
+**Omer:** \[00:19:59\] Yeah. And I'll just have a premium or a free plan as well.
+
+**Blake:** \[00:20:03\] Exactly. Yeah. And we'll just make a free tier and like, you know, now we're going to be the next Slack. No, it's a lot harder than that. And here's why, so if you take an example of say you're a finance tool and say you've been going for a while, again, as we've been saying, maybe the company was started 10 years ago, 15 years ago, because of that time period, you probably built for a primary persona of the CFO or maybe, or the VP of finance, because they're the folks who make the decisions for technology adoption for their team. And they also hold the purse strings of the budget. So it makes sense that you built for them. It makes sense that you're targeting them. Makes sense that you have sales conversations with them.
+
+\[00:20:37\] So if you're now putting a self-service sign up form in front of that, I have some bad news for you. A CFO's don't self-service products, at least not big products, like a, you know, your accounting package or something like that. They're just got bigger fish to fry. They got too many things on their plate and they're not clicking around in the Intuit marketplace for the Xero marketplace are looking on Product Hunt to figure out what they should use for their team next.
+
+\[00:20:58\] Right. Also, similarly, if you're somebody who is lower down on the finance team. So you're an individual bookkeeper or you're an accounts payable specialist. If you see this website that's oriented towards CFO language and CFO messaging and CFO features and functionality and executive dashboards and all this stuff, even if it has a self-service sign up form in front of it. It's not speaking to you, it's speaking to your boss. And so you're not going to be compelled to sign up for it because you said that's for them. That's not for me. And so in both situations, this thing that you thought was the answer of just putting a self-service sign up form in front of your existing product is going to fall flat on its face.
+
+\[00:21:36\] And so that is the challenge. Now there is still an answer. There's a way to navigate it. It doesn't mean that you're, you're sort of doomed it's you're never going to be able to embrace product like growth. I think the answer is that it just looks a little bit more like you're adopting any components.
+
+\[00:21:51\] And a great example here is HubSpot. So we all know and love HubSpot, and we all know and love their work, their calling card as well, which is inbound marketing. They kind of created the category. It kind of popularized, you know, large scale blogging and using content to generate the top of the funnel and then sending those MQL's into an SDR team and all the rest.
+
+\[00:22:12\] I mean the name of their conference, they still host to this day, it's called inbound, but in the last handful of years, HubSpot has evolved from that to become much more product-led rather than, and marketing led. And the way that that happened was not because they did a rehaul of all of their products, you know, kind of in one fell swoop, they actually did it by launching a new product and they, and, and knowing the story behind it, it was their sales product and they launched it initially as a startup within a startup.
+
+\[00:22:39\] And so there's a couple folks like Brian Balfour, Christopher O'Donnell, Mark Roberge, and a couple others that sort of basically went into a cave, still HubSpot employees, but sort of were hived off from that things HubSpot and said, go build some sales tools and build them in the way that you think we need to build them in order for this persona to adopt.
+
+\[00:22:58\] And so they built some early, very simple tools, like email tracking. I think the product was either called Signals or Sidekick. It was a self-service tool that looked a lot like a Yesware or a ToutApp, or one of those, you know, earlier AE solutions for sales reps. And they launched it as a self-service integration that you could just one click purchase and plug into your Gmail.
+
+\[00:23:18\] And so they started whether intentionally or not, they started that way and it was product led. It was self-service. And then they expanded on those features to be more sales tools, more acceleration features again with this self-service option at the front end and then that started to expand to where they now have a full-pledged CRM and a full pledged sort of sales stack that you can adopt from HubSpot, but it's still continues to be the product-led and self-service in  it's adoption motion.
+
+\[00:23:45\] And then as they saw the success of that, as the start within a startup became, you know, a real department and a real sort of, you know, mainline pillar of their business, and they also started to see the landscape change with inbound marketing and its efficacy. They started to then roll out some of these product-led principles and self-service principles into their core marketing suite as well.
+
+\[00:24:05\] So it didn't happen all in one fell swoop. It didn't all happen at once. It's been yeah, a multiyear process, but you look at HubSpot's performance just generally as a public company, but you also look at their performance and their ability to have rolled out marketing and sales and now service clouds, and to have been able to have success across those areas with so many different users, it really shows that the way in which they they've been able to successfully navigate this hard transition from marketing-led or sales-led into product-led.
+
+\[00:24:34\] So that's what I would point to is find a way to you know, create a new product or maybe create a component of your product that is available on a self-service basis. And then let it sort of slowly boil the frog of the rest of your product. And then over time you can become increasingly more and more product-led.
+
+**Omer:** \[00:24:51\] Yeah. And, and it sounds like taking that approach. It's going to be a lot easier to test with a free plan or a freemium type model. Rather than trying to rehaul your entire product that you've been, you've been selling in a very different way for, for 10 years or whatever it is.
+
+**Blake:** \[00:25:10\] Yeah, exactly. In, in that case, you know, HubSpot didn't have to make their core products. You know, they didn't have to add new pricing and packaging to their core product. They were just able to roll out this new thing and say, Hey, it's free from the beginning and we'll figure out monetization later. So exactly.
+
+**Omer:** \[00:25:23\] And you sort of touched on this a little bit earlier, but there's also a really important point here about the buyer or the user that you're targeting.
+
+\[00:25:32\] And when you were moving to a, a PLG model, you're going to be looking at somebody very different in the organization, right? So you gave the example of the finance product and it's not going to be. The CFO, it's going to be people on the ground sort of working day to day. So everything it's not just the product, but everything in terms of the way you're messaging on the, on your signup page or whatever has to be really focused on a very different customer to what the rest of your organization is thinking about.
+
+**Blake:** \[00:26:06\] Exactly. The way that I think about it is again, if we have the primary personas being an executive. Versus a primary persona as being an end user, they think about pain differently, and they think about value from a product differently. If I'm an executive, I think about the world of ROI and KPIs. Because that's what I'm gold with. That's what I'm tasked with and that's what I do as a leader. And so if I'm fundamentally thinking about it, technology purchase and allocating budget to that technology purchase, I'm thinking about what's the ROI of this going to be, and what KPIs is this going to improve? You know, it's very businessy as you would expect, but from an end user perspective, they don't really think about KPIs and ROI.
+
+\[00:26:51\] They think about their own personal experience and their own personal, I just frankly, call it annoyance. They think about the things they have to do every single day that makes them roll their eyes at their screen. And that's the opportunity in the end user era to lean into that. Right. I I'll point to an example of Calendly, which we've talked about and, and, and I'm sure you and Tope talked a little bit about this, but, you know, if you build Calendly, not as a self-service product-oriented towards individual end users, and instead in executive products, like look it's used by salespeople and it accelerates, you know, you're able to book more meetings with Calendly.
+
+\[00:27:25\] And so you could extensively see a world in which you're calling up the VP of sales as a cold call and being like, Hey, do you want to buy a scheduling link today? It's going to be great. No matter what you say to them, they're just going to say, a scheduling link? No, thank you. And they click the phone, right? Because they've got bigger, bigger fish to fry. It's really hard to show, like, prove the ROI out of the gates, you know, more efficient scheduling, but if you're going to an end user, what is the end user thing. They're not thinking about what's the ROI of this thing. What's the KPIs this is going to improve.
+
+\[00:27:53\] They think I hate scheduling emails every single time. I need to find somebody to connect with. It takes the statistics, show this, it takes six to eight emails back and forth before you find a time that works for both of you. And if you're a high volume scheduler, if you're a recruiter, Or if you're a salesperson, as I mentioned before, or maybe you're, you know, individually, you're a personal trainer, you're a therapist.
+
+\[00:28:15\] And all you do is scheduling. It's incredibly painful. It's incredibly annoying and it's incredibly repetitive and there's gotta be a better way to do it. And then you go to Calendly or you, you receive the link from somebody, you go to the website and you say, You know, schedule a meeting without all the back and forth.
+
+\[00:28:31\] And you go through that elegant experience, scheduling on Calendly and not having to do this emails. You're instantly sold. You're instantly converted again you don't know what the ROI is. You don't know what the KPIs are, but you don't care because it's removed pain and it's removed annoyance from you and now you're loyal and you're never going to live without this thing.
+
+\[00:28:50\] Right? And so thinking about if you're building for one persona over the other. You have to understand how they think about the world, how they think about their day to day work and how they think about pain, because that's what you're going to try to be alleviating with the product that you built.
+
+**Omer:** \[00:29:03\] Great. Okay. So our CEO of our finance product has figured out, there's a small feature or an aspect of the core product that they can spin off and turn into a brand new product. And that's something that they can focus on the end user rather than the CFO and that's underway. And that all looks good. The next question, I guess, is sort of more people oriented.
+
+\[00:29:34\] Yeah, we talked about marketing and the importance of product, but there's also the role of growth teams. And, and you, you had an interesting post on LinkedIn a while back where you were sort of talking about this, but so for our CEO, like how important is it to have a growth team? Can it be just done through you know, the existing marketing and product teams kind of working a little bit differently. Like how does all that fit in when, in terms of thinking about organizing people?
+
+**Blake:** \[00:30:04\] When I, when I first started hearing about growth teams, it seemed like this mystical, magical thing, you know, what exactly is a growth team. It sounds really, really cool. And all of the best companies are starting these growth teams, but. What do they do? And it was kind of mysterious to me. And the more that I dug into it, the more, yeah. Talk to growth leaders and growth managers themselves, I realized, okay, I think this is actually the way to think about this is this is just a squad or a team on your product organization on your broader product team.
+
+\[00:30:34\] And instead of trhttps://saasclub.io/wp-content/uploads/2025/01/tools-and-materials-used-for-fashion-designing-4XD3MX3.jpgional product managers and product leaders, thinking about features and functionality of what's the next thing the customer wants? What should we ship? and then what's the feature adoption rate of that. What's the seize that and the NPS. And that's what core product thinks about super important obviously, but growth product.
+
+\[00:30:54\] It's more about, instead of those shipping features and functionality, they think about accelerating people through the adoption phase. And so they're more focused on. the, the customer journey and getting people from one stage of the customer journey to the next and how can we implement an instrument, the product in order to make that customer journey, that self-service customer journey more accelerated.
+
+\[00:31:12\] Right. And so they're thinking about things like, you know, if marketing is delivering signups to a self-service funnel, then how do we take that sign up and activate them? Because just because you created an account. It doesn't mean you're actually going to do anything. So how do we make you take those first steps to, to get past the cold, start, start getting some momentum and start getting some value.
+
+\[00:31:32\] And then what's the aha moment that we're trying to get you to, to where you're you're bought in. What's that sort of North star metric that we're focused on that will sort of indicate that you are going to be a loyal user of our product and how do we remove friction and how do we make the navigation of the early stages of the journey, something that more and more people get to know North star metric more and more people get to that aha moment.
+
+\[00:31:53\] So you're thinking like a product manager, but you're saying about a different problem. And so that's kind of what I learned about growth teams and where do they sit in the organization? And it also helps to demystify it a little bit because, you know, anybody can add a new squad to their product team and focus them on new new metrics. And, it helps to make it a little bit more accessible, I think, to the average company.
+
+**Omer:** \[00:32:14\] So the way I'm hearing this, as you're saying, marketing in this sort of model is really about acquisition, getting the signups. Growth is more about activation getting to the aha and cool product team is really focused on continuing to build a great product and figuring out how people are going to use it more.
+
+**Blake:** \[00:32:40\] Exactly. Yeah. The other thing in there is we talked about signup and activation. There's also conversion in, in a truly self-service funnel. Growth teams typically own initial self-service conversion as well. And so that you get to the aha moment.
+
+\[00:32:56\] And again, back to the idea of delivering value before you request value in return. So you deliver value before you hit the paywall. So you want to get to that aha moment. And then the paywall appears, and then somebody's happily to swipe their credit card. Again, that's kind of the zone of growth as well.
+
+\[00:33:11\] And then back to the earlier part of the conversation again, sales people then come in after that, the initial conversion and they're able to help with the expansion, as the account continues to mature.
+
+**Omer:** \[00:33:23\] Got it. So going back to our all fictional CEO, it sounds like there's probably a possible sort of different ways that they could go here. Like one could be okay, they've taken a specific feature or aspect of the product. They spun that off and that's maybe now a freemium thing. Like the Sidekick example that you gave, which I think is a great one, by the way. And. Then over time, maybe they're just continuing to add more to that offering. And eventually, you know, the cool products, all those features are slowly moving into this, this new, new sort of product-led model. Could the other approach be something around the, I guess what probably happened with Sidekick, right?
+
+\[00:34:13\] Which is you're sort of working on this sort of the acquisition, the activation, you're getting them in there. But then when you talk about the conversion or upselling, then maybe that's the opportunity for the sales team to come in and maybe talk about the, the cool product.
+
+\[00:34:32\] Is that kind of a way that that could also work. And is that something that you've seen? Is there an example of that maybe out there?
+
+**Blake:** \[00:34:39\] I definitely think there's potential for that. You would just want to make sure that the component of the product or what you built that was self service, that there's sufficient connectivity to the core product itself, that you would then try to offer up through a sales conversation.
+
+\[00:34:52\] Cause if I take that HubSpot example, if you adopted their, you know, sales, acceleration tools, like Sidekick, Signal, those kinds of things. You're probably an individual AE or an SDR using the tools and, and loving the tools. And if you get a sales call from somebody at HubSpot saying, Hey, do you want to buy some marketing automation software? They're going to say, that's not my department. That's not my job, why don't you call our marketers. And so you need to make sure that you can get from here to there. And it's not sort of, you know, there's not a chasm in between, and you're not sort of trying to sell the wrong thing to the wrong person.
+
+**Omer:** \[00:35:25\] Yeah. Yeah. That's, that's a, that's a really good point. Great. So is product-led growth, something that can work. For any SaaS company in any market. I know that's kind of pretty broad, but generally, do you think that there's something out there or do you still hear a lot of pushback where people are saying, yeah, well that worked for so and so, but it wouldn't work for us because of whatever reason
+
+**Blake:** \[00:35:52\] I think that it's, it's applicable to almost all situations. And I think that I often hear that well, yeah, that doesn't apply to us. That'll never work for us. I think that that's oftentimes an excuse or a dismissal in order to not have to do something really, really difficult, but, you know, to give an example of what I see there.
+
+\[00:36:12\] You know, a lot of times people will point to, well, I work in a trhttps://saasclub.io/wp-content/uploads/2025/01/tools-and-materials-used-for-fashion-designing-4XD3MX3.jpgional industry. I don't sell to Silicon Valley startups like Slack, does I sell to manufacturing or I sell to something that's much or construction or maintenance or something that's much more of a trhttps://saasclub.io/wp-content/uploads/2025/01/tools-and-materials-used-for-fashion-designing-4XD3MX3.jpgional industry and they'll never self-serve on, they don't like emojis, like all this stuff that, you know, you could hear as a criticism, but I would push back on that and say, yeah, but end users are everywhere.
+
+\[00:36:38\] And, whether you are a desk worker at a startup or at a law firm, or if you're somebody who is a non-desk worker, you still have access to all the same tools and technologies. and in fact, if you're a non desk worker, you're, you have a smartphone like everybody else does, and you're wandering around with your smartphone constantly in your pocket.
+
+\[00:36:56\] And you're also very. Used to finding apps for things. And so you can go after end users who are non-desk workers in trhttps://saasclub.io/wp-content/uploads/2025/01/tools-and-materials-used-for-fashion-designing-4XD3MX3.jpgional industries through just a different channel, which would be a mobile app or a mobile strategy, because that's how they live and work.
+
+\[00:37:11\] You know, a great example that I could point to there is a company out of LA called Upkeep. And Upkeep serves maintenance and facilities managers very much non-desk workers and very much trhttps://saasclub.io/wp-content/uploads/2025/01/tools-and-materials-used-for-fashion-designing-4XD3MX3.jpgional mainline, not early adopters of tech, but all of these individuals are still fundamentally walking around with smartphones in their pocket. And so upkeep found a way to deliver a self-service product led growth freemium solution that's oriented towards individual technicians and facilities managers for a work order issuance. That is way better than all of the, the old school stuff. That's, you know, decades old at this point, that's tethered to, to an actual physical laptop, which again, for non-desk workers, they don't work in that environment. And so they just, they took a challenge that could be very easy to dismiss and say, well, product-led growth will never work for us.
+
+\[00:37:57\] And they thought about it from a first principles level and realized actually, It will work for us. We just have to go mobile first. and so that's a specific example to sort of, demystify or sort of unlocked this idea that it only applies to certain types of use cases or certain types of, of industries.
+
+**Omer:** \[00:38:13\] Awesome. All right. There's a lot more that I think I would love to get into with you and keeping in your brain, but we should wrap up. So we're going to move on to the lightning round and I'm going to ask you seven quickfire questions. So just ask them as quickly as you can. Ready?
+
+**Blake:** \[00:38:34\] Ready.
+
+**Omer:** \[00:38:34\] Alright. What's the best piece of business advice you've ever received?
+
+**Blake:** \[00:38:38\] Expect things to go wrong.
+
+**Omer:** \[00:38:40\] What book would you recommend to our audience and why?
+
+**Blake:** \[00:38:43\] The Everything Store, which is about Jeff Bezos and Amazon, it's the most, the world's most successful company, the world's richest person. And they've definitely done a few things, right to get there and understanding the philosophies and the mindset behind that and the decisions they make. And what's behind things you hear about, you know, like your margin is my opportunity or it's always day one. What does that actually look like inside the company? It's an awesome read and applicable to all things. All industries you can think about as a startup.
+
+**Omer:** \[00:39:10\] What's one attribute or characteristic in your mind of a successful founder?
+
+**Blake:** \[00:39:15\] So going back to my favorite success, quote, being contrarian and right, but also not being dogmatic, I think having an open mind to understand where your conclusions about a market or a conclusions about your business, your customers might be correct, but also might be wrong. And you need to be able to have a strong opinion. You're willing to be contrarian, but also get the input of others to make sure that you're not off your rocker.
+
+**Omer:** \[00:39:39\] Yeah. What's your favorite personal productivity tool?
+
+**Blake:** \[00:39:42\] So it's more of a habit, but I would just describe it as be less available specifically by turning off email. I turn off email when I'm doing other tasks so that I can't be distracted.
+
+\[00:39:53\] And then this is more, truly at a personal level. If you can turn off email on the weekends, and especially when you're on vacation, turn off email, remove it from your phone, don't open it, make vacation sacred, that'll prevent burnout. And it'll also when you're working, it'll help you get more towards deep work and in the flow state versus, you know, constantly being distracted by the next Slack message and the next email that comes through.
+
+**Omer:** \[00:40:16\] Yeah, I love that. And I was actually looking at a book yesterday. I think, I think it was called Do Nothing. And basically she said something similar where she basically said kind of an auto reply when she was out on weekends or vacation. I think it was weekend saying if you need to get ahold of me, if it's urgent, Call me.
+
+\[00:40:35\] And she was like, I did that like two years ago. No one's ever called. And it was like, okay, well probably those emails you're getting at the weekend. Aren't that important as you think they are. So it's good things. Okay.
+
+**Blake:** \[00:40:46\] Yeah. And I'll, I'll do one even better. So, yeah. I like that idea of an external response, which is call me, I say, call me or text me. I don't put my phone number there, which is also strategic, because if you're important enough to have an emergency that I care about, you will have my phone number. If you don't, you fundamentally, aren't important enough to disrupt my vacation. And so, yeah, it's, it's a little bit of a psychology hack, but again, nobody's ever texted me, like you said.
+
+**Omer:** \[00:41:11\] Yeah. I love that. What's the new, a crazy business idea. You'd love to pursue if you had the time?
+
+**Blake:** \[00:41:17\] So there's a, there's a show called American Pickers, where these guys drive around the US and find random antiques and things like that. I would love to do American pickers in Europe, just scouring all over the place and seeing what kind of interesting things you can find, you know, in back rooms and, and blow the dust off of and see what kind of finds you have, in particular, I'm a  huge, a World War II buff. and so when I've been in Europe and wandered into antique store, there's just a, you know, goodies galore to, to explore and discover.
+
+**Omer:** \[00:41:45\] Love it. And I love that show. I love Mike and Frank definitely would recommend watching that.
+
+**Blake:** \[00:41:51\] They're great.
+
+**Omer:** \[00:41:52\] What's an interesting fun fact about you that most people don't know?
+
+**Blake:** \[00:41:54\] So I'm from San Diego, California, but I hate surfing.
+
+**Omer:** \[00:42:00\] Are you the only one?
+
+**Blake:** \[00:42:01\] The water is too cold. You have to wake up too early? No, thank
+
+**Omer:** \[00:42:04\] you.
+
+\[00:42:05\] And finally, what's one of your most important passions outside of your wor?
+
+**Blake:** \[00:42:08\] So for me, it's reading, but specifically reading biographies. I love stories and I love history and biographies are the perfect combination.
+
+\[00:42:17\] And I think it also helps to really understand an individual or understand a time period versus, you know, criticisms that are of, you know, a hundred years later. So three great examples. You know, people oftentimes will refer to the robber barons and that there are these evil people, you know, Rockefeller, Vanderbilt, Carnegie, but I've read Titan about John D. Rockefeller and I read the first tycoon about Vanderbilt and Andrew Carnegie about, you know, The Eponymous Man by David Nasaw.
+
+\[00:42:44\] And all three of those. Yeah. There's some things that those guys did that, that were distasteful, but it puts it all in context and helps you understand it a lot better. And there's also quite frankly, a lot of like, really interesting business lessons learned from that as well. And so rather than just, you know, hearing people's opinions about things and people's beliefs about things like, you know, first principles, you know, for firsthand research, go to the actual source and hear the story. And, and also again, they're, they're just fascinating as well because of, the historical element and the personal story and narrative element of as well.
+
+**Omer:** \[00:43:13\] Love it. And you sneaked in some additional book recommendations there and they're all great ones. Awesome. Great, Blake, thank you so much for joining me.
+
+\[00:43:22\] It's been great. I'm really glad we've had the chance to sit down and have this conversation. If people want to find out more about OpenView, they can go to [OpenViewpartners.com](https://openviewpartners.com/). And I think it's also [ovi.vc](http://ovi.vc/), right?
+
+**Blake:** \[00:43:35\] That's our website. Yep.
+
+**Omer:** \[00:43:36\] Yeah. I'd love that. Love that, important to me.
+
+**Blake:** \[00:43:39\] Yeah. And then the final plug that'll give is a, so I post a lot of stuff about product-led growth on LinkedIn. And so you acan also check me out on LinkedIn and follow me there or add me.
+
+**Omer:** \[00:43:47\] Great. We'll include a link to your LinkedIn profile as well in the show notes. So people can grab that and follow you and yeah. And if they want to get in touch with you, I think I know where you're going to say, but what's the best way for people to do that.
+
+**Blake:** \[00:43:59\] Yeah, LinkedIn.
+
+**Omer:** \[00:44:03\] Awesome. Thanks for asking me to pleasure and, wish you all the best.
+
+**Blake:** \[00:44:07\] Thank you so much. It was great to be on.
+
+**Omer:** \[00:44:09\] Cheers.

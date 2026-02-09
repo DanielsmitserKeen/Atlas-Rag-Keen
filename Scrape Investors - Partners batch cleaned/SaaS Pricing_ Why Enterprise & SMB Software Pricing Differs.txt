@@ -1,0 +1,266 @@
+# Why Enterprise & SMB Software Pricing Differs
+
+SaaS pricing isn’t one-size-fits-all. What works for a $100/month self-serve plan can completely break down when selling a $100,000 enterprise deal, and the other way around. Enterprise and SMB customers have different budgets, buying habits, feature needs, and ways of negotiating. The best SaaS companies adjust their pricing to fit these differences instead of using a generic approach.
+
+In this post, we’ll break down the key differences between Enterprise and SMB software pricing and show how a simple 5-step framework can help make pricing work better for both.
+
+## Enterprise vs. SMB Pricing: Key Differences
+
+Understanding the key differences between enterprise and SMB pricing is the first step to crafting a winning pricing strategy. Here are the main areas where these segments diverge:
+
+### 1\. Budget Size and Perceived Value
+
+Enterprise buyers have bigger budgets and higher ROI expectations, while SMBs are more price-sensitive. An enterprise customer might view a six-figure SaaS purchase as a small cost if it delivers significant business value, whereas an SMB might scrutinize even a few hundred dollars a month. 
+
+For example, enterprise-focused startups often need to raise more capital upfront and build a more robust product to justify higher price points, while SMB-focused [startups can start charging sooner](https://tomtunguz.com/optimal-path-smb-mid-ent/#:~:text=On%20the%20other%20hand%2C%20enterprise,sophisticated%20and%20expensive%20account%20executives) with a simpler offering. Enterprise customers typically demand a clear ROI and may require customized value assessments before signing off, whereas SMBs look for cost-effective solutions and will quickly switch if a cheaper alternative offers “good enough” value. 
+
+A classic case is Slack’s early dominance among SMBs with its affordable, user-friendly chat app, which later came under pressure when Microsoft Teams entered the market bundled into Office 365 at little to no extra cost. Many price-sensitive SMBs saw Teams as a better value (chat + video + storage in one) and switched to save money. This highlights how _perceived value for price_ drives SMB decisions. Enterprises, on the other hand, might stick with a higher-priced tool if it’s the market standard or provides advanced capabilities – their larger budget comes with higher expectations that the product will drive substantial outcomes.
+
+### 2\. Buying Process and Sales Cycle
+
+Enterprise sales cycles are much longer and more complex than SMB sales cycles. Selling to an enterprise means involving multiple stakeholders (end-users, managers, procurement, IT, legal), clearing higher approval hurdles, and undergoing lengthy security and compliance reviews. This extends the timeline of deals. In 2023, startups selling to enterprises saw their sales cycles increase by [36%](https://tomtunguz.com/sales_cycle_changes/#:~:text=But%20the%20latency%20isn%E2%80%99t%20evenly,0005) as you can see in the image below, 2x the rate of those focused on SMB or mid-market customers​. 
+
+![](https://cdn.prod.website-files.com/6758692cf2b9e8ca9eaec39a/67d94c385e96097a8e968ad9_AD_4nXcp7BkAfT2acGLd1HZcPP0ahZnsd80DWoGRHo7H6zaCA-3aEm_tBI-liccq5OYwtsyYQLvZFPLUNEexu5CuNP-jRZ3AcRdn7o2fvfv3j28bwnS4E3Tgf69ptvXofmIt8EE_TYmeZw.png)
+
+Credits: https://tomtunguz.com/sales\_cycle\_changes
+
+Enterprise deals often require pilots or proof-of-concepts, security reviews, and negotiation rounds, extending sales cycles to 6+ months. In contrast, SMB purchases are faster and more transactional—sometimes just a credit card swipe after a free trial.
+
+As [Tomasz Tunguz points out,](https://tomtunguz.com/optimal-path-smb-mid-ent/#:~:text=Startups%20that%20initially%20target%20small,in%20a%20product%20development%20lifecycle) SMBs start paying much earlier in the product lifecycle, whereas enterprise buyers require more product maturity before committing. This affects sales reps' approach:
+
+*   [SMB reps close deals in a couple of calls](https://www.saastr.com/why-smb-sales-and-enterprise-sales-have-nothing-in-common/#:~:text=SMB%20sales%20reps,enough%20time%20otherwise) and drop hard-to-close deals.
+*   Enterprise reps spend weeks coordinating demos and managing multiple stakeholders.
+
+These process differences mean pricing models must align with sales strategy:
+
+*   SMB: high-volume, low-touch pricing (e.g., freemium or monthly plans to drive quick adoption).
+*   Enterprise: pricing that accommodates long evaluations and annual procurement cycles.
+
+### 3\. Feature Requirements and Pricing Expectations
+
+Enterprises demand advanced features (and will pay for them), while SMBs want core features at a fair price. This often translates into different product tiers:
+
+*   SMB customers expect a simple, out-of-the-box product and don’t want to pay for features they won’t use.
+*   Enterprise customers need advanced security, compliance, reporting, integrations, and dedicated support and expect these features to be included in higher-priced tiers.
+
+SaaS companies typically structure tiered pricing (e.g., Basic, Pro, Enterprise) to align with customer size. As [Jason Lemkin](https://www.saastr.com/why-are-pricing-tiers-so-effective-2/#:~:text=3,segment%20into%20the%20right%20funnel) says that having clearly tiered editions helps prospects self-select: when a Fortune 500 see a plan named “Enterprise,” they immediately take it as the right (higher-priced) version for them.​. Meanwhile, a 10-person startup will gravitate to the lower-priced tier that covers their needs. In practice, the feature bundles in each tier should map to the segment’s needs. 
+
+A best practice is to design packages with a 1-1 correspondence to segments – for example, one bundle tailored to SMB needs, another for mid-market, and a richer bundle for enterprise. Importantly, each segment should feel they’re getting value for the price.
+
+### 4\. Discounting and Negotiation Tactics
+
+Enterprise pricing almost always involves negotiation, whereas SMB pricing is typically fixed and transparent.
+
+*   SMBs generally pay the list price shown on a website. SaaS companies publish pricing to enable a high-velocity, no-haggle sales process.
+*   Enterprises expect to negotiate. They ask for volume discounts, custom terms, or multi-year deals.
+
+If your SaaS has an Enterprise edition, odds are it says “Contact Us” instead of showing a price; this allows flexibility in quoting different prices based on the client's scope and willingness to pay.
+
+For example, a SaaS vendor might structure pricing as:
+
+*   Discounts for high seat counts 
+*   Lower rates for multi-year commitments
+
+SMB pricing is simpler, they might get a small discount for annual billing (e.g., “20% off if you pay yearly” or limited-time coupons). A small business isn’t going to negotiate a custom contract for a $50/month tool – it’s not worth their time or yours. 
+
+One example comes from SaaStr’s own experience as a customer.
+
+Despite having only 9 employees, SaaStr found that an enterprise-focused marketing software was actually [cheaper ($15k/year)](https://www.saastr.com/when-the-enterprise-vendor-is-cheaper-than-the-smb-vendor/#:~:text=The%20price%3F%20%C2%A05x%20more%20for,today%20for%20The%20Enterprise%20Vendor) than a leading SMB-focused alternative ($50k+).
+
+Why? 
+
+*   The enterprise vendor's pricing scaled with seats (fewer seats = lower cost).
+*   The SMB vendor's pricing scaled with usage (high volume = high cost).
+
+The takeaway: know your pricing metrics and tier thresholds. Be mindful of how discounts can make your offering wildly expensive or a bargain relative to others. A strong enterprise pricing strategy should provide sales teams with clear discount ranges, deal desk approvals, and logical upsell pathways, while SMB pricing must focus on efficiency, low-touch sales, and clear, upfront pricing to reduce friction.
+
+### 5\. Customer Lifetime and Churn Dynamics
+
+Enterprise customers typically stick around longer (higher lifetime value), while SMB customers churn more frequently – impacting how you price and monetize each. Large enterprises usually make a big bet when they choose a vendor, and they integrate the software deeply into their operations. This leads to higher retention and opportunities for expansion (upselling more seats or additional modules over time). Many enterprise SaaS companies boast net retention rates (NRR) of [120-140%](https://x.com/jasonlk/status/1514255343999590403?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1514255343999590403%7Ctwgr%5Ec546b31ae8bea452359fbfe29a9fa631c73f3535%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fwww.saastr.com%2Fwhy-smb-sales-and-enterprise-sales-have-nothing-in-common%2F), meaning the average enterprise customer grows in spend each year​. 
+
+![](https://cdn.prod.website-files.com/6758692cf2b9e8ca9eaec39a/67d94c379b5fba35ca13728f_AD_4nXew3wgK11N5HDMnABxxwOjtHOsxjiPt6wLiKjxOK68k16xjfRWSabKEpvUP7jkgT5O6wKU9GepKxSgJHf5WpV_-d3_I1O1y-Y7x_hzSnhRziRD--LoiRD4RHL_YhP2JeRJgpjwByA.png)
+
+This can mask inefficiencies because enterprise vendors can “coast” a bit on high NRR even if their sales & marketing is less efficient​– the upsells and long retention cover a lot of sins. 
+
+SMB SaaS faces higher churn, so pricing must capture value early since many customers won’t stay long-term.
+
+An [OpenView Partners](https://openviewpartners.com/2023-saas-benchmarks-report/) report says that metrics for predominantly SMB-serving companies tend to lag given the “higher-churn nature of SMBs”​. This affects pricing in a few ways. 
+
+*   SMBs require a shorter payback period. Since SMB customers churn faster, companies must recover customer acquisition costs (CAC) quickly through upfront pricing and immediate value delivery.
+*   Enterprise SaaS can afford higher CAC because the lifetime value (LTV) is significantly larger.
+*   Price sensitivity is higher in SMBs. Even a small price increase can drive churn, whereas enterprises tolerate price hikes if the product is mission-critical.
+
+We saw this with Slack: when Microsoft Teams offered a roughly similar feature set essentially for free within Office 365. Many small businesses felt Slack’s standalone price didn’t hold up and churned for the cheaper bundle. Enterprise customers stayed because Slack was already deeply integrated into their workflows.
+
+Savvy SaaS firms sometimes pre-empt churn in price-sensitive segments by offering proactive discounts or downgrades to at-risk customers. 
+
+## Applying the 5-Step Pricing Transformation Framework
+
+To systematically tackle pricing for different segments, it helps to follow a proven framework. One such approach is the 5-Step Pricing Transformation Framework, which we use at Monetizely to guide SaaS companies through pricing strategy development. This framework covers the critical stages of pricing: Segmentation, Positioning & Packaging, Pricing Metric, Rate Setting, and Pricing Operations. Let’s walk through each step, with an eye on how tactics may differ for SMB vs. Enterprise.
+
+### Step 1: Segmentation – _Identify and define your key customer segments_
+
+Segmentation is the foundation of good pricing. You need to know _who_ you’re pricing for – often dividing customers by size (SMB, mid-market, enterprise) or other factors like industry or use case. For most SaaS businesses, company size correlates with willingness to pay and feature needs, so it’s a natural segmentation. By explicitly defining an “SMB segment” and an “Enterprise segment,” you can tailor the rest of your pricing strategy to each. 
+
+For example, you might segment by:
+
+*   **Employee count** (e.g., SMB <100 employees, Mid-market 100-1000, Enterprise 1000+).
+*   **Revenue** (e.g., SMB = <$10M ARR, Mid-market = $10M-$100M, Enterprise = $100M+).
+
+Within each segment, gather data on their typical budgets and pain points. The goal is to ensure your pricing and packaging resonate with each segment’s reality. If you find you have distinctly different personas or product use cases, that’s a sign you may even need separate offerings. 
+
+By segmenting, [you can design targeted strategies](https://www.saastr.com/why-are-pricing-tiers-so-effective-2/#:~:text=3,segment%20into%20the%20right%20funnel): e.g. a low-priced entry package for SMB to drive volume, and a high-value enterprise solution for big fish. Done right, a small customer should naturally gravitate to your SMB package, and a large customer sees the Enterprise package and says “that’s for me”​. Segmentation is the step where you make those decisions intentionally.
+
+### Step 2: Positioning & Packaging – _Design packaging and messaging that positions each offer for its target segment_
+
+Once you know your segments, decide how to position your product for each and how to bundle features (packaging) accordingly. Positioning means understanding the value proposition for SMB vs Enterprise and articulating it in your pricing page and sales pitch. 
+
+For SMBs → Positioning should emphasize simplicity and affordability:
+
+*   Everything you need to get started, at a price you can afford.
+*   Transparent pricing, minimal complexity, and core features without unnecessary add-ons.
+*   Usage limits that align with SMB needs (e.g., capped users, projects, or integrations).
+
+For Enterprises → Positioning should focus on scalability, security, and ROI:
+
+*   A robust solution tailored for complex needs, with premium support and security.
+*   Advanced features, compliance tools, custom integrations, and modular add-ons.
+*   Flexible pricing with “Contact Us” models for custom deals.
+
+For SMBs, an all-in-one bundle is usually better, while enterprises may prefer modular pricing, where they pick and pay only for the features they need. 
+
+For example, a CRM vendor might include basic sales and marketing features in all plans, but offer an add-on for advanced analytics that mostly enterprise customers buy. One caution in packaging: avoid creating “shelfware” – features in a bundle that the segment doesn’t actually use​. 
+
+Iterate on packaging until each segment’s bundle is a tight fit for what they value. Positioning-wise, ensure your marketing speaks to each audience. It can be effective to have separate webpages or sections: one highlighting ease-of-use and affordability for SMB, another touting scalability and ROI for enterprise. In sum, align your packaging with segments and clearly position each tier so customers self-identify with the right option.
+
+### Step 3: Pricing Metric (Value Metric) – _Choose the right pricing model or metric that scales with customer value_
+
+Your pricing metric determines how customers are charged, whether it’s per user, per 1,000 transactions, per GB stored, or another model. Choosing the right metric ensures your pricing scales fairly for both SMB and Enterprise.
+
+*   SMBs prefer simple, predictable models like per-user or per-seat pricing. These models are easy to understand and help SMBs control costs.
+*   Enterprises need more flexible pricing. A per-user model may not work if they have thousands of occasional users. Instead, usage-based pricing (e.g., per API call, per tracked customer, or per sales pipeline) may be more effective.
+
+A good pricing metric should scale as customers grow:
+
+*   SMBs start small at an affordable rate and expand usage over time.
+*   Enterprises pay based on the actual value they receive, avoiding overpaying for unused licenses.
+
+[Mixpanel](https://mixpanel.com/blog/pricing-mtu-model), a leading product analytics platform, faced significant challenges with its initial pricing model. The company originally charged customers based on the number of events tracked, every user interaction recorded within their platform. This approach worked well in the early days, particularly for SMBs, as their event volumes were relatively predictable. However, as Mixpanel expanded into enterprise markets, the limitations of per-event pricing became evident.
+
+Several key issues emerged:
+
+1.  **Unpredictable, escalating costs for enterprise customers** – Large organizations generating millions of events saw their bills rise exponentially, making budgeting difficult and discouraging long-term commitments.
+2.  **Misalignment between pricing and perceived value** – Customers struggled to see how an increase in tracked events necessarily correlated with business value, particularly when some interactions carried minimal significance.
+3.  **Friction during plan renewals** – Rapid increases in event volume frequently forced customers into higher pricing tiers, leading to frustration, pricing objections, and ultimately, churn.
+
+To address these challenges, Mixpanel transitioned to a Monthly Tracked Users (MTU) pricing model in 2019. Instead of charging based on event volume, the company shifted to a model where customers paid according to the number of unique users they tracked each month. This change better aligned Mixpanel’s pricing with customer-perceived value and provided a more predictable cost structure.
+
+Mixpanel also restructured its product offerings to better align with different customer needs. The company introduced segmented packages, allowing customers to select features relevant to their use case:
+
+1.  **Data Pipelines Package** – Designed for engineering teams to manage data flows efficiently.
+2.  **Messaging Package** – Targeted at marketing teams focused on user engagement.
+3.  **Groups Package** – Built for B2B companies that analyze accounts rather than individual users.
+
+By making both pricing and packaging more customer-centric, Mixpanel ensured that companies only paid for what they needed, improving adoption across different business segments.
+
+In any case, ensure your pricing metric doesn’t unintentionally favor one segment to the detriment of another. If you find that your SMB customers are hitting a wall (like the [Algolia](https://www.saastr.com/when-the-enterprise-vendor-is-cheaper-than-the-smb-vendor/#:~:text=I%20was%20the%20first%20U,with%20CEO%20Bernadette%20Nixon%20here) example where certain usage tier jumps caused small customers to stop using the service​), you need to adjust. The right metric will allow a smooth ramp from small to big accounts, capturing value at each step without “sticker shock” jumps.
+
+### Step 4: Rate Setting (Pricing Levels) – _Determine the price points for each package or metric unit, using data to find the sweet spot for each segment_
+
+Once segmentation, packaging, and metrics are in place, you still need to set the right price points.
+
+*   For SMB, price point is crucial – it has to fit their limited budget and perceived value. 
+*   For enterprise, the price will be higher, but it must still feel justified relative to ROI and alternatives. 
+
+The framework recommends using a combination of methods to inform rate setting: market research, willingness-to-pay analysis, and testing. 
+
+For SMB pricing, you might conduct surveys or look at competitors aimed at small businesses to see what the going rates are. Tools like Van Westendorp price sensitivity analysis or simple A/B testing on your website can gauge what SMB customers find “too expensive” vs “good value.” Keep in mind SMBs are often extremely price-sensitive – a difference of $10/month could make or break a deal if a competitor offers a similar product. 
+
+Enterprises, by contrast, often expect to pay in the tens or hundreds of thousands; here, competitive benchmarking and value-based pricing are key. If enterprise customers typically spend, say, $200K/year on solutions in your category, pricing your top tier at $50K might actually _undersell_ your value (and make your product seem lightweight). 
+
+On the flip side, if you’re pricing way above the pack, be ready to prove your ROI superiority. 
+
+One effective approach is to anchor enterprise pricing to value metrics – e.g. “Our software typically delivers $1M in savings, so a price of $200K yields a 5x ROI, which is in line with industry benchmarks.” Enterprise buyers respond to that logic, whereas an SMB might respond more to “this plan is only $99/month, which fits your 2-3% of revenue IT budget.” 
+
+If you look at this [HubSpot](https://www.hubspot.com/pricing/marketing/enterprise?currencyCode=USD) example, when they introduced an enterprise tier on top of their SMB marketing software, they had to justify a big jump in price. They did this by adding advanced features and demonstrating that a mature marketing team at a large company would extract significantly more value. More contacts and more automation meant more leads and revenue, making the enterprise tier’s price up to 4-5x higher than the SMB tier.
+
+![](https://cdn.prod.website-files.com/6758692cf2b9e8ca9eaec39a/67d94c38bc7271834c4f4568_AD_4nXeQ_iPl5CCMaHVa1cgq5QBhhQa_wDE6c9hwj8vJ1mHbRskT6ktqSNuEfBHdIC2j89N5v9MozqoFB8QqZ9laD_h4FfjyLbHlhQhYSOtvUgEYEOAJlN7ugau1-vLzLzOcrttlmYwffA.png)
+
+Discounting strategy also comes into play in rate setting. 
+
+*   For SMB, typically the pricing is no-haggle; you might have standard discounts for annual prepayment (often ~16-20% off, effectively giving 2 months free) to encourage commitment. 
+*   For enterprise, as noted, you’ll set list prices but assume negotiations. It’s wise to bake in a margin for discount – e.g. set list price 20% above your target so that even after negotiating down, you hit your desired number. 
+
+### Step 5: Pricing Operations – _Implement the processes, tools, and policies to execute your pricing effectively for each segment_
+
+The final step in the framework is all about operationalizing your pricing strategy. It’s one thing to have great packages and prices on paper; it’s another to roll them out smoothly across your website, self-service checkout, sales team quoting, billing systems, etc. Here, the needs of SMB vs enterprise can diverge, so you may need dual approaches. But the foundation of operationalization is:
+
+*   A clean pricing page on your website with clear comparison of plans
+*   An easy sign-up or purchase flow (credit card payments, free trial setup)
+*   Possibly in-app upgrade prompts
+
+Roughly three-quarters of SaaS companies list prices on their site​, and this is largely to facilitate easier selling to SMBs who demand transparency. If your product is product-led or self-serve, invest in making that experience frictionless – the pricing should be clearly communicated in-app and out. 
+
+Also, set up analytics to track conversion rates at each price point, so you can see if, say, a $19 tier vastly outsells a $29 tier, indicating a potential optimization. 
+
+On the enterprise side, pricing operations is about equipping your sales org to handle complex deals without chaos. This often means establishing a Deal Desk function or at least defined approval workflows for non-standard deals. A Deal Desk is a team or person that helps structure and approve custom deals – they ensure discounts are within policy, profit margins are maintained, and any special terms are accounted for. You’ll likely need tools like a CPQ (Configure Price Quote) system when you reach a certain scale of enterprise business. If you move upmarket to value-based selling, a flexible CPQ or pricing calculator becomes a must – without it, reps struggle to manage the complexity and it can slow down deals. 
+
+For example, when packaging gets more tailored (say you allow swapping modules in/out for enterprise), a CPQ tool can enforce the rules (e.g. if module X is added, price increases by Y, and discount cannot exceed Z%). 
+
+In early stages, a spreadsheet might suffice, but eventually automation is needed to prevent errors. 
+
+Pricing operations also covers things like discount governance – setting those guardrails we discussed. Perhaps anything beyond a 20% discount or longer than 2-year term requires VP approval. These rules keep deals profitable and consistent. 
+
+Another operational aspect is communication: train your sales (or success) team on the value of each package and how to sell against objections. If SMB customers often ask “why no monthly plan for the higher tier?”, your team should know the answer and perhaps have flexibility (maybe there’s a quiet option of monthly on higher tiers at a slight markup). If enterprise buyers push back on a particular fee, the team should know how to defend it or trade it for something else. 
+
+Internally, make sure your tracking systems (CRM, billing) can segment customers by SMB vs Enterprise and track the different structures (e.g. invoice vs credit card, different renewal processes, etc.). 
+
+Finally, don’t forget to regularly review and iterate as discussed earlier. Use feedback from the field: if your sales reps for enterprise are constantly requesting exceptions to your packages, maybe the packages need refinement. If your support team reports that SMB customers are confused about usage limits, maybe the messaging or the limits need tweaking. A continuous improvement mindset in pricing operations ensures you stay aligned with the market. 
+
+As [Jason Lemkin says](https://www.saastr.com/when-the-enterprise-vendor-is-cheaper-than-the-smb-vendor/#:~:text=If%20nothing%20else%2C%20it%E2%80%99s%20worth%20several%20times%20a%20year%20benchmarking%20your%20pricing%20vs%20both%20the%20competition%20and%20adjacent%20apps%20for%20each%20category%20of%20customer.%20Not%20just%20overall.), _"If nothing else, make it a habit to benchmark your pricing multiple times a year not just against direct competitors but also adjacent apps tailored to each customer segment, not just overall."_ 
+
+## Practical Recommendations for SaaS Companies to Capture Value in Both Segments
+
+Bringing it all together, here are actionable recommendations to tailor your pricing and maximize value from both SMB and Enterprise customers:
+
+1.  **Implement Tiered Pricing with Segment-Specific Offers**
+
+Nearly all [successful SaaS firms use tiered pricing](https://www.saastr.com/why-are-pricing-tiers-so-effective-2/#:~:text=3,segment%20into%20the%20right%20funnel) to cover different sizes of customers. Offer a low-cost, entry-level package for SMBs and a higher-end package (or customizable solution) for enterprises​. This allows each segment to opt into the value (and price) that fits them best. Make sure the _value step-up_ between tiers is clear – e.g. small teams get essentials, larger teams get advanced capabilities and support.
+
+2.  **Align Your Value Metric to Scale with Customers**
+
+Choose a pricing model that lets small customers start small, and lets larger customers naturally pay more as they use more. This could be per user, per feature tier, or usage-based – whatever best reflects how different customers derive value. 
+
+For example, usage-based pricing can enable a smooth land-and-expand: new customers start cheap and pay more over time as their usage grows. Pick a metric that feels fair to both ends of your market.
+
+3.  **Tailor the Sales Motion to the Segment**
+
+An SMB pricing strategy should enable rapid, low-touch sales – think free trials, credit card purchasing, monthly plans, and an inside sales or self-serve funnel. Optimize your website and product for quick conversion. In contrast, an enterprise pricing strategy should complement a consultative sales approach – white-glove onboarding, ROI calculators, and the ability to negotiate on things like multi-year commitments or custom features. 
+
+Some companies even bifurcate their approach: for example, ZoomInfo, known for enterprise data sales, introduced a product-led motion for SMBs so they can sign up for a trial and upgrade without ever talking to sales, while maintaining a traditional enterprise sales force for bigger deals​. Having dual funnels ensures you’re not leaving either segment untapped.
+
+4.  **Establish Discount Policies and Value-Based Negotiation**
+
+Don’t leave enterprise sales reps to reinvent the wheel on each deal. Set clear discount bands (e.g. volume or multi-year discounts of [10-20%](https://www.saastr.com/how-big-a-discount-should-i-give-for-multi-year-deals/#:~:text=The%20bottom%20line%20is%20most,year%20contracts) are standard​) and empower a Deal Desk to approve anything outside the norm. Train reps to sell on value, not price – for instance, if a large customer pushes back, maybe offer a concession like additional services or an extra feature module instead of just slashing price. 
+
+With SMBs, you generally won’t negotiate on a per-customer basis, but you might run promotions (e.g. limited-time discount for new signups) or have a referral discount program. Ensure any discounting tactic is aligned with your overall strategy (e.g. use discounts to drive desired behavior like longer commitments or larger bundle purchases, not as random price cuts).
+
+5.  **Leverage Real-World Data for Continuous Improvement**
+
+Monitor how each segment responds to your pricing and adjust accordingly. Track metrics: CAC payback, conversion rate, churn, expansion revenue, support load, etc., split by segment. If data shows your SMB tier has high churn, investigate if price is a factor or if features are mismatched. If enterprise win rates are low, perhaps your pricing is perceived too high or packaging too rigid. 
+
+[Benchmark against the market regularly](https://www.saastr.com/when-the-enterprise-vendor-is-cheaper-than-the-smb-vendor/#:~:text=If%20nothing%20else%2C%20it%E2%80%99s%20worth,Not%20just%20overall) – compare your pricing to competitors for each segment and run scenario analyses​. You might discover mispricing, like a gap where a mid-market plan is needed or an add-on that could drive more revenue. 
+
+6.  **Don’t Neglect One Segment for the Other**
+
+It’s easy to get enamored with enterprise deals (big ARR) and forget the volume and vitality of SMB customers, or vice versa. Be deliberate in serving both if both are part of your market. This could mean separate product plans, separate teams, even separate branding in some cases. 
+
+For example, HubSpot managed to serve tiny startups with free and $50/month tools, all the way up to large enterprises with $50k+ annual contracts, by clearly delineating their packages and investing in both a self-service growth engine and an enterprise sales team. If you focus only on high-end features and pricing, you risk leaving the massive SMB market to competitors​. On the flip side, if you stick with only an SMB model, you might be under-serving (and under-charging) larger customers who would pay far more for additional functionality and service. 
+
+By following these recommendations, SaaS companies can create a pricing structure that hits the sweet spot for both small business customers and large enterprises – capturing maximum value from each.
+
+## Conclusion
+
+The gap between SMB and Enterprise pricing is huge, but with the right framework and approach, you can bridge it successfully. By understanding the unique needs and behaviors of each segment – and applying the 5-step Pricing Transformation Framework of segmentation, tailored packaging, smart value metrics, data-driven price setting, and strong operational execution – you position your SaaS business to win across the board. The reward is a pricing strategy that not only boosts revenue and growth, but also strengthens customer satisfaction (each client feels they’re getting value at a price that makes sense for them) and competitive advantage in the market.
+
+If you’re looking at your own pricing now and wondering how to implement these ideas – or if you suspect there’s untapped revenue in your SMB or Enterprise segments – now is the time to act. [Monetizely](https://www.getmonetizely.com/) specializes in helping SaaS companies optimize their pricing strategy using the exact principles outlined above. We’ve helped high-growth startups and established software firms alike find the right balance between simplicity and sophistication in pricing, and refine their models to drive sustainable growth. Don’t leave your pricing to guesswork. [Book a consultation with Monetizely today](https://www.getmonetizely.com/contact), and let us help you apply this framework to your business.

@@ -1,0 +1,553 @@
+# A Founder's Guide to Go-to-Market Strategy
+
+Your product is built. Now how do you get it into customers’ hands? Go-to-market strategy determines whether your startup achieves hockey-stick growth or struggles to gain traction. This guide synthesizes insights from hundreds of successful GTM motions.
+
+## Table of Contents
+
+1.  [GTM Fundamentals](https://tomtunguz.com/go-to-market-guide/#fundamentals)
+2.  [Sales Model Selection](https://tomtunguz.com/go-to-market-guide/#sales-model)
+3.  [Channel Strategy](https://tomtunguz.com/go-to-market-guide/#channels)
+4.  [Customer Acquisition](https://tomtunguz.com/go-to-market-guide/#acquisition)
+5.  [Positioning & Messaging](https://tomtunguz.com/go-to-market-guide/#positioning)
+6.  [Sales Team Structure](https://tomtunguz.com/go-to-market-guide/#sales-structure)
+7.  [Marketing Strategy](https://tomtunguz.com/go-to-market-guide/#marketing)
+8.  [Scaling Revenue Operations](https://tomtunguz.com/go-to-market-guide/#revops)
+
+## GTM Fundamentals
+
+### What is Go-to-Market Strategy?
+
+GTM strategy defines how you acquire customers & generate revenue :
+
+**Core components**:
+
+*   **Target customer** : Who are you selling to? (ICP definition)
+*   **Value proposition** : Why should they buy from you?
+*   **Sales model** : How do you sell? (Self-service, inside sales, field sales)
+*   **Channel strategy** : Where do you find customers?
+*   **Pricing & packaging** : How much & how do you charge?
+
+### GTM Model Selection Matrix
+
+Choose based on ACV (Annual Contract Value) & customer segment :
+
+| ACV Range | Customer Type | GTM Motion | Sales Cycle |
+| --- | --- | --- | --- |
+| <$5K | SMB | Product-led, self-service | Days to weeks |
+| $5K-$50K | Mid-market | Inside sales | 1-3 months |
+| $50K-$250K | Enterprise | Field sales | 3-6 months |
+| \>$250K | Strategic | Field sales + partnerships | 6-12+ months |
+
+_Most successful companies use multiple GTM motions for different customer segments_
+
+### The Three GTM Motions
+
+**Product-Led Growth (PLG)**
+
+*   Users adopt product organically
+*   Freemium or free trial model
+*   Self-service onboarding
+*   Viral expansion within accounts
+*   Examples : Slack, Zoom, Notion, Figma
+
+**Sales-Led Growth (SLG)**
+
+*   Outbound prospecting drives pipeline
+*   Sales reps close deals
+*   Custom demos & proposals
+*   Longer sales cycles
+*   Examples : Salesforce, Workday, ServiceNow
+
+**Hybrid (PLG + SLG)**
+
+*   Product drives initial adoption
+*   Sales team expands & converts
+*   Best of both worlds
+*   Examples : Atlassian, Datadog, MongoDB
+
+### PLG vs SLG : Detailed Comparison
+
+| Factor | Product-Led Growth (PLG) | Sales-Led Growth (SLG) |
+| --- | --- | --- |
+| **Ideal ACV** | <$5K annually | \>$50K annually |
+| **Time to Value** | Minutes to hours | Weeks to months |
+| **Buying Process** | Individual or small team decision | Committee, procurement involved |
+| **User Adoption** | Viral, bottom-up | Top-down, executive-sponsored |
+| **Sales Cycle** | Days to weeks | Months to quarters |
+| **Customer Education** | Self-service documentation, product tours | Custom demos, implementation support |
+| **Free Trial/Freemium** | Essential for acquisition | Nice-to-have, often not offered |
+| **Sales Team Size** | Minimal (conversion & expansion focused) | Large (hunters & farmers) |
+| **CAC** | Low ($100-$1K) | High ($10K-$100K+) |
+| **Margins** | High (70-90%) | Lower (60-75% due to sales costs) |
+| **Onboarding** | Automated, self-service | White-glove, consultative |
+| **Product Complexity** | Simple, intuitive | Complex, requires training |
+| **Ideal For** | Developers, small teams, SMB | Enterprise, regulated industries, custom needs |
+
+_Most successful companies start with one motion & layer in the other as they scale_
+
+## Sales Model Selection
+
+### Self-Service / Product-Led
+
+**When it works**:
+
+*   Low ACV (<$5K annually)
+*   Simple value proposition
+*   Fast time to value
+*   Individual or small team buyers
+
+**Requirements**:
+
+*   Intuitive product onboarding
+*   Clear pricing on website
+*   Automated billing & provisioning
+*   Product analytics for conversion optimization
+
+**Economics**:
+
+*   High volume, low touch
+*   CAC : $100-$500 per customer
+*   Payback period : 3-6 months
+*   Sales efficiency : Measured by conversion rates, not quota
+
+### Inside Sales
+
+**When it works**:
+
+*   Mid-range ACV ($5K-$50K)
+*   Some product complexity
+*   Multiple stakeholders
+*   Need for consultative selling
+
+**Team structure**:
+
+*   SDRs (Sales Development Reps) : Qualify leads
+*   AEs (Account Executives) : Run demos, close deals
+*   Ratio : 2-3 SDRs per AE
+
+**Economics**:
+
+*   AE quota : $500K-$1M annually
+*   CAC : $5K-$15K per customer
+*   Payback period : 6-12 months
+*   Sales efficiency : Measured by quota attainment
+
+### Field Sales
+
+**When it works**:
+
+*   High ACV (>$50K)
+*   Complex sales process
+*   Multiple decision-makers
+*   Custom implementation
+
+**Team structure**:
+
+*   Sales Engineers (SEs) : Technical demos & POCs
+*   Account Executives : Relationship & deal management
+*   Ratio : 1 SE per 2-3 AEs
+
+**Economics**:
+
+*   AE quota : $1M-$3M annually
+*   CAC : $25K-$100K+ per customer
+*   Payback period : 12-24 months
+*   Sales efficiency : Win rate & deal size
+
+## Channel Strategy
+
+### Direct vs Indirect Channels
+
+**Direct sales** (your team sells):
+
+*   Pros : Control, customer relationships, margin
+*   Cons : Slow to scale, high fixed costs
+
+**Indirect sales** (partners sell):
+
+*   Pros : Faster market coverage, local expertise
+*   Cons : Less control, margin sharing, enablement overhead
+
+### Channel Strategy Comparison
+
+| Factor | Direct Sales | Indirect/Partner Sales | Hybrid Approach |
+| --- | --- | --- | --- |
+| **Control** | Complete control over customer experience | Limited, depends on partner execution | Selective control (strategic accounts direct) |
+| **Speed to Market** | Slower (need to hire & train) | Faster (leverage existing partner networks) | Moderate (build core direct, scale with partners) |
+| **Geographic Reach** | Limited by team size | Broad (partners have local presence) | Best of both (direct in core markets) |
+| **Margin** | Full margin (70-80%) | Reduced (share 20-30% with partners) | Mixed (optimize by market) |
+| **Fixed Costs** | High (salaries, benefits, infrastructure) | Lower (variable commissions to partners) | Moderate (core direct team + partner costs) |
+| **Customer Relationship** | Direct, owned by company | Mediated through partner | Direct for key accounts, partner for volume |
+| **Enablement Effort** | Training your team | High (train & support partners) | Medium (two-track enablement) |
+| **Sales Cycle** | Standard, predictable | Variable (depends on partner capacity) | Consistent for direct, variable for indirect |
+| **Best For** | High-touch enterprise sales, new markets | Scaling established products, niche markets | Growing SaaS companies (0-$50M ARR) |
+
+_Most companies start 100% direct, then layer in partners at scale for specific markets or use cases_
+
+### Partner & Channel Programs
+
+**When to leverage partners**:
+
+*   Entering new geographies
+*   Reaching niche industries
+*   Bundling with complementary products
+*   Accelerating enterprise adoption
+
+**Partner types**:
+
+*   **Resellers** : Sell your product directly
+*   **Referral partners** : Introduce leads for commission
+*   **Technology partners** : Integrate & co-sell
+*   **System integrators** : Implement & customize
+
+**Making partnerships work**:
+
+*   Clear incentives (20-30% margin for resellers)
+*   Enablement programs (training, sales materials)
+*   Deal registration to avoid channel conflict
+*   Co-marketing & demand generation
+
+### Distribution Partnerships
+
+**Strategic alliances**:
+
+*   Cloud marketplaces (AWS, Azure, GCP)
+*   App stores & ecosystems (Salesforce AppExchange, Shopify App Store)
+*   Bundling with established platforms
+
+**Benefits**:
+
+*   Access to existing customer base
+*   Simplified procurement for buyers
+*   Credibility & trust transfer
+*   Committed use dollars (cloud marketplace credits)
+
+## Customer Acquisition
+
+### Ideal Customer Profile (ICP)
+
+Define who you sell to best :
+
+**Firmographic criteria**:
+
+*   Industry verticals
+*   Company size (employees, revenue)
+*   Geography
+*   Technology stack
+
+**Behavioral signals**:
+
+*   Growth stage (seed, Series A, public)
+*   Hiring patterns
+*   Technology adoption (early vs late adopter)
+*   Funding events
+
+**Why ICP matters**:
+
+*   Higher win rates (selling to the right buyers)
+*   Faster sales cycles (less education needed)
+*   Better retention (product fits their needs)
+*   Efficient CAC (don’t waste effort on poor fits)
+
+### Lead Generation Strategies
+
+**Inbound marketing**:
+
+*   Content marketing (blogs, guides, whitepapers)
+*   SEO & organic search
+*   Webinars & events
+*   Product-led signups
+
+**Outbound sales**:
+
+*   Cold outreach (email, LinkedIn)
+*   SDR prospecting
+*   Account-based marketing (ABM)
+*   Conference attendance
+
+**Community & ecosystem**:
+
+*   Open source projects
+*   Developer communities
+*   Industry associations
+*   Customer advocacy programs
+
+### Account-Based Marketing (ABM)
+
+Targeted approach for high-value accounts :
+
+**The ABM playbook**:
+
+1.  **Identify target accounts** : 50-500 companies matching ICP
+2.  **Research & personalize** : Understand their business, pain points, initiatives
+3.  **Multi-channel engagement** : Email, LinkedIn, direct mail, events
+4.  **Coordinate sales & marketing** : Aligned messaging & outreach
+5.  **Measure account engagement** : Not just lead volume
+
+**When ABM works**:
+
+*   High ACV (>$100K)
+*   Long sales cycles
+*   Multiple stakeholders
+*   Strategic, named accounts
+
+## Positioning & Messaging
+
+### Crafting Your Positioning
+
+April Dunford’s positioning framework :
+
+1.  **Understand your best customers** : Who loves your product & why?
+2.  **Form a positioning team** : Cross-functional input (sales, product, marketing)
+3.  **Align your positioning** : Competitive alternatives, differentiation, value
+4.  **Layer on a trend** : Ride a market wave (AI, remote work, data privacy)
+5.  **Capture your positioning** : Document & communicate
+
+### The Positioning Statement
+
+**Template**: “For \[target customer\] who \[need/pain point\], \[product name\] is a \[category\] that \[key benefit\]. Unlike \[competitive alternative\], we \[key differentiator\].”
+
+**Example (Gong)**: “For B2B sales teams who struggle to understand why deals are won or lost, Gong is a revenue intelligence platform that captures & analyzes all customer interactions. Unlike CRMs that rely on manual data entry, we automatically surface insights from actual conversations.”
+
+### Messaging Framework
+
+**Value proposition hierarchy**:
+
+*   **Tagline** : 5-10 words, emotional hook
+*   **One-liner** : 1 sentence, what you do
+*   **Short pitch** : 2-3 sentences, problem-solution-proof
+*   **Elevator pitch** : 30-60 seconds, full story
+
+**Messaging pillars** (3-5 key themes):
+
+*   Each pillar addresses a specific customer pain point
+*   Supported by proof points (features, customer stories, data)
+*   Consistent across sales, marketing, & product
+
+## Sales Team Structure
+
+### When to Hire Your First Sales Rep
+
+Signals you’re ready :
+
+*   Founder has closed 10+ customers successfully
+*   Repeatable sales process documented
+*   Clear ICP & messaging
+*   Product-market fit achieved
+*   $10K+ MRR or consistent pipeline
+
+**First hire : Account Executive (not SDR)**
+
+*   Validate the sales process with a closer first
+*   Layer in SDRs once AEs are productive
+
+### Scaling the Sales Team
+
+**Growth trajectory**:
+
+*   0-$1M ARR : 1-2 AEs (generalists)
+*   $1M-$5M ARR : 5-10 AEs + 3-5 SDRs (specialization begins)
+*   $5M-$20M ARR : 20-30 AEs + SDR team + Sales leadership
+*   $20M+ ARR : Segmented teams (SMB, mid-market, enterprise)
+
+### Sales Specialization Model
+
+**The assembly line approach**:
+
+*   **SDRs** : Qualify inbound leads, cold outreach
+*   **AEs** : Run demos, negotiate, close deals
+*   **CSMs** : Onboard, expand, renew customers
+*   **SEs** : Technical demos & proof-of-concepts (for complex products)
+
+**Why specialization works**:
+
+*   Role clarity & skill development
+*   Faster ramp time (narrower focus)
+*   Better metrics (each role has clear KPIs)
+*   Easier to hire & train
+
+### Sales Compensation
+
+**Standard AE comp structure**:
+
+*   50/50 or 60/40 split (base/variable)
+*   On-target earnings (OTE) : $150K-$250K+ depending on quota
+*   Quota : 4-5x OTE annually
+*   Accelerators for over-performance (>100% attainment)
+
+**SDR comp**:
+
+*   70/30 split (base/variable)
+*   OTE : $60K-$90K
+*   Paid on meetings set or opportunities created
+
+**Sales leadership**:
+
+*   VP Sales OTE : $250K-$500K+
+*   Mix of team quota attainment & individual contribution
+
+## Marketing Strategy
+
+### Marketing’s Role in GTM
+
+Marketing drives awareness, demand, & enablement :
+
+**Top of funnel** (awareness):
+
+*   Brand positioning & messaging
+*   Content marketing (blogs, guides, reports)
+*   SEO & organic search
+*   Paid advertising (Google, LinkedIn, display)
+
+**Middle of funnel** (consideration):
+
+*   Product education (webinars, demos, free trials)
+*   Nurture campaigns
+*   Comparison content (vs competitors)
+*   Customer testimonials & case studies
+
+**Bottom of funnel** (decision):
+
+*   Sales enablement (decks, battle cards, objection handling)
+*   Proof points (ROI calculators, security docs)
+*   Pricing & packaging clarity
+
+### Content Marketing Strategy
+
+**Content types by stage**:
+
+*   **Awareness** : Thought leadership, industry trends, how-to guides
+*   **Consideration** : Product comparisons, best practices, webinars
+*   **Decision** : Case studies, ROI calculators, free trials
+
+**Distribution channels**:
+
+*   Owned : Blog, newsletter, podcast
+*   Earned : PR, guest posts, speaking
+*   Paid : Sponsored content, social ads
+
+**Measuring content effectiveness**:
+
+*   Traffic & engagement (pageviews, time on page)
+*   Lead generation (form fills, trial signups)
+*   Pipeline influence (content touchpoints in closed deals)
+
+### Demand Generation vs Brand
+
+**Demand gen** (short-term):
+
+*   Performance marketing (paid ads, retargeting)
+*   Conversion optimization
+*   Lead nurturing & scoring
+*   Measured by : MQLs, SQLs, pipeline generated
+
+**Brand** (long-term):
+
+*   Thought leadership
+*   Community building
+*   Category creation
+*   Measured by : Awareness, consideration, preference
+
+_Best marketing teams balance both,brand builds the moat, demand gen fills the funnel_
+
+## Scaling Revenue Operations
+
+### What is Revenue Operations?
+
+RevOps aligns sales, marketing, & customer success :
+
+**Core responsibilities**:
+
+*   **Systems & tools** : CRM, marketing automation, sales engagement
+*   **Process design** : Lead routing, deal stages, renewal workflows
+*   **Data & analytics** : Pipeline reporting, forecast accuracy, metrics dashboards
+*   **Compensation & planning** : Quota setting, territory design, OTE models
+
+**When to hire** : 20-30 employees, $5M-$10M ARR, or significant process pain
+
+### The Revenue Tech Stack
+
+**Essential tools**:
+
+*   **CRM** : Salesforce, HubSpot (system of record)
+*   **Marketing automation** : Marketo, HubSpot, Pardot
+*   **Sales engagement** : Outreach, SalesLoft (sequencing, cadences)
+*   **Revenue intelligence** : Gong, Chorus (conversation analytics)
+*   **CPQ** : Configure-price-quote for complex deals
+*   **Customer success** : Gainsight, ChurnZero
+
+_For building customer success organizations that drive retention & expansion, see our [Customer Success Guide](https://tomtunguz.com/customer-success-guide/)._
+
+### Metrics & Reporting
+
+**Pipeline health**:
+
+*   Pipeline coverage (3-4x quarterly quota)
+*   Stage conversion rates
+*   Deal velocity (days in each stage)
+*   Win rate by segment, source, rep
+
+**Sales efficiency**:
+
+*   CAC payback period
+*   LTV :CAC ratio
+*   Sales productivity (quota per rep)
+*   Ramp time (time to first deal, full productivity)
+
+**Forecast accuracy**:
+
+*   Commit vs actual (should be within 10%)
+*   Pipeline creation trends
+*   Deal slippage rates
+
+## Frequently Asked Questions
+
+### What is go-to-market strategy?
+
+Go-to-market strategy defines how you acquire customers & generate revenue. It includes identifying your target customer (ICP), defining your value proposition, selecting your sales model (self-service, inside sales, field sales), choosing channels to reach customers, & setting pricing & packaging. A strong GTM strategy aligns product, sales, & marketing around a repeatable customer acquisition engine.
+
+### Should I use product-led or sales-led growth?
+
+Choose product-led growth (PLG) when your ACV is <$5K, time to value is fast, & individual users can make buying decisions. Choose sales-led growth (SLG) when your ACV is >$50K, the product is complex, & you need consultative selling with multiple stakeholders. Most successful companies start with one motion & layer in the other as they scale,for example, Atlassian & Datadog use hybrid approaches.
+
+### When should I hire my first sales rep?
+
+Hire your first sales rep when the founder has closed 10+ customers, you have a documented repeatable sales process, clear ICP & messaging, product-market fit, & $10K+ MRR or consistent pipeline. Your first hire should be an Account Executive (not SDR) to validate the sales process. Layer in SDRs once AEs are productive. Typical timing is $1M-$2M ARR.
+
+### What is revenue operations?
+
+Revenue operations (RevOps) aligns sales, marketing, & customer success through shared systems, processes, data, & metrics. RevOps owns the CRM, marketing automation, sales engagement tools, pipeline reporting, forecast accuracy, quota setting, territory design, & compensation planning. Hire your first RevOps person at 20-30 employees or $5M-$10M ARR when process complexity demands dedicated operations focus.
+
+### How do I find my ideal customer profile?
+
+Define your ICP using firmographic criteria (industry, company size, geography, tech stack) & behavioral signals (growth stage, hiring patterns, funding events). Analyze your best customers,who closes fastest, uses the product most, & has highest retention? Those patterns reveal your ICP. Focus sales & marketing efforts on this profile for higher win rates, faster sales cycles, better retention, & efficient CAC.
+
+### What’s the difference between inside & field sales?
+
+Inside sales works remotely with ACV of $5K-$50K, using SDRs to qualify leads & AEs to run demos & close deals. Sales cycles are 1-3 months with AE quotas of $500K-$1M. Field sales works on-site with ACV >$50K, using Sales Engineers for technical demos & AEs for relationship management. Sales cycles are 3-12+ months with AE quotas of $1M-$3M+. Choose based on deal complexity & customer expectations.
+
+### How much should I pay salespeople?
+
+Standard AE compensation is 50/50 or 60/40 split (base/variable) with OTE of $150K-$250K+ & quota set at 4-5x OTE annually. SDRs typically have 70/30 split with OTE of $60K-$90K, paid on meetings set or opportunities created. VP Sales OTE ranges from $250K-$500K+ with mix of team quota attainment & individual contribution. Add accelerators for over-performance above 100% attainment.
+
+### What is account-based marketing?
+
+Account-based marketing (ABM) is a targeted approach for high-value accounts where you identify 50-500 target companies, research their business & pain points, engage through multiple channels (email, LinkedIn, direct mail, events), coordinate sales & marketing outreach, & measure account engagement rather than lead volume. ABM works best for ACV >$100K with long sales cycles, multiple stakeholders, & strategic named accounts.
+
+### [Customer Success Guide](https://tomtunguz.com/customer-success-guide/)
+
+Build the post-sale motion. Customer success strategies, retention playbooks, expansion tactics, & scaling CS operations to drive NRR.
+
+### [SaaS Strategy Guide](https://tomtunguz.com/saas-strategy-guide/)
+
+Optimize SaaS GTM fundamentals. Pricing strategies, unit economics, growth metrics, & path to profitability for SaaS businesses.
+
+### [Product Management Guide](https://tomtunguz.com/product-management-guide/)
+
+Master product-led growth. PLG strategies, freemium models, self-service onboarding, & building viral products that sell themselves.
+
+### [AI Implementation Guide](https://tomtunguz.com/ai-implementation-guide/)
+
+Sell AI products effectively. AI pricing strategies, educating buyers, demonstrating ROI, & positioning AI differentiation in competitive markets.
+
+* * *

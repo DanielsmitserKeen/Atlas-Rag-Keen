@@ -1,0 +1,47 @@
+# How to value my SaaS business
+
+A lot of founders think that acquirers often tend to lowball their offers to get the best price possible. And yes, when you are not getting an offer you think you should, it’s easy to just blame it all on evil buyers. 
+
+The truth is it’s your business performance that determines the multiple. 
+
+There are a few valuation methods:
+
+1.  **SDE-based\*** – usually the smaller deals, <$1M ARR 
+2.  **ARR-based\*\*** – more applicable for rapidly growing companies
+3.  **EBITDA-based\*\*\*** – steady growth / profit ratio, >$2M ARR
+
+**SDE\* or Seller’s Discretionary Earnings** – a measure of the earnings of a business and is the most common measure of cash flow used to value a small business.
+
+**ARR multiple\*\*** – a SaaS company’s market valuation to its Annual Recurring Revenue (ARR).
+
+**EBITDA multiple\*\*\* –** formula comparing the enterprise value of a business to its annual earnings before interest, taxes, depreciation, and amortization.
+
+[According to the most recent report by acquire.com](https://blog.acquire.com/acquire-biannual-acquisition-multiples-report-2024/#:~:text=On%20average%2C%20SaaS%20startups%20got,profit%20was%20greater%20than%20%241%2C000\).) (Jan 2024), SaaS startups got acquired on the marketplace at a 4.3x TTM profit multiple. Some go for as little as 0.63x and others as much as 34x TTM profit (where TTM profit was greater than $1,000).
+
+Bear in mind that deals done on marketplaces tend to be smaller, with acquirers focusing on the growth potential of the business. “Boring” businesses in the space that don’t experience rapid growth but rather focus on sustainable profitability in our experience tend to go at anything between 1x and 10x. 
+
+There are quite a few numbers between 1 and 10, though. So how to determine where your business valuation could fall? Let’s start with the quantitative factors that affect it. Here’s a great rundown from Software Equity Group:
+
+To oversimplify it, you can try to place your business within this chart and assuming the poor performers would be offered anywhere from 1 to 1.5X, underperformers – 1.5 to 3X, solids – 3 to 6, and top of the class could expect it to be from 6 to 10X, you’d be getting a VERY rough estimation of your possible multiple. 
+
+While the numbers matter a great deal, to quote [Pavel Prokofiev, Head of M&A](https://www.linkedin.com/in/pavelprokofiev/) at saas.group – “[SaaS valuation is not a science, it’s an art”](https://saas.group/podcasts/b2b-saas-exit-options-with-dominic-sullivan-flippa-pavel-prokofiev-saas-group/). So there are a few qualitative factors to take into account, too.  
+Here’s what SEG (Software Equity Group) suggests to consider: 
+
+We would definitely add churn rate, growth trajectory, dependency on the founder brand, culture, and whether or not the company is bootstrapped or funded to these charts. Here’s why:
+
+1.  **Churn**. A metric that keeps founders awake at night. It gives potential acquirers an idea of the sustainability of your business, future growth trajectories, and potential risks associated with slower customer acquisition. The benchmark for b2b SaaS is 7% annually. Anything below puts you in the “desirable” basket, anything higher potentially affects your valuation negatively.  
+    There are of course exceptions for younger companies that do not necessarily have a massive existing customer base and therefore churn of new customers have a bigger impact on the overall churn, but if a product is very sticky and showing high switching cost once implemented and used for several months/years, the churn might always improve, even if the business doesn’t change. Obviously, the younger a company, the more volatile the overall churn rate might look like.  
+    
+2.  **Growth trajectory.** You want to sell your company when acquirers can still see the potential to go bigger, faster, and stronger. Having the potential to acquire more customers, win more markets, and expand into new geographical areas is something acquirers would prefer any day. It might be psychologically difficult to let go of a business that does exceptionally well but on the other hand, stagnant or even declining growth trajectory may result in lower multiples for the seller, more stress during the negotiations, and a way longer selling process overall.  
+    
+3.  [**Dependency on the founder brand.**](https://saas.group/blog/the-impact-of-founder-brand-on-saas-growth-and-exit-strategy/) Having a strong founder brand associated with the company can be both a blessing and a curse. Depending on the exit strategy, an acquirer can greatly benefit from having the founder on board. They are the visionary, the bridge between the company and its key customers, and someone who can make the transition easier for all parties involved.
+    
+    On the other hand, if customer loyalty is primarily tied to the founder, their departure could lead to significant customer loss. Founders should keep this in mind while building their companies. While a personal brand can be a tremendous asset, over-reliance on it might become a hidden risk.
+    
+4.  **Culture**. Or better yet, culture alignment. Getting your SaaS company acquired means giving the business and its team a new home. And everyone wants to end up in a loving, respectful, and fun home, don’t they? So making sure acquisition doesn’t mean stripping you down of all your values and processes is a big deal. Yes, there’s pretty much no way nothing’s going to change but ensuring a smooth transition and respect for your setup and values is essential for building long-lasting relationships.  
+    
+5.  **Bootstrapped VS funded.** The never-ending battle. Obviously, acquiring a bootstrapped company is just easier. Less names on your cap table, fewer obligations, and in general usually a smoother and faster deal. Now, of course, neither of the setups is the ultimate right one for all. It’s simply something to take into consideration when you’re selling your business. How will the deal work for you? Who gets the liquidity preference? Do founders get paid at all? This may not only affect the exit strategy but also add to the overall stress of the situation. So before considering your exit, we’d recommend clearing it all up with your investors to make sure everyone is on the same page and understanding the outcomes. 
+
+Valuing your SaaS business is both an art and a science. Understanding the quantitative factors like ARR, LTV to CAC, and revenue retention rates provides a foundation, but don’t overlook the qualitative aspects that significantly impact your valuation. Metrics such as churn rate, growth trajectory, and dependency on the founder’s brand play crucial roles in determining how attractive your business is to potential acquirers.
+
+Ultimately, planning for your valuation should be a strategic part of your business growth. Buyers are looking for more than just numbers—they seek sustainable growth and a profitable future. By understanding these dynamics and preparing accordingly, you can position your SaaS business for a successful exit that benefits all stakeholders involved.

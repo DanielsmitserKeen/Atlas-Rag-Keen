@@ -1,0 +1,82 @@
+# Defining Growth And Success At A PLG Company
+
+It comes as no surprise to our OpenView audience that [product-led growth (PLG)](https://openviewpartners.com/product-led-growth/) as a GTM strategy is more popular than ever before, providing businesses with a strategy that enables extremely quick and efficient growth.
+
+But achieving product-led success is easier said than done. In a late July session, Kyle Poyar, a partner at OpenView; Sam Richard, VP of growth at OpenView; and [Cassie Young](https://www.linkedin.com/in/cassyoung/), partner at Primary dive deeply into what makes a strong product-led company.
+
+They also shared their insights on what PLG-native companies should avoid as they layer in sales and how to choose the right metrics to measure product-led growth.
+
+## Applying SaaS metrics to a PLG world
+
+As a self-proclaimed SaaS metrics nerd, Kyle learned that the typical industry benchmarks aren’t as applicable to PLG models. [CAC payback](https://openviewpartners.com/blog/cac-payback-basics-what-it-is-how-to-calculate-it-and-why-it-matters/) is a prime example. It is historically important from an investor’s standpoint, as it represents the length of time it takes to pay off the cost of acquiring a new customer—specifically any relevant sales and marketing costs.
+
+With a PLG model, this number may seem lower, but it doesn’t account for investment in areas like product growth. Your product growth team may be running experiments to improve conversion rate, and that cost may be counted as both a product expense and an acquisition cost. So a PLG company may have an amazing CAC payback, but they’re really just relying on R&D as a growth engine as opposed to traditional sales and marketing channels.
+
+Metrics like CAC payback shouldn’t be abandoned altogether. Ultimately, what it comes down to is how you set your benchmark.
+
+> “You want to compare to the right peer set that really has a similar model of what you’re trying to build so that you’re not looking at a classic sales-led peer set for inspiration,” Kyle explained.
+
+That being said, he did offer insight for companies who want to use metrics that account for a product-led model:
+
+### Tracking cohorts
+
+One way to use metrics that account for a product-led model at a high-level perspective, is to track metrics at a cohort basis. This means looking at groups of people who signed up in the same time frame, like the same month, says Kyle.
+
+“When you look at that cohort of folks one month later, two months later, three months later, how many of them are reaching different points?” he said.
+
+Track who’s activating in the product, who’s converting, and how much they spend. Looking at changes in cohorts over time is your best way of seeing any improvement.
+
+### New ARR added versus cash burned
+
+> “If you are generating one extra dollar of new ARR and you’re burning less than a dollar of ARR to get there, that’s generally a pretty efficient motion, especially if you have a high retention business—because you’re able to spend money to make money,” Kyle explained. “But if you are burning a lot _and_ not growing a whole lot of new ARR, then that looks like a pretty inefficient business.”
+
+As a rule of thumb, ARR versus cash burn can be a helpful metric for determining if you’ve got an overall healthy economic motion. It also helps when you are accounting for both sales-led and product-led efforts.
+
+### Natural rate of growth
+
+[Natural rate of growth](https://openviewpartners.com/blog/spearheading-plg-at-stack-overflow/), a metric created by Sam, identifies how fast a company is growing based on their PLG efforts alone. By separating out sales-led and paid growth channels, you’re measuring how much growth comes from people who find you via word of mouth, SEO, and other free sources.
+
+“If that represents a lot of your growth, then it’s a signal that you have a really efficient natural rate of growth,” said Kyle. “But it also might be a signal that things that you’re spending money on, like paid ads, might not be performing in terms of really moving the needle on overall growth.”
+
+Having this metric on hand essentially allows you to analyze revenue as two separate lines of business—natural versus paid rate of growth.
+
+## Other operating metrics to manage
+
+“I personally think that there’s a lot of metric bloat within organizations that I’ve seen. I find that organizations have a difficult time tracking greater than five within teams,” said Sam.
+
+Outside of revenue, she recommends PLG companies pay attention to the following three metrics:
+
+*   **Activation**: This is highly specific to your individual product. It represents the a-ha moment—the value an individual user is going to find in your product. Even if you’re sales-led and adding a bunch of users to your product, you’ll still care about whether or not those users are activating. Activation demonstrates a propensity to pay, and if you’re raising money for a seed round, it can be a really important metric for your team.
+*   **Product-qualified leads**: Often confused with activation, product-qualified leads or PQLs are another metric that Sam loves to manage. PQLs are people who are taking actions in-product, such as the use of certain features, indicating that product use is spreading throughout the organization.
+*   **Usage retention**: If you have one hundred users come in August 1, how many are still using the product on September 1? The difference between this number and classic retention is that it’s not related to your financial model. Instead, it’s analyzing whether your product is habit-building. Sometimes more valuable than daily or monthly active use, this number can help you identify whether or not you have a problem with the product.
+
+## A holistic approach to KPIs
+
+Companies often make the mistake of separating the KPIs tied to revenue across different teams, according to Kyle.
+
+It’s common for a CMO to own marketing-qualified leads (MQLs), and have sales own converting those MQLs to sales-qualified leads, and eventually to paid customers in sales-led models. Likewise for PLG companies, marketing may own a signup number and the revenue team may own a revenue number.
+
+> “But when you silo the metrics that folks focus on too much, it leads to people optimizing activities that help them hit their goals, but don’t actually help the business,” he explained. “So with marketing teams that are super sign-up focused, a lot of times they scale signups that don’t actually fit that ideal customer profile and they might not ever do anything in the product.”
+
+Instead, Kyle suggests activated sign-ups as a metric for marketing—these are sign-ups that take a high-value action within their first week. Ultimately, it’s not a metric that the marketing team has sole influence over, but it is strongly influenced by marketing efforts. Marketing should partner with other teams to really optimize that segment of the customer journey.
+
+## Using metrics to drive alignment
+
+A challenge many founders have with product-led growth is getting investor buy-in for a model that may be unfamiliar or unlike any other projects they’ve taken on in the past. Here’s the situation you’re trying to avoid:
+
+> “You have someone sitting in on your board meeting and you are talking about the number of free users you have that month,” said Sam. “And the fact that you’re converting them at a 6% rate—that’s an awesome rate, according to [OpenView’s product benchmarks](https://openviewpartners.com/2022-product-benchmarks/)—and they’re saying, ‘What the heck is happening? This is the worst rate that I’ve ever seen,’” Sam explained.
+
+Sam recommended having a conversation about metrics—specifically, which SaaS metrics are relevant for a product-led company versus which are more sales-led specific—with any prospective investor up front, prior to any board meeting.
+
+Setting metric expectations as a baseline is important for helping your business maintain a product-led trajectory. Having board members and investors who aren’t committed to a PLG motion might lead to an unintentional shift in strategy. As they push you to bring on sales and marketing executives who don’t have product-led experience, your natively product-led business may begin to look more hybrid or even sales-led.
+
+Considering that PLG-native companies often have lower revenue growth early on in comparison to sales-led organizations, it’s understandable why investors and other stakeholders might favor sales-led motions. A company can reach $1 million ARR much faster by selling 10 deals worth $100,000 with a sales team than if they were to sell one thousand much smaller deals via self-service.
+
+But what might seem like a major pitfall of the PLG model is in many ways key to its long-term success. According to Kyle, “the company with a thousand customers has so much more data on what people are using and has so much more potential to unlock” with opportunities to convert and expand accounts.
+
+## Key takeaways
+
+*   **Redefine the typical SaaS metric playbook**. Product-led growth is a totally different business model than traditional sales-led SaaS. Track metrics in ways that account for these variations, such as tracking cohorts or measuring natural rate of growth.
+*   **Manage a smaller, yet focused set of metrics**. Being more strategic about what operating numbers you’re looking at day to day will help your teams prioritize efforts that directly correlate to growth and minimize metric bloat.
+*   **Avoid siloing responsibilities for KPIs**. Product-led growth is a team sport. Dividing up KPI metrics across disjointed teams will not work, especially when every team should be working towards the same goal—optimizing user experience. While teams should still be ultimately responsible for metrics, maintain an understanding that growth in these areas requires cross-functional collaboration.
+*   **Have investors and stakeholders buy-in to PLG metrics**. If your investors and board of directors don’t understand why you’re tracking metrics crucial to PLG, it can be difficult to reach a consensus about what high-level decisions will be right for the business. Aligning on PLG metrics before even entering a boardroom can ensure that your product-led core remains intact even as your company grows.

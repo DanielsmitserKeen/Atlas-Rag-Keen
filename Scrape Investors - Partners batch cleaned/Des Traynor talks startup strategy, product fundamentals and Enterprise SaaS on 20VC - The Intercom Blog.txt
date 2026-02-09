@@ -1,0 +1,87 @@
+# Des Traynor talks startup strategy, product fundamentals and Enterprise SaaS on 20VC
+
+Our Co-founder and Chief Strategy Officer [Des Traynor](https://www.intercom.com/blog/author/des/) joins the [20VC podcast](https://www.thetwentyminutevc.com/des-traynor/) for a fascinating conversation with host Harry Stebbings.
+
+In the last seven years, Harry’s podcast has amassed over 100 million downloads, gathered over 200 of the world’s leading venture capitalists, check-writers, and startup founders, and propelled Harry to international recognition, which he then leveraged to launch his own venture capital fund, [20VC fund](https://www.thetwentyminutevc.com/20vc-fund/).
+
+Des joined Harry for a long deep dive into the insights gathered throughout his career as both Intercom Co-founder and a venture capitalist – from the origins of Intercom to common startup myths, from startup strategy to his approach to angel investing.
+
+*   Does being the first not matter?
+*   What are the biggest mistakes people make when releasing a second product?
+*   When is the right time to start thinking about moving into the enterprise space?
+*   What makes great product marketing in SaaS?
+
+_Watch the video above for the full interview or read on for the key takeaways._
+
+* * *
+
+## The aha! moment behind Intercom
+
+Over a decade ago, in 2011, Intercom co-founders Des Traynor, Eoghan McCabe, David Barrett, and Ciaran Lee were running a consultancy and building software for other people. But they had an itch they couldn’t scratch – they had customers they wanted to talk to and no good tools for doing so.
+
+To solve that, they built a little speech bubble pop-up that their customers would see in-product every time they needed to send a message. While they didn’t fully appreciate it right away, it wouldn’t be long until customers started asking what the bubble was all about. In some cases, there seemed to be more interest in that pop-up than the product they were selling. It got the co-founders thinking: could they take that messenger speech bubble and build it out so that customers could take it and put it right into their applications? They knew they were on to something. And so, Intercom was born.
+
+> “We were building a way to communicate with our customers inside the product. We realized how much more effective that was and how people were just quite excited about that. The real click was once we actually offered it to other people, we saw them use it and rip it out of our hands and be like, ‘Oh my God, I love this thing.’”
+
+Looking back, aside from the practical things of how software works, market size versus product size, or how adding a feature leads to added headcount and how it affects LTV:CAC in the long term, Des just wishes he could have known how it was all going to work out:
+
+> “The thing that would have given me the most solace at the start would be knowing how it was all going to work out. Because the anxiety when you’re starting out is so intense: “What if this breaks? What if this happens? Oh, Zendesk just released a feature. Should we pack up and go home?” Like that Doctor Strange character, I see all the ways in which things can go wrong and right, but there are oftentimes more things that can go wrong.”
+
+## Dismantling startup myths
+
+In startups, There is this general idea that speed is crucial, and so is getting there first. Pressure builds in every startup founder who’s worried about launching a new product, hoping to beat their competitors to market or coming up with something entirely new that blows them out of the water. But while speed and momentum can make or break a startup, the second is not really true. When you pick up your phone, do you care if it was the first ever touchscreen? Probably not.
+
+First-mover advantage isn’t automatically bestowed on the first product in a category. It’s not even guaranteed to exist. But even then, let’s say you come up with an idea for a product management software where you have post-it notes that you can drag and drop around the place. Maybe the idea is unique. Maybe it even gets a bit of initial PR and you have plenty of users trying your product. But other than that, what are you left with? As soon as a good idea is out there, it’s out there for anyone to copy. As a startup founder, it’s not about getting there first. The question is, can you sustain your advantage?
+
+> “Being first doesn’t matter. If all you had was that idea, there’s going to be at least a hundred other people trying to copy that idea. It’s very rare you can sustain the head start if somebody else is either better funded, better resourced, more passionate, or just better. All you are is the guy who came up with the idea.”
+
+Every now and then, some company does emerge with a product that is beautifully crafted, high-end engineered, and really hard to copy. But for Des, creating real defensibility from competitors from day one is extremely rare.
+
+## When to launch a new product
+
+If you’re thinking about releasing a second product, there are a few questions you should ask yourself. Can you recruit enough engineers and designers and PMs to own that product in a way that doesn’t harm the first one? Is focusing on a new tool going to add more value to the overall business than nailing the original tool? Does doing both things under the same company generate any multiplicative value?
+
+Of course, the advice – and the stakes – are very different depending on the stage of the company. It’s one thing for an early-stage startup to start tinkering with a new survey tool, for example. But a more established startup with a certain reputation for its performance and reliability can’t, as Des puts it, “be limping in with an MVP that doesn’t work.” It can damage the brand as a whole. When a bigger company organization starts working on a new product, they have to fully resource it and ensure it matches the brand posture their customers are expecting.
+
+> “Are we able to get to people in a way that doesn’t cannibalize the success of what is currently the only thing we have that works? Are we ready to do it from a staff side? Then separately, do we credibly believe the ROI of adding a new product is definitely greater than increasing the maturity and possibly the time by going upmarket with the current thing we have?”
+
+Of course, not all products come to fruition. Over time, some products will follow a trajectory of growth, and others will inevitably fail. If a product doesn’t have its own momentum without constant pushes to customers and marketing resources being thrown into it, it’s generally a sign it’s not working. In those cases, you have a decision ahead of you. Do you put effort into researching what’s wrong with it to try to salvage it and rebuild it, or do you scrap it altogether? Often, the answer is you end-of-life it. You stop taking on new customers, tell all the current ones you’ll be phasing it out, and suggest a path to get it done some other way.
+
+**Pro-tip:** One of the most common mistakes startups make is not knowing the difference between a product and a feature – are you actually launching a new product or just a paid upgrade to an existing platform? VCs and CEOs may be tempted to think everything’s a product because of its impact on potential time expansion, but in the end, it’s all about looking at it from the customer’s point of view:
+
+> “Would they expect this to be part of a connected workflow within the platform? Or do they think this is somewhat exogenous? And then those other nuance pieces: How are they currently solving the problem this feature/product solves? If the answer is they’re doing it in Excel or whatever, then yeah, you could probably argue you pull it in as a feature, but if they actually have another platform or solution already, that’s usually a sign they were willing to buy two different products in this space.”
+
+## Challenges in SaaS product marketing
+
+Not all products go to market the same way. It’s very different to market a B2C product like AirPods or a Tesla than a new Salesforce or Intercom integration to an Enterprise business. But unless a product is really self-explanatory, the screenshot + one-liner strategy won’t cut it. As Des puts it:
+
+> “Startup product marketing has always defaulted to ‘here’s a big screenshot and here’s a one liner,’ and that’s totally fine in a world where the screenshot is self-evident of what is going on. But a lot of people think their product sells itself. They put a big dopey screenshot up and say ‘Data Reinvented’ or something like that, and no one has a clue what the hell is happening.”
+
+But the challenge doesn’t end here. When it comes to SaaS messaging, more often than not, the person who’s buying a product is not actually the frontline user. The buyer is, say, the VP of Customer Support or the Chief Revenue Officer, purchasing software they’re not even going to use or see most of the time. While the user cares about whether or not the product helps them do their job more effectively and seamlessly, the big suits have different questions in mind. And from Des’ experience, those are usually the same: “Are you going to make me money or save me money? And if so, how and why should I believe you?”
+
+> “The challenge for product marketing is, one, you have to work out what your users and buyers want to know (and they’re not always the same thing), and two, what is the best way that you can show why you’re the best at it.”
+
+## Moving upmarket
+
+For Des, if a startup has a lot of horizontal run room in the market and it doesn’t have to change the product much to reach more customers, they should just carry that growth out. Entropy is a given and, no matter how hard you try, you’re always going to be adding more complexity to the product, but if you can find growth without getting a massive product footprint, do it. Simplicity is the goal:
+
+> “Every complex new feature has to get marketed by a marketer and sold by a salesperson and supported by a support person. So you have to think about the total cost of ownership of that feature, not just how hard was it to build. Generally speaking, you’re trying to find the highest leverage work, which usually involves looking for how little can we do and how much can we get from it.”
+
+## What does it mean to be enterprise-ready?
+
+*   Adaptability. You have to adapt the product to the requirements of large enterprises. Signing MSAs, being HIPAA or ISO 9,000 compliant, doing security reviews, etc.
+*   Scalability. You need to meet their usage requirements. If an enterprise company wants to send a million emails a minute, you need to be able to do that.
+*   Justifiability. You need to surface the data that proves your product is delivering the value they’re paying for.
+*   Interoperability. The apps in the enterprise customer’s tech stack should play nicely together and, if possible, benefit from each other.
+
+> “You have to be a good citizen of their tech stack. You can’t just be like, ‘Intercom’s here, delete everything else.’ They probably have 15 other tools they use to talk to their customers or manage customer conversations or the health of their customer base. You need to have a good interoperability posture, meaning that you should be hydrating all the other data sources that would benefit from knowing what Intercom knows, and similarly, you should be sucking in data from them as well to make sure that Intercom is the best Intercom it can be. In doing so, you become what they call an improvement to their tech stack. Everything gets better.”
+
+## Lessons from angel investing
+
+Des doesn’t really consider himself an active angel investor. His checks are usually in the $25K region, he doesn’t engage with market sizing other than trying to assert how often the problem a startup is tacking happens and how big is it for the people who have it, and he avoids formal meetings, doing the due diligence himself, reviewing decks or, as he puts, it, hypothesizing about trends.
+
+He does it because he feels he can share useful insights from his experience scaling Intercom, and as a result, he is sometimes invited into the next round. But in the process of sharing his expertise, he’s learned a fair deal as well:
+
+> “Seeing the internals of other companies and learning how they make decisions is really useful for understanding the Intercom buyer’s perspective, as in under what grounds would you adopt Intercom, and relatively speaking, in all of the priorities in your world, how important are we? Because in our heads, we think, ‘Surely they’ve got at least 10 people talking about Intercom on a daily basis,’ but it’s actually just Joey in the corner working on apps.”
+
+Not to mention that series A or B founders are, as Des says, wonderful executors. And for a speed-obsessed founder who’s been fighting against the natural decay of momentum for over a decade, there’s a lot to be learned from agile startups that move and ship fast. As he usually puts it, “fast gets good quicker than good will ever get fast.”

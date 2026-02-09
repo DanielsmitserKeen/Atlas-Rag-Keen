@@ -1,0 +1,245 @@
+# Byron Deeter, Partner @ Bessemer Venture Partners: 10 Laws of Building a Unicorn (Video + Transcript)
+
+[![Screen Shot 2016-06-23 at 11.37.26 AM](https://i0.wp.com/www.saastr.com/wp-content/uploads/2016/06/Screen-Shot-2016-06-23-at-11.37.26-AM.png?resize=443%2C473&quality=70&ssl=1)](https://twitter.com/bdeeter/status/745991579823935489)As much as we all long for the days when the term unicorn only referred to magical, mythical creatures, you don’t want to miss this session from Byron Deeter, Partner at Bessemer Venture Partners. Having invested in over two dozen companies, a half dozen of which have already gone on to become unicorns … including being the largest investor in Twilio … Byron shares his insights into the 10 laws of becoming a unicorn.
+
+Beyond the standard advice on hiring diverse teams and concentrating on what you’re truly amazing at, Byron dives deeper into building a product/service that can compete with other cloud companies (Byron says that a top tier $10 million ARR company should be growing 300% year over year) and cultivating it so that it surpasses that $1 billion mark. While it isn’t a walk in the park, it is entirely possible.
+
+And thank you to Alex Konrad of Forbes for helping guide the conversation.
+
+You can view the slides [here](https://www.slideshare.net/saastr/10-laws-of-building-a-unicorn-at-saastr-annual-2016).
+
+**If you want to see more sessions from 2016, we’re releasing a [new one each week](https://www.saastr.com/category/format/video/saastr-annual-sessions/). Subscribe [here](https://www.saastr.com/subscribe/) to be notified. And be sure to [grab your tickets to the 2017 Annual NOW](https://www.saastrannual.com/).**
+
+**Transcript**
+
+**Alex Konrad**:  Hey, everyone. As you shuffle out, shuffle in, you’ve probably seen his cloud index, but Byron Deeter at Bessemer Venture Partners loves to watch cloud companies, both private and public, to get insights.
+
+As I’m sure a lot of you want to be unicorns someday, Byron knows some of the patterns that he’s seen with companies that have made that jump. Without further ado, Byron Deeter from Bessemer Venture Partners.
+
+**Byron Deeter**:  Thank you.
+
+\[applause\]
+
+**Byron**:  I need your help to get started. I’ve got two questions for you. I want you to play along. Raise your hand if either of these things have happened to you. The first one, you pull out your Uber app. Coming out of a meeting, you’re at home waiting for the car. It’s raining, something of that sort.[](https://i0.wp.com/www.saastr.com/wp-content/uploads/2016/06/1-monthlychurn.png?quality=70&ssl=1)
+
+You’re time-starved. It says three minutes to the car. You click “Order.” Jumps ahead to six, seven, eight, nine minutes. Raise your hand if you’ve ever been frustrated by this. Keep them up. One more question.
+
+How many of you have been flying across country? You’ve got your laptop queued up with emails or documents you want to work on. As that little ding goes off, and you expect the WiFi to work, it drops, so they say, “I’m sorry. This flight, actually, the Internet’s not going to work.” Raise your hand if that frustration has ever happened to you. Thousands of you. The majority in this room.
+
+We live in an on demand world. Whether it’s digital bits and bytes, whether it’s physical products like Blue Apron meals to your doorstep, or e-commerce products or goods from Google Shopping and other express delivery services. How spoiled are we?
+
+We live in a world where trying to summon a vehicle that we’ve never seen, from a driver that we’ve never met, to our precise latitude and longitude on a moment’s notice, seems like an imposition if it takes an extra few minutes.
+
+[](https://i0.wp.com/www.saastr.com/wp-content/uploads/2016/06/Law-10.png?quality=70&ssl=1)Hurling through the space time continuum in a carbon fiber tube at 30,000 feet and hundreds of miles per hour, when a few bits and bytes get dropped off of satellite relays, it suddenly seems like a break in the norm. We are in a world of on demand everything.
+
+I’m going to make the case for you today that it’s a good thing, but it’s the world in which your customers live in today, and therefore, it’s the world in which you need to play.
+
+In business cases, it’s like the consumer world now, but a few years behind. We’ve got document access and collaboration that’s starting to be mainstream through companies like Box, etc. We can sign documents and execute business transactions through e-signature tools like DocuSign, and the like.
+
+Whether you think of it as drinking your own champagne, or eating your own dog food, you need to use cloud in an on-demand way, and you need to make it available to your employees in an on-demand way, because that is a standard of excellence that the market has come to expect.
+
+I’ve been in your shoes. I was a founding CEO of a cloud business. We grew it to profitability. It sold for hundreds of millions, and then I’ve turned around now and have invested in over two dozen companies, a half dozen of which have already gone on to become unicorns.[](https://i0.wp.com/www.saastr.com/wp-content/uploads/2016/06/2-metrics-.png?quality=70&ssl=1)
+
+This is the rule of thumb which they’ve all lived by, and I try to live by. When you look at our founders, they are like these sharks. They need to be constantly in motion, or they die. Your businesses are like that, too. It’s the growth imperative.
+
+If you look at the 47 pure play public cloud companies that we track in the Bessemer Cloud Index, this is your signpost. This is what excellence looks like, and in fact, the biggest fallacy is that companies come to us saying, “I’ve hit 10 million in ARR. I’m doing great, and I’m growing 30 percent just like the big folks.”
+
+They’re off by an order of magnitude. They need to benchmark themselves against where those companies were at their size and scale, and as you’re building the next great cloud company, to get on this chart, that’s your aspirational goal.
+
+The good news is you’ll be rewarded for it. You can quantify it. For these public companies, every 10 percent uplift in growth rate is an entire additional churn in their multiple.
+
+How do you do it? Law eight. Sales efficiency is your oxygen. It’s not food. It’s not water. I could live a couple of days without water. I’ve got enough fat on this body to live weeks without food.
+
+\[laughter\]
+
+**[](https://i0.wp.com/www.saastr.com/wp-content/uploads/2016/06/Law-9.png?quality=70&ssl=1)Byron**:  Oxygen. You’re out there. It’s the person in the pool. It’s eight minutes until you’re brain dead. Sales efficiency is the fuel and the oxygen for your business. This is how you measure it.
+
+Sales and marketing spend over net new MRR, and why do you care? Because it’s ownership. It’s dollars for you. If you can pull your sales efficiency ratio in by a year, from two years to one year, the numbers show $100 million of capital you don’t need to raise.
+
+What does that mean? Tens of percentage points of ownership for you, most likely. You can build a valuable business at the end of this, but your ownership will be materially different.
+
+As early stage investors, we tend to be pretty aligned with the shareholders here. We have $4 billion. We can keep investing, and often we do, but the point is, our interests are aligned. We want the most efficient business, and we don’t like dilution, either.
+
+Sales efficiency is the driver for that, and once you have those customers, keep them, please. Death and marriage, the only acceptable reasons to lose a customer. They go out of business, or they get acquired.[](https://i0.wp.com/www.saastr.com/wp-content/uploads/2016/06/3-theonerule.png?quality=70&ssl=1)
+
+Customer success, retention, and renewal rates are the path to a successful business. Quantify that. One percent equals $100 million. One percent change in your monthly churn rate rolls through over several years to $20 million in ARR, which is damn hard to get. Plus or minus, forward, back, whatever, think of it, round numbers, $100 million of valuation to you by that change.
+
+How do you do it? This is becoming common knowledge. What’s starting to happen, then, is professionalization of a customer success management framework. This chart’s from Gainsight. We happen to invest in them, because I do think they’re the best, but there are other products out there.
+
+Whether you buy one of the products or build your own, you need a customer success management strategy. You need people, processes, and systems to keep, manage, and love your customers to death, because you cannot afford to lose them.
+
+Once you have the capital and the customers, put your arms around this piggy bank and this cash, and think like an owner, because you are. You’re the founders and executives leading your business. Cash is king, and it used to be cheap.
+
+Remember last year? It seems so long ago now. Wasn’t that fun?. The last few weeks, not so much. $63 billion in market cap that was wiped out over the last five weeks, 35 percent average decline in value from the best companies on the planet in our space.
+
+[](https://i0.wp.com/www.saastr.com/wp-content/uploads/2016/06/Law-8.png?quality=70&ssl=1)Don’t kill the messenger here, please, but it may be worse on the private side, because the pressure had been coming out of the public multiples for the prior year, and actually trending down in ’15 as well, whereas, private multiples kept climbing up.
+
+If you benchmark yourself against these best companies, your cost of capital has gone dramatically up, and so wrap your hands around the capital and be efficient as you can be, which leads to the question of, “How do I get it?”
+
+There are five metrics that we care most about as investors, and I would argue the best investors do as well. It’s not gap revenue. It’s not bookings. It’s these five things, and if you don’t know them well, learn them. We’ve got content on our website. We’ve got white papers around most of these. Download them, study them, print them out, whatever you need to do.
+
+These are the metrics and the leading indicators for building a kickass, awesome SaaS business, and create a dashboard around them. This one’s from Intacct, Adaptive Insights, it does great forecasting and planning. InsightSquared does great sales modeling. Pick your own. Whatever it is, put it front and center in your business.
+
+Your executive team should be looking at this weekly, if not daily. You should be reporting to your board on this. You should be reporting to your other shareholders, your team members, at all hands meetings.[](https://i0.wp.com/www.saastr.com/wp-content/uploads/2016/06/4-golfcourse.png?quality=70&ssl=1)
+
+You should be open with these metrics, because the important thing is to track and figure out what your business model is. There’s not one answer, but you need to understand what your answer is. Here are two examples to illustrate the point.
+
+The business on the left is an SMB business. The business on the right is an enterprise business. Call it Dropbox and Box, for the sake of argument. They’re both great businesses, but interchanging those sales efficiency ratios and the payback ratios gets you to the same point, more or less, but different ways.
+
+You will have a unique answer for your business, but you need to track it and know what it is, and how to get there.
+
+Across these five metrics, these are the guard posts. If there’s one slide you take away from this deck, if there’s one slide that you take a picture of on your camera phone, or when you go to our website at BVP.com/cloud and you download it, print it out, put it on your wall, give it to your exec team, this is it.
+
+You’re not all going to be best of class across all these metrics. It’s unrealistic to expect that any company, necessarily could, but that’s what you’re striving for, and you absolutely want to be good and better across most of these, and figure out where you can be best, because that’s the guidepost of excellence.
+
+If you can’t remember all five of these, let me make it even more simple for you. Remember one, or three ones. Let me cheat a little bit. One x spend to new burn, or burn to new ARR. One percent churn. One percent negative in terms of gross or logo churn, and one percent positive in terms of net dollar retention, and then one year.
+
+[](https://i0.wp.com/www.saastr.com/wp-content/uploads/2016/06/Law-7.png?quality=70&ssl=1)One year payback on your sales efficiency to have bulk control of your business. Now, if we think of the low friction sales models that many of you enjoy, the reason is because of product.
+
+For the first time in recent memory, it doesn’t need to suck anymore, and it is actually driving business. The days of a sales rep at Oracle jamming down your throat some crappy interface and trying to close a deal on a golf course wearing a gold chain is over.
+
+Great products like Slack are finding their way into an organization because users love it. Products like Intercom, whether it’s a business user or tech user, they’re showing up because the users get so much value, they’ll pull out a credit card and say, “I’m going to expense this, because it’s making me better.”
+
+Developers now, have the power to do the same, both as a buying group. There are 20 million global developers now that can turn around and look at products like Atlassian, Stripe, Twilio, SendGrid, New Relic, and consume those products as customers, because they have budget. They have knowledge.[](https://i0.wp.com/www.saastr.com/wp-content/uploads/2016/06/5-engineers.png?quality=70&ssl=1)
+
+Certainly within your companies, they’re the most sophisticated IT buyers you could imagine.
+
+For businesses that are building great product, which I hope is all of you, it leads to the second point, which is these composite services are now available on which to build your business. Think of a great company like Uber. They’re not a mobile company. They’re not a SaaS company. They’re doing tens of billions of dollars in revenue this year, by most estimates.
+
+They have figured out what makes them excellent, and they leverage as much as they can from other people. Every time you get that text message saying, “Your car is arriving now,” or you get the driver calling you saying, “Are you on the left side of the street or the right?” they’re using a Twilio service.
+
+When you transact the payment, it’s through a Braintree back end. When you are pulling up the map and entering your destination, Uber hasn’t gone out and built an entire map stack. They’re using Google for that.
+
+When you’re building a company and your developers are reinventing everything, if they’re trying to build an email foundation, an SSO foundation, if they’re going down the stack for customer engagement, those sorts of things, look at them and ask why.
+
+Because there’s APIs now for this, and engineers are so hard to find, so hard to develop, so hard to retain. Those are scarce resources, and you need them building world class products.
+
+[](https://i0.wp.com/www.saastr.com/wp-content/uploads/2016/06/Law-6.png?quality=70&ssl=1)That extends to the rest of your team. Your job as founder, your primary job as CEO or senior executive, is to hire great people. You’re a tech business. You’re an IP-based company. That’s the asset you have. Across that group, they’re joining you, or at least the vision that you set.
+
+Increasingly, you’re fighting for diverse teams, not because it’s politically correct, but because the data shows they make better decisions. Diverse teams will make you better as a company. How do you do that? You set out a vision statement that inspires.
+
+Jeff Weiner at LinkedIn, the number two public cloud company by market cap, laid it out in an awesome LinkedIn blog post. He described it as the true north.
+
+“It is the dream. It is what is getting people inspired and excited. You’re going to have to pay them fair market comp, but these candidates have 20 job offers teed up in their inbox if they’re good. This is what they join. If you want to change the world, they want to join you, and you need to make that clear.”[](https://i0.wp.com/www.saastr.com/wp-content/uploads/2016/06/6-diverseteams.png?quality=70&ssl=1)
+
+Which leads to law number one. Software’s awesome. We’re software business for the most part, but it’s mobile that is eating the World Wide Web. Essentially, all of your customers, 85 percent plus at this point, within an enterprise context, now have a smartphone. Globally, that number is 73 percent.
+
+For the first time ever last year, the tipping point was crossed where the majority of Web log-in sessions came from mobile devices, not Web clients.
+
+It’s unlocking four-fifths of the labor pool that aren’t desk bound but mobile and suddenly have computing power at their fingertips. Which means that verticals and industries that were previously unaddressable are now yours for the taking.
+
+Age-old industries like construction or healthcare suddenly have mobile workers that are there in the field able to access plans, medical diagnostics, and procedures, etc., communicate back with trained experts centrally, and be better at their job and faster at it.
+
+Today, you can have a plumber to your house dispatched through a mobile app purchasing product while they’re sitting there in your bathroom or in your kitchen instead of going back and forth from their service center, because it’s better for them in utilization and margin. It applies to all these segments. Then, there’s the horizontal enablers that carry it through.
+
+For those of you that are thinking about starting a business or where to point it, think wave two. Wave one was all about content consumption. It was just unlocking the enterprise assets into a mobile world. It was the box unlock.
+
+[](https://i0.wp.com/www.saastr.com/wp-content/uploads/2016/06/Law-5.png?quality=70&ssl=1)Now, wave two is all about content creation. How can these applications actually make those 80 percent members of the workforce more successful, capture information, and productive? That’s what we’re starting to see, whether it’s paper replacement, whether it’s collaboration/communications enablement, or actual in the field workforce enablement.
+
+Once you have the content creation, you have the luxury of contextual awareness. For those of you that take part in conference calls or sales-related conference calls, which I assume is most of you, you should download Speakeasy, because it’s the best conference calling app, and it’s contextually aware. It integrates to Salesforce, it updates your records, it carries it through.
+
+There are apps now and products now that allow you to know exactly where you are and be smart for you and assist you. You take the consumer analogy, things like messaging, and they will become a fundamental part of mobile apps.
+
+We’ve been spoiled with the Snapchats, and WeChats, and SMS app on your phone natively. That is becoming part of the business world and should be part of your application framework.[](https://i0.wp.com/www.saastr.com/wp-content/uploads/2016/06/7-smartphone.png?quality=70&ssl=1)
+
+The simple thought I want to leave you with on this law is that the eventual leader in your category will be mobileawesome. You don’t need to be mobile first or mobile only, but you need to be mobile awesome if you want to lead your category. Otherwise, someone else will.
+
+Here’s the answer. Hundreds of entrepreneurs have gone before you, and figured this out, and done the hard work. We owe them massive thanks for blazing the trail and laying out the path for us to follow. 47 of them are now public pure plays.
+
+Personally, on behalf of Bessemer, I owe them a thanks, having worked closely with many of them. We’ve been investors in a full one-fourth of all public cloud companies and a third by market cap.
+
+We actually put this chart together last month to celebrate our 100th cloud investment, which is the largest of any venture firm in the industry. I’m pleased to say that next week we’re actually going to be announcing our 101st. The CEO for that company is here in the room today, but has asked that we not disclose it yet. This person will reveal it next week.
+
+The reason why I’m here is because I think our 102nd, and 103rd, and 104th may be here, as well. If this resonates, we want to talk to you. Here’s where you can download the presentation and a lot more information.
+
+My partner, Kristina Shen is here, who helped a lot with this presentation. I owe her a lot of things for that. With that, thank you very much.
+
+\[applause\]
+
+**[](https://i0.wp.com/www.saastr.com/wp-content/uploads/2016/06/Law-4.png?quality=70&ssl=1)Byron**:  Before Alex is able to ask me a question, since you fired questions at me all the time, and your journalist peers do, I’m going to fire one at you. We’ve got an awesome audience here. They’re very familiar with all these lists you put together, top of this and that.
+
+One of my favorite is the 30 Under 30 list, the world’s best entrepreneurs. I suspect, just like we believe, many of the future members of that list are here in the audience today. What’s the common trait you look for? What advice would you give them?
+
+**Alex**:  It’s funny. I was just having this conversation this morning. I grabbed Aaron Levie’s time for 15 minutes. We were talking about differentiation today. It really ties with what you were saying about being mobile first and using other APIs. We’re in a very collaborative place in cloud enterprise right now. What that means is you have to do one thing really, really well.
+
+Aaron and I were talking about how apps have gotten simpler and consumerized, even in enterprise. What we looked for was something like 30 Under 30 is a person or a vision that isn’t trying to do everything, but it’s doing one thing in a really different, exciting way.[](https://i0.wp.com/www.saastr.com/wp-content/uploads/2016/06/8-mobileawesome.png?quality=70&ssl=1)
+
+Our founders are all different age. They’re from all over the world. We’re doing lists now in Europe and elsewhere. The common theme is always these people. They found one problem that they just really want to solve. They can’t sleep at night if they don’t. That’s what I would say.
+
+Now I’m going to turn it back to you. I was with Aaron this morning. I feel bad, when Box went public. I wrote a story just listing all the investors who made more money on the IPO than Aaron did.
+
+By the time Box went public, textbook enterprise story, he and his co-founder had spent years getting the company there. Their ownership stakes were not huge compared to maybe a consumer company might when it goes public.
+
+You were talking about how companies that take longer to get to that convergence that you want to see, lose money at the table, a year evaluation or equity. How much do you want these people thinking about their equity, their ownership of a business as they try to get to that unicorn?
+
+**Byron**:  I want it front and center in everyone’s mind in that venture capital is expensive. Our cost of capital is high. You’re giving up part of your business to invite us in and give us the honor of being a member. The only way that makes sense for either of us is if you can efficiently deploy that capital and achieve a multiple gain in value as a result.
+
+[](https://i0.wp.com/www.saastr.com/wp-content/uploads/2016/06/Law-3.png?quality=70&ssl=1)Box took a lot of money. They’re a billion dollar plus entity today. Aaron will be a centimillionaire as this plays out. They had to do it the way on the right. Their CAC was high, but the retention is great.
+
+It’s a great business. It just took a lot of capital to get there. That’s an option. If you can do it more efficiently, and you can own 50 percent instead of 10 percent, all the better. As an early stage investor, our interests are aligned. We put 60 million bucks into Box. If we can do it with six, God bless you. I’m even happier.
+
+**Alex**:  When you find companies that can get there faster, what are the common threads that you’ve seen with companies that maybe just grow with Slack, like organic growth, or this quicker timeline than maybe others that have still succeeded?
+
+**Byron**:  Slack’s a unique entity. We’re not investors. I wish we were. We’re fortunate enough to be in LinkedIn and Pinterest and see that curve, but not with them. It’s unique. If you can achieve that then a lot of this other stuff is easy. Most of you can’t. Expecting that is a risky proposition.[](https://i0.wp.com/www.saastr.com/wp-content/uploads/2016/06/9-entrepreneurs.png?quality=70&ssl=1)
+
+What our best entrepreneurs, time and time again do, is set themselves up for success. Test a bunch of business models, figure out what works, and double down on success. Build awesome product. You set yourself up for success if it can pull you through and get a no-friction or super low-friction sales model.
+
+You can be successful without it. You can be successful with direct selling. In fact, if you look at the 47 public companies that have done it before you, most of them have achieved it that way. There’s very few up there that have a no-friction sales model long term.
+
+We love multiple models and paths to success. There’s not a right answer, but know your answer.
+
+**Alex**:  I’m sure everyone, whether they admit it or not, has been watching the market, and watching the multiple compression happening. You guys at Bessemer have invested in so many enterprise IPOs.
+
+How much should private companies, should founders, be watching the market? What lesson, that could be a positive, should they be drawing from that from their own business?
+
+**Byron**:  We’ve been fortunate to work with one in four IPOs, as I mentioned. Last year, there were seven cloud IPOs in total. Bessemer was an investor in four of them. We’ve got several queued up now. It’s front and center. It was top of mind.
+
+For those companies, and even more so for you, the long term is the answer. People say it and it seems trite, but it’s a fundraising event. For companies at your stages, it’s a long ways off. Your valuation fell with the rest of the world. We hold billions of dollars of cloud stocks in total. It hurt.
+
+[](https://i0.wp.com/www.saastr.com/wp-content/uploads/2016/06/Law-2.png?quality=70&ssl=1)But, unless you’re selling today, or unless you’re going public tomorrow, it doesn’t matter. If this had to happen, now’s actually probably among the best times. When you sell is when you care. It will cost you a little bit more equity to raise money. You’ll probably raise a little less.
+
+You should be more efficient with building your business, as a result, but on an absolute sense, when you think about valuation, and certainly historical averages, we’re still in pretty good territory. You can still raise capital if your business is strong, and you should. Don’t worry about it in the big picture sense. Go on and kick some butt.
+
+**Alex**:  What if I’m not feeling like I’m the next great success story? One thing with these conferences is that I always feel like we do kind of celebrate the successes, but we forget all the near death experiences that almost every success still had.
+
+If I’m sitting here and I’m not feeling great about my options there, but I don’t want to just start laying people off or cutting costs, because it feels like I’m hindering my chance for growth in the future. Where do I start? Where do I try to get on the path that you were discussing just now?[](https://i0.wp.com/www.saastr.com/wp-content/uploads/2016/06/10-arentworking.png?quality=70&ssl=1)
+
+**Byron**:  There are really two choices you have if it’s not working. I don’t mean to be crass, but it’s cut bait or buy time. Your value of time is more expensive than our cost of capital. If you’ve got a decision to make, which is where should you deploy your time, and the only option isn’t being a founder or CEO.
+
+The answer may be go join a great business. Many of our best companies have 6 or 10 former founders and CEOs there that are awesome general managers, and awesome EVPs, and doing great. That’s an option. You should absolutely be objective about it and say, “This may just not ever work.”
+
+Hopefully, that’s not the case, but it’s a real possibility. If you believe that it will work, but you need more time to play it out, then you need to act accordingly to buy yourself runway to do it. If you can’t raise capital at all, or capital at terms that are acceptable, then you need to preserve the oxygen to fight the fight and figure it out.
+
+Which means wicked efficiency with your burn, which means beg, borrow, and steal resources and capital where you can to extend the runway, to keep testing until you figure it out.
+
+When it works you can step on the gas, but if you fire the rocket ship off in the wrong direction and blow your capital, you aren’t going to get a second chance in this market.
+
+**Alex**:  What about if I saw your mobile point, and I thought, “Oh, gosh. I’d love to have an app like Slack, but that’s not us,” and we’re not super comfortable with mobile. How do I get more mobile competent in my product thinking moving forward?
+
+**[](https://i0.wp.com/www.saastr.com/wp-content/uploads/2016/06/Law-1.png?quality=70&ssl=1)Byron**:  Follow the customer on that, in the sense of think through what are their use cases where mobility could be an enabler for them, and get ahead of it. You’ve got all sorts of technical decisions that fall out of it, mobile native or mobile Web, how do you do it, how do you implement it.
+
+Fundamentally, they’re going to be pulling through product where they are at, which is on a Caltrain, which is in the field, which is in the back of an Uber. Wherever it happens to be.
+
+If your product doesn’t give them that accessibility, that contextual awareness, and that advantage, then they’re going to look for one that is. Build it into your product strategy now.
+
+The first-gen SaaS companies are particularly vulnerable here, because they’ve had success, they’ve got pretty good products, and in some cases, they’re taking that for granted. The disruption is going to come from this leading indicator of mobility.
+
+**Alex**:  Is there a point where it’s too early to be worrying about mobile? Would you say you should be doing that even before you’ve proven product market fit?
+
+**Byron**:  There’s certainly use cases that mobile’s down the list. There’s certain use cases where security’s so tantamount that it will be laggard. I would actually flip it and say, “If I’m starting a net new business today, there’s a real question of should I be mobile-only or mobile first.”
+
+The spectrum of access where it’s a cloud back end, but the interface can be a browser, it can be a tablet, it can be a mobile phone. I would go to where the puck is going in the Gretzky-esque sense of it, which is, we’ve had the tipping point. The majority are on the Web and access via mobile device. Go satisfy their needs because competition’s a lot less.
+
+**Alex**:  Thank you, Byron.
+
+**Byron**:  Thank you, guys.
+
+**Alex**:  I recommend, if you guys haven’t checked out the cloud report in detail, you should just read my article about it. It’ll summarize it all.
+
+\[laughter\]
+
+**Byron**:  It was good. I’ll give you credit for that, baby. Thank you.
+
+\[applause\]
+
+**See Byron’s slides [here](https://www.slideshare.net/saastr/10-laws-of-building-a-unicorn-at-saastr-annual-2016).**

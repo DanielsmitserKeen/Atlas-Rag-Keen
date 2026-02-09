@@ -1,0 +1,575 @@
+# Why paid marketing sucks, Network effects, Viral Growth, and more at andrewchen
+
+Dear readers, I have moved to Substack and I will be writing here from now on:  
+👉 [andrewchen.substack.com](https://andrewchen.substack.com/)  
+In the meantime, I will leave andrewchen.com up for posterity. Enjoy!
+
+Dear readers,  
+It was my pleasure to be on my first ever Andreessen Horowitz podcast! if you haven’t checked it out, [you can subscribe here](https://itunes.apple.com/us/podcast/a16z/id842818711?mt=2). I’ve linked to the Soundcloud and included a transcript below.
+
+In the podcast, we cover a broad overview of growth/marketing topics, including:
+
+*   The natural “gravity” that slows down high-growth businesses
+*   What’s really happening beneath the surface of exponential growth curves
+*   Organic, paid marketing, and LTV/CAC
+*   Why blended CAC numbers are misleading
+*   Why offline products are so compelling for acquiring customers
+*   Cohort analysis and looking for “smile curves”
+*   The Power User Curve aka L28
+*   Why onboarding is so important for retention/churn
+*   Phases of growth- why early companies focus on acquisition, but big companies focus on churn
+*   High frequency versus episodic usage products
+*   Why adding lots of spammy email notifications decreases your DAU/MAU
+*   Network effects and why different products’ network effects are different from each other
+*   Why Google measures many short sessions, versus other products focus on long sessions
+
+Hope you enjoy it!
+
+And thank you to my colleagues Sonal and Jeff for making this happen :)
+
+Andrew  
+Palo Alto, CA
+
+**Part 1: User Acquisition**
+
+_Hi everyone welcome to the a16z Podcast, I’m Sonal. Today’s episode is all about growth, one of the most top of mind questions for entrepreneurs — of all kinds of startups, and especially for consumer ones._
+
+_So joining to have this conversation, we have a16z general partners Andrew Chen and Jeff Jordan. And we cover everything from the basics of growth and defining key metrics to know, to the nuances of paid vs organic marketing and the role of network effects and more._
+
+_Part one of this conversation focuses specifically on the aspect of user acquisition for growth, and then we cut off and go into the aspects of growth for user engagement and retention, in the next episode. But first, we begin by going beyond the concept of growth hacks — and beginning with the fundamental premise that businesses do not grow themselves…_
+
+**💌 Are you up to date?**
+
+Get new updates, usually once a week – featuring long-form essays with what’s going on in tech.
+
+Sonal: So the topic we wanted to talk about today is growth, which is a big topic. What would you say are the biggest myths and misconceptions that entrepreneurs have about growth?  
+  
+Andrew: You know, not only is there the misconception that it happens magically, then the next layer I think is that it’s really just like, oh, a series of, you know, tips and tricks and growth hacks that kind of keep things going as opposed to like a really rigorous understanding of, you know, how to think about growth not just, as kind of the top line thing but actually that there’s acquisition, that there’s engagement, that there’s retention, and each one of those pieces is very different than the other and you have to like tackle them systematically.
+
+Jeff: It is a scientific discipline, done right, because it requires you to understand your business and business dynamics at this incredibly micro level.    
+  
+Sonal: I love that you said that because one of the complaints I’ve heard about “growth hacking” is that it’s just marketing by a different name, and what I’m really hearing you guys say is that there’s a systemic point of view, there’s rigor to it, there’s stages, there’s a program you build out.
+
+Jeff: If you’re fortunate enough to achieve product-market fit and your business starts to take off, typically, you know, when in the wonderful situation do you get this hyper growth where you’ll grow year over year, you know, it’s triple digits. It’s just exploding. And then gradually the law of the large numbers starts to kick in and maybe the 100% growth becomes 50% growth the next year, and then the law of large numbers continue to kick in and there’s 25% and then it’s 12.5% and so growth tends to decay over time even in the best businesses. And so the–    
+  
+Sonal: — Didn’t you use to call it like “gravity”?    
+  
+Jeff: I called it gravity, you just would…it comes down to earth. And then the job of the entrepreneur is to be looking years down the road and say, “Okay, at some point growth in business A is going to stop and so I want to keep it going as long as I can and there’s a whole bunch of tactics to do that,” but then the other tactic, the other strategies, okay, I need new layers on the cake of growth.
+
+At eBay the original business was an auction business in the U.S. and so, you know, some of the things we layered on early days we layered on fixed price in the U.S. — it’s not revolutionary but it really did grow then we went international. And then we layered in payment integration and each time we did that the total growth of the company would actually accelerate which is very hard to do at scale.    
+  
+Sonal: That’s the whole point… like there’s intentionality to it. It’s not an accident that you guys introduce new businesses, new [layers on the cake](https://a16z.com/2012/01/18/a-recipe-for-growth-adding-layers-to-the-cake-2/).
+
+Jeff: _Businesses don’t grow themselves, the entrepreneur has to grow them._ And, you know, occasionally, you stumble into a business that seems to almost grow itself but they’re just aren’t many of those in the world and that growth almost never persists for long periods of time unless the entrepreneur can figure out how to continue its growth.    
+  
+Sonal: Right. I remember a post you wrote actually a few years ago on “[The ‘Oh, Shit Moment!’ When Growth Stops](https://a16z.com/2015/09/30/what-to-do-if-growth-stops/)” because people are a little blindsided by it.    
+  
+Jeff: And that’s the flip side of it. You know, early on you get this great growth, you had to keep it going. When it stops your strategic options had been constrained dramatically.
+
+Andrew: A lot of times when you’re looking at what seemingly is an exponential growth curve. In fact, it’s really something like, oh, you’re opening in a bunch of new markets, right, so there’s sort of a linear line there, but then you’re also introducing products at the same time and you’re also reducing friction and, you know, sign-ups or retention or whatever, and so, the whole combination of those things is really kind of like a whole series of accelerating pieces that looks like it’s, you know, this amazing viral growth curve. But it’s actually like so much work underneath.  <Sonal: Right.> You know, that makes that happen.  
+  
+Sonal: I’ve also heard you \[Andrew\] talk about, being able to distinguish what is specifically driving that growth, so you don’t have this like sort of exponential-looking curve without knowing what that lever that you’re pulling to make that happen or knowing what’s happening even if it’s kind of happening naturally or organically. Can we break down some of the key metrics that are often used in these discussions including just what the definitions are and maybe just talk through how to think about them?    
+  
+Andrew: Right. Yeah, so when you look at a large aggregate number like, you know, total monthly active users, right, or you’re looking at like —     
+  
+Sonal: — “MAUs”    
+  
+Andrew: –Yeah, MAUs, right. Or you’re looking at, you know, the GMV like all the…adding up all the transactions in your marketplace–
+
+Sonal: — So, “gross merchandise value”.  
+  
+Andrew: Yup. And so, you know, when you look at something like that and if it’s going up or down, you don’t have the levers at that level to really understand like what’s really going on. You want to go a couple levels even deeper: How many new customers are you adding? As you’re growing more and more new customers, a bunch of things happen. If you’re using paid advertisement channels, things tend to get more expensive over time because — you know, your initially super, super excited core demographic of customers — like they’re gonna convert the best and as you start reaching into different geographies, different kinds of demos, all of a sudden they’re not gonna convert as well, right?
+
+Sonal: Just to pause in that for a quick moment, you’re basically arguing that growth itself halts growth in that context.  
+  
+Andrew: Right. Yeah. So the law of large numbers means that you know there’s only a fixed number of humans on the planet, there’s only a fixed number of people that are in your core demographic, right? Once you surpass a certain point, it’s not like it’s it falls off a cliff, it’s just more gradual that you know that the customer behavior really changes.    
+  
+Sonal: How do you determine what’s what when you don’t have product-market fit? Sometimes aren’t these metrics ways to figure that out or is this all when you have product-market fit… like is there a pre- and a post- difference between these?  
+
+Andrew: Very concretely, you want to understand how much of the acquisition is coming from purely organic (people discovering it, people talking to each other), as opposed to, oftentimes you’ll run into the companies that have over 50% of their acquisition coming from paid marketing and that tells you something that you’re, you know, needing to spend that much money to get people in the door.    
+  
+Sonal: Yeah. So CAC, “customer acquisition cost”, that’s what you’re talking about when you talk about acquisition.
+
+Jeff: CAC is what it cost to acquire a user, “blended CAC” is what it costs to acquire a user on a paid basis plus then also what free users you acquire. So if you’re acquiring half your users through paid marketing you’re paying a $100 to acquire a user but half of your users are coming at zero, paid CAC is 100, blended CAC is 50.
+
+I think blended time is a really dangerous number. Most of the best businesses in the internet age of technology haven’t spent a ton on paid acquisition. And so the truly magical businesses, you know, a lot of them aren’t buying tons of users… Amazon’s key marketing right now is free shipping. And then, yeah, the economics of paid acquisition tend to degrade overtime.    
+  
+Sonal: As it grows.  
+  
+Jeff: As it grows and you just try to scale it and, you know, largely you’re cherrypicking the best users and then you’re trying to also scale the number you get to grow. I need twice as many new users this year as last year and you typically pay more so that magical LTV to CAC ratio which early on says, “Oh, we are three to one, you know, in two years it’ll probably be one and a half to one if you’re lucky,” or something like that. So we typically do try to look for these other sources of acquisition be it viral, be it, you know, some other form of non paid <crosstalk>
+
+Sonal: I want to quickly define LTV — it’s “lifetime value” of the customer, but what does that mean?    
+  
+Jeff: When you’re showing an LTV to CAC ratio you have no idea of what you’re seeing essentially given all the potential variations of the numbers. So we will almost always go for clarity. LTV, lifetime value, should be the profits, the contribution from that user after all direct costs.
+
+Sonal: How do we define the LTV to CAC ratio? What do the two of them in conjunction mean?    
+  
+Jeff: Well, let’s break them down. LTV is lifetime value. What you’re describing there is the incremental profit contribution for a user over the projected life of that user. So not revenue per CAC is that you know typically there’s cost associated to user. What’s the incremental contribution that the user brought from that <crosstalk> <Sonal: And that you mean the user brought to your company’s value.> To the company, yeah.  
+  
+Sonal: So it’s a value of your customer to the bottom line?    
+  
+Jeff: It’s the value of each customer to the bottom line, and then you compare that to the CAC or “cost of acquired customer” to understand the leverage you have between what I need to spend to acquire a customer and how much they’re worth. If your CAC is higher than your LTV you’re sunk. Because it’s costing you more to acquire a user…  
+  
+Sonal: Than the value you get out of it. Now I get it.  
+  
+Jeff: …then you’re going to get out of that user.  
+  
+Sonal: Yeah.    
+  
+Jeff: If it’s the opposite, at least you’re in the game. You know, I get more profit out of the user than I get the cost to acquire that user. And then there’s this dynamics on how does it scale over time, CAC tends to go up, LTV tends to go down. Because you’re, on the CAC side, you’re acquiring the less interested users over time. So they cost more to acquire and they’re worth less, and so that the LTV to CAC ratio, in our experience, almost always degrades as over time with scale.  
+  
+And so, you know, when you’re in that conversation, you’re in a very specific conversation of, “Okay, how much room do you have?” “How is it gonna scale?” “You know, what’s gonna impact your CAC like a competitive thing?” So there has to be a lot, it had to be like 10 to kind of get you over that concern that oh, my goodness, those two were so close, that you have no margin for error.  
+  
+Sonal: Right. This also goes back to the big picture, [the layers on the cake](https://a16z.com/2012/01/18/a-recipe-for-growth-adding-layers-to-the-cake-2/), because if you have other layers you don’t have to only worry about one layer CAC to LTV ratio.    
+  
+Jeff: It really does affect the calculation. If it’s, I’m in a new business, and I have a whole different CAC versus, you know, LTV ratio then that’s a different conversation as well.
+
+Sonal: And the big picture there, is that if you don’t know the difference of what’s doing what when you may get very mistaken signals, mixed signals about your business, and so you guys don’t want [blended CAC](https://a16z.com/2015/08/21/16-metrics/) because you want to know _what’s_ driving the growth.
+
+Andrew: I think what blended CAC gives you is it gives you a sense for at this particular moment in time, you know, what’s happening. The challenge is that [when it comes to paid marketing](https://andrewchen.co/paid-marketing-addiction/), in particular, it’s easy to just add way more budget and a scale that than it is to scale organic or to scale SEO. So your CAC is giving you a snapshot, but then as you’re trying to scale the business you’re trying to increase everything by 100% over the next, you’re trying to double everything then all of a sudden, you know, your blended CAC starts to approach whatever your dominant channel actually looks like.    
+  
+And so if you’re spending a bunch of money then it’ll just approach whatever is your paid marketing, you know, CAC. What entrepreneurs should think about is what is the unique organic new thing that’s gonna get it in front of people, without spending a bunch of money, right?
+
+Jeff: A lot of the best businesses have this very interesting, I’ll call it a growth hack. I mean OpenTable, when I was managing it, did not pay any money at all to acquire consumers. Like how can you do that? You know, it had millions of consumers. The restaurants would mark it OpenTable on our behalf.    
+  
+Sonal: Right.  
+  
+Jeff: They go to The Slanted Door website like when they were an OpenTable customer and you’d see, you’re looking…you go there to try to get the phone number to make a reservation and they’d say, “Oh, make an online reservation.” And we then got paid to acquire that user in its core form. But that hack was a wonderful thing. It scaled with the business and got us tons of free users.
+
+  
+Sonal: To be fair, and this is another definition we should tease apart really quickly before we move on to more metrics, that also had a quality of network effects [which we’ve talked a lot about](https://a16z.com/advice-and-how-to/network-effects/) in terms of these things growing more valuable to more people that use it… is that growth? What’s the difference there?    
+  
+Jeff: Well, the business grew into the network effect. The key tactic to build the network effect was that free acquisition of consumers that the more restaurants we had, the more attractive it was to consumers the more consumers who came, the more attractive it was to restaurants. So there is a wicked network effect.  
+  
+Sonal: Like a flywheel effect, right.  
+  
+Jeff: If you’re not spending anything on paid acquisition of consumers, how do you start it? And the placements that OpenTable got in the restaurant book both physically in the restaurant but particularly in the restaurant’s website was the key engine that got the network effect started. You had to manually sell some restaurants come for the tools, stay for the network, but then once the consumers got enough of a selection and started to use it, it was game over.    
+  
+Sonal: Right, that was one way of going around the bootstrapping or the [chicken-egg problem](http://cdixon.org/2009/08/25/six-strategies-for-overcoming-chicken-and-egg-problems/) and seeding a network.
+
+Andrew: Network effects have…there’s a lot of really positive things about them and one of the big pieces is that virality is a form of like something that you get with the network. You know, the larger your network is, the more surface area, the more opportunities you have in order to encounter it, right. And so, you know, in the case of Uber (where I was recently), by seeing all the cars with the Uber logo like those are all opportunities to be like, “Oh, what is this app? I should try it out.” And so it’s mutually reinforcing: then you get more riders and then you get more drivers that are into it and so, I think all of that kind of plays together.
+
+Jeff: I’ll bring two examples up, the pink Lyft mustache when I first got to San Francisco.    
+  
+Sonal: I remember that.  
+  
+Jeff: You can see it once in the car and you’d go, “Oh, that’s pretty weird.” You see it twice in the car and you say, “Something is going on here that I don’t know about, and I have to understand what it is.” Lime is the same kind of thing.  
+  
+Sonal: Right.  
+  
+Jeff: They’re bright green and they glow essentially. So when someone sees one in the wild, someone bolts by them in a glowing green electric scooter and you’re just like, “Okay…what is that?” And Lime hasn’t spent a penny on consumer acquisition. <Sonal: Right.> Because their model is such that physical cue in the real world leads to it.  
+
+Andrew: The other one I’ll throw in as well is within workplace enterprise products there’s a lot of kind of bottoms-up virality that comes out of people, you know, kind of sharing and collaborating.    
+  
+Sonal: Like with Slack.  
+  
+Andrew: Yeah, like for example Slack is a great, it’s an example of this. And so, these are all kind of really unique ways that you can, you know, get acquisition for free. And so then your CAC is, you know, “zero” as a result.  
+  
+Sonal: Yeah.
+
+You guys have talked a lot, about organic. It makes it sound to me as a layperson that you don’t want paid marketing! Like what’s your views on this — is it a bad thing, is it a good thing; I don’t mean to moralize it but — help me unpack more where it’s helpful and where it’s not. Are they any rules-of-thumb to use there?  
+  
+Jeff: I mean a lot of great businesses that have leveraged paid marketing. The OTA sites (online travel agencies – Priceline and Expedia) just spends, you know, they spend a GDP of many large countries in their acquisition; and then it’s often a tactic in some good business. But if it’s your primary engine, a couple of things happen: One is it tends…the acquisition economics tend to degrade over time for the reason we’re saying…  <Sonal: Right this is…> And it leaves you wide open to competition.  
+  
+Sonal: It gets commoditized basically.  
+  
+Jeff: If you need to buy users, I mean if you’re selling, you know, the new breed of mattress and you need to buy users and early on, you’re the only person competing for that word, flas-hforward a year or two, they’re like six new age mattress manufacturers with virtually identical products competing for the same consumer. The economics are not going to persist over time. And so, you know, one of the key questions in businesses driven by heavy user acquisition is how does the play end? You know, it usually looks pretty good at the beginning of the play but in the middle it’s starts getting a little complex and there’s tragedies at the ends.    
+  
+Sonal: There’s literally an arc.
+
+Andrew: And I think, you know, if it is something that you’re using in conjunction with a bunch of other channels and you’re kind of accelerating things, that can be great. For example when Facebook in the past broke into new markets they started with paid marketing to get it going. And so in a case like that really paid marketing is a tactic to kind of get a network affect jumpstarted right? <Sonal: Gotcha.> And then you can kind of like pull off from that if you’d like. <Sonal: Right.>  
+  
+Andrew: But if you’re super, super dependent on it and you don’t have a plan for a world that you know all the channels atregonna degrade \[in\] then you’re gonna be in a tough spot in a couple of years.    
+  
+Sonal: Totally. Do you have sort of a heuristic for when to stop the paid? Is there like a tipping point, you know, THIS is when you move?  
+
+Andrew: I think in terms of how much paid should you do _as part of your portfolio_, I think that’s the right way to think of it is it’s one out of a bunch of different channels, right? And so I would argue the following: First is you really have to measure the CAC and the LTV and be super disciplined about not spending ahead of where you want it to be and not to do it on some, you know, blended number that doesn’t make any sense. <Sonal: Right.> And then I think the other part is you really want it to be kind of a small enough minority of your channels. Such that if you were to get to a point where it turns out to be capped that you’re okay, that you can live with that.    
+  
+Sonal: Your business will survive and you continue to grow and be healthy.    
+  
+Andrew: Right, exactly, and you can still get the growth rates you want and you can still, you have such strong product-market fit that you’re able to maintain that.  
+  
+Jeff: Take a couple of sector examples. You know, ecommerce, a lot of companies struggle with, “Okay, how do I get organic ecommerce traffic?” So most ecommerce companies rely heavily on paid user acquisition, you know, typically one of the interesting things is they degrade over time and they’re all competing for the same user. It’s hard for ecommerce companies in most segments to be profitable and you’d look at the same kinds of dynamic and restaurants delivery. You know, if you can’t differentiate yourself and you’re highly reliant on paid marketing, the movie typically doesn’t end really great, and so, we look for segments where there’s a balance or they come up with that really unique growth hack and they’re not then reliant on paid channels.
+
+And then by the way, paid channels can degrade too. I mean, I’d made a couple of investment mistakes where the paid acquisitions looked really good and then actually what they were doing is they’re arbitraging something like Facebook’s early mobile attempts where the people who participated with Facebook mobile ads early got real deals. They were nowhere near kind of the price they should have been trending at, so you’re like, “Look at these user analytics. They’re awesome!” And then Facebook, you know, kind of got the equilibrium when supply and demand met and the cost went up multiples, and those businesses that looked so good early just got incredibly stressed because they had no alternative to that inflation.    
+  
+Sonal: That’s the case of platform risk where you’re dependent on the channel of on Facebook mobile or whatever the specific channel was there. But Andrew, you were also earlier talking about just a cap on how much is possible, and you both referenced the fact that things can become very competitive, that your competitors can also buy the same channels and then it gets very crowded or very expensive. So there’s multiple layers of the risk of the paid is what I’m hearing, but you have to be aware of that.
+
+Andrew: Yeah. So I think on the acquisition side today, there’s a couple of really interesting opportunities that might be, you know, temporal, right, and like it may go away, right? <Sonal: Like, anything that crosstalk> For example, I think that if you have a product that is very highly visual, and I think this is, you know, one of the reasons why eSports has gotten so huge is because you have a product that naturally generates a ton of video in an age which all the platforms are trying to rush to video.    
+  
+Sonal: That’s fascinating.    
+  
+Andrew: Right? And so, you know, maybe this will be less of an opportunity coming up but like, you know, that’s a thing.    
+  
+Sonal: Why would you say that’s temporal because it seems like…    
+  
+Andrew: Because the competition will…  
+  
+Sonal: …Do the same thing?  
+  
+Andrew: …Yeah, will do the same thing, right. I think we’re now gonna move to a thing where all of these different kind of software experiences all are incredibly sharable. Like there’s no point these days in building a new game that doesn’t have like built-in recording and publishing the Twitch stream. And built-in tournament systems and all the community features and all that stuff that you need and, you know, I think it used to be that you would think of a game is just the actual IP but in fact, it’s sort of these layers and layers and like social interaction and content around it. And I think that’s about true as well as, all of these different brick-and-mortar experiences that are making themselves highly Instagrammable, they are adding the areas where you actually stand there and pose…    
+  
+Sonal: Oh, my god, my favorite story about this is the restaurant trend of making square plates and layouts so it really fit beautifully with Instagram. That’s like one of my favorite cases; that’s one of my favorite things in the world is when the physical world adapts to the digital!
+
+Andrew: And then you can go the other way too which is, physical products like scooters that remind you to engage digitally. The other, fun example I always like is everyone’s had the experience now where they’re just like in the room talking and then their Amazon Echo just turns on and it’s trying to go and I’m like, you know, they have no incentive to fix that. <Sonal: Yeah.> Because it reminds you that it’s there and reminds you to talk to it.
+
+I think the big takeaway here is that you have to really be creative and really be on the edge of what everyone’s doing, right? And so if it turns out that everyone’s really into video and they’re really into Instagram right now, you have to think about like how does my product actually fit into that trend? <Sonal: Yeah.> And if you can find it, then you can get an amazing killer way to get jumpstarted and if the trend lasts then great, accelerate it with paid marketing, accelerate it with PR, do all that stuff to kind of keep it going.
+
+I also want to make the distinction that we’re mostly talking about growth and acquisition.
+
+Sonal: Yesss!
+
+Andrew: And that is what startups mostly care about in the early days, because you don’t really have any active users, right? But the other part of this is that you see all the users would show up and how active they are starts to change over time… <overlap/crosstalk>  
+  
+Sonal: <overlap/crosstalk>…The engagement. Well, thank you guys for joining the a16z Podcast.
+
+**Part 2: Engagement and Retention**
+
+_Hi everyone welcome to the a16z Podcast, I’m Sonal. Today’s episode continues our series on growth — the first part covered the basics of user acquisition — and so this part covers, more specifically, engagement and retention. Including, as always, key metrics and how to think about them._
+
+_Joining us to have this conversation, we again have general partners Andrew Chen and Jeff Jordan. And we cover everything from how do network effects come in to is there really a magic number or aha moment for a product? To who are the power users and what is the power user curve for measuring them. But first, we begin with what happens_ after _the initial acquisition phase, as different kinds of users join a product or platform over time — what does that mean for engagement; and how do you analyze them, using cohort analyses?_
+
+Andrew: One of the things that you see is that people end up using these products very differently. Because the kinds of users that you’re getting are changing over time. When you look at something like rideshare, you know, all the early cohorts are basically people in urban areas. And in these days all of rideshare is more like suburban or rural folks because you’ve saturated all of the center. And so what you tend to see is as you acquire your folks, your core demographic out that actually ends up showing up in the engagement.  
+  
+And so, you know, going back to a natural “gravity” to the whole thing \[discussed in episode one\], this gravity also hits the engagement side of things as well — and then ultimately the LTV because your users were typically getting less valuable. I may take years to see this kind of play out but that’s kind of the natural law of things.  
+  
+Jeff: There is a progression in these and particularly the ones that are really successful. Early on it’s all about getting users. <Sonal: Right.>    
+And it’s just like users, users, users. If you’re widely successful at doing that you run out of users (or you start running low on users) and you have to go to engagement. So Pinterest has a very high-quality problem right now. Most women in America, have downloaded the Pinterest app.  
+  
+Sonal: Oh yah, I’ve had it for years.  
+  
+Jeff: Some growth can come through, okay, there’s some number of women who never heard of Pinterest somewhere in the country. But much more so they need to engage and re-engage the existing audience. I mean, we love engagement from an investor standpoint because it’s just, you know, that \[crosstalk\]    
+  
+Sonal: \[crosstalk\] It shows stickiness.    
+  
+Jeff: You can often hack your way into new users. It’s really hard to hack your way into true engagement. <Sonal: Keeping them.> Someone is spending 20 minutes a day on your site. Offerup, Pinterest the major investment thesis was, “Oh, my God!” look at that engagement … And, you know, if they can scale the userbase it’s a beautiful thing.  
+  
+Sonal: Right. What we mean by engagement is actually interacting with them and seeing their activity. Because to Andrew’s three points of acquisition, engagement, retention, the third piece is keeping them.  
+
+Andrew: The way that we’ll often analyze this is looking at cohort analysis.
+
+Sonal: Yesss.  
+  
+Andrew: Where we’ll look at kind of each batch of users that’s joining in each week and really start to dissect like well, how active are they really and to compare all these cohorts over time. You’re basically putting the users that come in from a particular timeframe, let’s say it’s a week, and you’re putting them into a bucket, right? And what you’re doing is you want to compare all of these different buckets against each other.
+
+And so what you typically do is you look at a bucket of a cohort of users and you say, “Okay, well, you know, once they’ve signed up the week after, how active are they?” And what about the week after that and the week after that and you kind of like can build out a curve. And it just turns out that these curves once you’ve looked at enough of them surprisingly, human nature, they all look kind of the same. They kind of all kind of curve down and for the good ones they start to flatten out and plateau and then, for the really good ones they’ll actually swing back up and people will come back to the surface. What you want to do is you want to compare the various cohorts against each other in time to see if you can spot any trends on how the usage patterns are, increasing or decreasing. When you add a new layer to a layer cake, you might unlock a bunch of new behavior. You might unlock a bunch of new frequency that didn’t exist before. Or alternatively, over long thresholds of time, people tend to become less active as you move out of your cohort segment.    
+  
+Sonal: The cohort graduates.
+
+Andrew: Whether or not a specific cohort of users flattens out is really important, right? Because, you know, if you’re in a world where they kind of slowly degrads and then all of a sudden it’ll actually go to zero, that means that you’re always kind of filling up the bucket — You have a leaky bucket, you’re constantly filling it up.    
+  
+Sonal: You’re always filling it up. Right.  
+  
+Andrew: Right, and what happens is that gets progressively harder because, if you want to keep your overall growth rate, because that means you have to double, triple, quadruple your acquisition in order to counteract for that.
+
+One growth accounting equation that’s often thrown around is that you know your incremental — your net — MAUs, right? So your net monthly active users equals all the new people that you’re acquiring, minus all the people that are churned, and then plus all the people that you’re resurrecting…    
+  
+Sonal: …Re-engaging.  
+  
+Andrew: Re-engaging, exactly, that are coming back after they’ve churned. And so what happens is for a new startup you are completely focused on new users because you don’t really have that many users to churn, and over time as you get bigger and bigger and bigger what you find is that your churn rate starts to — it’s a percentage of your actives.
+
+And so the evolution of most of these companies as they’re getting bigger tends to start with acquisition, then focus much more on churn and retention, and then ultimately also to layer in resurrection as well.    
+  
+Jeff: And the cohort curves have a couple of other features that I love. Usually in marketplace businesses, the best models are built off of the cohort curves.    
+  
+Sonal: Interesting!    
+  
+Jeff: Because you have to understand that degradation and where it goes. Using cohorts really give you a sense of their network effects, and network effect is the business gets more valuable to more users that use it; if it gets more valuable, your newer cohorts should behave better than your early cohorts.  
+  
+Sonal: Why is that?  
+  
+Jeff: Because the service is more valuable given how they are.  
+  
+Sonal: Interesting. So that’s kind of a tip–  
+  
+Jeff: So in OpenTable if there’s ten times more restaurants you’re going to get a whole lot more reservations per diner because you were serving more of their needs. The OpenTable cores would climb up and get more attractive over time versus, you know, we talk about typically they tend to degrade over time. If you’ve reversed the polarity and they’re growing over time it means you’ve made the business more valuable. And then you start projecting forward. Okay \[crosstalk\]  
+  
+Sonal: What a better way to know the business is actually more valuable than thinking it’s valuable and believing your own myth.    
+  
+Jeff: In a network effects businesses we always ask, _show us the cohorts_. Everyone is \[inaudible\] on network effect, I’m a network effect But, you know, when you say, “Show me the data, cohort curves, or \[crosstalk\].” They don’t like it.    
+  
+Sonal: It’s like show me the money, it’s now [show us the cohorts](https://a16z.com/2015/09/23/16-more-metrics/), I get it.  
+  
+Jeff: They don’t lie.
+
+Andrew: The other really interesting part is segmenting it.  
+  
+Sonal: I was about to actually ask you what are “the buckets” of cohorts? Are they all demographic data?
+
+Andrew: For a bunch of hyper-local type businesses, the reason why segmenting it based on market geography, why that’s so valuable is because then you can compare markets against each other. You can say, “Well, you know, this market which is like, has much more density in terms of the numbers of scooters behaves like this.” And you can start to draw conclusions, sort of a natural A/B test in order to do that.
+
+And I think the similar kind of analysis you can do for B2B companies is for products that have different sized teams using it. If you have a really large team that they are all using a product, well, are they all using the product more as a result? And let’s compare that to something that maybe only has a couple. … And so this way you can start to kind of disassemble the structure of these networks and do they actually lead to higher engagement.  
+  
+Jeff: Slack would be a perfect example of that, you know, just if you have five people in the organization using Slack you get one use curve. If you have the organization it’s the operating system for the organization; you have a very different curve.
+
+Sonal: Though it’s not just an accident, you have to sort of architect it, not just expect, like, serendipity to fall into place.
+
+Andrew: So after you get the new users, the way that you have to think about it is around quality, right? _You have to make sure that the new users turn into engaged users._ One of the things people often talk about is just sort of this idea of like an “a-ha” moment or a magic moment where the user really understands the true value of the product. But often that involves a bunch of setup. So, for example, you know, for all the different social products (whether that’s Twitter or Facebook or Pinterest, etc.), you have to make sure that when you first bring a new user in, they have to follow all the right people. They have to get, you know…  
+  
+Sonal: It’s like the onboarding experience.  
+  
+Andrew: …which, by the way, isn’t just signing up but it’s actually doing all the things to get to this a-ha where you’re like, “Oh.”  
+  
+Sonal: “I get this product.”  
+  
+Andrew: I get this product. It’s for me, And once you get that, then they’re kind of, you know, then you have the opportunity to keep them in this engaged state over time.  
+  
+Sonal: Is that really such a thing that there is, like, an a-ha moment? Or is it sort of like a cumulative… a lot of the later users on Facebook came because everyone else was already there. Is this only tied to new users?  
+  
+Andrew: In the case of Facebook actually, the fact that everyone was already there makes the a-ha moment that much more powerful, right? Because all your friends and family, they’re already there; your feed’s already full of content. And the first time that you see photos that maybe, you know, someone that you went to high school with, right? That is like whoa.  
+  
+Sonal: That’s actually what happened to me. I was so excited when I saw an old friend, right?
+
+Andrew: Right. Yeah, exactly. And so what that means is, you get the product and then afterwards, when you actually are getting these push notifications or emails that are like, “Hey, it’s someone’s birthday,” or whatever, you’ve internalized what that product is. And, you know, this moment is different for all sorts of different companies.
+
+Jeff: I’ve always heard this referred to as the magic number. When you show up and it’s a blank slate, it’s like, “What is this about?” But they would drive you maniacally to follow people because when you got to their magic number where they had statistically correlated the number of followers with long-term engagement and retention — they would kill you to get you there, doing what felt like unnatural acts of, like, you log on, follow, and you say no, and they say yes — but when they got you there, it kicked in, and the service then quote/unquote worked for you.
+
+A lot of the entrepreneurs I work with are trying to figure out what is my magic moment that then creates the awareness of the value prop. So take the example of Pinterest. Pinterest when it goes into a new market, first of all, they figured out they need a lot of local content to make it compelling to local users. The U.S. corpus of images doesn’t necessarily…is helpful in international markets but isn’t sufficient. And so they needed to supplement…  
+  
+Sonal: …You’re right. If I’m Indian, I want, like, saris. I don’t only want, like, skirts, which I may not be able to wear in certain regions.  
+  
+Jeff: Yeah. Exactly. I haven’t worn a sari in North America in a long time ;) <team laughs> But then once you have the content set, then you have to get compelling information to that individual in front of them, which, you don’t know the individual when they walk in the door, the faster they do that, the more quickly, the better the business performs; engagement goes up; retention goes up; and it works. So different entrepreneurs had to figure out what is that…what experience do they want to deliver where people get it? And then how do you engineer your way into delivering it?  
+
+Sonal: Okay. So we’ve come up through acquisition and you’ve gotten new users. They get the product. You even hopefully have a way to measure that and see and track it over time. Do you want then go into trying to get different users? Do you take your existing users? One of the things that we covered very [early on](https://a16z.com/2014/05/30/selling-saas-products-dont-sell-themselves/) is that with SaaS, you always wanna try to take existing users and upsell them because it’s way more expensive to acquire a new customer in that context. (I mean, of course, you wanna grow your customers.) How does this play out in this context? What happens next?  
+  
+Jeff: In a lot of companies, it’s a progression. So almost all the early activity in a company is, “Okay, how do I get the users?” As you get users, you get more and more leverage from efforts at activation and retention and engagement. So, I mean, use Pinterest as an example: again, a very high percentage of women in America have downloaded Pinterest. Then the leverage quickly goes into, “Okay, how do I keep them engaged? Reactivate the ones who disappear?” And their acquisition efforts in the U.S. get de-emphasized and all the leverage is there except as they’re going international, they’re still in that acquisition part of the curve. And so I think the leverage changes over time based on the situation of the company. Facebook hasn’t had any users in the U.S. in forever because they have them all.    
+  
+Sonal: This kind of goes back to this portfolio approach to thinking about your users.  
+
+Andrew: Once you have an active base of users and customers, what starts to get really interesting is to really analyze what are the things that actually set that group up to be successful really long-term sticky users versus what are the behaviors and profiles where users aren’t successful, right? You actually throw your data science team on it to figure out all the different weights for both behavioral as well as the demographic and sort of profile-based stuff on there. And so one of the first things that you figure out is that each one of these products actually has this [ladder of engagement](https://twitter.com/andrewchen/status/697177487483265025) where oftentimes new users show up to do something that’s, valuable but potentially infrequent. And you need to actually level them up to something that happens all the time.
+
+For example, when you first install Dropbox, the easiest thing that you can do is you can use it to just sync your home and your work computers, right? And that’s great but really the way to get those users to become really valuable is for them to share folders at work with their colleagues. Because once they have that and people are dragging files in, and they’re really starting to collaborate on things, that’s like the next level of value that you can actually have on a daily basis versus this thing that kind of is in the background that’s just syncing your storage.
+
+Sonal: So what are some of the things that people can then do to move those users up that “ladder of engagement”?  
+  
+Andrew: Step one is really segmenting your users into this kind of engagement map, oftentimes you’ll see this visualized as a kind of state machine where you have folks that are new, you have folks that are casual, and you want to track how much they’re moving up or down in each one of these steps.
+
+And then once you have that, then the question is, okay, well, great, how do you actually get them to move from one place to the other? First there’s like content and education; they need to know in context that they can actually do something. So for example, if you can get your users to set their home and work for a transportation product then you can maybe figure out, okay, should I prompt them in the morning to try a ride based on what the ETAs are?  
+
+Sonal: Like in the app, there would be some kind of notification.
+
+Andrew: Like lifecycle messaging kind of factors in there. The second is of course if your product has some kind of monetary component, then you can use incentives like $10 bucks off your next subscription if you do this behavior that we know for sure gets you to the next step. And then the third thing is really just like refining the product for that particular use case, maybe there are certain kinds of products that are transacted all the time and so you maybe want to waive fees or you give some credits or you do something in order to get people to get addicted to that as a thing.
+
+Jeff: The really interesting thing is the frequency with which something is consumed. I mean, eBay had enormous levels of engagement early on for an ecommerce app in particular. People would spend hours just browsing because early on it was about collectibles and it was about people’s passion. So if someone’s passionate about Depression-era glass, they will spend hours if you give them that depth of content to say, “Oh, my God. I just found the perfect item.”
+
+OpenTable and Airbnb are both typically much more episodic. Most people don’t dine at fine dining restaurants with high frequency; our median user dined twice a year on OpenTable. And so that has completely different marketing implications and user implications. Measurement is probably even more important in the engagement/ retention thing because we got our data scientist to understand the different consumer journeys through our product, and then we tried to develop tactics to accelerate the journeys we wanted and limit the journeys we didn’t want. But in order to develop your strategy, you really need to understand how your users are behaving at a really refined level.    
+  
+Sonal: So what are some of the engagement _metrics_?  
+
+Andrew: One really important area is frequency, like, just how often are you using the product regardless of the intensity and the length of the sessions and all that other stuff. Literally just frequency of sessions. We might often ask for a daily active user divided by monthly active user ratio, and that gives you a sense for how many days is a user active?  
+  
+Jeff: DAU to MAU.  
+
+Sonal: You recently [put a post out](https://andrewchen.co/dau-mau-is-an-important-metric-but-heres-where-it-fails/) on the DAU/MAU metric.    
+  
+Andrew: Right.  
+  
+Sonal: And when it works and when it doesn’t. There’s a lot of nuances around when to apply it and when not to.  
+
+Andrew: DAU/MAU was very much popularized by the fact that Facebook used it, including in their public financial statements, and it really makes sense for them because they’re an advertising business and it matters a lot that people use them a lot all the time.  
+  
+Sonal: It’s like counting impressions and being able to sell that to advertisers.  
+  
+Andrew: Exactly, their products have historically been 60% plus daily actives over monthly actives. And that’s very high. You’re using it more than half the days in a month. On the flip side, what I was talking about in [my essay](https://andrewchen.co/dau-mau-is-an-important-metric-but-heres-where-it-fails/) about this is that DAU/MAU can tell you if something’s really high frequency and if it’s working, but a lot of times products are actually lower DAU/MAU for a very good reason because there’s sort of just a natural cadence, you know, to the product. Like, you’re not gonna get somebody who is using a travel product to use it more than a couple times per year. And yet there are many valuable travel companies, obviously.    
+  
+Sonal: So you’re saying don’t live and die by that alone.  
+  
+Andrew: Exactly.  
+  
+Sonal: Because it really depends on product you have, the type of nature of use it has, etc.
+
+Andrew: You just want to make sure that the metric reflects whatever strategy that you’re putting in place. If you think that your product is a daily use product and you’re gonna monetize using a little bit of money that you’re making over a long period of time but your DAU/MAU is low, is like sub 15%, then it’s probably not gonna work.
+
+And then [a metric called L28](https://a16z.com/2018/08/06/power-user-curve-l30-l7/), which is something else that was pioneered certainly early at Facebook: It’s a histogram and what you want to do is —  
+  
+Sonal: — A histogram is a frequency diagram.  
+  
+Andrew: Right. A frequency diagram that basically says, okay, show a bar showing how many users have visited once in that month, then twice in the month, and then three times in the month, and then four times in the month. And you kind of build that all the way out to 28 days.    
+  
+Sonal: Because there’s 28 days in the month on average.    
+  
+Andrew: And the 28 days is to remove seasonality and then a related one obviously is like L7, right? So just like last seven days. And so what you want to see…  
+  
+Sonal: So would this be WAUs (“wows”)? Weekly active users? Is that really a thing, by the way? Or am I just making that up?  
+  
+Andrew: Right. WAUs, DAUs over WAUs.  
+  
+Jeff: You just coined it.    
+  
+Sonal: I know. Great. I coined retainment. Why not?  
+  
+Andrew: Right. And so the idea with L28 or an L7 is the idea that you should actually start to see when you graph this out that there’s a group of people who just use it 28 days out of 28 days, right? And that there’s a big group of people who use it 27 days out of 28 days, and that there’s a big cluster. And so that’s how you know that you actually have a hardcore segment. And that’s really important because in all these products you typically have a core part of the network that’s driving the rest of it, whether that’s power sellers or power buyers or, in a social network the creators vs. the consumers.
+
+Jeff: I actually have heard this referred to as a smile because the one use is always pretty big. A lot of people show up once, “I don’t understand what this is,” and disappear… And then they typically slide down, more people use it…fewer people use it two days than one, three days than two. Done right, it starts to increase at the end. So you basically get a smile. \[inaudible\] And I mean, that’s really powerful. Facebook had a smile. WhatsApp had a smile. Instagram had a smile. If you take a step back, it’s a precondition for investing in a venture business essentially that there’s growth. If it’s end market \[inaudible\] you want to see growth, but growth by itself is not sufficient. Investors love engagement. So Pinterest, the key driver of Pinterest, it was growing but the users were using it maniacally.    
+  
+Sonal: Oh, my God. I think I spent an entire Thanksgiving using Pinterest.
+
+Jeff: It was the engagement that blew my mind much more than the growth. OfferUp has engagement that’s similar to social sites like Instagram and Snap. I mean, a ecommerce site, you know, mobile classifieds, people just sit there and troll looking for bargains, looking for interesting things.  
+  
+Sonal: It’s a little addictive to see what’s nearby that you can buy. Why not? Yeah.  
+  
+Jeff: So DAU to MAU, smile, all these metrics are so core to us because a big engaged audience is so rare and, as a result, it’s almost always incredibly valuable.
+
+Andrew: And the engagement ends up being very related to acquisition because when you look at all the different acquisition loops — whether it’s paid marketing or a viral loop or whatever — all of those things are actually powered by engagement ultimately. Like, you need people to get excited about a product in order to share content off of that platform to other platforms in order to get a viral loop going. And so one of the things I was gonna also add on DAU/MAU and L28 is that they’re actually really hard to game, right? Which is fascinating.    
+  
+Sonal: Yeah, why is that?  
+  
+Jeff: \[inaudible\] growth can be very easy to game.  
+  
+Andrew: Right, exactly.    
+  
+Sonal: Why is that? What’s the difference?  
+  
+Andrew: The typical approach is to say, “Well, you know, I’m gonna add in email notifications. I’m gonna do more push notifications. I’m gonna do more of this and that.” And then automatically, you know, these metrics ought to go up, right? The challenging thing is actually usually sending out more notifications will actually cause more of your casual users to show up because your hardcore users were already kind of showing up already. And what that does is that’ll increase your monthly actives number but actually not increase your daily actives as much. So I’ve actually seen cases where sending out more email decreases your DAU/MAU as opposed to increasing it.
+
+Sonal: That’s really interesting. When you think about this portfolio of metrics, it really tells you a story about people are kind of coming but not really staying–
+
+Andrew: If you get an email or a push notification every day, eventually you turn them off, and then you just stop. So then you get counted as a MAU for that period of time and then you lose them as a DAU. Acquisition is super easy to game because you can just spend money.
+
+Jeff: Or you’ve got a distribution hack that works. Early on in the Facebook platform, companies literally got to a million users and it felt like minutes. Just because there were so many people on Facebook and the ones who were early just got exploding user bases. There were a number of \[inaudible\] whose mean number of visits was one. They never came back. So you get to see these incredibly seductive growth curves but our job is essentially to be cynical and just say, okay, we need to go be it below that because there are a lot of talented growth hackers who can drive growth. I looked at a number of businesses that had tens of millions of users and no one ever came back. \[inaudible\]    
+  
+Sonal: This is why engagement is so, so key.
+
+So [we’ve talked](https://a16z.com/2016/07/16/network-effects-event/) especially about the fact that growth and network effects are not the exact same thing. Because network effects by definition are that a network becomes more valuable the more users that use it. What happens on the _engagement side_ with network effects? What are the things we should be thinking about in that context?
+
+Jeff: Typically network effects, if they’re real, manifest in data. Things like the cohort curves improve over time. Usually there’s a decay. With network effects, there often is a reversal where they’re growing because it’s more valuable. Another smile, essentially. My diligence at OpenTable was I looked at San Francisco, which was their first market, and sales rep productivity grew over time, restaurant churn decreased over time, the number of diners per restaurant increased over time, the percentage that went that booked through OpenTable versus the restaurant’s own website moved towards OpenTable dramatically. Every metric improved. And so, you know, that’s where it both drives good engagement, but also it just improves the investment thesis.  
+  
+Sonal: The value overall, right?  
+  
+Andrew: One of the interesting points about network effects is that we often talk about it as if it’s a binary thing.  
+  
+Sonal: Right. Or homogenous, like all network effects are equal when they’re not.  
+  
+Andrew: Exactly right. When you look at the data, what you really figure out is that network effect is actually like a curve, and it’s not like a binary yes/no kind of thing. So for example, \[turns to Jeff\] I would guess that if you plotted the number, if you took a bunch of cities, every city was a data point, and you graphed on one side the number of restaurants in the city versus the conversion rate for that city, you would quickly find that when cities have more restaurants, the conversion rate is higher, right? I’m just guessing.  
+  
+Jeff: It’s actually almost perfect but with one refinement. The number of restaurants you have as a percent of that market’s restaurant universe; because having 100 restaurants in Des Moines is different than having 100 restaurants in Manhattan.  
+  
+Andrew: Makes total sense. So not only that, what you then quickly figure out is that there’s some kind of a diminishing effect to these things often in many cases. So for example, in rideshare, if you are gonna get a car called 15 minutes versus 10 minutes, that’s very meaningful. But if it’s five minutes versus two minutes, your conversion rate doesn’t actually go up.
+
+If you can express your network effect in this kind of a manner, then what you can start to show is, okay, yeah, we have a couple new investment markets that maybe don’t have as many restaurants or don’t have as many cars but if we put money into them and invest in them and build the right products, etc. then you can grow.
+
+You can do this kind of same analysis whether you’re talking about YouTube channels and the number of subscribers you might have, having more videos is better; I’m sure you can show that. If you go into the workplace, and you start thinking about collaboration tools, then what you ought to see is that as more people use your chat platform or your collaborative document editing platform, then the engagement on that is gonna be higher. You should be able to show that in the data by comparing a whole bunch of different teams.
+
+Sonal: Okay… So we’ve talked about engagement and also how it applies to network effects. Are engagement and retention the same thing? I mean, in all honesty, they sound like they would be the same thing.  
+  
+Jeff: There’s overlap, but they’re different.    
+  
+Andrew: Yeah, there’s overlap, right. Just to give a couple exampleS: So weather is low frequency but high retention because you’re actually gonna need to know what the weather is… <Oh right!>  
+  
+Sonal: Only once a day, unless you live in San Francisco and you gotta check it, like, 20 times a day with all the microclimates.  
+  
+Andrew: Right, exactly.    
+  
+Jeff: Or if you live down here, you have to check it twice a year.  
+  
+Sonal: That’s true, it’s actually the same year-round.  
+  
+Andrew: That’s actually what it showed, was actually more that generally people didn’t really check it that often. However, you are highly likely to have it installed and running after 90 days because it’s a reference thing. You might need it.  
+  
+Sonal: It’s so important, yeah.  
+  
+Andrew: Like a calculator. Versus if you look at something like games or ebooks or those kinds of products, like Really high engagement because you’re like, “All right. I’m gonna get to…I’m gonna finish this like trashy science-fiction novel that I’ve been reading. I’m just gonna get to it.” But then as soon as you’re done, you’re like, “Okay, there’s no reason why I would go back and read it again.”
+
+Sonal: So the real difference is that engagement obviously varies depending on the product, the type of thing it is, whether it’s weather or ebook, and _retention_ is are you still using it after X amount of time.
+
+Jeff: And different companies have different cadences. If the average user is twice a year, retention is did they book annually. Other businesses are, did they come daily? The model behind retention is completely different and the model behind engagement is completely different.  
+  
+Andrew: _The chart that I’d love to really see is one that was like a bunch of different categories that’s, you know, retention versus frequency versus monetization_. I think you got to be, like, really good at least on one of those axes.  
+  
+Sonal: So we’ve done sort of this taxonomy of metrics. We’ve talked about the acquisition metrics. We’ve talked about some engagement metrics, primarily frequency.
+
+Jeff: On engagement, it’s also time. Not just how frequent someone is, but just how much time did they spend.  
+  
+Sonal: Right. Time spent on site, on the… piece, writing comments, not just pageviews.  
+  
+Jeff: Because, I mean, the number of businesses that have great engagement is not high. Because there are only so many minutes in the day. And so, you’re just looking for where, okay, they’re just passing time and enjoying, and they both have obvious monetization associated with that behavior.  
+  
+Sonal: This is why Netflix is so freaking genius because when they literally invented the format of binge-watching, which you could not do — I love it because it’s a very internet native concept — I mean, they’ve literally fucked up everyone else’s engagement numbers.  
+
+Andrew: I think that’s one of the narratives on why building consumer products is much harder these days. Cuz–  
+  
+Sonal: –And, do you think it’s true or not?  
+  
+Andrew: Well, because it used to be. It used to be that you were…what kind of time were you competing for in the first couple years of the smartphone. \[inaudible\] you were competing against literally I’m gonna stare at the back of this person’s head, or I can like use some cool app that I downloaded, right? Versus these days you actually have to take minutes away from other products.  
+  
+Sonal: Yes.  
+  
+Jeff: And it’s typically other \[?\] because the top apps are almost all done by Facebook, Amazon, Google. And you know, breaking through jusT — Marc calls it the first page, the people who are on the first screen — are just such the incumbents. And sure, most people have Facebook on the screen and YouTube on the screen and Amazon on the screen.    
+  
+Sonal: It’s hard to take that down, right?    
+  
+Jeff: You have that competition. It is a big overhang right now in consumer investing because you have to displace someone’s minutes.  
+  
+Sonal: Yeah. I would add one more layer to that, at least on the content side, which is I think a lot of people make a lot of category errors because they think they’re competing with like-minded players and, in fact, when it comes to things like content and attention, you’re competing with just about anything that grabs your attention. It’s not just other media outlets. It’s…  
+  
+Andrew: …Tinder.  
+  
+Sonal: It’s a dating app. It’s something else.  
+  
+Jeff: I’m riding in the train for an hour, I could, you know, see what my friends are doing on Facebook, watch videos on YouTube.
+
+Sonal: It actually changes with time blocks. Xerox PARC did a really interesting study on “micro-waiting moments” and they’re literally the little snatches of time, like two seconds here and there, that you might be waiting in line or doing something, so you can do a lot of snack-sized things in that period, which is also another interesting thing to think about for how people engage with various things.  
+  
+Jeff: So it’s actually funny because there’s some businesses that have good engagement where it’s one session that goes on for a while, YouTube or Netflix or something like that. There are others that are multiple small sections that in aggregate…  
+  
+Sonal: …Like a podcast which might not finish in one sitting.  
+  
+Jeff: …Because it’s the micro-opportunities…  
+  
+Andrew: …And Google is the best example of this, right? In fact if you spend a lot of time on Google.com, you know, refining your searches and clicking around, that means actually the service is doing poorly.  
+  
+Jeff: They’ve failed. Their goal is to get you to their advertisers as fast as they can.  
+  
+Andrew: That’s a frequency play and a monetization play ultimately as opposed to an engagement one.    
+  
+Sonal: Yes, that’s fascinating.  
+  
+Andrew: And some products are more on the engagement side.  
+  
+Sonal: So sometimes you have to optimize it based on how you’re monetizing. What are some of the metrics for retention? I mean, is it just should-I-stay-or-should-I-go? Is that the retention metric?  
+  
+Andrew: I think the big thing is the concept of churn. Is a tricky one in some cases like subscription Hulu, Netflix, and then also in the SaaS world. Whether or not you’re still continuing to pay or not. And that’s really obvious.
+
+The thing that’s tricky for a lot of these consumer products especially episodic ones — and, it’s actually less whether they’ve quote-unquote churned or not — it’s actually just whether or not they’re active or inactive, and whether or not that’s happening at a rate that you in your business strategy have decided is acceptable or not. If every Halloween, you know how there’s those costume stores that open all over the place. If every Halloween, you go back and you buy a costume, but you’re inactive the rest of the time, have you churned or not? It’s not clear and I would argue you’ve not churned because you’re doing exactly what they want, which is to buy a costume every Halloween.  
+  
+Sonal: It seems like it smakes assessing the retention of a consumer business very difficult.
+
+Jeff: You adjust the time period that you’re relevant on. If the average diner dines twice a year…  
+  
+Sonal: …Then that’s your time frame.  
+  
+Jeff: You can \[inaudible\] apply that metric. Travel’s a similar thing. Airbnb is for the average user relatively infrequent. You have to tailor your look to what are they trying to do, so if you’re trying to stake up with your friends and you’re doing it twice a year, yeah, that doesn’t work. So Facebook has got a whole different setup.  
+
+Andrew: One of the things that companies can often do is to measure upstream signal. So for example, Zillow, you’re probably not gonna buy a house very often. Maybe a couple times in your life. However, what’s really interesting is they can say, “Well, you know, maybe folks aren’t buying houses but at least are we top of mind? Are they checking the houses that are going on sale in their neighborhood? Are they opening up the emails? Are they doing searches?” Right?    
+  
+Sonal: Interesting. Why do you call that “upstream”?
+
+Andrew: In the funnel. You’re kind of going up in the funnel and you’re tracking those metrics.  
+  
+Sonal: I get it now!  
+  
+Andrew: As opposed to, you know, purchases. So even for OpenTable, it’s like, okay, great. Well, maybe if you’re not actually completing the reservations, are you at least checking the app for availability?
+
+Jeff: Or what’s new restaurants where I want to dine? There’s some level of content consumption.  
+
+Sonal: So throughout this entire episode, there seems to be this interesting “dance” between architecting and discovering. Like, you might know some things upfront because you’re trying to be intentional and build these things, and then there are things that you discover along the way as your product and your views and your data evolves. How do you advise people to sort of navigate that dance?
+
+Jeff: You iterate. You develop hypotheses. You put it out there and you test the hypothesis. I think my product’s gonna behave this way. And then, did it?
+
+Probably the most important thing is for me, marketing can be art, marketing could be science; in the consumer internet, it’s more science. Some companies can effectively do TV campaigns, large media budgets, things like that. For me, the better companies typically just rip apart their metrics, understand the dynamics of their business, and then figure out ways to improve the business through that knowledge. And that knowledge can feed back into new product executions or new marketing strategies or new something. It’s constant iteration but it’s informed by the data at a level that on the best companies is really, really deep.  
+
+Andrew: Ultimately, you have a set of strategies that you’re trying to pursue and you pick the metrics to validate that you’re on the right track, right? And a lot of what we’ve talked about today has really been the idea that actually there’s a lot of “nature versus nurture” kind of parts to this. Your product could just be low cadence but high monetization, and so you shouldn’t look at, you know, DAU/MAU. And so you have to find really the right set of metrics that show that you’re providing value to your customers first and foremost and then really build your team and your product roadmap and everything in order to reinforce that.  
+
+Find [the loops](https://andrewchen.co/how-to-design-successful-social-products-with-3-habit-forming-feedback-loops/) and the networks that exist within your product because those are the things that are gonna keeps your engagement improving over time even in the face of competition.
+
+Jeff: Growth is good. Growth and engagement is really really, really good. Sonal: That’s fabulous. Well, thank you, guys, for joining the a16z Podcast.  
+
+**PS. Get new updates/analysis on tech and startups**
+
+I write a high-quality, weekly newsletter covering what's happening in Silicon Valley, focused on startups, marketing, and mobile.
+
+Views expressed in “content” (including posts, podcasts, videos) linked on this website or posted in social media and other platforms (collectively, “content distribution outlets”) are my own and are not the views of AH Capital Management, L.L.C. (“a16z”) or its respective affiliates. AH Capital Management is an investment adviser registered with the Securities and Exchange Commission. Registration as an investment adviser does not imply any special skill or training. The posts are not directed to any investors or potential investors, and do not constitute an offer to sell -- or a solicitation of an offer to buy -- any securities, and may not be used or relied upon in evaluating the merits of any investment.
+
+The content should not be construed as or relied upon in any manner as investment, legal, tax, or other advice. You should consult your own advisers as to legal, business, tax, and other related matters concerning any investment. Any projections, estimates, forecasts, targets, prospects and/or opinions expressed in these materials are subject to change without notice and may differ or be contrary to opinions expressed by others. Any charts provided here are for informational purposes only, and should not be relied upon when making any investment decision. Certain information contained in here has been obtained from third-party sources. While taken from sources believed to be reliable, I have not independently verified such information and makes no representations about the enduring accuracy of the information or its appropriateness for a given situation. The content speaks only as of the date indicated.
+
+Under no circumstances should any posts or other information provided on this website -- or on associated content distribution outlets -- be construed as an offer soliciting the purchase or sale of any security or interest in any pooled investment vehicle sponsored, discussed, or mentioned by a16z personnel. Nor should it be construed as an offer to provide investment advisory services; an offer to invest in an a16z-managed pooled investment vehicle will be made separately and only by means of the confidential offering documents of the specific pooled investment vehicles -- which should be read in their entirety, and only to those who, among other requirements, meet certain qualifications under federal securities laws. Such investors, defined as accredited investors and qualified purchasers, are generally deemed capable of evaluating the merits and risks of prospective investments and financial matters. There can be no assurances that a16z’s investment objectives will be achieved or investment strategies will be successful. Any investment in a vehicle managed by a16z involves a high degree of risk including the risk that the entire amount invested is lost. Any investments or portfolio companies mentioned, referred to, or described are not representative of all investments in vehicles managed by a16z and there can be no assurance that the investments will be profitable or that other investments made in the future will have similar characteristics or results. A list of investments made by funds managed by a16z is available at https://a16z.com/investments/. Excluded from this list are investments for which the issuer has not provided permission for a16z to disclose publicly as well as unannounced investments in publicly traded digital assets. Past results of Andreessen Horowitz’s investments, pooled investment vehicles, or investment strategies are not necessarily indicative of future results. Please see [https://a16z.com/disclosures](https://a16z.com/disclosures) for additional important information.

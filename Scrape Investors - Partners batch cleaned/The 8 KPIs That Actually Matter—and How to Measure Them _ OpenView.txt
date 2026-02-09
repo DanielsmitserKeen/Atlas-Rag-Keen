@@ -1,0 +1,112 @@
+# The 8 KPIs That Actually Matter—and How to Measure Them
+
+With all of the data sources and [SaaS benchmarks](https://openviewpartners.com/productbenchmarks/#.YNC5XDZKiHs) out there, we know it’s easy to obsess over tracking your business’s performance. Before you know it, you can easily be wiped out by waves and waves of metrics and corresponding acronyms—customer acquisition cost (CAC), annual recurring revenue (ARR), annual contract value (ACV), and lifetime value (LTV), just to name a few.
+
+Worst-case scenario, you get analysis paralysis and refuse to take action or make a decision without months and months of data.
+
+Or, as a result of the amount of data you must sift through to do anything, you ignore data altogether and start running your business based on gut feel.
+
+Pro tip: Don’t do either of these things.
+
+So which of these metrics (if any) can entrepreneurs reliably turn to for the tell-tale signs of imminent failure or burgeoning success? In theory, that’s where key performance indicators come in.
+
+Key performance indicators, usually referred to as “KPIs,” are the metrics that are most critical to tracking a company’s performance against its objectives, [according to KISSmetrics’ Lars Lofgren](http://blog.kissmetrics.com/5-metrics-for-saas/). Sounds simple enough, right?
+
+The problem is that there are dozens of metrics that can fall under the KPI umbrella. And tracking them all is neither productive nor efficient. In fact, as analytics expert [Avinash Kaushik writes on his blog](http://www.kaushik.net/avinash/measure-choose-smarter-kpis-incentives/), choosing the wrong ones can create “sub optimal, tear-inducing outcomes that will, slowly over time, bleed the business to death.”
+
+No pressure.
+
+So, what _are_ key performance indicators that really matter to SaaS companies? Below, we’ll cover the eight KPIs that we monitor closely within our portfolio at OpenView—and how to measure them at your own company.
+
+## 1\. Churn Rate
+
+Churn rate is a classic KPI because it’s the core of understanding so many aspects of your business. SaaS monthly recurring revenue (MRR) churn is the most important version of churn, but you can also measure logo (customer churn).
+
+Any sort of churn helps you understand if your SaaS product is providing value for your customers, if it’s priced fairly, if you’re targeting the right market segments, and so much more.
+
+To calculate MRR churn, or the percentage of revenue that has churned, take MRR at the beginning of the month and divide that number by the MRR you lost that month from downgrades or customers leaving. Multiply that number by 100 and you’ll have your MRR churn rate.
+
+Calculating your logo churn is simple: Take the number of customers you acquired one year, and see how many remain customers the next year. Ideally, you’d monitor this on a monthly cohort basis—or even weekly if you’re selling at high volumes.
+
+Far too many SaaS businesses overlook churn in favor of more sophisticated or derivative metrics, and that’s a big mistake. At the end of the day, there is nothing more important to a SaaS company than its ability to retain existing customers while also acquiring new ones.
+
+## 2\. Annual Growth Rate
+
+Annual recurring revenue (ARR), and the annual growth of it, is another classic. And you’d think it was a no-brainer, but there are some founders and businesses who get so wrapped up in the minutiae of the drivers of ARR that they forget to take a step back and look at the big picture.
+
+[According to ProfitWell](https://www.profitwell.com/blog/the-complete-saas-guide-to-calculating-and-optimizing-monthly-recurring-revenue-annual-recurring-revenue), two out of five SaaS companies incorrectly calculate ARR (which means they’re messing up Annual Growth Rate, too). To calculate ARR the right way, take MRR and add MRR from new customers for the month then add MRR change gained from expansion for the month. Deduct all MRR from downgrades and churn. Multiple that by 12, and you’ll have your ARR.
+
+Keep in mind that while this metric says annual, it is best tracked on a monthly basis as accounts are added and subtracted monthly. When you take ARR from last year, take January 2019 and compare it against January 2020, the growth rate between those two numbers is your Annual Growth Rate.
+
+You’ll find that AGR is the basis for many of our [benchmarks](https://openviewpartners.com/expansion-saas-benchmarks/#.Xny9uBNKjfY) as well as our other metrics, so it’s important to double check to see if your organization is tracking it properly.
+
+## 3\. Natural Rate of Growth (NRG)
+
+[Natural Rate of Growth](https://openviewpartners.com/blog/new-saas-metric/) is the newest SaaS Metric we measure at OpenView, because it was designed specifically with product-led growth (PLG) businesses in mind.
+
+**Related read: [What is product-led growth?](https://openviewpartners.com/blog/what-is-product-led-growth/)**
+
+The intent of NRG is to peel back the layers of your business like paid marketing and sales to understand what the true impact of your product is for driving organic growth. NRG is the answer to the question “If no one from sales and marketing did their job for a quarter, how much would we grow?”
+
+You can calculate your NRG by multiplying your annual growth rate by the percentage of product signups that are from organic channels. Organic channels are any channels you don’t have to pay for. Finally, multiply that figure by the percentage of your ARR where the account started in your product (i.e., via a free trial or a freemium product).
+
+## 4\. Net Dollar Retention (NDR)
+
+Net dollar retention sounds like churn rate on a topical level, but it’s an indicator of so much more that’s going on under the hood of your business. NDR answers the question “What is the $1 of CMRR that I earned today worth over time?” OpenView’s Blake Bartlett explains that [true best-of-breed SaaS companies take that $1 and turn it into $1.10+ over time](https://openviewpartners.com/blog/saas-metrics-cmrr-net-dollar-retention/#.Xny_mxNKjfY).
+
+Tracking NDR isn’t as challenging as it would seem. The formula is: (Starting MRR + expansion – downgrades – churn)/Starting MRR. If the result of the calculation is over 100% for your company, good for you! That means you have net-negative churn, and that your product is doing a great job expanding within existing accounts.
+
+If the result is less than 100%, that means you may have a “leaky bucket issue” which means you’re acquiring new customers (which can be costly) in order to disguise churn and keep top-line growth up. This is inefficient growth, and ends up backfiring at some point.
+
+Work across your team to understand your NDR. It should be on everyone’s mind, as NDR builds a solid foundation for your business to weather any downturns in top of funnel efficiency.
+
+## 5\. Cash Burn Rate
+
+This metric isn’t exclusive to SaaS companies, or even in tech, but monitoring it is critical.
+
+Cash burn rate measures the capital that the company burns on a monthly basis to keep the lights on. Your cash burn depends on quite a number of factors, including your business location and your go-to-market motion (sales-led vs product-led). OpenView’s most recent [SaaS benchmarks study](https://openviewpartners.com/expansion-saas-benchmarks/#.Xny9uBNKjfY) found that companies that are located in a high-cost area burn more than 2x that of other areas.
+
+At the end of the day, while growth is key, building an enduring business requires cash efficiency. Cash is king, and your burn should be front and center when reviewing your key performance metrics with the rest of your executive team. According to Jeff Curran, OpenView’s former Director of Business Operations, [you should aim to have enough cash on hand for 18-24 months of burn.](https://openviewpartners.com/blog/extend-your-cash-runway/#.Xn5N7BNKjfY) 
+
+## 6\. Customer Acquisition Cost (CAC)
+
+Like burn rate, this metric isn’t exclusive to SaaS companies, but it’s absolutely critical to monitor.
+
+Customer acquisition cost (CAC) measures the cash that a SaaS business burns to acquire new customers, and indicates how long it will take a company to recoup the initial investment used to capture those customers. Consequently, SaaS companies can use this metric to determine whether they can afford to boost sales and marketing spending, or whether they should be cutting back.
+
+To calculate CAC, take the gross margin of annualized new revenue from a given quarter and divide it by the sales and marketing cost from the previous quarter (less account management fees). The rationale here is that new revenue from sales and marketing spending is not realized until approximately three months later due to the customer ramp-up period.
+
+Ultimately, CAC speaks to a company’s economic viability and efficiency, particularly when it’s compared to the next KPI on this list.
+
+## 7\. Monthly Recurring Revenue (MRR)
+
+Growing software companies tend to concentrate on bookings and revenue numbers and lose sight of their secured monthly revenue flow. Monthly Recurring Revenue (MRR) is a simple but powerful metric that tracks new sales, up-sells, renewals, and churn on a monthly basis.
+
+MRR keeps SaaS companies focused on the present and allows them to track the momentum of the business as it grows. Furthermore, tracking MRR can keep a SaaS company’s management team from falling into the trap of obsessing over long-term contractually booked sales.
+
+While those long-term sales can significantly boost bookings and instill profitability optimism, they may not contribute significantly to monthly cash inflow and short-term scalability.
+
+## 8\. Cash
+
+It may seem like an overly simple KPI, but cash is one of the most important performance indicators for SaaS businesses. Why? Because the nature of SaaS is that it takes significant working capital and initial resources to come up with a good product, and the repayment on that investment occurs over a long period of time.
+
+Therefore, SaaS founders must be very aware of—and vigilant with—their cash reserves. If they fail to do that and end up overspending, the company may require outside financing simply to survive. And that’s rarely a good position to be in.
+
+## Caution: Obsessing over SaaS KPIs isn’t always productive
+
+While each of the metrics listed above are critically important KPIs for SaaS companies, it’s important not to fixate on how your numbers compare to industry averages or benchmarks.
+
+The reason is simple: Every software company is different and you need to consider your unique circumstances before blindly following a rule of thumb that was created for a different circumstance. Yes, benchmarks can be helpful in providing context and framing reasonable expectations when you’re just beginning to scale a SaaS business. But once you begin tracking your KPIs, it’s critical to establish your own benchmarks.
+
+In the end, you need to understand where your business, and your go-to-market model, is strong. Lean into those strengths while staying aware of your weaknesses by tracking SaaS KPIs you may not excel at. Not every business is as perfectly well-rounded as that type-A valedictorian you went to school with (or maybe _were_). Some of what makes businesses and their founding teams attractive investments are their oddities, and their defensible competitive advantages, which at times means that they’re excellent on one measurement and just average on another.
+
+_Note: This article was originally published in March 2020 and updated in June 2021._
+
+## Additional SaaS KPI resources
+
+*   [OpenView’s 2020 SaaS Benchmarks](https://openviewpartners.com/expansion-saas-benchmarks/)
+*   [Saas Metrics for Entrepreneurs](https://www.forentrepreneurs.com/saas-metrics-2/) by David Skok
+*   [The CFO’s Guide to SaaS Metrics](https://www.typeform.com/blog/ask-awesomely/saas-metrics/) by Huw Slater
+*   [SaaS Metrics for Fundraising and Optimization](https://www.intercom.com/blog/saas-metrics-for-fundraising/) by Bobby Pinero at Intercom
+*   [Redpoint Key Metrics Template](https://tomtunguz.com/saas-startup-metrics-template/) by Tom Tungunz
+*   [OpenView’s Value Driver Framework](https://openviewpartners.com/blog/introducing-openviews-expansion-saas-benchmarks-data-explorer/#.Xnzmb4hKhPY) by Sean Fanning

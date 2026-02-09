@@ -1,0 +1,459 @@
+# Startups – An Operator's Blog
+
+With millions in the bank post a seed round, Founders often face the challenge of maintaining disciplined execution. Excess capital often ends up slowing progress towards real PMF. I share a brain hack to counter this.
+
+Was in a working session with a founder recently. The company is going after a huge market opportunity and has raised a low single-digit Mn seed round from some very good VCs.
+
+**_Issues with too much early capital_**
+
+The issue though is that, like most category-creating seed startups, the precise customer persona and pain points to be solved are not obvious right now. After just a few months of execution, it’s quite clear that the company will need a grinding customer discovery process, with long and deep engagements with early design partners.
+
+In my eyes, this is all great. As an investor looking for non-incremental startups, I precisely expect this and in fact, get excited by it. Sharing an excerpt from my post ‘[Building…one at a time](https://operator.blog/2023/02/16/building-one-at-a-time/)‘ on my learnings as a founder on the 0-to-1 stage:
+
+> When the absolute user numbers weren’t met, my morale as a founder would get hit with each iteration. In hindsight, hitting numbers shouldn’t have been the goal at all. The ideal 0-to-1 mindset is like that of a scientist, with curiosity being the core driving emotion, backed by an iterative product development approach. The target outcome of this approach should be to gather insights that help refine the hypothesis.
+> 
+> Similar to how scientists drive their research process one experiment at a time, I have realized that building any new product or service from grounds-up requires moving one “unit” at a time. It’s up to you to decide what that unit should be – acquisition, activation, frequency of use, revenue or even just getting qualitative feedback!
+> 
+> [Building…one at a time](https://operator.blog/2023/02/16/building-one-at-a-time/)
+
+The challenge is when a company has raised significant capital relative to its stage. While this de-risks the company from a runway perspective and opens up many options in each execution track, having money sitting in the bank often puts undue pressure on the founders to use that capital.
+
+In my experience, this pressure starts manifesting in many ways at an operating level:
+
+1/ While the seed stage needs founders to be directly talking to customers and building product, capital often creates a tendency to do premature functional hiring and delegating core aspects of PMF progress to new employees.
+
+2/ Even as a seed startup is still figuring out the customer persona and pain points that it needs to solve, excess capital drives founders to invest in GTM even before the company knows what product needs to be taken to market. This could involve unnecessary paid marketing, attending events vs talking to customers, building PR rather than product etc.
+
+3/ Excess capital can often create an environment where the team starts to feel victorious even before any material progress towards PMF. The mindset shifts from ‘[doing things that don’t scale](https://paulgraham.com/ds.html)‘ to ‘doing fake work’ via mindless reps.
+
+Ultimately, this creates a massive risk of founders not being honest to themselves about execution and learnings, while also setting wrong expectations with their Board/ investors. Most investors aren’t builders anyway, and given their primary concern is the next round markup, often push startups to increase burn and “show numbers” prematurely. Unless the founder can push back with a high-conviction execution philosophy that they believe the company needs at this stage (I espouse founder-led, lean, frugal tiger teams doing things that don’t scale), this Board pressure will create a negative flywheel.
+
+Only founders who are honest with themselves about where the startup really stands can then push back on investors with the best model they believe is needed to make progress at this specific stage.
+
+**_Drip-feeding as a brain hack_**
+
+So, how can a founder create this disciplined, frugal, ‘doing things that don’t scale’ mindset even with millions sitting in the bank? During this working session I mentioned at the beginning of the post, I blurted out a brain hack:
+
+**_“What if we just virtually ring-fence the funds, maybe even create a CD or something, and give ourselves say only $500k (the standard YC deal amount) or something similar for the next 6-12 months to execute? In a way, we use this artificial scarcity to discipline ourselves, and drip-feed execution till a certain set of milestones are reached.”_**
+
+It’s almost treating raised capital like a 401k account – there to save your a\*\* in the long run but not accessible day-to-day. It’s what HNIs do with trust funds – even with a large pool of capital, the kids still get drip-fed for their own good.
+
+A similar spirit is reflected in grandma’s age-old wisdom that advises folks to minimize easily accessible funds in bank accounts and instead, lock them up in CDs. Adding that extra layer of friction itself acts as a nudge to avoid impulsive spending.
+
+OG public market investors like Nick Sleep and Guy Spier have openly shared how they use behavioral nudges like keeping the Bloomberg terminal in an uncomfortable location or only placing Buy/Sell orders when the market is closed, to avoid unnecessary noise and the tendency to frequently trade at the expense of compounding returns.
+
+This idea of drip-feeding immediately resonated with the founder and in fact, she encouraged me to blog about it. Hence this post! Am eager to see how the results of this execution nudge pan out. Will share the learnings on that soon.
+
+## Subscribe
+
+_to my weekly newsletter where in addition to my long-form posts, I will also share a weekly recap of all my social posts & writings, what I loved to read & watch that week + other useful insights & analysis exclusively for my subscribers._
+
+The recent rise & fall of Hopin shows that during market peaks, buy-side is the patsy while sell-side is the baller.
+
+Here’s how you can position yourself to “reap” during market peaks.
+
+One of the more interesting startup stories of the last few weeks has been the rise & fall of Hopin, a virtual events platform. [After having raised more than $1Bn from the likes of a16z, General Catalyst, Tiger & Coatue](https://techcrunch.com/2023/08/02/hopin-ringcentral/), who valued the company at close to $7.7Bn as recently as 2021, Hopin’s core assets were recently acquired by RingCentral for a paltry $15Mn upfront consideration (+ another $35Mn contingent consideration, based on performance targets to be met in future).
+
+![](https://i0.wp.com/operator.blog/wp-content/uploads/2023/08/F3Ban9GXsAM2BdI.png?resize=680%2C371&ssl=1)
+
+RingCentral’s filing on the acquisition of Hopin
+
+Now here’s the most interesting part of the story – while the company has seen a drastic reversal in fortunes, [the Hopin founder has already netted ~$195Mn personally by selling his shares in secondary transactions](https://www.ft.com/content/312acbb3-eb72-4d2f-b81f-649dcb3583ca). With the company’s recent subpar exit, the issue of founders making life-changing money before investors & other shareholders have made any returns is now attracting serious attention.
+
+These developments got me reflecting on some interesting learnings from this story for founders, investors, and employees. Here are some real-time thoughts running through my head:
+
+**1/ Market peaks can get wildly irrational** – the last few cycles indicate that peaks in asset prices tend to typically happen every 7-8 years, perhaps even 10 years. Clearly, they aren’t frequent and one would expect to catch only 2-3 at best during the core years of any career.
+
+But when the peaks do happen, they are wild! The dot-com bubble saw sub-scale companies with no business models go IPO within a few years of starting up. During the housing bubble of ’07-’08, both individual investors & Wall Street assumed that house prices would keep going up forever, with banks engaging in rampant sub-prime lending & their investment banking arms trading complex derivatives that they themselves struggled to fully understand ([remember the jenga scene from the movie ‘The Big Short’?](https://www.youtube.com/watch?v=3hG4X5iTK8M))
+
+![](https://i0.wp.com/operator.blog/wp-content/uploads/2023/08/image.png?resize=630%2C391&ssl=1)
+
+[Ryan Gosling in ‘The Big Short’](https://www.youtube.com/watch?v=3hG4X5iTK8M)
+
+Similarly, 2021 was the peak of a post-Covid, liquidity-fueled mania. Crypto shitcoins, ape NFTs, meme stocks, IPOs of unbaked tech companies, and real estate boom in as far as Denver & Raleigh, there was literally no asset class that was untouched by super-inflated valuations & crazy investor behavior.
+
+One of my favorite lines is – _“crowds have short financial memories”_. As a full generational cohort turns over every 7-10 years & new blood comes in, it tends to underestimate how high the market peaks can really go. To truly appreciate this, one has to live through at least one such peak, & be both old enough to participate in it as well as mature enough to assimilate learnings from it.
+
+**2/ Sow for many years, and then sell “high”** – to make the most upside over a career, one has to be well-positioned on the sell side when the market peaks. These peaks are getting higher & wilder with each new cycle, therefore turning out to be generational selling opportunities.
+
+Framing this idea in a more interesting way:
+
+> During market peaks, buy-side is the patsy while sell-side is the baller.
+
+How does one ensure you are the baller when the next peak comes around? That’s where executing with persistence during tough times becomes critical. When times are hard and one has to be a price-taker (like the current funding environment), that’s precisely when founders should be heads-down in the “sow” mode, laying a solid foundation for the business & being as capital efficient as possible. So when the peak is around the corner, the business is well-positioned to be in a “reap” mode.
+
+Btw, this advice applies to all asset classes & includes careers too. Peaks are the best times to get that coveted CXO role, get quicker promotions, and sell RSUs at a massive premium. But, being firmly positioned to reap these benefits requires many years of upfront sowing.
+
+**3/ Leverage diversity to avoid being the patsy** – inspired by that famous line from Mike Tyson – “everyone has a plan until they get punched in the mouth”, I have my own version of it for investor behavior during peaks:
+
+> Everyone is rational until they experience a bull run.
+
+Greed & fear are two core driving emotions of human behavior. The job of a professional investor is to manage these emotions & hold on to the fundamentals of doing business during both good & bad times. Unfortunately, as the Hopin example shows, this is easier said than done. Case in point: [even the best VCs neglected to do basic due diligence while investing in FTX](https://cointelegraph.com/news/ftx-vcs-liable-to-serious-questions-around-due-diligence-cftc-commissioner).
+
+I was thinking hard about what investors can do to avoid becoming the patsy. One word that kept coming up in my mind is “diversity”. Building a diverse team that brings together both the optimism of youth as well as the battle scars of experience across multiple cycles, could be a good way to provide behavioral checks and balances. Of course, merely assembling diversity isn’t enough. Empowering everyone equally so each person has a voice at the table is critical to leverage this diversity.
+
+While the best option is “direct” diversity in the team, investors can also utilize “indirect” diversity – surrounding the team with investment committees & advisory boards that can step up at the right time to provide battle-hardened inputs. Again, it’s vital to ensure that these roles don’t end up as rubber stamps. Instead, they need to be staffed with people who have the stature & credibility to ask the tough questions & play devil’s advocate when required.
+
+Overall, it’s important to set up mechanisms that can create behavioral balance within the firm – naturally introduce a bit of fear when greed is rampant in the market, & bring back some greed when everyone else is fearful.
+
+> Be greedy when others are fearful.
+> 
+> Warren Buffet
+
+**Closing out with my 2 cents on founders doing secondary sales** – founders take extraordinary risks, sacrifice immensely & literally go through the fire for years, sometimes decades, before seeing any payout. If there are willing buyers for some of their stake, I see no reason why they should be admonished for selling, unless there is something unethical or illegal about it.
+
+Investors hedge their bets across a diversified portfolio while founders put all their life’s eggs in one basket. A majority of them draw below-market salaries for several years and don’t see a significant financial outcome for ages. A large proportion of them never see a commensurate payout at all, courtesy of the VC preference stake. When no one really sheds a tear for these struggles, often framing them as “a typical price every founder pays”, people shouldn’t be complaining when some of them get the opportunity to make some early money during market peaks.
+
+## Subscribe
+
+_to my weekly newsletter where in addition to my long-form posts, I will also share a weekly recap of all my social posts & writings, what I loved to read & watch that week + other useful insights & analysis exclusively for my subscribers._
+
+I often get the question from founders – “what makes the Bay Area successful? And how can I replicate its model in my teams?”.
+
+Outlier success is usually driven by a set of interconnected factors. But there is one element behind the Valley’s success that is less talked about. Sharing that secret sauce here for your own cooking!
+
+During this India trip, a bright young founder asked me an interesting question – “why does the Bay Area keep doing better at thinking big & innovating? And how can I get my engineering team in India to start doing the same?”. These questions got me to reflect on my own experience of operating in Silicon Valley & what makes it different from other geos.
+
+Any region that becomes an industry hub (erstwhile Detroit in auto, New York & London in finance, the Bay Area in tech) is usually the result of a complex web of factors. These go top-down, starting with the country’s history, values & socio-economic structure at the macro level, to local factors like weather, presence of feeder universities & a critical mass of companies that drive network effects.
+
+However, based on my experience, there is one important element in these complex webs that’s less talked about – the presence of “Relatable” role models. While social, economic & cultural factors set up an amenable environment, **seeing people you know or can relate to, pushing boundaries & a few getting outstanding rewards for it, is what drives daily action from talented folks**.
+
+Doing anything new or unconventional requires 2 things:
+
+*   _Inspiration_ – stories that create a desire to chase something better than the status quo.
+*   _Action_ – internal motivation to translate inspiration to daily action.
+
+Each of these is driven by a different set of role models. Inspiration is driven by what I call as “Prominent” role models while Action is driven by “Relatable” role models.
+
+**Prominent role models**
+
+These are the handful of most visible, externally successful and recognized leaders of their fields. I have been inspired by many of these in my own life.
+
+Even before startups were a thing in India, I remember discovering [Steve Jobs’ famous 2005 Stanford Commencement Address](https://www.youtube.com/watch?v=UF8uR6Z6KLc) while I was working as an investment banker at Citigroup (& hating it). Looking back, this was my initiation into this world that now deeply lives within me. Jobs inspired me to start looking beyond spreadsheets & discover unsolved problems in the world.
+
+When I entered venture capital, I discovered [Fred Wilson of USV & reading his blog](https://avc.com/) inspired me to start writing articles & become an early adopter of Twitter in 2011 when most Indian VCs didn’t even have Twitter accounts. Many years later, as I was driving global expansion for Alibaba, observing Jack Ma’s leadership & learning about his backstory inspired me to startup on my own.
+
+**Steve Jobs, Fred Wilson & Jack Ma are Prominent role models that inspire you to the very core, creating those moments of decision-making that change your direction. However, a long & arduous journey only begins in these moments, and walking the path requires years of daily action. This is where the ongoing presence of Relatable role models is super-important.**
+
+**Relatable role models (the secret sauce!)**
+
+Completing the loop I started in the beginning; **I believe one of the core strengths of the Bay Area that makes it an ongoing innovation engine is the vast presence of Relatable role models doing non-incremental things**.
+
+These are people you either know directly or know of in your extended network. These are people just like you, sometimes at the same stage of the journey as you, maybe a few steps ahead in a journey similar to yours, or perhaps already rewarded for walking the path.
+
+These are ex-colleagues, batch-mates, friends-of-friends & social media acquaintances. To you, they are reachable, approachable, understandable. They aren’t necessarily outlier successes. It’s just that they are either walking the same part of the hike as you or have already walked this segment & reached the next check point.
+
+When I first moved to the Bay Area & was looking to meet people in the ecosystem, I still remember one of my close friends introducing me to his “Mamaji” (mom’s brother) who had sold 2 companies & was living in Saratoga. One of the first intros I got was to this kid in his mid 20s who had just sold a company to LinkedIn & was on to his next startup already.
+
+As I started working in the Valley, I saw colleagues building side-products on weekends & senior leaders joining startups with significant pay cuts. I saw peers investing into startups with salaried money & heard stories of friends-of-peers who were the first angel checks into now-prominent startups.
+
+**Humans learn the best by observing others in their surroundings**. The core value prop of top universities is not classroom learning, but a high-quality peer group you end up learning with on campus for 4 years. Paul Graham realized this & therefore, created YC as a community-driven venture model where founders build largely on the back of peer learning & support. I can confirm this as a parent too, when I see my kids largely learning by osmosis from their friends & indirectly observing behaviors of grown-ups.
+
+**Living in the Bay Area exposes one to a continuous stream of relatable, real-life stories of risk-taking, of taking big bets & importantly, of creating all types of success, big or small, by taking these bets**. In most cases, you can even get direct access to the protagonists of these stories, who are more than happy to pay-it-forward by sharing their learning & actively helping out. They do this because they too, are on the way to their next base camp & are looking up to their own Relatable role models for it. And so, the cycle continues!
+
+**Coming back to Part 2 of the question I got from the founder – how can one drive a non-incremental culture in your own teams?**
+
+As a leader, consciously surrounding your team with Relatable role models is a strong step towards this. It could be by encouraging team members executing differently to share their approach or bringing in folks from other companies for sessions & fireside chats. It could be doing knowledge sharing sessions at an offsite, or discussing a case study of a similar product or company that is nailing something you are struggling with. It could be recognizing taking on large problems & bold approaches via hackathons & ideathons. Or it could be setting up days where talented younger folks shadow leaders, sitting in important meetings & observing how they execute.
+
+I tried to leverage this concept in my own startup a few years back wherein I convinced one of my batch-mates who was the ex-CTO of a large Internet company to come onboard as a CTO-in-residence. Him spending a few hours every month with the team & joining townhalls to share his perspective on technology transformed the learning trajectory & energy levels of our young engineering team. Even today, everyone fondly remembers that experience as a game changer for them personally.
+
+So that’s it, I gave you the Bay Area’s secret sauce. Each of you is a Relatable role model for someone out there, so go ahead & pay-it-forward by sharing your stories, supporting other builders & connecting people to each other. If this becomes the dominant culture in your ecosystem, whatever that might be, success will follow!
+
+## Subscribe
+
+_to my weekly newsletter where in addition to my long-form posts, I will also share a weekly recap of all my social posts & writings, what I loved to read & watch that week + other useful insights & analysis exclusively for my subscribers._
+
+As the business world reverts to a blend of remote & in-person, meeting customers IRL is becoming important once again, especially in a slowing economy.
+
+Sharing some thoughts on how jumping on a plane & meeting people could be key to unblocking growth for your business.
+
+I was recently in a brainstorming session with a portfolio company that is struggling with stagnant growth. The company is profitable, has clear PMF as demonstrated by loyal top-tier customers, yet is unable to grow the business fast. It has major logos but the ACVs just aren’t expanding.
+
+Now, as with any startup, stagnant revenue is a symptom & the causes could be many. In order to do a root-cause analysis & subsequently unblock growth, my immediate actionable input to them was simple – “go and meet customers in-person”.
+
+When the bolt of lightning called Covid struck our planet, paradigms of doing business changed overnight. As workers went remote, so did interactions with customers. In fact, as companies were forced to do business with each other over video calls during the lockdown months, people discovered that it was both highly productive and profitable to drive the sales process sitting anywhere in the world with a laptop & a stable Internet connection, engaging customers living thousands of miles away over a shared screen.
+
+As the world is stabilizing into a new-normal, many companies are now realizing that the success of a fully remote sales & BD process is highly contextual. In hindsight, its applicability & effectiveness became extraordinarily broad based in 2020 and 2021, mainly due to:
+
+*   An excess liquidity fueled, demand-on-steroids environment, and
+*   Altered social norms of human engagement.
+
+Simply put, everyone wanted to buy so badly that the only bar the sales process needed to clear was to show up on a Zoom call. And, it also helped that nobody really wanted to meet a stranger in-person & take the risk of Covid transmission.
+
+Now, as we sit in 2023, both these factors no longer exist:
+
+*   Demand is contracting across industries, courtesy of the ongoing cycle reset driven by rising interest rates.
+*   Post vaccine, broader social norms have reverted to a blend of remote & in-person. What proportion will they reach at steady state is hard to predict, although with the present return-to-office movements even with Big Tech like [Amazon](https://finance.yahoo.com/news/amazon-ceo-andy-jassy-doubling-152658889.html) & [Meta](https://www.cnbc.com/2023/03/15/mark-zuckerberg-says-meta-employees-who-work-in-person-get-more-done.html), my guess is 60% in-person & 40% remote (assuming a continuing trend of 3 days per week in office).
+
+It’s critical for all founders & operators, especially those in early stage startups that typically have finite resources to deal with business headwinds, to quickly embrace this reality. In a 60-40 IRL:remote world with contracting demand, it’s unacceptable if founders & senior leaders aren’t getting on the plane to meet customers & build trust.
+
+Meeting customers IRL has multiple advantages. First, leaders taking the time to travel & spend bandwidth in listening is a strong demonstration of commitment. It’s Strategy 101 that in most cases, it’s easier to grow a current customer vs land a new one. Even in consumer products, product leaders first focus on retaining existing customers + re-activating inactive ones, before filling up the top of funnel with new leads. In any business, growth is possible only when existing customers are happy.
+
+Second, breaking bread with customers builds 1:1 trust with their execs, putting a human face to contracts, transcending beyond employers & current deals to opening up the possibility of these leaders becoming your personal champions for long after.
+
+Third, getting informal feedback about their product experience as well as larger problems & challenges they are facing, & then connecting the dots across multiple such conversations, is the best way to do a root-cause analysis of “why are we not growing fast enough?”.
+
+Going back to the portfolio company I mentioned in the beginning, I gave them a very simple & actionable plan for the next 8 weeks to unblock growth:
+
+*   One founder to play what I call a ‘Key Accounts’ role.
+*   Literally make an excel sheet of top 5-10 customers, hop on flights, meet key execs IRL, get feedback, hear their problem statements & build a personal rapport via drinks/ dinner.
+*   As an output of each meeting, create a simple roadmap for (1) enhanced customer success, where customers are unhappy and (2) in-account revenue expansion via upsell/ cross-sell, where customers are happy & want to grow.
+*   Finally, and most importantly, partner with relevant teams (product, delivery ops etc.) to unblock & provide execution momentum to these customer-wise revenue roadmaps.
+
+The founder’s role shouldn’t end with token customer visits. Driving results by providing the necessary context, energy & cross-functional unblocking help to operating teams is the real output all stakeholders are looking for.
+
+Btw, as I was working on this draft, star product operator & angel [Gokul Rajaram](https://twitter.com/gokulr) posted this thought yesterday on the importance of building relationships in enterprise sales:
+
+![](https://i0.wp.com/operator.blog/wp-content/uploads/2023/04/image-10.png?resize=840%2C419&ssl=1)
+
+On a side note, willingness to get on a plane often is a career hack I used very successfully at Alibaba & something that I learnt from my then boss. While our international peers in US & EU offices loathed traveling to China & facing all the inconveniences (from jet lag & language to food & other cultural disconnects), me & my team would show up in Hangzhou every month, blending in with our local colleagues & building trust over meals, rice wine & karaoke. Slowly, we came to be known as the “true believers” – the only team willing to make the sacrifice & do a round-the-world trip every month to get s\*\*t done. We gradually earned the right to be ‘insiders’, getting access to unique growth opportunities within the Group.
+
+Now in this new phase of my career as a tech investor, am doubling-down again on this approach. As I ramp up venture investing in the US-India corridor, I am aiming to spend at least 2 weeks per quarter in India & devote more operating time to portfolio founders, grow new deal flow, cement old ecosystem relationships as well as initiate new ones.
+
+Let me end this post with an article from [Jason Lemkin](https://twitter.com/jasonlk) of [SaaStr](https://www.saastr.com/) that I really like – [10 Things That Always Work in Marketing](https://www.saastr.com/10-things-that-always-work-in-marketing-with-saastr-founder-and-ceo-jason-lemkin-part-1-pod-652-video/). This is a must-read for anyone looking to unblock growth in their business. The suggestions go much beyond marketing, touching on all aspects of go-to-market. Reproducing the section on visiting your largest customers:
+
+![](https://i0.wp.com/operator.blog/wp-content/uploads/2023/04/image-11.png?resize=840%2C645&ssl=1)
+
+## Subscribe
+
+_to my weekly newsletter where in addition to my long-form posts, I will also share a weekly recap of all my social posts & writings, what I loved to read & watch that week + other useful insights & analysis exclusively for my subscribers._
+
+As an angel, one of the strongest leading signals I look for in a startup is progress per unit of capital – how much forward movement has the team achieved & the resources it has consumed for it.
+
+My thoughts on why a capital-efficient mindset is so important for early-stage tech founders.
+
+Having seen 1000s of deals across a decade of investing my own as well as institutional money, I rarely cringe while evaluating a new company. As an investor, I have often seen the same goods-and-bads in other deals several times before. As an ex-founder, I have walked the path & made the same unforced errors so almost every time, I can empathize & almost pre-empt why a founder is doing things a certain way.
+
+However, there is one specific thing that is guaranteed to make me cringe – a founder attempting to raise an amount that is totally out-of-sync with where the business is. In many cases, this is accompanied by other precursors:
+
+*   No intent to bootstrap from idea to “some” traction.
+*   Wasteful handling of the last round.
+*   Coding & building product for months at a stretch without putting anything meaningful in front of customers.
+
+Personally, one of the strongest leading signals I look for in a startup is **_progress per unit of capital_** – how much forward movement has the team achieved & the resources it has consumed for it, especially when evaluated relative to other comparable startups.
+
+I remember an interesting learning from my time at IDG Ventures (now Chiratae). Sudhir Sethi, the Managing Partner & the lead investor who had backed Myntra (Zappos of India at that time; was eventually acquired by Flipkart for ~$300Mn in 2014), often cited how when he went to meet Mukesh Bansal (the founder) for the first time at the Myntra office, he observed they were working out of a dingy space in a classic Indian neighborhood market with the ground floor occupied by a fruit & vegetable vendor. Sudhir used this as one of the positive signals for the team’s ability to execute in a cut-throat eCommerce vertical like fashion.
+
+Fast forward a few years, and I got a similar insight yet again in the retail context. While working with Alibaba, I saw how frugal the Group was in terms of saving every dollar of operating cost. eCommerce works on wafer-thin margins, especially in highly competitive & price-conscious markets like Asia. And one could see this by comparing the bare minimum facilities & perks we got at the US HQ in San Mateo vs even well-funded growth startups, which were offering everything from catered meals to draft beer stations at that time.
+
+Why is a capital-efficient mindset so important for early-stage tech founders? It’s because they are playing a game where the odds are hugely stacked against them. Where 9 out of 10 new startups fail on average. Where the starting point and end point of companies are vastly different, with each year choked with iterations, a major pivot every few years, and team members jumping on & off the ship.
+
+Setting yourself up to have even a remote chance of winning such a game requires many shots at the goal, many course corrections, and many resets. At the same time, capital is scarce at the pre-PMF stages even for the best teams. Capitalism is brutally efficient, throttling money when relative risk is high, & opening the faucet once success is highly certain (typically post-PMF).
+
+Building even a decently sized company can take anywhere from 6-8 years, & up to 15+ years. In such a long period, both the overall economy as well as your specific market will go through several cycles. **The key is surviving long enough, even with limited capital, to be able to walk this arduous path**.
+
+This is what the best founders bring to the table – using investor capital like their own, each dollar wisely deployed towards only what’s truly necessary for the stage, raising each round with specific milestones in mind, and realizing that ownership is everything, with each bps of dilution being the costliest trade shareholders can make. To me, this mindset & building approach is perhaps the biggest signal of perseverance in a team.
+
+Come to think of it, in the non-tech world where starting a business isn’t called “doing a startup”, entrepreneurs typically use their savings to get going, & once there is enough business confidence & profitable revenue flowing-in, grow using either internal accruals or debt. Initial bootstrapping creates skin-in-the-game, profitable revenue creates high confidence that customers want what you are making, & debt creates financial discipline around managing cash flows while preserving the founder’s ownership to compensate for all the risk they have taken.
+
+This model has been used by everyone from Sam Walton to Richard Branson, & continues to survive in all parts of the SMB economy. While the venture capital model definitely works for building tech companies, which are asset-light, highly scalable & operate in winner-takes-all dynamics, I believe the founders who are in it for the long run build with a similar philosophy – planning for the next basecamp & raising conservatively, maintaining discipline around cash & giving high importance to ownership.
+
+On a related note, I wanted to share something [I recently wrote on Twitter](https://twitter.com/soumitra_sharma/status/1635713661628203008) regarding a fundraising pitfall specifically for serial founders:
+
+> Often see serial founders who have seen success before (scale and/ or exit), raise large rounds at high valuations at the idea stage!
+> 
+> From what I have seen, even the most successful founders have operated in phases where a lack of capital could have potentially killed their startup. That’s probably why on the 2nd attempt, they try and take that risk out of the equation at the beginning itself.
+> 
+> Oddly enough though, having a capital-rich Plan B to fall back on reduces the scrappy iterativeness, discipline & underdog mindset that startups usually need to succeed. And which probably contributed to their success the 1st time too.
+> 
+> In asymmetric bets like startups, to reference The Dark Knight Rises, “the way to climb out of the pit is without a rope”.
+
+Hopefully, as this cycle resets, all of us founders & investors will go back to the drawing board & start appreciating Benjamin Franklin’s age-old virtue of frugality as a key to success in business & life.
+
+## Subscribe
+
+_to my weekly newsletter where in addition to my long-form posts, I will also share a weekly recap of all my social posts & writings, what I loved to read & watch that week + other useful insights & analysis exclusively for my subscribers._
+
+![](https://i0.wp.com/operator.blog/wp-content/uploads/2023/04/nigel-tadyanehondo-wny6y4mbyha-unsplash.jpg?resize=840%2C560&ssl=1)
+
+Photo by [Nigel Tadyanehondo](https://unsplash.com/pt-br/@nxvision?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/crystal-ball?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+Recently came across a fascinating [Twitter thread](https://twitter.com/davemcclure/status/1276330525532147712) from June 2020 by [Dave McClure](https://twitter.com/davemcclure), ex-founder of 500Startups, where he talks about how “investing with conviction” is a myth. This tweet captures his sentiments well:
+
+![](https://i0.wp.com/operator.blog/wp-content/uploads/2023/04/image-7.png?resize=840%2C180&ssl=1)
+
+I agree with several arguments in this thread:
+
+**1/ Picking winners in early-stage investing is really hard**. Power laws govern the best venture portfolios, driving down the hitting %. Per Horsley Bridge data, even for a top VC firm like Sequoia, ~4.5% of portfolio companies generate 2/3rd of aggregate returns.
+
+**2/ Intelligent venture investing, by its very nature, involves making both Type 1 and Type 2 errors**. Therefore, even high-conviction deals are likely to exhibit unexpected outcomes, both positive & negative.
+
+**3/ There is a lot of hindsight bias in the way investor narratives are created around companies that turned out to be successful** – _“Look, I had high conviction on this deal & it turned out exactly as I expected. Ergo, I can predict the future”._
+
+So in games like this where outcomes are random & often uncorrelated with the level of effort that goes in, does it make sense to discard the input process?
+
+Based on more than a decade of venture experience, I tend to view it differently. I believe it’s still important to have a rigorous process of building conviction and to keep improving it bit by bit with each experience. Even though eventual outcomes might still be random, this approach helps tilt the playing field a little in your favor every time. Over a long enough time horizon, as one keeps taking more shots at the goal & with continuously improving odds, the hope is that a home run arrives sooner than later.
+
+Particularly at the earliest stages (angel/ pre-seed/ seed), especially with the advent of small check investments ($1-5k via syndicates/ SPVs) attracting a new generation of 1st-time investors, it’s easy to assume that outcomes are randomized & therefore, fall into the trap of doing spray-and-pray that isn’t backed by an intelligent investment process.
+
+It’s important for new angels to first deeply study the asset class & build their personal investment process – areas of expertise, focus sectors, stages, target founder persona, deal flow engine, unique value-add to get into best deals etc. Post which, the odds of success are significantly better.
+
+While being a champion of a “conviction-building” investment process, I also agree with the 3 takeaways that Dave closes the thread with, regarding having enough shots on goal:
+
+![](https://i0.wp.com/operator.blog/wp-content/uploads/2023/04/image-8.png?resize=840%2C253&ssl=1)
+
+Even with the most intelligent investment process, venture investors need to acknowledge their limited picking ability & therefore, keep taking enough intelligent shots at the goal for the odds to work in their favor. [Semil Shah](https://twitter.com/semil) of Haystack wrote a great post titled [“Shots on Goal”](https://semilshah.com/2020/02/15/shots-on-goal/) on this idea a while back.
+
+Equally important as portfolio diversification via numbers, is making asymmetric investments – ensuring that the few winning bets have huge outcomes so that even with a high loss ratio, the returns math still works at the portfolio level. The smartest thing a venture investor can do is to befriend the power law, and work towards being on the right side of it!
+
+To summarize, acknowledging the randomness of venture outcomes doesn’t need to be at odds with running a rigorous & continuously-evolving investing process. In fact, such a system should be intelligently designed to account for this randomness, combined with other considerations like power laws, compounding, economic cyclicality etc. Even a few points of “edge” that is systematically created with each experience, can slowly accumulate into a sizable alpha over the long term.
+
+## Subscribe
+
+_to my weekly newsletter where in addition to my long-form posts, I will also share a weekly recap of all my social posts & writings, what I loved to read & watch that week + other useful insights & analysis exclusively for my subscribers._
+
+![](https://i0.wp.com/operator.blog/wp-content/uploads/2023/03/ricardo-gomez-angel-jb3mbjgt94y-unsplash.jpg?resize=840%2C498&ssl=1)
+
+SMB SaaS is hard. Getting the positioning right, increasing ACVs, controlling churn – it all becomes harder when your customer is a small business that is resource constrained & perpetually dealing with its own execution challenges.
+
+Despite this, given SMBs are the most frequent early adopters of new products, the reality is that most startups tend to start mid-market. Though, in my experience, a majority get stuck in unfavorable economics of this customer segment & are unable to achieve breakout PMF.
+
+So, what is the secret sauce founders can learn to effectively scale SMB SaaS? [Hubspot](https://www.hubspot.com/) is a great case study. I recently came across this [SaaStr podcast with the HubSpot CEO Yamini Rangan](https://www.saastr.com/secrets-to-smb-at-scale-with-hubspot-ceo-yamini-rangan-and-saastr-founder-ceo-jason-lemkin-pod-616-video/), where she shared some of the company’s SMB strategy & learnings. Here are the key highlights:
+
+1.  **Go after a large TAM**: given the fragmented nature of SMB verticals, it’s really important to have a large TAM. HubSpot made the smart decision to transition from marketing automation to CRMs, basically going after Salesforces’s lunch.
+
+Mid-market verticals tend to have open opportunities for startups as SMB customers are usually sandwiched between either buying a host of solutions & stitching them together or buying an expensive, enterprise-grade solution. In this context, I had recently [posted a Twitter thread about how Zoho followed a similar multi-use case bundling strategy](https://twitter.com/soumitra_sharma/status/1622764235628613633) to position itself as an “operating system for SMBs”. This strategy works well as SMBs have a tendency to simplify their tech stack & procurement processes by buying multiple solutions from the same vendor.
+
+2\. **Customers gravitate towards competitively-priced, mission-critical products**: in times of economic uncertainty like today, SMBs tend to become really sensitive about budgets. Customers start asking tough questions internally around (1) where are they spending?, (2) do they have a clear path to getting enough value from the spend? and (3) can they do more with less?
+
+Acting per this analysis, SMB customers are then likely to consolidate their tech stack to a handful of mission-critical platforms that are competitively priced & deliver the most value. This is the bar startup products need to cross while selling in this tough macro environment.
+
+3\. **PLG-based distribution is king**: to achieve break-out growth in SMB SaaS products, startups need to have the widest possible distribution. The front door needs to be big enough so that most people can come in.
+
+For the first 8-9 years, HubSpot was mainly driven by a sales motion comprising Direct Sales & Partner Sales. Around 2016-17, in order to exponentially grow distribution, the founders made a counter-intuitive bet to go from sales motion to product motion. Today, HubSpot has a massive user base of ~1Mn WAUs to monetize off of.
+
+4\. **A strong “free” product is key to PLG:** One of HubSpot’s truly differentiated product strategies has been to offer a strong, full-featured free product. Rather than making a “free” product free just for the sake of it, they have focused on making it really valuable.
+
+Some important benefits of having a strong “free” plan:
+
+*   Drives high top-of-funnel growth & user engagement, improving the probability of monetization once the value is proven out.
+*   Puts product org. under pressure to deliver enough features at the top, in order to maintain the competitiveness of paid versions.
+*   Forces the product team to maintain a “consumerized” ease of use, which benefits all customers, free or paid.
+
+Irrespective of whether your GTM is sales-led or PLG-led, a founder should never give up on the “free” plan as it’s key to keeping your product competitive.
+
+5\. **North Star Metric should be Net Revenue Retention**: NRR is the best health indicator of an SMB SaaS business given it represents whether or not: (1) you are retaining the customer, (2) you are continuing to drive enough value so they buy more from you and (3) you are protecting yourself from churn.
+
+**6\. Don’t underestimate the value of a Partner ecosystem**: once you reach a certain scale, PLG & Direct sales aren’t enough. A thriving partner ecosystem can be a strong GTM moat. Interestingly, a majority of HubSpot solution partners \*only\* sell & deploy HubSpot as a CRM, thus creating valuable network effects for the company.
+
+**7\. In geo-expansion, less is better:** PLG-driven companies will always have customers in many countries eg. Hubspot has 130+. But in order to deeply localize for elements like language, currency, customer support etc., it’s important to focus only on a few markets. As an example, HubSpot has chosen 7-8 markets to deeply localize their offerings in, based on factors like TAM, existing installed base, net ARR growth being seen & the company’s ability to serve the market locally.
+
+While SMB SaaS can be a tricky business model, it compounds beautifully once the founders figure out its key levers, as HubSpot has shown.
+
+_PS: if you enjoyed this post, you might also find this post on [Top 10 enterprise SaaS learnings from a unicorn founder](https://operator.blog/2022/12/07/top-10-enterprise-saas-learnings-from-a-unicorn-founder/) helpful._
+
+## Subscribe
+
+_to my weekly newsletter where in addition to my long-form posts, I will also share a weekly recap of all my social posts & writings, what I loved to read & watch that week + other useful insights & analysis exclusively for my subscribers._
+
+![](https://i0.wp.com/operator.blog/wp-content/uploads/2023/03/1520109934918.jpeg?resize=840%2C542&ssl=1)
+
+Image Source: [LinkedIn](https://www.linkedin.com/pulse/what-your-plan-b-david-howe/)
+
+Growing up in India, where inherent chaos makes sure most things don’t go according to plan, I got organically trained to always have a Plan B. The classic fallback option – the bylane you take when the main road is clogged because a minister is scheduled to pass through, the backup college seat you block in case you ranked low in the entrance exam for your top preference, or the autorickshaw you hail when the car refuses to start.
+
+Look, I get it! Now that I am a father to 2 boys, I see the instinct parents have to ensure their children are tangibly & emotionally “safe” in all situations. So, I can appreciate why my middle-class upbringing was designed this way. To top it up, my technical education & early analytical jobs further pushed me into the world of scenario analysis & fail-safes.
+
+Down the road, as I entered the risky world of startups, I naturally brought this instinct with me. While building, operating & investing in high-risk-high-reward endeavors, my animal brain would always push me to have a Plan B in my backpocket:
+
+*   If this startup doesn’t work, I can always go back to Company X.
+*   What if this investment fails? Let me spread my resources & take a smaller bet.
+*   If I don’t like living in Country Y, I can always go back to India.
+
+A few years into taking these asymmetric bets (presumably backed by Plan Bs), I expectedly started encountering failures, both big & small, one after another. They ranged everything from major projects going South & unforeseen external risks coming to the party to unexpected company restructurings & gross misjudgment of certain people’s skills & intent.
+
+During a recent introspection of these adverse experiences, something interesting jumped out – every time I attempted to call on a Plan B for a specific situation, more often than not, it wasn’t really there. In some cases, the “backup” companies had changed their strategy & weren’t a fit anymore. In others, I had grown in a different direction & going to a fall-back option would be a negative step. Many times, people I was relying on to help materialize a certain Plan B had either fallen out of touch, were themselves dealing with adversity, or had changed their context & therefore, relevance.
+
+So this was my lightbulb moment that inspired this post – in high-risk-high-reward situations, Plan Bs are….fictitious. The very nature of extremely risky situations is that they take you in unpredictable directions, change your context in unimaginable ways & leave you with baggage that’s hard to foresee. And all this happens in parallel to a rapidly-changing external environment that in most cases, becomes increasingly incongruent with your endeavor (most asymmetric projects are by definition, contrarian in relation to established rules of the game that the majority operates by).
+
+This complex system renders even the most thought-through Plan Bs useless. Given asymmetric bets are driven by power laws (a few will drive a majority of the total outcome) & compounding (need a long enough timeline for ideas to mature, which is when outcomes start growing exponentially), positioning yourself to be on the right side of these rules requires going all-in for a significant period of time.
+
+While having a Plan B provides the initial psychological space to initiate a risk, in my experience, it unfortunately also creates a mental mechanism to cop out of it, & even worse, often doesn’t provide the safe landing space it initially promised.
+
+Going forward, my aim is to ditch the “Plan B” mindset in all asymmetric bets. A fall-back instinct comes from a place of fear, and while controlled fear can be a useful tool to drive alertness & urgency, it becomes adverse when acting as a roadblock to going all-in & persevering on a thoughtfully-chosen path.
+
+It’s important to add here that while ditching the Plan B outlook, I will still proactively focus on avoiding the [Risk of Ruin](https://medium.com/incerto/the-logic-of-risk-taking-107bf41029d3) at an overall life level. Asymmetric bets require multiple shots at the goal & therefore, safeguarding the ability to keep playing is paramount.
+
+On a related note, a mental heuristic I have recently started using while making asymmetric decisions I am 50-50 on – “which option is the fear side of my brain asking me to choose?”. In most cases, I then lean towards the other option!
+
+I have found the following quote by Swami Vivekananda to be hugely inspiring in driving this mental transformation:
+
+> Take up one idea. Make that one idea your life – think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success.
+> 
+> Swami Vivekananda
+
+As you consider this approach, I want to leave you with this [outstanding scene from Christopher Nolan’s ‘The Dark Knight Rises’](https://www.youtube.com/watch?v=-5zdmA7HSoE). As a frustrated Bruce Wayne is trying to catch his breath after yet another failed attempt at climbing out of the pit (he was using a rope each time), an old & wise prisoner gives him the mantra for successfully making the climb:
+
+> You do not fear death. You think this makes you strong. It makes you weak.
+> 
+> How can you move faster than possible, fight longer than possible, without the most powerful impulse of experience – the fear of death!
+> 
+> Make the climb…as the child did. Without a rope!
+> 
+> The Dark Knight Rises (2012)
+
+## Subscribe
+
+_to my weekly newsletter where in addition to my long-form posts, I will also share a weekly recap of all my social posts & writings, what I loved to read & watch that week + other useful insights & analysis exclusively for my subscribers._
+
+![](https://i0.wp.com/operator.blog/wp-content/uploads/2023/02/brett-jordan-fhlgds4cky8-unsplash.jpg?resize=840%2C630&ssl=1)
+
+I recently [tweeted](https://twitter.com/soumitra_sharma/status/1625304814447104000?s=20) a really interesting insight I heard from Mike Maples, Jr of Floodgate at a recent Draper University closed-door event:
+
+![](https://i0.wp.com/operator.blog/wp-content/uploads/2023/02/image.png?resize=459%2C132&ssl=1)
+
+This is so true, and a common mistake that founders & product leaders make while building new products. Looking back on my own startup, while I rigorously tried to execute Paul Graham’s [“Do things that don’t scale”](http://paulgraham.com/ds.html) philosophy, I still created unreasonable expectations in my own head around user growth for each MVP iteration. This was probably due to the baggage I was carrying from my previous experience of working at large companies like Alibaba, where numbers were talked about in Millions & sometimes, Billions.
+
+When the absolute user numbers weren’t met, my morale as a founder would get hit with each iteration. In hindsight, hitting numbers shouldn’t have been the goal at all. The ideal 0-to-1 mindset is like that of a scientist, with curiosity being the core driving emotion, backed by an iterative product development approach. The target outcome of this approach should be to gather insights that help refine the hypothesis.
+
+Similar to how scientists drive their research process one experiment at a time, I have realized that building any new product or service from grounds-up requires moving one “unit” at a time. It’s up to you to decide what that unit should be – acquisition, activation, frequency of use, revenue or even just getting qualitative feedback!
+
+In a scientific process, more than just the number of experiments run, what’s important is taking the learning from each experiment & applying it to the next one so it becomes better than the first.
+
+Similarly, a good approach to building anything new is to delight one person at a time. This automatically focuses the building process & anchors it on an actual customer, thus making it easier to ship something that solves a monetizable problem for someone in the real world. Trust me, this is a non-trivial hurdle that many startup teams are unable to cross.
+
+The 0-to-1 stage can be highly fuzzy but breaking it down into one unit at a time helps give more clarity to the team around the exact short-term goals.
+
+The most profitable way for a product to grow is via word-of-mouth. The above approach naturally optimizes for it. And once the testimonials & organic growth start kicking in, traction compounds with minimal incremental effort.
+
+Of course, the key to executing this building approach well is patience. Again, think of a scientist. A larger research budget or more headcount can’t necessarily speed up a breakthrough. Similarly, building one unit at a time requires a small team committed to iterating over a long enough timeline for customer compounding to kick in. A lean & capital-efficient operating model is a requirement of this approach as a long runway significantly improves the odds of success.
+
+Learning from my mistakes as a founder, as I have now started working towards regularly putting useful startup & investing content out there, I am consciously following the approach of publishing & learning one unit of content at a time – blog post, Twitter thread, LinkedIn post etc.
+
+Same for my angel investing, wherein I am trying to help each founder, co-investor & startup employee I meet, one week at a time, with whatever resources I have – network, expertise, capital etc.
+
+This approach is helping me to first put the core enablers of my venture investing craft in place that then, hopefully, self-compound. Therefore, I feel much better this time about hitting my long-term goals.
+
+_PS: on a similar note, I really like this [post by a16z on how creators only need 100 true fans to build a business](https://a16z.com/2020/02/06/1000-true-fans-try-100/). Whether this number is 100 or 1,000 is less important. The real insight is that even a small number of dedicated fans are needle-moving._
+
+_Also, in case you are interested in other similar startup insights shared by Mike Maples at the DraperU event I referred to earlier, check out [my Twitter thread](https://twitter.com/soumitra_sharma/status/1625304814447104000) on it._
+
+## Subscribe
+
+_to my weekly newsletter where in addition to my long-form posts, I will also share a weekly recap of all my social posts & writings, what I loved to read & watch that week + other useful insights & analysis exclusively for my subscribers._
+
+[![](https://i0.wp.com/operator.blog/wp-content/uploads/2023/01/the-focus-canvas-1.jpg?resize=840%2C473&ssl=1)](https://docs.google.com/presentation/d/1OUqtugKuCMe69QPxmIvtB4yN3z4iQiZqrL4p4gtWELs/edit?usp=sharing)
+
+As the fundraising environment continues to get harder in 2023, founders & investors are deep into rationalizing business plans & finding ways to cut burn. The first temptation is to follow what I call an “excel sheet” approach – starting with the largest expense items without enough strategic thinking around the revised set of goals, business constraints in this new environment, what is working well right now, & how capital should be most efficiently allocated going-forward.
+
+As opposed to big companies, startups operate with a finite runway, trying to address significant customer problems that remain unaddressed by large incumbents. This requires constant innovation – essentially doing hard, non-consensus things across the stack, everything from technology & design to customer experience & business model, that incumbents aren’t doing.
+
+While big companies can afford to be relatively unscientific in cutting costs & still tide through tough macros with the help of their existing PMF, startups unfortunately, have no option but to play offense at all times in order to continue innovating & thereby, give themselves a chance to survive & succeed. In financial terms, this implies investing incremental $$ into innovation that drives more revenue (& profit), which is what will ultimately save a startup, not investor cash sitting in the bank.
+
+So how should founders think about playing offense while being capital-constrained? I would like to propose a thinking tool called the **“[Focus Canvas](https://docs.google.com/presentation/d/1OUqtugKuCMe69QPxmIvtB4yN3z4iQiZqrL4p4gtWELs/edit?usp=sharing)“**:
+
+*   As a first step, rather than focusing on P&L line items, **break down your business into specific buckets**. These could include _customer segments_ (eg. Individual, SMB, Enterprise etc.), _product lines_ (eg. shrink-wrapped, custom deployment, pure services etc.), _platforms_ (eg. desktop app, iOS, Android, browser extensions etc.), _distribution channels_ (eg. self-serve, inside sales, direct sales, channel partners etc.), _geographies_ (eg. US, EU, India etc.), _teams by function/ type_ (eg. engg., product, design, sales, marketing, offshore contractors, agencies etc.) & other buckets that are relevant for your business.
+*   Arrange all the relevant buckets & their constituent elements on a single page. This is your **“[Focus Canvas](https://docs.google.com/presentation/d/1OUqtugKuCMe69QPxmIvtB4yN3z4iQiZqrL4p4gtWELs/edit?usp=sharing)“**.
+*   On the top-left corner, **list the most updated business goals** for this year that all stakeholders in the company have aligned on. These could be things like _“hit $1Mn ARR”_, _“show x% retention”_, _“start fundraising in Q4”_ etc.
+*   On the top-right corner, **list all the business constraints you expect to face** this year. These could be things like _“12 months runway left”_, _“only 2 backend engineers”_, _“sales cycle taking 6+ months to close”_ etc.
+*   Now, as you are looking at this Focus Canvas, try and answer the question **“what is working well right now?”**\*. You need to define “working well” for each bucket as per your specific context, also taking into account the above goals & constraints. It could be driven by one or more of _revenue growth, most profitable, highest ROI, generating the most valuable feedback, creating the most differentiation_, _highest team productivity_ etc. \*_Note: this step is well-suited for a team workshop/ brainstorming session._
+*   The most important step – for each bucket, **put a ✅ in front of the element(s) you believe is your best bet** to achieve this year’s business goals while navigating expected constraints. Then, **❌ out all other elements in the bucket**. This is where ruthless focus is extremely important for the Canvas to do its job well – ideally, **force yourself to ✅ only your #1 focus element**. In the case of most startups, that’s probably all you can afford to execute anyway.
+*   Finally, take the ✅ element from each bucket & weave them into a simple, 1-2 paragraph **Focus Narrative**. An example to illustrate this – _“In 2023, we will focus on the Enterprise customer segment & offer them the standard product suite with a billable custom deployment services wrapper. The product roadmap will focus on the desktop app. We will double down on the internal sales model for distribution, with founders pitching in for strategic logos. To increase our team’s efficiency, we will significantly reduce contractor headcount & re-allocate them to full-time hires in engineering & internal sales.”_
+
+This Focus Canvas now provides a clear & strategic view of opportunities to both cut burn & re-allocate resources, while staying on track to achieve business goals & making progress toward PMF. The Focus Narrative can be used to socialize the going-forward strategy across teams in an easy-to-remember way. If used well (read: with ruthless focus), this approach can help startups in playing offense even in a tough economic environment.
+
+_PS: sharing a [Focus Canvas template](https://docs.google.com/presentation/d/1OUqtugKuCMe69QPxmIvtB4yN3z4iQiZqrL4p4gtWELs/edit?usp=sharing) that you can use as a starting point. Feel free to download a copy & modify it as per your requirements._
+
+## Subscribe
+
+_to my weekly newsletter where in addition to my long-form posts, I will also share a weekly recap of all my social posts & writings, what I loved to read & watch that week + other useful insights & analysis exclusively for my subscribers._

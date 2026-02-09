@@ -1,0 +1,114 @@
+# The New SaaS Metric You Should Be Tracking
+
+When software as a service (SaaS) companies first began to enter the market, traditional methods of measuring businesses didn’t apply to them. There just wasn’t a way to determine the health of a business.
+
+If we look at two of the early SaaS companies to go public, Concur (1998) and Salesforce (2004), markets had no idea what to do with them. There weren’t any tried-and-true methods for measuring the health of a business with revenue that cost quite a bit of capital to acquire, and then paid itself back over long stretches of time with annual (or monthly) contracts.
+
+For this new business model, cash flow became a lagging indicator of success—so the market needed to come up with another way to understand whether these new companies were worth investing in.
+
+Of course, that period didn’t last. SaaS funders like OpenView Founder Scott Maxwell and Matrix Partners’ David Skok helped shape our current thinking on which metrics SaaS founders should track, as well as the [drivers of those metrics](https://openviewpartners.com/blog/what-are-key-performance-indicators-6-saas-metrics-that-really-matter/#.XlUacxNKjfY).
+
+These new metrics like the [Rule of 40](https://feld.com/archives/2015/02/rule-40-healthy-saas-company.html), [the 5 Cs of SaaS](https://www.slideshare.net/botteri/bessemer-5-cs-of-saa-s-finance-presentation), [T2D3](https://techcrunch.com/2019/10/02/t2d3-software-update-embracing-the-founder-to-ceo-f2c-journey/) and [Pirate Metrics](https://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version) became increasingly important for founders to measure, report and ultimately improve to look good in the eyes of important constituencies.
+
+All of these metrics were different, but they had several things in common. These metrics:
+
+*   **Kept growth front and center.** Growth is an input into the Rule of 40, Committed Monthly Recurring Revenue is the key metric in the 5 Cs and Customer Acquisition metrics frontline the Pirate framework.
+*   **Emphasized building a repeatable growth engine that starts with investments in sales and marketing.** Think monitoring customer acquisition costs (CAC), LTV: CAC and the magic number. In these metrics, it is always assumed that there will be some cost to acquire a new customer and that sales and marketing is the foundation of growth.
+*   **Most notably, didn’t mention monitoring churn as often as you’d expect**. That said, it isn’t hard to see that retention plays a role in growth, profitability and CLTV.
+
+Since then, folks have fought over which of these SaaS metrics are best. We’ve made the case against relying on [LTV:CAC](https://openviewpartners.com/blog/ltv-cac-ratio/) as the be-all, end-all metric. There’s also been increasing transparency into [SaaS benchmarks](https://openviewpartners.com/expansion-saas-benchmarks/#.Xk7RnxNKjfY) at each stage of a company’s growth. These benchmarks are important to help you understand where your business stands in relation to your peers, but ultimately SaaS metrics should act as levers that you can lean into to change how you grow your business.
+
+## Here’s the problem: SaaS metrics are broken
+
+Are we done here? Are there no new SaaS metrics? Do we have these (amazing) keystone pieces that we’re supposed to follow and present to our colleagues, and continue to build businesses based on those drivers and predicted outcomes?
+
+This would be a pretty short piece if that were true.
+
+If you’ve read anything from OpenView recently, you know we’re [all in on product led growth](https://openviewpartners.com/blog/its-a-rough-time-to-be-a-startup-heres-what-you-can-do-about-it/) (PLG), a go-to-market strategy that puts product usage front and center as the driver of acquisition, conversion and expansion.
+
+[**Related: What is product led growth?**](https://openviewpartners.com/product-led-growth/)
+
+Why do we love PLG? Product-led businesses are outpacing other SaaS companies in both growth and Rule of 40. Remember when Slack hit $100M in ARR in only three-and-a-half years, breaking all growth benchmarks by a powerful mix of virality, self-service and bottoms-up adoption?
+
+And remember when Zoom’s S-1 came out, showcasing the company’s jaw-dropping combination of rapid growth and profitability?
+
+Wall Street loves this. Product led growth companies now represent more than half of recent IPOs, according to OpenView analysis. The median public PLG company is worth 2x that of the broader SaaS index ([$6.8B vs. $3.4B](https://openviewpartners.com/product-led-growth-index/)).
+
+PLG is the future. But some of the metrics typically used to measure SaaS businesses just don’t feel very comfortable with this new go-to-market motion. For example:
+
+*   **Growth Rates.** For PLG businesses, [data suggests](https://openviewpartners.com/expansion-saas-benchmarks) that prior to $10M ARR, PLG businesses have lower growth rates than their peers, and then the inverse is true after $10M ARR. The issue is: for the OG (Original Gangster) SaaS metrics, high growth is key. Metrics that put weight on growth rate too early could actually detract from the promising high-growth engines at the heart of the product in PLG businesses.
+*   **CAC Payback.** Public PLG businesses [spend 44% more](https://openviewpartners.com/product-led-growth-index/) than their SaaS peers on R&D costs (product and engineering). Let’s dig into that a bit more: When you’re operating a freemium product, you optimize your acquisition funnel or build out a better self-service checkout experience (big growth levers) via product and engineering. How do you account for that from a bookkeeping perspective? Looking at spend on sales and marketing tells a nice story (as evidenced by Zoom’s [attractive 10 month payback period](https://www.sec.gov/Archives/edgar/data/1585521/000119312519083351/d642624ds1.htm)), but it’s nearly impossible to also understand ROI of spend on the product itself.
+*   **LTV/CAC.** Blake Barlett breaks down why [LTV:CAC doesn’t work](https://openviewpartners.com/blog/ltv-cac-ratio/#.Xk69pBNKjfZ)—mainly because it doesn’t take into account some of the core pillars that make PLG businesses attractive: low churn and the chance for revenue expansion from accounts. It basically assumes that relationships between a SaaS business and the customer will eventually end. In opposition to that, Datadog’s [net dollar retention is 146%](https://www.sec.gov/Archives/edgar/data/1585521/000119312519083351/d642624ds1.htm) (the highest among public SaaS companies). This would mean that the LTV of Datadog is _essentially limitless_. Another point I’d like to add is that sometimes PLG businesses have such strong growth engines that they mask inefficiencies in their paid sales and marketing activities. It’s important to double click on the drivers of costs and payback in order to understand what’s running efficiently and what isn’t. Combined metrics like LTV:CAC don’t do that.
+*   **Logo Retention.** In a bottoms-up adoption model, the initial purchase may begin with the end user (or potentially multiple end users within an account) and then scale into an organization over time. How do you measure logo retention if there are dozens of users from an organization who all have their own account? Logo retention as a metric doesn’t provide that level of nuance to anyone evaluating a PLG company.
+
+## Enter the new PLG Metric: Natural Rate of Growth
+
+![Natural Rate of Growth](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+In a series of posts, we’ll be publishing a suite of new SaaS metrics that we believe businesses should be tracking. These metrics are particularly relevant for product-led businesses who are increasingly relying on their products to help drive user acquisition, conversion and expansion.
+
+The first new metric is the **Natural Rate of Growth** (NRG). One way to think about it is how fast a company grows without even trying—before layering on incremental investments in sales and marketing. We’re looking to pinpoint the percentage of your recurring revenue that comes from organic channels and starts with your product.
+
+The rationale behind the Natural Rate of Growth is our conviction that PLG businesses have an organic, self-service growth engine at their core because they’re built to attract the end user. These companies solve for end user pain, make it easy to get started, deliver value before the paywall and hire sales last.
+
+A self-service adoption model is an important foundation for these companies, as end users (humans like you and me!) are so used to trying a product without talking to anyone that doing otherwise causes friction and frustration. We take those expectations with us to work, and it’s how we make software buying decisions.
+
+As we brainstormed and honed in on new PLG metrics, our team searched for metrics that would meet five criteria:
+
+1.  Strong indicator of future revenue
+2.  Able to be tracked from the early days of monetization all the way through to IPO
+3.  Apply to all software companies, no matter where they are in PLG maturity
+4.  Easily measurable without sophisticated processes or tooling
+5.  Identify whether a business can drive efficient growth via the product itself
+
+Take Atlassian, the poster child of self-service, as an example. [The company was founded in 2002](https://businessofsoftware.org/2011/09/from-0-100million-with-no-sales-people-the-atlassian-10-commandments-for-startups/) with just $10k in credit card debt. The founders optimized for organic user growth and self-service adoption—they couldn’t afford to flood the market with expensive marketing or sales resources—and they put all of their time and energy into R&D to drive those outcomes.
+
+This focus provided an incredibly strong foundation for future investments in growth, and when they eventually took on funding in 2010, they were layering growth from new, more capital-intensive activities like M&A, paid marketing, events and [expansion via sales teams](https://openviewpartners.com/blog/product-led-sales/).
+
+## How to calculate your Natural Rate of Growth
+
+![Natural Rate of Growth](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+Let’s break down how to calculate NRG. Ideally, you’ll understand which of your users come from organic channels. Organic channels are referrals, organic search, organic social and direct traffic to your website. New users from paid marketing, banner ads, events or SDRs don’t count.
+
+![Multiple channels converging](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+If you’re not sure exactly where each paying customer comes from, that’s alright.  You can still calculate NRG by multiplying these three components.
+
+*   **Annual ARR growth rate.** This one is easy. Measure year-over-year growth by taking your current ARR, subtracting your ARR from a year ago and dividing by your ARR from a year ago.
+*   **% organic signups.** An organic signup is any signup that you didn’t have to pay for. These new users come from referrals, organic search, organic social and direct to your website. New users from paid marketing, banner ads, events or SDRs don’t count. Take your number of organic signups and divide it by your total number of signups in the past quarter. This can be an area where people get tripped up, so my advice is to avoid overcomplicating it by going into a bunch of different attribution types. Having a model where you can know who was a referral and by whom is amazing, but in most cases Google Analytics works just fine.
+*   **Incremental ARR that starts in product.** We’re looking for how much of your incremental recurring revenue comes from users who started by using the product, whether via a free trial, free product, open source product, freemium version or paid self-service product. Those users who immediately went down a sales-assisted path before getting into the product, for example those who requested a demo, do not count. If a user begins using the product, sees value, and then talks to sales to expand their usage or begin paying you, that does count as starting in product. An easy initial way to measure this is to take the timestamps of conversion and compare them to timestamps of when a user first enters your product.
+
+## How do you stack up to your peers?
+
+Companies with an extremely strong product-led motion, such as Zoom, Slack and Expensify, typically demonstrate a high Natural Rate of Growth. These PLG companies started out by optimizing their self-service motion and layered on incremental sales and marketing later on.
+
+Other organizations like HubSpot have made a conscious effort to become less sales-led, and if we track their NRG over time, I imagine we’ll see big improvements.
+
+Note: Younger companies like Expensify will generally score higher on NRG because their revenue growth will be higher. It’s much easier to grow a $5m ARR company by 100% than it is a $50m one! That’s one of the things that makes Zoom so exceptional—their ability to grow so dramatically even at scale.
+
+![](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+As you start to measure your Natural Rate of Growth, here are our rules of thumb for what you should aim for. OpenView will be tracking this metric over time and releasing benchmark data, so keep your eyes peeled.
+
+![ARR chart](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+## Building a better SaaS playbook
+
+We owe _so_ much to the OG SaaS metrics. But it’s time to shake things up a bit—especially if you’re executing on a PLG strategy. Consider giving Natural Rate of Growth its own headline in your next investment deck, executive dashboard or monthly update.
+
+## Appendix
+
+How each company we scored breaks down in our analysis. Data came from publicly available sources or author assumptions (denoted by a \*). Data sources are linked in the cells—feel free to click and explore.
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| **Company** | **YoY Revenue Growth** | **ARR After Signup** | **Percent of Users who are Organic** | **Natural Rate of Growth** |
+| Expensify | [94%](https://business.financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/expensify-announces-2018-growth-ends-year-both-profitable-and-cash-flow-positive) | 100%\* | [99%](https://www.youtube.com/watch?v=w98pcyMi7x4%22) | 93% |
+| Zoom | [108%](https://investors.zoom.us/static-files/0a0efe24-8471-4439-8d12-beb9d80c0c6c) | 90%\* | [92%](https://www.similarweb.com/website/zoom.us#searchs) | 89% |
+| Slack | [58%](https://www.cnbc.com/2019/09/04/slack-work-earnings-q2-2020.html) | 100%\* | [94%](https://www.similarweb.com/website/slack.com#search) | 55% |
+| Zapier | [50%](https://www.fastcompany.com/90274602/business-app-automation-kingpin-zapier-has-its-eye-on-consumers) | 100%\* | [98%](https://www.similarweb.com/website/zapier.com#search) | 49% |
+| Atlassian | [37%](https://www.zdnet.com/article/atlassian-achieves-37-year-on-year-revenue-growth-for-fy19-as-loss-widens/) | 100%\* | [99%](https://www.similarweb.com/website/atlassian.net#search) | 37% |
+| HubSpot | [32%](https://ir.hubspot.com/news/hubspot-reports-q3-2019-results) | 60%\* | [75%](https://www.similarweb.com/website/hubspot.com#search) | 14% |
+
+_If you’re building a B2B SaaS company and you’d like to talk strategy or fundraising, we want to hear from you. Please reach out to_ [_\[email protected\]_](https://openviewpartners.com/cdn-cgi/l/email-protection#bed6dbd2d2d1fed1c890c8dd)_._

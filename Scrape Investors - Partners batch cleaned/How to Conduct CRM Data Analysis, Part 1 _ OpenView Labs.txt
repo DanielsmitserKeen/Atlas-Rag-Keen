@@ -1,0 +1,179 @@
+# How to Conduct CRM Data Analysis, Part 1
+
+## Table of Contents
+
+*   [Step 1: Investigating the Ins and Outs of Your CRM Data](https://openviewpartners.com/blog/how-to-conduct-crm-data-analysis/#step-1-investigating-the-ins-and-outs-of-your-crm-data)
+*   [Step 2: Grouping the Data Together](https://openviewpartners.com/blog/how-to-conduct-crm-data-analysis/#step-2-grouping-the-data-together)
+*   [Defining the Units of Analysis](https://openviewpartners.com/blog/how-to-conduct-crm-data-analysis/#defining-the-units-of-analysis)
+*   [Conducting an Exploratory Analysis](https://openviewpartners.com/blog/how-to-conduct-crm-data-analysis/#conducting-an-exploratory-analysis)
+*   [Step 3: Mapping Out Your Analyses](https://openviewpartners.com/blog/how-to-conduct-crm-data-analysis/#step-3-mapping-out-your-analyses)
+*   [Setting the Foundation of Your Analysis: Identifying Two Basic Components](https://openviewpartners.com/blog/how-to-conduct-crm-data-analysis/#setting-the-foundation-of-your-analysis-identifying-two-basic-components)
+*   [Common Types of Analyses You Can Do with CRM Data](https://openviewpartners.com/blog/how-to-conduct-crm-data-analysis/#common-types-of-analyses-you-can-do-with-crm-data)
+*   [Step 4: Executing the Analyses and Interpreting the Results](https://openviewpartners.com/blog/how-to-conduct-crm-data-analysis/#step-4-executing-the-analyses-and-interpreting-the-results)
+*   [Step 5: Visually Presenting Your Insights](https://openviewpartners.com/blog/how-to-conduct-crm-data-analysis/#step-5-visually-presenting-your-insights)
+*   [Notes Regarding this Process](https://openviewpartners.com/blog/how-to-conduct-crm-data-analysis/#notes-regarding-this-process)
+*   [Tools and Quick Alternatives to CRM Data Analysis](https://openviewpartners.com/blog/how-to-conduct-crm-data-analysis/#tools-and-quick-alternatives-to-crm-data-analysis)
+*   [Other Types of Research You Can Conduct](https://openviewpartners.com/blog/how-to-conduct-crm-data-analysis/#other-types-of-research-you-can-conduct)
+*   [Using Sales Data Analytics Tools](https://openviewpartners.com/blog/how-to-conduct-crm-data-analysis/#using-sales-data-analytics-tools)
+*   [Building Your Own Analytics System by Connecting Your CRM with a Business Analytics Platform](https://openviewpartners.com/blog/how-to-conduct-crm-data-analysis/#building-your-own-analytics-system-by-connecting-your-crm-with-a-business-analytics-platform)
+
+As I have written in [my previous introductory post](https://labs.openviewpartners.com/lead-left-behind-bolster-customer-acquisition-strategy-crm-data-analysis/), CRM data stores contain extremely rich, multi-faceted, and interconnected datasets that are invaluable sources of information on a company’s markets, customers, and sales and marketing operations. These latent treasure troves of data just need to be teased out with the appropriate analyses, but it is extremely important that these analyses be set up as correctly and as optimally as possible from the start.  
+Otherwise, it can be difficult to avoid some nasty data issues, troublesome statistical roadblocks, unanticipated rework, or unnecessary side projects — all of which can pop up if you approach CRM data analysis in an ad hoc manner.  
+Therefore, without further ado, I would like to share the high-level steps in a well-structured CRM data analysis exercise, based on the many projects we have completed for our portfolio companies over the years.
+
+### Step 1: Investigating the Ins and Outs of Your CRM Data
+
+The first step of effectively mining your CRM for valuable insights and data is to survey the landscape by getting full access to your CRM system as well as any online or onsite backup data storage device where CRM data might also be archived.  
+You should review the setup of the CRM data tables and — if you don’t have a solid understanding of it already — get a good rundown of how your sales and marketing teams have been using the data.  
+**The immediate goal is to form an understanding of the following:**
+
+*   the types of data available
+*   their sources (manually entered, imported, or machine-generated)
+*   their formats
+*   how to extract the data out of the current systems
+
+You should also evaluate the coverage of common and possibly important data fields (the percentage of records that are filled out), and how the different data tables are related to each other (e.g. how accounts are related to contacts, and contacts to activities or opportunities, etc.).  
+Another very important step here is to make sure you understand the pathologies of the data, itself — the number and causes of corrupted records, duplicates, missing values, censored values, etc. Any sufficiently large dataset will contain errors and issues, and CRM data is particularly susceptible because it is mostly manually entered, and is a mixture of structured and unstructured data.  
+**Tip:** **Don’t dive in without investigating the pool.** Note that in this step, you are not yet analyzing the data in the traditional sense. Instead, you are really sizing it up first to see exactly how and when you can use it.
+
+### Step 2: Grouping the Data Together
+
+To do anything meaningful with the data, you need to get it together in an easily access place — for example, as a series of spreadsheets, a set of interconnected tables, or a whole relational database that allows you to run queries and reports. Not only will you need to extract the raw data from your CRM, you’ll also need to deal with the data issues that crop up through the standardization of format and normalization of data values. There are a lot of good practices around these steps, so I will just refer you to some good resources below:  
+**Data cleaning in Excel**
+
+*   [Using a Spreadsheet to Clean Up a Dataset](http://schoolofdata.org/handbook/recipes/cleaning-data-with-spreadsheets/) via School of Data
+*   [Top 10 Ways to Clean Your Data](https://office.microsoft.com/en-us/excel-help/top-ten-ways-to-clean-your-data-HA010221840.aspx) via Microsoft
+*   Using Excel to Clean and Prepare Data for Analysis via SIOP.org
+
+**Data cleaning with other tools (R and Google OpenRefine)**
+
+*   [An Introduction to Data Cleaning with R](http://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf) via The Comprehensive R Archive Network
+*   [Using Google Refine to Clean Messy Data](http://www.propublica.org/nerds/item/using-google-refine-for-data-cleaning) via ProPublica
+
+Just as importantly, you need to structure the data around the unit of analysis, be it individual customer account, individual contacts, or — at a higher level — segment of customers. Having defined that, you can then define indices that let you link the data tables in the CRM data together, so that they are all nicely tied around the unit of analysis and let you slice and dice the data in any way you want during the next step.
+
+### Defining the Units of Analysis
+
+I do want to take a minute here to focus on the idea of the “unit of analysis”, which is central in setting up the data tables in the optimal way. There is a natural hierarchy of records in a modern CRM system, which is really a product of how sales and marketing organizations think about the targets of their efforts — the customers.  
+At the most general level, markets think of **“the total addressable market”** as the aggregate of all potential customers, who are typically grouped into distinct **“market segments”**. In each market segment, the customers are supposed to have similar needs and buying behavior, so you can develop **“ideal customer”** profiles. In B2B markets, the customer is typically a business, so they are not represented by a single individual, but rather there will be several contacts for each customer organization. Each of these contacts fall into a particular **“buyer persona”** that helps define their distinct needs, etc. There might be one or multiple buyer personas at a customer organization in a given market segment. For each of these contacts, sales and marketing efforts are captured by recording their **“activities”** and **“touchpoints,”** and a potential purchase is typically called an **“opportunity”** by the selling organization. Naturally, there might be multiple sales opportunities associated with a given customer, each of which might be related to one or more **contacts**.  
+Any of these types of entities can be the object of an analysis. Moreover, you can aggregate analyses of a lower level entity to get to a rich perspective on the higher-level entity. For example, studying behavior of all contacts of customers in a single segment allow you to make broad analysis of the segment, itself. At the same time, you may not have sufficient data to analyze certain types of entities, especially lower-level data. Sometimes, you just need to get a sample of the lower-level entities to support the analysis at a higher level.
+
+### Conducting an Exploratory Analysis
+
+Once you have gotten all the data in place, you will want to start doing some data profiling and initial exploratory analysis of the data you have pulled together in order to a) develop a sense of the data; and b) detect any potential issue early on.  
+An exploratory analysis can be done simply using the basic functions in Excel such as AVERAGE(), STDEV(), MAX(), MIN(), MEDIAN(). These functions are flexible enough to ignore blank or erroneous data points, and so are easily applied without requiring a lot of preparatory work. However, keep in mind that you are simply exploring the data to gather initial intelligence, and you are not relying on these analyses to make your final conclusions.  
+Doing light exploratory analysis will also enable you to detect any systematic issue with the data and see what valuable information you might need to append to the data using external sources (for example, in a segmentation analysis, you will need data on potential segmentation variables).  
+Okay, so that’s almost 1,000 words just to get us to the point where the data is pulled together. That seems like quite a lot of work even before we get to analyzing the data! Trust me though, this hard work will pay off handsomely in the end.  
+_Image courtesy of [Lynn Friedman](https://www.flickr.com/photos/lynnfriedman/4478478274)_  
+
+### Step 3: Mapping Out Your Analyses
+
+   
+Editor’s note: This is the second post in a series on how to conduct CRM data analysis. To go back to the first post in the series, [click here](https://labs.openviewpartners.com/how-to-conduct-crm-data-analysis/).  
+I hope you are still with me after that arduous step of getting your data pulled together and set up for the big analysis. You’re closer to uncovering a hidden treasure trove of customer insights, but before you dive in you still need to develop your game plan first. In fact, that’s the true secret of high-impact data analysis work — mapping out your results before you even do the work.  
+By this point, you’ve pulled your data together, but you’re still not quite ready to analyze it. First, you need to work on mapping out the analytical steps you are going to perform. Because there are millions of potential analyses you can do on any sufficiently rich datasets, it is important that you limit your focus strictly to the analyses that will contribute to your objectives. Therefore, you should start first by defining the kind of conclusions that you want to get, and work backwards from the expected results to the analyses that will provide those results (or prove otherwise).  
+**Free In-Depth Guide**  
+You can read more about how we apply this approach to “reverse-engineer” the expected outputs in our in-depth guide to buyer insights research:  
+[](https://cta-redirect.hubspot.com/cta/redirect/366266/6a864ec7-bf81-4e86-9b87-c4f76cc4a0ca)
+
+###   
+Setting the Foundation of Your Analysis: Identifying Two Basic Components
+
+At this point, even if you are not 100% sure the exact types of results you want to get with the analysis, it is still beneficial to think about the following:
+
+1.  **the quantity you are trying to evaluate**
+2.  **what you are trying to juxtapose it against**
+
+This is generally in the form of “analysis of X over Y”. For example, are you interested in trends over time, or in productivity measures across the sales team, or in segmentation characteristics across the customer base?  
+I mention this type of analysis specifically because it is usually the most common of data analysis (that’s why they built it into the function in Excel called the “Pivot Table”), and it is also a go-to exercise that will help you develop insights or deeper questions for even more valuable analysis.  
+Once you have narrowed your focus on a specific set of possible conclusions, work backwards to build the analytical steps and data setup that will help you produce those outputs. **Tip: Do NOT do any extraneous data work or ad hoc analysis, as those will not get you to the answers, and will only suck away your time and attention.**
+
+### Common Types of Analyses You Can Do with CRM Data
+
+As a reference, below I’ve provided a list of analyses that you can do with CRM data. It is in no way exhaustive, but I do hope it can get you thinking about the wide range of analysis and tools you can use.
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| **Insights For** | **Unit of Analysis** | **Required Data** | **Typical Outputs** |
+| **Marketing Strategy** | Leads/Contacts | *   leads/contacts demographic data<br>*   activity data<br>*   lead/contact conversion data | *   prevalent characteristics of leads/contacts<br>*   conversion rates<br>*   effectiveness of sales & marketing activities |
+|     | Leads/Contacts | *   lead source data<br>*   lead stage history data<br>*   web traffic data | *   lead volume and conversion rates of each lead source<br>*   lead volume trend over time |
+|     | Marketing Campaigns | *   leads/contacts associated with campaigns<br>*   conversion & activities data<br>*   campaign costs | *   performance of campaigns<br>*   conversion rates<br>*   cost per opportunty<br>*   cost per lead<br>*   avg. time taken per conversion |
+| **Sales Operations** | Accounts & Opportunities | *   opportunity data<br>*   opportunity history data<br>*   account demographic data | *   segmentation of opportunities and accounts by demographic and firmographic factors<br>*   conversion rates<br>*   sales cycle stages and lengths |
+|     | Opportunities & Contacts | *   opportunity history data<br>*   associated contacts and associated activities history | *   buyer roles and buyer personas |
+|     | Opportunities | *   opportunity history<br>*   associated opportunity owner | *   sales rep performance analysis<br>*   opportunity coverage analysis |
+| **Customer Onboarding & Success  <br>** | Accounts | *   account demographic information<br>*   billing information<br>*   associated contacts and history | *   current customer segmentation<br>*   use case analysis<br>*   buyer and user personas |
+|     | Support Cases | *   activities data | *   success metrics<br>*   customer support |
+
+### Step 4: **Executing the Analyses and Interpreting the Results**
+
+Once you have fully fleshed out your plan and properly prepared, you are finally ready to dive in and start analyzing the data with your powerful toolsets of statistical models and data manipulation scripts. At this point I strongly recommend setting up templates and automation steps, so that when you redo the analysis with a subset of the data or an entirely different dataset, you do not have to start from scratch.  
+Again, for each of these analyses, think of the ultimate answers that you are looking for, and optimize your calculation steps so that you get exactly those answers — no more, no less. **The less data you touch, the fewer the steps you carry out, the less error prone your results are, and the easier it is to replicate your work.**  
+For each completed analysis, try to stay focused on the evidence that you are trying to get and the hypothesis you are trying to prove or disprove, so that you can sharply evaluate the results and avoid getting bogged down in analysis paralysis.
+
+### Step 5: Visually Presenting Your Insights
+
+To really make an impact with your analysis, you will need to pull together all of the disparate results, and most importantly, connect the dots together to form a holistic view and a consistent narrative of the insights that arise.  
+In planning your delivery of this narrative, you should consider your audience — what assumptions do they have, and what tone/approach do you want to take in delivering the story to them? You can choose to be explanatory, educational, contrarian, visionary, or practical, all depending on your objectives and the audience you are working with. There is no lack of visual aids, interactive content, and multimedia platforms to help you get your point across, but they have to be consistent with your narrative and the tone you want to project.
+
+### Notes Regarding this Process
+
+There’s nothing too ground breaking about the steps I described above. If anything surprised you, it’s probably the amount of time I spent describing the setup steps (which all together make up three out of the five steps) rather than describing the far cooler and more exciting data analysis and visualization tools that really bring the data to life.  
+However, I would argue that getting your proverbial data analysis ducks in a row successfully is actually the most important part of doing data analysis.  
+Moreover, I also want to stress the distinction between **what this analysis is:** a one-time analysis that encompasses the whole (or at least a substantial part) of the data store vs. **what it isn’t:** a management report/dashboard that is meant to be refreshed regularly and often.  
+Our approach here should apply mostly to one-time/infrequent analysis that helps show a snapshot in time in-depth. It provides an in-depth look at the data from multiple angles and perspectives. Because of its thoroughness, it helps to avoid data errors, seasonality biases, and provides valuable, hidden insights on the customer interaction data such as segmentation, long-term trends, or unexpected correlation between different aspects of the sales process.  
+It is not meant to be repeated regularly to identify trends as they happen, nor to be used as part of a dashboard to manage activities, productivities etc. Those are reports and analyses that help management teams make day-to-day decisions and therefore are more of a check on the pulse of what is going through the CRM on a daily, weekly, and monthly basis. I still think that the overall hypothesis-driven analytical approach applies, but clearly when a report is to be run regularly, requiring all of the standard work involved in cleaning, de-duplication, and normalizing data will be too impractical.  
+Nevertheless, you may still find that this approach is too complicated or time consuming. This is fair, especially if you are tight on resources and time. In the next section, I will be discussing alternatives to this full-on analysis approach that you can still utilize to get some of the insights you are looking for. While every alternative still requires a lot of work, in some cases you can consider software tools or services providers that will help reduce the burden tremendously (not to mention some of them are really cool).
+
+### Tools and Quick Alternatives to CRM Data Analysis
+
+   
+_Editor’s note: This is the third post in a series on how to conduct CRM data analysis. To go back to the first post in the series, [click here](https://labs.openviewpartners.com/how-to-conduct-crm-data-analysis/)._  
+In the previous sections, I described an approach to planning and structuring CRM data analysis. I placed specific emphasis on the steps of setting up the analysis and preparing the input data. And for good reason — those steps are essential to a successful CRM data analysis project.  
+The approach I described is multi-purpose and versatile, and can be applied to analyze any aspect of the CRM data, for any given operational management and decision making purposes. For example, the process can be used to help optimize demand generation tactics as well as sales and business activities such as benchmarking or customer onboarding and success management.  
+However, it’s worth pointing out that the amount of work required in this approach can be too burdensome for a team with limited time and resources. It also isn’t necessarily the best approach for a team looking for real-time trends and analytics to make quick, reactive decisions. It may also be too involved for an early-stage company, which typically has few sales people and even less CRM data on record, since much of the sales process there happens organically through personal, direct contacts.  
+Before I close out this series, I want to address these concerns by noting alternatives to doing the full-blown CRM analysis. There are definitely many shorter and easier ways to get insights, but do note that they all involve one level of tradeoffs or another. What you will gain in time and effort saved will be counterbalanced by reduced specificity, accuracy, or customization. What is most important is to consider the different options and select one that is most pragmatic for your current level of resources and needs.
+
+### Other Types of Research You Can Conduct
+
+You can commission other research projects to learn about your market, your customers, and your own sales operations. Since you are not analyzing the granular-level, unstructured interactions data, you will want to collect structured data from other sources such as:
+
+*   customer surveys
+*   lost customers and prospects surveys/interviews
+*   surveying your own sales team
+*   commissioning third party research into your customers and prospects
+
+These projects will provide very insightful quantitative and qualitative insights on your customers and sales engagement models. They also provide an outside-in, unfiltered perspective that you will not necessarily get by analyzing your CRM data alone. However, because surveys and interviews are best conducted with very specific goals in mind, you will need to be very specific about the questions you are trying to answer and form concrete hypotheses for the answers before you actually conduct the surveys.  
+If you haven’t formed such strong hypotheses, it is best to conduct a smaller scale exploratory analysis of the CRM data with the approach I described, because that will still be less time consuming and costly than having to potentially conduct multiple rounds of customer and prospect surveys as you refine your hypotheses.
+
+### Using Sales Data Analytics Tools
+
+CRM data analysis is important enough that there are vendors who offer fully packaged, out-of-the-box software tools that plug directly into your CRM system and perform the analyses automatically.  
+These tools fall under several categories:
+
+*   **Marketing Performance Analysis:** examples include [KISSMetrics](http://www.kissmetrics.com/) and [Mixpanel](https://www.mixpanel.com/)
+*   **Sales Productivity and Performance Analysis:** tools such as [InsightSquared](http://www.insightsquared.com/)
+*   **Predictive Analysis for Sales Forecasting:** tools such as C9 Inc.
+*   **Customer Success and Experience Management Analytics:** examples include [Totango](http://www.totango.com/), Gainsight, and more.
+
+You can find a broader list of many such tools on Docurated blog.  
+**3 Reasons to Consider Using Data Analytics Tools**
+
+*   They are easy to use and provide real time insights. Because they hook directly into your CRM and marketing automation tools, they constantly ingest data and update the analysis, allowing you to immediately see evolving trends and just in time updates.
+*   They are built on best practices and are constantly evolving based on feedback from customers like you, so you do not have to reinvent the wheel by figuring out the right analysis to do, the correct chart to show, etc. For example, InsightSquared has been providing a [series of valuable guides](http://www.insightsquared.com/2013/10/the-a-b-cs-of-sales-analytics-and-marketing-metrics/) for building the most practical sales productivity dashboards.
+*   They bring you into a community of like-minded users that can give you valuable support and ideas as you continue developing your organization’s analytics capability.
+
+**3 Downsides to Using Data Analytics Tools**  
+Besides the fact that they are not free:
+
+*   They are often tied to only the most popular CRMs or Marketing Automation platforms, and even for those systems that they support, the integration is not always seamless and smooth, because of the volume and diversity of data that these platforms digest (essentially, the integration process is the equivalent of the data cleaning process in our approach).
+*   Because they are meant to be easy to use, they are not always very customizable and flexible in dealing with special data formats or structures, which will invariably arise when as your organization grows and becomes more sophisticated.
+*   You do not have full ownership of the analytics that these platforms produce. Not all of them will allow you to export the data that underlie their pretty charts and beautiful reports.
+
+### Building Your Own Analytics System by Connecting Your CRM with a Business Analytics Platform
+
+There are many general-purpose business intelligence platforms out there that can process your CRM data to give you the same types of insights and analysis that you will get with either your homegrown analysis or with the sales analytics tools. [Birst](http://www.birst.com/), [Domo](http://www.domo.com/), [LogiAnalytics](http://www.logianalytics.com/) and [GoodData](http://www.gooddata.com/) all come to mind as modern cloud tools that have ready integration with the most popular CRMs such as salesforce.com to serve CRM Analytics needs.  
+With this approach, what you lose in best-practices-driven benchmarks and dashboards provided by the sales analytics vendors, you will gain in customization, access, and ownership of data. However, you should only consider those tools if you have a broader use case for using a BI platform for your business — maybe you have similar needs in other teams that justify getting one of those platforms.  
+Lastly, even though these BI tools are becoming easier to use, they are still very powerful tools that require specialized training and a fair amount of data integration work, and it is worthwhile to consider the cost and benefits of doing that work while weighing it against other options.  
+**Are there other resources and tools that you have used for your own CRM analysis? Please share with us and the audience here.**  
+  
+Photo by: [Binary Koala](https://www.flickr.com/photos/35632769@N00/2069692015)

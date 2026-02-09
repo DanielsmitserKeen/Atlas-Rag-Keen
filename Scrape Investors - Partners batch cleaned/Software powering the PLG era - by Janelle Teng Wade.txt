@@ -1,0 +1,112 @@
+# Software powering the PLG era
+
+_Originally published in Bessemer’s [Atlas](https://www.bvp.com/atlas/roadmap-software-powering-the-plg-era). Co-authored by Janelle Teng, Andrew Schmitt, and Sameer Dholakia._
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!84yx!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F730a4d13-041b-4f10-823a-f20b59121f65_817x497.png)
+
+](https://substackcdn.com/image/fetch/$s_!84yx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F730a4d13-041b-4f10-823a-f20b59121f65_817x497.png)
+
+[The power of a product-lead growth (PLG)](https://www.bvp.com/atlas/10-product-led-growth-principles) business model has transcended beyond the developer economy, extending into other categories of software, such as design and collaboration tools to customer engagement solutions. Nearly 60% of the [2022 Cloud 100](http://bvp.com/cloud100) employ a PLG motion today, which is almost double the PLG representation from the inaugural Cloud 100 list in 2016.
+
+Yet, a frequent misconception of the product-led growth model is that PLG companies do not have sales or marketing teams. The truth is that as these businesses scale to new revenue heights, it’s essential they transform and take on a [“hybrid” product-led sales-assisted motion](https://www.bvp.com/atlas/introducing-enterprise-sales-to-a-product-led-growth-organization).
+
+A bottoms-up strategy is instrumental for initial product-market fit, but to reach $100M+ ARR, PLG companies need to layer in enterprise sales and marketing to convert usage into annual or multi-year contracts.
+
+Throughout the years, we’ve witnessed many of our PLG portfolio companies, such as [Zapier](https://zapier.com/) and [Twilio](https://www.twilio.com/), employ this hybrid strategy and develop product-led sales (PLS) funnels that help them scale to [Centaur status](https://www.bvp.com/centaur) faster than non-PLG peers. As growth-stage startups take a PLG distribution approach, investors and founders alike have noticed that today’s tooling is not built to support their distinct hybrid go-to-market (GTM) function.
+
+[
+
+![History of PLG Centaurs](https://substackcdn.com/image/fetch/$s_!ka53!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4347483d-6e5f-4c0f-8104-343af7affbfa_1600x900.png "History of PLG Centaurs")
+
+](https://substackcdn.com/image/fetch/$s_!ka53!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4347483d-6e5f-4c0f-8104-343af7affbfa_1600x900.png)
+
+From measurement, to engagement, to tracking, to pricing and billing, current solutions are not customized to the unique workflows, processes, and data scale of PLG companies. Without appropriate tools, we’ve seen top-performing PLG companies create workarounds to overcome the limitations of their current software stack, which is a telltale sign a new category is ready to be created.
+
+**Today there is a growing ecosystem of startups dedicated to helping companies unlock the full potential of PLG companies adopting a hybrid GTM model. This infrastructure will help companies cross the “data chasm” of converting usage insights into go-to-market action and forecasting. In this roadmap, we explore the fundamental needs of PLG companies looking to accelerate their GTM motion, the startups leading the category, and our predictions for this space.**
+
+[
+
+![PLG tech stack ](https://substackcdn.com/image/fetch/$s_!chqa!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F40f98de4-bb3c-4185-a27c-0f394f265257_1502x974.png "PLG tech stack ")
+
+](https://substackcdn.com/image/fetch/$s_!chqa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F40f98de4-bb3c-4185-a27c-0f394f265257_1502x974.png)
+
+A PLG company’s hybrid motion is distinct from traditional sales motions in several ways:
+
+1.  Unlike traditional sales where decision-making and purchasing power is often concentrated within a procurement committee or executive sponsor, with PLG, users can make software purchases themselves, likely with a credit card or limited budget. This means that tracking granular user behavior is crucial since it holds the keys to maximizing conversion potential.
+    
+2.  Upsell and free-to-paid conversion rates are critical for successful monetization, as many PLG companies typically start with landing small, self-serve deals that they hope to expand on over time (e.g. “land-and-expand” strategy).
+    
+3.  Pricing for PLG companies is often [tied to usage](https://www.bvp.com/atlas/five-pros-and-four-cons-of-usage-based-pricing-and-why-it-was-a-no-brainer-for-courier-s-ceo), representing a more precise measure of value delivered than a per-seat license.
+    
+4.  Finally, the volume of users and scale of data captured in a PLG motion is often magnitudes larger than in traditional models. This presents both an opportunity and a challenge since this data can be leveraged to improve monetization, however the sheer volume of data makes it nearly impossible for a human to sort through without the proper tooling.
+    
+
+As former operators of PLG companies, we’ve seen these pain points firsthand. For instance, while at SendGrid, Sameer Dhlolakia’s go-to-market teams had the gift—and challenge—of having thousands of new signups (free and paid) each month. Being able to identify which of these signups warranted a direct sales conversation (besides those who clicked on the “Contact Sales” button!) was difficult, and required lots of custom reporting and systems creation. Beyond this early challenge, the SendGrid Customer Success team had to determine who amongst the 100k+ install base of customers might be ripe for an expansion conversation. Ultimately, while a PLG motion helps to drive orders of magnitude more users into the top of the funnel, it makes it far more difficult to find the revenue opportunities worthy of the direct touch investment without the right technology in place.
+
+With this unique set of needs, traditional go-to-market toolkits—a deck and demo, a CRM for recording leads and interactions, and a flat-fee monthly pricing model—are woefully under-equipped to serve today’s product-led companies. **A “stage 1” opportunity in a PLG motion isn’t a cold call or email—it’s an Intercom engagement, a download of the open source version, or joining a Slack or Discord community channel.**
+
+Previously, many of our PLG portfolio companies had to create workarounds to overcome the limitations of incumbent tools. These have been concerns for a long time, but today’s modern data infrastructure stack has unlocked new solutions to drive efficiency within the PLG motion.
+
+The rise of behavioral analytics was a corollary to bottom-up growth. PLG companies have built a new infrastructure stack focused on collecting data and surfacing a 360-view of the end-user in real time across verifiable actions, product usage, pain points, and value triggers. **This modern data infrastructure stack fueling a PLG engine typically consists of three key sets of tools:**
+
+*   **Data collection and aggregation in customer data platforms,** such as [ActionIQ](https://www.actioniq.com/), [Freshpaint](https://www.freshpaint.io/), [Lytics](https://www.lytics.com/), [mparticle](https://www.mparticle.com/), [Segment](https://segment.com/), [Rudderstack](https://www.rudderstack.com/), [Tealium](https://tealium.com/), or data warehouses such as [Snowflake](https://www.snowflake.com/), [Google BigQuery](https://cloud.google.com/bigquery), [Amazon Redshift](https://aws.amazon.com/redshift/);
+    
+*   **Data integration tools,** such as [Arcion](https://www.arcion.io/), [Fivetran](https://www.fivetran.com/), [Airbyte](https://airbyte.com/), and [dbt](https://www.getdbt.com/), for data extraction, loading, and transformation (i.e. ELT/ETL) from multiple different data sources;
+    
+*   **Operational analytics or reverse ETL using solutions,** such as [Census](https://www.getcensus.com/), [Grouparoo](https://www.grouparoo.com/), [Hightouch](https://hightouch.com/), [Omnata](https://omnata.com/), [Polytomic](https://www.polytomic.com/), and [Seekwell](https://www.seekwell.io/), to move and deliver data easily to business apps.
+    
+
+Ultimately, this data is subsequently consumed by other application-layer tools to address critical business use cases described in the subsequent sections.
+
+Mature PLG and non-PLG businesses alike can leverage software such as sales and customer intelligence platforms such as [Databook](https://trydatabook.com/), revenue data platforms such [RevenueBase,](https://revenuebase.ai/) account-based marketing software such as [6sense](https://6sense.com/), or cloud spend intelligence solutions such as [Intricately](https://www.intricately.com/) (acquired by HG Insights), to arm their GTM teams with insights about buyer journeys to increase marketing efficiency and sales conversions.
+
+On top of this, [leading PLG companies also pay close attention to product metrics on a highly granular level](https://www.bvp.com/atlas/power-to-the-product#Track-product-metrics-as-a-leading-indicator-for-financial-performance). This is because they recognize that tracking product metrics are leading indicators to monetization. PLG companies thus employ software such as [Amplitude](https://amplitude.com/), [Heap](https://heap.io/), [Indicative](https://www.indicative.com/) (acquired. by mParticle), [Pendo,](https://www.pendo.io/) [Mixpanel](https://mixpanel.com/), [Rakam](https://rakam.io/), to run product analytics and surface customer insights. Others leverage solutions such as [Hex](https://hex.tech/), [Houseware](https://www.houseware.io/), [Metabase](https://www.metabase.com/), [Mode](https://mode.com/), [Streamlit](https://streamlit.io/), [Superset](https://superset.apache.org/), and [Plotly](https://plotly.com/), to create business intelligence apps, visualization capabilities, and reports to derive value from data collected in their PLG infrastructure stack. Insights derived from the data are then piped to go-to-market teams for more efficient strategic sales or the ability to better identify potential product-qualified leads with high purchase intent. These insights are also a source of feedback for product teams to influence future product decisions and roadmap, thereby reinforcing the flywheel of user engagement and product love. User-centricity is perhaps the most important guiding principle that impacts everything a PLG organization does—from product to go-to-market.
+
+Traditional customer relationship management (CRM) tools are built to store information on existing and prospective customers who have been acquired and nurtured through traditional [sales and marketing touchpoints](https://www.bvp.com/atlas/introducing-enterprise-sales-to-a-product-led-growth-organization#2-Mine-for-product-qualified-leads-PQLs-to-guide-direct-sales). However, this is not necessarily the typical customer acquisition flow for PLG companies that focus more on [product-qualified leads](https://www.bvp.com/atlas/introducing-enterprise-sales-to-a-product-led-growth-organization#2-Mine-for-product-qualified-leads-PQLs-to-guide-direct-sales), converting usage into small self-serve deals, and upselling over time with additional usage. There is a massive market need to map to the end-user (the most important champion in a PLG motion) journey or provide granular visibility into product usage that could trigger key conversion moments or thresholds for reps to prioritize and act on.
+
+Recognizing this gap, a new generation of platforms have emerged to help PLG organizations execute effectively on their hybrid PLS playbook. Some paint a vision of eventually replacing the CRM, while others firmly position themselves as replacing the main UI to the CRM. There is hope that these PLS orchestration platforms will do many things. First, data visualization - surface additional data and context on the customer, such as customer support tickets, payments, usage, errors. Second, lead prioritization - identify the leads that have the highest potential of conversion/upsell, or the highest risk of churn. Finally, triggering action - build or integrate with GTM automation tools.
+
+These are several promising companies in this space, including the likes of [Bliinx](https://bliinx.com/), Bounti, [Calixa](https://www.calixa.io/), [Correlated](https://www.getcorrelated.com/), [DevRev](https://devrev.ai/), [Endgame](https://www.endgame.io/), [Groundswell](https://www.trygroundswell.com/), [HeadsUp](https://www.headsup.ai/), [Journy.io](https://www.journy.io/) , [Pace](https://www.paceapp.com/), [Pocus](https://www.pocus.com/), [Poggio Labs](https://www.poggiolabs.com/), [RevenueHero](https://revenuehero.io/), [Toplyne.io](https://www.toplyne.io/), and [Variance](https://www.variance.com/).
+
+In a high-velocity sales model, owning a larger funnel than most AEs are used to covering, it’s critical to automate GTM action. Generally, we are seeing two approaches emerge—some PLG CRMs attempt to own the ‘end-to-end workflows’ and build outreach automation in-house, while others integrate with leading automation tools. For the integrated approach, popular GTM automation tools include [ActiveCampaign](https://www.activecampaign.com/), [Customer.io](https://customer.io/), [Klaviyo](https://www.klaviyo.com/), and [Yotpo](https://www.yotpo.com/) for marketing automation, [Groove](https://www.groove.co/), [Outreach](https://www.outreach.io/), [Salesloft](https://salesloft.com/), and [Vymo](https://vymo.com/) for sales outreach, [Chili Piper](https://www.chilipiper.com/) and [Calendly](https://calendly.com/) for call scheduling, [ChurnZero](https://www.google.com/aclk?sa=l&ai=DChcSEwi-xaHr6ZL6AhUkbW8EHVdoAGEYABABGgJqZg&sig=AOD64_3uP0H-XtKSBOBMT8c6QJEbGV-1rw&q&adurl&ved=2ahUKEwj585jr6ZL6AhXzITQIHUANB_UQ0Qx6BAgFEAE), [Gainsight](https://www.gainsight.com/), and [Vitally](https://www.vitally.io/) for customer success workflows, and [Zapier](https://zapier.com/blog/sales-automation/), [Unito](https://unito.io/), and [Workato](https://www.workato.com/) for custom-built workflow sequences.
+
+Since purchasing decisions are driven by professionals versus procurement teams, there’s a greater need for PLG companies to [employ a transparent pricing model](https://www.bvp.com/atlas/10-product-led-growth-principles#7-Employ-a-transparent-pricing-model). PLG companies strive to deliver solutions without the need for human intervention, and pricing is no exception. A clear and straightforward pricing model—aligned with a unit of value—reduces friction during the purchasing process. Usage-based pricing (UBP) models have been used within developer-focused tooling for years, but we’re seeing many new categories, like cloud data warehouses, embrace the value of UBP. This is not only because of transparency, but also because individual end-users can enter at a low cost entry-point and then scale up later.
+
+However, incumbent third-party billing infrastructure is built for a simple per-seat pricing model, and cannot fully capture the nuances when tracking and analyzing usage, contracting, and invoicing, based on a consumption model leveraging the cloud. Identifying this disconnect, a new wave of platforms focused on metering infrastructure and usage-based pricing analytics has emerged, including startups such as [Amberflo](https://www.amberflo.io/), [Aqueduct](https://www.tryaqueduct.com/), [Metronome](https://metronome.com/), [M3ter](https://www.m3ter.com/), [Octane](https://www.getoctane.io/), [Orb](https://www.withorb.com/), [Paigo](https://www.paigo.tech/), and [Zenskar](https://zenskar.com/). Adjacent to this, we’re witnessing companies like [DealHub](https://dealhub.io/), [MonetizeNow](https://www.monetizenow.io/), [RevOps.io](http://revops.io/), and [Salesbricks](https://www.salesbricks.com/), simplify complex pricing and billing infrastructure with product-led companies as a key target segment. These quote-to-cash companies offer modules for price calculation, payment collection, and contract management for self-serve GTM motions.
+
+This new method of usage-billing and PLG quote-to-cash infrastructure enablers is growing across SaaS sub-categories around the world, which gives us the confidence that PLG is accelerating as the primary business model for software.
+
+Without elaborate marketing campaigns or robust sales resources, many PLG businesses [primarily rely on user evangelism to drive awareness and adoption](https://www.bvp.com/atlas/how-developer-platforms-scale-with-product-led-growth-strategies#Tactic-C-Mobilize-and-empower-your-champion-through-continued-engagement). This is a golden rule for product-led companies because end-user advocates are not just essential for initial adoption of a product, but also for successful expansion throughout their organization.
+
+PLG companies thus recognize the importance of leveraging word-of-mouth virality and amplifying the voices of their most passionate user champions. Many PLG companies have built digital communities on platforms such as [Tribe](https://tribe.so/), [Discord](https://discord.com/), [GitHub](https://github.com/), and Slack forums to foster connections between users and connect prospects with happy users. Recently, we have also seen PLG companies adopt tools such as [RFRD](https://www.rfrd.io/), [Testimonial](https://testimonial.to/), and [Vouch](https://vouchfor.com/) that allow customer testimonials to be collected and shared easily, further reinforcing momentum from user evangelism.
+
+Just as the PLG business model changed the way a majority of software is sold and deployed today, we also expect PLG-specific tools will enable more efficient business practices for technology companies-at large.
+
+**As PLG GTM software takes shape as a distinct category, we expect to see these five trends to become more ubiquitous among SaaS businesses:**
+
+1.  Today, PLG companies need to stitch together multiple solutions to find revenue signals from all the signups and usage data they have. The workarounds and custom-codes that PLG companies employ will increasingly become productized.
+    
+2.  We envision the winning platform(s) unifying these needs into an all-in-one solution, offering capability across the functional areas of data measurement, lead scoring/prioritization, to next-best-action alerting, etc.
+    
+3.  Adopting product-led selling tools will become easier, needing little-to-no configuration from a data analyst. Go-to-market teams will be able to use these tools out of the box.
+    
+4.  These platforms will ultimately broaden and begin to replace or augment traditional CRM players at the lower-end (SMB / startup) of the market, and grow with customers over time.
+    
+5.  PLG GTM tools will not just be for PLG companies. We believe that this new category will provide such a high level of value to businesses that even organizations that do not rely primarily on a PLG motion will come to evangelize many of these enablement tools, creating a new cohort of [Centaurs](https://www.bvp.com/atlas/the-centaur-report) from this category.
+    
+
+As we’ve highlighted, the most powerful PLG motions are not purely self-service. They combine both product-led and sales-assist motions (e.g. using PLG to get lots of users engaging with the product, and using sales teams to convert the largest ARR opportunities.) While this hybrid PLG/sales GTM strategy can be powerful, its success requires a new tech stack.
+
+**Fundamentally, the challenge for PLG companies is finding revenue signals amidst the product noise.** Early stage companies go from having dozens or hundreds of leads and customers to thousands and tens of thousands (all the way to millions) as they mature. That scale differential makes it nearly impossible for sales organizations to know how to find the needle in the haystack of their vastly broadened user base.
+
+Today, PLG companies are stitching together multiple solutions in an attempt to create a “single source of truth” to figure out the product and usage triggers that lead to revenue generation. These new PLG GTM tools are fundamentally shaping new workflows within organizations and unlocking more collaboration between teams. We are excited about this new category of verticalized solutions for a PLG motion—not just for investment opportunities to back iconic, category-creating companies, but also from the perspective of PLG founders and our PLG portfolio companies: Now, they too can be equipped with the necessary, purpose-built tools to optimize for efficient growth and reach the full potential of their unique GTM strategy.
+
+**If you love PLG as much as we do and are a team building solutions for PLG companies, please reach out to [Sameer Dholakia](https://twitter.com/spdholakia), [Janelle Teng](https://twitter.com/NextBigTeng), and [Andrew Schmitt](https://twitter.com/aschmitt111).**
+
+##### This post and the information presented are intended for informational purposes only. The views expressed herein are the author’s alone and do not constitute an offer to sell, or a recommendation to purchase, or a solicitation of an offer to buy, any security, nor a recommendation for any investment product or service. While certain information contained herein has been obtained from sources believed to be reliable, neither the author nor any of his employers or their affiliates have independently verified this information, and its accuracy and completeness cannot be guaranteed. Accordingly, no representation or warranty, express or implied, is made as to, and no reliance should be placed on, the fairness, accuracy, timeliness or completeness of this information. The author and all employers and their affiliated persons assume no liability for this information and no obligation to update the information or analysis contained herein in the future.
+
+#### Discussion about this post
+
+### Ready for more?

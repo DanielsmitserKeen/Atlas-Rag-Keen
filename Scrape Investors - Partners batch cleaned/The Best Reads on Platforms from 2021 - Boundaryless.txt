@@ -1,0 +1,366 @@
+# The Best Reads on Platforms from 2021
+
+This end of the year blog post provides a — always very much acclaimed by our community — year-round review of the most important reads, videos and podcasts you may have missed in 2021 all carefully selected among the best we featured on our fortnightly newsletter. It will surely fill your holiday reading space with insights and prepare you at best for what’s coming up.
+
+_Note that all these links have been previously featured in our newsletter: [check the archive and sign up to stay tuned](https://us11.campaign-archive.com/home/?u=e272a9d50c52efb331777c60a&id=b0460ae881)!_
+
+## **Getting there: platforms everywhere, and daring to experiment with new patterns** 
+
+2021 is not a milestone year for platform-ecosystem thinking but rather a step in a process that has its roots – to various extents – in events that have characterized the last decade, or so.
+
+On one hand, we’re living through the progressive evolution of the platform-marketplace model, increasingly being pushed into new verticals. As part of this process, the marketplace model gains popularity in new, often professional, sectors, increasingly mixing with SaaS and service bundles. This coupling makes up a powerful value proposition: providing a basic set of workflows, a so-called “system of records”, and – in some cases – also demand generation, platform-marketplace allows professionals of all kinds to join markets, often leaving existing positions at corporations, in a trend that many call “the great resignation”.
+
+On the other hand, progressive unbundling moves forward, upwards and downwards in the value chain, Most visibly, the fintech world has eventually identified marketplaces are great distribution opportunities and on-ramps for their services that serve as complements and enhancers of user experiences and contribute to the increased appeal of the marketplace pattern.
+
+Furthermore, 2021 is also the year when web 3 and its implications are being effectively integrated into a platform-marketplace stack that involves value exchanges that happen “off-chain” (i.e.: exchange of services, products that do not just exist as tokenized assets on a blockchain). Despite most of the efforts in integrating smart contracts into the marketplace code, or to adopt data and reputation portability, are just starting up, one massive success story, that of Braintrust, has shown that web 3, tokenization mechanisms can be integrated as a way to empower the network participants to provide network services (such as bringing in referrals, vetting producers, and more) and receive network value back in the form of governance-related tokens. Braintrust’s pioneering model, that of web 3 marketplaces, holds massive promises and I bet we’re going to see more experiments, along with this pattern, growing massively in 2022 possibly displacing existing traditional company backed marketplaces.
+
+More attempts are being made to rethink traditional dynamics of real-world commerce and trade according to the new possibility of web 3 aiming at “unbundling” the various layers and pieces: the marketplace from its governance, the supply aggregation side from the demand aggregation side, and more. Boson Protocol is a project to keep an eye on, in this space.
+
+Verticalization of marketplaces and the emergence of powerful “software stack” that are somewhat able to substitute the advantages of belonging to a corporation, are not the only entrepreneurial enabling trend we’re seeing: no-code is another signal pushing towards more entrepreneurial sovereignty and major growth of the role of micro-entrepreneurialism in rebuilding different economic patterns.
+
+Coupling these trends: the unbundling of the corporation and the empowerment of the micro-entrepreneur – or team – and a progressive affirmation of protocol-based, inclusive governance, tokenized organizations is certainly signalling that a real end of bureaucracy is – perhaps eventually – in sight, at least for some sectors of the economy. If heavy industries still have to rely on bureaucratic top-down hierarchies, the competitiveness of swarm-like, contract based organizations becomes more competitive by the day at least in knowledge work, finance and commerce.
+
+I predict that 2022 will be an interesting year that will bring up key questions about building deliberately open, cooperative systems – platforms, infrastructures, marketplaces – that are  integrative enough to maximally reduce the case for competition and maximally augment the case for collaboration and shared ownership. The idea of [_“outcooperating the competition”_](https://boundaryless.io/blog/outcooperating-the-competition/) and building “last movers” will be not only more tempting, meaningful, and attractive but also look relatively more at hand as we discover more patterns, primitives and enabling technological solutions and as design practices get developed for entrepreneurs and designers to engage with this possibility.
+
+At Boundaryless we are already working on such design tools, in a way to integrate them with our library of exploration, strategy design, growth, and validation practices and this is going to certainly be one of our focus for 2022.
+
+In the sections below, the reader will find four major sections:
+
+*   **The Continued Evolution of Marketplaces, platforms:** collecting links covering new emerging patterns with regards to marketplaces and platform evolution, and learning resources for builders;
+*   **The social and regulatory implications of the platform economy and new approaches to it:** covering reads and links discussing the large scale, systemic questions that are emerging as the internet pervades everything;
+*   **The Evolution of work and organizing:** exploring the implications of a disappearing boundary between markets and organizations, software-driven organizing, decentralization and self-management updates from 2021;
+*   **Informative Breakdowns:** where we link you to precious deep dives around the most important business and networks in the industry so that you can learn from the inner workings of the best.
+
+For each section, you’ll find a short intro, links we’ve curated, some additional links from our writing at Boundaryless, and links to some of the episodes of the [Boundaryless Conversations Podcast](https://boundaryless.io/resources/podcast/) episodes of 2021.
+
+This year you won’t find much about what’s coming up at Boundaryless cause we recently covered a lot of this in our new brand presentation post that we encourage you to catch up with here: [We are Boundaryless](https://boundaryless.io/blog/we-are-boundaryless/).
+
+Thanks so much for bearing with us in 2021, stay tuned for more and – hopefully – enjoy a well-deserved break if you can!
+
+* * *
+
+[![PDT Bootcamp](https://app.boundaryless.io/app/uploads/2021/10/PDT-Bootcamp-1024x612.png)](https://boundaryless.io/event/online-platform-design-certification-bootcamp/)
+
+_Start your 2022 in the right way: attend our Platform Design Bootcamp in February and learn how to design platform strategies for you and your customers._
+
+* * *
+
+## **The Continued Evolution of Marketplaces, platforms** 
+
+As said above, the marketplace-platform space is hot and growing, entering new verticals, developing further integration with finance, exploring new possibilities in governance and network involvement, and more. Here’s a list of key reads, videos and podcasts you may have missed:
+
+**Best Links on the Continued evolution of Marketplaces, platforms**
+
+[The future of marketplaces: coordination, capital, and creativity | Blog (danhock.com)](https://www.danhock.com/posts/the-future-of-marketplaces) **#Blog**
+
+A massive post from Dan Hockenmaier on the frictions between consolidation and fragmentation in the marketplace economy and much more. A true must-read.
+
+[Investing in Operating Systems – Colossus® (joincolossus.com)](https://www.joincolossus.com/episodes/90737874/rampell-investing-in-operating-systems?tab=blocks) **#Podcast**
+
+In this conversation, Alex Rampell from a16z talks about “Investing in Operating Systems”: a truly super dense talk around online businesses and enablement.
+
+[What is a Bio Platform For? | Andreessen Horowitz (a16z.com)](https://a16z.com/2021/01/08/bio-platform-companies/) **#Blog**
+
+Jorge Conde and Judy Savitskaya on the A16z blog explore what it means to apply platform thinking to the recent Biotechnology innovation landscape. As biology graduates from the industrial era to clean interfaces, the opportunity space seems to be widening.
+
+[Why the next professional network will look nothing like LinkedIn (substack.com)](https://wfh.substack.com/p/why-the-next-professional-network) **#Blog**
+
+Very nice take from Brianne Kimmel on the Unbundling of LinkedIn. It’s clear how there exists a pressure to re-bundle personal brands with job opportunities, work portfolio, AND especially with workflow, in more specialized niches. Great stuff to ponder about.
+
+[How to Eat an Elephant, One Atomic Concept at a Time – kwokchain](https://kwokchain.com/2021/02/05/atomic-concepts/) **#Blog**
+
+In this amazing essay, Kevin Kwok introduces a new lens to generate growth in product-based ecosystems: finding the right atomic concepts looks a lot like changing the zooming scale on a certain ecosystem of interactions until you do not resonate with the right “jobs to be done”.
+
+[Enterprise Gateway Marketplaces Will Turn Large Organizations Inside-Out (nfx.com)](https://www.nfx.com/post/enterprise-gateway-marketplaces/) **#Blog**
+
+NFX Guild maps the pattern of Enterprise Gateway Marketplaces (EGMs, essentially purchasing marketplaces where BUs are connected to 3rd parties), which marks a transition. We need to pay attention as it unfolds: it’s co-evolving with further unbundling of the corporation.
+
+In  short, EGMs seem an excellent workaround to the internal purchasing bureaucracy that holds back innovation in many large corporations today. However, the problem is bureaucracy, not necessarily decentralized purchasing. On the other hand, EGMs signal that the process of unbundling of the corporation, going from 1:1 to 1:N contracting,  towards N:N contracting (micro-enterprises, fully unbundled  organisation) is well underway.
+
+[Marketplace Supply Strategy: Comprehensive, Exclusive, or Curated (a16z.com)](https://a16z.com/2021/03/31/marketplace-supply-strategy/) **#Blog**
+
+Another truly excellent essay by Casey Winters: packed with insights. A few here:
+
+1) Comprehensive supply = owning demand
+
+2) Exclusive supply = owning supply
+
+3) If you supply a commodity you basically cannot own the demand.
+
+[The a16z Marketplace 100: 2021](https://a16z.com/marketplace-100/) **#Report**
+
+The usual yearly marketplace trend update by a16z – the second edition.
+
+[My Marketplace Strategy: Go Niche (a16z.com)](https://a16z.com/2021/04/07/niche-marketplaces/) **#Blog**
+
+“Niche Marketplaces Depend on Strong Supply-Side Partnerships”, says Linxin Wen, founder of authentic Chinese food delivery platform Chowbus. At Boundaryless, we believe that suppliers regain their importance in the strategy of marketplace owners as the pendulum moves from horizontal to vertical marketplaces.
+
+[Market-Making on the Internet – Stratechery by Ben Thompson](https://stratechery.com/2021/market-making-on-the-internet/) **#Blog**
+
+“What makes Shopify so fascinating is that over time more and more of the e-commerce it enables happens somewhere other than a Shopify website.” In this key reflection, Ben Thompson expands on the transition from an ad-based aggregation theory, and thus centralization based, towards a connect-and-leverage-based direct monetization pattern. This allows creators on the internet to distribute their content across attention contexts, without having to sacrifice their sovereignty.
+
+[Village Global’s Venture Stories: Lessons Learned as an Investor and The Future of PropTech with Pete Flint on Apple Podcasts](https://podcasts.apple.com/nz/podcast/lessons-learned-as-investor-future-proptech-pete-flint/id1316769266?i=1000520092860) **#Podcast**
+
+Legendary Proptech and Network Effects investor and entrepreneur Pete Flint  (General Partner at NFX) joins Erik Torenberg and the OnDeck community in this great conversation. Truly fantastic insights, don’t miss it here.
+
+[The NFX Podcast – Li Jin on The Passion Economy & Its Hidden Currency (google.com)](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS91U2EzcHJoeg/episode/MTUzMzY5YjQtMWUyNC00NWE4LTg0ZDktZmI5NTRlYmYwNzI4?ep=14) **#Podcast**
+
+If, like us, you’ve been reading a lot around the passion economy and the NFTs phenomenon, now listen to this and let it blow your mind: James Currier interviews Li Jin on the NFX podcast. So many key points on the attention economy, the future of the funding content industry and more. One of the best podcast episodes of the year.
+
+[Village Global’s Venture Stories: Consumer Social, Marketplaces, and Becoming a Better Investor with James Currier on Apple Podcasts](https://podcasts.apple.com/ie/podcast/consumer-social-marketplaces-becoming-better-investor/id1316769266?i=1000521301771) **#Podcast**
+
+Listen to this amazing conversation between James Currier, Erik Torenberg and the OnDeck community: There’s always something great, deep and profound you can learn from James. And not only from his investment thesis. A master.
+
+[Adevinta, Dealroom and Speedinvest report on “The future of marketplaces”](https://dealroom.co/uploaded/2021/05/Dealroom-Adevinta-Marketplaces-Launch-report-2021.pdf) **#Report**
+
+Despite being a bit generous in defining what a marketplace is, the recent Dealroom, Adevinta and Speedinvest report on the Future of Marketplaces is a good portrait of the transition between traditional supply-chain-based models into network-based models of business.
+
+Furthermore, a great online dashboard on marketplaces is provided to catch up on the latest data on investments, business models, and other key market trends.
+
+[Adevinta, Dealroom and Speedinvest report on “The future of marketplaces: fintech-enabled”](https://dealroom.co/reports/the-future-of-marketplaces-fintech-enabled) **#Report**
+
+As marketplaces and fintech become more intertwined and create “more value than either marketplaces and financial services alone”, Dealroom, Adevinta and Speedinvest released the first part of a reporting series investigating that relation. Must read.
+
+[The Great Online Game – Not Boring by Packy McCormick](https://www.notboring.co/p/the-great-online-game) **#Blog**
+
+In this article, Packy McCormick brought about another provocative thought: “The Great Online Game”. We are all playing a game with real-world consequences, and those who master its rules have gains beyond expectations. [Must read](https://www.notboring.co/p/the-great-online-game).
+
+[Composability is Innovation | Future (a16z.com)](https://future.a16z.com/how-composability-unlocks-crypto-and-everything-else/) and [Designing Internet-Native Economies: A Guide to Crypto Tokens | Future (a16z.com)](https://future.a16z.com/a-taxonomy-of-tokens-distinctions-with-a-difference/?utm_source=pocket-app&utm_medium=share) **#Blog**
+
+Two recent essays that appeared on Future by A16z will give you an overview of where we’re heading with crypto: the first, “Designing Internet-Native Economies: A Guide to Crypto Tokens” is an excellent primer on how tokens can enable certain new core design elements – by Patrick Rivera.
+
+The second one, “Composability is Innovation” – by Linda Xie – gives a great overview of the emerging property of the web 3.0 Composability.
+
+[Unit21: No-Code, Much Power – Not Boring by Packy McCormick](https://www.notboring.co/p/unit21-no-code-much-power) **#Blog**
+
+In this juicy post from Not Boring, McCormick analyzes the recent successful funding round of Unit21 and takes the chance to explain why no-code is a massive enabler for companies: low code is key to reduce intermediaries and let companies focus on critical features. An interesting case on Anti-Fraud with AI.
+
+[Unbundling the unbundlers – The end of winner-takes-all (substack.com)](https://platforms.substack.com/p/unbundling-the-unbundlers-the-end) **#Blog**
+
+Sangeet Choudary explores the potential to unbundle markets from governance (through the disconnection between the protocol and the network), and the potential to unbundle the supply side from the demand side
+
+[Network Bonding Theory: Understanding Your Startup & The Web3 Ownership Economy (nfx.com)](https://www.nfx.com/post/network-bonding-theory/) **#Blog**
+
+“Software used to be the hard thing about startups. Now software is easier, and networks are hard.” https://nfx.com/post/network-bonding-theory/ as always, James Currier is ahead of many others in seeing and allowing the reality of innovation – while also identifying their shortcomings and excesses.
+
+**_Additional, learning oriented resources: these resources are explicitly selected to be more relevant for entrepreneurs and builders!_**
+
+[Why People Share: The Psychology Behind “Going Viral” (nfx.com)](https://www.nfx.com/post/why-people-share/) **#Blog**
+
+I guess we will be back to this essay by James Currier, again and again: it provides such a neat and synthetic framework to design for virality! You truly cannot miss it.
+
+[Everything Marketplaces Group Chat #031 Casey Winters, CPO at Eventbrite – YouTube](https://www.youtube.com/watch?v=ef1fbGlB9uE) **#Video**
+
+Recording of the Everything Marketplaces Group Chat #031 (12/11) with Casey Winters, who is currently the Chief Product Officer at Eventbrite
+
+[Reinventing Existing vs. Creating New Markets (nfx.com)](https://www.nfx.com/post/frameworks-new-market-creation/) **#Blog**
+
+“whether a startup is reinventing an existing market, or creating a new one —  I’ve noticed that the TAM opportunity tends to be underappreciated.” another in-depth reflection by Pete Flint with many great starting points for founders tackling new markets.
+
+[Casey’s Guide to Finding Product/Market Fit | Casey Accidental](https://caseyaccidental.com/caseys-guide-to-finding-product-market-fit/) **#Blog**
+
+In these interesting reflections, all-things-platforms thought and practice leader Casey Winters explores what approaches to finding product-market fit may be more suitable for  your strategy, by comparing two major approaches (Ries for Lean, and Rabois for strong product vision).
+
+There’s still a lot to explore in bringing to market a growth-dependent value proposition while, apparently, Winters tends to agree that a lean approach may be the more suitable for marketplace-like products.
+
+[“Traction Tactics” Behind Square, PayPal, Waze, Twilio & More (nfx.com)](https://www.nfx.com/post/traction-tactics/) **#Blog**
+
+Interesting reflections on early-stage traction in this post on nfx founder’s list: “We tried many times to open up a specific city or country, but it never worked. While at the same time, for places that started organically, we were able to pour the gasoline on the fire and it would light.” says Waze’s Noam Bardin. The most important tactic: be ecosystem driven.
+
+[Kickstarting supply in a labor marketplace (lennysnewsletter.com)](https://www.lennysnewsletter.com/p/labor-marketplace-supply-growth?token=eyJ1c2VyX2lkIjoyNjc0Mzg3MSwicG9zdF9pZCI6Mzg1ODQwMDQsIl8iOiJwaDBqRSIsImlhdCI6MTYyNjE4OTA0MCwiZXhwIjoxNjI2MTkyNjQwLCJpc3MiOiJwdWItMTA4NDUiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.xW85J0m-_RXsd_b12kVi8Qi9axVrTVDsPFcvaQggYco) **#Blog**
+
+Reflections on the relationship between Platforms and workers: labor marketplaces have such an important role as they connect people… with people! Lenny Rachitsky shows the four strategies to kick-start the supply side in this platform type.
+
+[What Makes an Online Marketplace Disruptive? (hbr.org)](https://hbr.org/2021/05/what-makes-an-online-marketplace-disruptive) and [Making Markets with Prof. Scott Duke Kominers (HBS) & James Currier | The NFX Podcast](https://podcast.nfx.com/episodes/scott-duke-kominers) **#Blog #Podcast**
+
+In this podcast episode, James Currier speaks with Prof. Scott Duke Kominers about his recent HBR essay on Marketplace disruption and his course on Making Markets.
+
+The essay is certainly worth a read and the conversation is an excellent complement and will help you understand some of the disruption patterns that marketplaces can put into place.
+
+[Rituals for hypergrowth: An inside look at how YouTube scaled (coda.io)](https://coda.io/@shishir/rituals-for-hypergrowth-an-inside-look-at-how-youtube-scaled) **#Blog**
+
+A great peek into how Youtube transitioned its management model to fit with hypergrowth: great inspiration here for those looking into improving team coordination – and this is not just for hyperscalers.
+
+_**Further Reads from Boundaryless on the topic**_
+
+[A Recap from our research on Platform Growth – Boundaryless](https://boundaryless.io/blog/a-recap-from-our-research-on-platform-growth/)
+
+Boundaryless has been writing a lot this year about growth and marketplaces evolution; here’s a recap with direct links where you can find all the blog posts. Stay tuned for the release of the growth guide early in 2022! Here, you can also find the list of webinars we’ve run on the topic: [The New Growth Landscape – YouTube](https://www.youtube.com/playlist?list=PLirNL8YC77R8tdDnD_q5cn8EYpQ9bI9Me)
+
+_**Related Key podcast episodes from Boundaryless Conversations Podcast:**_
+
+*   [Showing the way with Web3 Marketplaces: Braintrust - with Gabriel Luna-Ostaseski – Boundaryless](https://boundaryless.io/podcast/braintrust/)
+*   [What’s next for marketplaces: Fintech, B2B and more - with Ivan Draganov – Boundaryless](https://boundaryless.io/podcast/ivan/)
+*   [Colony: distributed organizations that actually work – with Aron Fischer and Jack du Rose – Boundaryless](https://boundaryless.io/podcast/colony/)
+*   [From Platform Coops to Exit to Community— with Nathan Schneider – Boundaryless](https://boundaryless.io/podcast/nathan-schneider/)
+*   [Becoming Anything you want in the Platform Value Chain — with Adrien Nussenbaum – Boundaryless](https://boundaryless.io/podcast/adrien-nussenbaum/)
+
+## **The social and regulatory implications of the platform economy and new approaches to it**
+
+Despite the debate on the social implications of platforms has cooled down quite radically in the last couple of years, probably in the context of a pandemic that distracted us a bit from other social issues, this year we’ve read some interesting takes on the topic.
+
+**Best Links on the social and regulatory implications of the platform economy and new approaches to it**
+
+[Internet 3.0 and the Beginning of (Tech) History – Stratechery by Ben Thompson](https://stratechery.com/2021/internet-3-0-and-the-beginning-of-tech-history/) **#Blog**
+
+A key reading on the aftermath of the Capitol Hill violent insurrection and how Internet 3.0 is going to be all about politics: “After last week, the world is awake to the stakes; politics—not economics—will decide, and be decided by, the Internet.”  A must read!
+
+[Platforms, bundling and kill zones — Benedict Evans (ben-evans.com)](https://www.ben-evans.com/benedictevans/2020/12/21/google-bundling-and-kill-zones) **#Blog**
+
+Should be clear at this point that, as the economy and whole industries unbundle, re-bundling cannot be a case for antitrust anymore. If the friction to bundle for the consumer plummets, then brands should be entitled to create as many walled gardens, and bundles as they want.
+
+[Status, Wealth, & Power: Network Effects Demand A New Social Contract (nfx.com)](https://www.nfx.com/post/network-economy/?utm_medium=email&_hsmi=140742936&_hsenc=p2ANqtz-9ILjftz-7J6ylDLHwv9leX6AGjJ0yUBHhQfBu-iF4uELz7YMs0JYbT6o0HZYtdqQdFJv_GBGgBuLbEU_4_vNfX1IJx7ELQ165qyWuL1SuRxGSL80o&utm_content=140742936&utm_source=hs_email) **#Blog**
+
+A massive post, from NFX, that recaps the impacts of the network economy so far. From the pros and cons of the power law to the unfair advantage of the Casino house, it introduces a fundamental topic: the need for a new social contract between platforms and workers.
+
+[The Slow Demise of Loconomics. A post-mortem of California’s most… | by Danny Spitzberg | Medium](https://daspitzberg.medium.com/the-slow-demise-of-loconomics-4e184346d359) **#Blog**
+
+In this interview for STIR, Danny Spitzberg talks with Joshua Danielson – former co-founder of Loconomics, the cooperative task rabbit alternative platform that was a sensation of the early days of the Platformcoop movement.
+
+[The Fight to Rein in Delivery Apps | The New Yorker](https://www.newyorker.com/culture/q-and-a/the-fight-to-rein-in-delivery-apps) **#Blog**
+
+“It’s not worth it. I’ll just go pick it up myself.” In this read, New Yorker’s Helen Rosner explores the impacts and the hidden mechanisms that created the race to the bottom and the pressure towards restaurants in the delivery wars. Informative read.
+
+[Inside the Amazon warehouse / Alessandro Delfanti by This is Hell! | Listen online for free on SoundCloud](https://soundcloud.com/this-is-hell/tih20211101) **#Podcast**
+
+For those of you more interested in a critical review, here’s the interview with Alessandro Delfanti, author of a recent book called “The Warehouse: Workers and Robots at Amazon”. The podcast and book of course carry a well recognizable political critique of the Amazon strategy, they are useful to reflect on the often unconsidered infrastructural implications of today’s most successful technologies. Listen to it if you want to consider how the best customer UX can translate into so many shades of grey.
+
+[‎Brave New Work: When purpose meets profit w/ Mara Zepeda on Apple Podcasts](https://podcasts.apple.com/us/podcast/when-purpose-meets-profit-w-mara-zepeda/id1488554600?i=1000526396660&at=1l3vwYf) **#Podcast**
+
+Mara Zepeda thinks that instead of talking about Unicorn companies, we should be spending more of our energy on Zebras—companies that are black and white, that pursue both purpose and profit. A great episode on the Brave New Work Podcast
+
+_**Further Reads from Boundaryless on the topic**_
+
+*   [Did you say Regenerative Platforms? | by Simone Cicero | Stories of Platform Design (platformdesigntoolkit.com):](https://stories.platformdesigntoolkit.com/did-you-say-regenerative-platforms-10b0c4fbfd9?source=collection_detail----60738c7b3cfa-----20-----------------------) this post was shared in preparation for the Regenerative Platforms event we held this summer. Check out [the playlist](https://www.youtube.com/playlist?list=PLirNL8YC77R9wSDqYSxwcXgPO3HAkK9iS)!
+
+**_Related Key podcast episodes from Boundaryless Conversations Podcast_**
+
+*   [How Software is Infusing the World and What it Means — with Tim O’Reilly – Boundaryless](https://boundaryless.io/podcast/tim-o-reilly/)
+*   [Platform for Ecological Regeneration — with Gregory Landua – Boundaryless](https://boundaryless.io/podcast/gregory-landua/)
+*   [From Platform Coops to Exit to Community— with Nathan Schneider – Boundaryless](https://boundaryless.io/podcast/nathan-schneider/)
+*   [Bottom-Up and Top-Down Transformation — with Bill Baue and Ralph Thurm – Boundaryless](https://boundaryless.io/podcast/bill-baue-and-ralph-thurm/)
+
+## **The Evolution of work and organizing**
+
+Like in the past years, we’re reading and listening to a lot of conversations around the evolution of the organization, it’s inner workings and its relationship with teams and workers, the role of shared infrastructures in enabling inter-organizational communications, and how organizations are evolving to fit such an incredibly evolving environment. These are some of the key reads we’ve found this year.
+
+**Best Links on the Evolution of work and organizing**
+
+[The hyper freelance model (supercreative.design)](https://www.supercreative.design/blog/hyper-freelance) **#Blog**
+
+In these extremely interesting reflections, Ben Issenmann describes the new emerging pattern of creative and financial freedom by describing the seamless approach of what he calls the hyper freelance model: consult > abstract > teach: rinse and repeat.
+
+[The Rise of Platform Brands – by Nick deWilde (substack.com)](https://junglegym.substack.com/p/the-rise-of-platform-brands) **#Blog**
+
+In this insanely good post, Nick Dewilde speaks about the rise of organizations that power individuals to create relationships with audiences. This is the future of knowledge work and sales.
+
+[Transforming from a project to product-centric organization | by GSK Tech | GSK Tech | Medium](https://medium.com/gsktech/transforming-from-a-project-to-product-centric-organization-b9af4b58148e) **#Blog**
+
+In this relevant post, GSK explains the rationales behind the need to unbundle organizational  capabilities and re-bundle them into customer-facing propositions, through autonomous product teams. Extremely resonant with our [3EO framework](https://boundaryless.io/3eo-framework/).
+
+[About Team Topologies and Context Mapping (avanscoperta.it)](https://blog.avanscoperta.it/2021/04/22/about-team-topologies-and-context-mapping/) **#Blog**
+
+In this great read about Team Topologies and Context Mapping Alberto Brandolini provides an overview and exploring of the emerging patterns of organizing around/inside the software: start to familiarise with Domain-Driven Design, DevOps and the likes because this will  become more and more relevant by the day.
+
+[The Types of Product Team Organizational Structures | Casey Accidental](https://caseyaccidental.com/product-organizational-structures/) **#Blog**
+
+In this blog post Casey Winters offers a peek into how to structure product teams in a high growth organisation. More notably, team and unit structuring emerges once more as a key design and organisational development choices. Short but to the point.
+
+[Vehicle thinking – How to win in the creator economy (substack.com)](https://platforms.substack.com/p/vehicle-thinking-how-to-win-in-the?utm_campaign=post&utm_medium=web&utm_source=copy) **#Blog**
+
+Great piece by Sangeet Choudary on the evolution of platforms as they enable upper-value chain layers, such as with the creator economy.
+
+The framework Sangeet points out is [exactly the trajectory](https://boundaryless.io/3eo-framework/) we’re on with Boundaryless: develop a thesis, identify a common goal and develop an organisational architecture that can support the growth/evolution.
+
+[Leadermorphosis – Ep. 69 Jos de Blok on Buurtzorg and the virtues of humanising, not protocolising (google.com)](https://podcasts.google.com/feed/aHR0cHM6Ly90dWZmbGVhZGVyc2hpcHRyYWluaW5nLmxpYnN5bi5jb20vcnNz/episode/ZGJjZWZlMGItMjQ2OS00YTA1LWIxYjMtMjA2YzliMDk3N2Ri?ep=14) **#Podcast**
+
+Listen to this fantastic conversation in the Leadermorphosis podcast to feel the differences between decentralised, more humane management approaches and top-down, “protocolisational” ones, with Jos de Blok, founder of Buurtzorg. A key takeaway emerging from the conversation is that bureaucratic industrialism is creating a lot of damage in people.
+
+[The Cooperation Economy 🤝 – Not Boring by Packy McCormick](https://www.notboring.co/p/the-cooperation-economy-) **#Blog**
+
+The guy with the newsletter strikes again: Packy Mccormick’s The Cooperation Economy gives a real glimpse of emerging patterns of organizing in a low transaction cost economy. Truly #mustread.
+
+[A Prehistory of DAOs — Mirror](https://gnosisguild.mirror.xyz/t4F5rItMw4-mlpLZf5JQhElbDfQ2JRVKAzEpanyxW1Q) **#Blog**
+
+An over-comprehensive overview of DAOs as framed inside the evolution of organizing: this post from Kei Kreutler helps readers understand DAOs for what they are and how they can boost, integrate and contribute to enhancing institutional innovation processes.
+
+These are ongoing in current cultures such as platform cooperativism and digitally-enabled organizing. A primer.
+
+[The Fantasy of Token-based Governance with Elad Verbin by Collectively Intelligent (anchor.fm)](https://anchor.fm/collectively-intelligent/episodes/The-Fantasy-of-Token-based-Governance-with-Elad-Verbin-e17f2ms) and [Bankless: 83 – Beyond Coin Voting Governance | Vitalik Buterin (banklesshq.com)](http://podcast.banklesshq.com/83-beyond-coin-voting-governance-vitalik-buterin) **#Podcast**
+
+First, listen to this podcast episode on Colony’s podcast series “collectively intelligent” (Colony is a company building software to allow people to build online and collaborative organisations): “The Fantasy of Token-based Governance with Elad Verbin”. Second, listen to this one: “Beyond Coin Voting Governance” by Bankless, with Vitalik Buterin: so much food for thought in the future of crypto plus a good dose of Vitalik’s realism.
+
+_**Further Reads from Boundaryless on the topic**_
+
+As our loyal readers will now know for sure, at Boundaryless – as we’re developing the 3EO toolkit and framework for [entrepreneurial ecosystem enabling organisations](https://boundaryless.io/3eo-framework/) this topic is our bread and butter.  This is a selection of our best reads from 2021:
+
+*   [Converging towards a Common Protocol of Organizing – Boundaryless](https://boundaryless.io/blog/converging-towards-a-common-protocol-of-organizing/)
+*   [The 3 Key Challenges in making your Organization Platform-ready – Boundaryless](https://boundaryless.io/blog/the-3-key-challenges-in-making-your-organization-platform-ready/)
+*   [Outcooperating the Competition – Boundaryless](https://boundaryless.io/blog/outcooperating-the-competition/)
+*   [Contracts and the Future of the Firm – Boundaryless](https://boundaryless.io/blog/contracts-and-the-future-of-the-firm/)
+
+_**Related Key podcast episodes from Boundaryless Conversations Podcast:**_
+
+*   [Mapping, Doctrine, and Culture in the Future of Organizing — with Simon Wardley – Boundaryless](https://boundaryless.io/podcast/simon-wardley/)
+*   [Leadership and Legitimacy through Consent and Coherence — with Aaron Dignan – Boundaryless](https://boundaryless.io/podcast/aaron-dignan/)
+*   [Open Ecosystem Strategies: Catalyzing Change in Industries— with Steve Helvie and Archna Haylock – Boundaryless](https://boundaryless.io/podcast/steve-helvie-and-archna-haylock/)
+*   [Platforming Inside and Between Organizations: differentiation, scale, and scope— with Jabe Bloom – Boundaryless](https://boundaryless.io/podcast/jabe-bloom/)
+*   [Software and Protocols for a new way of Organizing — with Bryan Peters, Rob Solomon & Sascha Kellert – Boundaryless](https://boundaryless.io/podcast/bryan-peters-and-sascha-kellert-and-rob-solomon/)
+*   [Colony: distributed organizations that actually work – with Aron Fischer and Jack du Rose – Boundaryless](https://boundaryless.io/podcast/colony/)
+*   [On the Convergence between Software and Organizations — with Matthew Skelton – Boundaryless](https://boundaryless.io/podcast/matthew-skelton/)
+*   [The Present (Future) of Work: Beyond Platforms — with Albert Cañigueral and Laëtitia Vitaud – Boundaryless](https://boundaryless.io/podcast/laetitia-vitaud-and-albert-canigueral/)
+*   Also check out our 3EO/3EO conversations [video playlist](https://www.youtube.com/playlist?list=PLirNL8YC77R_4D0pCIyycBlAf4qy1rz_c)!
+
+## **Informative Breakdowns**
+
+Lastly we want to drop here some interesting “business breakdowns” particularly informative analysis of some of the companies – or network – that we believe our readers and users should be informed about: what’s more interesting than knowing more about  the strategy, mechanics and organizational challenges of dome of the protagonist of the platform economy? Get some inspiration:
+
+[Azeem Azhar’s Exponential View: From Insurance Giant to Tech Platform: The Story of Ping An on Apple Podcasts](https://podcasts.apple.com/gb/podcast/from-insurance-giant-to-tech-platform-the-story-of-ping-an/id1172218725?i=1000508476410) **#Podcast**
+
+Ping an’s Chief Innovation Officer explains how the group went from being an insurer to a services giant ranging from telemedicine to financial services through an organisational culture that praises micro-entrepreneurship and autonomy. [Sounds like a 3EO](https://boundaryless.io/3eo-framework/)!
+
+[The Growing Importance of Design – Colossus® (joincolossus.com)](https://www.joincolossus.com/episodes/375923/field-the-growing-importance-of-design?tab=mentionedcontent) **#Podcast**
+
+“We’re in the midst of a sea change from consumption to creation” says Figma’s CEO Dylan Field: a truly amazing and far-reaching conversation on Invest Like the Best Podcast with Patrick O’Shaughnessy.
+
+[The Pomp Podcast: #460: Ilir Sela on Empowering Local Pizzerias su Apple Podcasts](https://podcasts.apple.com/it/podcast/460-ilir-sela-on-empowering-local-pizzerias/id1434060078?i=1000503781855) **#Podcast**
+
+How much can you learn from a marketplace vertical on pizza ordering? It turns out you can learn a lot: an amazing interview by Anthony Pompliano with Ilir Sela (CEO at Slice). A 10-year story in the making, an SME empowering platform strategy.
+
+[Lessons from Shopify CEO Tobi Lütke: what he learned from scaling Shopify through the pandemic | This Week in Startups Blog – Jason Calacanis](https://calacanis.com/2021/03/18/lessons-from-shopify-ceo-tobi-lutke-what-he-learned-from-scaling-shopify-through-the-pandemic-this-week-in-startups-blog/) **#Video #Podcast #Blog**
+
+“Building a business model around helping others feels really good” [exceptional interview of Tobi Lutke](https://calacanis.com/2021/03/18/lessons-from-shopify-ceo-tobi-lutke-what-he-learned-from-scaling-shopify-through-the-pandemic-this-week-in-startups-blog/), Shopify CEO, with Jason Calacanis: a conversation packed with insights about the evolution of trade, creativity, and the Internet and how you embrace an enabling perspective.
+
+[Shopify: The E-commerce On-Ramp – Colossus® (joincolossus.com)](https://www.joincolossus.com/episodes/85946038/danco-shopify-the-e-commerce-on-ramp?tab=blocks) **#Podcast**
+
+This conversation on Shopify with Alex Danco co-hosted by Patrick O’Shaughnessy & Zack Fuss on the newly launched Business Breakdowns podcast is just Mind Blowing: listening to it will give you a deep peek into Shopify organization, products & culture.
+
+Deeply resonating with our work on the 3EO, covers a lot of ground about why Shopify is different, and the role of non-negotiable purpose (supporting deep trust commerce) in guiding the org development.
+
+[Bull & Bear: Agora, the API Powering Clubhouse (notboring.co)](https://www.notboring.co/p/bull-and-bear-agora-the-api-powering) **#Blog**
+
+Amazing coverage of Agora, the not-so-known leader in A/V infrastructure for the internet created by a former Webex employee (yes, like Zoom). A great opportunity to learn about what’s in the backstage of your video calls and clubhouse chats and its implication in platform defensibility.
+
+[Ethereum: Into the Ether – \[Business Breakdowns, EP. 09\] – Business Breakdowns | Podcast su Spotify](https://open.spotify.com/episode/5ZXzLELW1489aCjUPHjTO4) **#Podcast**
+
+Just another crazy good [Business Breakdown](https://open.spotify.com/episode/5ZXzLELW1489aCjUPHjTO4) episode, this time hosting Ethereum researcher Justin Drake: an excellent premier, if you always wanted to double-check how the future of economic coordination works.
+
+[Twilio: Messaging, Margins, and Markets – Colossus® (joincolossus.com)](https://www.joincolossus.com/episodes/50437644/nagpal-twilio-messaging-margins-and-markets?tab=transcript) and [Uber: The Undeletable App – Colossus® (joincolossus.com)](https://www.joincolossus.com/episodes/81133325/cibelli-uber-the-undeletable-app?tab=blocks) **#Podcast**
+
+Don’t miss these two crazy rich episodes of Patrick O’Shaugnessy’s Business Breakdown on two iconic platforms. The first one is Twilio, the software that connects companies with their customers via multiple channels, such as SMS and voice.
+
+And the second amazing breakdown is on a company that does not need introductions: Uber. Check it out!
+
+[Salesforce: The Cloud & SaaS Pioneer – Colossus® (joincolossus.com)](https://www.joincolossus.com/episodes/41958328/garratt-salesforce-the-cloud-saas-pioneer?tab=blocks) **#Podcast**
+
+This podcast by Patrick O’Shaughnessy and the team at Colossus recounts the incredibly relevant Salesforce story and how its leadership spurred a wealth of pioneering ideas to become a leading SaaS company using cloud-based solutions. A masterpiece.
+
+* * *
+
+## Before You Go!
+
+As you may know, everything we do is released in Creative Commons for you to use. In case you’re getting value out of these reads and tools, we encourage you to **share on social media and get the word out about Boundaryless****!**
+
+If you liked this post, you can also [_follow us on Twitter_](https://twitter.com/Boundaryless_), we normally curate this kind of content.
+
+Thanks for your support!

@@ -1,0 +1,718 @@
+# #150 Susa Ventures: Building the next great Seed stage venture capital firm with Founder Leo Polovets.
+
+On the latest episode of Outlier Investors, we decode how Susa Ventures is building the next great seed-stage venture capital firm. Learn about Susa’s playbook for finding the best seed-stage companies, discovering their focus areas and industries, creating their investing algorithm, approaching due diligence, thinking about pro rata follow-on investments, and more. To date, Susa Ventures has raised more than $600M and has invested in companies including Stedi, Flexport, and Robinhood.
+
+## ‍  
+Transcript
+
+Daniel Scrivner (00:00):
+
+Leo, welcome to Outlier Investors. I'm thrilled to have you on the show. Thank you so much for coming on.
+
+‍
+
+Leo Polovets (00:04):
+
+Thanks, Daniel. I'm really excited to chat.
+
+‍
+
+Daniel Scrivner (00:06):
+
+So today we're going to talk about Susa Ventures, which is a firm that you co-founded, and your managing partner there, almost a decade ago, in 2012. And we're going to spend a little bit of time talking about kind the origin story of the firm. We're going to spend most of today talking about your investment philosophy. I'm going to link to in the show notes a bunch of the stuff you've written that I think is super fun that you recently moved to Substack. So thank you so much for coming on.
+
+‍
+
+(00:27):
+
+I always love to start just to get people from kind of zero to one on your background, which just a quick sketch, and you have a very interesting background. Can you just give people a little bit of an idea of your background before founding Susa?
+
+‍
+
+Leo Polovets (00:39):
+
+Sure, I'll try to do the one minute background. So in high school I was really into math and math competitions, went to college thinking I'd do a math major. Ended up not liking it, finding it a little too theoretical. So I switched to computer science. So graduated with a computer science degree, basically, a year or two after the end of the dotcom bubble bursting. And I got really lucky. I spent a few months at Microsoft out of college, because they were the only ones that hired me out of college. And I didn't really love it there.
+
+‍
+
+(01:07):
+
+But I had a summer internship with a guy that I really like working for and he called me a few months into my time at Microsoft and asked me if I wanted to join the startup he was at. And I wasn't loving Microsoft, I loved working with this guy. I felt like I learned a lot. So without really knowing anything about that startup, I ended up joining early on. And it was a really lucky break, because that company was LinkedIn. And I joined when it was about a dozen people.
+
+‍
+
+Daniel Scrivner (01:32):
+
+Wow. Super early.
+
+‍
+
+Leo Polovets (01:33):
+
+Yeah, like I said, really lucky. Ended up working there for a couple of years from the 12-ish person phase to about 50, 60, then left and went to Google. Worked there on payment fraud detection for a while. These are all as a software engineer. And then spent four years after that at a location data startup doing a lot of data processing software. And so kind of had about 10 years as software engineer. And then as you mentioned, started Susa, basically, end of 2012, early 2013. And have been doing venture capital for the last almost decade. I think our 10 year anniversary is in two months.
+
+‍
+
+Daniel Scrivner (02:09):
+
+I want to talk a little bit about just when you first got exposed to early stage investing. Because, obviously, it's not uncommon, most investors, at least in Silicon Valley, like venture investors, have some sort of a technical background and have worked at some early stage tech companies. What was your first exposure to venture and investing? And what was your kind of process for deciding to take the leap and to building Susa?
+
+‍
+
+Leo Polovets (02:31):
+
+So the angel investing exposure probably preceded Susa by just a few months. So the context is, so both LinkedIn and Factual, the location data startup I worked at, there were 15-ish people when I joined. There were 50, 60, 70 when I left. And I enjoyed that phase a lot. That was sort of the Series A and B phase. And I was actually thinking about starting my own company, and I had some ideas, but I really wanted to learn more about, well, what is seed stage like and not just Series A? What do you do when you have no code, you have no team, and you're just getting started?
+
+‍
+
+(03:04):
+
+And so I wanted to learn more about that and I felt like angel investing was maybe a good avenue to do that. To try to do a couple of small checks, personal checks every year, try to learn from the founders I worked with, and then use that to maybe start a company of years down the line.
+
+‍
+
+(03:20):
+
+And so that was my original interest in angel investing. I hadn't ever thought about venture as a career, but a couple of months after I got interested in angel investing, I got introduced to the other founding partners at Susa, and they were all angel investing at the time. Susa didn't exist yet. But they were thinking about starting a fund, and there were three people on the business side and then they wanted somebody more on the technical side. And so they invited me to join them as kind of an angel in this informal syndicate or informal group.
+
+‍
+
+(03:44):
+
+And I thought, "This is great. I'll come invest with them for a little bit, maybe we'll start a fund together, we'll see how it goes." And I would say, my logic at the time was, basically, it's a lot venture capital investing logic, which is kind of asymmetric upside versus downside. So it's like, "I'll angel to mess with them. If I hate it, I could just quit in two months or six months or a year." And it's pretty easy to taper off, because we were kind of doing it informally anyways. "But if I really like it, I'll learn a lot. Maybe it'll help me start a company. Maybe I'll really like it and I'll just become a VC."
+
+‍
+
+(04:12):
+
+So it just sort of felt like a lot of upside and very limited downside. And also it felt like it kind of opportunity I wouldn't really get, which is, how many random engineers get asked to co-found a venture fund? It doesn't happen that often. So I also felt like I should take it, because if I didn't take it, I'd probably regret it.
+
+‍
+
+Daniel Scrivner (04:28):
+
+So that was basically the decision for you just saying okay, I'm going to take the leap. And so you weren't necessarily banking, you didn't know if it was going to work out. But it was basically, yeah, the upside was great, was interesting. Downside was relatively mitigated. Take the leap.
+
+‍
+
+Leo Polovets (04:40):
+
+Yeah, it was literally, I spent four years at Factual. I left in December, 2012 and this kind of came up two, three weeks later in mid-December, I think late December. And I was planning to just take two or three months off after Factual to learn more about seed stage companies before starting my own. And so when this came up I was like, "Oh, I was going to take some time off anyways, why not do this during that time and see where it goes." So that was the logic at the time.
+
+‍
+
+Daniel Scrivner (05:07):
+
+I mean amazing timing. It's like a power law opportunity, just in terms of where it landed, you getting invited to join three other people as an engineer that had only been investing a couple of months. And I want to talk for just a couple of minutes about those early days. And I guess the question I want to ask is, I think anyone who's going to be listening to this has likely heard of Susa and is probably impressed by or knows of some of the great investments that you guys have made today.
+
+‍
+
+(05:31):
+
+None of that obviously was probably super clear early on in those early days. And so the questions I wanted to ask is, what were some of your goals in the earliest days of Susa in terms of what you wanted to build as a firm? And what helped you learn and adjust and refine that? Because I don't know if you guys were always focused on seed stage, but I know now that just a big focus is building a top tier seed fund. So did it take any exploration to try to figure out that focus?
+
+‍
+
+Leo Polovets (05:57):
+
+I think the goal has always been like, hey, can we be a top five seed fund? And even at that time, in 2013, today, there's thousands of funds, back then I think it was low hundreds, the goal wasn't necessarily to be like, "Hey, we have to be number one. But also it wasn't like, "Hey we want to be above average." It was like, "We really want to be one of the best. We want to be a fund that founders want to approach, like we're on their short list as they're starting their seed round." And so that was the goal for the fund.
+
+‍
+
+(06:23):
+
+And I think we were definitely exploratory in terms of what does it take to get there? And I think initially, the way we put positioned ourselves is we were a fund that focused on companies using data in interesting ways, because we had a couple people on the team that had experience with that. Me on the technical side, a few people were on the business side, and we thought that was an interesting lens 10 years. Ago because it was the big data wave and it had started a year or two prior, but I don't think there were a lot of funds focused on it yet. And we felt like it was a good focus area and we had kind of good domain expertise for it.
+
+‍
+
+(06:53):
+
+And so initially we positioned ourselves as like, to other investors, we mostly got our deal flow from other investors in those days. And so we talked to other investors and we'd say, "Hey, if you're looking at a company in this space, we write small checks. We can be really helpful because we have experience here. So can you invite us into the round or introduce us to companies that you think are interesting?"
+
+‍
+
+(07:13):
+
+And I think in the early days that was good just to get us out there a little bit more, see more companies, start working with founders, and that was the short term strategy. But over time I think we recognized pretty quickly that the brand you build is basically what did founders say about you? And also, which companies would be backed? And what I mean by that is, if you look at one of the really legendary funds, like Sequoia, I don't know if they have a specific brand of, "Oh, this is the best SaaS fund or something, or the best marketplace fund." I think it's more like, well they backed Amazon and Google and you could rattle off a bunch of names and founders are like, "Oh, I want to be part of that group. I want to work with the investors that helped those companies succeed."
+
+‍
+
+(07:56):
+
+And so I think after the first couple years we started really thinking about that for Susa as well. Which is, to be a top fund, the key thing is you want to back as many of the best companies as possible. And then you want to be a good partner, so that five years later when you're meeting another company and they want to know what Susa's like to work with, you can say, "Hey, you should go talk to the founder of Flexport or the founder of Robinhood or somebody like that and they'll tell you that we're a good partner." And so that's been really the focus after the first couple of years.
+
+‍
+
+Daniel Scrivner (08:25):
+
+Hey, I want to ask just a couple of questions around the seed focus. I guess what I'm curious about there is seed investing is somewhat unique just in terms of, it tends to be much more qualitative than quantitative. You're talking to teams that are super early on. So for all of you, was the decision to focus on seed philosophical? Was it around personality and personal preferences and it just fit you guys? How did you approach making that decision as opposed to doing later stage or having an open ended?
+
+‍
+
+Leo Polovets (08:55):
+
+I think there's a few aspects here. I think philosophically we early stage the most, because it's formative. So on the one hand it's more collaborative and you have a little bit more potential to help the company steer onto the right course. Versus if it's a Series C company, they've kind of figured things out, and they just need more money. And you're probably more of, "I wrote you a check and if you have a question maybe I can help," but you're mostly out of the way. So we like the more engaged and collaborative aspect.
+
+‍
+
+(09:22):
+
+But I think, tactically, also seed feels like the easiest place to start. Because, literally, if you want to go raise a Series B fund, you need $500 million. Who's going to give you $500 million if you haven't investment before? For a seed fund you could start with 20 million or 10 or even I've seen people start with one. where they'll do a micro fund, where they do 20, 50K checks. So I think it's much easier to start.
+
+‍
+
+(09:42):
+
+I would also say seed does collaborative today, but it was even more collaborative 10 years ago. So if you look at later stage rounds like a Series A, usually a single firm does the whole Series A, there's not much room for anyone else. But seed for a long time has been collaborative, so you know can have three seed funds working together. And so that also felt like an easier wedge in, because you don't have to be the only investor that a founder has to pick. You can be just in the top three or top five.
+
+‍
+
+Daniel Scrivner (10:08):
+
+I mean, it's interesting hearing you talk about that, because it's like, strategically, it does just make a lot of sense that if you're a new fund, if you're a new firm it makes sense to try to attack that kind of earliest wedge really early. On the flip side, what have you learned about the challenges of seed investing? And I'm sure some of them you probably expected.
+
+‍
+
+(10:26):
+
+I'm curious if there are any that were unexpected or surprising? And especially, probably where I asked the question, sorry to jump in, is, I know there are people listening that you probably think about investing and don't understand the unique challenges of seed. So I think it's just interesting to recognize that one, it's very different, at least if you're more of a quantitative investor in just what you've learned over time. What surprised you?
+
+‍
+
+Leo Polovets (10:47):
+
+I'm not sure if this was a surprise, but I think that lack of data is definitely the biggest thing, which is sometimes a seed stage company might have a team of eight and they have a product and they have three or four customers that pay them 50K or something, if it's a B2B business. And that's sort of maybe a best case. And then the worst case, in terms of data, is, it's a founder, they might not even have a specific product idea, they're just like, "Oh, I'm going after this sector and I have a general thesis of what I want to build, but I'm still figuring it out." And maybe if the founders really experienced or has a great track record, they can go raise a seed round just off of that.
+
+‍
+
+(11:25):
+
+And so there's this wide spectrum, where in the best case you have a little bit of data, in the worst case you basically have none. And so it's really all about analyzing the market and analyzing the founder and trying to understand the landscape. It's a lot of art, where you're betting a lot on these more intangible or qualitative things versus quantitative data. And that's definitely, it's hard.
+
+‍
+
+(11:46):
+
+And I also think because it's qualitative, it's much harder to do look backs, five or 10 years later, because it's hard to remember, well, what was the impression I got from this founder 10 years ago? Or qualitatively, how hot was this market 10 years ago? That stuff is almost impossible to remember versus if you look at data you can be like, "Oh this company is growing 60%, this one is growing 40. The 60 one did better. I should make sure I look for 60 plus percent in the future." That's a much more tangible specific learning.
+
+‍
+
+Daniel Scrivner (12:14):
+
+Yeah. Do you guys ever save decks from early pitches? Because that's something that I've always found kind of staggering is for successful investment going back, and sometimes just honestly cringing at just how atrocious this first deck was that kind of enabled you to make the investment, and I trying to learn from that.
+
+‍
+
+Leo Polovets (12:31):
+
+Honestly, I kind of by default save most decks just because we're in Gmail, someone sends you an attachment in Gmail, you have it forever. And it is interesting to look back sometimes just to see how companies evolve. Both ones that we invested in, but also maybe ones where we missed it's doing really well. Now we can go back and look at the back, and be like, "Oh, is there something here that maybe we missed or under weighed or over weighted?
+
+‍
+
+Daniel Scrivner (12:54):
+
+You guys are also interesting, in that you have four focus areas, enterprise software, logistics and supply chain, FinTech and healthcare. And I want to ask a couple of questions. But, one, we've talked about how you decided on those four focus areas and the process there. I think it'd be interesting for everyone else listening to kind of hear your approach as a firm, because I understand you started out more generalists and then decided to focus in. What was that process? What led you to those four focus areas?
+
+‍
+
+Leo Polovets (13:23):
+
+I would say it was organic. And this ties into the previous conversation, which is I think a lot of the best funds, their reputations come from the companies they back. And we got pretty lucky in the early days. So we invested in Robinhood, I think it was 18 months into the fund or maybe even less, maybe eight months into the fund. We invested into Flexport like 15 months into the fund, when we were just starting out. And Flexport's now a $9 billion company. Robinhood went public, I think they're also nine or 10 billion right now.
+
+‍
+
+(13:51):
+
+And what we saw pretty quickly was as those companies started raising a Series A and they're Series B and kind of getting some spotlight and \[inaudible 00:14:00\] stories and all of that, we started getting more and more investors and founders reaching out to us in those sectors. And so instead of being like, "Hey, we heard Susa was an interesting fund to talk to. Let's chat." It was like, "Hey, we're a FinTech company, we saw you backed Robinhood, that was a good bet. We think you should make a good bet in us too."
+
+‍
+
+(14:19):
+
+And we saw that more and more as we made more investments in those spaces. So for example, there was Flexport, but a couple years later, we invested in Stord, which is another unicorn in the logistics space. And now that even strengthens that logistic store even more.
+
+‍
+
+(14:33):
+
+And so for these four categories, we have enterprise SaaS and logistics and healthcare and FinTech, in each of those categories, we generally have one or two good bets in our first couple of years. And then it started this flywheel of, well, more founders in those spaces reach out to us or more investors in those spaces want to co-invest with us. And then we'll make more good investments in those spaces and that strengthens the flywheel. And so I think that's where those four categories really merge for us is probably like 85 90% of investments are in those four areas today.
+
+‍
+
+Daniel Scrivner (15:01):
+
+I mean, no, it totally makes sense as the flywheel you describe of making an investment in an area, it ends up being an incredibly successful company, that ends up drawing not only just investors but other founders, probably LPs as well, too, that are interested in that area. But I want to ask kind of a different question, which is, I know we're going to talk about Humba Ventures in a second and how this relates, but something you've talked about before is investing as a way of learning.
+
+‍
+
+(15:25):
+
+And so I guess the question I want to ask is, was there anything those early successful investments in each of these spaces taught you about the industry? And did they help you build conviction on not just the company, but this space actually really matters and we think it's much bigger maybe than we did before we made the investment or much more interesting?
+
+‍
+
+Leo Polovets (15:42):
+
+There's some shared lessons with all of these. So if I had to pick a few early companies that we backed in each space. So for enterprise SaaS, I think Mux is a good one, they're a video infrastructure API. For logistics, there's Flexport, so they do freight forwarding. For FinTech, there's Robinhood, so that's a free mobile first brokerage. And then for healthcare, there's Viz.ai, which is a stroke triage product that uses deep learning to look at brain scans of stroke victims.
+
+‍
+
+(16:11):
+
+And so I'd say one lesson that applied to all of these or learning came from all of these is that founder market fit piece is really important. And so in each of these cases the founders had good experience in their domain. So if I remember the Mux founders, the video company, they previously built a video startup, they sold it to a larger video startup, they worked there for a few years, kind of saw what was broken. For Flexport, the founder, Ryan, had spent 15 years in logistics, which was kind of crazy, because I think he was in his early 30s. So he'd literally been doing this since high school.
+
+‍
+
+(16:42):
+
+For Robinhood, the two founders had previously built infrastructure for high frequency trading funds. And the healthcare company, the founder was a doctor by training. So I think that founder market fit piece, that was pretty universal. Maybe for specific lessons, I think on the logistics side, Ryan is just an incredible recruiter salesperson, just super charismatic. And it was interesting to see how much of an asset that was. And one fun story I tell people about him, to give a sense of he's always on in a really great way, is, I remember once I was sitting at SF, I was having lunch with an engineer and Ryan walked by, and he is like, "Oh, hey, Leo," we just chatted for a second.
+
+‍
+
+(17:23):
+
+And I think I just casually mentioned, "Oh, I'm just having lunch with this engineering friend," who worked at Airbnb. And Ryan immediately I turns the guy, he is like, "Oh, what do you do at Airbnb? Do you know we're hiring? Have you heard about Flexport?" It's just like, just always on. And it's such a different mentality that you often see in the best founders, where they're just always thinking about how do I grow my business? And I think, as an example, maybe I talk to you and I'm like, "Oh, Daniel's really smart. He's got a cool design background. That was a really fun chat." I think Ryan would go on the podcast and be like, "Oh, Daniel's really smart. Hey, we're looking for a designer. Do you want to join us? You get..."
+
+‍
+
+Daniel Scrivner (18:00):
+
+Here's three roles we're hiring for.
+
+‍
+
+Leo Polovets (18:02):
+
+Yeah. I think seeing that personality trait and how effective it was, was a really good learning, because I think when I see that in other people now it's a really great data point. And maybe one more specific lesson is on healthcare. This is more healthcare industry specific, so Viz.Ai, they look at brain scans, they basically try to triage if the stroke patient can be treated at some local hospital or if they have to be helivaced into the regional hospital fancy technology, because it's a really serious stroke. And what we saw there was the tech was really good, but the key thing was like how do you get into the workflow piece? Which is some tech gets a scan, it goes somewhere, that scan gets sent to a doctor who makes a decision. And it's not just like, "Hey, can you take a picture and diagnose what kind of stroke this is?"
+
+‍
+
+(18:50):
+
+It's like how do you get into that workflow and actually become something that people use that's part of their day, makes their day easier, and is seamless. Versus something where it's like, "Oh, I have to take the scan, I have to go to this other computer, I have to upload it, I have to..." That kind of thing just doesn't work well. And so I think a lot of what we've seen in healthcare is the tech has to be good, but you have to really integrate into these daily workflows. I think that applies to other industries, too, but especially healthcare.
+
+‍
+
+Daniel Scrivner (19:16):
+
+Yeah, I mean that last point you made leads me a little bit to a question I wanted to ask, which is, you talked about founder market fit. And that last example around, yes, you can have this great technology but you actually have to have pretty nuanced, deep understanding of how you need to integrate to build a successful healthcare company, is a great example of why you need somebody with experience and expertise in this space. But I want to ask a little bit of a flip question, which is, another comment that you made we talked about for quite a bit is just taking away the wrong lessons from things and being mindful about how you interpret.
+
+‍
+
+(19:46):
+
+And I know one thing that is often repeated is that you want people that are relatively new to a problem. You don't want people that really understand a space too deeply, because then maybe they're not going to innovate within it. And so I'm curious, just your take on that, do you believe in that? And do you believe that there's some sort of ideal mesh of willing to rethink all the rules from first principles, but deep understanding that makes that founder market fit super powerful? What do you think about that?
+
+‍
+
+Leo Polovets (20:11):
+
+I think a lot of times the founder market fit is maybe more on the sales side, understanding customers, understanding their goals, understanding how to approach them, because I would say that's where people burn a lot of cycles. I'll just pick some example, maybe I want to make hardware for, I don't know, LED monitor manufacturers, because I'm staring my screen right now. Maybe my marketing strategy's like, "Oh I'll just do AdWords."
+
+‍
+
+(20:34):
+
+It's like, "Well, maybe they don't use computers or in China and they're not looking at AdWords, because AdWords is banned or whatever." There could be all these reasons where whatever kind of napkin, random, first gut instinct I have is just way off. And if I knew that industry, I would know, oh, actually there's a conference that all of these people go to and I should go to that conference. Or there's this trade magazine that's actually just print and not even online, and I need to get an article in there or get ads in there.
+
+‍
+
+(21:00):
+
+And I think that's where you can \[inaudible 00:21:02\] a lot of cycles where even with a good product, well, you can't find someone to buy it. I think where the more innovative stuff happens is often more on the product side, which is if you understand the customer and you understand what they need, and maybe you know what tools they currently use, that's where maybe you can have a very different idea of, "Hey, everyone's used to using Excel but they need a bespoke tool that does this." Or, "Maybe they're using software, but actually my team of analysts that's sitting behind a thin software layer, that's a much better experience."
+
+‍
+
+(21:31):
+
+And that's where you can have more disruptive, innovative things there. And I think that's where sometimes fresh thinking can really help. And sometimes, honestly, it is still somebody that's an insider and they just see an industry, they see it's broken, and they've been thinking out for 10 years. And they're like, "I think this is the right solution."
+
+‍
+
+Daniel Scrivner (21:46):
+
+That makes sense. I want to talk about Humba Ventures and I don't want to give away the story. So I think it would be interesting if you could just tell a little bit of the backstory and describe, give the quick elevator pitch for what Humba Ventures is, and why you decided to build this. Because it's kind of a super interesting mini fund underneath the Susa Ventures umbrella.
+
+‍
+
+Leo Polovets (22:06):
+
+Yeah, absolutely. So it's about 10% of the size of our seed fund to give some context. And the gist of it is, so when we started Susa, we were very generalist, so we're kind of like, "Hey, we'll invest in anything. We just want it to be something that we think will be a big company." And with that thesis or with that approach, we invested in some of the companies that helped us get expertise in these areas that we're good at now. We invested in Robinhood before really investing in FinTech. Or we invested in Flexport, that was our first logistics investment ever.
+
+‍
+
+(22:34):
+
+And so I think on the one hand, we built expertise in these four areas. And the other hand, I think having this openness to new categories is what got us here in the first place. And so one thing we've been thinking about is, well, how do we add a fifth and sixth category over the next couple years? Or what if one of these four categories ends up being not a great category for us these the next few years, and we have to replace it? And I think what we are trying to do with this smaller fund called Humba is have a little bit of this more exploratory approach, where we have five or six categories in mind, and these are things like Web3, although I think this week it's a bad week to be investing in Web3.
+
+‍
+
+Daniel Scrivner (23:11):
+
+Yeah, you're not allowed to say that. You're not allowed to say that word.
+
+‍
+
+Leo Polovets (23:13):
+
+Climate tech, energy, defense, ed tech, some of these areas where we think they're really interesting and promising, but we don't have a lot of expertise yet. And what Humba does is it writes checks that are generally closer to like 500K, whereas our seed fund will do checks that are a million and half or two. And the goal is just to do a few concentrated bets in each of these categories, or as many of these categories as we can, learn about them, try to help founders out. And then, hopefully, over the next couple of years as we gain experience, maybe some of these Humba categories will become core Susa categories.
+
+‍
+
+Daniel Scrivner (23:47):
+
+How do you think about the right way to approach learning from investments? Something you and I have talked about before is I think a lot of investors have, I know I certainly have a goal of learning whenever I'm making an investment. And yet it often turns out that that actually might be much harder than you think it is. And it may just said another way, you typically don't learn passively, you need to really engage, you need to work with the founders. So what lessons have you learned about what it takes to actually truly learn from an investment and deliver on that promise or that idea?
+
+‍
+
+Leo Polovets (24:14):
+
+We tried this more informally about five, six years ago, where instead of 500K checks, we did a few 50, 100K checks in a few categories. Just to see, "Hey, can we learn about biotech for example?" And I would say a lot of those companies ended up being pretty interesting and are doing well, but I don't think we learned a ton. And the reason for that, I think there are a few observations here, one is you're not going to learn much if you write a small check, just because if you're the second or third biggest investor for a founder, they'll chat with you, they'll spend time with you. You can try to help them, they'll try to help you. If you're the ninth biggest investor, realistically they should be spending their time with other folks.
+
+‍
+
+(24:56):
+
+I think the other thing is, I think the areas have to be tangentially close enough to what we're doing so we can be helpful. And so for example, if you're like, "Hey, I'm doing a material science startup and we're building a new kind of polymer," even if I want to learn about polymers, there's basically probably almost nothing I could help you with. And so from that respect, if I can't help you, you're not going to want to chat with me a lot anyways. I'm not going to learn from you. It's sort of a lose-lose.
+
+‍
+
+(25:23):
+
+On the flip side, if it's something tangential, let's say I know a lot about SaaS, but I don't know anything about SaaS in the energy sector. Well I can invest in two or three energy startups that have a SaaS component, and it is almost like a tit for tat, where it's like, "Hey, I'll help you on the SaaS side, but over time I'd love, maybe you can introduce me to a few energy experts or point me to interesting companies or technologies." And that's sort of more of a win-win.
+
+‍
+
+(25:45):
+
+And so I think that's the approach with Humba, which is a lot of these sectors, like cybersecurity or climate tech, it might have a SaaS model that we're familiar with or a FinTech model that we're familiar with, but in a sector we haven't really worked in before. And we're trying to use that to expand a little bit, but it's not a huge leap, it's more like a step.
+
+‍
+
+Daniel Scrivner (26:05):
+
+I want to ask one more question, and then I'm going to move on to a little bit more of a rapid fire and talk Leo, investing, founding philosophy. And the question I wanted to ask is Web3's a really interesting area and you're not supposed to talk about it this week. A lot of not so great stuff is happening, but that's okay. The question I wanted to ask is, for an area like Web3, it's interesting because it's been around for a number of years at least crypto generally, part of it's been co-oped and rebranded as Web3. But it's also an area that, at least in my experience, is very, very, very wide open in terms of people don't actually know, aren't able to articulate a kind of longer term vision. And so it's hard to actually understand how this plays out over a longer period of time.
+
+‍
+
+(26:43):
+
+But it's also a little bit difficult to figure out what are the areas of Web3. And something that's very common is people will make market maps. And so I'm curious for you guys just, and this can even be this kind of make believe exercise, but for an area like Web3, where it maybe feels super open ended, do you go into that already knowing here are the themes or the areas that we want to invest in? Or is it much more of a we're kind of not going to have any defined approach, we're just going to try to meet with a bunch of interesting teams and maybe learn that over time? What do you think about that?
+
+‍
+
+Leo Polovets (27:11):
+
+For me, it's more the latter, which is like I'll meet with companies, and over time I'll have opinions that coalesce. And sometimes it's literally, I'll meet a company and I'm like, "If this is great, maybe we want to invest." Sometimes it's like, "Oh, I actually really like this idea, but I think maybe it's not the ideal founding team on my mind. Maybe the ideal founding team has a different type of expertise."
+
+‍
+
+(27:31):
+
+So then I might start looking for other teams approaching the same problem maybe in different ways. But a lot of this sort of just happens over time as I meet more and more companies. Where the first time I meet a company doing something, I'm a newbie. The second time I'm a newbie that knows a couple things. And by the time I meet six companies in a space, I feel like I'm definitely not an expert, but I feel relatively well-versed in it.
+
+‍
+
+(27:55):
+
+And so a lot of these theses I think they form over time versus being up front. There's just so many different categories at seed and I think most seed investors are relatively high volume, where you do five investments a year and not one. And so I think it just makes sense to, if you're going to do one investment, you could try to focus on some category, and just explore the hell out of it and be looking for the one company that does this. But if you're doing five a year or even more, I think there makes more sense to just see what comes in and then see what stands out from the companies that come in.
+
+‍
+
+Daniel Scrivner (28:28):
+
+Yeah, I mean it definitely seems like the more intellectually honest way to approach it. Of basically just saying, "I don't know what I don't know. I'm going to have to figure that out over time and figure out the dots that make up the constellation, and then connect those over time bit by bit by bit."
+
+‍
+
+(28:41):
+
+Okay. I want to move on to a bunch of philosophy. One of the things that we talked about before is just this idea that per pro rata is very overrated. Talk a little bit about how you think about pro rata and why it's overrated, why it feels overrated.
+
+‍
+
+Leo Polovets (28:55):
+
+I mean think for a few reasons. I think one is for a lot of companies, the early stage equity is just so much cheaper than later stage, especially in the last couple years. It's kind of reset in the last few months. But a lot of times like the seeds rounds at a $15 million valuation, the Series A is at a 100, and there's only a little bit more de-risking. And so if you're putting in pro rata, you're paying a six X higher price for maybe a company that's maybe is like 50% or a 100% more valuable based on fundamentals.
+
+‍
+
+(29:24):
+
+I think the other thing is due pro rata is often colored a lot by relationships versus fundamentals. So you tend to want to keep supporting founders you work with. They're expecting that support. So again, it's less about what's the best place to put the money and more like, "Oh, I want to put money because people expect it," to preserve relationships. And so I think from that standpoint as well, I think just putting in twice as much early on and saying, "Hey, we'll do minimal pro rat, but our fund's just focused early on." I think it's really clear to the founder, and then they also don't have to worry about pro rata competition later on. But also it probably maximizes your multiples.
+
+‍
+
+Daniel Scrivner (30:04):
+
+Yeah. So I'm guessing from that example you gave, it's probably something literally that you guys have codified within the firm. And that you literally set the expectation with founders early on, "Hey, we're going to write as big a check as we can early, but we're likely to not invest pro rata going forward."
+
+‍
+
+Leo Polovets (30:18):
+
+We're not so aggressive that we don't do any pro rata, but I do think in general we tend to skew probably something like 60, 70% initial, and the rest follow on. I think no matter what, we'll support founders, because if they let us lead or co-lead the seed round, we want to make sure that we help them raise a Series A. And part of that's doing our pro rata, participating in at least in some way, and helping them get the best Series A possible. But I think also just with the size of our fund, I think people are aware that the main investment we make is at seed and not at Series A or later rounds.
+
+‍
+
+Daniel Scrivner (30:52):
+
+Makes sense. One of the ideas you have that I really like and sounds kind of obvious, but I think just your nuance take on this is really interesting is that success is idiosyncratic and failure is predictable. Talk a little bit about, I guess, how you've learned that and why that's surprising. Why that's an interesting insight, why it's useful.
+
+‍
+
+Leo Polovets (31:12):
+
+I mean, I think coming from an engineering mindset, I thought I'd come into venture kind of meet a thousand companies and be like, "I wrote down some data for each one. I analyzed it a year later, and here is the patterns that made the top 10, the top 10 and not the bottom 10." And it doesn't really work that way. I would say the failure patterns are pretty common, which is, you built a product, but there's no customer for it. Or you don't know how to sell and so you burn a bunch of money while not being able to make any revenue. Or another pattern is companies often overspend, so you raise your seed round, you're like, "Cool, let's get a fancy office and hire a team of 20." And then if you do that too early you're going to burn through a bunch of money before you make enough progress to raise that extra round.
+
+‍
+
+(31:54):
+
+So those things are pretty common. And I think there's probably 10 or 20 areas where almost all failures are those 10 or 20 things. The success part is like, well, sometimes you timed the market and got lucky. Sometimes it's like you had some really strategic partnership that helped you get your first 100 customers or 1,000. Those things are such one-offs. Maybe an analogy is what makes somebody Einstein? I don't know, there's only one Einstein. But what makes somebody flunk out of college? Well, there's probably five reasons. It's like, hey, you have money troubles or poor work ethic or you picked the wrong major, but it's going to be a few common things, but the really outlier successes are just much less predictable.
+
+‍
+
+Daniel Scrivner (32:35):
+
+I'm curious then if you found ways at all to thread that insight into when you're meeting with a company and you're diligencing them and you're trying to get to a final decision? Because it seems like maybe one takeaway is you're looking for predictable failure patterns, you're just trying to be aware of those, I guess, to know and raise certain red flags. But how do you apply success as idiosyncratic to due diligence? Seems like a challenging exercise. What were your thoughts on that?
+
+‍
+
+Leo Polovets (33:01):
+
+I think I mentioned this earlier that a lot of the successful companies spike in some way early on. And I think that's kind of what you're looking for. Which is, there should be some idiosyncratic spike. Because if it's kind of a bunch of things that are pretty good but nothing's incredible, then it feels like a much lower chance that the company itself will be incredible, if that makes sense.
+
+‍
+
+Daniel Scrivner (33:20):
+
+Yeah, it makes sense. Because it feels like then everything is more predictable, there's nothing that's idiosyncratic about it. One of the ideas you have, I think you've just articulated it in a really wonderful way, and we're going to talk about this from a couple of different angles, is that startups at the end of the day are a bundle of risks and it's really helpful I think, one, from a founder's perspective of it's not trying to get to a certain number of users or get to a certain number of revenue. Yes, those are great goals, but more than anything, progressing a company, building a company is an act of de-risking and dealing with some of those bundles of risks. Talk about just what that means, this idea that startups are bundle of risks, and how that influences how you encourage founders to approach company building.
+
+‍
+
+Leo Polovets (34:00):
+
+I would say, I think the later you go, especially with public companies, the value of a company is based on fundamentals and finances. So it's like, hey, you make a $100 million a year, if your growth rate is double, you're worth this much. If it's 50% you're worth less, but it's more formulaic. And so it's all based on your metrics and your growth rate. At early stage, I think it's less about what are your metrics? And more like, what's the percent chance that you're, you're going to be a $5 billion company someday?
+
+‍
+
+(34:30):
+
+And what happens is I think people assume, "Oh, if I move from a 100K in revenue to 500K in revenue, my valuation should like five X, but it doesn't. And the reason is if nothing about the company has changed and all that's happened is time has passed, the chance of you being a $5 billion company hasn't really grown.
+
+‍
+
+(34:48):
+
+But if you think more about, well, what are the risks or question marks between you today and you, the $5 billion company? And there's going to be a bunch of those, maybe it's like, can you beat this competitor? Maybe it's, can you close a 50K account instead of just 10K accounts? And so all of those things, every time you prove one out, people will go like, "Oh, before you only had 10K accounts, now you close your first 50K of sale or a 100K sale. Now I think your chance of being that $5 billion company is like two percent, instead of one percent, so I'm going to double your valuation." I think in the early days that's the right way to think about it, which is, what are the key risks? And the bigger the risk that you can address, the more credit you get when it comes to financing and your evaluation.
+
+‍
+
+Daniel Scrivner (35:29):
+
+And I'll try to find this, one of the wonderful things I read, it's more of a presentation, I think it's related to a blog post that you have, but you have this kind of wonderful little simple slide deck I think for a talk you gave probably seven years ago or something at this point. But one of the kind of equations that was in there that I really liked is that the value of your company equals the ideal outcome, meaning what the company could look like in a best case scenario, times the chance to win, aka the probability of success. And I feel like that's maybe the clearest way I've ever heard that described and articulated. Was that a novel insight? Is it something you just kind of came into over time?
+
+‍
+
+Leo Polovets (36:03):
+
+I don't know if it's novel. It came to me as I was watching companies struggle with Series A's. Because I think for a long time there was this bar of, "Oh, for a SaaS company you need a million dollars in revenue." And people would think that that was some magic number, where it's like, "Well, if you're at 900K, you're not going to raise a Series A, and if you're at a million your golden." And the truth is, what I realized at some point is like, well, the million is not about oh you need a million in revenue. It's more like that's a proxy for usually a company has figured out some of these early risks.
+
+‍
+
+(36:32):
+
+Is this the right product to build? Well, if it's a shitty product, you're not going to get a million in revenue. Or have you figured out scalable sales? And if it's only the founders selling, you're probably not getting to a million in revenue, but if you figured out how to make a salesperson effective that's how you get to a million. So the million was less about the number and more about what does this represent in terms of the company maturity.
+
+‍
+
+(36:53):
+
+And I think once I realized that, I started thinking, "Oh, what the Series A investors actually want to see is that you've de-risked some of these key things, some of key risks that they don't want to take on." I think actually one analogy I came up with at some point that I like is it's like a triathlon. Which is, there's a swim, a bike, and a run. And if you're a world class runner and cyclist, but you can't swim, it doesn't matter if you make the running twice as fast, you're going to drown. And so-
+
+‍
+
+Daniel Scrivner (37:20):
+
+Never going to finish.
+
+‍
+
+Leo Polovets (37:21):
+
+Yeah. And so the key to a good triathlon is that, can you save 10 more seconds on your fast run? It's like, hey, can you go from not swimming to swimming or from swimming really poorly to swimming like decently? And so I think the company value piece is kind of similar to that.
+
+‍
+
+Daniel Scrivner (37:36):
+
+Yeah. I want to ask one kind of secondary question around that, which is, so if the process of growing a company is the process of de-risking it, there's obviously then a mistake you can make is just focusing on the wrong risks. So are there any heuristics you have of what the right risks are versus the wrong risks? And is that pretty clear and easy to given a business? Or does it require some kind of wrestling with, I don't know, that question, that existential question, as a founder?
+
+‍
+
+Leo Polovets (38:04):
+
+I mean I would say sometimes the risks are based on the person. So as a blanket statement, I think if you're a very technical founder, one risk is you focus too much on product and not enough on sales. And if you're not a technical founder, usually that's not really a risk. So that would be one example.
+
+‍
+
+(38:21):
+
+I think management and ability to hire and recruit and manage and grow the team, that's a risk that sometimes you can see addressed because of somebody's passport history. Sometimes it's based on kind of asking some questions about, well how would you build your team? Or how do you think about managing the first 10 people? But I'd say that's another common one.
+
+‍
+
+(38:41):
+
+Another common risk is just not talking to customers. So it's like this is the, are you building the right product risk? And so I think the more somebody's opinionated, where they're like, "Trust me, this is the right thing. I'm just going to work on it for two years and then launch it." Maybe they're right, but a lot of times that's a good way to burn through two years of runway and then find out you didn't build the right thing. So there's definitely common risks like that, and some of them you can ask about and some of them like you probably won't know about until after launch and well after the investment.
+
+‍
+
+Daniel Scrivner (39:12):
+
+I want to ask a very different question, which is kind of the emotional journey side and managing the highs and lows of just working in venture. And this is just to state it, I would say the emotional journey is much more critical for founders who are in it every single day dealing with the day-to-day struggle. For investors, you kind of get to free ride a little bit, but you have your own emotional highs and lows depending on how the company's going.
+
+‍
+
+(39:35):
+
+And I know in the previous interview we did, we talked about a guide to the good life and this just how important stoic philosophy is to that. How have you approached that and is there anything you've done to try to get better at managing the emotional side of the journey or the emotional side of investing?
+
+‍
+
+Leo Polovets (39:51):
+
+I mean I think just being 10 years in helps. Because I think it's not like there's no surprises, it's more like there's fewer surprises. So as an example, I remember the first time I invested in a founder, where three weeks after the investment they're like, "Actually, I'm going to pivot a totally different direction." And that kind of freaked me out. I was like, "Oh my god, what happened? Did I miss something?" But now I've seen it a few times and it's like the fourth time you see it's not as dramatic as the first. So I do think time and exposure helps.
+
+‍
+
+(40:21):
+
+I do think a lot of it is just personally getting comfortable with the fact that surprises happen. And I think the last part is just trying to have this mindset around, well, is this in control in some way? Or is there's something I could do about it? And if there is, I'll try to do what I can. And if there's not, I'm not going to fuss about it. And I think that last one's probably the most important one, which is the goal ultimately is help founders succeed and help them build big companies.
+
+‍
+
+(40:47):
+
+And I think kind of wasting time on criticizing somebody where it's not constructive criticism, it just criticism, or being angry or frustrated or disappointed or ecstatic, all of those things in the end don't really help that much or at all. Maybe they're destructive. And so I think it's more just like, well, here's the situation, it's evolved in some way. What can I do now to make it better for me and the founder and the company?
+
+‍
+
+Daniel Scrivner (41:11):
+
+I want to ask a couple of closing questions. And one of them was, I would say probably the most tactical article you've written, at least that I've read, that I've come across, and I loved it and we'll share it in the show notes, is this idea of becoming your future self. And basically just as a founder, but you could also say as any professional, you need to do this exercise of projecting forward six, nine, 12, 18 months and making sure that you're always becoming who you need to be successful at that point in time. Talk a little bit about that idea and just any advice you have for founders about becoming their future self and kind of managing that journey.
+
+‍
+
+Leo Polovets (41:48):
+
+So I'd say where the stem from is what I realize is, I observed pretty early on that some founders, and honestly I don't think it's a founder thing, I think it's a human thing, you want to avoid discomfort. And so there's things you really like doing and there's things you don't want to do. And it's very easy to fall into this trap where you just do the things you like or you avoid the things you don't want to do. And that can be pretty detrimental to a company, because it's pretty easy to become a bottleneck if that happens.
+
+‍
+
+(42:15):
+
+And what I mean, for example, is let's say you're a CTO, and you like coding a lot, but at some point you're spending more and more time managing. And if you don't like management, it's very easy to be like, "Well, I'm just going to code. I won't do a lot of management. People can self-manage. I'll try to find people that can do that.: But in the end, it's hard to build a big company that way. And eventually either you need to become a good manager or you need to hire someone. And if neither happens, the company's going to stall out.
+
+‍
+
+(42:43):
+
+And that illustrates both sides, which is, you coding, so you don't want to let it go and you don't like management so you don't want to do it. But eventually you have to do both. And I talk to people about this, I think it kind of makes sense to them, but it's very hard to internalize of, well, am I actually doing this, or should I be coding? It's early on. And I think one thought experiment that I came up with that I think is helpful that is in this blog post is, think about your job in a few years, or maybe it's a year, maybe it's two years, maybe it's five years, the company's going to look a lot different.
+
+‍
+
+(43:15):
+
+Maybe it's 10 people today, but in a few years maybe it's a 100 people or 500 people. And you want to just ask yourself, if I'm in this role in five years, what will I be doing in that role? And then you don't have to make a 180 today, but you want to kind of slowly move towards that over time. So if you're coding today, but you're almost certainly not coding if it's a 500 person company, and you're like the CTO or VP of engineering.
+
+‍
+
+(43:39):
+
+And so you want to kind of think about that, think about your goal and just every day or week or month or whatever, kind of want to be like, "Okay, maybe it's okay, I still code, but maybe I should spend a few hours less on it every month, so that in a year I'm just doing management, or I'm just doing recruiting or strategy or sales or whatever it is." And so I think that's kind of a good thought experiment in terms of trying to get you to where you need to be, whether you that path or not. And if you really don't like it, maybe it means hiring someone that wants to take that path.
+
+‍
+
+Daniel Scrivner (44:09):
+
+So it sounds like it's this exercise of awareness and just being aware of how you need to be changing and the path of travel you need to be going down. And then just once you have that awareness, then you can start making those changes slowly and start moving in that direction, which is really powerful.
+
+‍
+
+(44:24):
+
+One of the things that we talked about, we didn't go much into depth then, but I want to spend just a second on, is you have this quarterly investment review, so you've investing for 10 years now. One of the things that you've talked about and said before, I think any investor would agree with, any venture investor, is that the feedback cycles are really rough.
+
+‍
+
+(44:39):
+
+Just meaning, especially if you're making an early stage investment, it could take eight to 10 years for that to play out successfully or not. And so, one of the exercises you've moved to is sitting down each quarter and looking at all the investments you've made, and thinking about what's changed over the past couple of months. Maybe talk a little bit about the value of doing that. And then, secondly, if there's any top two or three things that you have come to mind through that process that you think might be helpful to share.
+
+‍
+
+Leo Polovets (45:05):
+
+The specific lesson one is a little bit tougher because there's just so many, but most of them are really small and tactical. I'll give you a random one that that's kind of come up for me a few times recently, but I've kind of seen it for the last 10 years is you don't want to pivot in the middle of a fundraise, because it kills the story and it makes it really hard to raise with investors. If you're pitching your ideas to an investor, they like it. And then a week later they come back to you for follow-up questions, you're like, "Actually, the ideas changed."
+
+‍
+
+(45:32):
+
+So that would be an example where I saw that once or twice and I was like, "Oh, this is really bad." Not necessarily from a company perspective, maybe a pivot's right for the company, but it's really bad for a fundraising perspective. So make sure you don't do this in the middle of a fundraise. So that'd be an example of a lesson I write down after seeing it once or twice with a company companies.
+
+‍
+
+(45:53):
+
+I think the valuable thing here is what I've tried to do is make it really methodical. So it's not just like I sit down and I kind of think, "Okay, what have I learned in the last quarter?" I think it's more like, "Okay, Susa has invested in let's say 150 companies over the last 10 years. Here's like 40 I work with closely. Let me go through each of the 40 one by one and think about what did they do in the last three months that is interesting?"
+
+‍
+
+(46:16):
+
+And I'll even think about it as more structured in terms of what do they do on sales? On fundraising? On recruiting? On product? And try to come up with other insights or lessons there I should be learning. And I think that kind of exhaustive, brute force approach is actually pretty useful. Because it's similar to other avenues, where if you just try to brainstorm, you come up with a few ideas, but if you're really rigorous about it, you come up with a lot.
+
+‍
+
+(46:38):
+
+An example here is I've seen companies where you try to hire people through your employees networks, and if you just say, "Hey, Daniel, who are good engineers you know?" Maybe you come up with three or five. But if I say, "Hey, let's go through your LinkedIn one by one and you name every good engineer," you come up with 40. And so I think making it that more rigorous, methodical process is really valuable.
+
+‍
+
+Daniel Scrivner (47:00):
+
+Yeah, makes complete sense. Okay, I have a bunch more questions I would want to ask, but I'm going to have to pick one, because I want to be respectful of your time. And the question I wanted to ask is, you've now been doing this with your partners, meaning building Susa, doing early stage investing for the past 10 years. One of the things I saw you ask recently, I think this was around another... someone kind of asked for questions and you had chimed in and asked, "What do the most successful people still struggle with?? And so I wanted to ask you that question, kind of 10 years in, what do you find that is still just difficult, challenging, frustrating about investing that you still have to grapple with day-to-day?
+
+‍
+
+Leo Polovets (47:37):
+
+Oh, man. I would say by far, number one is, actually it's number one and two, but they're very interrelated, is saying no and time management. Because I think because investor is such a outlier driven business, really one investment in five years could make your whole career. And so you're always kind of, in the back of your mind, you're like, "Is this company the one that I need to meet? And if I say, no, am I going to be kicking myself in five years?"
+
+‍
+
+(48:05):
+
+And so there's this tendency to try to be open minded. It's easy because I'm a curious person, so I want to meet companies, meet founders, learn from them. And so there's a temptation to say, yes. But on the flip side, my calendar is so full now that it's very hard to, one, fit in more meetings and two, is actually have time for anything but meetings. And so I think that's a balance of it I've really struggled with. And to be honest, I'm still figuring it out.
+
+‍
+
+Daniel Scrivner (48:29):
+
+Yeah, makes sense. Well, thank you so much for coming on. This has been so much fun, Leo, I really appreciate the time.
+
+‍
+
+Leo Polovets (48:34):
+
+Yeah. Really had a blast. Really enjoyed chatting. And thanks for having me, Daniel.
+
+‍
+
+Daniel Scrivner (48:38):
+
+Thank you.

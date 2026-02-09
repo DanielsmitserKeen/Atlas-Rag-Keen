@@ -1,0 +1,55 @@
+# Europe’s Most Ambitious Startups Aren’t... | by Martin Mignot
+
+A founder from Berlin recently told me she was “rethinking America” and focusing on Europe in light of [Donald Trump](https://www.crunchbase.com/person/donald-trump)’s start to his presidency. I’ve heard variations of this sentiment since last November, and the perception is spreading that European founders are turning their backs on global expansion.
+
+Some are. But if you look closer, a different story is emerging. Europe’s most ambitious founders are, in fact, _more_ committed to growing internationally — in some sense, filling a vacuum left by our political leaders.
+
+I believe now is a defining moment for European tech, and the companies that seize it and expand globally will be the ones who capture tomorrow’s biggest opportunities.
+
+The European tech ecosystem has matured dramatically over the past decade, and it’s increasingly possible to build global champions from Europe. The best European companies are born global — a finding validated by research that my firm, [Index Ventures](https://www.crunchbase.com/organization/index-ventures), has conducted for the latest edition of “[Winning in the US](http://winningintheus.com/),” our definitive guide to U.S. expansion.
+
+Whether it’s a team of two or 200, companies are planning for international scale, and expanding to the U.S., earlier than ever before.
+
+The challenge isn’t about choosing a specific expansion strategy. Our research has identified several distinct archetypes:
+
+*   **Magnets** that pivot quickly toward the U.S. market where most of their revenue will come from;
+*   **Pendulums** that balance between continents by maintaining multiple centers of gravity;
+*   **Anchors** that keep a European base but establish targeted American footholds;
+*   **Telescopes** that capture significant U.S. market share without extensive on-the-ground infrastructure; and
+*   **Transplants** that jump wholesale to the U.S. from day one.
+
+All these paths can result in category leadership. The bigger issue is ambition. Mindset comes first. Everything else follows.
+
+### **The costs of delayed global thinking**
+
+After years of working with European startups, I’ve observed that companies from countries with relatively large home markets — Germany, France, Spain and the U.K. — can fall into what I call the “mid-sized country trap.” These markets are large enough to sustain initial growth, but create a comfort zone that can stifle global ambition.
+
+This makes internationalization more difficult down the line, as neither product nor culture supports agile expansion into new markets. Startups can get locked into local optimizations, acquire technical debt and end up having to “restart” the company in each new geography. As a result, they become vulnerable to competitors who have built scalable products from the ground up and are able to move faster.
+
+Cultural factors can reinforce the mid-sized country trap. Some European countries are inward-looking for historical reasons, but also because they’ve always been large enough to encourage the localization of foreign products and services — like films.
+
+In France, where I grew up, all the foreign films and TV shows I watched were dubbed, so I rarely heard English growing up. While social media is hastening the decline of this linguistic isolationism, I believe it’s still one of the reasons companies from bigger European countries have been slower to adopt a global mindset.
+
+There’s a lot to learn from the experience of founders from smaller ecosystems such as the Nordics and Israel. Tellingly, children growing up in Sweden and Finland at the same time as I had much more exposure to English.
+
+Their markets were too small for Hollywood to invest in dubbing films, and so viewers’ expectations adapted accordingly — for the better. In small countries, limited domestic demand becomes a forcing function for global thinking. When your home market can only take you so far, you naturally build a company with scale in mind from the beginning.
+
+### **Learning from outlier successes**
+
+Over the years, I’ve seen many successful startups turn small home markets into a competitive advantage. Founders like [Pieter van der Does](https://www.crunchbase.com/person/pieter-van-der-does) from [Adyen](https://www.crunchbase.com/organization/adyen) and [Ilkka Paananen](https://www.crunchbase.com/person/ilkka-paananen) from [Supercell](https://www.crunchbase.com/organization/supercell) always knew they had to run international companies to sustain growth.
+
+Despite radically different sectors, business models and expansion strategies, both companies wanted to transcend national boundaries from the beginning.
+
+Our research into breakthrough European companies reveals several elements common to their global success:
+
+*   **They commit to the global opportunity early:** The longer you wait, the more calcified your organization becomes around your domestic market. For example, the longer you stay in France, the more French speakers you hire, the more French is incorporated in your product … you get calcified.
+*   **They build with English first:** It’s often an advantage to establish English as the company language from day one, regardless of location. This seemingly small decision shapes everything from who you hire to how you design your product and documentation.
+*   **They design for global scale:** It’s worth investing early in systems and processes that work across markets, languages and regulations. This architectural decision pays enormous dividends as you grow. Based in the Netherlands, Adyen built a platform designed to handle the complexity of cross-border transactions in Europe from the start. By the time it approached the U.S., it had already solved far more complex problems than many of its American competitors.
+*   **They can focus on sectors, not geographies:** Sometimes, building deep expertise in a specific sector can trump step-by-step geographic expansion strategies. Israeli cybersecurity company [Wiz](https://www.crunchbase.com/organization/wiz-inc) targeted the most sophisticated cybersecurity customers globally, naturally leading it to the U.S. market and helping it achieve $100 million ARR in just 18 months.
+*   **They nurture a global culture:** It’s good to hire people with global mindsets and experience, as cultural alignment becomes more difficult the longer you wait. [Miro](https://www.crunchbase.com/organization/mirohq) built international hubs across Amsterdam, Berlin, Yerevan, London and Copenhagen, and its Amsterdam office alone now represents over 100 nationalities.
+*   **They understand market dynamics:** Companies need to be clear-eyed about where their total addressable market, or TAM, lies, as well as strategic and specific partners and customers. For enterprise SaaS companies, the U.S. often represents more than 50% of global opportunity. For companies with strong network effects or significant European market share, a more balanced approach may make sense. [Supercell](https://www.crunchbase.com/organization/supercell) established U.S. operations early to be close to platform partners like [Apple](https://www.crunchbase.com/organization/apple) and [Google](https://www.crunchbase.com/organization/google), while keeping creative teams in Europe.
+*   **They time their expansion thoughtfully:** While early global thinking is crucial, the timing of market entry should align with the business model and archetype. A magnet company might pivot to the U.S. at Series A, while a pendulum company might wait until Series C. What matters is that your internal architecture — both technical and cultural — supports your eventual expansion. [Incident.io](https://www.crunchbase.com/organization/incident-io) saw 75% of early customer interest from the U.S. despite being based in London — so it built its product with American customers in mind before CEO [Stephen Whitworth](https://www.crunchbase.com/person/stephen-whitworth-4ff3) eventually moved it to New York.
+
+At Index, we’ve seen that great companies aren’t defined by where they begin, but by how far they go. The most successful ones don’t wait until they feel “ready” to go international. They make themselves ready: They are born global.
+
+_This article was originally published by_ [_Crunchbase News_](https://news.crunchbase.com/venture/europe-most-ambitious-global-startups-mignot-index/)_._

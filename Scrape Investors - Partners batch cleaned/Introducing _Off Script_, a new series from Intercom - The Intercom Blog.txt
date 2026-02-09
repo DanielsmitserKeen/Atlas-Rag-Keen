@@ -1,0 +1,190 @@
+# Introducing 'Off Script', a new series from Intercom
+
+Today we launch _Off Script_, a new series of candid conversations with Intercom leaders about the extraordinary technological shift being driven by artificial intelligence.
+
+Without wanting to sound too dramatic, this is an “adapt or die” moment for every single tech company. And not just tech – pretty soon, it’s inevitable that virtually all businesses are going to go AI-first.
+
+In this post-AI world, new companies will rise, old companies will fall. Of course some of these new companies will flame out, some old companies will pivot successfully too.
+
+> “We’re racing hard to build a future which will result in better experiences and results for customers and businesses too”
+
+The world we care about is customer service – it’s patently obvious that the old way of providing support to your customers is soon going to be obsolete.
+
+Here at Intercom, we’re racing hard to build a future which will result in better experiences and results for customers and businesses too. The scale of the change is going to be huge – it’s not just a product change, it’s a mindset change.
+
+_Off Script_ is where we make space to talk about all of this. We have so much we want to share. We want to explore these ideas in the open. We want to provoke new ones in you. We want to learn from your reaction.
+
+## Reflections on the arrival of AI
+
+This very first episode of _Off Script_ features our Co-founder and Chief Strategy Officer, [Des Traynor](https://www.intercom.com/blog/author/des/). He talks about the generative AI revolution that startups, all of technology, and very, very soon all of society at large, is going through.
+
+He tells the story of our reaction to this moment, how we launched our first generative AI features within just two months of OpenAI’s first ChatGPT release, and then launched [Fin](https://www.intercom.com/blog/fin), our AI customer service agent, just a few weeks after that.
+
+But most usefully to you, he talks about how to make the most of this opportunity. He gives you frameworks and ideas for thinking through the ways in which you need to reinvent yourselves in this post-AI world.
+
+This is classic Des Traynor magic. I hope you’ll enjoy it as much as I did.
+
+_We’re going to publish new Off Script episodes on the first Thursday of every month – you can find them [right here](https://www.intercom.com/blog/tag/offscript) or on [YouTube](https://www.youtube.com/playlist?list=PLlCIldMZCaFppymtNp4dUWmlkgyCbGEHh)._ 
+
+_What follows is a lightly edited transcript of the episode._
+
+* * *
+
+## Off Script: Episode 1  
+Des Traynor on the AI revolution
+
+![](https://blog.intercomassets.com/blog/wp-content/uploads/2024/04/Des-Traynor-scaled.jpg)
+
+> “Do you know who Alexander the Great’s tutor was for about 14 years? Aristotle.
+> 
+> Through the miracle of the printed page. I can at least read what Aristotle wrote without an intermediary, but I can’t ask Aristotle a question.
+> 
+> My hope is that in our lifetimes we can make a tool of a new kind, of an interactive kind, getting more refined year after year after year. And in our lifetimes it should get very refined. And so my hope is someday we can capture the underlying worldview of Aristotle and someday some student will be able to not only read the words Aristotle wrote, but ask Aristotle a question and get an answer.”  
+> [**Steve Jobs, in a speech at Lund University, Sweden, 1985**](https://youtu.be/NT6oUsn3ANA?si=PDStG73ksRNIgiVr)
+
+**Des:** I found that clip on Twitter and the thing that really stuck with me was generally speaking, this is a guy who sees the future and he made that kind of crazy distant proclamation that honestly I’d never heard before. But when I look at it now and I realize he really did properly see the future, and granted it wasn’t unfortunately in his lifetime, but we’re very really able to ask Aristotle questions now, and that’s just a reminder of the sort of leaps that we’ve seen over the past couple of years.
+
+Any single second of the Steve Jobs [introduction of the iPhone](https://youtu.be/VQKMoT-6XSg?si=cYzbPbHowYh8uYQ0) is just devastatingly amazing from the time he opens the map and you see all the pins drop for the coffee shop to when he just transitions into a phone call. It was just an end-to-end “You’re looking at the future, forget what you know about technology.”
+
+I think to anyone who works in tech, those moments are rare. I probably have had for myself, I think the first time I played with a Commodore Omega, Web 2.0, the iPhone, and then honestly AI. But really a lot of us in Intercom think this AI is bigger than all of them, possibly all of them put together. AI is beyond comprehension to us a lot of the time.
+
+## The solution changes, but the job remains the same
+
+The jobs that people do or want to get done are often quite timeless. To give you an example, if I want to send you a package, I’ll probably use FedEx or DHL. Julius Caesar would’ve used horseback, but the job is still the same. Get this thing from here to there.
+
+  
+The photo shows a commuter vehicle in early 1900s maybe. There’s a lot of people reading newspapers and they’re doing that because they’re bored on a long commute. Today’s version of that is if you get on a train or a bus and look around to try to see any single person’s face, you won’t. What you’ll see is the top of their head because their face is angled down and they’re face deep in a phone. The job of being bored on public transport and trying to entertain yourself hasn’t actually changed. It’s just the technology has changed.
+
+And the reason I make that point a lot is because sometimes people, they can be technologists who love today’s technology and they fall in love with their favorite piece of technology. And this could be like a framework or a piece of hardware or something like that, but you can’t fall in love with the solution to a problem. You have to fall in love with the problem to be able to survive these technological leaps, these super cycles like AI, you have to be in love with the problem you’re trying to solve because the technology will come and go. There’ll be a better way always to do these things and it’ll come along every 10, 20, 30 years. There’ll be a whole new way to do it, and you don’t want to be one of those people clinging onto your fax machine. In the case of AI, what I would say is understand at its core what is the job your product actually does for people.
+
+It could be that you just connect people with other people. It could be that you account for every employee. It could be that you help people talk to each other, but you have to just understand that job at its actual core, independent of any technological solution. And then with that core understanding, ask yourself how can AI make this quicker, easier, better, faster, or more accessible to more people in more situations? I make that point a lot to try and encourage people. In order to build in the new world, you have to only bring forward the problem you’re trying to solve and don’t bring any of the baggage that your previous solutions might’ve carried.
+
+## Fast beats amazing, AI beats average
+
+If you compare AI with the best of what humans can do, the humans will usually be better in a lot of cases, slower, more expensive, but better. So AI is probably not going to get you a design as good as a great designer. The first thing you have to realize is most humans aren’t great designers. So you have to understand it’s the average that we’re comparing with, not always the best.
+
+And that’s the first point where people will get tripped up in thinking how this will affect their business is that the average person can’t do design. So if you build a piece of AI that can help them do design, that’s a massive step forward. And the ability of a world-class designer is actually not relevant in that formula, right?
+
+> “I will sacrifice a little bit of quality for a zero-second response”
+
+The second thing I think you have to just think about is just the economics of all this.
+
+There are a lot of products where fast beats amazing, so we even see versions of this in customer support. If I ask a question like, “Hey, how do I reset my password?” I actually don’t want the artisanal handcrafted answer, which is like, “Good evening, Mr. Traynor, thank you so much for your detailed query regarding password reset.” I will sacrifice a little bit of quality for a zero-second response.
+
+## ChatGPT enters the conversation
+
+The 30th of November, 2022, I first saw something on Twitter, then I saw a few pings in a Slack channel, and it was one of those, I think we’d all been through a bit of crypto hype, a bit of Web 3.0 hype, so you’re kind of like, “Oh, I’m sure this is a thing, but whatever. I’ll get back to it.”
+
+And then my phone kept going and I got a message from our head of AI at the time, Fergal, with a link saying, “Have you seen this?”
+
+And I was like, “Yeah, everyone seems to be talking about it. I wonder what it is.”
+
+And then I think I got a text from Ciarán, our co-founder and original CTO. He was like, “I’ve been playing with this thing. It’s pretty cool.”
+
+And then I looked at Slack again and it was a long message from Fergal, which was like, “This is a huge leap in capabilities.” And then Fergal posted a tweet as well at the same time saying “Sound the alarm bells. This is a huge step forward.”
+
+> “We have always wanted to be at the forefront of having the best technology available for customer service”
+
+I think the thing that was most immediately obvious with ChatGPT when it launched was it was really good at conversation and really good at basic problem solving. And a lot of our world in customer service is conversations about basically solving basic problems. And this thing could do it pretty well. And for sure it didn’t have all the nuance of a specific instance – it didn’t understand our refund policy or whatever.
+
+But very obviously, if you’d ask yourself, what are large language models good at? Well, conversation, basic reasoning like fact finding, basic problem solving. And then on top of that, they work 24/7 and they can speak lots of different languages. It means it was obviously going to have some impact on support. And I think that impact was going to be somewhere on the scale of medium to large.
+
+We have always wanted to be at the forefront of having the best technology available for customer service. This was clearly new technology. There was going to be a race to adopt it, to change the game of customer service. We talked about it at length, me and Fergal, me and Eoghan, like Paul, our head of product, et cetera. There was lots of discussion there. I don’t think any of us could see a world where this wasn’t going to be one of the biggest changes in the customer service landscape ever.
+
+So I think on Monday we were like, “Let’s go!” So Fergal’s team canceled their plans and they got busy building. What was our [first release was called Inbox AI features](https://www.intercom.com/blog/announcing-new-intercom-ai-features/). It was a series of augmentations and improvements to the inbox. We released that really, really damn quickly. I think it was like seven weeks end to end, possibly faster. I don’t want to do them a disservice.
+
+_Our earliest Inbox AI features were announced just eight weeks after ChatGPT’s arrival_
+
+But it really just felt like a proud moment for the company to have caught a wave and caught it so well and moved so quickly. A lot of which hinges on Fergal’s attention, Eoghan’s decision making – when people talk about service moving fast, it’s actually executive decision making which is the first thing that you should look to. And that was what we had, that I think a lot of folks wouldn’t actually have.
+
+So we hit that release, it was really popular. And then we immediately got to work. Now, this is before GPT4 even released, but we were already working behind the scenes Fergal’s team on well, could this thing actually do proper customer support?
+
+And I think that that work had started in January. It was already blowing our minds by February. I had seen examples of it, Fergal had had done a little workshop with us in the Design Studio and by July when it went live to everyone, it was blowing everyone’s minds.
+
+Today it’s done, gosh, like 5 million answers or something like this. It’s a total resolution rate of 40% for people, and it’s only going up as a product. It’s been incredible to witness and it’s a great example to me of what AI can do if you move quick enough on it.
+
+## Extinction-level event for slow companies
+
+Generally speaking, when something like this happens, it’s like an extinction moment. It’s like a meteorite hits to your industry and some will survive, but not all. And the framing that is often used when people talk about survival is the species not the strongest, not the biggest, not the one with the largest bank balance, but simply the one who’s quickest to adapt and react. I think that’s the first thing it means for companies – understand that AI is happening, there’s a good chance whole chunks of your product, your business, your offering have to change. Some pieces just won’t be relevant anymore at all. And because of that, you need to start thinking about for your entire tech stack, for your entire product, every workflow, every task, you have to start asking yourself, does AI change how this would get done?
+
+> “AI is really good at reading, understanding, summarizing, it’s really good at generating images and all of this is just going to get better and better and faster and bigger and more powerful”
+
+So if you are a word processor or an issue tracker or a project management tool, you start asking yourself things like, “Well, at this point the user would normally write a summary of the project to date.”
+
+Do they? When AI can do that in 0.02 seconds or whatever? Probably not – that whole feature is no longer necessary. Or “At this point, the user would identify if this receipt is valid.” Really? Because AI is pretty good, it’s very multimodal, it can scan images, it can scan PDFs, it can listen, it can watch videos, etc. It can parse things really, really well. So there are very few industries that I think will survive without having to change a line of code per se. If you’re really sure that the machine, meaning the AI/large language model, if you’re really sure it has nothing to add, fine, but I’d nearly say bookmark that because give it six weeks and something new will happen. To orient yourself properly, you have to start with what’s actually possible. Now, that wasn’t possible before, and I think AI is really good at reading, understanding, summarizing, it’s really good at generating images and all of this is just going to get better and better and faster and bigger and more powerful and all that sort of stuff.
+
+So you then have to say, well, what’s the bit that we think is the magic that humans are inherently involved in? There will be something most often – I really believe our vision for the future of customer service, for example, is humans and AI, but the roles have changed substantially.
+
+## Understanding the hierarchy of AI
+
+I’d encourage you to observe a hierarchy of how far we can go with AI and don’t be shy about your ambition in a sense. The first basic level is what I would call task level. Take an atomic little step and use AI to do it properly. So say analyzing the sentiment of a message. It’s a pretty discrete step. It’s also low downside. It doesn’t really break things if we get it slightly wrong.
+
+But as you get further up the hierarchy, what you’ll see is there’s say sequences or a chain of events which might be like “Detect the sentiment and if it’s angry, move it to the angry pile and prioritize it and ping a Slack channel to make sure that somebody knows.” So you’re joining the dots a bit.
+
+A step up above that again will be what I call workflow-level AI. You’re looking at someone’s actual full workflow and saying, how can we do this? And Fin is a good example of this. The job is:
+
+*   Message comes in
+*   Understand the message
+*   Find the answer
+*   Look up the knowledge base
+*   Look at previous conversations
+*   Jump back in
+*   Use all of that to construct an answer
+*   Send the answer
+*   See what the customer has to say
+*   If the customer is happy, close the conversation.
+*   If they’re not, keep going
+
+You’re automating an entire chunk of workflow, but you can go further, you can do exception handling too. On the previous level, you might’ve spat out exceptions being like, “Don’t know what to do.” You can go further and say, “Let’s start to work through these exceptions and make sure that we have defenses against them as well.”
+
+And all of a sudden then you don’t even need to defer to human. You can start dealing with your own exceptions, but then you can go all the way up to outcome level is probably the highest ambition here. And outcome level AI would be like you simply say, “I want great support or I want brilliant marketing,” and you just click the big stupid “go” button and see what happens. And I think I worry a lot of folks stop their explorations quite low down and I think you’re better off assuming that you’re going to have to get to the top and work out where do you think you can start?
+
+## AI skepticism in perspective
+
+So I think the most common criticism or the thing that people latch onto about is can it really think? And you’ve heard all sorts of, frankly, ill-informed it’s just a bad photocopy of the internet or it’s just glorified text completion or whatever. That’s the most common FUD you might hear about AI. Fergal, our VP of AI, I think he thoroughly debunked this in a post he wrote where he said, here’s a scenario I’ve given to ChatGPT. And it’s a pretty weird scenario. And the reason it’s pretty weird is because it needs to be obvious to everything that this story never existed before, so there’s no simple auto-complete that could happen. And a story was something like I put a load of apples into a bucket with a load of super glue and I put it on top of a door on the edge of the frame and I called my brother into the room, my brother came in running in alarmed what happened next?
+
+> “It’s pretty hard to say that the AI is not reasoning”
+
+And basically without really much of a flaw, GPT nailed the answer perfectly. And then just to push the boat further and further, you can ask follow on questions, which he did. One of which was “We tried the exact same thing the following day with my older brother and it didn’t work. Why might this be?” And it’s like, “Well, it could be a load of different reasons, but number one is probably the glue had dried.”
+
+But number two, which I thought was brilliant, was maybe one of your brothers had informed the other brother, which is also a plausible situation. And then I think the third one was like, and what if we went to the moon with this book and tried to play the trick there and it’s like, oh, well you’re into the problems with gravity or whatever. And it’s pretty hard to say that that’s not reasoning, that it’s not creating a worldview and answering questions on it. So I think people have to, whatever FUD they want to share about AI and what it can’t do or how it can’t think, they have to acknowledge that story in their criticism and understand, come up with a better angle of attack that says it can’t do basic thinking. It looks like it can.
+
+## Fin’s capacity to reason
+
+I remember using, I think it was Rewind.ai, which is just effectively a desktop memory augmentation tool. It’s really cool. But I was trying to get it to turn off a pop-up that comes up every time you join a new Google Meet, it would ask you, “Hey, do you want to record this?” or something like that. And I went to their help center, couldn’t get the answer anywhere, and I asked Fin, I said, “Hey, I’m trying to disable this thing.” It gave me a perfect answer and then it said to me where I read the answer and I clicked through to see what the help center article was, and it actually didn’t include the answer, it was just Fin had reasoned about the fact that if this is a setting about all of your various different types of recording, it’s probably going to be in there.
+
+Which it’s actually probably how a human would think about it. What Fin was basically saying to me was, “I’m pretty sure if you can do that, it’s in this big book of settings that I’ve found about over here.” And so it gives you a pretty good answer and it turns out that was spot on. But again, I dare say a support person would’ve done roughly the same unless they happen to know for a fact, in which case they would’ve given a firm declarative answer. But oftentimes they’re also going to say, “I dunno, it’s probably in notification settings” and that’s what it does. So that’s the sort of nature, and again, it’s not quite “sticky apple bucket” level thinking, but it’s the sort of thinking that you want to see in an agent to really make sure that it can solve a lot of these common problems.
+
+## Chatbot eras through the years
+
+Chatbots have gone through eras. I think it was Eoghan made this point recently – era one of chatbots was the old IVR phone tree: “If you want sales, press the first button, if you want support, press the second button.” And that was the gen one of chatbots. And we all thought that was amazing, but this was the early 200o – 2005, 6, 7 – and it really wasn’t, it was a shit experience and it was also a nightmare to set up and program. So it just wasn’t really great at all.
+
+The gen two was like, we had a product in the space called Resolution Bot and gen two was using a little bit of fuzzy AI. So it was like type your thing and we’re going to try and roughly work out some keywords. So if you say, “Hey, I’d like to upgrade your enterprise platinum premium sales plan,” it would be like, “Hmm, that sounds like a sales query. Let’s kick off the sales default response.” So it’s a lot of “if this, then that”. But the “if this” was powered by a sniff of AI.
+
+> “You click the on button and Fin will consume all the content you give it, read all the conversations you’ve had before and it’ll create an understanding”
+
+The biggest tax with those types of products is you had to do a load of setup work and it didn’t work in specific instances unless you did all the work of setting up every single answer. This is where you need the generative AI. That’s the gen three – this is what Fin is. It’s a generative AI powered by large language models. It is an AI agent that does all this, but what makes it so powerful is, the way you turn Fin on is not by setting up a load of “if this, then that” rules, it’s not by teaching it a dictionary of certain trigger words, anything like that. You click the on button and Fin will consume all the content you give it, read all the conversations you’ve had before and it’ll create an understanding, and it’ll answer questions from that understanding, and it’ll do it pretty damn well.
+
+I think the thing a lot of people don’t get is how much more satisfactory it is for user to get an instant reply to anything. If I said to you, “Hey, ask me the question you want to get solved,” and you’re like, “Oh, I’m checking in tomorrow. And I’m wondering, can I get an early check-in and I have a late flight and I’m wondering blah, blah, blah, blah, blah.”
+
+If I said to you like, “Hey, there’s two options here. You can get an answer to your question immediately, or if you wait just 14 minutes, I’ll get you a human to write you an answer to that question.”
+
+A lot of people for a lot of questions will say, “I’ll take immediately please.” And also if I said to you, “Hey, the immediate answer is going to be based on all the available information that is there to consume and it’ll be based on all the recent answers that the team have given of late to questions like this.”
+
+So what we’re going to see a lot of is that Fin will deliver the best available answer immediately and that will in a large number of cases, be the best outcome for the customer too.
+
+## Democratizing software through AI
+
+There are all sorts of tools that are maybe power user tools if you’re to be complimentary or maybe just damn hard to use tools if we’re to be honest. So I’ll give you two different examples. I would argue Microsoft Excel is a brilliant product for people who know Microsoft Excel and it’s nowhere near as powerful for us. Let’s just say enterprise SaaS software, I’ll pick on one like Workday, that is just very powerful, but also complex software that’s hard to use. And in both cases, I think the ability to just speak to effectively an agent or an AI chatbot and say the thing you’re trying to do can really open the doors to all sorts of people or all sorts of streamlined workflows.
+
+So in Workday it’s entirely possible that in a future release, I’ll just click on the little bot person’s face and say, “Please book October 14th off,” return. And it’ll say “Done.” And that’s it. And that’s all I really wanted to do. I wasn’t interested in exploring their beautiful taxonomy or navigation. I don’t care about any of that. I just need to book the day off.
+
+But you’ve now blown open the total available market for these products. So that’s a huge technological change that we’re going to see play out over and over again, specifically in power user tools because it will blow up the addressable market. But also I think in larger more complicated beasts, let’s say software like Salesforce or Workday or Coupa, you’re going to see most of this software is not designed for the end user, it’s designed for the admin or the backend or the bookkeeper or whoever.
+
+But there’s a lot of people who have to log in and deal with this clunky UI. And if we could expose to them a very simple streamlined chatbot interface where they can just say the thing that they want, that’s going to be revolutionary in terms of making it a far more stomachable product for a lot of its daily active users. So I think the idea of being good at spreadsheets hopefully will become “not a thing” because actually the spreadsheets are good at you. And that’s the difference.
+
+## Time to adapt or die
+
+The most extreme version of this is “adapt or die.” A probably more radio friendly version is that we should consider a time of massive opportunity when the single greatest technologist, Steve Jobs, spoke about this being one day possible. Hopefully we in our lifetime, granted we missed his lifetime, but this is that day, the one day he spoke about. This is day one.
+
+I think if you don’t see the insane opportunity, if you don’t see the urgency on you, the imperative for you to reconsider how your product business works based on what has changed in technology over the past couple of years, you’re missing out. And I think there’s a real danger. You’ll find yourself running around shouting at the clouds, perfectly prepared for a world that we’ve all moved on from. And I just encourage people to get going. We need to rebuild our industries, our companies, our societies around this new world. And it’s day one.

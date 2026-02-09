@@ -1,0 +1,165 @@
+# How to Size the Market for Vertical AI
+
+“Small market” may be the two most dangerous words in venture capital. 
+
+It’s not that market size doesn’t matter _per se,_ it’s that sizing markets is _really_ hard to get right in a startup’s early years. Sizing markets based on the past, which is standard practice in the investment industry, is an especially bad idea.
+
+As Aaron Levie [said a decade ago](https://x.com/levie/status/475787246885277696): _Sizing the market for a disruptor based on an incumbent’s market is like sizing the car industry off how many horses there were in 1910._
+
+A simplistic way to view market sizing is through three variables: **TAM = # of potential customers \* penetration rate of software \* average contract value**. 
+
+Historically, investors have missed great companies because they underestimate a startup’s ability to expand the number of potential customers, the penetration rate of an industry, or increase contract sizes via product expansion. 
+
+Take Felicis’ early Shopify investment as an example: the company IPO’d for $1.3B in 2015, now worth $200B! It did so by expanding all three of those variables: the number of potential customers, how many small businesses were using software, and releasing new products.
+
+The most common reason for missing great companies in vertical markets is because of “small market size”. Since the number of customers is fixed, it’s easy to call a market small and move on. 
+
+But like previous technology waves, AI has created a new set of markets where generational businesses can be built. We believe these businesses will have the ability to expand both penetration rates and ACVs, creating opportunities in vertical markets that didn’t exist before.
+
+‍
+
+## Why Vertical Markets Were Left Behind
+
+A few months ago, we ran an analysis that showed approximately [19% of $5B+ SaaS companies](https://www.generativevalue.com/p/where-do-tech-returns-come-from) were in vertical markets. A respectable amount, but likely to be higher in the AI era. 
+
+‍
+
+![5B+ B2B Software Companies from 1994 to 2024](https://cdn.prod.website-files.com/63ff802a284f64e789752d0d/68d2d1faa3ff3f29804a5767_5519ee46.png)
+
+‍
+
+The truth is, horizontal software did so well because the last wave of technology was built on the database, and databases are excellent at capturing structured and semi-structured information. 
+
+In a world where large, horizontal functions in enterprises could organize and analyze the massive amounts of data they have, the ROI was good, and the scale of the problem was large.
+
+But many vertical markets tend to be:
+
+1.  **Fragmented:** smaller businesses without the scale of data of large enterprises.
+2.  **Nuanced with their data:** large vertical markets like legal and healthcare have complex data that couldn't be effectively captured by databases; especially compared to the clean sales, HR, and IT datasets that created opportunities for Salesforce, Workday, and ServiceNow.
+
+As a result, there was limited software penetration and smaller contract values relative to the overall size of industries like healthcare and legal.
+
+While the last wave of technology rode in on the structured database, this wave of technology rides in on the unstructured workflow. And small businesses and vertical markets are full of them. 
+
+Our question then turns to finding the markets where AI solves the highest pain points at the largest scale.
+
+‍
+
+## A Starting Point for Market Sizing
+
+To start to answer that question, a simplistic approach is to measure:
+
+1.  The software value creation in existing markets to gauge which markets have historically been large enough to support a $5B+ software company
+2.  How voice-and-text heavy the industry’s workflows are (as a proxy for “AI readiness”)
+
+So we pulled every $5B+ vertical B2B software company (data is too unreliable beneath that threshold), and had Claude help gauge the “AI-readiness” of the industry:
+
+‍
+
+![](https://cdn.prod.website-files.com/63ff802a284f64e789752d0d/68d2d1faa3ff3f29804a576a_2fb151b8.png)
+
+_We see the irony in saying “don’t use historical comps for market sizing” and then using historical comps for market sizing. Additionally, valuations can skew market sizes based on multiples, but revenue data is unreliable for private companies included in the data set._
+
+‍
+
+Based on this framework, healthcare and legal markets are the two clearest markets for value creation; however, these markets already have multi-billion-dollar companies, like Abridge, Harvey, and OpenEvidence, so it seems clear they’re very large.
+
+But what's more interesting are five markets that are less discussed in AI circles, despite having high AI-readiness and $10B+ in existing software market cap:
+
+1.  Life Sciences  
+    1.  Historic $5B+ companies: Veeva ($46B)
+    2.  AI readiness: Regulatory document processing, clinical trial documentation, compliance reporting, and vendor communication are all text-heavy administrative workflows perfect for AI automation
+    3.  AI-native examples: [Bluenote](https://www.bluenotehealth.com/), [Collate](https://collate.com/)
+2.  Real Estate  
+    1.  Historic $5B+ companies: RealPage ($10B acquisition), CoStar ($35B), Zillow ($17B)
+    2.  AI readiness: Contracts, disclosures, tenant communication, property management documentation, and lease processing are document and communication-heavy workflows
+    3.  AI-native examples: [EliseAI](https://www.eliseai.com/), [HouseWhisper](https://www.housewhisper.ai/)
+3.  Automotive  
+    1.  Historic $5B+ companies: CDK Global ($7B), Cox Automotive ($9B+ revenue), Reynolds and Reynolds (private)
+    2.  AI readiness: Service scheduling, parts ordering, customer communication, and dealership operations involve heavy voice and text workflows
+    3.  AI-native examples: [Mia](https://www.mia.inc/), [Toma](https://www.toma.com/)
+4.  Insurance  
+    1.  Historic $5B+ companies: Guidewire ($21B market cap), CCC Information Services ($6B market cap)
+    2.  AI readiness: Claims processing, underwriting documents, customer service calls are perfect for AI automation
+    3.  AI-native examples: [Pace](https://withpace.com/), [Strala](https://www.strala.ai/), [Reserv](https://www.reserv.com/)
+5.  Home Services  
+    1.  Historic $5B+ companies: ServiceTitan ($9B)
+    2.  AI readiness: Scheduling, customer communication, service documentation, and field operations are voice and workflow-heavy
+    3.  AI-native examples: [Avoca](https://www.avoca.ai/), [Netic](https://www.netic.ai/), [ProBook](https://www.probook.ai/)
+
+‍
+
+The point of this article is not to say here are 10 industries and here’s how big they will be with AI, it’s to point out the large categories with clear fits for AI that are likely to sustain $5B+ vertical AI companies. And all of these industries above fit that description. 
+
+‍
+
+## The Dual ROI of Vertical AI apps
+
+Saying "these are big categories good for AI" isn't enough, it’s important to share the biggest reason why both penetration rates and ACVs are increasing in these categories during the AI era.
+
+The key observation from the most successful AI application companies: **they both decrease operating costs AND increase revenue**. This leads to an ROI of anywhere from 1-10x in the first year of adopting these vertical AI applications. So when there are stories of startups growing 10x year-over-year, it's not an out-of-left-field number; customers are getting multiples of economic value creation on that spend.
+
+Take a company like Assort Health as an example:
+
+1.  Assort sells AI voice agents to healthcare providers and clinics
+2.  The missed call rate for the healthcare industry ranges from 20 to 40% for the average clinic. Assort can drop that number to close to 0%.
+3.  For every missed call, the clinic misses out on a potential new customer (revenue) that may call another clinic. 
+4.  On top of that, large practices are spending hundreds of thousands or millions on contact center spend. 
+5.  So Assort can increase inbound leads by up to 20% and decrease spend by hundreds of thousands of dollars. 
+
+A tool like this then introduces positive feedback loops within an industry. If one company suddenly increases their inbound leads by 20%, everyone in the category will be forced to adopt the technology as well (or continue falling behind). This is why comparing AI-native health admin companies to public comps of healthcare scheduling or contact center software doesn’t make any sense! 
+
+Because the ROI is so strong for healthcare clinics, we expect to see 50-90+% penetration of this technology in healthcare clinics over the next decade. 
+
+We’re seeing this dual-ROI dynamic with voice AI startups in voice-heavy industries like community banks, insurance carriers, home services, and auto dealers. When accounting for the economic value creation of these startups \* the number of potential customers, the market opportunity is much larger than it seems on the surface, measured in the multi-billions in revenue.
+
+[Bill Gurley had a similar debate with Aswath Damodaran](https://abovethecrowd.com/2014/07/11/how-to-miss-by-a-mile-an-alternative-look-at-ubers-potential-market-size/) on the market sizing of Uber a decade ago. Damodaran incorrectly assumed both the wrong market size and the wrong penetration rate. Gurley has been proven to be correct on both accounts over the last decade. Disruptive technologies like mobile before and AI now have the power to expand markets exponentially. 
+
+‍
+
+## Automating Services for Market Expansion
+
+The other variable to factor in on vertical AI market sizing is the opportunity to [capture services or labor revenue](https://www.felicis.com/insight/ai-catalyzes-a-long-awaited-promise). 
+
+If we look at where AI's been most successful, it's in automating text and voice-based workflows, which many of these outsourced services are. They tend to be lower-value, routine labor, and a good fit for AI automation.
+
+Let’s take two examples of almost unfathomably large spending in vertical markets on services that AI could capture over the next decade:
+
+1.  Insurance Third-Party Admin (TPA) Spend: $400B+ in annual spend
+2.  Life Sciences BPO/CRO spend: Estimated from $100B to $400B+ in annual spend
+
+What's particularly interesting is the divide between the services spend and the software spend. Veeva is the largest life sciences software vendor and does roughly $3B in revenue. Guidewire and CCC, two of the largest insurance software vendors, do roughly $2.2B in annual revenue combined.
+
+These are great businesses, but are smaller by a factor of 100x than the outsourced labor opportunity. Simply googling "public comps for insurance software vendors" doesn't cut it today.
+
+Will AI capture a meaningful percentage of the outsourced services revenue? We can’t say for sure, but the beauty of this market sizing is that if AI captures ANY meaningful piece of this revenue, there will be huge value creation. 
+
+‍
+
+## The Best Companies Expand Through Their Platforms
+
+Finally, the best companies will expand their contract sizes via platforms. Take one of the most famous examples of vertical software in Toast. They:
+
+1.  Owned the most important data to restaurant owners (the order) by owning the point of sale system
+2.  Then they expanded to automate the most critical workflows around the newly automated data (order management systems, online ordering)
+3.  Later, they expanded again to become the system of record for restaurants (now over 140k locations!)
+
+For the best vertical AI companies, they’ll do the same:
+
+1.  Automate a workflow and get access to the most important data for a given customer set
+2.  Use that data to automate critical workflows around that data
+3.  Expand functionality over the next decade to eventually compete as the system of record for their customers
+
+In summary, there are three paths to expand contract sizes and penetration rates, despite a fixed set of customers:
+
+1.  Offer dual-ROI of cutting expenses and increasing revenue, which creates an opportunity too good to pass up
+2.  After the initial wedge, expand platforms with newly automated data to increase spend
+3.  Encroach on the services market spend, measured in the hundreds of billions in industries like insurance, life sciences, healthcare, and law
+
+Because of these expansion paths, we’ll see new markets with $5B+ companies AND existing markets with more AI companies valued at $5B+.
+
+Vertical AI has its challenges. Realistic valuation still matters, for both investors and founders. Protecting the marginal value of this ROI is not easy, especially with no shortage of competition. In many of these markets, there’s a land grab moment for whoever can “acquire the switching costs” of the most customers in the shortest amount of time. 
+
+But the value of a company is a derivative of the value they can provide to their customers. And we’ve never seen value creation like this. 
+
+So if you’re building a company in one of these seemingly “small markets”, shoot us a message, we see the opportunity others miss.

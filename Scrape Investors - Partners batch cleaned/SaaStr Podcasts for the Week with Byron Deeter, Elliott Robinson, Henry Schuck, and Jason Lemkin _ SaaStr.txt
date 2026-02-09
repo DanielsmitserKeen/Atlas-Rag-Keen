@@ -1,0 +1,483 @@
+# SaaStr Podcasts for the Week with Byron Deeter, Elliott Robinson, Henry Schuck, and Jason Lemkin
+
+![](https://i0.wp.com/www.saastr.com/wp-content/uploads/2020/09/SaaStr-Podcast-1x1-Blog-Post-copy-2-EP373-300x300.png?resize=300%2C300&quality=70&ssl=1)
+
+**Ep. 373:** Bessemer’s 5th Annual State of the Cloud Report returns for a definitive look at the cloud industry today. Byron Deeter and Elliott Robinson, partners at Bessemer Venture Partners, offer macro trends in the public and private cloud markets, strategic advice to cloud founders, and insights into why entrepreneurs should feel auspicious about the future.
+
+This episode is sponsored by [Linode](https://www.linode.com/saastr).
+
+_**SaaStr’s Founder’s Favorites Series**_ _features one of SaaStr’s best of the best sessions that you might have missed._
+
+This episode is an excerpt from a session at SaaStr Annual @ Home. You can read the podcast transcript below.
+
+[https://traffic.libsyn.com/secure/saastr/State\_of\_the\_Cloud\_Mixdown.mp3](https://traffic.libsyn.com/secure/saastr/State_of_the_Cloud_Mixdown.mp3)
+
+**Ep. 374:** ZoomInfo founder and CEO Henry Schuck shares how he built a business from scratch and grew it into one of the most successful IPOs of the 21st century—and what it was really like…the good, the bad, and most of all, the ugly. He reflects on where he went wrong, what he would do differently, and how to avoid making the same mistakes he did.
+
+This episode is sponsored by [Outgrow](https://premade.outgrow.us/outgrow-and-saastr).
+
+This episode is an excerpt from Jason and Henry’s session at SaaStr Annual @ Home. You can read the podcast transcript below.
+
+[https://traffic.libsyn.com/secure/saastr/Episode\_375\_mixdown.mp3](https://traffic.libsyn.com/secure/saastr/Episode_375_mixdown.mp3)
+
+If you would like to find out more about the show and the guests presented, you can follow us on Twitter here:
+
+[Jason Lemkin](https://twitter.com/jasonlk)  
+[SaaStr](https://twitter.com/SaaStr)  
+[Byron Deeter](https://twitter.com/bdeeter)  
+[Elliott Robinson](https://twitter.com/TheValuesVC)  
+[Henry Schuck](https://twitter.com/HenryLSchuck)
+
+We’ve shared the transcript of episode 373 below. You can also [jump down to the transcript of episode 374](https://www.saastr.com/saastr-podcasts-for-the-week-with-byron-deeter-elliott-robinson-henry-schuck-and-jason-lemkin/#374).
+
+**Transcript of Episode 373:**
+
+**Byron Deeter:**
+
+I’m going to dive in here with a little bit of an overview. To say that 2020 has been unusual, and unprecedented, and momentous would all be understatements. But let’s just begin by taking a little look back at how we’ve gotten here. We want to take you through the cloud journey over the last several years. We’re going to start with some dates that predated COVID and really go to prior SaaStrs. If you look back on February 5th, 2019, which was the SaaStr Annual, hopefully many of you were there in person, we gave the state of the cloud presentation and talked about the power of the industry, and the power that’s been building in terms of market capitalization of just the public cloud companies and what they show. That was February 5th, 2019.
+
+Coincidentally, SaaStr Annual was slated to be February 5th, 2020 this year, where we were going to reveal that the cloud had passed the one trillion market cap mark, which was exactly one year after the SaaStr Annual 2019. It was a meaningful milestone for many reasons, and yet, just a few days later, the world change pretty dramatically. If you look at the March volatility, the major indices fell 30% pretty much across the board as the health crisis started to take hold, and the economic crisis was starting to be previewed.
+
+Now, the cloud index fell along with it. The blue line here is the Bessemer Nasdaq Emerging Cloud Index, which is an index that we’ve tracked for many years, which is the basket of the pure play public cloud stocks. You’ll see here from this blue line, the 30% fall that rapidly rolled through our entire industry. Now, as April came, we started to see those climb back. You fast-forward to May, you started to see not only the indices roll back, but specifically this blue line of the cloud industry. As we rolled to June and July, and then all the way through to August, we saw essentially a separation that is reflected over the longer time arc here as well.
+
+If you go back to before 2014, what you see is the power of the cloud. You see that both organizations embracing this cloud movement, but specifically in COVID, more and more companies turning to the cloud as their solution for business continuity or for business growth in these times when shelter in place is making on-prem solutions difficult and in many cases, impossible to use. It’s also been a powerful moment for technology to be a force for good. We’ve seen many of the cloud community companies help usher in this transformative, somewhat defensive posture, but also allowing companies to reinvent themselves and to grow.
+
+To give a few examples, when the entire restaurant and hospitality industry was forced to reinvent themselves, most restaurants shutting down entirely due to shelter-in-place mandates, Toast, which is a leading point of sale solution and vertical SaaS application and mobile application for the restaurant industry, and an all-in-one restaurant platform, rapidly switched and helped offer new solutions for online ordering, contactless delivery, and allowed restaurants that had never before provided takeout, and were literally facing bankruptcy shutdown situations to suddenly create an entire new line of business.
+
+Another collection of their customers actually turned their kitchens into service offerings. This here is an example from a Burmese restaurant called Thamee, in DC, which has partnered with World Central Kitchen, and they’re donating thousands and thousands of meals to people in need, healthcare staff, and frontline workers, Black Lives Matter protesters in the community. You see that these teams and these small businesses across America rallying with the help of technology solutions provided by many of you on this call and cloud providers more broadly, the same needs existed with the physical world that we saw with the virtual world in many ways, and physical store owners had this crisis moment where they were shutting down. They had to reinvent themselves.
+
+This million business milestone was passed in March by Shopify, one of the leading storefront providers, and a cloud vertical solution for eCommerce, where they grew 400,000 storefronts between mid March and mid April, because of small businesses, again, that had been only physical before, and found that to survive and hopefully ultimately thrive, the cloud solutions were their way forward. We celebrate businesses like that, and of course, the platform we’re on today with Zoom, that has really become a communications platform that’s defining this COVID era. They’re giving us the connectivity to communicate with our colleagues, friends and family. They’re facilitating virtual schooling, they’re helping governments organize. They’ve helped with life’s most important and sacred moments, whether that’s birthday celebrations, weddings, and unfortunately, even in some cases, the last goodbyes. But it is really incredible and inspiring to see how these companies and these cloud leaders have ushered in this new phase of innovation and growth, even in the hardest moments of society.
+
+What we see is this unlocking of cloud power, and we see this acceleration of the trends that we’ve known are building through the years. It reinforces the growth of the industry. If we look at that and step back, you can think of this, again, from the leading perspective of the public’s first, which is this evolution over time. Just 12 years ago, the entire market capitalization of the top five cloud companies was less than $14 billion. When you roll that forward just seven years, that was up 8X, you roll that for just 12 years, is that a staggering 61X. Just in the top five names, the growth has been spectacular.
+
+If you think about the broader hybrid vendors, so the Amazons, Googles and Microsofts that have cloud businesses that are growing and building within, the same trends exist there. If you look at the IAS vendors, they passed $130 billion revenue milestone this year. We’ve all seen AWS and what they’ve done with their platform. It is staggering. Even at spectacular scale, they’re still growing at 30%. Azure has been gaining on them rapidly and is growing a double that rate. Still has some market share to go, but is providing a fantastic offering that many of you benefit from. Google Cloud, AliCloud International, et cetera, the industry has just been going through this massive transformation, and has been responsive to the market demands of COVID in ways that wouldn’t be possible in a non-public cloud, non-scalable way that’s allowing the continuity and the power in a modern format that wasn’t before possible.
+
+But if you think of all these stats out there, there’s one number that for me is most impressive. It’s 94%. What this number means is across all industries, 94% of businesses today use at least one cloud solution. We are truly living in a cloud first world today, where businesses not only understand, but they now embrace and are looking to lead with technology solutions from folks on this Zoom, who are cloud first and providing that next generation of solutions. If you think of this in the context of software, it’s particularly powerful because for years, we’ve been seeing the visionaries out there promoting this transition. But it takes a long time to build.
+
+The dark blue bar here is cloud as a percentage of worldwide software spend. For years, it barely registered as it was building. What we’ve seen over the last several years is that compounding starting to develop, and if you roll forward and see what happens, if you go to 2032, out just a dozen years from now, how massively that transformation takes hold. The 50% mark is going to cross within the next three years, and the vast majority of all software quickly will become cloud. If you think of this over this arc, and in fact, if you reinvent it in a circle chart or a pie chart, you can see visually how cloud is eating software.
+
+You’ve got this dynamic within the next couple of years where cloud becomes a majority, but it just rolls forward. You get this almost eating effect, I think of it as Pac-Man in motion, where truly, cloud is taking over the core of technology and all of software. If you think of this from a market size standpoint, there’s often this debate, is that good or bad? What happens when cloud has consumed software? What happens to growth? What is the potential? This fantastic, staggering growth that we’ve seen over the prior years, is that sustainable? Can it continue? There’s all sorts of implications. For you out there founding new businesses, is it too late for investors, public and private? Have I missed my window, or what is fair value?
+
+This is the chart that we think helps answer that, which is to zoom out, and think of not only cloud and its current market size, or not even just software in its current market size, which mind you, is a multiple of that. We have through that 2032 range, we show how the growth rates are certainly sustainable, and in fact, in some industries will accelerate as you get this compounding building, and you get this sea change effect as the industry realizes and embraces cloud.
+
+But you actually should zoom out another level. You should think of this as the technology industry as a whole is really the addressable market by all of you. Because more and more hardware is becoming soft. It’s the software within hardware that’s powering innovation, and powering efficiency, and powering growth. Really, cloud absorbs hardware, software and services. As you see more opportunities for automation, and as you see more of the technology of the cloud and software percentage of technology reveal itself, it’s really that 3.7 trillion dollar market that’s addressable.
+
+As you think even more, both broadly, in sector, and in geography, the global GDP is increasingly becoming tech-based. As you think about cloud as hands down the most powerful force in all software, and really now in all of technology, and we all know that technology is increasingly driving other industries and innovation across industries. We absolutely believe that a large percentage of global GDP will be cloud-driven and cloud-based in the years ahead. When asked specifically, “How does this end, or how does this play out?” We absolutely believe we’re still in the early days. What has become obvious to those of us in the cloud community, and what’s starting to become more and more obvious to the world, has a long and powerful future ahead.
+
+That’s going to be the basis of the rest of this conversation. We’re going to talk you through a little bit of the learnings from these leaders and our experiences working with many of the innovators. Then we’re going to end with some predictions. With that, I’m going to let my partner, Ell, take it from here and guide you through some of the lessons learned and some of the 10 laws takeaways over the last many years of working with these leading companies.
+
+**Elliott Robinson:**
+
+Thanks, Byron.  As Byron walked everyone through, there’s been a lot of change and evolution that’s taken place in the cloud software market. Today, there’s more than 140 private and public cloud companies that are worth more than a billion dollars, including a lot of companies that are speaking at SaaStr. Here at Bessemer, we’ve been really lucky to work with some of the best, as you can tell from my partner Byron’s Zoom background. But what we really like to do is try to share best practices amongst the many years of experience we’ve had working with cloud companies.
+
+What we’re going to do today is highlight three of them. We’re all living through a really unique time with COVID. Companies are working more remote first, everyone’s trying to traverse the new landscape, and I think that these three have really stood the test of time since we published the first 10 Laws of Cloud report more than a decade ago. Let’s dive in.
+
+Law number one, in the cloud economy, scale wins. A bit of a personal note for me, before coming to Bessemer, I was with a great fund in Toronto, Canada called Georgian Partners. I’m a big fan of Canadian entrepreneurs, so shout out to any of you on the Zoom today. One of the early co-investments with my prior firm in Bessemer was in Shopify. One of the favorite quotes that I always had from Tobi, and really, his philosophy was that reaching scale, it’s not just about the revenue, it really is about finding a product that sets the pace of innovation, and having this mentality that while you might be really excited about the product that you’re offering to the market today, you actually want to render it obsolete so that your competitors can’t just copy what you’re doing.
+
+We’ve had a lot of discussion about Zoom over the last few months, as Byron alluded to, with everyone working at home. But if you just take a step back for any kind of market that we’ve had success with, with cloud software companies, the majority of the market, say 50, 60, sometimes 70% goes to the scaled leader. Then unified communications and video conferencing space, Zoom has definitely taken a new position as the market leader. This number might have increased just in the past week, but it certainly sits somewhere around 64, 65%, where you’re seeing companies like Skype, BlueJeans, and WebEx coming up just behind them.
+
+Another thing that we’ve seen over the last decade is cloud companies have this unique ability to scale way more rapidly than they have in the past than many of their other tech market peers. If you look at companies like Cornerstone OnDemand, which we invested in a long time ago, it took them some time to get to 100 million of ARR. But if you look at new companies like a Shopify, a Twilio, a HashiCorp, they’re able to get there even faster, somewhere around four or five, six years, and that’s something that we’re seeing with all the cloud giants that are entering the market today.
+
+Leveraging on some of Tobi’s philosophy, it’s something here that we call at Bessemer, Finding Your Second Act. Everyone knows Shopify for what it is today, but in the earlier days, it really was the best SaaS platform for SMB eCommerce providers. Then they found somewhere in like year 2014 and ’15 that they could layer in something like payments as an additional way to monetize their customer base. We call that a second act. What that does is not only did it accelerate the top line revenue for Shopify, but it dramatically opened up their total addressable market on a revenue basis. 
+
+If you’re a cloud founder sitting at home today, and you’ve got a great value prop for your customer base and your market, you do want to think about maybe 12 months, 18 months from now, “What’s that next thing that I could layer into the market?” Not just for expansion in your base, but upsell as well, and more of a new platform, value prop you could take to the market. Byron gave a great example with Toast, one of my favorite portfolio companies. They started in the point of sale market, and then as the company scaled, they rolled out new value props and modules for payroll, or Toast capital, or ways to manage your employee base.
+
+With Twilio, for example, they expanded into email. You can also find your second act inorganically via acquisition as Twilio did with SendGrid. Then in HashiCorp’s case, one of the most exciting cloud infrastructure software companies that we found, they’ve expanded their second act with Terraform in the provisioning space, and then Consul in the networking space. 
+
+Law number three, this is huge, particularly in COVID, so we’re going to talk about this a little bit differently. Everyone is trying to figure out the go-to-market learning curve. Now, what we haven’t really seen over a lot of time, and we kind of predicted, was everyone in Salesforce is basically working from home. If you’re a founder today and you’re trying to scale your go-to-market org, in the early days, you’re in what we call the initiation phase. This is really founder-led sales. You’re wearing multiple hats, you’re probably the head of sales, head of content marketing, also head of inside sales.
+
+But what you really want to do is as you’re finding your first sales leaders to bring into the org, we typically call them Renaissance Salespeople. They have this unique ability to evangelize your product in the market, learn from your early customers what they like, what they don’t like, bring that feedback loop into product, into marketing, and really start to make that flywheel work. You really don’t want to think about bringing in new salespeople until you’re seeing that first round of product market fit, and then you’re ready to go into the transition phase. This is when you’re actually building out your org. You might be thinking about BDR, some ISR, some field sales reps, and you as a founder can take off one of your hats and maybe move into more strategic sales with your biggest and most valued customers.
+
+Here, what you really want to think about is testing out two or three reps, seeing how they work, see if their quotas are about right. Are they hitting their numbers? Are customers happy with what they’re seeing? You don’t really want to scale beyond that first batch of reps. A general rule of thumb is about two to three times their fully loaded cost before you start rolling them in. Again, this is supposed to be our COVID considerations version of this report, and everyone is an inside sales rep today. The one thing that we like to talk about is CAC payback. That’s really analyzing a period back, how much does it cost to acquire a customer? That’s your CAC. If you divide that by the gross margin, how many customers you get into Period Four, you can start to figure out against your churn, how many months, gross margin effected, does it take for you to turn that newly acquired customer into a profitable customer?
+
+Why does that matter even more in COVID? Well, there’s just more uncertainty. We don’t really know how long it’s going to be before people are back in the field, flying on planes regularly where you can touch and feel your customers. Your churn might be a little more volatile in this period, so actually tracking your CAC, calculating it, gross margin affecting it, and figuring out what your CAC payback is on a monthly basis is even more important.
+
+After you figure out how your go-to-market org is going to scale, potentially, you see success, you’re adding field sales reps, you might be going more geo-focused, more industry vertical-focused. Now, you’re in the execution phase. This for us means typically, you’re finding some sales folks that may or may not be a little more coin-operated, so less of that renaissance rep that’s really evangelizing. They’re are always going to be great shepherds and voice and face of your company, but these folks, you want to give them a territory, a good list of customers, maybe they even have their own book of business, and you let them go. Then the one thing that you always want to think about is nail it before you scale it. Make sure in the initiation phase you feel comfortable with the results before you move into the transition phase, and that’s the same thing with the execution phase.
+
+Then my favorite personal law, number nine, tone starts at the top. What’s really interesting about this, we talked about it, and we updated the report before COVID, and oftentimes, people say things like culture, and values, and how we track that stuff internally. How important is it? Well, I’ll tell you one thing, portfolio companies of ours and founder friends of mine, who now have their entire employee base working remotely or from home, now, this really matters. You as a founder have to set the tone, and you can’t do it in a weekly stand up, or an all hands meeting in person. You got to do it remote. 
+
+We have this framework that we typically talk to our portfolio company founders about. It starts with defining your culture and values early, really understanding and letting your early employees understand, “Why do we work here? What are we really trying to accomplish?” It also allows your early employees to find that values fit with you, your philosophy and where your company is going.
+
+Number two, we really want companies to report and track these metrics early. If you can’t measure it, you can’t really change it. You’re just putting your finger in the air and doing a gut check. Then number three, 360 feedbacks. Our advice is you can’t really do these too early. It’s how we all get better, and as a investor and board member, one of my favorite things is doing 360 feedback for the founder or CEO, talking to the board members, talking to their direct reports, and giving a unique set of feedback to that founder.
+
+Beyond that, there’s some great software, cloud software options you can use. Both Glint and Culture Amp are great solutions that many of our companies use. Then just a personal note, we’re living through a really interesting time here in our country and in tech. Statistically, I don’t look like your average venture capitalist, but I really do care about diversity and inclusion. It’s not just something good to do. It’s actually a great business strategy and competitive advantage. This is just a little bit of a shout out to one of my favorite companies. It just so happens they’re a Bessemer company, but that doesn’t matter. Edith at LaunchDarkly, they put their culture and values very publicly on their website, very prominently. They’ve got some incredible initiatives, particularly in the engineering and coding org about how to make diversity and inclusion a strategic advantage for them.
+
+**Byron Deeter:**
+
+Very well said, and we look forward to hopefully seeing you all in person at the next SaaStr Annual next year. Until then, stay well, stay sane, and stay cloudy. 
+
+\*\*\*\*\*
+
+**Transcript of Episode 374:**
+
+**Henry Schuck:**
+
+Every company big and small is realizing that high quality data is a necessity to go to market. My name’s Henry Schuck, I’m the CEO of ZoomInfo and DiscoverOrg. There’s no platform out there that’s brought together the breadth, the depth, and the accuracy of business information the way that we have. Business information is constantly changing. What we’ve built is this core AI machine learning engine that takes literally millions and millions of unique sources so that we can deliver 95% accuracy to our clients. We have data scientists who are embedded into our go to market motion. We’re looking at every single metric and figuring out, how to convert that a little bit better, a little bit better, a little bit better?
+
+**Henry Schuck:**
+
+I really want to build a business that in every single department, whether it’s sales, or marketing, or product development, I want every single piece of that business to be literally best in class. I think the culture of continuous improvement at our company is a big part of our success. We’re just going to grind this thing out. We’re going to work harder. We’re going to care more. You have to be paranoid when it’s good because I want to make sure that it’s repeatable. I want to make sure that if there’s something that we did last week that made it the best week ever, that we keep on doing it. Whose idea was it to IPO in the middle of a pandemic, anyways? It’s not a celebration. It’s really just a launching point for the next thing.
+
+**Jason Lemkin:**
+
+All right. Sometimes on these digital things, the crowd can be a little quiet. But let’s all give it up for Henry Schuck from ZoomInfo. It’s great to have him here. And Henry, thank you so much for making the time and joining us.
+
+**Henry Schuck:**
+
+Absolutely. We can just sit here and watch that movie on loop if you’d like.
+
+**Jason Lemkin:**
+
+It was pretty good. I did notice you’re a little fitter now than you were for a brief moment in that journey. I hadn’t noticed that before. Is that fair to say?
+
+**Henry Schuck:**
+
+I’m more fit now, or during the journey?
+
+**Jason Lemkin:**
+
+Now, now.
+
+**Henry Schuck:**
+
+Maybe. It might just be the camera angle.
+
+**Jason Lemkin:**
+
+Might just be the camera angle, yeah. It’s funny, I’ve learned over the years, it’s subtle, but if you see a CEO, a founder that you know and you see them get fitter, it’s a good sign. Invest, do whatever you can when they go because it’s a tell when they start looking good.
+
+**Henry Schuck:**
+
+I had somebody tell me once, “Sometimes I feel guilty if I take time away from work to work out.” And I had somebody tell me, they said, “Henry, you’ve told me that when you work out, you’re more productive at work. You’re a better version of yourself at work. And so why are you not just thinking about that as an investment into your productivity at work?” He was like, “Yeah, I could get behind that.”
+
+**Jason Lemkin:**
+
+It’s true. So this is a special session. First of all, we will try to do some Q and A, so click on Q and A at the bottom if you’re watching this on Zoom rather than on social media. Click in there, we’ll try to get to some of these questions. And this will be a fun session for two reasons. First, I think as a case study, ZoomInfo’s a super interesting company. We’ve obviously all used the product. And I think, but when it IPOed I was shocked at the scale of the company. Right? I didn’t know. There’s a lot of vendors. I knew it had broken out, so we were shocked. And Henry will share some stories as we wend through this of how folks maybe underestimated him on the journey, and what it took for him to build a decacorn. And it’s so interesting to see one of these products that we know and are like, “Oh, my God. The scale of the product,” and why. Why did ZoomInfo break out? And it is a competitive space. And how does this really work? So I think it’s super fun.
+
+**Jason Lemkin:**
+
+And Henry pointed out the company did not raise 11 $100 million rounds from Sequoia and Andreessen, and had its own sort of path through private equity and other things. And in some ways as a company, not a product, might’ve floated under the radar a little bit until it kind of exploded this year. So a lot of interesting things. Henry asked what he could talk about at SaaStr, and he did us a gift, which we’re going to go through, is he laid out his top 10 mistakes getting to the first $400 million or so in revenue. So I’m going to ask him about these 10 mistakes. And what’s great is so many of these are themes that we’ve all talked about in our community in SaaStr for years. And I think it’s special to get his time to sit down quietly and write them.
+
+**Jason Lemkin:**
+
+And it’s so interesting when a CEO or founder does this because you can hear their brain and their heart. The number one mistake probably was the number one piece of scar tissue you have. And then you can just peer into their brain. So with that, let me kick this one off because this could mean so many things. But mistake number one, being risk averse in investment outside of sales. A lot of founders might have the opposite experience. But what does this mean? Where did you hold back too much?
+
+**Henry Schuck:**
+
+Yeah. And I think you could probably replace sales with your area of expertise if you’re a founder or a CEO. And so I felt really tied into sales. I understood how it worked. I did all of the sales for the first … Not all the sales, but I was on the frontline doing the sales for the first five years of the company’s existence. I had regular quota carrying sales rep on top of everything else. And so every time it came to spend the next dollar, I was much more likely to spend it in sales than really anywhere else in the business.
+
+**Henry Schuck:**
+
+And when I was thinking about this mistake, I was thinking about: Why was it that I wanted to put all the dollars into sales, and I was much less likely to put it in marketing, or HR, or customer success? And really, I think sales was easy for us because you could see a direct line to rep. You put a dollar in sales, you saw it turn into money. And everywhere else in the business, that line was less clear, so you could put it in marketing. And do you trust the reports you’re getting about attribution and where the leads are coming in? You could put it in HR, but do you really believe that they’re going to strategically grow your talent?
+
+**Henry Schuck:**
+
+And when you think about not making the investments in all of those other areas, what you’re really telling yourself is either you don’t trust the people in the department, and so you’re going, “I’m not going to give that money to marketing because I just don’t really trust that they’re going to be able to execute with those dollars.” So go fix that, don’t not make the investment in marketing because you don’t trust the execution of the team or the leader. If you’re not going to make the investment in product, you have to ask yourself, “Why would I not be making that investment in product?” And it’s probably because either you’re chasing the wrong things, you don’t trust the product leader, or you don’t think your customers are going to engage with that side of the product.
+
+**Henry Schuck:**
+
+And so I think on this one, we always wanted immediate payoff, and so we never looked to, for the early portion of the business didn’t really look to making investments that had long-term payoff. And a lot of that is because we didn’t trust, or I didn’t, trust the leaders in those organizations to deliver me the results that I trust the leaders in sales to deliver. And so the learning here is if you don’t trust a team, and you’re not making an investment in that team because you don’t trust them, you have to fix the underlying issue there because these investments go a long way.
+
+**Jason Lemkin:**
+
+Well, that’s an interesting point. You took it a slightly different place than I was expecting. I thought you were going to say, “I trusted sales, so I just put, with limited capital, I put it where I knew.” But you’re really saying, “I didn’t know these other areas, and I’m not sure about the leaders I hired.” Did you hire the wrong first generation management team because you hadn’t done those functional areas before? Or why were you not able to trust them? Did you just make the classic mis-hires?
+
+**Henry Schuck:**
+
+I think I made the classic mis-hires. And then after I made the classic mis-hires, if I took marketing for example, after I made a classic mis-hire there, what I convinced myself of was what I was getting from them was better than what I would do myself in the limited time that I would’ve focused on marketing across all of the other things I was focusing on, instead of: Am I getting in just a vacuum what I would expect from a fantastic marketing organization? And I wasn’t ever getting that in the early days. What I was getting instead was something better than what I was able to do on my own. And it was just the wrong lens to look at it through.
+
+**Jason Lemkin:**
+
+And what was the first VP you hired outside of sales that was your ah-ha moment that changed the game, that moved the needle? How were you able to change this? What was that game changing VP?
+
+**Henry Schuck:**
+
+Yeah. I hired a great sales leader, revenue ops, and now he’s our chief revenue officer. And what you saw when he came in, now you’ve written about this too, Jason, is the minute he came in, we thought we were really good. And he was immediately making impact all over like, “Why aren’t we doing this? Let’s do this,” and not just like, a lot of leaders can come in and just poo poo on everything. I can’t believe you guys are doing it this way. And oh, it’s an embarrassment that we’re doing it this way. The great leaders go, “Hey, we’re missing this opportunity.” Then they execute against that opportunity and give you results against it. And they’re able to do that over and over and over at scale.
+
+**Henry Schuck:**
+
+And so when we hired this revenue operations leader, all of a sudden, you could see everything he put his hands on turned to gold. And you were like, “Okay. Leadership can really turn around really any area of the company.”
+
+**Jason Lemkin:**
+
+Yeah. One other one on this. I want to get mistake number two first. But when you focused on sales because of this, looking back, obviously it’s ended up being an amazing journey. But did you end up with certain types of product feature gaps and technical debt because it wasn’t an area you were focused on? Did you miss some investments in the product in those first couple years because of this?
+
+**Henry Schuck:**
+
+Yeah, totally. We missed investments in the product along the way. We missed investments in building a great engineering team early on. And then I think maybe more so than anything, we missed investments on the account management and customer success side. We were so focused on the sales side that we didn’t invest the same sort of vigor around talent and training and onboarding, and just getting the right people and continuously giving them feedback in the account management side. And so in the early years of the company, we really struggled from a net retention and logo churn perspective.
+
+**Henry Schuck:**
+
+And that was another area where when we hired somebody good and you saw their numbers turn, yeah, it’s just magic. And you actually kind of convince yourself at some point, my business is different. My business is different. I have SMBs. My business is different, data and software together are just more complicated and less sticky than other things. You just convince yourself of all of these. You have this very special thing, so it can’t be best in class. And that’s just not true. You just don’t have the right leadership or structure to get there often.
+
+**Jason Lemkin:**
+
+That’s really good insight. You hear that a lot from data focused companies that high churn is okay. Right? You hear from a lot of HR focused companies that NPS is going to be low because employees hate using those tools. Right? They hate doing self assessment. They hate it. And that is true, probably true historically if you went into G2 and looked. But you shouldn’t settle for that, should you? \[crosstalk 00:12:32\] settle for that.
+
+Henry Schuck:
+
+And if you use Webex users and Citrix users how they felt about their conferencing solution, early on, they might tell you, “Oh, I hate conferencing.” And I think what you saw Zoom Communications do was make that an enjoyable experience, and that was a big differentiator. You didn’t have to settle for low NPS scores in video conferencing. You could be a lot better.
+
+**Jason Lemkin:**
+
+Yeah. It’s a super good insight. And I want to hit the next, number two, but especially in data, so many folks make so many excuses. Right? It’s ephemeral. It’s a marketing tool. Of course, it’s going to churn. If the asset doesn’t perform, if the data’s not great, I’ll just leave and try another one. This isn’t like Salesforce. It’s not sticky. But your lesson here I think is a profound challenge to founders, which is, don’t settle, it’s not okay. You can have 30, 40, 50, 60 NPS in any field. Right?
+
+**Henry Schuck:**
+
+Absolutely.
+
+**Jason Lemkin:**
+
+Not just … Okay. This one is niche, but it’s interesting, not doing mergers and acquisitions sooner. I don’t know that every founder would put this as a mistake number two. But it’s interesting because you put it second here.
+
+**Henry Schuck:**
+
+Yeah. So maybe I’ll give a little bit of a lineage. I bootstrapped the company with my co-founder in 2007. We put $25,000 on our credit cards and went to market. We built a really profitable business that had high margins. And we didn’t bring in our first outside capital until for seven years later, the business was already at a $25 million ARR run rate. And we’re doing that profitably. And when you have a profitable business, you have the opportunity to do M&A, and actually do that M&A with … We did M&A with debt. And so if you’ve built this growing, profitable business, and you’re able to loan against your balance sheet to go out and acquire competitors in your space, or other technology tuck ins in your space along the way, that is absolutely, in my opinion, a play you should run.
+
+**Henry Schuck:**
+
+And we were always kind of late to this. For every, our big acquisitions that we did along the way were a company called BrainKing in 2007, 2017, and ZoomInfo, which I founded the business as a company called DiscoverOrg. You changed the name to ZoomInfo after that acquisition. We made that ZoomInfo acquisition in 2019. And both of them, we had looks at those businesses a year or a year and a half before. And if we had done the acquisitions earlier, we would’ve saved I think $700 million in acquisition M&A costs. Now it’s hard to go, “Oh, what a mistake that was.” It’s a mistake in that the cost in capital was higher. Things ended up working great.
+
+**Henry Schuck:**
+
+But part of the reason why we didn’t do that is, and I think probably a lot of founders feel this way, is when you’re looking at your business that you’ve grown up inside of, you start to feel like you’re just like a kid pretending in an adult world. People who do M&A don’t feel like 30 year olds who started their companies, and we just didn’t have the confidence that we could pull something like that off. And we’re were always a year behind getting the confidence to be able to actually do M&A successfully. And it just costs us money along the way.
+
+**Jason Lemkin:**
+
+Yeah. The first point’s interesting because we’re all kind of … There’s been a bunch of talks already at this event. We’re all a little bit woke to the power of debt in SaaS if you do it right. Right?
+
+**Henry Schuck:**
+
+Yep.
+
+**Jason Lemkin:**
+
+It has to be for leverage. It can’t be in lieu of equity on its own because then you’ll spend it and you’ll get into trouble on the service. But if you’re at $25 million in ARR, and it’s predictable. And how much did you borrow to do the first acquisition?
+
+**Henry Schuck:**
+
+$200 million.
+
+**Jason Lemkin:**
+
+Okay. Well, you did take advantage of the growth in multiples that we’ve had over the last few years. Right?
+
+**Henry Schuck:**
+
+Yes, I did take advantage of the growth in multiples. And we protected equity.
+
+**Jason Lemkin:**
+
+You protected equity. But you were able to somewhat confidently say, “Hey, I can service that debt.” Right? Given the repeatable cash flows, right?
+
+**Henry Schuck:**
+
+Yeah.
+
+**Jason Lemkin:**
+
+And that’s something that whether it’s just to take a little bit of debt to hire that extra VP of product that you wish you’d hired back in the day, or whether it’s to do something. We should all, if we have strong metrics, strong revenue retention, we should be confident to do this. It’s sort of what you’re saying. Be confident. Be confident and do it a year early because you were going to get there. Right? You saw it already in the numbers at $25 million ARR. You were going to get to 100. The odds of going from 25 to 100 approached 100% at that point. Right? It’s just the resolution was unclear. Right?
+
+**Henry Schuck:**
+
+Yeah. And if you were confident about from an M&A perspective, if you’re confident that you could put two businesses together, get synergies out of it, grow them faster, and make them more efficient in the process, you have even a bigger pot of sort of cashflow to service the debt.
+
+**Jason Lemkin:**
+
+And did you … It’s niche because I want to hit the next one, but it is interesting. Did you feel like you had to get a discount, like they had to have a lower multiple than you as you build up your confidence for M&A? Is it hard to pay up versus having to pay down?
+
+**Henry Schuck:**
+
+I did feel that way. I don’t mind having some room to make mistakes on execution along the way. And so you do look for … Today, you get some companies who will tell me, “Well, Henry, you’re trading at this multiple, so why shouldn’t we get that multiple?” It’s like, well-
+
+**Jason Lemkin:**
+
+We should get higher. We should get higher. We’re growing even faster.
+
+**Henry Schuck:**
+
+\[crosstalk 00:18:11\] get a higher multiple because we’re more strategic. And the truth is there’s a lot of execution risk when you do M&A. And you have to be organized and focused. And so leaving you some room to slip somewhere is a useful thing to have.
+
+**Jason Lemkin:**
+
+Yeah. It’s a good lesson for founders because I mean, from the other side, it’s confusing. Right? ZoomInfo’s great, but whatever you’re trading at, you’re growing, I don’t know what you’re growing that you’re public. But let’s say you’re growing 50%, 40%, doesn’t matter, 60%.
+
+**Henry Schuck:**
+
+We’re growing 40, yes. Almost 40% \[inaudible 00:18:45\].
+
+**Jason Lemkin:**
+
+But Henry, I’m growing 80%. And so I deserve 40 X ARR because I know, I know, I know, but it’s not fair, Henry. Just draw a line, and founders are in this, you just need to be aware of it. Right? You just need to be aware of it. And every situation … I remember back in the day when Salesforce wanted to buy us in the beginning, the biggest acquisition they’d done was $16 million at the time.
+
+**Henry Schuck:**
+
+Wow.
+
+**Jason Lemkin:**
+
+And they’d met with us, and they were like, “We really want to buy you, but 16 would be too much.” Now you look at Tableau and MuleSoft. Right? And then you look at Jeff Lawson at Twillo. He’s like, “I’m not messing around. I’m not buying an itty bitty mail company. I’m buying the best thing, SendGrid, and I don’t care.” Even though the multiple was a little off, he’s going. And it’s a spectrum in companies of all the different rates. You were kind of in the middle, I think. Right?
+
+**Henry Schuck:**
+
+Yeah.
+
+**Jason Lemkin:**
+
+You didn’t want to mess around.
+
+**Henry Schuck:**
+
+I didn’t. I think the way, if I’m thinking in Jeff’s shoes, one of the things that I’m thinking is when I bring this asset in, what am I able to do with it when I put it in the product, when I give it access to my go to market team? How much faster can I grow it? Where are the synergies from that perspective? That was always really important. Actually, that takes us to mistake number three, which is not appreciating go to market as a strategic advantage.
+
+**Jason Lemkin:**
+
+What does this mean?
+
+**Henry Schuck:**
+
+So this means when we were doing, first, when we were doing M&A, when we were growing the business, I never thought of how valuable it was to have an incredibly efficient go to market engine. And we have a go to market engine that drives at 10 XLTV to cap. It does a 30 day, there’s a 30 day average sales cycle. It’s super efficient in generating leads and driving them through the pipeline with automation. And what I didn’t appreciate was when you look at a business, and you’re like, “What are the key assets in that business?” If you’re a founder, or you’re a senior executive at a company, and you’re thinking about your business and going, “What are the strategic advantages to our business? Or are there strategic levers here?” If go to market is just something you don’t even think about as part of that, that’s a major mistake because go to market, how you generate leads and find new customers and upsell and grow your customer base, that is a major, can be a major strategic advantage for your business.
+
+**Henry Schuck:**
+
+And it’s so often that I see companies where you have two companies, their features and product are in parity. And one is just running circles around the other one. And when you see that happening, it’s because one figured out go to market in a more precise, more efficient way. And that gives them an incredible advantage along the way.
+
+**Jason Lemkin:**
+
+Okay. I get that. That’s what I’ve observed. But what do you mean by leveraging that? You’ve got two companies. Right? Both have the same product. Maybe even the slower growing one is better. Sometimes that happens because they’re inwardly focused. But one’s figured out their go to market motion. Right? If that’s you, and that’s what you were, what do you mean? How do you take that to the next level? Why was it a mistake? That’s the piece I’m missing. What’s the investment or the action you didn’t take here when you had that advantage?
+
+**Henry Schuck:**
+
+So along the way when we were looking at acquisitions, especially when we were looking at acquisitions.
+
+**Jason Lemkin:**
+
+Bolted in.
+
+**Henry Schuck:**
+
+When you would look at an acquisition, you would go, “Oh, I have an opportunity to take what is a company that didn’t focus on go to market as in such a focused way as we did, and if I can take this team of 20 sellers, who are doing $10 million a year in ARR, what if I can take that team and make them do $20 million by just bringing in our go to market motion into that?”
+
+**Jason Lemkin:**
+
+Oh, on top, not get rid of them, but actually just add your expertise to their team. Take the same talent without training and tools and people, and just leverage up their revenue per lead, just increase their revenue per lead. Right?
+
+**Henry Schuck:**
+
+Increase their revenue per lead from an M&A perspective. Internally, the way I think about it too is if you can make go to market incredibly efficient, incredibly effective, then that gives you a strategic advantage to be able to take dollars that you would be spending there and spend them in product, and spend them in account management, and spend them in customer success and marketing. The more efficient you make your go to market motion, the more dollars you have to spend across the company. And I never really … I actually, when people would say, “Hey, ZoomInfo is a sales first company.” And I’d be like, “No. No. We’re a product first company. We’re a customer first company.” I hated hearing that. And it took a while to-
+
+**Jason Lemkin:**
+
+I’m with you.
+
+**Henry Schuck:**
+
+To just realizing that’s okay. That’s a strategic advantage of the business. We shouldn’t be embarrassed of it.
+
+**Jason Lemkin:**
+
+There’s something really interesting you said, which I think goes against some typical Twitter advice, which is that if you have an efficient go to market engine, the classic advice from VCs and others is pour gasoline on the fire. If you have an efficient … If you have 50 great reps, hire 500. Right? Go raise $200 million. And you’re saying an insight which is what I believe philosophically, although I don’t know if it works in the real world, which is if you have efficient engine, that means you can free up resources in other areas. It’s a weapon. Right?
+
+**Henry Schuck:**
+
+It’s a weapon.
+
+**Jason Lemkin:**
+
+Because if you’re inefficient, you end up having to spend every nickel in sales and marketing, every, it consumes all your oxygen. So you’re saying if your sales focused, \[inaudible 00:24:23\] good, put the money elsewhere. Don’t give into the fuel in the fire mentality, necessarily.
+
+**Henry Schuck:**
+
+Yeah. And then, by the way, if you’re putting money elsewhere and you’re making those investments in a smart way, that just should drive your ability to continue to invest in a disciplined way inside of your sales organization. So if I take the dollars from that strategic asset and I put it in other places, and then that should drive reinvestment back into the sales team.
+
+**Jason Lemkin:**
+
+That makes sense. So this one, we might’ve hit, and I like the fuel to fire at the end. It’s a good tie to the last thread. We might’ve hit this a little bit in the beginning. But what does this mean, hesitation stopped you going even faster?
+
+**Henry Schuck:**
+
+Yes. So I think that we did kind of hit this the beginning. But I think the way that I think about this was we’ve always been a pretty high margin business. But one of the things that we didn’t do was really think through prescriptively, where should the margin and the business be? And how should we trade? How should we think about growth versus profitability? And what did the market actually prefer here?
+
+**Jason Lemkin:**
+
+Got it.
+
+**Henry Schuck:**
+
+Instead of doing … And the reason why we didn’t do that, I think, is we had hesitation around trusting where that investment would go to change the profile of the business. And so if today, we’re 40% growth and 47% margins, then saying, “Hey, in the future, what does 60% growth and 30% margin look like?” It was tough to have that conversation along the way because we didn’t trust that the dollars invested downstream would turn into that result.
+
+**Jason Lemkin:**
+
+I got it.
+
+**Henry Schuck:**
+
+And so being convicted about making those investments and how it changes the face of the business, and trusting your ability to put the next dollar in marketing, or put the next dollar in sales, to have it grow, I think we got comfortable with who we were and how we were operating the business, and then didn’t take risks on that type of growth.
+
+**Jason Lemkin:**
+
+So whatever your own version of the rule of 40 is, it took you a while to believe it at a gut level that, that would work, that you could retain that. Right?
+
+**Henry Schuck:**
+
+\[crosstalk 00:26:30\] of the rule of 40 is like a rule of 80 today. But yeah, it was hard to-
+
+**Jason Lemkin:**
+
+But it’s true. Whether it’s 80, it’s hard. I didn’t believe that was true. I thought that was a silly-ism, the rule of 40 or 80. But if you have a well oiled machine, it is true for a while at least. Isn’t it?
+
+**Henry Schuck:**
+
+Yeah, absolutely. If you have a well oiled machine, you should be able to continue to invest and continue to grow in those areas. And I think we were just not convicted that the additional dollar would net the same return.
+
+**Jason Lemkin:**
+
+And there’s particularly this moment where on the sales team, you go from, you start, you have to believe that it really is bodies in, bodies out, assuming quality. Right? It’s a tough transition because in the beginning, you’re like, “Linda, Bob and Henry are so good. I just need more of them.” And then your sales leader’s like, “No, I need 40 reps,” and you don’t believe it. You don’t believe that it’s capacity. But you’re doing capacity planning for 2021 right now. Right? You know you need this number of reps.
+
+**Henry Schuck:**
+
+\[crosstalk 00:27:32\] in 2021. I think one of the interesting things here is I think a lot of people say, you hear a lot of people when you ask, “Why is your company successful?” They say, “Well, it’s because of the people.” And early in the early days of ZoomInfo, I got really frustrated with that answer. So I’d be on a webinar like this, and the CEO would say, “Hey, we’re really successful because of the people.” And I’d be like, “Come on. You’re really successful because of the product.” It’s got to be the-
+
+**Jason Lemkin:**
+
+It sounds like a platitude. Right? You didn’t believe it.
+
+**Henry Schuck:**
+
+Sounds like a platitude, totally. But then I found myself often, to that point, saying, “Man, if I had 10 of this guy, or 20 of that guy, or 30 of this woman, how much faster could I grow the business?” And that’s really just saying growth of your business comes down to the people. If you can look in your business, and I know everybody on this call can, and say, “If I had 10 more of him or 10 more of her, this business would grow exponentially faster,” then you really do believe that talent drives your business growth. And that’s an easy way to get to the core of what drives it, is to go, “If I clone this person 10 times, would the business grow faster?” And if the answer to that question is yes, for any number of folks in your organization, then you really do believe talent is the driver to success.
+
+**Jason Lemkin:**
+
+That’s a good insight. If there’s someone I’d say, “If I had 10 of her, I’m 100% confident,” then you’ve got to find a VP to go find that person for you. Right?
+
+**Henry Schuck:**
+
+Yep.
+
+**Jason Lemkin:**
+
+Can’t be you, going to your first point, because you can’t recruit 10 yourself. But go find the VP to do it. 
+
+**Jason Lemkin:**
+
+Henry, this was amazing. This was one of my favorite sessions of all time. These are the same mistakes we all make and keep making. But I think you’ve given us an incredible set of challenges to just make fewer of these mistakes. That’s the trick. Isn’t it?
+
+**Henry Schuck:**
+
+Yes.
+
+**Jason Lemkin:**
+
+Just make a couple fewer, and then watch how much faster you grow.
+
+**Henry Schuck:**
+
+That’s right.
+
+**Jason Lemkin:**
+
+All right. So this was a 10. I’m sure everyone is quietly applauding in cyberspace during this global pandemic. But I’m deeply appreciative for the time, as we all are, so thank you so much.
+
+**Henry Schuck:**
+
+Thank you, Jason. Thank you, everybody.

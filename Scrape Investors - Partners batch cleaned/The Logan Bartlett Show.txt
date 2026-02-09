@@ -1,0 +1,823 @@
+# The Logan Bartlett Show
+
+**Logan:** All right, Jack. Thanks for doing this.
+
+**Jack:** Thanks  for having me.
+
+**Logan:** So you're now doing venture capital and you launched a podcast. Is that right, what the fuck?
+
+**Jack:** I don’t know, it’s too much.
+
+**Logan:** This is false pretenses that you were,
+
+**Jack:** Well, that's Eric. Eric made the podcast easy. 
+
+**Logan:** all right. So I want to talk about founding and we, maybe we can talk about podcasts at some point, but you once said, uh, it's tempting for founders to want to innovate on things beyond product. And that is a mistake. I've seen that in my experience as well, but why, why do you think it's tempting to try to innovate in those things? And why is it, why is it a mistake?
+
+**Jack:** Well, there are definitely cases where founders have innovated on. Recruiting or a crazy different way to do marketing or sales or things like that. I just think like 49 times out of 50 or something like that, the most important innovation that any company needs to do is a better product and changing everything else is so hard.
+
+**Jack:** And usually unnecessary, and it's not like there's like one option for how to do these things. It's like if you have a certain type of product, it's not always do \[00:02:00\] marketing the same way. It's choose from, okay, we should be like a PLG self serve type of thing. We should do really enterprise like, you know, analyst driven marketing.
+
+**Jack:** But I generally think that everything outside of product innovation is usually a fool's errand. And Let's take like, you know, software as a category example. Most software companies, the structure of them is so similar that the way to do go to market is going to look like one of maybe five blueprints.
+
+**Jack:** And so trying to create a sixth is usually just not worth the time and effort relative to just making your product better.
+
+**Logan:** And there's some roles that you've classified as upside creation versus downside protection, which I think is kind of a related concept. Can you explain that?
+
+**Jack:** Yeah, I think this is a Keith Rabois ism that I saw at some point that really stuck with me.
+
+**Jack:** That there are some roles where what you're looking for is people who are going to Basically just create infinite upside. The more of whatever they do, the better. And so that would be something like, uh, like a product person, for example. You just want the product to be as good as possible. They're generating \[00:03:00\] alpha upside for the company.
+
+**Jack:** And then there's roles maybe on the other side, like, let's say, like a general counsel, a CFO, although it flexes in both ways in some cases, where really what you're trying to do is mitigate stuff going wrong. And it's not that one's more important than the other. Uh, obviously you, you really, you can't have the company without the upside creation, but they're just different mindsets.
+
+**Jack:** The way you call them is different. The way that they operate is different types of experience and background you want is going to be different. I think it actually relates in a big way to like hiring, for example, like what you're looking for when you're hiring execs of one sort or the other, I think really changes.
+
+**Logan:** You spend a lot of time thinking about like org structure and performance management and culture. What are the different breakpoints of org design at from an employee size standpoint?
+
+**Jack:** I think what I've mostly settled on over time, there's a lot of ways to describe it. People talk about number of employees or your first exec or a certain ARR threshold. I kind of think on some level, what it really comes down to is. It's layers of management, and I think it basically there's the \[00:04:00\] moment when you hire your first management.
+
+**Jack:** So, you know, you're 10 people and you finally can't manage everybody directly. You hire managers and then you're 40 people and it doesn't scale again because each manager has five reports or seven reports or whatever. And now you hire first execs. And each time you do that, the way that communications.
+
+**Jack:** works is different. The level of jobs you have changes what you as a CEO, like the information you have access to is different. The way that you need to learn about what's happening in the company changes. So to me, I think the biggest differential, like the biggest defining moments are new layers,
+
+**Logan:** there's this, uh, Concept I think came from you where the, the numerator is the number of new employees in an org and the denominator is the number of total employees in the org. And that there's this natural rate of absorption that a company can take without their culture breaking without things getting totally upside down.
+
+**Logan:** Every company is gonna be a little different. But how do you think about that?
+
+**Jack:** the growth rate you can tolerate basically of employees?
+
+**Logan:** \[00:05:00\] Yeah like, is there a natural absorption rate of the number of people that you can bring in? Um, without breaking your culture.
+
+**Jack:** There definitely is the way I think about it is less that the culture. Maybe not breaks, but it comes at some cost and there's probably some like ideal speeds like growing headcount Not at all or shrinking headcount. That also is like hard on cultures growing Ridiculously fast is really hard on cultures because everyone's new I mean like sometimes a company will like quadruple in a year You'll see something like that and went from a hundred to four hundred in a year.
+
+**Jack:** I mean 75 percent of the company At the end of that year has been there for less than 12 months.
+
+**Logan:** in fact, you're an attrition and it's actually even more than that.
+
+**Jack:** Yeah, exactly. Or, you know, you ask how many have been, how many people have been here for less than six months are like still onboarding. And so what that ends up doing is like who's onboarding them?
+
+**Jack:** Existing employees. So like. What works getting done, whatever the old employees have time left for, you know, the recruiting is going nuts. The managers spending all their time on helping people get started and recruiting more \[00:06:00\] people, their trust just takes time to build between people. Unfortunately, like you can't just walk in and know everybody.
+
+**Jack:** People are trying to navigate the org, but it's changing constantly. And so that's what you're. You know, contending against on the upper bound and then on the lower bound of not growing, you run into things like there aren't new departments being created. There aren't promotion paths available. Like people don't have newness.
+
+**Jack:** People don't get to like, you know, if somebody had been working in product marketing and maybe wanted to try product management, those changes just become harder. So there's some happy middle, I think, just optimizing on culture. All that said, there's like definitely moments when a company is just Winning so hard that it's worth it to spend down the culture battery to capture the market opportunity And then on the non growth side, there's moments when you just you have to do that So it's all trade offs, but those are kind of the boundaries I think about,
+
+**Logan:** How does culture get created within a company?
+
+**Jack:** you know I don't want to sort of like lionize founders, but it definitely starts there and in \[00:07:00\] general, I think the the cascade ends up being more about actions than about what you say But I do believe that culture generally starts from the top, uh, and works its way through.
+
+**Logan:** When should it get codified?
+
+**Jack:** I'm not a big fan of when founders codify it formally early. I think, like, uh, it becomes a little bit, in the very, very early days, I think it's a little bit performative. I put it a little bit in the realm of startup house, like playing startup house. Which, you know, in the very earliest days, before, like, real product market fit.
+
+**Jack:** I think that the focus on getting product market fit has to be so extreme that even things like codifying the culture don't make the cut. I think the only things that should make the cut are talking to customers, building product, building the team, and anything that's not one of those three doesn't deserve to be on the list.
+
+**Jack:** Shouldn't be like spending a lot of time worrying about press. Fundraising you have to, but like, don't get caught up in like being obsessed with \[00:08:00\] fundraising. I think things like how to find the culture and spending your time doing revs on docs about these are our values. When you have eight people and you're still figuring out what your products can do in the world.
+
+**Jack:** I think it's better to just be authentic. You'll end up hiring the people who are authentic around you. And then when you're at a certain size and maybe a few dozen employees. Do a combination of describing what you see that you like and sort of mixing that with what you aspire to be. But I think doing it too early isn't great.
+
+**Logan:** No reason to memorize high output management by Andy Grove if you're not going to be managing anyone.
+
+**Jack:** What I would go back to is just the ruthlessness of, it's not on the list of three. And Hyopo Management's a great book. Every manager should read it. But just clinically, I think if it's not one of those three, just don't do it.
+
+**Logan:** And getting product market fit and having people actually buy your product is probably number one, by far.
+
+**Jack:** Yeah. There's just no company without it. This is something that I think for like employees who haven't ever worked at a company pre product market fit, and you take it as a premise \[00:09:00\] that there's a product that people are buying from you on some regular cadence. It's just this moment that is so hard to come by.
+
+**Jack:** It requires everything without it. You just never have a company.
+
+**Logan:** such thing as a perfect culture. What do you mean by that?
+
+**Jack:** The way I think about the best culture is in relation to the company. And so the, the best thing you can hope for is that culture is. It's in harmony with your product, your market, your storytelling. Like Apple's a great example for me of where the culture, the product, the marketing, it's all like facets of the same crystal where what they do is.
+
+**Jack:** These, a small number of these really high quality products, they're private about it. They have these big launches that are highly anticipated and the culture matches it. You know, like you talk to people who've worked at Apple. It's a culture of, you know, precision, excellence, doing few things right. High degrees of focus, secrecy, even within the company.
+
+**Jack:** And it all makes sense, which \[00:10:00\] is a different culture than what you'd hear at Google, which is going to be much more. Open and sort of free form, and they have the 80 20 policy, but that matches their products. And so I think the key is that the culture matches, uh, the rest of the company.
+
+**Logan:** Hi, this is Logan Bartlett, the host of the podcast here. This is not an ad. As you may know, we do not advertise or monetize the podcast in any way. I just wanted to jump in and say that we have a bunch of killer guests coming on over the course of the next couple of weeks. And so if you're enjoying this show and hearing behind the scenes from world class entrepreneurs and investors, please do subscribe to our channel so that you don't miss out.
+
+**Logan:** Now back to the episode. Is a company more of a sports team or a family?
+
+**Jack:** What a lot of companies end up doing, just sort of, this is now descriptive, uh, instead of saying what it should be, but a lot of companies start as a family and become a sports team. And I think that is a, a natural and healthy evolution that I've seen a lot of companies go through. My hunch is that a lot of second time founders or older founders probably started as a sports team from day one.
+
+**Jack:** Um, I think \[00:11:00\] both can work. I think it needs to become a sports team, though, at some point. I think which one you start as is probably up for debate.
+
+**Logan:** And being a sports team, becoming a sports team in your vernacular means?
+
+**Jack:** Well, when you're a family, the, uh, the loyalties go much deeper than what happened, you know, based on your performance on the field. When you're a sports team, it's the best person for the role at the right time, and when it's time for a different person, You know, you shake hands like professionals and you both go your own different ways.
+
+**Jack:** Um, I think a sports team is about like demanding excellence. A family is about accepting who you have and sort of like going forward as best you can as a team. I think the, the way you treat each other sort of socially and interpersonally is different in those contexts. Um, so to me, a lot of it is. It's not that one's better or worse.
+
+**Jack:** I actually, I really, you know, I think that the instinct is to say that it's always better to be a sports team, which I think is true past a certain stage. But I, maybe I would say by the moment you're defining your values, 30, 40 employees. \[00:12:00\] Be a sports team by then. What, you want to be in the first 10? I think that's founder preference.
+
+**Jack:** I think both work.
+
+**Logan:** You said that you didn't want to be a company where people worked 100 hour weeks, stayed there till 11 p. m. Why is that the case?
+
+**Jack:** Well, I don't want to do that. Um, I did that my first job out of college. Uh, literally, like we would, like I was in investment banking for a year. We logged our hours. We did 110 hours, actually. And I know what that's like. And it's really unpleasant. I also just don't think it's necessary. And I don't think it's, I don't even think it's optimal and like take 110 off the table, but take like 80, which probably is like a number that a lot of people work at companies.
+
+**Jack:** I'm not sure that you're making your best decisions the Friday morning of an 80 hour work week when you're, you know, sleeping five hours at night and you've just been in a complete grind and you've been stressed in conversations and all the rest of it. Like, how long do you want to do that? Do you want to do that for two years?
+
+**Jack:** Do you want to be at that company for five years? I think hard work really matters. I like working hard. Uh, and I think like, I'm, \[00:13:00\] I want to be around other people who want to work hard too. Um, but I don't think that burning yourself to the brink, I don't think that's something to aspire to either for the quality of what the work is going to look like, or like, just like the sort of life design you want to have.
+
+**Jack:** Um, so I've never found it to be necessary. And I think that it comes with this advantage, which generally speaking, when there's. Balance and I want to be clear that balance to me is not the I'm checked out balance is still like whoa It's Friday afternoon. I'm tired. Like that was a hard. That was a good hard week of work But I think that balance lets people stay with a company longer.
+
+**Jack:** I think there's a lot of value that is underappreciated to having A much longer average tenure, like, you know, in tech, the average tenure is like two years or something like that, but you're like getting warmed up for your first six months. You're still like coming up the curve by 18 months. And in my experience, it's really years like three and four where people just crush.
+
+**Jack:** Sometimes people crush into years five and six, although I do also think there's like an end to that \[00:14:00\] curve. But like, there's these like sweet spot pocket years around years, probably three, four, five, I would say. And so keeping people around to be there and having people be in like a long term marathon with the company, it's worth a lot.
+
+**Jack:** And it's like hard to put numbers on it. But I just like I feel that
+
+**Logan:** Besides using Lattice, what should people know about performance management?
+
+**Jack:** just using Lattice isn't enough.
+
+**Logan:** I mean, maybe it is, I don't know. Yeah.
+
+**Jack:** Um, maybe a couple of the things that I think have been most poignant for me just specifically on performance management. One is. People rise to the expectations you hold for them, and if you, in your own head, believe that people are going to be low performing, needing to be coddled, if they aren't going to be able to manage complex situations, if you save them every time, there's going to be, like, a tricky situation.
+
+**Jack:** People will match that. If you tell people directly, and you tell people in third party ways, in a way that you even know that person's going to hear, I say, Oh. Alex is going to \[00:15:00\] crush that. Alex knows what, what he's doing. Oh, I trust Alex. Like there's no one who's going to do it better. People rise to match that.
+
+**Jack:** And so to me, part of. Performance management is setting people up in a way that they're like, Oh, wow, the, my manager, the founder, like believes in me in a big way, like, hell yeah, I'm going to go do that. And I, I've just found over and over the best starting point beyond high output management book and all the myth, you know, methodology of a good one on one and whatever else it's like, what are you going to choose to expect from people and believe about them and people are just going to, they're just going to gravitate towards that.
+
+**Jack:** Whether it's high or low. So that's one. Um, the other big one is, and this just comes through experience. The clearer you are with people, the earlier you are with people, the less dramatic it is. And we just all have to learn this lesson because we don't want to have a hard conversation. We don't want to like, challenge somebody.
+
+**Jack:** We don't want to do all the stuff that's just like, ugh, I've got to like, \[00:16:00\] spend emotional energy. And the longer you do it, the more you just realize the minute you think something, say it. And make it as undramatic and clear and direct as possible. And even if it's hard, even if you're, what you're telling somebody is, Hey, I've noticed these things.
+
+**Jack:** I hope this can work out. It might not, but like, let's like try, but like, this is serious. You say that early, that is like a 10 times easier conversation than surprising somebody months later who like thought everything was fine. So just the directness. But the first point is the one I think I would say is more, more, uh, a more unique belief for me.
+
+**Logan:** What have you learned about employee retention? That's not obvious.
+
+**Jack:** The thing that I've most experienced that makes employees want to stay starts, it's going to be unique to everybody, but it starts with you as their manager. Understanding what they actually care about. Um, this is one, I mean, there's, there's value to having a close relationship with your team just because it makes it more fun.
+
+**Jack:** It makes transacting easier. \[00:17:00\] But one of the purposes of knowing your team for real is understanding their true motivators and. That could be a lot of things. Some of them are pretty, some of them are ugly. Sometimes people's motivators, they want to have impact. They want to help people around them. They love seeing people grow.
+
+**Jack:** Sometimes they have, like, less pure motivators. They want to make a bunch of money. They want to impress their parent. They want to, like, prove somebody wrong. They just want a big title because they've got an ego on social media. Like, whatever. And it's all, it's all okay. Um, but I think starting from a place of actually understanding what the person cares about and knowing them well enough will then lead any Reasonable person to know what it takes to set them up for success or no.
+
+**Jack:** Geez, this person is not getting the thing that they care most about. This probably won't work in the long term. But I think without sort of understanding your team at that click down level, um, it's, it's really hard.
+
+**Logan:** How much time do you spend on hiring?
+
+**Jack:** easily half.
+
+**Logan:** third. A third. So over a day a week, uh, in totality is spent. A third. \[00:18:00\] When you're making a hire in an executive, how long are you thinking about them in that role?
+
+**Jack:** It depends, but probably like two to three years, I would say the, the more, the longer lattice exists, the longer I'm thinking about them in the role. You know, like when we were small, I would say, God, we just need somebody this year, this quarter.
+
+**Logan:** slope of the line. So steep. It's hard to see beyond.
+
+**Jack:** I think I heard Patrick calls and say this on some podcast or whatever, at some point that basically, uh, you can. Plan in the future like half as long as your company's been around. Sorry if that's a misattribution But I actually really kind of believe that spirit that if your company's two years old Don't think further than when you're out if your company's five years old Don't think further than two and a half years out and it probably decays somewhat like a 40 year old company probably can't think 20 Years out.
+
+**Jack:** Maybe they can I think it's the same thing with kind of everything to do with the company whether it's recruiting or forecasting or your product roadmap \[00:19:00\] It's in relation to the maturity of the company. So as Ladis gets more and more mature, I think I can, you know, safely say, okay, we want to have a, you know, a C level exec who's going to work for hopefully, you know, four years.
+
+**Jack:** Uh, you know, at least two would be great. So, you know, it kind of changes over time.
+
+**Logan:** You won't do searches without bringing in a outside search firm for executives. Why is that the case?
+
+**Jack:** To me, I, uh, and I'll still do tons of my own outreach. I'll still ask my network for tons of intros. Um, To me, the role of each exec is so valuable that even if we spend the exec recruiting fee and we don't use their candidates or we hire somebody different or whatever, it's still just, to me, a no brainer, like the cost of getting it right and the value of getting it right, the cost of getting it wrong compared to the search fee is It's just so different.
+
+**Jack:** So, uh, just looking at the math of it, it's just so easy for me to talk myself into like happily, \[00:20:00\] happily paying it every time.
+
+**Logan:** Upside creation, downside protection.
+
+**Jack:** Another thing, by the way, I believe about, um, exact recruiters is I think a mistake. A lot of founders make exact recruiters outside council. Maybe there's a couple other service providers like that, but those are the big two that come to mind is ideally you find.
+
+**Jack:** a recruiter who becomes like a long term partner of yours. Like the search firm that I work with, uh, for nearly everything at Lattice, I've been working with for like six or seven years now, which is like longer than I've worked with like any, you know, almost anybody. And so there's a, you know, a consistent partner there with a team around them who has, I totally trust them, I think they totally trust me.
+
+**Jack:** They know our whole exec team, they know what I'm like, they know the company, they've seen the whole evolution, they can pitch the story. I think of her as an extended member of the exec team. Um, and I think. A lot of founders, their relationship with exec recruiters, they, they can be so transactional with it that \[00:21:00\] they don't, you know, they're not willing to just like invest in somebody great and like see a long term path there.
+
+**Jack:** And it's been like a huge sort of boost for us to have that
+
+**Logan:** So we don't need to actually cosplay and act this out. But, uh, if I'm a candidate, like what are you trying to accomplish in your first meeting with that person?
+
+**Jack:** first meeting. I'm probably trying to, um, see if we have like chemistry, like, can we have an easy conversation and you kind of just feel that or you don't like you just like. Come away from the hour. Like I could have kept talking or like I'm in the last 20 minutes where a little bit of a drag or the conversation was stilted or that was free flowing or we were interrupting each other and like fun in good ways or like it was like silence and weird.
+
+**Jack:** So I think that's like a huge piece for me. I've, I've found that even if somebody is talented and amazing. It's really hard to work with somebody that you just don't have a good vibe with where you're dreading the one on one where you just like Can't get along easily and naturally where they're not gonna vibe with your team They're gonna have weird relationships \[00:22:00\] with their directs you think because the company kind of ideally is matching, you know I think you hopefully can trust as the founder that whatever your vibe is Will be a decent proxy for what the company's vibe is So I kind of go in and I say well, you know The best barometer I have for will the company like this exec is do I like this exec because, you know, the company and I have some just relation, you know, naturally over time.
+
+**Jack:** So that's probably the first thing in the first meeting that I'm trying to get to. The other thing I really like to do is, uh, get their story of the last two companies. And I really try to get as much detail as I can, like, uh, like what I, what I'm ideally doing is, and it doesn't have to be two different companies, it could be two chapters within the same company, I really want to get the story of something specific.
+
+**Jack:** So like, let's say, just, I know you said don't cosplay, but like, let's say I were interviewing you, uh, and we were talking about it, I would ask you about, Like a deal that you won and like just like walk me through the whole thing and like, how'd you get there? Why'd you get excited about it? \[00:23:00\] What was the relationship with the founder?
+
+**Jack:** What was the competitive set? Why did you care? What were you worried about? Did you have to convince your partnership? How'd you work through that like whatever else and then I would ask you about a deal that you wanted to do and lost a deal that you may be passed on and I would just like want to see how deep you can go on the things that Really matter and see what it's like to talk to you about a big problem I find that that just has helped me the most
+
+**Logan:** And is it the communication style that you're getting? To the detail on is that their ability to actually converse about the specifics of something
+
+**Jack:** Well, the beautiful thing about this is you can't fake any piece of it. So, you can't fake being a good communicator about it. You can't fake having had good ideas during that story. You can't fake your ability to, like, um, you know, connect the dots between what that was and what your broader role looked like and what you needed to do.
+
+**Jack:** Um, and you can't fake how much detail you know. So, I find that it is a proxy that helps me understand, like, many things at once. And. I don't go into it with like a rubric in my head of I'm testing for these things. \[00:24:00\] You know, you do enough of these exact, you know, I've done hundreds of, of these types of interviews over the years and you get to a, you know, you get to some pattern matching of it where you can feel like, okay, this is, this is gonna, this is going to be weak here is going to be strong there or
+
+**Logan:** You probably also tease out how much they want to throw other people on the, under the bus or take credit for
+
+**Jack:** A hundred percent. And there's like subtle little things with the language there too. I did this versus we did this. I built this thing versus, you know, the team built this and I supported them. Like, and it's not that one is always better or worse. I definitely have preference for the exec who is much more like we oriented.
+
+**Jack:** There are some founders who are going to like the exec who's much more I oriented, that's fine, but you can feel the spirit through a lot of that language.
+
+**Logan:** If you could find out one thing about a person that you hire and what you're ultimately teasing out, you get to all the specificities of that. What is the single thing you want to know about that person before they join?
+
+**Jack:** Ideally. You get to, you get to have just on a personal integrity level. \[00:25:00\] It's wonderful. If you can spend time with somebody in the real world a little bit, if you can have dinner with them, are they respectful to wait staff? How do they operate, you know, around people? Like if you can like see them in a context with somebody else, they work with.
+
+**Jack:** I think there's a lot of little signals you can pick up with somebody just that you just need time exposure for and you can just feel integrity or not when you're around somebody so that's, that's one is just like can I get to some sense of just like high integrity and do I spend enough time with them that the story always lines up that they're, you know, if I ever have a moment where, wait, last time we met you said this thing, this time you met you said this other thing or these numbers I just like get the heebie jeebies from some of that stuff.
+
+**Jack:** So I think there's there's one set there We talked earlier about the work ethic thing and I don't the burnout work thing I similarly it's not fun for me to work with people who don't like working hard And so finding people who are like resonating on that same frequency. That's a really big one for me so like not that i'll like i'm not like doing i'm not testing people but You \[00:26:00\] know, a lot of times my day is busy and I end up needing to like text or call them at night or on the weekend or whatever.
+
+**Jack:** And like, is that a big deal or not? You can kind of like feel some little things like that. Um, And then the last one, I just, the references matter so much to me.
+
+**Logan:** Reference checks, what's your style and how do you approach them when you introduce them into the process?
+
+**Jack:** Early and often, um, I do so many reference checks. That to me is, and there's a lot of competing views on this, some people don't like them, I love them. I've never had the false positive of unbelievable references from like 10 plus people and then it didn't work out. Um, there are definitely situations where you get negative references and they're great.
+
+**Jack:** But I've never had the positive false reference where if you talk to their direct reports, their managers, their peers. Everybody that you could care to, and you talk to as many as possible. Like, one of the best, like, uh, when you ask someone for their references, somebody who immediately gives you like 20 or 30, like, that's another thing you can't fake.
+
+**Jack:** I love these sort of tests \[00:27:00\] where like, you can't fake it. Someone's like, yeah, here's everybody I've ever worked with around me in every role I've had. Call whoever you want. Like, that just like, can't be faked. Versus somebody's like, yeah, let me get back to you, and then three days later they send you two or three.
+
+**Jack:** That that's an initial first blush thing and I'll also tell candidates that I'm gonna like, you know, I'll get front channel and back channel references But yet as many as possible as early and often as possible There's like tips and tricks probably for like, you know, a good reference call a bad reference call Like there's basic things to know that are probably like written everywhere that we've all read, like if, you know, someone says they're in the top 10%, that means they're in the top 30%.
+
+**Jack:** Um, there's stuff like that, but to me, it's just have real conversations with as many people as possible and take the time to like keep probing and asking questions and don't make it this like calibrated. Here's my five questions, but like a real conversation where you're digging to actually like try to get your hold on what was the relationship like and what was working with them like.
+
+**Logan:** Stylistically, like people don't want to talk shit \[00:28:00\] even if it's backchannel, uh, like they're incentivized actually to give you platitudes in that way. How do you try to cut through on the call to get to the meat of the, the answer?
+
+**Jack:** um for me, it's just you keep pushing Discount everything by like 20 or 30 percent and then you just like kind of keep probing I don't know I don't know that I have like the one trick but and you know It's not basic questions. Like if there's one thing they could do better at what would it be? I mean, that's an okay question I actually prefer to be like when they did this specific thing same tactic by the way of Making them talk about specific instances, like I find getting into a store, a particular story or two, I learn a lot more than just like, are they good at communications?
+
+**Jack:** Yeah. Okay, cool. Next question. Versus like, okay, when they launched that product, can you walk me through what happened? Like, were there any hiccups? Was everybody on board? Did their marketing partner like it? Did they have any resolutions? How they manage that? So I think specific stories just gets away from the like, thumbs up, thumbs \[00:29:00\] down landed into like, Like bits.
+
+**Logan:** Because people feel like they're not giving opinions at that point. They're stating facts about the marketing partner actually didn't like that. And that was a point of conflict.
+
+**Jack:** right. And the facts of the story can tell you what somebody, you know, if one of the facts of the story is Before the big launch on Monday, you know, the CEO was at their house all weekend like working through the details of it That's a good fact to know that means the CEO really trusted them So there's stuff like that too where I think you can kind of get it based on the facts of the story
+
+**Logan:** Ideally, you like to do a project or something, work with someone so you can get a flavor for their style. And you learn a lot about people once the Rubicon is crossed or whatever, and you're on the other side of it. But short of getting someone to spend nights and weekends with you, actually working on something, how do you solve for that?
+
+**Logan:** Similar point
+
+**Jack:** It's really hard. That's one of the best advantages that early stage startups have. We used to do this, it's really hard to pull off when you're past a certain size. But we would just say, hey, come work with us for like a week, we'll pay you like a \[00:30:00\] normal amount. But just come work with us, we're gonna ship this thing.
+
+**Jack:** Or we're gonna like plan this, you know, marketing program or like whatever. It's awesome. There's nothing that beats that. Um, short of that, though, it, it does just come down to a good interview process and references. It's like all you can do. And it's much more limited. And it's also why as companies get bigger, um, I think you become less and less sure of your hiring, um, than you were in the early days.
+
+**Jack:** And so, you know, this is where things like performance management come in. It's just like one of the realities of scale.
+
+**Logan:** any commonalities between people that they're their personal slope of the line has outpaced Lattice's growth and so someone in the early days that has actually scaled into a C level or VP level that background wouldn't say that But they've really proven that internally. Are there any commonalities?
+
+**Jack:** Yes. This is one of the other many advantages startups have over big companies. It would be much harder for, let's say me now. If there was a, uh, if a frontline sales manager that I \[00:31:00\] was like, this person's unbelievable, it would be way harder for me to sort of skip that person massively ahead and put them in a VP role just because I believed in them like that would, you know, 30 people at lattice would you.
+
+**Jack:** be very upset with that. Um, rightfully when you're small, you can make those crazy bets. It still makes people uncomfortable. Like if you take somebody and you accelerate their role crazily, it still does make people around them uncomfortable, but you can do it. And that's a huge advantage. We had examples like this.
+
+**Jack:** Um, one example like this was our first marketing leader who, uh, he just joined as our first marketer when we were tiny. And he just kept scaling and he was, I mean, I can't, I don't know how old he must've been when he joined, but like mid, you know, mid twenties or something like that and just kept scaling and we just kept building things under him.
+
+**Jack:** Um, and he definitely had things he still needed to learn. Like nobody's perfect. Who's like never done a role at that kind of \[00:32:00\] scale because we were so early, we were able to just keep betting and keep betting on the same person leading this thing that was, you know, on paper. bigger than anything they had done and it worked, it worked wonderfully.
+
+**Jack:** Um, and we've had other examples of that. I'm going to say something again, that is founder lionizing, which I hate to do, but a lot of traits that I see in a lot of great founders, you can sometimes see that in early employee and you know, what you've basically done is you've gotten the opportunity to hire a founder before they like knew they were a founder kind of thing.
+
+**Jack:** Um, actually the, the marketing person I. mentioned did go to become a founder, but a lot of the people who I think are able to scale ridiculously like that have the combination of confidence and humility. So they're willing to keep learning, but they're like, nothing's too big for me. I can, I can do and learn whatever.
+
+**Jack:** They're unbelievably autonomous, maybe to, uh, you know, almost to a fault where they're like, I got this, I got this, I got this all the time. And You \[00:33:00\] know, it's like throwing somebody into a pool who can't swim, but who thinks they're going to make it work. They're going to, they're going to think sometimes, but they're also going to learn to swim faster.
+
+**Jack:** So there's probably a couple of just like foundry things that have been my experience of
+
+**Logan:** Yeah, I found the upside creation roles are oftentimes the ones you want to take that chance on, which is a little bit counterintuitive because those are the ones that are going to create the value of the company, but. Why would someone that's really good join your startup in an upside creation role?
+
+**Logan:** You need some reason, either they have, they have some personal connection to you or whatever. There has to be some narrative. If someone's just sat in a upside creation type role for their entire career and they're not to be ageist, but they're in their upper forties or something that tells you something about that person, it's probably not worth the risk versus a GC do it.
+
+**Jack:** Absolutely. Yeah. And I wouldn't want to have a 23 year old GC is not that you could have gone to law school necessarily, but you know that that's right. And there's some \[00:34:00\] roles where experience is worth a lot. And then there's some roles where Output and creativity and risk taking are worth a lot.
+
+**Jack:** But you know, like the the the aegis thing it's like there's a lot of like, uh, good data about like how like a lot of like great scientific discoveries or The like best pieces of music or like these like incredible feats of like human intellectual accomplishment A lot of those happen in people's 20s a lot of the best companies of all time were started by people in their early 20s and so like I think there is a There's a tendency to, to underappreciate whatever that X factor that young people have.
+
+**Jack:** Um, but startups can bet on it both because they have to and because they don't have the red tape to not be able to.
+
+**Logan:** You've actually encouraged employees to go start companies or you built a program around it by which you'll invest in them. Can you talk a little bit about that as you reference your old marketing leader?
+
+**Jack:** Yeah, totally. The, the, the spirit, uh, we did this program where you, you know, let us all invest a hundred K and a company and an \[00:35:00\] employee who's been with us for a certain amount of time who leaves to start a company. Um, the spirit of it is similar to like the Netflix culture. Doc vibe of we want Lattice to be like a great place to be from and so my hope is that Lattice You know, in the long term, we'll have many more alumni than employees at any given time.
+
+**Jack:** That's just how the math ends up working. And my hope is that it also becomes this alumni community that it's like, Oh, that person worked at lattice. That's awesome. Like I'm interested to talk to them. Some of that is based on, you know, how. The company does after they leave, of course, that's just like the natural fact of things is somebody who, you know, left a company 10 years ago in the company that ended up doing great.
+
+**Jack:** That person gets a lot of credit for the 10 years that they weren't there. Um, so some of it comes from that. Some of it just comes from like the way you treated people on the way out the relationship of it. But I'm a huge believer that just like lattice and any great company, you know, any company that wants to be great needs to be willing to say to people, you know, this is not the right place for you anymore.
+
+**Jack:** People Also, who want to be \[00:36:00\] great need to be able to say, this company isn't right for me anymore, and that's okay, and that's healthy, like, it's actually, uh, you know, it's a, it's a harder thing to believe that a human who is changing every year, hopefully, and a company that's changing every year, hopefully, that those just stay in alignment and definitely across hundreds of employees.
+
+**Jack:** It's, you know, an impossible thing. And so knowing that that's the reality, creating a dynamic where it's You normalize it. You say, Hey, if you want to leave, it's totally okay. And it's not just okay. We want to be there to support you. We want to connect you to other jobs. If you want, we want to, you know, help you start a company.
+
+**Jack:** If you want, we want to help you do whatever you want to do. I just think that's a. That is a way healthier long term mindset, even if it means that in, you know, the interim, some employees who might have otherwise had the fear of leaving won't have that fear. That's an obvious easy trade for me.
+
+**Logan:** I'm sure coming from the top down empowers people to hire folks that have entrepreneurial ambitions as well. Is there any bit of framing about tour of duty? Hey, you know, \[00:37:00\] give us two years that people will actually do and
+
+**Jack:** For sure. All the time. We don't talk about tours of duty at the company level, but there are so many roles we have where someone joins for a particular project or mission. And then at the end of it, it's like, we'll see. And sometimes there's another tour that they want to do, sometimes there's not. Um, I think it's a great framing, the Tours of Duty, the, the LinkedIn, Reid Hoffman thing.
+
+**Jack:** Um, I love that because it, it makes clear that there's a chapter that we know is good. And then at the end, we'll like have a new decision point and like, that's okay, whatever that is. But I find that's much better than like, we're going to cling on to after this mission is complete, I have to keep working here.
+
+**Jack:** It's, it's, it's a really healthy mindset.
+
+**Logan:** what do you wish all founders knew about letting people go?
+
+**Jack:** In so many cases, I have seen, as you go through enough cycles of it and enough years of it, that everybody's better off. Um, it's really rare that you let somebody \[00:38:00\] go and you years later realize, Oh, they would have been better served if I didn't do that. If by the time you want to let somebody go, it wasn't working for you, nine times out of ten it wasn't working for them in that context.
+
+**Jack:** And That doesn't mean that the person's not good. It just means that whatever fit they were in, they just like, weren't flourishing. And, um, I think, uh, it feels so unkind to let someone go. And in the long term, it is basically always kind.
+
+**Logan:** And at some point you need to serve the company as well and great hates mediocre.
+
+**Jack:** Yeah, totally. And, um, and I think that there's this thing where it's really hard because in a lot of cases when you're having this one on one conversation with someone where it's not working out. The people who aren't in the room are the whole rest of the company who it's, you know, it's not serving them.
+
+**Jack:** If there's somebody who's in a bad fit role somewhere else in the company, and it's, it's this \[00:39:00\] asymmetric thing where it's very painful for the one person. It's only a little bit of gain for everybody else, of course, you know, cause it's a small thing, um, and they're not in the room. And so it's, it's set up to be hard, but the like overall.
+
+**Jack:** impact is positive. And on top of that, I believe even for that individual, it's positive. It's just there's a dip that has to go through and that's hard.
+
+**Logan:** One of the interesting things I heard you say is you actually need to prove to people why it's important to have a diverse workforce for people to care about it. Can you elaborate on it?
+
+**Jack:** Yeah, I think, um, the conversation around, uh, diversity and equity and inclusion. Um, there's a lot of people who feel a lot of different ways about it. Obviously, um, the thing that I think you can unify and, uh, pull together everybody's mindsets around is that this isn't like, you know, a party. Yeah. This isn't a, you know, a mission for the, you know, just helping diversity itself, which \[00:40:00\] lots of people, myself included, think there's value to that.
+
+**Jack:** Um, but they... There's actually value to the company and I, I have come to, uh, really see that and believe it where having, you know, people at the company of all backgrounds does make it easier to connect with more customers and better understand who you're building products for and diversity comes in a whole lot of forms.
+
+**Jack:** Um, but the more of that spread you have at your company, I do think the more sort of organizational empathy you have for customers, I also find that there's a lot of employees who it is. really demotivating for if they feel like the company doesn't care about this at all, or if they don't have somebody that they can look up to in leadership who they can resonate with.
+
+**Jack:** And so I also think there's like an employee morale impact, which also impacts performance over time. So the reason I think it's important for Founders or leadership to not just talk about it as like, this is our duty, but this is valuable to the company is because you can't control how everybody feels about this stuff.
+
+**Jack:** But \[00:41:00\] almost everybody can agree that, uh, if it's going to be good for the company, that's certainly a good reason to care about it.
+
+**Logan:** I want to back up your, your founding prior to Lattice. You were at a company called Teespring, which probably a lot of people don't remember. Once upon a time was a very hot company, despite when we describe it, it will not sound like something that was a hot business, but it was, and it has a interesting Deleon.
+
+**Jack:** Uh, well, the founders were, uh, uh, Walker Williams, uh, and Evans sites, Clayton Walker started a new company. Um, Evan has also started companies and also is running a super cool incubator. Um, we've had a bunch of other founders that have come out of it, too. Um, a couple off the top of my head. Uh, there's a guy, Tony Stalin, who started a company.
+
+**Jack:** There's a guy, Jesse, who started a company. Um, Sam Ross started a company. There's like a ton, actually. Yeah, Deleon started a company and became an investor. Um, there's been a ton. \[00:42:00\] There's way more than I can even think of.
+
+**Logan:** What was unique about the culture of, maybe describe what Teespring did for people and then what was unique about, because it would not be obvious that this would be a business that a bunch of people will come out
+
+**Jack:** No, it was an e commerce company. It was a, uh, it was a platform for creators to make customized apparel. So, if you were a YouTube creator, you could, like, make a bunch of shirts with your logo on it, and then you could promote that, and you could get pre orders, and then we would make the shirts.
+
+**Jack:** And we had all these tools to, like, make it sort of social and promotable, but the flip of the model where you could just, like, wait until... Enough shirts were created, ordered, and then you print. It was like a really good business model. It made for like negative network, like capital. Uh, it was just a really positive model.
+
+**Jack:** Uh, and it went super viral. So like I got there and we were like 10 or 12 employees. And we just grew like nut. I mean, like we were measuring the growth and like \[00:43:00\] day over day growth. It just went unbelievably viral, uh, for a while and it was a really young company. That's one of the things I think back to the founders were really young and they hired young people.
+
+**Jack:** Like, I think it was probably not till our 30 or 40th employee that we had somebody 30 Was even like their thirties, maybe I'm like slightly misquoting, but it was like directionally like that. And so I think you had a lot of people who were, who love startup, you know, ecosystem and the lore, and it was in like the YC vibe.
+
+**Jack:** And you just, it was just a team of a lot of people who were scrappy and entrepreneurial and that attracted more people who were scrappy and entrepreneurial. And to the point of fast growth being an attractive thing for employees, the growth was just nuts. And so the nuts growth allowed for a lot of cool career development.
+
+**Jack:** So I think those are some of the things that set it up well.
+
+**Logan:** What ultimately happened? What, what broke down on the journey?
+
+**Jack:** So much of the business was generated, uh, through not just creators who were like making a shirt for \[00:44:00\] their fans, but people closer to internet marketers who were specifically targeting audiences. in hyper targeted, very smart, very programmatic ways, and just finding out that with the, with a tight enough audience, you could really, really target people and do a lot and have really high conversion rates.
+
+**Jack:** And it was all being promoted through social platforms that had super specific audience targeting, which was good, but the platform dependency was basically the problem. And so at some point the platforms were like, that's enough, this is how much we can allow of our platform to do this, which makes sense for a platform to do, but it was a platform dependency issue.
+
+**Logan:** HR software. So what was the nugget of, uh, Hey, I should go start an HR software
+
+**Jack:** yeah, and I started this with my co founder at Lattice, Eric Koslow, was also sort of like the lead engineer at Teespring. Um, so there's another Teespring founder. Um, \[00:45:00\] we didn't even think of Lattice as HR software when we left. Like, when we left, we weren't even like, we just like knew we wanted to start a company when we were first leaving.
+
+**Jack:** We were like, we, we knew we were friends and had a great relationship. Uh, which turned into like an extremely close relationship over time, which was like one of the luckiest things. For lattice and for, for me personally, but we didn't even know. And even when we had the idea of what we started with, which was, okay.
+
+**Jack:** Ours, not even performance reviews, which by the way, the OKR product just like failed, uh, more or less, we didn't think of it as HR software. We didn't know anything about HR software. We knew that. We knew that there were things about Teespring's culture that had gone away We didn't love as a result of not having infrastructure for what I now understand to be things like Feedback and listening to employees and having clear career development and having compensation Conversations and all the stuff that lattice does was we just didn't have it maybe partially because we grew fast maybe partially because we were young maybe \[00:46:00\] a little bit of everything and Um, maybe because Lattice didn't exist yet, but we didn't even understand it to be HR, HR software.
+
+**Jack:** We just felt a particular small problem and we wanted to build against it. We didn't end up solving it well with software, but we built relationships with HR leaders and that gave us the insight to build performance reviews, which was the product that worked.
+
+**Logan:** How'd you go about finding product market fit?
+
+**Jack:** What we built first was an OKR tool and we were able to get a lot of interest because It is a real problem for people like managing goals at a company is in fact a big problem.
+
+**Jack:** And so a lot of people were interested. It was actually really easy. Like we would like post on product hunt or just like directly email people. Tons of CEOs of like, you know, 100, 200 person companies would be like, I need this. I need that to work. I've been struggling with goals. It's a real problem.
+
+**Jack:** Software is not a good solution to every problem. Our software was not the best available solution of softwares to solve the problem, but in general, it is a hard problem to solve that and software is \[00:47:00\] not the key solution for goal setting at a company. And, um, so we, we realized. Relatively quickly, within the first several months, just from the data, it was just so clear to me that this was never going to turn into a big business.
+
+**Jack:** It was just too hard. The retention was too forced. The only way to get people to log in and set their goals for the second goal cycle was by really calling and forcing it, and it just wasn't going to happen. But luckily, we had built such good friendships and relationships with our users who were the CEOs, but then also the head of HR got involved that we were able to just say to the HR teams like, Okay, what else do you care about?
+
+**Jack:** And it was just so blatantly obvious that there was just this real gap in the market around performance reviews. And we said, okay. And we started mocking up that product. And after, in the end, it was like nine months of just like beating our heads against the wall to get our product. Like, we were able to sell annual contracts on design mock ups on reviews.
+
+**Jack:** And it was just like, it was so obvious.
+
+**Logan:** When did you know \[00:48:00\] you had that, that product market fit? What was that feeling that, that you sort of had at that moment?
+
+**Jack:** In retrospect, it was like nearly instant. The way a performance review cycle works in software is like, you are kind of taking people through like a big workflow. You're setting up the parameters of the performance review. You're choosing who's going to be in it. What are the questions going to be?
+
+**Jack:** You're inviting everybody to go in there to select their peers, to have those emails go out, to start filling in feedback, to close the cycle, to give feedback, to get the data at the end. It's like a, it's like a bit of a roller coaster, um, or a ride. And we hadn't even built the end of it. When our first users were going through it, we had the front of it, and like, Eric and team were scrambling to complete it, but people were paying, and they were yelling at us to fix things, and they cared so much, and we were continuing to get inbound leads, I heard you have this thing, can I buy it, can it work by next Thursday, can you make sure it has this feature, but people were like mad at us about stuff.
+
+**Jack:** And \[00:49:00\] until that point, nobody cared about anything. It was all like, Oh, cool. Yeah, I'll give it a try. I'll poke around. And now we had people who were like holding us to account as like a vendor that they needed. And it was just, it was instant.
+
+**Logan:** Did you raise the seed off of the OKR product and the Series A?
+
+**Jack:** Not the series. They, the series, they was off reviews.
+
+**Logan:** Your Series B, every good company, it seems has a shitty fundraise. Every single one you go through and yours was your Series B. What was it in that moment in time that made it difficult for investors to? Dream the dream.
+
+**Jack:** Basically this was, uh, the fail of the series B was in 2018. In 2018, we went from 2 million to 7 million of ARR. And, uh, but it was going linearly, so we were adding the first three quarters of the year. It was at a million at a million at a million. We were secretly building this engagement survey product.
+
+**Jack:** So out of the seven engineers that we had at the company, five of them were working on employee engagement surveys, \[00:50:00\] which is that was a big decision. But this is kind of always how lattice has done things, which we just did with the H. R. S. Where we, you know, well, we are Okay? Um, what Investing as much as possible in the current products while working hard on the next one.
+
+**Jack:** This was the first time we did that and but it wasn't out yet and we were low on cash like, you know, We had like, you know, less than a couple million bucks in the bank. We had probably 40 employees. We were not burning huge amounts of money because we had real revenue and it was growing. We were at three four million of It was probably 30 employees at the time or something like that.
+
+**Jack:** And we just like, we just needed money. Um, and so it wasn't that I was like, this is a perfect, perfect time to raise, but we kind of needed money. Like, or it would have like really helped us keep investing in this future product. I wanted to hire more engineers for performance. We were just like. At the wire of it, and VCs were just not having it that summer in the summer, you know, three, four of ARR, we were this 2018.
+
+**Jack:** So we were not in 2021 when that round would have super easily gotten done. We were \[00:51:00\] SMB. We were HR software, which nobody liked. And we were like a point solution. And we had one. And so based on those sort of just high level things, I kind of get it like I can see why, you know, HR software at the time was not people had not Grock that it was a big category.
+
+**Jack:** I was only kind of grocking that it was real. I mean, I had the feeling just because I was in it every day. And I was like, you know, I was going to VCs being like, trust me, like people want this thing, like I'm in here, like every day, it's just like, we can't go fast enough. Like the feature list that people would pay us for is crazy.
+
+**Jack:** I think I also like was a much worse fundraiser than, than I became over the years. Um, but so that was just like a basic, that was basically just a fail. And our insiders topped us up with a couple million as a bridge. And we then like made an internal sort of plan to just like go profitable. And we like really rallied the company around it.
+
+**Jack:** It turned out to be this really strengthening moment for the culture where we like, we branded it wartime and we like really people dug deep. And I think the \[00:52:00\] benefits of that actually lasted for like a couple of years after, which was really cool.
+
+**Logan:** Process wise, what would you have done differently in the series be?
+
+**Jack:** We launched this engagement survey product in like September, October of that year, and it clicked overnight. We went from booking a million, a million, a million, a quarter to 2 million immediately, and then it just scaled up from there fast. And it was like a slam dunk that second product. What happened was when we went multi product, there were so many immediate, obvious values to the customer that instead of being in a.
+
+**Jack:** Feature to feature knife fight against a bunch of other companies that on the surface looks just like Lattice and the only way that we were winning those performance management only deals was by the rep really teasing out exactly why our feature set was a little bit better in these ways. And we really do have a better mousetrap and I think we did have a better mousetrap, but you still got to tell them why it's better mousetrap versus now we had a headliner that was like this is a better offering and now the work of underneath was just verifying that the thing worked.
+
+**Jack:** But if it did, they wanted it, based \[00:53:00\] on the headline, and that was just a game changer. Like our win rates went through the roof, everything got, the whole, the whole funnel, leads, win rates, you know, average size on the deals, retention, cross sell, everything got better overnight. And so on some level, the best thing I could have done would have just been waited until we were on the other side of that moment, um, which is what ultimately happened, although actually we still barely got it done.
+
+**Jack:** Um, But that would have been the best thing. I think process wise, the other thing I got tripped up on is, uh, by nature, I'm like very trusting and very agreeable. Uh, And I was getting pulled into one off conversations. VCs are incredibly good at getting companies to have a one off conversation with them.
+
+**Jack:** And it's just a bad move. There are probably exceptions to where it's not. It's almost always better as the founder to do your conversations in parallel. And I didn't do it that way. They would say, Oh, like just, you know, you don't need to prepare anything. Like, we'd love to \[00:54:00\] just come hang. Can I like swing by your office?
+
+**Jack:** Whatever metrics you have off the shelf. But it's a horrible look, you know, as the company, you don't have your metrics prepared. They're saying it's not, you know, an interview, but it is. Um, you're, you're not in fundraising mode. You're like thinking about like the fire at hand of a particular customer or a feature that's being hotly debated.
+
+**Jack:** And then a VC walks in who's like there to see if this is a good investment. And you're like, okay, wait, what are we, okay, like, you know, it's, it just doesn't go as well. Process wise also, I should have been deliberate and said, I'm, I was not fundraising yesterday, today I am fundraising, and therefore I'm not working on these things internally, and I'm making good materials, and I'm practicing the way I talk about it, and I'm going to many at once.
+
+**Logan:** Building relationships with VCs is a, I think, a good thing. Obviously I'm talking my own book here a little bit, but you are always fundraising in some way in those discussions and it doesn't mean you need to have materials there, but you should be \[00:55:00\] cognizant that you're being evaluated at any point in those discussions.
+
+**Jack:** absolutely right. And, you know, for me, I just, like, didn't have the experience to navigate the difference between, this is us getting to know each other for real, and actually building a relationship, but I'm gonna set clear boundaries at the beginning that, like, this isn't fundraising, and so, like, let's not talk.
+
+**Jack:** Let's not go into the metrics. Let's not go into like the cash position. Like I'm down to have this conversation, but like, are we cool to just not go there? Yes. Great. Let's get to know each other. Tell me about yourself.
+
+**Logan:** It's tempting to, Oh, this will be easy. Like this person seems very interested. I just give them this information and then we'll be on the other side and we'll be able to get back to building.
+
+**Jack:** Yeah. And the way it ends up going is I'm giving this person information and they're probably just kind of like vaguely hearing it, but mostly it was. It's like, you know, a casual thing, but it's not casual. It's getting logged in a CRM the second you leave the meeting. And that's okay.
+
+**Jack:** That's the job. But I didn't have the experience to navigate that well at the time.
+
+**Logan:** So earlier this week you launched an HRAS product. So for people that aren't nerds of enterprise \[00:56:00\] software and HR, what is HRAS and why did you go about doing it?
+
+**Jack:** Um, HRS is an HR information system. Um, it's basically on some level, it's like, uh, the database that stores all employee information the way that like Salesforce is that for sales or Marketo is that for marketing or there's NetSuite, but like basically every asset in a company needs some system of record, which is, you know, a great, uh, Venture term, but just using it sort of in the technical sense, you need some place that is the source of truth for the information about that piece of the company.
+
+**Jack:** Um, and in HR, there's a thing called an HRAS that basically, uh, stores all the information about the employee record. And it's like the thing that then syncs to all your other tools to say, You know, Bob started on this date. This is Bob's manager. This is Bob's t shirt size. This is where Bob lives. This is Bob's salary.
+
+**Jack:** And here's who can see what pieces of that information. Here's who can change that information. Here's how it flows to the rest of. Uh, the \[00:57:00\] company and whatnot. Um, it also tends to be the place where you do things like store documents, you on board an employee, you off board an employee. You tend to have other small applications around it, like vacation and birthdays and time tracking and a bunch of other stuff.
+
+**Jack:** And then you also, like, can, uh, manipulate the data through workflows. So the way that in Salesforce, you've got a bunch of flows that change an account from a lead to an opportunity or whatever. You know, in an HRS, you might want ways to, you know, make somebody have a new manager or whatever. Um, and then there's like reporting and things around it, but that's basically what it is, the central system of record that stores employee information.
+
+**Logan:** Well, I built it.
+
+**Jack:** Fundamentally, we built it because for years. For many, many years, uh, I had an inkling that this was something customers wanted because they have been telling us and, um, we've always had a whiteboard of all of the things that are adjacent to what we do that customers could want. It's generally speaking my view that there's a balance of doing as many \[00:58:00\] things as possible for a customer in HR, balanced by you got to do them to a high enough.
+
+**Jack:** Quality bar. Um, those things can actually go together at some level, but they, you know, become intentional with one another at some level, and I've always aspired for lattice to do as much as possible for the customer. And this is a natural extension for us because we've already been storing so much data about the employee.
+
+**Jack:** We already have so much information about the org chart and management that it was still a challenging build. It was not that far of a hop away. Um, I've also believed that, um, for the mid market, which is the part we serve, Um, I really like being this like big open ecosystem player where we partner with like as many of our partners as possible.
+
+**Jack:** I think it's really good for customers. One of the things we've learned is like people change out their tech stacks constantly in HR. Like basically every HR team in the Say 50 to a thousand employee segment in any given year is 100 percent considering changing out at least one part of their tech stack.
+
+**Jack:** It's just the \[00:59:00\] nature of things like the segments that, uh, HR companies build for, there's just different product needs. Like what work day needs to do is just going to be different than what an SMB focused company needs to do. And that's, that's a good thing. And that's a natural thing. And that's like why the market works the way it does.
+
+**Jack:** But so I also thought that for the mid market lattices sort of. Dynamic with other companies was well suited to what I think is like a good option for for companies to have a tech stack that Plays like that.
+
+**Logan:** It kind of puts you in coopetition or maybe you always are in coopetition with other people in the stack, in the ecosystem. How do you think about playing nice in the sandbox, but also wanting your, your toys?
+
+**Jack:** We've got a whole bunch of partners that we've had for a really long time that are of all flavors Uh, but like in this particular case our partners that have hrs Products one of the things I love about hr is the people who build companies in hr for whatever reason tend to be really nice people, um, maybe that's just how people are but I think like there's a lot of that \[01:00:00\] genuinely have a similar mission to us that want to see HR elevated.
+
+**Jack:** And so, you know, a lot of them have given me calls when they've built performance products. I give them calls when we're going to build products that overlap and even a company that overlaps with us on performance and we overlap with them on HRAS. My view is like we should. In many cases, be able to share customers for very long periods of time.
+
+**Jack:** And if it's right for them to use one of our products now and switch at this time, we should all be doing what's best for the customer. And I don't think that those things are at odds. Like a lot of our competitive product sort of companies are also some of our best partners where we like market together and have been for years and have like a thousand shared customers.
+
+**Jack:** So I don't see. This pie is particularly fixed like we all have such a small fraction of the market and it's sort of like gas stations being next to something next to each other or something, except that in these cases, based on each of the other products, there's so many nuanced differences that it's obvious to us.
+
+**Jack:** There will be \[01:01:00\] cases where it's obvious to us that a customer is not that a current lattice customer isn't right for our HRS or that we haven't built what they need. Okay. And so we'd love to connect them with a great, strong partner of ours that's another HRS partner that we know we play well with, that we know has a quality product.
+
+**Jack:** So, I don't know, I just, and maybe this is, maybe I'm like a little too friendly for, like, business in these cases. I just, I just don't see the pie as fixed. I
+
+**Logan:** you think about, uh, buying or acquiring your way into the space, or was always going to be a. Build your own.
+
+**Jack:** hate, I hate, uh, software acquisitions just scare me. Um, I think there are cases where they work. And I think there are instances where there's a long R& D build that you wouldn't want to do that's disconnected enough for the product or where a space is moving so fast that you have no choice but to get into it tomorrow and then do the dirty work of cleanup on the other side.
+
+**Jack:** But generally speaking, I think it is so much stronger when companies build themselves.
+
+**Logan:** How did you go about actually \[01:02:00\] architecting the development of this product? Because a lot of standalone companies exist singularly focused on this.
+
+**Jack:** Once you get to a certain company size, what I realized is that it gets really hard to build products inside the typical org. What we ended up doing here was, uh, partnering with an amazing, uh, founder who had, who, you know, to who had And it was like an amazing product leader himself. And we basically put it in the corner.
+
+**Jack:** There's this amazing book called zone to win that, uh, I didn't read the whole thing, but I read the part specifically about, you know, doing this inside the context of a company. And it was hugely helpful to me. And who knows, there's like, you know, there's pros and cons to everything, but we basically treated it like a startup inside lattice, uh, where they had their.
+
+**Jack:** where they weren't going to have, you know, the engineers working on the HRS were not, there's no world in which they would be asked to jump on, you know, a current product that had immediate present demands \[01:03:00\] from customers. Cause that'd be a huge risk. You know, if you, if you don't cordon off the resources is that the main existing business is going to want to suck that away from it.
+
+**Jack:** So, you know, ring fencing. Uh, what you had there putting up in our, in our case, we put a founder at the helm, but if not a founder of it, I think somebody who's really got that entrepreneurial drive is critical for a big new product build like this. Um, and then we had to just like settle in for a long build.
+
+**Jack:** This was a long build. It was hard
+
+**Logan:** How long was it?
+
+**Jack:** like over a year of building, um, you know, and, and a lot of people, there's just like a lot of components to this thing.
+
+**Logan:** Did you make people assume some shared back end service? Like how do you actually make the, I get the concept of letting someone go build in the corner. That sounds great, but then you might end up with two totally standalone interoperable products if they decide to go on Google and use this and you're on AWS using that.
+
+**Jack:** One of the hard things along the way was aside from just the features that needed to be built was we needed to update the architecture for the core product. There was a ton of debate about how to do this \[01:04:00\] and, you know, it's a matter of degree of do you completely tear down and rebuild? Do you do nothing?
+
+**Jack:** We landed, I guess, somewhere in the middle. But aside from the product build, there was a huge amount of coordination needed because there was also a change to the architecture to be able to store these gigantic employee records. And so, one of the things we did that was really important was at a certain point in the development, we took One of our, uh, VPs of engineering was super strong and it was.
+
+**Jack:** You know, leading platform for Lattice's products. And he went and worked with this HRIS team. And that was the thing that allowed us to work through that change, which required collaborating while having a team that was cordoned off.
+
+**Logan:** You've kind of been multi product from the start, or at least from the early, early ish days. How do you think about what goes into an existing feature enhancement of your core business versus what is a net new product?
+
+**Jack:** There's probably a \[01:05:00\] couple heuristics. Uh, one could be, does it change pricing or SKUs? Uh, or does it change what you might see in the drop down? So, like, there's a lot of features that we would add that would just obviously fit in our performance management bucket or obviously fit in our engagement survey bucket.
+
+**Jack:** And so we want to be making those improvements without charging customers more. And, um, we want to still be pushing on those things. Sometimes within that, you might have a product within performance that looks like a new skew of performance. So, like, an example of this would be, like, there's a calibration product where, Basically, at a big enough company, you, it's really hard to coordinate across 500 engineers.
+
+**Jack:** Like the VPs of engineering across a 500 person engineering org, like don't know their teams inside. So you need some process by which you make sense of what the ratings mean across different managers. And there's a thing called calibration. It's part of performance, but it's, it's its own product. Um, a lot of it comes down to just knowing the customer well enough that, \[01:06:00\] you know, where the thing is bucketed in their mind.
+
+**Jack:** And then sometimes you've got these gray areas. Sometimes you have a product that doesn't cleanly fit and you just, you just make a call.
+
+**Logan:** You've had a weird number of investors and board members move on from the firm they were at before. So you had, Keith was at Cosla. Uh, went to Founders Fund, Miles was at Thrive, went to Benchmark, Doug was at Shasta, went to Iconic. Presumably John Curtius at Tiger
+
+**Jack:** Yeah,
+
+**Logan:** least involved in a round.
+
+**Jack:** You think it's me?
+
+**Logan:** I don't know.
+
+**Logan:** I don't think so. You seem like such a nice, affable
+
+**Jack:** Oh man.
+
+**Logan:** uh, can you take through just cause you've had this experience so many times and we don't need to talk about any specific of the examples. I think they've all landed in good places seemingly, but like, what's the experience when you get that? Call saying, Hey, I'm moving on to a new firm.
+
+**Jack:** I'm always happy for them. That's always my first reaction. Like. It's the same thing as like employees moving on. And I'm like, this isn't about me. This is about them and their firm. And it's a hard decision to leave a firm. It's a big decision in many ways. It's a bigger decision, I think, than like leaving companies.
+
+**Jack:** Um, or like, \[01:07:00\] you know, it happens less frequently. And so my first place is like, wow, that's a big thing. How are you doing? You know, like, can we, can we stay, you know, can we have a working relationship still? Uh, but I don't know, I, I, I start usually from a place of being happy for them and, uh, I've found that each time it's happened, everything has gone in a great way.
+
+**Jack:** So like, examples of this, Doug Pepper, uh, left Shasta, he was awesome. We've been working with Jason Pressman ever since. And he's been a phenomenal partner. He is over the years. It's been a long time now, but he's like, like the most trusted call. I know how to make. And when miles went to benchmark, I got really close with.
+
+**Jack:** Vince from Thrive. Miles actually stayed on our board. Vince is on our board now from Thrive. And Vince is brilliant. And now I have two smart people who are helping guide and support the business. And so in each of these cases, I just, I haven't experienced negative outcomes. \[01:08:00\] I know it's not about me. And it's just like how things kind of go.
+
+**Jack:** So you're right. It's been kind of a lot. I don't know. It, it doesn't, it doesn't It doesn't bother me.
+
+**Logan:** How annoying is it to have someone with the last name Altman out there in the press all the time, making all this noise? Have you ever met him?
+
+**Jack:** Who?
+
+**Logan:** This is Sam.
+
+**Jack:** What's he do?
+
+**Logan:** I hear his name a lot. Uh, he runs this AI
+
+**Jack:** he's like the brother of that HR software guy? Yes.
+
+**Logan:** Yes, that's right.
+
+**Jack:** that guy. Yeah, yeah.
+
+**Logan:** That's right. What, what, what is the most annoying thing? Not about Sam specifically, but about Sam Altman, the CEO of open AI.
+
+**Jack:** There was a funny, so, just the most classic brother thing to do. When I tweeted about our HRAS, he quote tweeted it, like, I don't know what an HRAS is, but happy for you. And somebody in his comments is like, you know, uh, like how brutal is that to, you know, build a big company or whatever and have your brother invent AGI.
+
+**Jack:** And I was like, eh, it's funny, but I don't know. It like, I'm really proud of him. It's \[01:09:00\] really cool. Like, it's like such an important thing for the world and he's earned it. Like he's worked so hard to make it happen. And I see. All the work he does to keep this going and to like, keep pushing it and like, look what it's done for tech.
+
+**Jack:** Like, where would we be right now without it? Like, what would be happening in tech in 2023 without AI?
+
+**Logan:** Venture capitalists wouldn't know where to put money.
+
+**Jack:** Where would they put money? They wouldn't. It would be such a weird time. And it's not just about like, it's honestly, to me, it's not even just about what's happened in VC. It's like, it's possible that what's happening with AI is going to be so much bigger than like, SaaS getting a big booster pack.
+
+**Jack:** Like, It's just so cool. So, like, you know, is there ever a moment where I'm like, Ugh, God, I like just like can never do enough by comparison? Maybe, but like, it's really awesome and I'm very proud.
+
+**Logan:** Does it, uh, scare you at all in a weird way that like some of you shared a house with growing up is now, I don't know where he would rank on like most powerful influential \[01:10:00\] people. It's high, at least at this exact
+
+**Jack:** It's super high. I think it's, it's good because I thought what you were going to say is, Am I scared about AI?
+
+**Logan:** Well, we can talk about that too.
+
+**Jack:** And like, I am maybe a little bit, but like, the good thing is, I'm, I'm glad that I know that the person who is at the front of a lot of this. Like that I that I know his character, so I'm like well at least if someone's doing it This is a good person to be doing it So that quells some of my just like general AI fears in terms of him being like super powerful I've kind of just you know It's like if you like watch your kid grow up and you just like see them get a little bigger every day You like don't notice it.
+
+**Jack:** He's been doing well for a long time. I've like gotten used to
+
+**Logan:** Yeah, yeah, yeah.
+
+**Jack:** I mean obviously in the last year it's changed to a new
+
+**Logan:** seems it's gone to a, uh, new degree. I, uh, he does seem weirdly, um, thoughtful, cerebral, like not self serious in a way. I forget. I sent you the quote where he was like, well, my sensibilities are that of a Midwestern \[01:11:00\] Jew. And I was like, that's funny. That's a good joke. I like that.
+
+**Jack:** Yeah, we gotta get him on this podcast. Yeah.
+
+**Logan:** That's a good suggestion. That's a good question. I hadn't thought of that. I hadn't thought of that. Um, can you tell me about your childhood? What was it in the water in St. Louis in the nineties or whatever?
+
+**Jack:** It was like... So different than the Bay Area, like now that I'm here and I've got two kids and I'm just like in the, in the water of the Bay Area, like we were in a suburb in St.
+
+**Jack:** Louis. I mean, this was like before the internet, so like a lot was different. Like I went to public school, like I didn't even like think about college applications until it was like, Oh, it's junior year. You've got to take an SAT test now like, okay, you know, but I was, it was just such a different vibe, like the, the values are.
+
+**Jack:** I really like them, that it's just like the focus is different, how people spend their time, what people talk about is different.
+
+**Logan:** Where were your parents?
+
+**Jack:** Uh, my mom was a dermatologist, still is. Dad was doing real estate development. And it was just like a, like I look back at it as just like such a \[01:12:00\] pure, happy childhood. Like, you know, we, we did work hard in school, but like, it wasn't because our parents pressured us.
+
+**Jack:** They were like, So just like supportive and loving and whatever you want to do and be is okay. And you know, one thing I do note that I do remember that was unique that I want to do with my kids is like, they really reaffirmed to us, you're awesome kids, you can do anything you want, which I think is like similar to my management thing about wanting to have people know that you believe in them so much, and then they'll just rise to whatever that is.
+
+**Jack:** But it was a pretty like, simple, happy, carefree childhood.
+
+**Logan:** When you go to operating, why do you think being a great writer is an important skill of a CEO?
+
+**Jack:** It's the primary format of communicating to large groups. Um. And it's also the way that I think ideas end up getting fully distilled. Um, this is like one of the things among many that Paul Graham has said that I very much agree with that. Like writing \[01:13:00\] is the process of thinking and good writing is good thinking.
+
+**Jack:** And so if you can't communicate clearly in written word. Then you haven't thought it through enough. And if you haven't practiced how to communicate enough times, you're not going to be able to align groups of people to inspire large groups of people to, you know, get people onto the same page about things.
+
+**Jack:** And so it's just. It's the it's the medium through which work gets done. I mean, obviously there's there's talking but like it's really important
+
+**Logan:** Well, and you said part of leadership saying the same thing over and over again. Can you expound on that? And you alluded to it
+
+**Jack:** yeah I still can't believe how many times you have to see like this is one of those lessons that like I need somebody to Tell me this over meta I need I need to be told over and over that you need to tell people things over and over because sometimes I'll be like You know, oh we said this two weeks ago at all hands.
+
+**Jack:** Everyone knows And like our chief of staff or like some exactly like, no, no, no. Like half my team doesn't, didn't think that I'm like, what do you mean? They're like, Oh, they just forgot. Or you just have to say the \[01:14:00\] same thing so many times. And it kind of makes sense. Like the world's really noisy. Like if I.
+
+**Jack:** I'm driving to work and I see a billboard about whatever product for the first time. I don't remember it. Like the way that I end up wanting to buy a product and this is what makes for good marketing externally too is you need like to see it five times or seven times or 11 times. You need to see a billboard, you need to hear somebody talk about it.
+
+**Jack:** You need to read a blog post about it. You need to see a tweet and have a friend like recommend it and like Then you get an outbound email, and then you get invited to a marketing event, and then you finally are like, Okay, I remember what that thing is, I'll take an intro. And that's what it takes. And it's the same thing with internal messaging, is they have to see it in all hands, and read it in an email, and there's got to be a slack about it, their manager has to talk about it to them in a one on one.
+
+**Jack:** And it's not because they're not paying attention, it's the same thing with me. I probably, if somebody tells me something at Lattice once, I probably don't remember it. I probably need to be told seven times too. It's just how people are.\[01:15:00\] 
+
+**Logan:** You know, it's a funny one now that you have a podcast as well. As you say something one time, And then people listen, there's a group of people that will listen to all your episodes, and there's a group of people that will only listen to one episode. And if you tell the same story again, they're like, yeah, we fucking heard that.
+
+**Logan:** It's like, right. But that was
+
+**Jack:** You're
+
+**Logan:** a year ago. And the listenership is very different than it was a year ago. Like, give me a break. And so that's one of the things that now that you have a podcast, you're going to telling some of these same stories over and over again, people are going to be like, yeah, we got it.
+
+**Jack:** Totally. It it's also like the, the thing about how you'll have some percentage of the people will react to anything in certain ways. This is true when you're communicating to the company about. Any topic, particularly a topic that's a little bit sensitive, there are going to be a, there's a normal distribution of how people receive everything.
+
+**Jack:** And when you have a company of hundreds of people or an audience of 100, 000 people or whatever, you're going to have some, some absolute end number of people that react in some strong way that you don't particularly \[01:16:00\] like, but it might only be 4 percent of the people receiving it, and 80 percent might have quietly been nodding their heads and like, cool, I get it, that makes sense.
+
+**Jack:** And that's one of the things that just gets, you know, I can't, I would never want to be a politician. I can't even imagine. But yeah, you don't always hear the feedback easily when you're just hearing the voices that are the ones who choose to spoke.
+
+**Logan:** Totally. 100, 000 people yelling at you. If you have a 95 percent approval rate, that's still whatever. It's still a lot of people that are yelling at you, right? What was the impetus to do a podcast?
+
+**Jack:** Eric is, I think, an amazing podcaster. I really like getting to talk to smart people about, you know, the companies they've built or anything that they do, uh, is fun for me. I just like, have not had the ability to set it up. And Eric with Turpentine is like, made it really easy for me to just like run a season with him.
+
+**Jack:** Talk to some people that I can like learn a ton from and you just like get an excuse to hang out for an hour and like ask them your favorite questions. And it's, and it's really great.
+
+**Logan:** What is the season? What have you committed to do?
+
+**Jack:** Uh, I think we're gonna do like 10 or 12\[01:17:00\] 
+
+**Logan:** Okay. Well, there's a plug for, for people to subscribe to it.
+
+**Jack:** We just, yeah, we had one with Eric Gleiman from ramp. It was awesome.
+
+**Logan:** he's, he's great. He's also very, uh, enabling of entrepreneurialism within the company. I think that when I heard that you guys were like that, he very much wants to bring in people.
+
+**Jack:** That, by the way, is an example of a company where the talent density is incredible and they've just hired such entrepreneurial people and clearly taken bets on them. And, you know, you can see it both in the people who have left and clearly what's happening inside the company. Um, yeah,
+
+**Logan:** for sure. Whenever you talk to someone for diligence within the business, it's like, well, that's an impressive human being. Uh, what about investing on the side? How much, how much of your time do you spend doing that?
+
+**Jack:** I really enjoy it. I don't know exactly what the amount of time is, but like, definitely like. Many hours per
+
+**Logan:** How's it set up?
+
+**Jack:** Uh, it's a fund.
+
+**Logan:** is an actual fund?
+
+**Jack:** It's an actual fund. Uh, there's someone I work with, uh, Nimbala, who's full time on it, who's fantastic. Um, but yeah, it's just an early stage fund. I've been doing it for years. I was angel investing for years before that.
+
+**Jack:** I've always loved it. Um, so it's always just been like a part of, uh, you know, \[01:18:00\] my, my sort of work constellation. I just love getting to support founders to like learn about new businesses. There's so many times where I end up getting to learn from founders things that I take back to Lattice. that just make me stronger.
+
+**Jack:** And you get to see that there are so many different ways that people can be great. Um, and, you know, I still want to be, obviously, like, my best version of myself, but that doesn't mean I don't want to learn something from other great founders who are just so good in their own domain or, you know, whether one's amazing at partnerships or at recruiting or at fundraising.
+
+**Jack:** Like, I learn from them all the time. So, yeah. Been doing it for a while. I love it.
+
+**Logan:** How has fatherhood changed you as a leader?
+
+**Jack:** I mean this in a good way. It makes me care a little bit less about some stuff. Um, it was really easy before kids when I'm, you know, when you've got, when you start a company, you're so engrossed in it and it's so feels like, and is so everything.
+
+**Jack:** Um, and it \[01:19:00\] still is like outside of my family and friends, just obviously the next most important thing, the, the gap between that. distance is, is very high. And so something that would stress me out and make me lose sleep and be a ball of nerves for a week in the past. I don't have, it's really hard for me to have that reaction now when, you know, After the workday is done, I'm not just going to sit there stewing on this thing.
+
+**Jack:** I'm going to like have dinner and bedtime with my kids and immediately remember what matters most. Reframes, it doesn't lessen what Lattice is, but it just exposes this different thing that means a lot more. And so it, I think tempers me, uh, in my workday.
+
+**Logan:** Has it made you more empathetic?
+
+**Jack:** I've always been extremely empathetic. Uh, I, I think if anything, I actually probably have been empathetic to a point of weakness.
+
+**Jack:** And so my leadership journey has \[01:20:00\] probably been to sort of round the edges off my empathy over the years. I don't know that kids, so I, I don't know that kids had the effect of making me more empathetic necessarily. Um, I know it does that for a lot of people. It like opens up their heart. I think mine was already really open and it's possible that if anything, it just took.
+
+**Jack:** Because I was aiming all of it at work, it's possible that I now show up as a little bit less. But I would say it's all, I've always been over indexed on empathy probably.
+
+**Logan:** Do you live in San Francisco proper?
+
+**Jack:** Peninsula. I did live in San Francisco proper until two years ago.
+
+**Logan:** What's your meta view on, uh, the city versus the peninsula? What was the impetus for the move?
+
+**Jack:** With kids, the peninsula is really nice, just like being in the suburbs is really nice with kids. You can obviously have kids in the city and that can be great, but I love being in the suburbs now. Um, but I'm in San Francisco all the time. I love the city. I think it needs a lot of work. Um, and like part of why we left was some of the struggles, like it \[01:21:00\] was related to what's going on with the city.
+
+**Jack:** And just like didn't feel good with little kids for us. Um, but I think the Bay Area is like super strong. I actually think, back to AI, I do think that AI is like a big part of what has re centered the gravity of tech to San Francisco. Like I think it was hanging in the balance a little bit more before.
+
+**Jack:** I think it's, I think it's firmly back at this point is my read. Um, so I'm hugely long on the Bay Area for tech. And I'm long on San Francisco largely because I believe that young people are so important to the ecosystem. And I think for young people, it's just, it's going to be more fun and more interesting to live in San Francisco than on the peninsula.
+
+**Jack:** Um, you know, I got here from home in like 28 minutes, so it's not that far. Um, so I don't know. I like both, but, uh, I'm, I'm very long Bay area in general. I got something I'm curious about, which is, um, so the first, my, the first sort of, \[01:22:00\] uh, way I interacted with you was just seeing your Twitter, which was probably like a few years ago.
+
+**Jack:** And so my only experience at first was this like funny meme, goofy thing. And I then. Through watching your podcast, you sort of exposed the more serious side of you. This is the first time I've gotten to meet you in person, but now I can like, see what's behind it all. What was your, was there, how, like, was it planned?
+
+**Jack:** Like, did you go, were you like, I need to, like, how did you go through whatever that
+
+**Logan:** What was that arc? Yeah. So I was, um, so I was at Battery for six years and Battery is an amazing firm, but it's registered with the SEC. And so like I would get slapped on the wrist when I would make jokes and stuff. And I joined Redpoint. I left in December 19, joined in March of 2020. Pandemic hits, we're stuck at home and I'm fucking around.
+
+**Logan:** Like literally that was what it was. It's just, I had some extra time that I was just spending on my phone like anyone else spending on Clubhouse and all that. Um, And it was a weird way of getting \[01:23:00\] exposure beyond, uh, what I would get on my own without needing to expose the totality of myself. And so it was kind of this one dimensional version of me that was 2 percent or 5 percent or 10%, right?
+
+**Logan:** And It worked and you get this feedback loop of like virality that comes with it and, um, and it, but it only works to a point and I would get in meetings and people would be like, Oh yeah, Twitter joke guy. I'd be like, right, right, right. Uh, can we talk about your metrics? Yeah, can we? And I think it was like a context switch of people.
+
+**Logan:** They were like, hang on. So I thought this guy just joked around, you know, there's a scene in Wedding Crashers like make me a bicycle clown. Everyone would want me to like make them a bicycle and I was like, we have to work. We have to do some work. And so the podcast thing was kind of related, but, uh, but different in that I felt the market was so competitive at the time and you, anyone could be anywhere because of a screen and relationships were increased.
+
+**Logan:** Capital was commoditized and relationships are \[01:24:00\] increasingly deprioritized, I would say by founders. And I was like, what the. fuck, I'm not a former CEO. What do I draw on of experience? Like, I think I'm a nice enough guy who's trying hard to help my companies, right? And like, that pitch is kind of hard to on a screen for 30 minutes.
+
+**Logan:** It's hard to like that to come across. And so that was kind of the impetus. for it was, Hey, can I show a little bit more of myself and cut through some of the noise in some way? Because I was out of ideas. And if the market, the irony of it was 2021, it felt like I needed it by the time I actually got going in 2022, the market had totally corrected.
+
+**Logan:** And like people wanted to talk to me again because capital got scarce. Uh, and so if it had been. Then I wouldn't have had time to do it because everyone was fundraising and you were running around with your head cut off. And then now when I started, I probably didn't feel like I needed it as much, but I had the actual time to do it.
+
+**Logan:** So like a weird irony, but \[01:25:00\] the hard part is being exposed, right? The hard part is having, inevitably there's going to be people that dislike you when you're talking a lot, no matter what, which is a hard thing.
+
+**Jack:** do you enjoy the meme version or the serious podcast version more?
+
+**Logan:** Definitely this, like not even close. I've asked myself why I keep doing this. And, uh, it's, you want to keep growing and you want to keep having good guests and you want to have great conversations and you want to have some feedback loop. It's my own little like product market fit thing. Um, I figured out the meme thing and it worked and I was like, good, that is, I've moved on and exposing a little bit more.
+
+**Logan:** This is much more effective way. I would say, even if the N you can look at the Twitter impressions and you'll end up with whatever millions of impressions, right? But like the quality of those are low and the relationship is low versus someone hearing you talk and knowing your mannerisms and getting annoyed because you're circuitous and your question asking or whatever.
+
+**Logan:** You're, you're building a much deeper relationship \[01:26:00\] with. people. And so I like this a lot more. And I also feel like I still haven't figured it out. I'm still like in the process of Twitter. At some point I had figured out the meme Twitter, Twitter thing. And I was like, okay, good.
+
+**Jack:** you were good at it. Um, what are you investing in now? Are you, like, are you big AI? overhyped? Do you think it's underhyped?
+
+**Logan:** I think VCs didn't learn all their lessons of the past cycles, uh, from a pricing standpoint of, of deals. I think there's probably a bunch of different areas within it that are going to be super valuable. Um, picks and shovels of. Infrastructure enabling I think is really interesting. I think there's probably a lot of formerly what would have been shitty vertical software companies that can now be enabled by.
+
+**Logan:** Software and what previously would have just been service or headcount. So I mean, law firms are the one that everyone points to, but there will be a bunch and, and it'll be a superpower for all different software companies as well. The stuff that I think is most interesting and hard to think about that I'm curious around are the things like mid journey and character \[01:27:00\] AI and, you know, runway and whatever the weird shit is sort of what I, and.
+
+**Logan:** I'm like, I don't totally understand, yeah, and the net new like form factor that wasn't possible in a way in the past that you can't vertical software. You can internalize that stuff is hard to, I would not have bet that someone would want to talk to chatbots all day, every day for long
+
+**Jack:** Well, its, it's really hard, like predicting these like behavior changes, like an air, like Airbnb is like an easy example, but like predicting behavior changes feels so hard. Yeah. Instagram
+
+**Logan:** I thought about all the mobile stuff, the stuff that created value out of mobile and like the biggest winners were Google and Apple for sure. Right. Then after that, it was like kind of. Derivative related things that were counter that makes sense in retrospect, WhatsApp or Instagram or Uber or whatever it is like all those things make sense, but one they didn't happen immediately after the iPhone came out.
+
+**Logan:** They happened in a slow trickle over time and. I don't know. I think a lot of those probably weren't totally obvious that they would go as far as they \[01:28:00\] did. And so we're very like, I would characterize myself as AI curious, uh, and I'm glad that there's enthusiasm and excitement. We had reached a point of cynicism in the ecosystem that just was unhealthy.
+
+**Jack:** It was, I'm glad that
+
+**Logan:** And then the other bucket I didn't say that I think is interesting are the foundational model companies. And I think that's like a, it's a fast. fascinating thing of how that whole ecosystem is going to play out. So there's this company, OpenAI, Anthropic, there's Mistral in Europe. There's whatever, a whole bunch of foundation.
+
+**Logan:** Google has their stuff. I think that's really interesting. And I don't know. It's kind of like an orb of power that I don't totally understand.
+
+**Jack:** And you guys invest early in growth?
+
+**Logan:** Correct. Yeah.
+
+**Jack:** Do you think at all about that where you're like, value's gonna accrue to net new versus incumbents versus late stage growth and therefore, just at some high level of capital allocation, we should deploy 80 percent to growth and 20 percent to early? Or do you
+
+**Logan:** separate funds. \[01:29:00\] And so battery was that way. Battery had one fund and they would do growth equity and private equity and early stage venture and late stage venture. And we'd think about where value would accrue. And at a high level, uh, and they had people that focused on specific areas, but like at a meta level, they were saying,
+
+**Jack:** Vic, we're gonna, we're gonna allocate capital to these buckets.
+
+**Logan:** what makes that weird is from an LP standpoint, LPs are like, we want to be able to put you in a discreet
+
+**Jack:** You'd like, where are the asset allocators? You just invest.
+
+**Logan:** just invest and what they do is they make the sausage come out delicious on the other side, which is like net great returns, but it's hard to bucket them. If you haven't lived that journey with them, I think it's hard for LPs to put you in a, in a bucket of that.
+
+**Logan:** I kind of view our job as. Uh, because we're singularly, so I'm singularly on the early growth team, just doing series B and C investments. And so you have to be conscious of valuation. You have to be conscious of, uh, the dynamics in the market and where values accruing and all that. But at some \[01:30:00\] point, your job is also to do the series B and C investments that you told your LPs you were going to go do in this space.
+
+**Jack:** been hard for last year, I guess. Cause BNC has been like ice cold.
+
+**Logan:** Yeah ice cold. To some extent. Uh, you will get credit or suffer from the vintages success if you're just going to be like singularly focused on that stuff. And so that's what you need to be cognizant of. But the good thing is time diversification is an important one that we use a lot on our side on early growth, doing series B's and C's.
+
+**Logan:** Our fund links have been six years, five years, uh, you know, this one will probably be, I don't know, five years. So we kind of use time diversification as our forcing function.
+
+**Jack:** you think there's a catalyst for BNC stage to thaw? Like, or what would that catalyst be?
+
+**Logan:** I'm nervous that there's just so much capital in the ecosystem that what's meaningful to me as a smallish, we have 700 million bucks, a little over 700 million bucks. And so we're like small in the grand scheme of other people that have 5 billion. And so what is an important \[01:31:00\] investment for us is 30 or 40 million, right?
+
+**Logan:** That's a. meaningful investment, that could be a rounding error to a 6 billion fund. And so that's what concerns me about the thawing of the market that's, that's happening is it's still no matter what people don't like giving money back. I found that
+
+**Jack:** Founders don't like giving money back
+
+**Logan:** well, founders don't, but investors, as I was referring to, if you raised a 5 billion fund,
+
+**Jack:** You’re not going to give four back
+
+**Logan:** you've started living, uh, and running your firm as if it's a 5 billion fund. And so you'll probably find a way to spend that money. And if it's breaking. Instead of doing one 300 million round, if it's breaking it up into 10, 30 million rounds, you might do that. And so I think at some point all of this stuff recycles through from a capital allocator standpoint and there we will be judged on the merits of the decisions we made.
+
+**Logan:** And I think a reckoning is kind of happening right now. The one big wild card out there and it. It makes me kind of cringe when I see the headlines about it, but is oil in \[01:32:00\] Middle East, and there's a lot of money over there that is looking for places to park, and I kind of wish LPs. It was more transparent who your LPs were.
+
+**Logan:** I wish founders were making more decisions based on like, Oh, interesting, like
+
+**Jack:** That's actually my cap table
+
+**Logan:** yeah, that group supporting a hospital system in that group supporting a sovereign wealth, wealth, Middle Eastern, you know, thing. And that level of abstraction doesn't just get there. It's also self serving because I think it would serve us well to have that level of visibility in the ecosystem.
+
+**Logan:** But until people start going back out for raising funds and need to reckon with the decisions that they've made, I think it’s probably gonna be hard to call. 
+
+**Jack:** Totally. And that one's hard because, just speaking from a founder point of view, I mean like, if it's bad, it's bad, but short of something noteworthy, you're operating so much lower on Maslow's Hierarchy, where you're like, I gotta fund this company so I can like, keep people employed and like, hire these engineers for this product.
+
+**Logan:** It sounds kind of crass, but like Jamal Kaskoggi and like the considerations for sovereign wealth in Saudi Arabia, \[01:33:00\] then giving money to a limited, uh, or being a limited partner in a venture fund to then to you, it's such a value chain of things. One for you to even know that you would have to ask the question, which most people don't.
+
+**Logan:** And then two, you'd have to have, well, is it more morally right for me to take money from this firm that took money from that firm or have a higher valuation for my own employees that like. And so it starts to be a very difficult mental model.
+
+**Jack:** It's difficult. 
+
+**Logan:** Yeah. 
+
+**Jack:** Sweet. 
+
+**Logan:** Anything else? 
+
+**Jack:** No, this was great.
+
+**Logan:** Yeah uh, thanks for doing this.
+
+‍

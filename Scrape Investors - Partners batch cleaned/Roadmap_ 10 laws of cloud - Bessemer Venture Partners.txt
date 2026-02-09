@@ -1,0 +1,185 @@
+# Roadmap: 10 laws of cloud
+
+## Byron Deeter, Elliott Robinson, Mary D'Onofrio and the firm release the laws on how to build and scale cloud companies.
+
+### Introduction
+
+Early founders and CEOs helped us synthesize the industry’s best thinking when Bessemer penned its [Original 10 Laws of Cloud Computing in 2008](https://www.bvp.com/atlas/10-laws-cloud-computing).
+
+Since then so much has changed. Not only are there over [100 public and private cloud companies already valued over $1 billion](https://www.bvp.com/atlas/state-of-the-cloud-2019?from=10lawsofcloud), but also the cloud now drives three of the most valuable companies in the world—Amazon, Microsoft, and Alphabet (Google).
+
+As for Bessemer, we’re grateful to be working with over 200 cloud companies—and we’re just getting started.
+
+That’s why we’re dedicating this eleventh anniversary edition to the pioneers who tested new frameworks and defined the benchmarks to “pay it forward” to those reading this today.
+
+![Jeff Lawson, CEO of Twilio on how the cloud upended the way the world operates ](https://www.bvp.com/assets/uploads/2019/06/jeff-lawson-10-laws-cloud-min.jpg "Jeff Lawson, CEO of Twilio")
+
+### Law 1: In the cloud economy, scale wins
+
+Market leaders generally command over 50% of the total market’s enterprise value; second place captures less than 30%, and third place is lucky to get 20%. Scale creates a virtuous cycle with pricing power and talent that reinforces a company’s lead, further expanding the distance between the market leader and the rest of the competitive set. Investors also give market-leading assets premium valuations, which lower their costs of capital.
+
+> Expand your company's TAM with a Second Act to dominate the market.
+
+Therefore, a methodology to expand your core TAM through a Second Act is powerful and necessary. Building and maintaining scale requires constant product innovation. This might involve launching an entirely new product, addressing functional adjacencies, or providing deeper capabilities for existing customers.
+
+Layering on payment solutions, moving to mobile, or monetizing a data set are some of the most effective Second Acts we’ve seen from cloud companies. While a Second Act will be different from company to company, what remains consistent is the fact that a market leader is able to paint a compelling and broad picture of its product, and eventually, its platform.
+
+![Tobi Lutke, co-founder and CEO of Shopify on scaling a company](https://www.bvp.com/assets/uploads/2019/06/tobi-lutke-quote-10-laws-cloud-min.jpg "Tobi Lutke, co-founder and CEO of Shopify")
+
+### Law 2: Growth at optimal cost
+
+Efficient growth is when growth in topline revenue reflects the dollars invested in the business. Companies with large existing market opportunities can justify higher burn rates if they also have rapid customer and revenue growth rates. For market creators, businesses must keep burn low as buyers emerge and revenue grows.
+
+```
+When it comes to revenue growth in the early stages of a company, efficient growth is more important than profitability. 
+```
+
+Finding the right balance between growth rate and burn rate will evolve over time as leadership emerges, go-to-market strategies become more efficient, and cost of capital goes down.
+
+For growth stage startups earning less than $30 million ARR, efficient growth is defined by net new ARR over net burn (optimal score being >1.5).
+
+Longer term, cloud companies should focus on maximizing their [efficiency scores](https://www.bvp.com/atlas/state-of-the-cloud-2017?from=10lawsofcloud), calculated as ARR growth plus FCF margin of ARR.
+
+Across [The BVP Nasdaq Emerging Cloud Index (^EMCLOUD)](https://cloudindex.bvp.com/)—the benchmark for public cloud companies—the average efficiency score is approximately 45%.
+
+![Sustainable business growth according to Dan Springer, CEO of DocuSign](https://www.bvp.com/assets/uploads/2019/06/dan-springer-quote-10-laws-cloud-min.jpg "Dan Springer, CEO of DocuSign")
+
+### Law 3: Invest behind the cloud sales and marketing learning curve
+
+The first rule of running sales organizations is to ramp only what works. In traditional outbound sales, do not hire more salespeople until you have two or three account executives hitting their quotas without much support. For inbound sales, align hiring to match the company’s lead velocity rate.
+
+Companies that [invest in sales and marketing](https://www.bvp.com/atlas/how-fast-should-cloud-company-grow/?from=10lawsofcloud) too early will see headcount burn increase without the associated topline growth, and sales rep quality will drop as company targets and quotas are missed.
+
+> Experiment with the sales and marketing model. Prove it’s the right match for the business before scaling hiring efforts.
+
+Experiment early and often on what does work, such as trying new lead and demand generation tactics, burst testing channels, and combining different functional experts on a sales team, including business development reps, sales development reps, account executives, support engineers, and more.
+
+However, only invest behind the systems that have the best marginal productivity of the incremental dollar now, and only do so when you have a sales motion that is truly repeatable.
+
+![Tooey Courtemanche, CEO of Procore on investing in Sales and Marketing ](https://www.bvp.com/assets/uploads/2019/06/tooey-quote-10-laws-cloud-min.jpg "Tooey Courtemanche, CEO of Procore")
+
+### Law 4: Product as a competitive advantage
+
+The best product is (finally) winning. In the past, excellent sales execution could obfuscate product deficiencies, and compelling marketing campaigns could convince a non-user decision maker to select one software product over another on behalf of his or her team. But today, few people would ever buy or implement new software without reviewing online testimonials and case studies, talking to peers, and conducting UX and technical assessments of other competitors.
+
+Today’s product-first evaluations drive powerful bottoms up distribution models, and many of these companies build $1 billion businesses. Sales leaders don’t determine market leadership, but product leaders do. If this doesn’t describe your company, find the quickest path to improve your product to catalyze customer sales.
+
+```
+Focus on building an outstanding proprietary product because it’s the primary thing that wins (and keeps) customers.
+```
+
+Generally, [products that capture market share deliver consumer-like UX](https://www.bvp.com/atlas/developer-laws-2019?from=10lawsofcloud#4-Developer-platforms-strive-to-be-as-frictionless-as-consumer-products) (including onboarding), offer both web and mobile solutions, integrate into all of the core applications necessary, and offer adjacent features that competitors already do or will soon offer. We also strongly recommend adopting an API-first development philosophy so development teams do not waste their time (and CapEx money) reinventing services that already exist as APIs. Engineering resources should only focus on building an outstanding proprietary product.
+
+![Dave McJannet, CEO of HashiCorp on building great user-centric products ](https://www.bvp.com/assets/uploads/2019/06/dave-mcjannet-quote-10-laws-min.jpg "Dave McJannet, CEO of HashiCorp")
+
+### Law 5: Master the 5 C's of cloud finance
+
+Top performing companies track and report on these [financial cloud metrics](https://www.bvp.com/atlas/cloud-computing-metrics?from=10lawsofcloud) because they are the clearest lenses into the vitality of the business.
+
+**1\. Committed Annual Recurring Revenue (CARR)**
+
+This is the single most important metric for a cloud business to monitor, as the change in CARR growth provides the clearest visibility into the health of any cloud business. CARR is defined as contracted, but not yet live ARR, plus live ARR netted against known projected ARR churn.
+
+**2\. Cash Flow**
+
+Companies live or die based on their cash management, and it’s necessary that cloud companies track burn rate closely. Comparing burn rate to topline growth allows companies to understand what growth initiatives are working (or not), where headcount can be added (or subtracted), and what financings are required. We often find that the most successful cloud companies will provide discounts and sweeteners for payment of cash up front.
+
+**3\. Customer Acquisition Cost (CAC) Payback Period**
+
+CAC payback is the time period needed to fully repay your sales and marketing expenses, on a gross margin adjusted basis. CAC payback periods for SMB customers should be approximately 6-18 months whereas enterprise customers can be as long as 24-36 months. It’s often difficult to fund growth when CAC payback is more than 36 months unless CLTV is exceptionally high.
+
+**4\. Customer Lifetime Value (CLTV)**
+
+CLTV is the net present value of the recurring profit streams of a given customer minus the acquisition cost of that customer. CLTV is calculated by taking the contract value (adjusted based on a customer’s expected duration or upsell rate), multiplied by gross margin, with CAC subtracted. Tracking CLTV based on customer segments will help identify the most efficient channels, so teams can segment sales and customer success efforts. As a rule of thumb, CLTV/CAC should be 3x or more.
+
+**5\. Churn**
+
+Long term profitability, and thus valuation, is impacted by the renewal rate of your customers. Top enterprise companies benefit from annual logo churn rates (gross churn) below 7% and CARR renewal rates above 100% (net negative churn). SMB-focused companies often have higher churn rates (often approximately 20% gross) and lower CLTV. However, the shorter sales cycles and lower CAC still make the CLTV/CAC equation compelling.
+
+CARR, cash flow, and churn tend to be highly dynamic metrics and thus should be checked daily or weekly, whereas CAC and CLTV are longer term and typically checked quarterly.
+
+![Jennifer Tejada, CEO of PagerDuty on KPI check-ups and metrics dashboards ](https://www.bvp.com/assets/uploads/2019/06/jenn-tejada-quote-10-laws-cloud-min.jpg "Jennifer Tejada, CEO of PagerDuty")
+
+### Law 6: Discover your secret KPIs
+
+While the five C’s of cloud finance comprise the foundational financial dashboard for most successful and enduring cloud companies, every business benefits from discovering a unique KPI that provides more granularity into customer behavior and product performance. “North Stars” are highly variable and depend entirely on a company’s unique value proposition.
+
+> Great cloud companies have a bespoke metric (or multiple) that is a leading indicator of success.
+
+Amazon is famous for having metrics specific to each of its product areas, and having detailed data oriented discussions around each. [Twilio](https://www.bvp.com/atlas/an-inside-look-at-our-investment-process-for-twilio/?from=10lawsofcloud) focused on “messages sent” in its early years. DocuSign tracked the number of signed envelopes, while Shopify tracked customer GMV as leading indicators of future business value. For other companies, North Stars may be related to product metrics or API calls.
+
+Choose a metric that works for your business and remember that North Stars are generally leading indicators of product usage, and therefore revenue. Aligning your company to this “true north” is like providing a compass that guides roadmaps and prioritization so everyone is working in the same direction.
+
+![Wade Foster, CEO of Zapier on aligning metrics to your company objectives ](https://www.bvp.com/assets/uploads/2019/06/wade-foster-quote-10-laws-cloud-min.jpg "Wade Foster, CEO of Zapier")
+
+### Law 7: Customer success is company success
+
+Early on in a company’s life cycle, new logo additions are paramount; however, long term, [renewals and upsells become the biggest inputs into enterprise value](https://www.bvp.com/atlas/developer-laws-2019/?from=10lawsofcloud#1-Developer-platforms-based-on-granular-and-metered-units-of-measure-have-more-pricing-power) and company success.
+
+A one percent change in monthly renewal rates will result in more than a $100 million difference in your valuation at IPO, and even more over time. Similarly, a renewal dollar of ARR is cheaper to acquire than a new logo dollar of ARR since customer acquisition costs of upsell are lower than those of net new customers.
+
+```
+The best enterprise companies have less than 1% monthly gross churn and better than 100% net expansion.
+```
+
+Even a mature sales organization cannot add new logo ARR fast enough to keep up with a “leaky bucket” company that isn’t retaining existing ARR, and it certainly cannot sustain the average 30%+ growth rates that characterize the best public cloud software companies today. This becomes even harder at scale, as the base over which you are trying to grow approximately 30% or more becomes larger.
+
+High performing customer success teams align people and processes tightly against the metrics that matter most to the executive team. Track user adoption, NPS, and engagement closely as leading indicators of retention. Customer Success gets ahead of issues and helps fine tune product roadmaps in order to improve customer loyalty over time.
+
+![Aaron Levie, CEO of Box on customer love and customer success ](https://www.bvp.com/assets/uploads/2019/06/aaron-levie-quote-10-laws-cloud-min.jpg "Aaron Levie, CEO of Box")
+
+### Law 8: Impact through engagement or insights
+
+Historically, software solutions proved their value through high engagement rates and “time in app” by their users. Many modern cloud businesses have achieved great success by following this model and becoming compelling systems of engagement. However, a second path to success emerges as some systems now deliver results and valuable insights to end users, often requiring very little “time in app.”
+
+```
+Effective software can be either a system of results or a system of engagement; both models deliver compelling ROIs in very different ways.
+```
+
+A black box, quantitative hedge fund is the extreme example, but we see this increasingly in the case of AI and machine learning software. The highest value software product of the future might ingest and process data, and only spit out a key result once a day.
+
+In contrast, many marketing products are often used several hours per day by their power users. There are different pathways to creating valuable software, but you need to have a model in mind and commit. Think closely about what your software does and how it will be used as you build it—who are your users, and what is their successful usage model?
+
+![Ara Mahdessian, CEO of ServiceTitan on creating value for customers ](https://www.bvp.com/assets/uploads/2019/06/ara-mahdessian-quote-10-laws-cloud-min.jpg "Ara Mahdessian, CEO of ServiceTitan")
+
+### Law 9: Tone starts at the top
+
+Great culture is not about ping pong tables and kombucha on tap. It is about creating a values system so that everyone can perform and can be the best versions of themselves at work. It is also about dedicating resources to support and operationalize systems of fairness, equality, and inclusion so everyone feels like they belong and can play a critical role in making a difference at a company. Every team member is accountable to uphold these values so that teams stay focused, positive, and know how they can impact the organization for the better.
+
+> Great leaders set the moral compass and define the corporate culture.
+
+Culture is also a driver in talent recruitment and retention. We increasingly see philanthropy becoming part of the corporate culture, including companies supporting efforts such as Pledge 1%,forming their own .org’s, and running community-oriented team building events.
+
+We also suggest that leaders keep a finger on the pulse of employee engagement and do quarterly reports that measure Executive NPS by department, survey employees, and solicit online reviews. We often see the results of these metrics and employee engagement surveys at the board level, and we suggest that the employees that are contributing positively to culture be acknowledged and rewarded.
+
+![Jeff Weiner, CEO of LinkedIn on building a business culture based on strong values](https://www.bvp.com/assets/uploads/2019/06/jeff-weiner-quote-10-laws-cloud-min.jpg "Jeff Weiner, CEO of LinkedIn")
+
+### Law 10: Map your fuel stops
+
+The most enduring companies raise capital well before they need it, and they plan strategically on when and why they go out for another round.
+
+Executive teams take a lot of calculated risks when building a great business, and financing risk should not be one of them, especially in this mature cloud environment in which investors understand and enthusiastically support cloud businesses. If you truly have a business that can lead a massive market (Law 1) and a sales and marketing model that is starting to prove itself (Law 3), it would be irresponsible not to fully invest behind your company’s potential. Otherwise another company in this highly competitive modern market will.
+
+Develop a high-level but multi-year financial model early on, and have your financing milestones in mind from the beginning. As you scale up, refine the assumptions and become much more detailed in the model. The most successful cloud CEOs in Bessemer’s portfolio generally raise a half round ahead of what their financial plans say are needed, so that they can always have one to three years of runway in the bank.
+
+```
+Having one to three years of runway in the bank allows a company to stay on offense and provide enough buffer to absorb risk and setbacks.
+```
+
+This cushion allows companies to be aggressive with growth experiments and also provides a buffer in case some initiatives do not work as well or as quickly as planned. More cash allows cloud businesses to stay on the offense independent of market conditions.
+
+![Chris Comparato, CEO of Toast on executing to a product roadmap and gearing up for the next round of financing ](https://www.bvp.com/assets/uploads/2019/06/chris-comparato-quote-10-laws-cloud-min.jpg "Chris Comparato, CEO of Toast")
+
+### Bonus: Run the "Public Playbook"
+
+Most ambitious cloud founders want to control their own long-term destiny, and ultimately to be a large public company. In the current market environment, crossing $100+ million of ARR, while growing over 40% at cash flow breakeven (or clear line of sight to cash flow breakeven within a year of IPO) generally allows cloud companies to successfully IPO. These businesses have efficiency scores greater than 40%.
+
+Passing the $100 million ARR threshold is a good proxy for a company having demonstrated its ability to weather competitive pressures, secure product/market fit, and build an efficient sales engine. With current market multiples, it also often implies public valuations of $1+ billion, which is substantial enough that public institutional investors will care about owning a stake in the business.
+
+```
+In order to control your own destiny and have the option of a very successful IPO, you should target $100 million+ in ARR and 40% efficiency score.
+```
+
+Statistically, most cloud founders will choose to sell their businesses before reaching the milestone of an initial public offering, but setting your sights high and having a credible path towards achieving them will also dramatically increase your leverage in M&A discussions when they present themselves. Cloud executives create additional leverage in M&A discussions by forging personal relationships with CEOs of acquisitive companies; often the largest M&A outcomes stem from these relationships.
+
+![Avishai Abrahami, CEO of Wix.com on being metrics driven as a company goes public ](https://www.bvp.com/assets/uploads/2019/06/avishai-abrahami-quote-10-laws-cloud-min.jpg "Avishai Abrahami, CEO of Wix.com")

@@ -1,0 +1,139 @@
+# AI Startups Are Rethinking Pricing Early
+
+Welcome back to Good Better Best!
+
+We’ve got a good one this week. On Wednesday, I caught up with [Kyle Poyar](https://www.linkedin.com/in/kyle-poyar/) to get his take on the shifts I’m seeing in startup pricing and packaging.
+
+He dropped a goldmine of tactical insights, including:
+
+*   The 3 factors driving higher pricing sophistication at early stage startups
+    
+*   Why founders need to get over the myth of the ‘perfect pricing model’
+    
+*   What incumbents can do to keep their edge
+    
+*   A short-list of practical advice for startup founders
+    
+
+Let’s get to it.
+
+_PS. I’m organizing a small roundtable with Metronome’s Scott Woody to answer questions about pricing AI products. If you’re actively working on this, or exploring consumption-based pricing, shoot me a [DM](https://www.linkedin.com/in/roblitterst/) and I’ll add you to the list._
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!QuHL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F324ffa22-625f-4722-8999-9c195b13fc0f_2400x1252.png)
+
+](https://substackcdn.com/image/fetch/$s_!QuHL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F324ffa22-625f-4722-8999-9c195b13fc0f_2400x1252.png)
+
+In the AI era, software performs the work—so why are we still pricing by seats? Metronome’s latest blog post explores the shift to outcome-based and hybrid monetization, and why usage-aligned billing is becoming foundational for teams launching AI features.
+
+Learn how to evolve beyond flat subscriptions and build pricing that matches what your product _actually_ does.
+
+[Read the full post](https://metronome.com/blog/three-eras-of-software-value?utm_campaign=monetization-wp&utm_medium=newsletter&utm_source=pricingsaas&utm_content=)
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!ZZnw!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab94d54f-d1a7-41ad-8df2-ef8ee72a6d08_1366x674.png)
+
+](https://substackcdn.com/image/fetch/$s_!ZZnw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab94d54f-d1a7-41ad-8df2-ef8ee72a6d08_1366x674.png)
+
+In the last couple months I’ve noticed a shift in conversations with early-stage AI and SaaS founders. Simply put, they know way more about pricing and packaging, and have a much bigger appetite for complexity than they used to. I wanted to understand if this shift was isolated to a few ambitious entrepreneurs, or if it's something bigger.
+
+So this week, I chatted with [Kyle Poyar](https://www.linkedin.com/in/kyle-poyar/), Co-Founder and Operating Partner of Tremont, and author of [Growth Unhinged](https://www.growthunhinged.com/) (a must read if you aren’t already).
+
+We dug into why AI startups are approaching pricing earlier and with more sophistication than their SaaS predecessors, how legacy SaaS companies need to evolve, what trends are emerging in 2025, and tactical advice founders should keep top of mind.
+
+Startups are no longer waiting until they hit $5M ARR to think about pricing. For AI startups, pricing conversations are happening before the first dollar of revenue. Kyle chalks it up to 3 things:
+
+**First, the stakes are higher.**
+
+> _“AI companies are reaching their first million, even $10 million in revenue, lightyears faster than traditional SaaS startups. That speed raises the stakes on pricing. If you launch with the wrong model, say a flat fee or seat-based structure, you might end up with negative gross margins and thousands of users acquired through a flashy demo. By then, it’s incredibly hard to change pricing behavior. Cursor is a good example of a company that struggled when they tried to bolt on usage-based pricing later. Once expectations are set, resetting them can trigger major backlash.”_
+
+Unlike traditional SaaS, you can't just grandfather legacy users. If those customers are unprofitable and you're racing toward $10 million ARR, you need to act or the losses will pile up. In short, the downside risk of getting pricing wrong is much greater than it used to be, which creates an urgency to get it right from the get-go.
+
+**Second, the cost dynamics of AI models force an early conversation around consumption-based pricing.**
+
+> _“A lot of people assumed that LLM costs would go to zero – that AI would quickly commoditize. Based on that, they designed pricing around flat rates or unlimited plans, hoping to ride the wave of cheaper and more powerful models. But what's actually happening is more nuanced. While per-token costs are coming down, overall costs are getting more expensive as agentic use cases add complexity. You see companies like OpenAI going from a $20 per seat plan to $200 per seat. So while there's commoditization at the baseline, there's also rapid advancement in capabilities, and an increasing willingness to pay for access to those premium capabilities.”_
+
+The bottomline: the narrative that AI costs are heading toward zero just doesn’t reflect current reality. Smart AI founders realize they can’t use that assumption to avoid thinking seriously about usage-based or credit-based monetization. The end result is a more nuanced conversation around pricing far earlier.
+
+**Third, AI startups are actively embracing outcome-based pricing for products that focus on a very specific job-to-be-done.**
+
+> _“AI is getting crowded. It’s easier than ever to build AI capabilities, so the startups that stand out are the ones focusing on a specific job that their AI can do better than anyone else, often by bringing in domain expertise or proprietary data. The most exciting companies I see are deeply focused on verticalized workflows with clear KPIs and success metrics tied to that job. In this context, pricing becomes a process of discovering what customers truly value and how you deliver ROI.”_
+
+This means thinking beyond “our AI saves you 15 minutes a day.” Founders should identify their most valuable customers before launch, and understand, in dollars and cents, what outcomes they care about.
+
+Then they can say: ‘We do this job better than a human hire, and we’ll charge based on outcomes we know you value at a specific rate.’ That kind of pricing story is far more compelling, especially in a crowded market. Additionally, this kind of pricing unlocks headcount budgets, which are often 10x larger than software budgets.
+
+The shift to outcome-based pricing is not just for startups. SaaS incumbents need to keep up. In the words of Kyle, systems of record need to become systems of action.
+
+> _“A lot of traditional SaaS products – CRMs, applicant tracking systems, marketing automation platforms are systems of record. But the future is about becoming systems of action. The real value lies in the actions a product can take and the outcomes it drives, not just in storing information.”_
+
+Many legacy tools were built to store data. But as users grow accustomed to LLM interfaces and proactive AI assistants, the value shifts to action: what the software _does_, not just what it stores.
+
+As customer expectations shift in this direction, offering a database with a UI won’t be enough, and customer willingness to pay will adjust to reflect that. This could lead to tough renewal conversations for companies that don’t evolve.
+
+Another interesting dynamic Kyle pointed out is the inevitable tension this will create between open and closed ecosystems.
+
+> _“The challenge is that many incumbents will be tempted to close off their ecosystems to protect their data. You see this already with tools like Slack limiting API access to companies like Glean. But that runs counter to what customers want. The value isn’t just in the data, it’s in what you can do with it. If incumbents use their data advantage to build truly powerful systems of action, they have a real opportunity to reinvent themselves.”_
+
+The good news for incumbents is they still have an edge. They sit on rich historical data and customer trust. But Kyle warns they need to move fast to layer in agentic capabilities and rethink packaging in order to stay ahead.
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!DWr4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F753e955b-abe1-435d-8b0c-e26760769c94_1686x1088.png)
+
+](https://www.willingnesstopay.com/webinar/agentic-ai-pricing-1-of-6-ai-pricing-strategy-concepts)
+
+Kyle recently published the [2025 State of B2B Monetization Report](https://www.growthunhinged.com/p/2025-state-of-b2b-monetization). While the data revealed hybrid pricing as the go-to model for SaaS and AI companies, Kyle stressed the importance of founders realizing that there’s no perfect pricing model.
+
+> _“There’s no such thing as a perfect pricing model. Founders often think that if they can just find the ‘right’ model, it’ll unlock everything. The reality is, every pricing model comes with tradeoffs. Your job is to understand those tradeoffs and design around them. Take outcome-based pricing. It’s great from a marketing perspective. It signals confidence in your product and lets you tie pricing directly to the customer’s success, which can unlock higher willingness to pay. But the downsides are real. Attribution is messy. You end up fighting with customers for credit. Forecasting becomes harder. So if outcome-based pricing is the right strategic fit, maybe because you deliver better results than competitors, you need to build the systems that make it work.”_
+
+Besides understanding that there’s no perfect pricing model, Kyle also stresses that the biggest difference in successful pricing models comes down to the small details.
+
+As an example, he pointed to how Figma navigated the challenges of expansion with a seat-based model in the early days ([he also wrote a great post about this](https://www.growthunhinged.com/p/your-guide-to-plg-pricing-201)).
+
+> _“Seat-based pricing can be tricky for collaboration products. If every collaborator needs a paid seat, it adds friction and limits virality within an account. Figma had a smart solution for this. Up until recently, their model allowed full users to invite non-paying collaborators for free. The admin would then get a notification before the billing cycle saying, ‘Hey, you’ve added more users.’ They could either remove those users or approve the additional seats. It was a clever system. It enabled seamless collaboration and feedback without blocking usage, while still creating a path to monetization. They’ve since shifted that model. As Figma moved more upmarket, they needed something more admin-friendly and predictable. Now they often get customers to commit to more seats upfront, and their pricing aligns more with enterprise expectations.”_
+
+Kyle’s point is that we could have debated endlessly about whether seat-based pricing made sense for Figma, but they made it work by designing the model to fit their product and customer behavior.
+
+These small details matter. They're what make a pricing model actually work in practice. The best companies pay close attention to user behavior: how customers try to game the system, where they hit friction, or what they’re hoarding. Are people sharing licenses like they’re on Netflix? Stockpiling credits for one key use case? Avoiding use in certain teams?
+
+Understanding these behaviors at a granular level is where pricing becomes more art than science.
+
+So what can startup founders do to win in this new, and quickly evolving landscape? Kyle offers a few pieces of tactical advice for early-stage teams.
+
+**First, have pricing conversations well-before you launch.**
+
+> _“The first thing I always recommend is to start having conversations about pricing and willingness to pay early. It’s not about walking up to someone and asking, ‘What would you pay for this?’ Instead, ask: ‘How are you solving this today? How much does that cost you? What budget would this come out of, tech or headcount? How much can you spend without needing your boss’s approval? What proof would you need to get this through procurement?’ These conversations are critical. Too many founders either delay them or skip them entirely. But they help you understand whether you're solving a real pain point, something people will pay enough for to support a business.”_
+
+**Second, develop a plan for expansion.**
+
+> _“You don’t need to build it all on day one, but you should know what your expansion axes will be. Even if you start with a single product and a flat fee, that’s fine. But without a path to expand, you’re setting yourself up for churn issues. Growing up to $5M is possible with a flat-fee model. But without any expansion levers, growing from $5M to $10M or $10M to $20M becomes much harder. Churn compounds, and you have to acquire new customers at an unsustainable pace just to stay ahead. Ideally, you want two axes for expansion — whether that’s usage, seats, new modules, or something else.”_
+
+**Third, understand that pricing** _**is**_ **positioning.**
+
+> _“A lot of founders aren’t natural product marketers, and they wait too long to hire one. But pricing tells a story about who you are and what makes you different. Too often, people copy the dominant player in their space. In some cases, pricing can actually be a key differentiator. Maybe you’ve found a lower-cost way to deliver the same value, and you can go to market with transparent pricing, a free plan, and a self-serve motion that undercuts expensive, PE-backed incumbents. If that’s your edge — lean into it. Make it obvious. If your product is truly different, your pricing should reflect that.”_
+
+**Lastly, don’t overlook structure.**
+
+> _“One thing I think founders often overlook is the structure of their pricing. We spend a lot of time debating the metric: seat-based, usage-based, outcome-based, but far less time talking about the structural elements that surround it. For example, are you offering pay-as-you-go pricing or volume-based subscriptions? Do you include a base amount and then charge for overages? Do you cap spend to give customers predictability? Are there volume discounts? These structural choices have a massive impact on how easy it is for customers to buy and how they behave once they do.”_
+
+Structure can also have an impact on buyer psychology. Kyle referenced DoorDash’s DashPass. Customers pay $10 a month, and suddenly all their delivery fees disappear. That changes how people think about ordering. Once you’ve subscribed, using DoorDash feels like picking up takeout – there’s no extra cost friction.
+
+> _“These are structural design choices that influence customer psychology and behavior. If you get them right, they can create real competitive advantage. But they don’t get nearly enough attention in most pricing conversations.”_
+
+Big thanks to Kyle for sharing his time and insights! For more, check out his must-read newsletter, [Growth Unhinged](https://www.growthunhinged.com/).
+
+[Share](https://newsletter.pricingsaas.com/p/the-new-startup-pricing-playbook?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+*   **PricingSaaS Community:** Join the free [PricingSaaS Community](https://community.pricingsaas.com/latest) to get quick answers from experts, real-time pricing data, and access to exclusive events.
+    
+*   **PricingSaaS Index:** Check out the [PricingSaaS Index](https://pricingsaas.com/companies) to track competitors, scroll pricing histories, and create a swipe file of pricing pages for inspiration.
+    
+*   **Free Advisory Session:** Need a sounding board? [Book a 30-minute session](https://calendly.com/litterst). No sales pitch. We’ll provide honest feedback and steer you in the right direction.
+    
+
+#### Discussion about this post
+
+### Ready for more?

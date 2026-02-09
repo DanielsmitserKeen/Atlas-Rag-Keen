@@ -1,0 +1,57 @@
+# Insights on building next-wave GenAI companies from Europe’s leading agentic startup founders
+
+GenAI is developing at lightning speed. This is the fastest technological revolution the world has ever seen, and European founders are among the pioneers defining the next wave of innovations.
+
+We were thrilled to host some of these founders at Dawn HQ for our recent _AI Horizons: Pioneering the Next Wave of GenAI_ event, where industry insiders shared insights into what’s coming in 2025 and beyond. Speakers included three founders building companies innovating at the cutting-edge with AI Agents: Ben Peters of [Cogna](https://www.cogna.co/), Anton Osika of [Lovable](https://lovable.dev/), and Dimitri Masin of [Gradient Labs AI](https://gradient-labs.ai/).
+
+[AI Agents are changing the world as we know it](https://dawncapital.com/ai-agents-a-new-form-of-automation/). Ben, Anton and Dimitri are all building agentic applications that can execute specific actions across sales, customer success and code development, often without a human in the loop.
+
+The three founders joined Dawn Principal, [Shamillah Bankiya](https://dawncapital.com/members/shamillah-bankiya/), for an engaging and far-reaching panel discussion. Together they explored topics ranging from growth approaches that are working on the ground, to how AI Agents can help deliver an equitable AI-driven future.
+
+![](https://miro.medium.com/v2/resize:fit:1050/1*e0zL2gpO9Xng_qOubGXReg.jpeg)
+
+Here are some of our key lessons from the discussion:
+
+## **The full automation vs co-pilot approach: Pioneering agentic startups are exploring different pathways to deliver reliable results for enterprise**
+
+AI Agents are exciting because they can learn from mistakes and adjust their series of tasks, meaning they can deliver ‘pure work,’ rather than just being a helpful co-pilot. However, enterprises need to know their AI Agents/agentic tools are completely reliable, creating tension between automation and control, so our panel explored the question: ‘How autonomous should agentic applications be today?_’_
+
+Lovable harnesses AI Agents to rapidly create revenue-generating, customer-facing applications — something that used to require huge time and capital investment. Anyone can visit the Lovable website, describe the software they need, and receive an interactive version within 20 seconds.
+
+Anton believes that the secret to success in this space “lies in constraining the AI” within your product. He said: “At Lovable, the AI handles small tasks, then checks back with the user, asking questions like: ‘Is this what you wanted?’ or ‘Did I go on a detour into something else?’ This quick feedback loop ensures the AI stays within its capabilities, providing dependable results.”
+
+Cogna rapidly builds precision software for enterprises in traditional sectors. The company is taking a more software-focused approach to overseeing its agents. Ben said that to deliver reliability and tackle high-value problems for clients, Cogna wraps structure and formal instructions around its agents. This enables its engineers to perform “static checks” on what agents are doing at any time.
+
+He said: “It feels to me like this is the ‘unspoken truth’ in the AI Agent world — that a lot of it is actually static analysis and formalisation.”
+
+## **Start narrow before expanding: Being hyper-focused on a vertical before scaling horizontally is working for agentic startups on the ground**
+
+It can often be tricky for founders to balance honing a niche and ensuring that their product remains broadly applicable.
+
+Gradient Labs currently enables enterprises to automate complex customer support. In future, the company intends to provide a platform that companies can use to automate any function that requires manual, repetitive work. The company’s co-founder, Dimitri, said that focusing on a specific, deep vertical before expanding out has worked well for the company, which launched in mid-2023. Having an initial focus has helped its team develop robust, high-quality solutions that are now being generalised.
+
+Dimitri said: “We focused solely on customer support initially, because we realised fully automating with agents is actually very, very hard to do — even if you focus on a particularly narrow use case. Along the way, we’ve found out that we’ve built a general purpose technology that enables enterprises to follow many types of procedures. For example, we’re now testing with some banks on money laundering alerts… these are pretty much a perfect example for procedural type of work.”
+
+Ben said that Cogna has taken a similar approach, and stressed that starting narrow before expanding is only possible with a great team on board. He said: “Once you’ve solved one problem for customers, ask: ‘what are the adjacent problems?’ Build on that and constantly innovate… To do this, you’ve got to build with a team that’s able to design for the future.”
+
+## **Talent is everything: Europe’s deep pool of tech talent is helping agentic startups compete globally**
+
+All three founders are benefitting from being able to access a deep pool of top-level, affordable tech talent in Europe. They said that attracting this talent has hinged on offering the chance to work on cutting-edge problems and good equity packages. And retention involves constant commitment to teamwork and evolution.
+
+Anton said: “I think you really have to be at the frontier of doing something, because that’s fun for smart people.
+
+“We’re also finding that you have to constantly work on being productive as a team. You need to have more collective intelligence and evolve and learn together, and that’s more important than the short term outcomes. It really brings people together, and it creates a team vibe that’s very strong.”
+
+Ben said that finding the first 5–10 top hires has been the hardest part of the company’s talent journey. He shared that filtering by mission-drive, and then offering impressive talent “good equity packages”, have been key to successful hiring at Cogna.
+
+He said: “The talent density in Europe is phenomenal. Then the best thing to do is to filter that talent further for the people that are not only interested in the technology, but actually genuinely believe in and feel motivated by your mission, and are product-focused.”
+
+## **Europe’s agentic startups are now looking to tap into the more risk-tolerant US market**
+
+Our panellists discussed the advantages and drawbacks of being based in Europe vs the US. A key point that emerged was that US software buyers are less cautious than European buyers, creating an impetus for startups to expand into the US early on in their journeys.
+
+Dimitri said the company plans to tackle the issue by launching its product and establishing a marketing and sales team in the US as soon as possible.
+
+Anton said that there is also a “patriotic” element to European startups wanting to tap into the global market. He said: “We care about this region, and this technology is going to completely transform our civilisation, so it can’t just be done in the US. You have to use the great talent we have here and configure it to create the most competitive companies.”
+
+_If you’re interested in reading more about AI Agents and developments in Europe, please check out our_ [_Dawn Atlas_](https://dawncapital.com/ai-agents-a-new-form-of-automation/) _article and Market Map._[](https://medium.com/tag/ai-agent?source=post_page-----eead5953719f--------------------------------)

@@ -1,0 +1,178 @@
+# What is Product-Market Fit & How to Find It For Your Startup
+
+The essential principle of product-market fit—_that you need to build something people want to buy_—sounds obvious. But **lack of product-market fit is widely cited as the most common reason startups fail.** Unfortunately, it’s all too easy to focus on what you’re most excited to build, or what you _think_ users want, instead of studying the market and your users’ needs. 
+
+This article helps you understand what product-market fit is and offers 6 best practices to follow to achieve it. 
+
+## Use Contentsquare to build products your users love
+
+Contentsquare’s experience intelligence platform helps you really understand your users—so you can build a SaaS product that fits their needs.
+
+*   [](https://app.contentsquare.com/signup?utm_source=csq_website&utm_content=guide)
+
+Product-market fit happens when you **successfully** **identify your target customers** **and serve them the right product for their needs.** When your product matches a specific customer need, it’ll practically sell itself. 
+
+However, product-market fit is something of a chicken-and-egg situation: what comes first, the product or the customer’s response to the product? As we’ll see, achieving product-market fit is an iterative process that involves speaking to your target customers, building something, requesting feedback, and then tweaking your product in response—rinse and repeat!  
+
+After achieving product-market fit, the next step is to scale by finding more customers within your target market through research ([user feedback](https://contentsquare.com/guides/user-feedback/) and [interviews](https://contentsquare.com/guides/user-interviews/)).
+
+## 6 steps to achieve product-market fit 
+
+Here are 6 best practices to help you understand how well your product currently serves your users so you can evolve it into a solution that fits them like a glove. 
+
+### 1\. Define your target customers 
+
+Before you even have a product, you need a preliminary understanding of your target customer. Scope out who your ideal user would be, including their demographic information, their preferences, the problem they’d use your product to solve, and the outcome they’d seek from it. 
+
+Update this definition regularly as you gather new information from conversations, interviews, and [surveys](https://contentsquare.com/guides/surveys/). Researching your customers and how best to serve them will continue for as long as your business exists.
+
+As a startup or early-stage company, your product will probably satisfy a small segment of the market. As you grow, so will your understanding of the problem you’re solving—your customer profile and [positioning](https://contentsquare.com/guides/grow-your-saas-startup/positioning-branding/) will evolve. 
+
+### 2\. Talk to your customers—constantly 
+
+To validate your working definition of your target customers, it’s crucial to talk to them—over and over again. Regularly meet people who fit your target demographic and ask smart, open-ended questions, listening closely, and spotting patterns across discussions. The more frequently you talk to would-be customers, the faster you’ll notice when your expectations don’t align with their needs—or when real enthusiasm begins to show. Keep the loop open, stay curious, and let your market guide your next move.
+
+In general, you’ll need questions about:
+
+*   **Your target customer’s background**—who they are, where they work, what a typical work day looks like for them
+    
+*   **What your target customer needs to do**—what pain points they experience, what they are doing to solve them, what solutions they have tried
+    
+*   **How your product might help**—how they heard about it, how they are using it, whether or not they found ways of using it with other tools
+    
+
+**Pro tip:** interviewing people in your target market is traditionally a logistical headache—but it doesn’t have to be. Contentsquare’s [Interviews](https://contentsquare.com/platform/capabilities/interviews/) tool streamlines the whole process. With our diverse pool of 200,000+ candidates at your fingertips, recruiting suitable interviewees is no longer a blocker. 
+
+Once it’s done, the tool helps you get the most out of your interview. It creates an accurate, AI-powered transcription of everything that was said. You can rewatch your interview, leave comments on its timeline for your colleagues, and even create highlight clips of the most insightful moments. 
+
+And when it comes to thanking your interviewee, you can send them compensation in a single click. 
+
+Here are [25 interview questions](https://contentsquare.com/guides/user-interviews/questions/) to ask your users. The article also teaches you how to create your own.
+
+![[Screenshot] Session Replay > Transcript view](https://images.ctfassets.net/gwbpo1m641r7/2oNagf38Vhk64i7PySTU2n/7eae7975ab786dcd76ac392e4888bf0f/Screenshot_Session_Replay.png?w=3840&q=100&fit=fill&fm=avif)
+
+_Get an accurate, AI-generated transcript of your user interview to help you dissect the insights_
+
+You have to become comfortable with being uncomfortable. When you ask, 9 times out of 10, people are really flattered that you value their opinion. So, I think the advice is just to go for it and get stuck in.
+
+Hannah Chaplin
+
+Co-Founder @ Receptive (exited, now acquired by Pendo)
+
+### 3\. Leverage insights from other team members 
+
+Another way to collect data on your product-market fit is via customer support channels and feedback widgets. If you’re a small team, you should answer customer issues yourself. When you grow, keep support in-house if at all possible: it’s the only line customers have to talk directly to your team and a crucial channel to understand how they truly feel about your [product experience](https://contentsquare.com/guides/product-experience/).
+
+**Besides this, set up a system for your product team to report and store customer needs and problems**. It’s likely that you already have a process for receiving complaints about product functionality or usability, or even feature requests, for which your product team owns the inbox for. 
+
+Use Contentsquare to create a feedback widget—a small, unobtrusive button at the bottom of your users’ screens that allows them to leave a short comment about your digital product if they feel motivated to do so.  
+
+![Customer story - eShopWorld - Image 1 (feedback collection)](https://images.ctfassets.net/gwbpo1m641r7/vwAWX3RoX7yaUKS1ZTtDT/02bc8763b7d344d3414aef840a982fe2/Feedback_button.png?w=3840&q=100&fit=fill&fm=avif)
+
+eShopWorld installs the feedback collection widget on their checkout page (which forms part of their solution to their clients). Whenever there’s a sudden fluctuation in conversion, they look at feedback data first.
+
+_Contentsquare’s Feedback widget allows users to leave an emoji reaction to a webpage, along with a line of feedback_
+
+If you receive feature requests and complaints about product functionality or usability, use this as a signal that you need to learn more about demand and begin a conversation with your team. Talking about how and why your product is working (...or not) will help you devise useful solutions, which may or may not mirror the requests or changes your customers had suggested in the first place. 
+
+### 4\. Strategically respond to feedback 
+
+Everyone you speak to will have an opinion on whether your product truly meets user needs. But **not all feedback is created equal—context matters**. For example, if you're aiming to [reduce churn](https://contentsquare.com/guides/customer-churn/) next quarter, focus on feedback from users who’ve recently canceled their subscriptions to your product.
+
+User type and engagement level should also guide how much weight you give to feedback. A paying customer who uses your product daily offers more valuable insights than an inactive user on a free tier. Segment feedback accordingly so requests from non-paying or low-engagement users don’t distort your priorities. 
+
+However, you should also create processes to store feedback from user segments you’re not currently focusing on. What seems irrelevant now might be useful later if your goals or markets shift. 
+
+**Pro tip:** let’s say you’re conducting a user survey to establish whether you’ve achieved product-market fit, or if not, which additional features would help you do so. You also only want users to respond if they’re on a paid plan and have spent at least 3 hours using your product. 
+
+With Contentsquare, you can use [User Attributes](https://support.contentsquare.com/hc/en-gb/articles/14303596974748-How-to-use-User-Attributes-with-surveys) to ensure your survey only appears to people who fit that demographic. This way, you’ll never have your results skewed by respondents who aren’t in your target market, or don’t know enough about your product to give useful answers.
+
+![[Visual] Contentsquare user attributes](https://images.ctfassets.net/gwbpo1m641r7/4pHKhga5JWssO2CKHzIDjN/e1982fc4e37bc61aaedf6d279daf3ab0/survey_settings_targeting_user_attributes.png?w=3840&q=100&fit=fill&fm=avif)
+
+_Contentsquare’s User Attributes feature lets you narrow down who your survey appears to_
+
+### 5\. Be transparent about who you’re building for   
+
+You can’t build for everyone, and you’ll have to deprioritize some potential use cases to become one customer segment’s dream solution. Avoid building features just because one person asked for them, or building for customers who are a bad fit. Instead, tailor-make a product for users who share your vision and fit your target niche. 
+
+As you grow your startup, you’re going to get a lot of feature requests from customers (and would-be customers). **If the requests don’t align with your vision and plans, be honest and upfront about it**. Having a public roadmap is a good first step, and you’ll be surprised how much respect a sentence like “We really appreciate your feedback, but we will probably never build this” or “It’s not what we had in mind for this feature” will get you. As a general rule, know that you can’t please everyone, so you shouldn’t try to.
+
+![[Visual] Clickup roadmap](https://images.ctfassets.net/gwbpo1m641r7/WiHQrDgf3z5zcZ643X4q9/95a4a0d382d415d106da5b7b8990f691/Public_roadmap_.png?w=3840&q=100&fit=fill&fm=avif)
+
+_Project management software ClickUp’s public roadmap—note the ‘planning’ and ‘in progress’ stages_
+
+### 6\. Assess your success with survey tools (and by reading the room) 
+
+It’s notoriously hard to measure product-market fit. However, the most common way to understand how close you are to achieving it is with [Net Promoter Score® (NPS®)](https://contentsquare.com/guides/net-promoter-score/) surveys—a customer loyalty and satisfaction measurement that shows how likely your customers are to recommend your product to others. 
+
+**Set them up in seconds with Contentsquare’s Net Promoter Score® survey template.** Then, send the survey out via a link in an email (perhaps to customers who have been using your product for more than a month) or embed it on a page of your site. Contentsquare will track your NPS® Score, revealing how it evolves over time. 
+
+![Visual -> NPS visual ](https://images.ctfassets.net/gwbpo1m641r7/8aHNinqCVkdMGhs6oMgHx/0f8336c2f058a8e9b71612dced2d4238/NPS__surveys.png?w=1920&q=100&fit=fill&fm=avif)
+
+_An NPS score of 30+ means you have more happy customers than unhappy ones—and 70+ means the majority of your customers would give you word-of-mouth referrals_
+
+Though NPS® survey results are a good place to start, remember to take them with a pinch of salt. More often than not, when you’ve got product-market fit, it’ll be obvious. Entrepreneur Jason Cohen explains the subjective feeling of having product-market fit as a ‘click’—a sense that it’s no longer hard to acquire and retain customers:
+
+There is no doubt when you have it. If you’re not sure whether you have product-market fit, you don’t.
+
+Jason Cohen
+
+Founder, WP Engine
+
+In other words: is your product creating organic growth, where people spread the word on their own? Are people willing to pay for your product? If they are, then congratulations. You have found product-market fit. 
+
+## Key takeaways
+
+*   Use 1-on-1 interviews to get to know your customers
+    
+*   Get in touch with your customer support team and find out what customers are complaining about or struggling with
+    
+*   If you are a small team, be the customer support yourself
+    
+*   Welcome feedback, but always weigh it based on customer value: keep an eye on where it comes from
+    
+*   Don’t try to please everyone: be honest and open about your [product roadmap](https://contentsquare.com/guides/product-roadmaps/)
+    
+
+## Blog Posts
+
+*   [Product-Market Fit (PMF): Experience & Data](https://longform.asmartbear.com/product-market-fit/), Jason Cohen 
+    
+*   [Think $1M ARR Means You’ve Achieved Product-Market Fit? Think Again](https://kaitlynhenry.medium.com/think-1m-arr-means-youve-achieved-product-market-fit-think-again-2dbc6156135c), Kaitlyn Henry
+    
+*   [How to Find Your First 10 Clients and Not Lose Them in 1 Month](https://www.productmarketfit.tech/p/how-to-find-your-first-10-clients), Guillermo Flor
+    
+*   [How Does a Small Company Make Its First B2B Sale?](https://www.onepagecrm.com/blog/how-does-a-small-company-make-its-first-b2b-sale/), Alan O’Rourke
+    
+*   [The Product-Market Fit Game](https://posthog.com/founders/product-market-fit-game), James Hawkins
+    
+
+## Video & Audio
+
+*   [The Only Guaranteed Way to Find Product-Market Fit,](https://www.youtube.com/watch?v=IBMUgZFj1Dw&ab_channel=VC10XwithPrashantChoubey) Pablo Srugo and Prashant Choubey
+    
+*   [Measuring Product-Market Fit](https://foundersjournalpod.morningbrew.com/measuring-product-market-fit/), Alex Lieberman
+    
+
+## Books
+
+*   [The Mom Test: How to Talk to Customers and Learn if Your Business Is a Good Idea When Everyone Is Lying to You](http://momtestbook.com/), Rob Fitzpatrick
+    
+*   [Hooked](https://www.amazon.co.uk/Eyal-Collection-Books-Indistractable-Hooked/dp/9123934204/ref=pd_lpo_d_sccl_2/259-6986560-9443340?pd_rd_w=AsRBy&content-id=amzn1.sym.bb13d3fc-af40-4fff-a822-e0e4c415da96&pf_rd_p=bb13d3fc-af40-4fff-a822-e0e4c415da96&pf_rd_r=0746AESEN4R6W4AGPH8F&pd_rd_wg=GgcjI&pd_rd_r=7acf263d-e02b-476b-b8cf-588b3a88ba30&pd_rd_i=9123934204&psc=1), Nir Eyal
+    
+
+## Use Contentsquare to build products your users love
+
+Contentsquare’s experience intelligence platform helps you really understand your users—so you can build a SaaS product that fits their needs.
+
+*   [](https://app.contentsquare.com/signup?utm_source=csq_website&utm_content=guide)
+
+## FAQs about product-market fit
+
+*   Every successful business you can think of is an example of good product-market fit, since to keep your company alive, you must create a product that satisfies the needs of a particular customer segment. To name some examples:
+    
+    *   **Spotify achieved product-market fit** by offering a streaming service with a range and price point that satisfies both casual and committed music fans
+        
+    *   **Smeg achieved product-market fit** by offering large, retro-style refrigerators that are in demand with style-conscious people who are decorating their kitchens and usually have a lot of groceries
+        
+    *   **Shein achieved product-market fit** by offering fast-fashion clothing for people who want or need to shop on a budget, and enjoy online shopping via an app

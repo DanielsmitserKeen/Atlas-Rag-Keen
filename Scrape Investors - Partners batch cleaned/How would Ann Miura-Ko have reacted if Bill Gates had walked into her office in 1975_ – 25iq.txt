@@ -1,0 +1,180 @@
+# How would Ann Miura-Ko have reacted if Bill Gates had walked into her office in 1975? – 25iq
+
+## My views on the market, tech, and everything else
+
+Ann Miura-Ko is a Partner at the venture capital firm Floodgate. She is a lecturer in entrepreneurship at Stanford. Prior to co-founding Floodgate, she worked at Charles River Ventures and McKinsey and Company. Some of Miura-Ko’s investments include Lyft, Ayasdi, Xamarin, Refinery29, Chloe and Isabel, Maker Media, Wanelo, TaskRabbit, and Modcloth. She has a BS from Yale University (EE); and a PhD from Stanford University (Math Modeling of Computer Security.)
+
+Since my post from last weekend was about Floodgate’s co-founder Mike Maples Jr., I decided to write about Miura-Ko’s ideas in the context of a specific early stage business I know something about (Microsoft in the 1970s and early 1980s). Miura-Ko’s ideas are, as usual, in bold text and my commentary follows. This post is different in that I am commenting on a specific hypothetical and how Miura Ko’s ideas and approaches might have been applied. This is an experiment and I may or may not do this again.
+
+The thought experiment is as follows: Imagine you are Miura-Ko, had been sent back in a time machine and a 20-year old entrepreneur named Bill Gates walks into your office in 1975. Instead instead of bootstrapping Microsoft’s business like he did in real life, he is in this hypothetical seeking seed stage venture capital.
+
+1.  **“The priority as an early stage startup is at the bottom of the stack  —  What is the unique advantage or insight you are building your product on top of? The product/market fit will come later after your key insight of what your unique advantage is.”**
+
+The stack Miura-Ko is talking about in the bold text is a key part of the Floodgate investing process which starts at the bottom of this stack below and works up.
+
+![value stack](https://i0.wp.com/25iq.com/wp-content/uploads/2017/06/value-stack.png?resize=557%2C273&ssl=1)
+
+Miura-Ko is saying that at Floodgate the process starts with a careful look at strategy (i.e., whether business might be able to achieve a sustainable competitive advantage). Miura-Ko’s interest in “the unique advantage” of the entrepreneur is directly tied to the “proprietary power” of the business, which in essence is about creating sustainable competitive advantage. If everything that a business offers can be easily replicated by other businesses, then the entrepreneur’s business won’t be very profitable.
+
+Let’s apply Miura-Ko’s process to the hypothetical. What were Bill Gates and Paul Allen thinking about when they formed Microsoft?
+
+They had reached two important conclusions:
+
+1.   Computers would be owned by individuals; and
+2.   Software rather than hardware was the key to sustainable profit.
+
+To make the investment Miura-Ko would have believed that software rather than hardware was going to be Microsoft’s “unique advantage.”
+
+This focus on software seems obvious now but it was not obvious in the 1970s. I am not saying making hardware is never a good idea, useful to sell software or otherwise valuable but the fateful decision to focus on just software early in the life of the Microsoft business meant that the business was “capital light.” Microsoft never really needed to raise venture capital as a result and did so only once to convince Dave Marquardt of August Capital to join the board of directors. When Microsoft eventually went public years later Bill Gates alone owned nearly 50% of the outstanding shares because the business did not require a lot of externally provided capital to grow.  Microsoft went public when it did only because it had too many shareholders and SEC rules required that it do so.
+
+Strategy is about deliberately deciding to be different and finding unique advantage. Here is Bill Gates describing his thought process in creating a strategy for Microsoft in 1975:
+
+“The original insight for Microsoft was this: What if computing was free? The answer: Individuals would use computers as a tool, and software standards would become the critical element in making this happen.” Fortune, January 16, 1995
+
+![Paul and I](https://i0.wp.com/25iq.com/wp-content/uploads/2017/06/paul-and-i.jpg?resize=660%2C266&ssl=1)
+
+“When you have the microprocessor doubling in power every two years, in a sense you can think of computer power as almost free.  So you ask, Why be in the business of making something that’s almost free?  What is the scarce resource? What is it that limits being able to get value out of that infinite computing power?  Software.” Playboy, July 1994
+
+This is from ~ 40 years later (June 2017):
+
+![40 years](https://i0.wp.com/25iq.com/wp-content/uploads/2017/06/40-years.jpg?resize=624%2C309&ssl=1)
+
+The analysis by Gates that resulted in a focus on software was microeconomics linked to an observation about technology. That is was done by someone his age at that time is history was amazing.
+
+2.  **“If you are asking if you have product/market fit, you do not.”**
+
+A business that spends most of its time desperately trying to keep up with customer demand and has a scalable business model has found product/market fit. This is the part of the stack that Floodgate refers to as Layer 2 (Product Power).
+
+The history of Microsoft again is an interesting example of product/market fit. It was in 1975 that the MITS Altair 8800 appeared on the cover of Popular Electronics and inspired Gates and Allen to develop a BASIC language for that device. In 1975 Microsoft revenues were only $16,005. Would that have been enough to get Miura-Ko to invest in Microsoft at seed stage? I think so. The bet she made on Lyft supports my conclusion. Here below is Miura-Ko on Lyft:
+
+**“I invested in Lyft when it was still a business called Zimride. I invested because they came in and told me a story about how transportation innovation was critical to significant inflection points in the economy and that they believed such an inflection point was on the horizon. (No other transportation startups existed back in 2010 when I invested aside from Zipcar.) They had a hard time raising their Series A as well. It wasn’t until they pivoted into Lyft in 2012 that they started getting proactive interest from investors.” “Zimride was originally a platform for carpooling and they sold this platform to individual Universities and companies. They were making sales but it wasn’t working as a scalable business model. They had customers but it never felt like product market fit. Lyft was just another experiment that the team tried. They were also looking at doing bus routes from SF to Tahoe, renting vans from SF to LA, etc. The thesis for Lyft was — mobile is big and doing ride sharing peer-to-peer (P2P) would be interesting. The big questions for Lyft before they launched was how big of an idea was this and how confident were they in trying this. Normally the founders had been very nice but when they pitched the idea of Lyft they were very intense about it and the board said to go for it and try it. During the first week of Lyft launching (Zimride was still going on) Tommy Leep who worked with us at Floodgate said — “You have no idea how big this is going to be.” He experienced this magical moment while using Lyft and became one of their early power users. ”  
+**
+
+The decision about whether to invest in Microsoft would have been easier for Miura-Ko to make in 1978 when Microsoft’s year-end sales exceed $1.3 million. But a seed stage investor in 1995 wouldn’t have known that.
+
+3.  **“It’s the business model that matters. If you send me a 50 page business plan, I probably won’t read it. But send me a picture of your business model all the hypothesis that you have around your business model and I’ll take a really good look.”** “**Alexander Osterwalder has a book on business model generation and so there are different frameworks now that exists out there where you can use them to figure out what your business model looks like.”**
+
+The third layer in the Value Stack is mostly about development of a solid business model, which is the way that a business turns innovation into value. Did Microsoft have a sound business model? In 1975 this business model question was tricky, because at the time piracy was rampant which caused Gates to write his famous “Letter to Computer Hobbyists” about software piracy. Gates solved this business model problem by licensing the software to hardware manufacturers who could mostly be counted upon not to violate intellectual property laws.  Gates describes his business model as follows (remember in this thought experiment he is 20 years old and this is 1975):
+
+![MITS 2](https://i0.wp.com/25iq.com/wp-content/uploads/2017/06/mits-2.jpg?resize=676%2C181&ssl=1)
+
+“It’s all about scale economics and market share.  When you’re shipping a million units of Windows software a month, you  can afford to spend $300 million a year improving it and still sell it at a low price.” Fortune, June 14, 1993
+
+“We keep our prices low and innovate as fast as we possibly can because we are keenly aware of the large number of companies that are single-mindedly working to displace us in every software category.” Upside, April, 1995
+
+4.  **“We have our startups do is they’ll go through each component of a business model. In my mind those would be your users, your customers, your pricing which also includes your customer lifetime, how you do customer demand creation, your sales channel, and then on the backend if your producing something or if you have inventory your whole supply chain that could all your components, design, manufacturing, and inventory warehousing.” “How do the customers view you, what’s your value proposition to them? What’s your value proposition to the manufacturers? What’s your value proposition to the sales channel? How do you do demand creation? What’s the cost of customer acquisition? These are all questions that you should be constantly thinking about. And if the dollars in are not greater than the dollars out, then you need to rethink your business model right then and there.”**
+
+Gates might have said to Miura-Ko in her office that day what he would say later in an interview: “Our basic business strategy \[is\] to charge a price so low that microcomputer makers couldn’t do the software internally for that cheap. One of the bigger early contracts was Texas Instruments, where we bid $99,000 to provide programming languages for a home computer they were planning.” I believe Miura-Ko would have seen the potential of early Microsoft given her track record and investing style.
+
+5.  **“In the early stage, a good think to look at is — how good are they at early hiring? And what are they willing to give up to get the best people? One of the companies we invested in has successfully hired great talent at some of the top companies around Silicon Valley, even during this highly competitive market. The way they do this is the founders have spent a lot of time thinking about who they want to hire, how they do interviews, compensation structure, etc. They think about these issues just as much as they think about the product.” “If a company is advertising and posting job postings everywhere — this is a sign the company isn’t doing so well. There isn’t anyone who will advocate for your company like the people who are working there already.”**
+
+If you have been reading posts on this blog you have seen me write about the fact that missionaries more successful than mercenaries. There is even one post dedicated to just that issue. This matrix below illustrates why being a missionary can be 100% consistent with seeking high profitability.  The issues are separate.
+
+|     |     |     |
+| --- | --- | --- |
+|     | **Seeks high profitability** | **No profit objective** |
+| **Passionate re the product** | Missionary (Bill Gates at MSFT) | Missionary (Bill Gates at the BMG Foundation) |
+| **Not passionate re the product** | Mercenary | Volunteer (paying penance for some reason) |
+
+Founders who are not passionate about their mission fail way more often. Lots more. Employees and founders who follow their passion do better in their career. The passion and energy of gates and Allen caused many people to join Microsoft. Gates has several times lauded Steve Ballmer for his ability to hire great employees which allowed the company to scale. The team they built was essential to the company that was created. The more great people they hired, the more people wanted to work there.
+
+6.  **“We will only invest if there are thunder lizard ambitions but that has nothing to do with how much they raised upfront.”**
+
+There is no question though that the ambitions of Bill Gates were huge. This story from the book _Hard Drive_ about Gates takes place right before he would have visited the office of Miura-Ko in my hypothetical.
+
+“Gates had tried to prepare his parents for the fact that he might eventually drop out of Harvard to form a computer business with Allen. As Mary Gates saw it, her 19-year-old son was about to commit what amounted to academic suicide. …Mary Gates turned to a new friend, Samuel Stroum, an influential and respected business leader she had met during a United Way campaign, for help with her son. She arranged for Bill to talk with Stroum, in the hope that Stroum would convince her son to drop the idea of starting a company, at least for the time being, and continue his education at Harvard. A self-made multimillionaire, philanthropist, and civic leader, Samuel Stroum’s advice was often sought, even by the region’s most powerful movers and shakers… “I was clearly on a mission,” recalled Stroum of the couple hours he spent picking Gates’ brain. “He explained to me what he was doing, what he hoped to do. I had been involved in that industry since I was a young boy. He just talked about the things he was doing… Hell, anybody who was near electronics had to know it was exciting and a new era was emerging.” Gates talked about the vision he and Paul Allen shared. The personal computer revolution was just beginning, he told Stroum. Eventually, everyone would own a computer. Imagine the moneymaking possibilities…. a zillion machines all running on his software. Not only did Stroum not try to talk Gates out of his plans to start a business, but after listening to the enthusiastic teenager he encouraged Gates to do so. “Mary and I have kidded about it for years,” said Stroum, now 70. “I told her I made one terrible mistake—I didn’t give him a blank check to fill out the numbers. I’ve been known as an astute venture capitalist, but I sure didn’t read that one right.”
+
+7.  **“While you are an early stage startup it’s ok to incur technical debt. During this time period you really aren’t sure what is going to work and what isn’t going to work — the key should be emphasizing on moving fast and making quick decisions vs. making everything perfect.”**
+
+Miura-Ko is expressing a thought similar to Mark Zuckerberg’s idea that a business should “move fast and break things.” But in doing this Miura-Ko knows that some technical debt may be incurred and believes that this is acceptable. Ben Horowitz explained technical debt in his recent book _The Hard Thing About Hard Things_ in this way:  
+
+**“**Thanks to Ward Cunningham, the metaphor ‘technical debt” is now a well-understood concept. While you may be able to borrow time by writing quick and dirty code, you will eventually have to pay it back — with interest. Often this trade-off makes sense, but you will run into serious trouble if you fail to keep the trade-off in the front of your mind.”
+
+Almost every software company that is ambitious gets into a situation where there is some technical debt. When I asked a close friend for a good example of technical debt involving Microsoft he said:
+
+“With MS-DOS Word huge effort was undertaken to port the code to serve the Mac (and then the Windows code base). The debt though was that the data structures were designed for very small amounts of real mode memory and floppy disk space which were not the right assumptions to make for Windows with paged memory and hard disks.”
+
+![1](https://i0.wp.com/25iq.com/wp-content/uploads/2017/06/1.jpg?resize=531%2C149&ssl=1)
+
+8.   **“A lot of people get confused because we as a firm also talk a lot about Customer Development, the Lean Startup methodology. And they say, ‘Well how is that consistent with Lean Startups?’ The problem is people confuse lean with small. Lean has nothing to do with small. In fact the amount of capital that you’ve taken has nothing to do with whether or not your ambitions are big or small.  … Lean is not small. Lean is a tactic by which we help our entrepreneurs and the entrepreneurs help themselves in a data driven way figure out how they’re going to iterate their product.”**
+
+Bill Gates had to watch cash carefully since in the very early days there was a lot of uncertainty about revenue. When he meet with Miura-Ko in my hypothetical Microsoft would have had $16,005 in revenue and three employees. Gated would eventually go through a cash crisis when MITs stopped being a source of revenue. In an interview many years later the two Microsoft founders described the problem:
+
+Gates: “It could get scary. In our very first contract with MITS, we set them up to sell our BASIC to their customers, rather than us selling to computer buyers directly. We thought it was a good deal because they agreed to make “best efforts” to sell it. But later they decided not to sell to anybody at all because there were so many illegal, free copies of our BASIC floating around, so why try to charge people for it? That really made us mad because we thought it encouraged piracy. We eventually went into arbitration to determine if they were in compliance with the contract. In the meantime we were totally out of money…
+
+Allen: …because MITS was withholding payments from us while the arbitration was going on.
+
+Gates: They were trying to starve us to death. We couldn’t even pay our lawyer. They tried to get us to settle, and we almost did, it was that bad. The arbitrator took nine months to issue his damn opinion. But when it was all over, the arbitrator ripped them apart for what they had done.
+
+Allen: That case really, really scared us. If we had lost, we would have had to start over. Bill would call up his dad for advice. We were on pins and needles the whole time.
+
+Gates: But, you know, through it all, we never borrowed money. I always felt like if we had to, we could have. But we never did.”
+
+Gates would later write in his book _The Road Ahead_ about the impact of that experience:
+
+“After that episode, Microsoft has been perpetually cash flow positive. In fact, I developed a rule: We always have enough cash on hand to be able to run the company for at least a year if no one pays us. The MITS experience, suddenly having no income, made me very conservative, a trait that persists to this day.”
+
+9.  **“Nowadays people talk about pivoting as changing the homepage on your website and calling that a pivot. That’s not a pivot. A pivot is when you feel sick and you are going to throw up because what you are working on is such a dramatic shift and you don’t know if it will work or not.” “\[As an example\] the founders had this dilemma where Lyft was taking off but they still had Zimride going on at the same time. We went for a walk and they asked — what should we do with this other asset we have — should we move people over to Lyft? At the time this was a really difficult decision to make but we decided to move everyone onto Lyft. In hindsight this is a no-brainer decision but you need to understand the founders spent 3 years of their life selling the idea for Zimride, building Zimride, raising money for Zimride, having users for Zimride, and sacrificing weekends / friends / family to try to make this happen. Then you are faced with the realization that what you have been building this whole time isn’t working, but this thing you spent a month on is working. It takes a lot of courage to shut the thing down you have spent all of this time and energy on. I appreciate the courage it took for the founders to move aggressively into Lyft.”  
+    **
+
+Microsoft never did a pivot. So this is a hard one to put in this thought experiment.  While it was not a pivot, for Bill Gates and Paul Allen a prior business impacted what they would do later at Microsoft:
+
+“While Traf-O-Data was technically a _business_ failure, the understanding of microprocessors we absorbed was crucial to our _future_ success. And the emulator I wrote to program it gave us a huge head start over anyone else writing code at the time. If it hadn’t been for our Traf-O-Data venture, and if it hadn’t been for all that time spent on UW computers, you could argue that Microsoft might not have happened.”
+
+However this example did not involve the gut wrenching shift that Miura-Ko describes.
+
+10.  **“As an early-stage investor I’m not in the crazy fray of investing in companies once everyone recognizes the company is on a hockey stick trajectory. It’s my job to recognize the early signs of something interesting.”**
+
+I have already said that I believe Miura-Ko would have seen the potential of Microsoft in 1975 and would have made an investment if asked. But that was another time and place. Making early stage bets means a lot of investments will fail. It is easy to look back at a great success and say: “I would have invested in that.” To illustrate, someone who did not see the potential was an engineering student at the University of Washington who worked with Gates and Allen on their Traf-O-Data business had many conversations with Gates and Allen about PCs. He recalls: “The whole concept of having a big clunky PC in your house that just used up room, I thought that was totally dumb. I did not have any foresight into what was really going on. I just kinda fought it in my mind, and said, ‘Nah, this is not going to work.’”
+
+11.  **“We have invested in solo founders but the healthier dynamic is to have 2–3 co-founders. Being a solo founder is lonely and you are a prisoner to your own startup — that kind of dynamic can be really bad. Having 2–3 team members you feel much more social pressure to stay in the game and can focus the whole team on a problem, in general, teamwork is a more healthy dynamic. The other problem is there is no superhuman founder, everyone has their own weaknesses. It’s better to round out the edges of your weak spots.”**
+
+The early team at Microsoft was amazing. They all just fit together and created this positive feedback loop (lollapalooza) of success. The right people kept arriving at the company at just the right time year after year. When Miura Ko met Gates in this thought experiment there might have been just three Microsoft employees.
+
+In addition to Gates and Allen these people worked at Microsoft in the very early days:
+
+Steve Wood was a programmer who developed a version of FORTRAN for the 8080.
+
+Bob Wallace was a programmer who developed a version of BASIC for Texas Instruments (TI).
+
+Jim Lane was a programmer who was hired to write a DEC simulator for Intel’s new 16-bit chip, the 8086.
+
+Bob O’Rear was a programmer who worked on a translator to turn the 8080 BASIC code into 8086 code.
+
+Bob Greenberg was a programmer who worked on developing TI BASIC.
+
+Marc McDonald was a programmer who worked on converting 8080 BASIC for the NCR machine.
+
+Gordon Letwin was a programmer who developed a BASIC compiler.
+
+Andrea Lewis was a technical writer. Marla Wood was a receptionist/secretary/bookkeeper
+
+Many thousands of key people like Ballmer, Shirley, Gaudette and Maples Sr, would later join Microsoft just to name four. The problem I have about going further with names is that the list is long and if I leave someone out I will make that someone very unhappy. So I will stop at four. The important point is that these people balanced each other well and the whole was more than the sum of the parts.
+
+12.  **“Gutenberg was probably one of the first people who ever got venture capital so he had a business partner by the name of Faust and he went out and had this idea around the printing press and he got the equivalent of 5 years’ worth of peasants pay to get started on his business. His series B financing came about when he realized he needed a little bit more financing, so this time he asked for little bit more capital from the same guy and the guy gave him the equivalent of 10 peasants stone built houses. So he went along, made a few more mile stones and then had to go back for a series C financing. And then sure enough he was able to get that and it was the same amount; the amount that would basically pay for 10 stone houses for a peasant. And it turns out that the story ends very sadly. He wasn’t really able to satisfy his investors. His investors as you may have heard from other stories from entrepreneurs an investor gets very anxious, wants to see more milestones, he isn’t sure why this isn’t proceeding and eventually sues and he wins and he’s able to buyout Gutenberg’s portion of the printing store. Gutenberg actually died a relatively penniless man and most people don’t really realize his contributions to the printing press until much, much later. And the history books are then changed to reflect his contributions. Now my story today about investors and entrepreneurs is totally different. I believe actually that this whole relationship between innovators and investors is actually very much switched. The power has shifted to the entrepreneur.”**
+
+This is excellent story-telling by Miura-Ko which makes an important point: great founders are what creates Thunder Lizard businesses. Gutenberg was a great founder who did not have a great financial result.  But he did change the world in a very significant way. Capitalism requires failure since that is what drives a better life for society as a whole. The cities that produce that most successful startups and the most innovation do not treat failure as a stigma. Firms like Floodgate and investor like Miura Ko help make that happen. But it is the founders that matter most.
+
+**Notes:**
+
+Miura-Ko: [http://ecorner.stanford.edu/videos/2540/Funding-Thunder-Lizard-Entrepreneurs-Entire-Talk](http://ecorner.stanford.edu/videos/2540/Funding-Thunder-Lizard-Entrepreneurs-Entire-Talk)
+
+Miura-Ko: [https://medium.com/cs183c-blitzscaling-class-collection/class-4-notes-essay-reid-hoffman-john-lilly-chris-yeh-and-allen-blue-s-cs183c-technology-428defb04850](https://medium.com/cs183c-blitzscaling-class-collection/class-4-notes-essay-reid-hoffman-john-lilly-chris-yeh-and-allen-blue-s-cs183c-technology-428defb04850)
+
+Miura-Ko: [https://medium.com/cs183c-blitzscaling-class-collection/cs183c-session-4-ann-miura-ko-98617f03b580](https://medium.com/cs183c-blitzscaling-class-collection/cs183c-session-4-ann-miura-ko-98617f03b580)
+
+Miura-Ko: [https://techcrunch.com/2016/07/06/floodgates-ann-miura-ko-on-the-four-powers-all-venture-backed-startups-share/](https://techcrunch.com/2016/07/06/floodgates-ann-miura-ko-on-the-four-powers-all-venture-backed-startups-share/)
+
+Miura-Ko: [https://www.geekwire.com/2017/true-seattle-tech-engineers-loyal-san-francisco-indeed-data-confirms/](https://www.geekwire.com/2017/true-seattle-tech-engineers-loyal-san-francisco-indeed-data-confirms/)
+
+Allen and Gates:   [https://www.geekwire.com/2017/bill-gates-paul-allen-business-microsoft-engineer-partner/](https://www.geekwire.com/2017/bill-gates-paul-allen-business-microsoft-engineer-partner/)
+
+Fortune interview: [http://archive.fortune.com/magazines/fortune/fortune\_archive/1995/10/02/206528/index.htm](http://archive.fortune.com/magazines/fortune/fortune_archive/1995/10/02/206528/index.htm)
+
+Gates Smithsonian Oral History: [http://americanhistory.si.edu/comphist/gates.htm](http://americanhistory.si.edu/comphist/gates.htm)
+
+Ben Horowitz (The Hard Things About Hard Things): [https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205)
+
+The Road Ahead: [https://www.amazon.com/Road-Ahead-Bill-Gates/dp/0453009212/ref=sr\_1\_2?s=books&ie=UTF8&qid=1497272499&sr=1-2&keywords=the+road+ahead](https://www.amazon.com/Road-Ahead-Bill-Gates/dp/0453009212/ref=sr_1_2?s=books&ie=UTF8&qid=1497272499&sr=1-2&keywords=the+road+ahead)
+
+Categories: [Uncategorized](https://25iq.com/category/uncategorized/)

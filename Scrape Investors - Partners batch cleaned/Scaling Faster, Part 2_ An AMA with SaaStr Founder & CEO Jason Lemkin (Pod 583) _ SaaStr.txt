@@ -1,0 +1,649 @@
+# Scaling Faster, Part 2: An AMA with SaaStr Founder & CEO Jason Lemkin (Pod 583)
+
+[![](https://i0.wp.com/www.saastr.com/wp-content/uploads/2022/07/20-OFF-scaled.gif?resize=1000%2C499&ssl=1)](https://www.saastrannual2022.com/buy-tickets?promo=blog20)
+
+Jason recently opened up an AMA on Twitter Spaces to answer questions about how to scale faster. Episode 583 of the podcast is an excerpt from the recording, and you can find the full transcript below.
+
+**Jason Lemkin:**
+
+Super interesting times this week!  There’s so much talk about doom and gloom in the markets. So much talk about a downturn. So much talk about inflation. Robinhood doing massive layoffs. But maybe in SaaS and B2B … things are pretty good. This morning, a pretty slow growing player, Ping Identity, slow to move to SaaS, slow to move to the cloud, struggled in some ways to compete with Okta and others, was [acquired for 2.3 billion](https://www.saastr.com/alteryx-zoominfo-have-blow-out-quarters-ping-identify-acquired-for-2-8-billion-dont-call-it-a-downturn/).
+
+Ping sold for 10X revenues even while only growing 22%. So, that’s a pretty good multiple for PE by Thoma Bravo. And I think it shows that the top PE firms are pretty optimistic that things are going to remain good and get even better in SaaS and cloud. And then I would add too, notwithstanding some challenges out there, Shopify and others, [ZoomInfo and Alteryx announced earnings yesterday](https://www.saastr.com/alteryx-zoominfo-have-blow-out-quarters-ping-identify-acquired-for-2-8-billion-dont-call-it-a-downturn/) and blew it out of the water. ZoomInfo, which probably all of us at least know if we don’t use, grew 54% last quarter at over a billion in revenue. So that stock popped 10% yesterday. ZoomInfo, no recession there.
+
+**Jason Lemkin:**
+
+Alteryx, a little more nichey enterprise leader out there. Grew 33% year over year at almost 800 million in revenue. So yes, there are some challenges in the post-COVID world, the Zooms, the Shopifys and others are having some short-term challenges for sure, but watching what happened with ZoomInfo, Alteryx, Ping Identity, Atlassian, Cloudflare and others blowing out their quarters, I think is a good challenge to everyone saying that these are the worst of times, or we’re in some great depression or recession in SaaS, because clearly, clearly we aren’t.
+
+**Michiel Rauws (@michielrauws2):**
+
+So, my question is, we’ve been scaling our SaaS business. It’s a mental health-focused SaaS business. It’s a mental health chat bot. The ROI is amazing. It’s working well. We can scale accounts, when we get them, very well. And we now got to this point of $1-$2 million in ARR across about 50 to 60 contracts.
+
+**Jason Lemkin:**
+
+Okay. That’s pretty good.
+
+**Michiel Rauws:**
+
+Yeah, so it’s pretty good. So the new sales leader is trying to figure out, can we go further up market? And that’s also working. So now we’ve gone from 40K ACV to a 100K and above ACV. So, that’s all good. But now we’re getting into the problem of not enough top of funnel.
+
+**Michiel Rauws:**
+
+> And there’s two strategies we’re going after, one strategy is what we did before, so focus on insurance, which is very slow, and then the health systems that are faster, and then EAPs that are faster. So that’s still going on.
+> 
+> ### But I’m trying to figure out how much capital allocation should we do between continuing that strategy. And also on the side, doing a strategy of pure, just changing our ICP and fully picking it and making it super narrow and super focused, and having 25% of the team doing that. And 75% of the team continuing business as usual.
+
+**Jason Lemkin:**
+
+Yep. Well, let me step back for a minute to tease on what you’re saying, I’ll answer your specific question, but to help other folks that might be listening now or later. And look, what happens with almost every B2B startup is your initial little micro… The way you get to your initial group of customers, how you acquire them, plateaus. [Everything at marketing plateaus](https://saastrstage.wpengine.com/every-marketing-initiative-every-channel-plateaus-plan-for-it/). [We wrote this on SaaStr](https://www.saastr.com/the-lead-plateau-you-may-hit-just-as-it-gets-good-how-to-plan-around-it/) multiple times. And I’m going to ask you next, what you’re doing to acquire those customers, because I think your current playbook, it’s just not accelerating. It’s not adding to your pipeline and adding to your bookings. And I suspect that’s what the issue. Because we all see this somewhere between one and 5 million in ARR, is the initial motions, blog posts, the type of events we did, the type of outbound we did, the type of paid ads we did on Facebook, or sometimes wow, even Google or others. It’s not that it stops working; it just plateaus. And so, eventually, the growth plateaus. And we all see that from say, one to 5 million in ARR, unless we add new ways to acquire customers.
+
+**Jason Lemkin:**
+
+So typically, I would say, and I’m a little bit talking out of my rear here. I would say eight to nine times out of 10, what you’re seeing is not only common, but typical of not doing enough marketing and not expanding your marketing playbook, rather that you have the wrong ICP, because listen, you already got to a million in ARR with pretty good ACV with your current ICP, so why would you change it? Right?
+
+**Michiel Rauws:**
+
+Yeah.
+
+**Jason Lemkin:**
+
+And I think so usually, and let me add to that and then I’ll ask you the one follow up question about what you’re doing a marketing, because I think that will help you and help everyone. But look, if you already got to a million in ARR with your 50 or 20 customers, whatever it is, there’s no way you have 100% market share, is there? You haven’t been around long enough. It’s impossible, right? So, of course, it’s very hard to exhaust almost any TAM, even a niche TAM, until 10, 20, 30, 40 million ARR. You just haven’t done it, so it’s usually a marketing issue and not an ICP or vertical issue. There can be exceptions, but you’d have to be the world’s best sales and marketing team to have exhausted your TAM, right?
+
+**Jason Lemkin:**
+
+So just, not to spend all the time on this, but how are you getting your customers today? And maybe I could come up with a general idea. How many customers did you say you had today, 40 or something? Did I get that wrong? 50. How’d you get the 50?
+
+**Michiel Rauws:**
+
+Yeah. So mainly through conferences.
+
+**Jason Lemkin:**
+
+Okay.
+
+**Michiel Rauws:**
+
+And luckily our innovation is very innovative, so people invite us to speak for free. So, that’s amazing. And then COVID happens, so there was less. And now we need to decide whether to go back or not to those conferences. But the thing about the TAM you were talking about is that, partially what we’re seeing is that those customers, it’s harder to get bigger contracts out of them. And in that way, the problem partially is that also our value prop is limited because there’s different benefits plans. So you have the health plans, they have huge budgets and it works perfect, but they’re super slow. And then there’s these smaller ones-
+
+**Jason Lemkin:**
+
+Yeah. Okay. But listen. Listen, we can chat about it forever. Here’s the thing, listen, let me simplify it for you, the way you got your initial… And we’re all different. The way we learned to get the first customers. Then later as we scale, we converge and we all do the same stuff. But early, you guys got good at events, right? It’s not uncommon. You got good at events. And it worked. And then COVID hit, and you didn’t do as many events. And now you’ve got a sales leader that’s doing okay, but you’re not generating any leads for her or him, right? So first of all, go back and do more events.
+
+**Jason Lemkin:**
+
+One, it works for you. Some folks are really good at events. Two, you cheaped out. You only did the ones where you could speak, right? And of course, speaking at events works, someone who runs events, it always works. Wherever you should get on stage, do it. But do you have a booth? Do you go to events and get better at the ones where you don’t speak? Can you go to two to three times the events? Are you going to all the best events in your industry, right? Because events are back with a force. So before you give up, make sure you double down on events because it’s working, right?
+
+**Jason Lemkin:**
+
+And the last thing I would say is, you probably don’t have a head of marketing, right? You probably hired a head of sales before a true head of marketing is my guess, right?
+
+**Michiel Rauws:**
+
+Yeah.
+
+**Jason Lemkin:**
+
+So go hire that person before you give up, because you haven’t added to the toolkit of marketing. Your toolkit is events, and triple down on it. I think if you got to over a million of revenue from events, the world is back, do double what you did before, and that alone might get you half the leads you need to get to three to four to 5 million ARR. So, that’s how I would boil it all down. So thanks for the questions.
+
+**Michiel Rauws:**
+
+Awesome. All right. Thank you so much. This has been very helpful.
+
+**Alex Stoica (@heyalexstoica):**
+
+Jason, I have a question for you. 
+
+> ### When do you recommend to diversify the distribution channels or the customer acquisition channels for a SaaS? Or it’s better to do things that don’t scale in multiple areas? What’s your point of view?
+
+**Jason Lemkin:**
+
+Well, let’s talk about… I want to make sure I understand the question so we can answer broadly in terms of diversification, but your connection was pretty bad. So try to quickly re-ask it. Or I’ll give it my shot. But diversify in what sense? Just quickly re-ask the question.
+
+**Alex Stoica:**
+
+At what point you should, as a VP of marketing or as a founder, when do you \[inaudible 00:10:25\] that it’s okay to start \[inaudible 00:10:27\].
+
+**Jason Lemkin:**
+
+Sorry, your connection was pretty bad, but I think it’s a good follow up point to Michiel’s, to the good discussion we had with Michiel on using just one channel to get to that one to 2 million.
+
+**Jason Lemkin:**
+
+So, I think you’ve got to distinguish between diversifying and marketing and adding a layer, okay? And diversifying, if you’re still early, before 10, 20 or 30 million revenue, that could be a sign that things just aren’t working, that you don’t actually have product market fit, which is unfortunate, but you need to be honest about it. You need to be honest, if you have product market fit. Because if you do, once you have a little bit of a mini brand, you should at least have a decent level of growth in SaaS. But don’t over-diversify. Don’t do 10 or 20 things, or go into 10 or 20 different markets. Double down on what’s working, going to Michiel’s earlier point. If it’s events, double down on events until you’ve truly exhausted it.
+
+**Jason Lemkin:**
+
+And then every two quarters, twice a year, possibly three times a year, if you can handle it, add a layer, add a new initiative. And the best way to add a new thing in marketing is to constantly be trying small things. And then, if you’re early stage, if anything works at all, lean into it. Don’t sweat it if like webinars only sort of work for you; you only got one or two customers, right? Or if you do events and you showed up, and you barely broke even, that’s pretty good in the early days. Anything that can acquire you any customers at all, here’s the meta-learning, anything that marketing that they get you any customers at all, even if you barely break even, is worth it, because you’ll get better at it. You will learn how to improve it, how to optimize it. And every customer is gold in the early days.
+
+**Jason Lemkin:**
+
+So, put 60 to 70% of your efforts in marketing, in whatever’s working. It’s the 70, 20, 10 rule, right? Put 20% of your marketing efforts into newer things that have any ROI at all, right? Anything above zero. And then use 10% as pure experiments so you can feed that 20 and that 70 in the future. That’s my simplification of the question. So thanks.
+
+**Kunal Sharma (@dbzkunalss):**
+
+> Yeah. Hey Jason.
+> 
+> ### So I had this question regarding how do we solve for the build versus buy question that we have ongoing?
+
+**Jason Lemkin:**
+
+It’s a fake question, but ask your question. It’s a fake question. But ask the question.
+
+**Kunal Sharma:**
+
+Yeah, yeah. That’s it. I just needed to know what are the evaluation parameters for build versus buy?
+
+**Jason Lemkin:**
+
+Well, look, first of all, let’s step back for build versus buy. There’s a classic SaaStr post, you can find it if you just do this search on saastr.com. [Build versus buy is really just now versus later](https://www.saastr.com/build-vs-buy-mostly-really-now-vs-later/), right? Because we’re in the 20th year of SaaS, no one really wants to build anything. No one has an engineering team with the time to build anything. And even those that do, never get it done on time. And then you’re left, in most cases, with a one-off piece of tool with no one to support and invest in it, right?
+
+**Jason Lemkin:**
+
+So there certainly are niches of the enterprise where build versus buy is true, where really some customer has 20 extra engineers to dedicate to a project that you’re competing with. In the rare cases where that’s literally true, and that’s almost evaporated in the last 10 years, where it’s literally true, they’ll probably fail or get behind. So worst case, you can still win that deal in six to nine months if you keep the relationship going, right?
+
+**Jason Lemkin:**
+
+Build versus buy is usually something you hear in the enterprise because the SMBs have no engineers at all, right? So if it’s really true, wait for the internal project to either fail or not scale up.
+
+**Jason Lemkin:**
+
+And then two, really, it’s more of a sign, I think, that your sales process is going okay, but not great. Build versus buy means, the prospect has recognized the problem is real, one. Two, that they want to solve it because they’re looking at it. But three, it’s not so urgent or so well defined that they’re going to buy your product today. So you’ve just got to keep getting better at sales. I know that sounds silly, but it’s mostly a good sign when you’re hearing this. It’s mostly a good sign that there’s engagement, but that you have not described so much value that you could provide to the customer now that they’re willing to pull the trigger with you, because it’s always cheaper to buy than to build. It’s always cheap. There’s almost no exceptions, including soft costs, where it’s cheaper to build, right?
+
+**Jason Lemkin:**
+
+So I think it usually means you’re on track. The good news is you’re getting into deals, because the conversations are actually happening. It’s a good sign. That you’re actually… Congratulations, the hardest part, you’ll realize later, is getting into the deals, right? Closing them seems harder, but eventually, if you’re good at building software, you’ll get better at that. But you’re not describing enough value. So ask, ask, what could we build so that you would buy it now? Build the relationships. Can we do a pilot? Is there a key feature? What would it take? And ask the question, right?
+
+**Jason Lemkin:**
+
+And then after you’ve had eight or 10 conversations where you ask the question, you’ll see enough convergence on the answers that you’ll be able to sell this product better. And you’ll already know the answer to that question, and you’ll get better and better at answering that objection. But again, it’s frustrating, but it’s a good objection, because it means you’re in the deal and there’s at least interest in buying. But it may also be a sign that you haven’t created enough urgency. So, thanks. That’s a good question.
+
+**Kunal Sharma:**
+
+Understood. This also brings me to another question regarding-
+
+**Jason Lemkin:**
+
+Yes, quickly, but yes.
+
+**Kunal Sharma:**
+
+> Yeah. So teams nowadays are offloading the switching process in a SaaS. They are asking the decision maker what can they do to make the switching part easier? That is, they can help you with the integration, they can help you with this setup, they can help you with the training.
+> 
+> ### Do you think, is training and onboarding your customers a great investment to do if you’re early in your product?
+
+**Jason Lemkin:**
+
+To do training and onboarding for your customers? Is that a good investment to make? Is that the question?
+
+**Kunal Sharma:**
+
+Yes. That includes offloading their development efforts regarding integrations as well.
+
+**Jason Lemkin:**
+
+Well, look, you know the answer to the question, let’s simplify it for the broader group. How much should you do for your customers in terms of onboarding, in terms of integrations, and in terms of seemingly custom work? Let me simplify it that way, right? To a version of your question.
+
+**Jason Lemkin:**
+
+The bottom line is, you should do as much onboarding, period, as you humanly can. And then let’s talk about features and customization. Look, there are very few products that are so elegant, like Notion and Slack, that onboard themselves. So anything you can do with people, in the end of the day, is going to be cheaper than building software. So anything you can do to facilitate onboarding, and that includes training, that includes configuration, don’t force your customers to do it. Now, when you get bigger later, if you’re more enterprise, you’ll find partners that can do that work for you, like deployment partners, but you won’t have them in the beginning. So you’ve got to be that deployment partner and make sure the app gets out and gets deployed. And whatever you do, remove as much friction out of deployment as possible.
+
+**Jason Lemkin:**
+
+Related to that, is the question, what do you do about seemingly custom integrations and development work? Is the question you’re asking. And look, the answer at the end of the day is pretty simple, which is that if it’s a good customer and you think other customers will benefit from that integration or feature, just do it. Just do it. Don’t overanalyze it. Look, if it’s going to take you two years to build some crazy integration that no one’s done before, that’s undocumented and has no API, maybe don’t do it, right?
+
+**Jason Lemkin:**
+
+But usually, what seems like a one-off request from an early, at least a larger customer, is usually just a gift because your customers are telling you the future. Because usually, especially just for midsize or bigger customers, there’s always another customer, five other customers, 10 or 20 that are honestly just like them, right? Almost no customer has a truly unique business problem.
+
+**Jason Lemkin:**
+
+So you’ve got to ask yourself, yes, this weird integration with SAP that we don’t really want to build. Well, look, will anybody else benefit from it? Right? Err on the side of building it, if someone else could benefit from it. And certainly, if the integration is with a market-leading platform, if it’s with a Salesforce, a Shopify, a Zendesk, right? Anyone that’s a top company, UiPath, whatever, someone asks for it that will pay, just build it, because there’s almost 100% chance someone else wants to integrate with those leading platforms, and you get so many benefits learning early, how to win in Salesforce, how to win in Shopify, how to win in these ecosystems, the benefits of learning them early, just carry on for years and years and years and compounds.
+
+Hey Jason, thanks for running this. So we are scaling up to a 100K ARR. So we’re in that-
+
+**Jason Lemkin:**
+
+Congratulations.
+
+**Colin:**
+
+> 100K experience, which is always fun. And I have talked with a bunch of different people, getting data points on scaling up to three different ways. One, content marketing and optimizing SEO. So you talk to Sabba at VEED, they’ve got up to, now 3 million monthly actors hitting their website. I talked to another and it says, “Look, you’ve done some sales at the SMB and up side, so bring in a sales lead.” Or at least an early \[inaudible 00:22:57\] sales. And then the last is performance marketing, which we’ve dabbled in, as well. And it’s full PLG and bottoms up. So where would you place your bet?
+
+**Jason Lemkin:**
+
+Well, look, let me step back for a couple minutes. You’re at a 100K in ARR, right? So 8K a month in MRR. How many customers is it?
+
+**Colin:**
+
+Customer base is around 75.
+
+**Jason Lemkin:**
+
+Okay. Well, the good news is once you’re above 50, 60, approaching a hundred, the good news is you have a statistically significant number of customers. So you can start to analyze, what’s our typical deal size. You can start segmenting it. It’s not actually too early to segment your customers, right? Do you have different segments, small, medium, and large.
+
+**Colin:**
+
+Definitely.
+
+**Jason Lemkin:**
+
+And it certainly isn’t too early to understand what’s worked, right? Where you got those 75 customers, right?
+
+**Colin:**
+
+Yeah.
+
+**Jason Lemkin:**
+
+So obviously, you want to do more. Going back to the early point we had with Michiel, job one is doubling down on whatever’s worked, right?
+
+**Trey:**
+
+Yeah.
+
+**Jason Lemkin:**
+
+Don’t be scared to double down, even if it’s painful or the ROI seems mediocre, at least it’s working. But then your questions are content marketing, sales, and performance marketing, right? Well, look, I’ll do a little bit extra on sales at the end, but let’s answer it at a high level. They all work if you have the right resources. Okay? If you bring in a mediocre salesperson right now, they probably will break it. Because you’re doing founder-led sales today, right?
+
+**Colin:**
+
+That’s correct.
+
+**Jason Lemkin:**
+
+So, nothing-
+
+**Colin:**
+
+We did that. We brought in a mediocre and it didn’t-
+
+**Jason Lemkin:**
+
+And they closed nothing, and they closed nothing, right?
+
+**Colin:**
+
+That’s right. Three months and just a pipeline.
+
+**Jason Lemkin:**
+
+And we’ve all had that story. We all have that story. But if you find your magical sales rep, and reread this SaaStr post, go to saastr.com and search for [that first magical rep](https://www.saastr.com/that-first-magical-sales-rep/), and the key to the magical rep is that you would buy from them. So, let’s go back to this rep you hired, be honest, looking back, they probably worked somewhere cool, right? Or had a lot of talk the talk. But would you have bought from them? Your own product?
+
+**Colin:**
+
+After hearing where the pitch ended up after six weeks? No.
+
+**Jason Lemkin:**
+
+No, but you should have figured that out. You knew before you hired him or her, you actually knew.
+
+**Colin:**
+
+I know. I have a sales and engineering background. \[inaudible 00:25:07\].
+
+**Jason Lemkin:**
+
+Yeah. You know.
+
+**Colin:**
+
+Yeah.
+
+**Jason Lemkin:**
+
+So, don’t learn the wrong lessons. The mistake you made, that so many make, is you hired a rep because they had industry experience, or they talked the talk. But it’s so easy, just hire someone that you would buy from. And usually, that magical sales rep is someone that’s a little smarter than average, or a little bit more passionate about your product, maybe even is even only a mid-pack rep at their last job, they weren’t always President’s Club. But boy, they almost could be an SE as well as a salesperson, right? They love it.
+
+**Jason Lemkin:**
+
+And then I’m going to come back and answer your question, then we can break. But I didn’t totally get this when we found my magical sales rep, Joe Colletti. But he was so smart. He was not a top rep at the SaaS job before, but he came in, and he crushed it for a decade. And I remember the moment I… I knew he was good, but I didn’t really get why. I knew he was smart. His parents were both doctors, not that matters, but it does show he was probably maybe at a few more IQ points than average. But I was at one of the first Dreamforces, and one of our customers, I think it was SageIntacct, grabbed me by my jacket, almost by the scruff of my neck, it was shocking, outside of… And he said, “Jason,” I’m like, “Who are you?” He’s like, “You’re the guy from EchoSign.” I’m like, “Yeah, that’s me.” He’s like, I love Joe Colletti.”
+
+**Colin:**
+
+Yeah. That’s amazing
+
+**Colin:**
+
+A rep. Okay. When you find that person, and here’s the thing, they don’t have to be the best rep, they just have to be okay, because you will backfill them, and you will help them, and you will do that. When you find that person, they will, number two, will work for you. Okay. The second point. So that’s why two didn’t work for you, okay?
+
+**Jason Lemkin:**
+
+Then let’s go back to content marketing. I don’t know anyone that does content marketing aggressively and well where it doesn’t work. Okay? And if you want a fun example at your stage, go to saastr.com and search on content marketing in a company called RevenueCat, that I was the first investor in. And [we put an example of the one piece of content marketing](https://www.saastr.com/corporate-blogs-always-work-but-only-if-you-do-them-right/) that got them like their first half million of customers, okay?
+
+**Jason Lemkin:**
+
+And I put it up because it’s not that they did 10 million pieces of content, or hired an agency. They didn’t. The founders knew one problem, which was how to get billing to work, subscription billing to work on mobile devices, how to get it to work on iOS and Android. And they wrote an iconic piece on how it really works. Not bullshit, right? Not for an ebook. And everyone found it. Google is magical. And if you write an iconic piece of content once a week, it works, right? SaaStr gets a million visitors a month from our content over 10 years, right? But if you phone it in, if you hire an agency, if you write the most boring, obvious content in your space, right? It doesn’t work. And that’s why people say content marketing doesn’t work.
+
+**Jason Lemkin:**
+
+But if you write content, at least once a week, written is the best for Google, but other things work too. YouTube works. Podcast. We could talk about other things, we’d run out of time. But the advantage to a blog is it’s so optimized for SEO, right? For Google search.
+
+**Jason Lemkin:**
+
+If you have passion around it… But you have to have passion, then write one amazing thing a week. One amazing thing that really helps your industry, ideally with data, right? With data to help people, because people like data. You will not necessarily, that afternoon, get the best lead, but I would be shocked if, six months in, it doesn’t produce 20 to 30% of your customers. I just see it again and again and again. But you’ve got to commit to it, and it’s got to be great or we’ll have the same effect as the sales rep. And then, the performance marketing, look at the end of the day, it’s the same thing, right? If you hire someone, a mediocre marketer, they just spend all the money and it’s gone.
+
+**Colin:**
+
+Right, right. No, I mean, we’re, we’re doing it all ourselves, right? Both from the co-founders, we’re writing three articles a week.
+
+**Jason Lemkin:**
+
+Yeah, but are they great?
+
+**Colin:**
+
+Well, here’s the thing that actually paid off, and we took the strategy from VEED and from, from Loom, is that you take every small little feature of your product that can stand alone, and you turn that into its own landing page.
+
+**Jason Lemkin:**
+
+Yeah. That does work. It’s just, it’s not… And I’m glad it works. I’m not challenging you. It’s just some of these apocryphal stories make it sound easier than it is, right? It worked for DigitalOcean. It worked for others, right?
+
+**Colin:**
+
+Yeah.
+
+**Jason Lemkin:**
+
+It’s not always magic.
+
+**Colin:**
+
+Nope. Nope, no. It’s not. But if we had to choose between spending 10K on performance marketing and try to find our Joe, we should probably take a few more swings of finding our Joe.
+
+**Jason Lemkin:**
+
+Yeah. You should. And then we can break. But ultimately, in a year, you’ll find that 10K a month for performative marketing is nothing. And the bigger question is just, does it perform at all? Right? Do you get any customers from it? Right?
+
+**Jason Lemkin:**
+
+And I guess the last point I’ll make, and then we can break is, the real way to think about performance marketing…most of us here are not B2C folks, right? We’re selling long lifetime customers, hopefully at least a half \[inaudible 00:29:45\], at least thousands a year or tens of thousand dollars a year.
+
+**Jason Lemkin:**
+
+So the reality for performance marketing, going to the first point we made at the start of this, is anything that works is worth it. Most performance marketing in B2B, just try to make your money back. Because if that customer lasts five or 10 years, it’s gold, right? It’s gold.
+
+**Jason Lemkin:**
+
+And so, that’s all. The only goal for performance marketing is do anything. Try Facebook, try things that seem expensive, like Capterra or G2, even try paid webinars when you have a little bit of money. And just try to make your money back. Just try to get bookings equal to the cost. And then you’ve got something, this isn’t B2C where you’re trying to get 10 million people to buy your game. It’s enough if it adds a layer, right?
+
+**Jason Lemkin:**
+
+But I think you’re onto the right things. Other than that, hopefully, this was helpful on the sales rep. Go find someone that honestly you would buy from, honestly. And then I will bet you dollars to doughnuts it works. So thanks for the questions. 
+
+**Sep Armeen (@separmeen):**
+
+> Yes. I have a question. I have an earlier stage of startup. My competitors are Xero, QuickBooks, and Bill.com.
+> 
+> ### If I want to follow their growth playbook, how should I approach it? Considering that I have limited budget. Thank you.
+
+**Jason Lemkin:**
+
+Well, look, the world has changed since Xero and Bill.com. All those were started back in the day. Bill.com and Adobe Sign, EchoSign that I started, we started about the same time. And those were so many generations ago of the internet, that while some things are literally the same, I don’t think how they got off the ground is even relevant today. Because the markets are so much bigger and so competitive.
+
+**Jason Lemkin:**
+
+The only thing I can really say is, and this is barely helpful, but figure out what your 10X feature is. Every market has so many vendors today, but there’s always a sub-segment of the market that’s looking for a particular type of innovation. So be very clear about what your 10X feature is. The one reason people will buy you instead of Xero and Bill and these other very well-established products with very strong brands. What’s the one thing you have that no one else has? And then one way or another show up, show up where they are. Show up at their events in the real world. Show up where they are online. Show up in their communities. Show up where they advertise, right? Don’t be scared to show up where your… A lot of people are scared to show up where their competition is. That’s a sign of weakness. You want to be where your competition is, because that’s where your prospects are, right?
+
+**Jason Lemkin:**
+
+And I’ve learned this as a founder, and I’ve learned this with, we have 200 sponsors for SaaStr Annual in our events. And we certainly find some newer startups are like, “Oh, I don’t want to be at SaaStr Annual and have a booth because my competitor’s there. I don’t want to be where my competitor is.” And there’s some logic to that. But you know what you really want? Yeah, your competitor is at the booth a hundred yards away, but you want their leads to come to you too.
+
+**Jason Lemkin:**
+
+And you don’t even have to have the better product to win if you go where your competitors are, you just have to have a 10X feature so that some segment of the market will pick you, some part of that market and then be where they are.
+
+**Jason Lemkin:**
+
+So I know it’s not perfectly helpful advice, but I would worry less where Xero and Bill and others, how they got started, because it’s 15 plus years ago. And I would focus more on being wherever they are and being crystal clear on what’s 10X better to make your customers’ lives better, not being 5% cheaper. That’s rarely better. But what one integration, what one feature? What one workflow do you do that’s magic, and get that magic out there. And there’ll be a subset of folks who are either new customers or frustrated with the old vendors that will reach out and have a conversation and see if that 10X feature is real. It works. So hopefully, that’s at least somewhat helpful.
+
+**@mdarrab:**
+
+> Hey, how are you, Jason? I have one simple question.
+> 
+> ### What’s your take on acquiring startups, especially for those in late stage SaaS companies, to acquire startups as a way of scaling faster?
+> 
+> What’s your take? Have you ever came across a good, I would say, checklist to help you to decide whether or not scale organically, or scale within the company, or go and acquire other company who’s doing the same.
+
+**Jason Lemkin:**
+
+Yeah. Let’s talk about that for a minute. It’s a niche topic, but it’s an interesting one. You mean, what’s the advantage of a much larger startup acquiring a smaller one? Is that the question?
+
+**@mdarrab:**
+
+So, one method today is discussed among founders is for you to scale faster, you can scale your in-house team, or you go and acquire an existing startup in another market, and buckle up with them and scale faster using that.
+
+**Jason Lemkin:**
+
+Yes.
+
+**@mdarrab:**
+
+What’s your take on that, either horizontally or vertically? Have you come across this?
+
+**Jason Lemkin:**
+
+Well, it’s a good question. And I have learned, I’ve learned this when I was early in my career, I thought that startups acquiring startups was a terrible idea, because you’re doubling the technical debt, it’s a distraction, it’s stupid. We actually almost combined what’s Adobe Sign, EchoSign, with DocuSign at the peak of the market. And I thought it made sense on paper, but I thought it was a terrible idea in practice because there was no commonality between the code base or anything under the hood. I thought it made no sense and I realized I was wrong. And I’ve watched this over the years.
+
+**Jason Lemkin:**
+
+And it’s interesting, we started off this conversation talking about the hottest stock of this week is ZoomInfo. ZoomInfo has crushed it during this so-called downturn. ZoomInfo last quarter crossed well over a billion in revenue, growing 54%.
+
+**Jason Lemkin:**
+
+And if you watch ZoomInfo, and you can go in SaaStr and [watch the couple of talks](https://www.saastr.com/?s=Henry%20Schuck&et_pb_searchform_submit=et_search_proccess&et_pb_include_posts=yes&et_pb_include_pages=yes&x=0&y=0&is_v=1) that I did with the CEO, Henry Schuck, ZoomInfo was built on multiple acquisitions. In fact, ZoomInfo was the name of a company that Henry bought. His faster growing, but smaller competitor, was ZoomInfo, right?
+
+**Jason Lemkin:**
+
+And what’s the point? Well, look, my point is that sometimes this is a distraction and a headache, but if you’re good at it, can be amazing. And ZoomInfo built an almost $20 billion SaaS leader on top of acquiring both vertically and horizontally. Vertically with its direct smaller, but faster-growing competitor, the company, ZoomInfo. And horizontally, buying tons of other products like Chorus and others. But Henry’s good at it, and the team is good at it. And he’s talked a lot about how to be good at it.
+
+**Jason Lemkin:**
+
+If you’re bad at it, everyone just leaves the next week, right? Nobody really wants to work for somebody else. People go to startups for autonomy. People found companies to run it, and they go to join startup leaders because they want more autonomy, not working for the big company or working for the man.
+
+**Jason Lemkin:**
+
+So, long way of saying, like a lot of things, it only works if it works well, but there are many examples of it working well and see if you can be good at it. And then bear in mind, if you really want to do M&A as a growth strategy, you’ve got to know that a few will bomb. Or if you can’t budget that, then you have to invest more time. And at the end of the day, the reason most of these acquisitions, whether they’re acqui-hires or product hires like ZoomInfo, or platform hires, the real reason they fail is folks put all the energy into the deal, but they don’t put enough energy into the integration and after the deal.
+
+**Jason Lemkin:**
+
+And I remember like when we were acquired by Adobe, and again, this was a long time ago, but they didn’t even show up, the senior folks didn’t even show up to our welcome meeting, only HR people did. The heads of the BU, it wasn’t even worth their time. So what was the hope that deal was going to outperform? 0%, right? People talk about the deal, they talk about the price and all this stuff. None of it matters. What matters is how a deal performs after you do it. So if you’re going to do it, realize it’s a multi-year commitment to making it work.
+
+**Jason Lemkin:**
+
+And when Henry Schuck talked about ZoomInfo, the prior time when we did it at SaaStr, [he came to Barcelona](https://www.saastr.com/henry-schuck-ceo-of-zoominfo-my-top-10-mistakes-getting-to-1-billion-in-arr/) a couple months ago. [We did one during COVID](https://www.saastr.com/from-0-to-400m-10-mistakes-the-ceo-of-zoominfo-made-on-his-journey-to-ipo-with-henry-schuck-video/). Search for that one on SaaStr. What he talked about is he remade his entire sales team around ZoomInfo, and he let them take over his sales team, in part, right? So he double leaned in, and found all the good things they were doing and let them run it across the company. That’s one of the many reasons it worked, is empowering those folks to do it. But it’s an art. So a rambling answer to, I think if you’re good at it, and you really commit the time, you can accelerate with the strategy, but if you do it half-arsed, if you don’t put in the time, it could start to fail the minute the deal closes.
+
+**Koyfin (@KoyfinCharts):**
+
+> Hey, this is Rob from Koyfin. I just had a question on your point previously about hiring your first salesperson.
+> 
+> ### You have any advice on how to optimize the compensation for that one person? And also, because it’s a little bit hit or miss, do you recommend hiring maybe two people and then incentivizing them more with commission, and seeing which one is the best? How would you think about that?
+
+**Jason Lemkin:**
+
+Okay. It’s a good… Let me simplify all the stress there is around the comp for your first one or two sales hires. But before we get there, let me answer the second question. One of the earliest SaaStr posts I wrote, again, go to saastr.com and search for it, was [when you go to hire one sales rep, hire two](https://www.saastr.com/when-you-hire-your-first-sales-rep-just-make-sure-you-hire-two/).
+
+**Jason Lemkin:**
+
+And I wrote this maybe 10 years ago and have updated the post many times since. When I hired my magical sales rep, like we talked about earlier, Joe, who crushed it. It was great. It was wonderful. It made my life better. But the thing is, I didn’t know why. Now maybe today, if we had Gong or Chorus and I was listening to his calls, and we did a bunch together, so it’s not really that, maybe I would know a little bit better knowing what I know today, but it wasn’t until we had two or three reps hitting quota that I could actually see what Joe was good at and where he wasn’t. And I knew where to route different leads and different opportunities to different people.
+
+**Jason Lemkin:**
+
+So, absolutely try to hire two, if you can. And remember, and then I’ll back into the first part of your question. Sales reps really are not expensive. Okay? Whatever their OTE is, their on-target earnings, the base salary is usually half of that. And it vests, right? Even if someone’s full salary, you don’t pay upfront, you pay it monthly. And if you’re paying 5k, 6K, 7K a month for a rep for a couple of months to see if it works out, and hopefully it does, you’re not in for that much money. So don’t obsess about the cost of sales reps. Obsess about hiring, as we talked about earlier, one or two that you would buy from. Okay?
+
+**Jason Lemkin:**
+
+And then the question is what’s the right sales comp plan. Well, look, a couple things. If you don’t have the money to even pay their base salary, you’re not ready to hire a salesperson. You got to do it yourself, right? Let’s say this is a U.S. sales, rep and they’re on 120K plan, 60K base, with 60K bonus for 120K OTE. That base is 5K a month, right? Before benefits and taxes. If you don’t have the 5K a month, you’re not ready. Right? You’re just not ready, right?
+
+**Jason Lemkin:**
+
+Beyond that, assuming you have the money to pay their base, here’s how I do things in the early days, in the early days, if it’s early. Ultimately a sales rep has to close between three and five times what they take home, okay? That’s been true since for a hundred years in different types of sales, right? It’s even true in auto sales, but it’s about profits, not revenue.
+
+**Jason Lemkin:**
+
+So it’s usually down to say 3X for SMB, and 5X for enterprise. So if an enterprise rep wants to make 200K, they got to close a million, right? If an SMB rep wants to make 120, right, then they got to close three times that, 360. That’s where you need to be, probably either eventually in a year, if it’s early stage. In the beginning, it’s probably good enough if it’s 1X, right?
+
+**Jason Lemkin:**
+
+So let’s say the sales rep wants to make 120K OTE. Well, if they close 10K a month, their first four or five months, that’s enough. The company isn’t losing money. You’re learning, you’re building the playbook, and you’re building on top of it. So in the early days, I like a plan that over a year, scales to those 3X to 5X your OTE, right? That the sales rep brings in three to five times what they’re paid all in with bonus. But they don’t have to be there the first quarter or two. They don’t have to be there. They just have to cover their costs, and that de-stresses things all around for everybody. So hopefully, that’s helpful.
+
+**Rob:**
+
+That’s super helpful. And just one quick follow-up. Would you look for, I know you can’t get everything at once, but would you look for someone that can potentially build a team around them eventually, or would you just focus on one-
+
+**Jason Lemkin:**
+
+No.
+
+**Rob:**
+
+Okay.
+
+**Jason Lemkin:**
+
+No, that’s a huge mistake. Now listen, there are, of course, are exceptions to the rule, right? I can tell you of companies I’ve invested in, Gorgias, which is a eCommerce version of Zendesk. They have 10,000 Shopify customers now, okay? Their first sales rep is now their head of sales, managing their vast sales team, okay?
+
+**Jason Lemkin:**
+
+Something similar happened at Algolia, which is one of my first investments of search APA all the way up to 50 million, right? The first salesperson did it. But they were special. Both of them were special. In that they had the drive, the intellectual knowledge and all that to build the team under him, but they weren’t necessarily hired to do that, okay? So if you just look for a leader before you have a proven process, it breaks, right?
+
+**Jason Lemkin:**
+
+You hire a head of sales, no earlier than when you have two reps hitting quota, right? Because then the head of sales job, is to hire reps three through 300, but not to create a repeatable process. So you’re asking for too much to hire ahead of sales before you have two sales reps that are performing.
+
+**Jason Lemkin:**
+
+But sometimes, that first magical sales rep usually is smarter, more thoughtful, more contemplative, more product-focused than later folks. So once in a while, especially with SMB, they can grow into that person. But let’s consider that a bonus, right? Consider that a great outcome from a good hire. Don’t go into it. Hoping that they’re that person, or I could almost guarantee you it’s a mis-hire.
+
+**Rob:**
+
+Got it. Thanks so much.
+
+> ### Is there like a new playbook now that the standard Blitzscaling, scale up faster is not exactly the same now going forward? What would you suggest is the new direction to look at the Blitzscaling 2.0 or whatever you want to call it, Jason.
+
+**Jason Lemkin:**
+
+I don’t know. Not to do too many follow… Tell me if there’s one thing that’s frustrating you. I don’t think the playbook has changed that much. People complain that there’s so many vendors today, right? That it’s so crowded. But people complained five years ago and they complained 10 years ago. And every category that is well established, right? That is well understood and large is going to have a lot of vendors. And ultimately, is going to have a lot of change. Certainly, getting on TechCrunch used to get you a lot of customers, and leads, that doesn’t work, right?
+
+**Jason Lemkin:**
+
+There are certain nichey things that don’t work. But the outbound playbook still works as well as it ever did. It works better done right. We have better tools. Field events and all of that still work well. Content marketing, we’ve been talking about this, this whole session. Content marketing is still magical after all of these years, right?
+
+**Jason Lemkin:**
+
+So all of performance marketing changes. Facebook’s more expensive than it was a year ago, but it still works, right? Google’s never been able to get… Google AdWords has never been a principle channel for B2B, but it’s always gotten you some. I don’t think we need a new playbook. And in fact, I’ll go even further. I love freemium. I love self-serve elements. I love blending that with the sales-driven motion. But I think actually the biggest disservice is all this talk about PLG, product-led growth. And I absolutely think product-led growth is something. And we’ll have the CRO from Calendly and so many other PLG leaders at [SaaStr in September](https://www.saastrannual2022.com/buy-tickets?promo=saastrblog&tr=true), please come you guys, if you can.
+
+**Jason Lemkin:**
+
+But PLG is not a magic switch where, all of a sudden, the whole marketing playbook has changed because products are somewhat viral, right? Products have been viral since the days of WebEx and GoToMeeting and so many others, right? So I’ll ask if you have a quick follow-up question, but my meta thing is everything works if you have someone that knows that playbook running it.
+
+**Jason Lemkin:**
+
+Now what they like to do will change, how they do it will change. But the best CROs, the best folks I know, are just running iterated, updated playbooks of the same ones they’ve been doing for years, right? My old sales team, the folks that our sales team went on to be the CROs of Brex, of Gong, of so many other leaders. And yeah, they’re not doing the exact same thing we did 15 years ago. And the tools and instrumentation are better, but the world does not change as much as we think. This stuff works. We just have to do it with better tools and better instrumented and better data. So don’t give up,
+
+agencius:
+
+I’m not giving up. In the current vernacular or the current ranking, what are the top three tools that you should always keep at the forefront?
+
+**Jason Lemkin:**
+
+I don’t know. I don’t know that using SalesLoft or Outreach, or even ZoomInfo or any of these things are magic. I think you should be using all of them, right? You should be using ZoomInfo to help prospect, you should be using SalesLoft and Outreach and Mixmax and other tools to communicate. You should be using HubSpot, or Intercom or other tools for drip marketing and engagement. Certainly, if you do…
+
+**Jason Lemkin:**
+
+And you see that there’s not that much change. The one thing I will end this on, because maybe I’m not answering as well as I could. But one thing that I think a lot of founders don’t do well, which is probably the number one thing you can start doing this month and use a tool like HubSpot or other tools to do, is unless we have an experienced marketer, we don’t do enough drip marketing. We don’t do enough automated follow-up.
+
+**Jason Lemkin:**
+
+And I don’t mean sending prospects 10,000 breakup emails or have a coffee email. I mean, anyone that’s touched your website, that’s done a webinar, that’s tried your product, that has talked to a salesperson that did not buy. There’s a pretty decent chance they will buy three months, six months, nine months, 12 months down the road. And not enough founders without a marketing background are consistently sending them a stream of follow-ups, of invitations to events, of really great content, of free e-books, of free materials. At least you got to be communicating with the folks in your broad database twice a month with something valuable, not a frigging discount or a coupon, something valuable.
+
+**Jason Lemkin:**
+
+And if you add two pieces of valuable learnings and content to folks in your database over the course of the year, even if it’s just drip marketing, totally automated in a whole bunch of tools, magic happens over the course of the year. So that’s my number one recommendation. I don’t see enough high-quality drip marketing to lists that founders build, build the list, build the list. However you build the list. Whether it’s just a form on your website or manual, build the list of potential prospects, not just the ones in your pipeline for this month and drip market to them. It just always works. That’s my number one tip.
+
+**Fahid M (@FahidFeo):**
+
+> Yeah. For a B2B SaaS startup. If they’re dealing with, on a hospitality or restaurant machine, it is taking more than six months to \[inaudible 00:50:23\]. How long, if it’s taking six or seven months to sign up and sign on, what should be the-
+
+**Jason Lemkin:**
+
+How high is your price point?
+
+**Fahid M:**
+
+Price point is medium. It’s not large, but it’s a medium scale.
+
+**Jason Lemkin:**
+
+Yeah. Well look, here’s the answer. I’m going to give you a … Six to seven months can mean one of two things. It can either mean, boy, you’re at the edge of product market fit, or it can mean, look, you have a lot of business process change involved in a mid-size or larger company. And midsize, it doesn’t have to be IBM, right? Or truly enterprise. But mid-size companies don’t make changes every week or every day, right? They make a few changes a year. And if you think about a few changes a year, for them, maybe taking six months to make a decision’s pretty fast, right? I mean, if you’ve never sold to the enterprise or worked in enterprise, and I was briefly an SVP at Adobe and I saw it, no criticism here at all, but at a big company like Adobe, decisions are made annually. They have to be made annually, it’s too big, right?
+
+**Jason Lemkin:**
+
+And so a 12-month sales cycle to Adobe, less than 12 months is impressive. An eight to 10-month sales cycle is impressive, because we’re going to take a year to make any decision. Now certain decisions, of course, life or death, will be made in a week or a day. But those bigger decisions will be made annually. And so, the best advice sometimes I can give you is to, one, just get better at it. One of the things a great VP… Maybe you’re not ready for great VP of sales. But what you’ll find if you have longer sales cycles, but you’re doing okay, is a great VP of sales will bring them down. If your sales cycle’s eight months, a great VP of sales will bring it down to six or five. Not a week, right? Or overnight.
+
+**Jason Lemkin:**
+
+But a great VP of sales knows how to do that. They know how to ask for the sale. They know how to do the pilot quicker. They know how to talk to more stakeholders earlier in the buying process. So objections don’t come up later. They know how to avoid as many bombs later in the process. And by running that playbook 50 hours a week with a VP, it has a big impact. And your sales cycles literally almost always go down in the enterprise or mid-market with a good VP of sales. By contrast, if you go to hire a sales leader and your sales cycles lengthen, that’s a bad sign. It’s really bad. Because the best sales leaders, they know that time kills deals, and they do everything they can to increase velocity in sales, the best sales leaders. So, that’s my main point.
+
+**Jason Lemkin:**
+
+The smaller point I’ll just give you, and it may not help you, but it might. It might. It certainly helps in bigger enterprise deals, especially these days is, and you’ve got to run an experiment. Especially in bigger companies in the enterprise, there are budgeted expenses in software, and there are discretionary expenses. And they’re both good. The good news is, the budgeted expenses typically have access to more money, right? Big budgets for a lot of people. But discretionary spend is extra money that can be deployed at any time. So again, I’m dating myself, but going back to my big company days when I was briefly a VP at a big company, I wasn’t one of the top VPs, but to get my group, to make my group work, I had about a four to $500,000 a year discretionary software purchase budget.
+
+**Jason Lemkin:**
+
+So I couldn’t spend a million. And frankly, I couldn’t even spend 400,000 on a single vendor, but if there was one for 20 grand that would make my team better. I could just do that one in a week or a month, if I had to have procurement, okay, it would take a month. But I didn’t have to get it into a budgeting cycle because it was in that bucket. So it’s good to ask for the big deal. It’s good to ask for the big ticket size, but sometimes you can cross the line from discretionary to annual budgeted basis. And when you do that, you may dramatically lengthen your sales cycle. So listen very carefully, and it’s okay in bigger deals to ask, is this budgeted? It’s okay. Don’t think that’s a smarmy sales question. It’s totally okay to ask, is it budgeted? Big companies know this. And if the answer is, yes. Okay, good news is there’s more money. Bad news is it’s probably going to take longer because it’s budgeted, right?
+
+**Jason Lemkin:**
+
+If they say no, something that is not budgeted in the enterprise doesn’t mean you can’t close the deal, it just means be cognizant about how expensive it is today, relative to the discretionary budget. And sometimes the way you win, and you can see this with so many vendors is, hey today, I’m going to close you for 20K, it’s in your discretionary budget, and the next year we’ll try to triple or quadruple the footprint and get budgeted and grow that account over time to 20K to 100K to 200K to 400K. And a bunch of reasons that happens, but one reason is you go from this extra discretionary budget into a fully budgeted part of the larger budget.
+
+**Jason Lemkin:**
+
+So it’s hard to know the difference. You’ve got to listen, you’ve got to be good at sales, but sometimes in the enterprise, if you can get into the discretionary budget, you can close the deal this week instead of eight months from now. And you can decide whether it’s worth waiting eight months for more money, or to do a smaller deal this week. And in the early days of startup, it’s often better to get the smaller deal done this week. But not always, not if you can get a massive enterprise-wide deployment, if you can get every single user in a big company using you, then generally wait and don’t do the smaller deal, but you’ll get better at that as you scale.
+
+**Abdulrahman ¦ عبدالرحمن (@ABDULRAHMAN\_DBA):**
+
+> Yeah. Hi, I have a question.
+> 
+> ### What do you think of the saying, “Be a camel and don’t be a unicorn”?
+
+**Jason Lemkin:**
+
+One second. I’ll answer the question, but camel? I haven’t heard, even though I should have, how big is a camel, a camel.
+
+**Abdulrahman:**
+
+The meaning of that, being a sustainable business it grows steadily and slow, better than going fast and being in a unicorn that quickly.
+
+**Jason Lemkin:**
+
+I think it’s a false choice. I think that there are certainly advantages to growing at a more sustainable rate. I mean, that’s basically what Mailchimp did. Again, come to [SaaStr Annual](https://www.saastrannual2022.com/buy-tickets?promo=saastrblog&tr=true) in September, Ben Chestnut will be there with me talking about how Mailchimp did it, right? It was 20 years to a $12 billion exit. But the early years were slow. That’s not uncommon, right? They never raised a dollar from VCs. I mean, Mailchimp is the most extreme example, right? A $12 billion exit in SaaS, never having raised a dollar. There’s a bit of camel turned into a unicorn there. Camels do turn into unicorns.
+
+**Jason Lemkin:**
+
+UiPath, which is worth 10 billion today. And was one of the hottest IPOs in the last two years. UiPath, you can [read about it on SaaStr](https://www.saastr.com/5-interesting-learnings-from-uipath-at-600000000-in-arr/) if you search UiPath, it took them 10 years to get to a million in revenue, right? That’s a camel that became a unicorn. So, I think camels can become unicorns. Slower pace stuff can be… It’s not so binary. No matter how it looks on TechCrunch and the internet. So don’t…
+
+**Jason Lemkin:**
+
+But whether whatever you are in SaaS, there’s a certain level that you have to grow. Okay? We don’t all have to grow at the rates of Brex or Stripe. We don’t. And most of us can’t. But if you grow too slowly, people will quit, people will get frustrated, it will be difficult to attract talent. And most importantly, if you grow too slowly, the biggest issue is that your competition will sail by and it will get harder to grow at that slower rate. It will get harder. So, what is that rate where it’s too slow in SaaS? I’m not sure, but I can tell you that SaaS companies past 10 million in ARR, and then you can back into this earlier, but folks at 10 million ARR, that grow much slower than 40 to 50%, risk obsolescence. They risk obsolescence. And it doesn’t happen all the time, but SaaS companies that are growing 30% at 10 million, they don’t have enough product market fit or they would be growing faster, and someone bigger and better than them, smarter than them, more committed, blows by them. And you see that growth… They can’t maintain that 30, 40% at 10 million. It actually shrinks and approaches zero.
+
+**Jason Lemkin:**
+
+And an extreme example is if you go to SaaStr and look up WalkMe, or Model N, those are two examples of public companies that are doing reasonable, but they’re not actually acquiring very many new customers at all. Model N, take a look at Model N. I did it a couple weeks ago on SaaStr on [Five Interesting Learnings](https://www.saastr.com/5-interesting-learnings-from-model-n-at-200000000-in-arr/). They’re not acquiring any new customers after 20 years. You don’t want to be that. So I don’t think we all have to raise a bajillion dollars and have all the pain of raising too much money. And most of us can’t access that much venture capital anyway. So it’s a false choice in discussion. But there is a certain amount of growth where the team doesn’t stay and the competition blows by you. And that’s what you should worry about. That’s what I still worry about to this day. And that’s what I worried as much about a founder as the other metrics is making sure that you are one of the top vendors in your marketplace.
+
+**Jason Lemkin:**
+
+And so I’ll break on that. Camel or unicorn? There are so many advantages to being one of the top three vendors. Obviously, number one gets the lion share of the outcome. Slack’s 27 billion versus HipChat at 50 million. There’s extreme examples.
+
+**Jason Lemkin:**
+
+We can’t all be number one. And even if we aren’t number one, you sometimes can be number one in a niche. We talked about Gorgias in the beginning, which isn’t bigger than Zendesk, but is now bigger than Zendesk in the Shopify ecosystem. Sometimes you can be number one in a segment, if not overall.
+
+**Jason Lemkin:**
+
+But if you’re not in the top three, it’s not fun. It’s not fun, at least in a niche or segment. And people don’t have fun, and people don’t join you on your journey, so it gets harder.
+
+**Jason Lemkin:**
+
+So I would worry less about getting to a billion-dollar valuation, and more about growing fast enough so that you are gaining market share, gaining influence, and making a bigger impact in your segment. If you do that, I actually think in SaaS you probably will eventually build a unicorn of some sort. No matter how you get there. Right?
+
+**Jason Lemkin:**
+
+So again, thanks everybody for the time. This is great. Hope to see everyone at [SaaStr Annual](https://www.saastrannual2022.com/buy-tickets?promo=saastrblog&tr=true) in September. September 13 to 15th, just south of San Francisco, outdoors, open air. Thanks, everybody.

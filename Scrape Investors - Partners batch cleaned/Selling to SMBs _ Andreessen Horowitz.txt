@@ -1,0 +1,109 @@
+# Selling to SMBs | Andreessen Horowitz
+
+[![](https://a16z.com/wp-content/uploads/2022/12/DHB-Hub_SELLING-TO-SMBS-copy.jpeg)](https://a16z.com/wp-content/uploads/2022/12/DHB-Hub_SELLING-TO-SMBS-copy.jpeg)
+
+The 2010s era of VC-backed healthtech was largely an enterprise game, with most founders pursuing large payors, hospital systems, or jumbo employers as customers. This was because enterprises were the customers with enough budget and IT sophistication to justify VC-scale expectations on contract sizes and growth.
+
+But recently, selling to small-to-medium sized businesses (SMBs) has become a more attractive proposition. Many kinds of SMBs have become digitally savvy and are focused on strengthening their business models to better compete in the modern marketplace. For instance, independent provider practices are adopting novel tools to better work with payors and provide exceptional patient experience, which helps them avoid having to sell their practices to consolidators. SMB employers are looking for solutions to manage healthcare costs against inflation and wage hikes. The growing number of digital health companies, also SMBs, are looking for efficient tech products to comprise their [tech stack](https://future.com/new-tech-stack-virtual-first-care/).
+
+How are healthtech companies creating sustainable growth paths by selling to SMBs? Can companies solely rely on SMB sales to get to scale, or do they inevitably need to [go upmarket](https://a16z.com/getting-ready-to-move-upmarket/) (especially during challenging economic times)? We talked to Nancy Ham, the previous CEO of WebPT, Nate Maslak, CEO and cofounder of Ribbon Health, and Oliver Kharraz, CEO and cofounder of Zocdoc, to unpack their SMB go-to-market strategies. We also surveyed 33 digital health companies that sell to SMBs to gain insight into a broader swath of approaches that upstarts are taking—their logos are shown in the graphic below.
+
+[![](https://a16z.com/wp-content/uploads/2023/04/DHB_Selling-to-SMBs_Inline-Graphics_Advisors-Updated.png)](https://a16z.com/wp-content/uploads/2023/04/DHB_Selling-to-SMBs_Inline-Graphics_Advisors-Updated.png)
+
+## 
+
+#### TABLE OF CONTENTS
+
+What constitutes an SMB?
+
+We define SMBs as businesses with less than $50 million in revenue, and fewer than 500 employees. There are several classes of SMBs, as outlined below.
+
+[![](https://a16z.com/wp-content/uploads/2023/04/PAGE-4.png)](https://a16z.com/wp-content/uploads/2023/04/PAGE-4.png)
+
+Each of these SMB segments exhibits a specific “why now” dynamic that makes it attractive to current builders:
+
+*   **Independent medical practices:** The act of selling one’s practice to private equity, hospital systems, or payors is more frequently being cast in a negative light, with troubling stories of financially-motivated actions at the expense of quality, access, and affordability. As such, entrepreneurial practice owners are increasingly looking for ways to stay independent; for instance, more are taking on [risk-based contracts](https://a16z.com/risk-based-contracting-for-value-based-care-a-founders-playbook/) that grant higher degrees of agency and more resilient revenue streams to clinical teams.
+*   **Small employers:** Inflation and bear markets are causing employers of all sizes to try to improve their financial health, and healthcare benefits continue to be amongst the largest expenses for business owners. With the advent of new self-funding mechanisms, policy programs like ICHRA, and lower cost digital health services, small business owners have many ways to manage their employee healthcare costs. This segment is the largest of the three in terms of sheer numbers.
+*   **Digital health companies:** Despite the tumultuous markets, the number of digital health companies continues to grow. Those that are VC-backed are facing pressure to reduce their financial burn, which encourages the use of off-the-shelf technology solutions in lieu of using expensive in-house engineering resources to build from scratch.
+
+Like any market, these SMB segments also pose challenges, especially with regards to the financial health of markets, and the resulting lower willingness to make net new cash outlays to unproven technology solutions.
+
+Amongst our survey respondents, we had companies that sell into each of these segments. The most common sales targets, according to our respondents, are provider practices (29%), digital health companies (21%), and employers (13%) (note that respondents could select more than one option).
+
+## Founder insights
+
+### Why SMB?
+
+The surveyed founders pointed to a few reasons they were attracted to SMBs. 26% of respondents noted shorter sales cycles, and 25% said that fast implementation times drew them in.
+
+It appears that both of these factors indeed play out in reality. Respondents said their sales cycles are an average of 45 days long, and their deployment timelines are an average of 35 days. This is a fraction of the multiple months- or years- long sales cycles and implementation timelines we typically see with enterprise-facing companies. As discussed below, this also benefits product teams, as they get many more live-fire iteration cycles with multiple cohorts of users in the first year or two than they might with enterprise buyers.
+
+[![](https://a16z.com/wp-content/uploads/2023/04/PAGE-6.png)](https://a16z.com/wp-content/uploads/2023/04/PAGE-6.png)
+
+### Sales and marketing: new customer acquisition
+
+Respondents spent an average of 33% of revenue on sales and marketing, which is only slightly less than the approximately 40% we tend to see with enterprise-facing companies. The composition of that spend can be quite different, though. For instance, Nancy Ham (ex-CEO of WebPT) and Nate Maslak (CEO of Ribbon Health) noted that they leverage inside sales teams (which cost less than field-based sales teams), and that online content (e.g. videos, blogs, and guidebooks) and conferences were particularly cost-effective for lead generation. Oliver Kharraz (CEO of Zocdoc) noted that they were able to close some providers in less than 24 hours when a high-intent buyer came in through their online channels.
+
+Finally, one of the upsides of having an SMB oriented sales motion is the ability to interact closely with customers without having to jump through hoops to get face time. The best salespeople can get to know the leaders of SMBs on a deeply personal level. Nancy Ham told us a meaningful story illustrating just how well those relationships can work, resulting in strong upsells and retention:
+
+### Product iteration cycles
+
+Another core benefit of having SMBs as customers is the speed with which companies can deploy and iterate on their products. The companies in a16z’s portfolio that sell to SMBs might have dozens of customers and thousands of users up and running in the same time that it takes an enterprise-facing company to get just _one_ customer up and running with a handful of users.
+
+### Implementation challenges
+
+Many founders called out implementations with SMBs as a specific challenge. 75% of respondents offer self-serve implementation where the customers are responsible for configuring and turning on the product on their own. Other founders said that they’ve struggled with scaling repeatable implementation processes. Because a company’s first few customers are critical to the short-term growth of the business, high-touch implementation at the beginning can be important for learnings, as well as retaining customers. On the other hand, custom implementation is a slippery slope — as one survey respondent noted, “\[We\] quickly learned that we were headed into being a service business. It’s easy to get caught up in building small, custom integrations and feature sets that do not scale in a highly fragmented industry.”
+
+WebPT streamlined its implementations by investing heavily in training. Nancy told us that the members of WebPT’s implementation services team were certified in adult education and ran regular training sessions on new parts of their software suite. WebPT also used these touchpoints as a way to upsell or cross-sell products. Ribbon uses a similar white-glove implementation services playbook for a different purpose: to reduce the probability of churn. Most respondents also cited digital self-service training content as a key means for driving efficiencies in customer service.
+
+### Growth strategy
+
+Many founders stated that they perceived selling solely to SMBs made them less attractive to VCs. It’s worth noting that many SMB-facing tech companies in healthcare are \*not\* VC-backed (in fact, many SMB provider-facing players are bootstrapped or PE-backed, like WebPT), and the ones that are tend to have a strong enterprise-facing business as well. Knowing this, then, how can founders plan to execute healthy growth strategies if they do seek to build a venture-scale business?
+
+[![](https://a16z.com/wp-content/uploads/2023/04/PAGE-12.png)](https://a16z.com/wp-content/uploads/2023/04/PAGE-12.png)
+
+One path is to maximize the total annual contract value of each customer (and therefore the lifetime value, or LTV, of the customer), which can be accomplished by offering more products and services over time. Upsells to existing customers represents, on average, 36% of our respondents’ net new revenue on an annual basis.
+
+Other ways to grow include going upmarket to larger enterprises, or expanding into adjacent SMB segments; the vast majority of respondents noted that they plan to do the former. However, SMB- and enterprise- facing go-to-market motions are two distinct things, and believing that they’re the same is a trap that founders should avoid.
+
+Pricing is also a very important component of growth strategy. Nancy and Nate both discussed pricing as not to punish customers for using the product more, but to align pricing with return-on-investment (ROI) for their customers. In the same vein, Oliver talked about how Zocdoc evolved its pricing strategy over time to maximize its ability to monetize as the platform created value for its customers.
+
+Growth can also occur through word-of-mouth from power users—individuals who enjoy the product so much that they naturally tell others. Zocdoc capitalized on these power users strategically and thoughtfully, wanting to keep them satisfied while also encouraging their word-of-mouth sales.
+
+### Successes and missteps
+
+We asked our survey respondents about their greatest successes and missteps when executing an SMB-centric go-to-market strategy. The table below summarizes their responses.
+
+[![](https://a16z.com/wp-content/uploads/2023/04/PAGE-16.png)](https://a16z.com/wp-content/uploads/2023/04/PAGE-16.png)
+
+## Investor perspective
+
+Outside of healthcare, the biggest venture-backed B2SMB successes have been horizontal productivity product-led growth (PLG) plays serving knowledge workers, where product-market fit is so strong that the product sells itself to individual users. Examples include Figma, Dropbox, Atlassian, Slack, Asana, and Zoom. Even so, all these companies now all have enterprise offerings too.
+
+Our approach to assessing SMB metrics is similar to how we would assess the “B2C” portion of the B2C2B motion that we described in our [prior piece](https://a16z.com/b2c2b-in-digital-health-a-founders-playbook/)–namely focusing on efficiency and payback. We’d also have to believe that the company has some unique edge on driving sales AND product velocity to balance out higher churn (and loss ratios on deals if playing in a competitive end market) with strong new logo attainment and net revenue retention (NRR).
+
+In terms of metrics, we’d start by comparing against the benchmarks below (provided by the a16z Enterprise team), but might adjust depending on the characteristics of the company’s products and the specific market segments into which it is selling. For instance, we might expect a revenue cycle management solution for providers to have a faster payback than an opt-in wellness benefit sold to SMB employers through a broker channel.
+
+[![](https://a16z.com/wp-content/uploads/2023/04/PAGE-18-1.png)](https://a16z.com/wp-content/uploads/2023/04/PAGE-18-1.png)
+
+As mentioned above, it’s natural for SMB-facing companies to start going upmarket, and we’d listen for a convincing hypothesis on how founders envisions supporting and funding two go-to-market motions under one roof. This could mean everything from separate sales, marketing and implementation teams to separate product development units dedicated to each market segment. We’d apply the same principle we mentioned in the [B2C2B playbook](https://a16z.com/b2c2b-in-digital-health-a-founders-playbook/) of making sure that the founder is accounting for enough spend to successfully fund both go-to-market motions.
+
+### Get the SMB Survey Data Deck!
+
+To get more of our data and analysis in a downloadable deck, sign up for the Bio + Health newsletter.
+
+[Get the Deck »](https://info.a16z.com/download-selling-to-smbs-founders-playbook.html)
+
+![](https://a16z.com/wp-content/themes/a16z/assets/images/pattern-05.svg)
+
+## Conclusion
+
+If executed well, selling to SMBs can be an exceptional way for companies to generate rapid feedback and early product iteration cycles, in addition to efficient growth, before expanding their products or entering into more complex market segments. Current market conditions pose challenges, but also create positive “why now” tailwinds for selling to SMBs that historically have had lower adoption of tech-forward solutions.
+
+We hope builders pursuing this go-to-market strategy will find value in these insights as they go forth and conquer the SMB markets.
+
+## Shoutouts
+
+Special thanks to Nancy Ham, Shawn McKee, Adam Ross, and Jake Nero from WebPT; Nate Maslak from Ribbon Health; and Oliver Kharraz from Zocdoc for their time and detailed perspectives. Thank you also to the founders who contributed their insights through our survey!
+
+_Adela Tomsejova and Olivia Webb contributed additional research and writing._

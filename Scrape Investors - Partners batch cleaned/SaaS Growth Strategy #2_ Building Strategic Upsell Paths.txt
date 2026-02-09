@@ -1,0 +1,91 @@
+# SaaS Growth Strategy #2: Building Strategic Upsell Paths
+
+_This is the second installment in our deep-dive series on the 10 core growth strategies for SaaS. You can download our free full guide here: [The 10 Essential SaaS Growth Strategies](https://www.zuora.com/saasgrowth/)._
+
+As Paul Farris noted in Marketing Metrics: The Definitive Guide to Measuring Marketing Performance, “The probability of selling to a new prospect is 5-20%. The probability of selling to an existing customer is 60-70%.”
+
+So it’s no surprise that the SaaS companies that grow most quickly are the ones that are most successful at growing revenues from existing customers.
+
+This is well demonstrated in the recent [Pacific Crest 2016 SaaS Benchmarking Survey](http://www.forentrepreneurs.com/2016-saas-survey-part-1/) in which we see that the CAC (customer acquisition cost) to acquire $1 in upsell revenue is just 24% of the cost to acquire a new customer.
+
+![](https://www.zuora.com/wp-content/uploads/2017/04/2016-Pacific-Crest-640x297.png)
+
+The same study also shows that median respondents are able to successfully capture 15% of new ACV from upsells. As revenue rises, it’s clear that larger companies have an even higher percentage of ACV coming from upsells, largely to sustain CAC and growth efficiency.
+
+## Upsell vs cross-sell
+
+So what is an upsell for a SaaS business (as distinct from cross selling, which we’ll address as a separate growth strategy)?
+
+Whereas cross selling is a strategy designed to sell additional products to an existing customer, upselling is a strategy designed to sell a more feature rich (and expensive) product edition to an existing customer.
+
+![](https://www.zuora.com/wp-content/uploads/2017/04/upsell-vs-crosssell-1.jpg)
+
+Upselling is not only critical to increasing revenue, but also for customer retention and stickiness, because the more value your customers get from your products/services, the more satisfied they are.
+
+The trick, of course, is that you need to understand your customers, and have deep insight into their usage in order to identify upsell opportunities and build strategic upsell paths.
+
+## Dropbox B2C: Consumption-Driven Growth
+
+Most SaaS companies do indeed offer different upsell paths, but not all SaaS companies do a good job of moving folks up the path. That is upsell strategy.
+
+Dropbox provides a good example of a SaaS company that has a smart approach to upselling for increased revenue and customer success.
+
+Let’s take a quick look at their upsell path on the B2C side first.
+
+Dropbox uses the freemium model to offer their Basic plan to individuals, with 2GB of cloud-based storage space. If users run out of space (which happens quickly once you start backing up photos and other media), you can upgrade to a Pro plan. Dropbox will prompt you to make the upgrade and you can do so from right within the app.
+
+![](https://www.zuora.com/wp-content/uploads/2017/04/dropbox-consumption-driven-model-577x640.png)
+
+This is a smart tipping point.
+
+Dropbox has strategically established this storage threshold as a willingness-to-pay boundary. In other words, they know that 2GB is just enough to get customers hooked — and then they’ll need to upgrade to the Pro plan.
+
+This is a consumption-driven growth model in action. Over time, individual Dropbox users may not need additional functionality, but they will need more of the original capabilities (i.e. storage space).
+
+In addition to increased storage space, the Pro plan offers other features as well — but clearly the extra storage space is the value add-on that aligns well with the Dropbox “growth journey,” wherein customers start with a simple plan and then organically grow into more complex (and more expensive) offerings over time.
+
+## Dropbox B2B: Capability-Driven Growth
+
+You can see Dropbox taking a similarly smart approach to designing an upsell path when you enter into the realm of their B2B space.
+
+With their B2B offering, Dropbox is pulling on a different lever: capability-driven growth. What this means is that their Business plan offers an expanded set of capabilities that companies will require, especially as their business and number of users expands.
+
+With players like Google, Amazon, Apple, and Microsoft now in the cloud storage business, Dropbox can’t afford to just compete on consumption (i.e. storage and price). The big guys are always going to be able to offer more storage, for less.
+
+So the upsell to a Business plan hinges on functionality and additional features, specifically the ability to share and collaborate with a team and increased security features.
+
+![](https://www.zuora.com/wp-content/uploads/2017/04/dropbox-capability-driven-model-528x640.png)
+
+## Driving the upsell path
+
+That’s why Dropbox encourages their users along the path to increase engagement — and to invite others to join with messages like these:
+
+![](https://www.zuora.com/wp-content/uploads/2017/04/dropbox-upsell.jpg)
+
+The more a user uses Dropbox, the quicker they will fill up their available storage space. And with each new user that an existing user invites, this increases the ring of usage which makes an upgrade to Dropbox Business more likely. If users need more seats, they are prompted to upgrade to the Business plan.
+
+Of course, this is contingent on tracking: Dropbox needs the ability to track shared company name email addresses and track usage to see which companies are prime for an upgrade to Dropbox Business.
+
+Dropbox’s enterprise plan, Dropbox Enterprise, offers the same core capabilities as Dropbox Business plus “advanced security and control, enhanced customer support, and customization” to meet the needs of larger organizations. Again, the lever Dropbox is pulling to drive Enterprise upsells is capability driven.
+
+While only a small percentage of active Dropbox users are paying customers, in June 2016, Drew Houston, CEO of Dropbox, said that they have about 150,000 enterprise customers.
+
+And, as rumors swirl about a potential IPO in 2017, Dropbox continues to push their Business solution, emphasizing the 200,000 businesses that use Dropbox (rather than the number of individual users).
+
+There’s a real race going on in the cloud storage space. To maintain their current valuation of $10B and prepare for this rumored IPO, Dropbox will need to continue to innovate on their offerings and play with their consumption and capability levers to drive users upstream.
+
+## Protecting Upsell Growth
+
+The key takeaway from Dropbox is to leverage both consumption and capability driven growth and use customer insight to design your upsell path for the long-term.
+
+Don’t make the mistake of prioritizing customer acquisition to the detriment of future upsell growth. Look ahead to long-term growth and retention to design strategic upsell paths (including aligned sales and marketing incentives).
+
+So often we see businesses focus on just one lever but not both. This is effectively leaving money on the table. The two-dimensional approach to designing your upsell path works to drive increased adoption, increased value for your customers, and increased revenue for your business.
+
+## Key Takeaways
+
+To create and execute on a clear upsell path, SaaS businesses need the ability to:
+
+*   Use data to influence packaging decisions and design meaningful tipping points for upsell paths
+*   Design an upsell path to either be capability-driven or consumption-driven—or both
+*   Arm sales with the customer information they need to successfully target potential upsells

@@ -1,0 +1,537 @@
+# Top Sales Lessons Scaling to $100m ARR: A Discussion with Zendesk, Atlassian and Optimizely at NextWorld Capital
+
+[![Screen Shot 2017-04-14 at 10.51.00 AM](https://i0.wp.com/www.saastr.com/wp-content/uploads/2017/04/Screen-Shot-2017-04-14-at-10.51.00-AM.png?resize=492%2C120&quality=70&ssl=1)](https://www.nextworldcap.com/)The other day NextWorld Capital put on [an outstanding event for SaaS founders and executives](https://nextworld1to100.splashthat.com/) on Scaling to $100m ARR.
+
+I was asked to moderate a panel with three great speakers and SaaS companies — but with _very_ different sales models.  Atlassian is famously sort of _traditional_ sales rep free (outside of its channel partners, and a large customer success team), Zendesk has a classic SMB focus that migrated to larger customres, and Optimizely has the largest ACV.
+
+I took the opportunity to mix it up and talk about what’s common in “selling” to all different segments of the market — and what isn’t.
+
+It was a great discussion, it went even better than I’d expected.  The video and transcript are below.
+
+Big thank you to NextWorld for having me.
+
+**TOP SALES LESSONS LEARNED SCALING TO 100M**
+
+What are the best metrics and management for early-revenue stage startups? Sales leaders provide benchmarks to help assess business performance and tips on how to manage this stage of growth.
+
+**JASON LEMKIN  SaaS Blogger & Entrepreneur, SaaStr**
+
+**AMANDA KLEHA Former SVP Marketing & Sales Strategy, Zendesk**
+
+**JOSE MORALES Head of Global Field Operations, Atlassian**
+
+**TRAVIS BRYANT SVP Global Sales, Optimizely**
+
+**Jason:** This is an amazing panel and it’s actually very diverse. Maybe not in the traditional sense in the backgrounds of what these companies, how they sell and market. I want to learn today, we’re going to Optimizely to what happened at Zendesk.
+
+To Atlassian, which doesn’t have any sales team but has a big channel and does a lot of marketing. I actually think it’s pretty diverse. I want to dig in to some of the commonalities and then the last session which was amazing. We did talk a lot about scaling sales.
+
+I want have some fun on this and we’ll talk about very specific learning’s that everyone’s had at their companies. I want to dig in on some specific topics. Why don’t you guys first talk a little bit about what exactly you do and how or have done in how sales and marketing revenue works at the company. Because we’ll hear three different stories.
+
+**Travis Bryant:** Cool. I’m Travis Bryant. I… and Dan’s was the wrong guy… since I started when we were about 35 people. I had optimized the first PP hire four and half years ago, and scaled the organization, not quite to 100. I’m very close to about 350 in the company and 130 in my org.
+
+A lot of the comments earlier around that move from an inbound driven free-trial signup to a more of a hybrid, what you might hear of commercial sales and now into a blend of that commercial sales and enterprise sales is where we are now.
+
+We can talk through some of that details and lessons learned along the way of the importance of the continued question of product market fit and how that changes as you’re throw enough stones at your competitors.
+
+**Jason:** Rough and tough over that time period, you’ve got two segments. What’s the typical ACV your deal size that you’re doing to that?
+
+**Travis:** In our what we call corporate sales which is companies between 100 and 2,500, rough ACV is 50 to 75K and then in the enterprise is 150 to a million.
+
+**Jason:** Got it. You evolved in that traditional structure. So good. All right we’ll come back to that. Amanda, tell us what you manage at Zendesk and what you learn?
+
+**Amanda Kleha:** Sure. My name is Amanda Kleha and I started at Zendesk in 2009. I just left the company couple months ago.
+
+**Jason:** Now you can be honest.
+
+\[laughter\]
+
+**Jason:** You are going to be off-message now that you are out of a public company, how does that work?
+
+**Amanda:** We’ll see how it goes.
+
+**Jason:** You are allowed to be off-message.
+
+**Amanda:** Yes. I saw the company go from zero to basically 300 million. I played a lot of different roles in marketing. Ran our online business and finished doing the strategy for all of sales and marketing at the company, so seen a lot.
+
+We definitely started with more Atlassian-type model of just pure inbound. For the first year I worked there we didn’t have any sales people at all. When I ended, we were doing big enterprise deals as well but we still kept the online business model. So definitely trying to straddle both worlds together.
+
+**Jason:** Just remind us I know it’s all public in the filings but how did that ratio change over time? Was 100-zero when you joined. It was all happiness officers and then what’s the rough ratio today?
+
+**Amanda:** Of enterprise —
+
+**Jason:** At Zendesk. The break between the segments?
+
+**Amanda:** It really depends how you break it up but–
+
+**Jason:** Why do you think about breaking it up? What did you learn? How did you break this Zendesk stuff?
+
+**Amanda:** Let’s say at least a quarter of the business is online still and no touch but it depends how you break it up. Volume wise like the number of daily trials coming in are still mostly on online sales. Volume online but the revenue is certainly more enterprise.
+
+**Jason**: Optimizely is roughly two teams today, was that three teams, four teams? One Kumbaya team all selling big? How did you segment the groups?
+
+**Amanda:** It changed over the course for sure. Like for example in the early days when we hired maybe the first six reps, they were doing all new business. Because the thought of expansion wasn’t even around. As we went along, we thought about, ”Okay, we should evolve our model to a hunter/farmer model.”
+
+The way I think you decide that is you take a look at your customer experience and when customers are going to buy more products from you, if that is different of a motion than that first sale, then you want to think about splitting up the farmer/hunter motion.
+
+We had separate sales rep for each of those and then along the way we dabbled in specialized type sales roles and then towards the end then you bring it back and scale it into a more global approach. It ebbed and flowed over course of time.
+
+**Jason:** Yes. Talk about Atlassian because it’s such a — first of all what an amazing success. Jay spoke at the SaaStr Annual and talked about channel versus direct and other things. What’s really going on in revenue at Atlassian? What’s the real story? Does it all just manufacture itself magically?
+
+\[crosstalk\]
+
+**Jose Morales:** What’s the real story? We have thousands of people on the phones 24/7.
+
+**Jason:** It’s all outbound but what’s the nuance version? Because all these stories are a little apocryphal. There are always more nuances than they look. How do we sale at Atlassian today and when you joined?
+
+**Jose:** Yes. I’ve been there about six years. I run over our field operations, which is customer-facing people, who are around the globe. We really don’t have that traditional selling motion, like for instance all new business is really new-to-new, new logos, really comes in through marketing.
+
+We’re really a land-and-expand company and the vast majority of our transactions and revenue is still zero touch. It’s still sold on credit cards. These people are also spending a lot of money with us, they can go no touch. It has evolved over the years a bit. When we first started, we only had an $800 product.
+
+You can only, and we were based in Australia, so getting on a plane to go talk to somebody about an $800 product probably doesn’t make a lot of sense.
+
+Then it went to four, to 8,000, 24,000. Now we have, JIRA Data Center Unlimited as example 450,000.
+
+There’s some bigger numbers, so the approach is slightly different but we still very much, the majority of the business, everything is about transparency. You can buy all of our products online. All of our pricing is online. There’s nothing that says, “If you want to find out about this contact us. “
+
+It works quite well, I think the results are pretty good so far. That’s the model we are still trying to do. Now we are trying to — as we’ve grown and as the deal sizes have gone up, we’ve layered and we have these groups called advocate groups that do different functions.
+
+Like it can be as basic as like, “My credit card failed, let me help you with that.” Or, “How does this integrate with that?” We have a group that does that and then we also have a group that work with the largest customers almost in the farming mode, where they are working —
+
+If you’re spending half a million, a million plus with us a year going to a queue is like — you feel like, “Are you kidding me?” We have a group of people that really work with them more proactively. It’s still quite different.
+
+**Jason:** They have quotas? They have variable comp?
+
+\[crosstalk\]
+
+**Jose:** No. They don’t have quotas, no. We really look at it much more of a — much of our customer service approach to selling. As a company we are trying very hard to sell. We are optimizing our marketing, we are looking at the impact of all the different programs we have.
+
+We are trying to sell. What we are trying not to do is not negotiate any deals. The contract is a contract; the price is the price. As part of our model and the sense is for the buyer. They know that they’re actually getting the same price like the guy down the street.
+
+Is like how Tesla deals with selling their cars. It works well, they are not always thrilled with it day one, and there is all sorts of, “We’re not going to buy your product,” and we are like, “Okay, don’t buy the product.” Generally speaking, almost 99% of cases I know they come back around and buy the product and sign the contract as is.
+
+**Jason:** Let me ask you. We all for the Atlassian fan people here or that watched the video. We all fall in love with these business models we see. We’d all love to have this business model. We’d all love to just, make our customers happy, only — have sales magically happen through transparent pricing but most of us don’t end up living in that world.
+
+**Jose:** Some by choice.
+
+**Jason:** What’s that? Some by choice?
+
+**Jose:** Yes.
+
+**Jason:** When you meet other folks, other entrepreneurs and other companies and they want to copy the model, when do you tell them not to? When do you tell them don’t follow our model, follow a different path?
+
+**Jose:** Well, I think there are couples of things. First of all we targeted the technical buyer, so it’s very different.
+
+**Jason:** For sure. Starting with developers certainly helps, right.
+
+**Jose:** We started bottoms-up as well so a lot of our initial people were developers who did not want to talk to you. They wanted to try the product. That’s what they do. They wanted to download it or just do an eval and then get moving. That worked very well but so if you’re selling a tops-down single decision, like ERP is probably going to be hard to just try ERP in one group and so I think that —
+
+\[crosstalk\]
+
+**Jason:** Your financials will be fine. Don’t worry.
+
+**Jose:** Yes, don’t worry. The other thing is we don’t start wall-to-wall ever, right. We start bottoms-up, like some team is going to deploy JIRA or some team will deploy Confluence or Bitbucket and then they will try it out, if they like it will start expanding.
+
+If your implementation has to be a single large implementation, that’s the big decision where it’s like–also a high level person who doesn’t want to download and try the many — CIOs aren’t going to download and install and try on their own, that’s going to require more of a traditional mode.
+
+I love our model, I think a lot of people — like I would argue that a lot of companies have gone towards a traditional model way too soon, they could’ve had a much higher percentage of self-serve. But there’s definitely some product lines and some sales types, where it would not work in that way.
+
+If you’re doing a compliance sale and there’s 500 possible customers in the United States to do it, you should call them and get a hold of them. Don’t send them email and say, “Hey, download this.”
+
+**Jason:** \[laughs\] I want to come back to a couple of things here, but I want to go — I want to talk a little bit, because we have such an amazing group here. I want to go back a little bit in time, in terms of when you joined, because these are interesting stories that have grown over time.
+
+Talk first, because I think there’s two things that help founders so much, talk about something, like the most broken thing that you joined, when you joined. The thing that was the least optimized and the highest ROI thing you did to have it changed?
+
+Like the thing that the first 30 days, the first three minutes, the first two weeks — because I’ve found great executives, there’s this low-hanging fruit usually. You’re going to tell me maybe there was nothing, but I find these are eye-opening stories, when you hear the impact of small improvements.
+
+**Travis:** I had a couple of “Oh, shit” moments when I started, I grew up at Salesforce, in the commercial sales machine. One of the first things I did when — it was my first day in the office, I turned to one of the AEs, we were three AEs and three SDRs at the time.
+
+I said, “Hey, just tell me about a record, a good customer I can look up in Salesforce?” He said, “Zipcar,” so I go and type in Zipcar, and the account name is Dan Siroker, and Dan Siroker is the name of our CEO. So I start asking, “Why is Dan the account name on this account?”
+
+He said, “Well, if we have a platinum account,” because we had bronze, silver and gold, you can swipe your credit card and we had this subscription system. But if you signed up for platinum, you got invoiced, but our subscription system made you put a credit card in.
+
+So we would take Dan’s AmEx that was sitting on the desk, and we would type that into the subscription system and then there was integration to Salesforce, so every platinum customer, the account name was the first name and the last name from the credit card.
+
+Then I do a search and there are 67 Dan Sirokers in our Salesforce and I sat in front of Giants game on the TV and I went by hand, one by one and found all the account names and put that in, being a little bit obsessive. For me, that was one of the basics of — and we have this culture of data-driven decision-making. This is part of what we offer to our customers and you can’t make good decisions if your data isn’t good.
+
+So spending all that time trying to nail that very early on, getting the instrumentation into the system and making sure we were all working off the same sheet of music. Which is not a war that you win, it’s a police action that you have to constantly fight, and we’re still fighting that but that was, I think, one key thing, and the other —
+
+**Jason:** Did it inflect the curve? I’ll tell you my fear in start-ups. I hire this very poised person from Salesforce, manage the team, and all he wants to come in and do is change the systems and processes in the first 60 days. You have to do it, don’t get me wrong, but why did that work? Why did fixing that work? Because you joined Optimizely, a million-ish in revenue, seven million?
+
+**Travis:** It was about five, yes, five or six.
+
+**Jason:** Five or six million?
+
+**Travis:** Yes.
+
+**Jason:** Okay, that maybe help explains it. There’s enough meat — five or six million processes are all breaking, right?
+
+**Travis:** Well, I think part of it too, there was maybe a psychological effect of, I was in it with everyone. I wasn’t coming and saying, “Hey, you go fix this,” but I went in and I cleaned that stuff up myself. I was the comp calculator, I was the Ops person, the manager.
+
+I was the AE on big deals and just being in that with them, I think then earned a certain amount of credibility that I wasn’t just coming in of, “Hey, here’s the process.” The other thing was just setting context. Another “Oh, shit” moment was, there was an AE who came to me and he dropped a 30-page MSA from the customer.
+
+It wasn’t even our MSA, it was theirs and he goes, “Hey, man, I usually sign these, but I guess since you’re here now, you should probably just sign these.” I went, “How many of these have you signed?” It was just things like that, when they’re going so fast it’s not obvious.
+
+And so we take a step back, we set context and say, “This is not process for process stake, it’s framework to help you make better decisions, and that’s why we’re doing it. So that’s why we’re going to send these to our external council,” that sort of thing that may not be obvious.
+
+**Jason:** Got it. Did reviewing those MSAs also drive up the deal size, by putting more rigor against — that or did that not help?
+
+**Travis:** I think what I would say, it’s hard to isolate it to one variable, but the idea of having some repeatability and rigor, and how we thought about getting people from mildly interested to wanting to sign. There were a bunch of little points in there, of just trying to obsess over what is the happy path, what is the platonic ideal, that’s the sort of thing that increased deal size and the speed to close.
+
+**Jason:** One question, then I want to get Amanda’s thoughts. So you joined at five million which is — How many of the folks in the sales team when you joined were part of the go-forward team 60 days later? How many of them were the right folks to get you from five to 20 or the next phase?
+
+**Travis:** All of them.
+
+**Jason:** All of them?
+
+**Travis:** Yes.
+
+**Jason:** That’s unusual. Why was that? Usually I get worried when they all stay \[laughs\]. Usually I’m worried the new VP can’t recruit \[laughs\].
+
+**Travis:** I give a lot of credit to a lot of what Dan and Pete, the founders, thought about very early on in the company’s history. Which was a culture and values that they held people accountable to and one of the big things for us was the malleability. So not everyone ended up doing the same role-
+
+**Jason:** Got it.
+
+**Travis:** -but they were shapeshifters in that they just wanted to be part of something and they were willing to take different responsibility. Great example is the first sales person at Optimizely, when there were essentially three people. When I started, he moved to Amsterdam to open up the European operations.
+
+**Jason:** That can work well.
+
+**Travis:** And that was a better fit for him, from zero to one there, than necessarily building scale and process but he was willing to do that, because he was malleable in that way.
+
+**Jason:** That’s interesting. All right, Amanda, talk about the quick wins that you had. Were there any quick wins?
+
+**Amanda:** There was tons of quick wins. Well, maybe just some context. So when I joined there was about a dozen people and I was the first marketing hire.
+
+**Jason:** When did they come to the US?
+
+**Amanda:** They had just come to San Francisco and just gotten Series B.
+
+**Jason:** Were you the first US hire? Close to it.
+
+**Amanda:** There was one or two other people right before me, but literally during my interview, they still didn’t have internet in the building that they’d just rented. Super early days, and Mikkel, the CEO, was doing all the marketing prior to me joining.
+
+So think about — I took over the AdWords account from him, and optimized that for a bit of time. He was writing all the blog posts, which every other blog post had the word, “Cool,” in it. Because it’s not his native language and that’s the word he knew how to be excited about.
+
+Just lots of easy things to do, I asked him, “Why can’t people buy our product online?” And he’s like, “Oh, well but they’re going to start a trial and try it out, and then after 30 days, then they can buy.” I’m like, “Well, maybe some people might just want to buy it on day one. We should let them do that.”
+
+So a lot of things like that, we didn’t talk to any of our customers with a newsletter, or try to nurture our database of leads, so easy, easy tactical things. He also, Mikkel, super-creative, wanted to do this campaign that I was involved with when I started.
+
+Where he found some person off the street to create these videos of kooky customer service scenarios, where you would want to talk to someone in customer service. And one of them was pretty much a fully dark video of a woman talking about her vibrator breaking down and wanting to call customer service \[laughs\].
+
+**Jason:** We’ll take this one out of the video \[laughs\].
+
+**Amanda:** And I was like, “Whoa, I guess this is start-up world, we can do stuff like this, but this is probably the last time we have a video about a dildo.” \[laughs\]
+
+**Jason:** All right. That’s a quick upgrade. That’s a quick, quick, quick, avoid-a-few-issues upgrade. Goodness, all right \[laughs\]. There’s a lot of answers right there, but when a CEO is so passionate about product brand marketing, what’s your job, to force-rank her, him, initiatives? Or how do you get her out of doing all that? Because some of them love to kibbitz for too long, don’t they?
+
+**Amanda:** I don’t know, I actually — I think about this a lot as a marketer at heart, whether it’s better to be with the CEO who knows marketing or doesn’t know marketing. I actually really enjoyed working for a CEO who was very marketing-driven and marketing-minded. Because he had a lot of wonderful instincts and I learned a lot from him. Over time, he did a good job of stepping out of things sequentially, but he was a creative mastermind.
+
+**Jason:** Okay, then. Were the suits your idea, the look, or was it already there when you joined?
+
+**Amanda:** The suits?
+
+**Jason:** His suit look, the whole look, the sweater, the suits. That’s not a look?
+
+**Amanda:** I don’t dress him, no.
+
+**Jason:** You don’t dress him, all right. He has a look. It’s pretty far removed from the story you just told us, that I’ll never repeat \[laughs\].
+
+**Amanda:** \[laughs\]
+
+**Jason:** All right, that’s great. Jose, talk about when you joined. What are the upgrades?
+
+**Jose:** I joined later on than these guys did for Atlassian. I joined —
+
+**Jason:** How big? Six years ago, right?
+
+**Jose:** 65, somewhere in that range already a good size company.
+
+**Jason:** 65, never raised a nickel of capital?
+
+**Jose:** Never raised a nickel of capital.
+
+**Jason:** What was here? What was in the US when you joined?
+
+**Jose:** US Sales and Marketing, HR and Finance. Although, when I joined we had no lawyers. In fact it’s very funny now we talked about whether we needed a lawyer or not, so it was really —
+
+\[crosstalk\]
+
+**Travis:** We don’t negotiate in a sense.
+
+**Jose:** We don’t negotiate but we eventually decided to hire one and we’re like, “Do we need them?” Apparently we do, we have a lot of them now. But it’s worked out well. There’s a lot of things along the way where the decisions on how the company works.
+
+Being an Australian startup with no access to capital really, starting early in the 2000s when it was a downtime anyway, they were trying to service people over the phone. The first, “Ah-ha,” was when people would call and they would talk to them and they would fax back and forth of course.
+
+Then one day an order came across from American Airlines that no one had touched and it was just like the moment we’re, “Hey, we can sell without talking to people.” That’s when they started building the model and the second thing that we did was we built the —
+
+**Jason:** First upgrade was pick up the phone? Right?
+
+**Jose:** Yes, it was to try to make it you don’t have to. We still today we have a customer advocacy group that works on my credit card failed type of questions. Product advocacy group that works on how’s my product working?
+
+We take all the feedback from why people call and why contact us and try to engineer that out of the process. Not that they can’t call, but people shouldn’t have to talk to you and that’s when often those calls are frustration phone calls and so we’re really trying hard.
+
+Anyway, the second thing we built the product advocacies and that’s an inside sales team run by pre-sales guys but run like a support queue. If you had a question come in but we would answer those emails with the name of the person.
+
+Then we would end end up getting a lot of back and forth and a couple of weeks later they’d call back and say — or they would email back and say, “Hey, John, I really liked our conversation.” Then we started answering those emails with just Sales at Atlassian. All the responses came from Sales at Atlassian and all the sudden the contact rate went way down and the conversion rate remained the same.
+
+We just took out a lot of the back and forth. The next thing we did that was smart is during that 2009, during the economic crisis we actually did the $10 for 10 user license and we brought prices down. Then what we saw was an amazing uptake and people starting to adopt our product and it growing. That was another really good decision —
+
+**Jason:** Why is — $10 for 10 users, what was it before 2009?
+
+**Jose:** Before you had to start with a 25-user license. Obviously early on it wasn’t expensive since JIRA Unlimited was $800 but it was $100, 150.
+
+**Jason:** For folks here and for me, I’m skeptical that cheap pricing works once you have a brand? At this point in 2009 I was an early Bitbucket customer, who knew everything. These are well established products. Why did cutting the price work?
+
+**Jose:** We weren’t really cutting the price we were bringing it to a smaller tier.
+
+**Jason:** Small edition?
+
+**Jose:** Yes, smaller edition.
+
+**Jason:** In the sense you went down market?
+
+**Jose:** Yes, exactly and we made it super easy to adopt and this is installable software not SaaS software at that time. We made it really easy to adopt and we just saw trials go way up and conversions started running we started seeing obviously sales accelerate from that. That was —
+
+**Jason:** Do you think the gate was too high was that just — We don’t have to do anything — you don’t talk to a sales person. There was a gate here you lower the gate to 10 bucks?
+
+**Jose:** Yes, we made it a lot easier for any groups, small-small teams to start working with our products. That worked pretty well but over time we’ve had a really good discipline on the sales model. We haven’t made any big changes, there’s things that I’ve done for the channel.
+
+We’ve changed some of the discount percentages on renewals. We’ve tried to make it’s just not competition for renewing out there. We’ve invested a lot of money in enablement which has really helped grow our cross sale.
+
+But it’s been like a consistent — there’s not been some massive– the $10 for 10 users was a big impact. But other things have been just consistent, steady growth and that’s really the Atlassian story overall. So it’s consistent, steady growth.
+
+**Jason:** One related on the scale and I want to talk about something else but I’ve been involved with a lot of companies that originally not US based have become — Zendesk moved over so early but Atlassian didn’t. Who works and then who succeeds in that environment and who doesn’t and how do you make it work?
+
+**Jose:** There’s also different reasons I heard a lot today about people who decided to go international. As far as a customer base we don’t decide on markets necessarily, basically if you have an internet connection and you have a credit card you can be our customer.
+
+**Jason:** But when I was a customer I didn’t even know it was an Australian company, no doubt there?
+
+**Jose:** That’s correct.
+
+**Jason:** For the human capital side, for recruiting you and your team —
+
+**Jose:** We decided the first decision was that we needed to have some presence in Silicon Valley in order to — to access the know-how and knowledge and really people who understand the business to help us scale.
+
+That was the first reason we did it here and then obviously the majority of our business is in the US and in Europe, not in Australia. We dominate Australia but the majority of the business was here, so we wanted to be closer to the market.
+
+There were certain type of skill sets that we really wanted. Even though we have most engineering in Sydney, it’s still a huge challenge. In terms of scale and certain experiences it’s really hard to find it in other places like you can here.
+
+We decided that sales and marketing and then now HR, Finance, and Legal are really headquartered here. Versus engineering and the CEOs, the co-CEOs, it’s still Sydney. Sydney is still our biggest office and it’s very vibrant in sales.
+
+**Jason:** These were fun stories about inflecting the curve. I want to talk about related things, because I love to hear these success stories. Tell me about– it doesn’t have to be in the early days but at least in the first year. What was your magic hire? What was the hire that you made?
+
+Who was the human being you hired that changed your part of the organization and what’s the learning for everybody? What was that magic because everyone has that magic. Maybe you didn’t have one but I feel there’s a superstar you learned from that story?
+
+**Travis:** For me it was the director of sales Ops who ended up becoming an Ops and strategy for sales and then ended up actually the coolest acronym that Optimezly use, COPS. Which is, Customer Operations and Strategy.
+
+We unified marketing, sales, success, and partnership Ops into a single group of the people who run the systems, people who run all the data analysis, and then everyone that does enablement. When this was fairly early on but I even felt it was too late.
+
+When, there was someone who was not in the direct chain of command of sales management. Who was looking at the business and people felt comfortable coming to him. Also to share what was actually going on.
+
+I remember when I interviewed him he said, “What I want to be is your consiliary,” which I thought was just one, cool as a term. The way that he thought about it was that he was second-in-command and he had this different view of the business that was very operational. And more clear eyed than what was flowing up from what the deal and what the sales manager was saying.
+
+I think about the consistency that we got from looking at the business in a single way, having the systems talk to each other and work together. All the enablement we thought of, not just, how do we do sales kickoff, we go to market kickoff? Those sorts of things were a big impact on the inflection.
+
+**Jason:** I think we’ve all learned — if we’ve been doing it for a while, that we all waited too long for sales ops? You can never really invest too early. We all love this generalist but the earlier you can specialize your team better — even to do that you need sales ops?
+
+I’d love to hear your guys’ thoughts, but one follow-up question quick. When you hire this change what were her/his KPIs? What were your goals, what did you want out of the hire? You’re fortunate you’ve been from Salesforce, so you saw some of this done in practice. But what were the goals?
+
+**Travis:** Yes but I kept it really simple actually. I gave him the same goals that I had. It was just shared ownership and there were leading indicator responsibilities and accountability there.
+
+\[crosstalk\]
+
+**Jason:** It was bookings or what was the role?
+
+**Travis:** Yes, it was bookings and the global number and then we do —
+
+**Jason:** But it wasn’t sales efficiency, it wasn’t hiring or it wasn’t any of that?
+
+**Travis:** No, what we would do OKR we had stolen that system from Google and so every quarter we’d sit down and say all right what are the things that you want to drive? Then hold him accountable to that. But ultimately I wanted him to feel that same sense of ownership of we own the global number and we’re driving the global number together.
+
+**Jason:** All right, so he owned the number and his or her job was to make sure to do anything he could to enable the team to achieve it other than carrying an individual quota? Was that the spec?
+
+**Travis:** Yes, exactly.
+
+**Jason:** Got it. Amanda you can answer your own magic hire but any learnings on that sales Ops side?
+
+**Amanda:** Yes, we didn’t invest in it at all.
+
+**Jason:** It’s going to be the same story isn’t it? But it didn’t even occur to you?
+
+**Amanda:** It definitely makes the list of regrets I have of wishing that we would have done more there. In fact before I came here I talked to our head sales Ops about some of the things that we might talk about.
+
+He also reminded me not just sales Ops but your sales leader and your sales Ops leader, both need a second-in-command to be able to do the day-to-day, so that then you can think about strategy. Because they were just in it deep and didn’t have enough time to think about strategy. That was a learning too.
+
+**Jason:** The VP Sales, once you have a team you can quickly spend half your time on Ops if you’re not careful, right you can spend and then it just becomes overwhelming for an individual.
+
+**Amanda:** To Dan from Box’s point earlier about hiring another tactical thing in sales that you have to deal with and just hiring the right people and getting them on-boarded, if you don’t have that sales Ops function that has scaled and proper on-boarding process just ramping people is a top problem all the time, it never goes away.
+
+**Jason:** Yes, and especially everyone’s going faster these days so these on-boarding issues are bigger. If you’re hiring three reps this year you can do it over lunch, but if you’re hiring 30, it’s not possible is it?
+
+**Amanda:** No.
+
+**Jason:** So you had the same learning. Any other magic hire or anything?
+
+**Amanda:** You know, I’m kind of wracking my brain —
+
+\[crosstalk\]
+
+**Jason:** Maybe your whole team was so magical that that no one really stands-out, is that it?
+
+**Amanda:** \[laughs\] Well I think that, what was magical is that we had such great product market fit and like I mentioned, we had about a dozen people when I started. The makeup of that team was about half engineering, half customer service reps.
+
+Now we sell customer service software, so we’re very conscious of wanting to provide great service. But I think the founders were very insightful that they knew that the road-map of the product and how we were going to succeed was making customers happy and we had to listen to them.
+
+So we had open forums using our own product where customers could write us anything publicly, and we spent a lot of time listening to customers. When we started hiring marketing and sales, it was just more about hiring solid people who could execute and keep up with everything.
+
+So I wouldn’t say that there was one person who necessarily stood out, but in those early days we as a sales and marketing team we would get together and do win-loss analysis together. Which is I think probably an unusual thing for bigger companies to even fathom.
+
+Like sales and marketing actually talking together, but we did that. And sales wasn’t put up on necessarily a pedestal, like in some companies. But sales was just one other part of the puzzle, so I think that there was a real balance of people.
+
+**Jason:** When so much of the lift is from people loving the product, did you use CSAD or NPS as core-metrics? What was sort of your North Star metric around that? Or did you not have one, it was too early, did you have?
+
+**Amanda:** Well we built CSAD into the products so course \[laugh\].
+
+\[crosstalk\]
+
+**Jason:** Yes, I know, right. But was it your North Star metric in the days, it’s easy to get CSAD out of sales.
+
+**Amanda:** I mean for sure it was a big metric for customer service, as far as whether or not the business was doing great. It was beyond that with bookings and just conversion rates throughout the funnel. Churn was never a huge problem for us so we didn’t monitor that daily, but that was certainly part of the whole picture of CAC to LTV, so nothing —
+
+**Jason:** But bookings was the North Star it sounds like, right?
+
+**Amanda:** Yes, to some extent for sure, yes.
+
+**Jason:** Jose I wanted to talk, learn about what hire you made changed it. But I’d love to hear your thoughts on this at Atlassian? Especially when you joined, Atlassian — you’ve got a bunch of beloved products right, and also that have been in market for a long time. So where did all CSAD and NPS, how high was that? What was actionable? How core was that stuff?
+
+**Jose:** Well NPS is actually kind of our North Star nowadays, it’s what we really look at obsessively. We get a report once a week that shows where we are in NPS by product, by service. So were very focused on —
+
+**Jason:** So it’s by product, by service.
+
+**Jose:** Yes, so —
+
+**Jason:** Is it segmented by customer size or that’s enough segments as it is.
+
+**Jose:** Yes, pretty good segment, we have a lot of products. We’re very focused on NPS because we obviously believe that that’s what’s going to drive people. In the early days when I joined we were focused on unit growth.
+
+We did that more than bookings. Because we just wanted to show the flywheel worked, that people were buying easily and moving forward. In fact all of the bonus plan for the company was based on units at that time not bookings.
+
+**Jason:** So maybe because I’ve only had two cups of coffee. Unit growth versus booking, what do you really mean unit growth?
+
+**Jose:** Well because we would value a small customer versus a large customer the same in that respect. It’s like we just want —
+
+**Jason:** Forget about ARR and revenue —
+
+\[crosstalk\]
+
+**Jose:** Yes, it was literally contract.
+
+**Jason:** You can distract away from revenue.
+
+**Jose:** Yes.
+
+**Jason:** You just wanted to close as many accounts —
+
+**Jose:** We wanted to show how we could just get the machine moving as fast as possible, to process as many customers. So that was the obsessive metric earlier when I joined but, over time obviously MRR growth and then NPS we think those were the things that were going to lead us. Especially with the word of mouth business, you really need NPS-
+
+**Jason:** Word of mouth right?
+
+**Jose:** Word of mouth is how, if you look at our funnel, really, the source of the funnel is word of mouth.
+
+**Jason:** Have you found, especially the Atlassian sales, that NPS is something everyone can own in the company, how do you push down responsibility in your org?
+
+**Jose:** At some point it starts falling, like most things where you have one goal, somebody in the corner is like, “How do I tie to that?” But yes, NPS is something we look at obsessively everywhere. Like in my organization we do NPS for the channel, for the channel customers, for the channel programs or do they like the program there getting? We have NPS for our training program, for our technical account management programs, so we’re pretty focused on that.
+
+**Jason:** Because you have to make your channel happy.
+
+**Jose:** Yes
+
+**Jason:** And then do you look at the differences between the NPS from customer sold through the channel and not through the channel.
+
+**Jose:** We do, well we compare all sorts of things, whether bookings ASP, also the renewal rate, all that and try to understand why they’re different nuances.
+
+**Jason:** And are the channel partners somewhat exclusive to territory or are they competitive in —
+
+**Jose:** They’re competitive. They’re not traditional like box moving sales channels, they are mostly boutique consulting firms focused on Atlassian products. The way I describe them anyways, like imagine you take the smaller Salesforce group and if they could resale, that would be very similar. Five to 100 people mostly-Atlassian shops.
+
+**Jason:** And since you have there NPS what do you do when these folks are under-performing? Do you kick them out of the program? Do you have a sit down, what do you do?
+
+\[crosstalk\]
+
+**Jose:** They can lose their tiering.
+
+**Jason:** They lose their tiering.
+
+**Jose:** And then you lose a discount percentage.
+
+**Jason:** Got it. So they’re highly incented to high quality service.
+
+**Jose:** Yes, they are incented to provide this service.
+
+**Jason:** Okay, one question I want to get because there’s going to be three different perspectives. We heard on the last session, Dan talked about at Box ,and I’m sure the other folks did about, how you have to have the boots on the street or the sales people on the monitors to close deals.
+
+I think this is the next essential question for different companies. For you guys, does head count drives revenue or does revenue drive head count? I think Box has become a head count driving revenue and Salesforce I think was head count drive revenue, right. Even when you were there, so what’s the answer? If I plan — if I need to hit 20 million this year, is head count the answer or do I hire against my revenue, what is the answer?
+
+**Travis:** I suppose it’s chicken and egg the —
+
+**Jason:** Yes, but you think about your business differently, right?
+
+**Travis:** Yes, I guess the way we think about it is if we’re an expanding TAM environment. We have and for us we’ve just launched a bunch of new products, we think that it’s not a question of whether there’s demand for that in the market.
+
+It’s our ability to drive that demand, so it’s head count driving the revenue, that we need the — and the way that our model works, it’s not an organic viral expansion type of product. You need someone to properly articulate the business value of it.
+
+And so you need enough of those people who can have enough focus in their territories to drive those conversations. So I am held– my 1A and 1B metrics are ACV bookings and head count. Because one does not go without the other.
+
+**Jason:** That’s the answer, head count right. So you’ve got a big number to hit this year right.
+
+**Travis:** As always.
+
+**Jason:** \[laugh\] The ACV you’re given, how do have that negotiation, are you given the head count number? Or do you say, “I need this many heads to achieve the number I’ve been given.”
+
+**Travis:** I think the thing it took us a while to align on that we finally are is what is reasonable in terms of productivity, to expect at the different market segments. Once we fix on that metric with Finance, then the investment vehicle is set of, well if we believe that this is reproductivity then the these are the number of people that we need to get to ACV growth.
+
+Then there’s a little bit of horse trading around the support infrastructure around them. SE’s, Demand gen, partnerships, and we try to fix to some benchmarks there. But its driven that the biggest thing that we had to get in align is reproductivity and then what’s reasonable over assigns. So that we create the right cushion to deliver against the expectations of the business while having enough people.
+
+**Jason:** All right. So let me — distill to one question. You’ve got these two sales teams, the mid, the SME and the bigger and you’ve got a plan you have to hit this year, which you don’t have to share with us. But it’s hard, I guarantee it, it’s never easy is it? Anyone think it’s easy? It’s never easy, right.
+
+**Travis:** If it was we wouldn’t say it.
+
+**Jason:** Does your gut tell you if you hit your hiring plan, you will hit your AR bookings plan?
+
+**Travis:** No, because you have to then layer in, it’s irrelevant if you one, hire the wrong person or two, do not surround them at the right infrastructure and training.
+
+**Jason:** But you know how to hire good people at this point, right.
+
+**Travis:** Well sure, that might changes though.
+
+\[crosstalk\]
+
+**Jason:** For you, for where your sitting Optimizely today, do you feel like if you hit your hiring and you meet your quality bar you will hit your number and that’s your biggest risk?
+
+**Travis:** I don’t because it’s too simple of an equation that you have to surround them with that supporting infrastructure. Because even if you take the best AE on the planet, if you don’t give them the people, the product marketing, and the support then they’re not going to meet their number.
+
+**Jason:** Got it. What do you think Amanda, about these calculations. I bet getting Mikkel to believe that head count drives revenue was a cultural change, was it? From the blogger and the video maker. What do you think?
+
+**Amanda:** I mean somewhat similar story, we approached the year with, “Yes, we need to plan for head count that’s going to get us to this number, but inevitably we’re always behind on hiring as much as we’d like but we still hit the number.
+
+**Jason:** With Zendesk, with the revenue split you have, culturally, do you think if I just put 10 more, 50 more great bodies on this I can grow faster or is that not really how — my guess is it wasn’t really way that Zendesk thought about it.
+
+**Amanda:** Not necessarily.
+
+**Jason:** It was the other way, “This is how much revenue we want to do, we need this amount of head count to get there.”
+
+**Amanda:** Yes. I mean there was a point as well when we started to sell multiple products that you started to have this other dimension to think through too. It’s like, “Well, what products can we sell. How does our ASP evolve over time?” That’s another lever besides people. The equation gets even more complicated, but yes. Certainly culturally, head count did not drive.
+
+**Jason:** I think we’re hearing different sides of stories on this panel than we usually hear. Yes. I mean at some point most folks think it happens, right? A lot of folks that have come out of environments like Salesforce see it from day one but it’s not always that simple, is it? I think at Atlassian, it’s probably not exact, it’s not a mathematical equation at all, is it?
+
+**Jose:** Well, I mean I think head count sometimes would drive some percentage of bookings. It’s just not necessarily head count in my organization. We spend a lot of money on growth so we’re trying very hard to do in-product, up-sale, cross-sale and moving people that way.
+
+We spend a lot of money on people in that organization to try to increase conversion rates, increase cross-sale rates. In my organization, we very much have different types. We’re trying to prove the impact we have in different areas and see if it really works or not.
+
+It’s not necessarily — I miss the days of, “Here’s our average quota. Here’s the number of deals we need to get done. Here’s what our number is. Here’s my — ” It was like, “Hey, that’s pretty good math.” Here’s a little more nuanced at Atlassian, right?
+
+Because you’re not necessarily touching every deal. So it’s not necessarily a direct relation to people talking to people for selling. Obviously, we need to improve the product. We need to improve a lot of different yard marketing to hit our numbers. A lot of that is head count driven just not through sales people.
+
+**Jason:** All right. Yes. I think the moral of the story is it’s a nuanced topic and if you’re told I can absolutely hit the plan this year, I just need 50 heads, just be skeptical unless you have 50 million. Anyhow, this was a great session. I love the diversity of companies and I thought this was great. Let’s thank our panel. This is great.
+
+**\[END OF AUDIO\]**

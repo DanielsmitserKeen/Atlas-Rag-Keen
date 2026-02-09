@@ -1,0 +1,272 @@
+# Onboarding customers for long-term success \[Complete Guide\]
+
+Good onboarding isn’t just about introducing new signups to your product’s features – it’s a continual process of guiding people towards success with your product.
+
+That long-term focus on ensuring people find success with your product should lead to higher customer retention, which is the foundation on which thriving businesses are built. As our Co-founder and Chief Strategy Officer Des puts it, “[customer retention is the new conversion.](https://www.intercom.com/blog/videos/onboard-signed-users-satisfied-users/)”
+
+> “It’s important to have a solid strategy in place that considers how users will find success not just in the moment, but over and over again”
+
+Great onboarding, then, is critical for every stage of a customer’s lifecycle – from first-use to activation to longer term engagement. This means that it’s important to have a [solid strategy](https://www.intercom.com/blog/strategies-for-onboarding-new-users/) in place that considers how users will find success not just in the moment, but over and over again.
+
+Aligning all those elements to get everything right takes deliberate effort and planning. That can seem daunting when you think of all the channels and flows and steps involved. So in this guide, you’ll learn how to cut through the confusion to plan and create a cohesive onboarding experience that leads to high conversion and high retention rates.  
+
+## What a good multi-stage onboarding framework looks like
+
+We created [the C.A.R.E. framework](https://www.intercom.com/blog/c-a-r-e-simple-framework-user-onboarding/) to describe how onboarding shapes every stage of the customer lifecycle – Convert, Activate, Retain, and Expand.
+
+For instance, in this example customer lifecycle, we can see the various touchpoints that a customer might encounter as they move from first use to successful long-term customer.
+
+![Customer onboarding guide touchpoints and behavior ](https://blog.intercomassets.com/blog/wp-content/uploads/2019/10/08_FBLI_CARE_1198x628-1.jpg)  
+_The C.A.R.E. framework_
+
+As you can see, at various points in the customer lifecycle, you should send different types of messages in different channels, all tailored to the customer’s behaviour. Understandably, it takes a lot of work to make that all feel cohesive, so take the following steps to build a consistent user experience.
+
+## Plan your onboarding strategy
+
+Before you start looking at individual channels, flows and message types, it’s important to take a step back and look at the big picture of your entire onboarding experience. There are a few questions you’ll want to answer to get a clear idea of who your customers are, what they’re trying to achieve and how you can design a cohesive journey to help get them there:
+
+### What’s your overall onboarding goal?
+
+The true overall goal of your onboarding shouldn’t be to get customers to sign up or start paying for your product. Instead, aim to retain customers and set them up for long-term success from the very beginning. Look at patterns in retention – what metrics are common among customers who retain? What behaviors do you see in customers who churn? Identify these to define the onboarding goal you should help your customers achieve.
+
+### What do your customers need to achieve?
+
+Onboarding should help your customers achieve their version of success, not your company’s. This will increase retention and help customers stick around for the long-term.
+
+> “Consider how best to deliver that message – whether it’s by email, in-app message or even with a Product Tour”
+
+Who are the different segments you want to reach? You can tailor your message and how you deliver it based on who your users are and the actions they do/don’t take in your product. Also, consider how best to deliver that message – whether it’s by email, [in-app message](https://www.intercom.com/blog/in-app-messaging/) or even with a [Product Tour](https://www.intercom.com/blog/product-tours) (interactive guides that use pointer messages to highlight features in your product.)
+
+To find out what your customers want to achieve:
+
+*   Talk to your customers and find out why they signed up for your product.
+*   Look at your successful long-term customers and define the steps they take.
+
+### What is your customers’ path to success?
+
+Considering the four approximate lifecycle stages described in the C.A.R.E. framework – Convert, Activate, Retain and Expand – it is possible to map out an estimated onboarding flow. Each stage should have a clear goal, like encouraging users to take the first step. Then, each of the messages you send should be tailored to the behavior of the customer.
+
+## Set your users up for long-term success
+
+Now that you’ve planned out your onboarding strategy/framework, it’s time to create your individual messages and Product Tours. Like we said before you need to map your messages to each stage of your customers’ lifecycle.
+
+![Convert](https://blog.intercomassets.com/blog/wp-content/uploads/2019/10/04_TheOnboardingGuide_Convert.jpg)
+
+### Stage one: Convert users
+
+**Goal:** Guide users as they take their first step in product  
+**Channels:** Product Tours/emails
+
+When new users sign up to your product, they’re relying on your company to guide them in the right direction. You’ll never get a second chance at making a first impression – so you need to make your first encounter (or few encounters) count.
+
+#### Welcome email
+
+You know the standard “Thanks for signing up for EXAMPLE\_APP” email you typically get right after you put your credit card back in your wallet? This is a missed opportunity for most companies. Why tell new users things they already know (“You signed up!”) when you could focus on things that will actually help them get value from your product and build an emotional connection with your team. Here’s how:
+
+*   Extend a warm welcome. Greet customers by their first name and show genuine enthusiasm that they’ve signed up.
+*   Introduce yourself – don’t forget to show the real person behind your product.
+*   Build a connection from the start and show you’re keen to help – for example say something like, “I’d love to hear what you’re trying to achieve with our Product.”
+*   Provide the most impactful next step/steps for them to take – e.g. send a message or add 5 teammates.
+*   Answer the three most common questions customers have on the first day. Address them right up front so they don’t have to hunt around for answers.
+
+#### ![Welcome message for new customers](https://blog.intercomassets.com/blog/wp-content/uploads/2019/10/09_TheOnboardingGuide_WelcomeEmail.jpg)
+
+#### First-use tour
+
+Put yourself in the shoes of a potential customer. The first time someone uses your product, they’ll be a little disoriented as they quickly attempt to familiarize themselves with the new environment – your app’s UI – and they’ll be searching for cues to achieve the success they signed up for.
+
+> “It’s your job to guide users towards their “aha moment,” the moment of delight where the value of your product becomes immediately clear”
+
+It’s important to remember that the goal of onboarding shouldn’t just be to show new users where features are. It’s your job to [guide users towards their “aha moment,”](https://www.intercom.com/blog/understanding-your-aha-moments-and-putting-them-to-work/) the moment of delight where the value of your product becomes immediately clear. A well-crafted first-use Product Tour can get your customers invested in your product, right from the very beginning – here’s how:
+
+*   Welcome your new users to your product. Keep things personal by adding a video or image of one of your teammates.
+*   Encourage users to take the tour by clearly describing what it helps them to do upfront.
+*   Highlight a few important features that help users orientate themselves and achieve the benefit you promised at the beginning. For example, if you told users you’d show them how to create their first project, say, “Here’s the projects tab where you can create your first project.”
+*   End the tour with a clear call to action that helps users take their next step. For example, link to further documentation or how to get in touch with you.
+
+### ![Activate](https://blog.intercomassets.com/blog/wp-content/uploads/2019/10/05_TheOnboardingGuide_Activate.jpg)
+
+### Stage 2: Activate users
+
+**Goal:** Guide your customers to their “aha” moment where they see value in your product  
+**Channels:** Best practice in-app messages/habit-forming emails
+
+Once new users have orientated themselves in your product, you’ll want to guide them towards your first true taste of success. Activating your users involves getting them to use your key feature/features and making sure they start to form habits in your product.
+
+Activation is the point when a customer has reached a defined level of engagement with the product after which they are seen as statistically likely to stick around.
+
+#### The habit-forming email
+
+Facebook. Twitter. Google. Slack. These companies all have one thing in common – they create habits among their users. So how do you create these habits in your own product? If your product has a browser extension, desktop application, or mobile app, promote it via an email or in-app message and make sure it’s easy to add.
+
+> “Consider the psychology of habit formation and how to encourage it”
+
+By getting new users to integrate your product across multiple platforms, you’re increasing the likelihood your product will become a recurring part of their lives. For example, new Dropbox users who fail to install the mobile application won’t experience the full value of being able to access files anywhere. They may upload fewer files, use less space and are less likely to pay for more storage. Send this as an email so all users get it, regardless of how active they’ve been in your product.
+
+*   Consider the most important habit or habits you’d like people to take – e.g. download your mobile app or invite teammates to join.
+*   Make it clear why people should take action.
+*   Consider the psychology of habit formation and how to encourage it.
+
+#### ![Activation of customers as part of onboarding](https://blog.intercomassets.com/blog/wp-content/uploads/2019/10/10_TheOnboardingGuide_HabitEmail-1.jpg)
+
+#### Best practice in-app message
+
+Onboarding isn’t measured in the number of tasks completed, it’s measured by how you make people more successful. Just because a new signup has taken the first important step in your product doesn’t mean they’re any further in getting the value they signed up for.
+
+At some point you’re going to have to stop showing people merely how to do something and start showing them how to go deeper on their use case and achieve maximum value. This is where the best practice message excels.
+
+*   Trigger this message to send only after customers have used the feature a few times. For example, your rule could be something like “Created project count is 3.”
+*   For simpler best practices include best practices within the message itself – make the information digestible with bullet points.
+*   For more complex or detailed best practices create a doc, blog post or webinar and link to that from your message.
+*   Focus on the benefits.
+*   Don’t let your customers’ milestones go unnoticed. Celebrating progress will make your customers feel good and give them the confidence they need to progress.
+
+For example, if your customers have used your project feature for the third time, you could introduce them to your best practices on how to make a project schedule and how to organize their documents and files. The customer’s ultimate goal isn’t to create a project – it’s to work with a group and keep everyone on the same page. A message like this gets them one step closer to that successful moment.  
+  
+![Retain users](https://blog.intercomassets.com/blog/wp-content/uploads/2019/10/06_TheOnboardingGuide_Retain-1.jpg)
+
+### Stage 3: Retain users/deepen usage
+
+**Goal:** Showcase more value to retain users  
+**Channels:** In-apps/emails
+
+The start of a new journey can be exciting. Just like the honeymoon period of a new relationship or job, some users will have the best intentions at the very beginning of using your product. But once users are activated and have started to get value from your product you’ll need to keep them engaged, excited and invested.
+
+If you’re not continuously showing your customers how to get value out of your product, you’re not encouraging product dependency. You’re leaving the door open for someone else to come in and persuade them their product is more valuable than yours. The best onboarding retains customers over time by continually showing them how to get the most out of your product.
+
+#### Key feature in-app message
+
+The seeds of churn are planted early. Very often it’s during those all-important few days between when a customer has signed up but before they’ve used that killer feature all your successful customers are using.
+
+For example, if your product is designed to help collaboration between teams, but a user has yet to invite any teammates into the product, they are not going to extract all the value they can. Ultimately, that will leave them more likely to churn. That’s why you should be encouraging people to use the key feature you’ve identified. And if you are trying to change behavior in the app, a well-timed in-app message is going to be more successful than an email which gets filed “for later.”
+
+*   Set up a message that triggers to all new users who haven’t carried out the step you want them to take 2 days after sign up. Your filters here would be something like “Signed up more than 3 days ago” and “Project created is false.”
+*   Make it as easy as possible for users to take action. For example, link directly to the page where they can complete the action.
+*   Let them know how taking action will benefit them (tell them the job it will help them do).
+*   Use active, lively language – make your users excited to take the next step.
+*   If it won’t take long to complete, let them know. For example, you can say, ‘It only takes a minute to crop your photo.’
+
+#### ![Adding steps to improve retention and stickiness ](https://blog.intercomassets.com/blog/wp-content/uploads/2019/10/11_TheOnboardingGuide_KeyFeature.jpg)
+
+#### The gentle re-engagement email
+
+Every product and service will experience some level of churn, but it’s possible to defend against churn by identifying a crucial inflection point – when people stop getting value from your product and are about to slip away. At that stage, there’s a huge opportunity for you to step in at the right time and prevent this from happening.
+
+*   You need to act fast before these users quit. Your message should thank them for being a customer, and give them a compelling reason to return to your product, such as the launch of your new features.
+*   If you can’t get them to return, ask them why, so that you can learn from what went wrong and work to prevent it from happening again in the future.
+*   Respond promptly and address any questions or concerns they have.
+
+  
+![Expand customer use of product](https://blog.intercomassets.com/blog/wp-content/uploads/2019/10/07_TheOnboardingGuide_Expand.jpg)
+
+### Stage 4: Expand your customers’ use of your product
+
+**Goal:** Help customers regularly use product and find more value with increased usage  
+**Channel:** New feature tour; upsell message
+
+Active paying customers are great candidates to hear about your other products or features your product boasts. There’s likely significant latent demand amongst your customers for the other things you sell, whether that’s upselling high-end customers to your pro plan or cross-selling them complementary products, based on their usage.
+
+#### New feature tour
+
+Let’s say somebody has been using your product regularly. They’re engaged and up to speed. But then you release a brand new feature that can help them perform their job even better. This is a perfect opportunity to create a targeted tour that points them to the feature, its value and how to get started. Here’s how to do it right:
+
+*   Keep it short and to the point. For example, if you want to draw customers’ attention to a new feature all you need is a single pointer or a video pointer.
+*   Keep the content in your message brief and make it clear why the customer should click, and what they’ll be able to achieve when they do.
+*   Use a GIF, image or video to explain the new feature visually, and make the message more engaging.
+
+#### ![New feature announcement](https://blog.intercomassets.com/blog/wp-content/uploads/2019/10/12_TheOnboardingGuide_NewFeature.jpg)
+
+#### Upsell message
+
+If someone has reached the usage limits for your product, you should automatically trigger an upsell message that outlines the increased value they will get from an upgrade.
+
+> “Triggering an upsell message within your product⁠ – at a relevant time and place⁠ – helps customers know and remember that a solution is readily available when their problem appears”
+
+Good upselling is a win-win for both buyer and seller. It’s the act of showing your customers the value of new features, products, pricing plans, etc. when you believe it will help them be more successful at their jobs. When done right, upselling is not dissimilar to customer success.
+
+Triggering an upsell message within your product⁠ – at a relevant time and place⁠ – helps customers know and remember that a solution is readily available when their problem appears. An upsell email might be able to offer more information about the options available, but is always going to lack that contextual advantage that an in-app upsell message will have. There are a few optimal times to trigger an upsell message, such as:
+
+*   When your customers have hit a usage limit.
+*   When you can move your customers to a more appropriate price plan.
+*   When they’re using a certain feature a lot.
+*   When they’re getting significant results from your product.
+
+## Spotlight on Product Tours
+
+Now that you understand the key factors involved in creating a value-packed, churn defying onboarding experience, you’re probably excited to get started, and there is no better place to start than with a [Product Tour](https://www.intercom.com/blog/product-tours), Intercom’s powerful and easy to use onboarding feature, which allows you to craft compelling guides with pointer messages and video.  
+
+A great first experience sets the tone for your users’ entire experience with your product. It can make or break whether they stick around and become long-term, loyal customers. So, the first thing we recommend doing is crafting your first Product Tour and setting them up for success from day one.
+
+### Stick to one topic per tour
+
+Your Product Tour should give your customers their first taste of success – not the whole cake. Stick to one main topic/feature/issue per tour. Lean toward making multiple tours rather than cramming all your content into one tour.
+
+### Target your tour to the right people, in the right place
+
+Decide who you’d like to show your Product Tour to and on what pages of your product you’d like it to appear.
+
+### Create a logical flow
+
+Successful Product Tours connect the dots for users and set them on the path to start achieving the success they signed up for. It’s important to create a logical flow of steps that guide users toward success in your product.
+
+Put the most important information first. For example, If you have a form builder app, the first thing a customer will expect to do is build a form, so go ahead and show them how. Show them how to get/experience the value you promised as soon as possible.
+
+### Make it easy to absorb
+
+No matter the size and scope of your product, your Product Tour should be easy for a new user to digest in just a few minutes. Users don’t have time to read paragraphs of information or click through to separate pages. Make the components of your tour easy to digest and keep your tour short – limit your tour to 5-7 steps, and keep each step shorter than 20 words.
+
+### Give personal explanations with video pointers
+
+Video pointers are great for offering a more personal explanation, while remaining in context. They’re perfect for highlighting new features in a single-step tour. Video pointers help build an emotional connection with your customers and add an element of fun to your onboarding experience. They see higher engagement than post or pointer messages, so they’re worth taking time to create. And remember, adding captions to your videos not only makes them more accessible, but also more engaging.
+
+### End with a clear call to action
+
+A Product Tour isn’t just about showing a user where things are – it’s showing them how to successfully use your product for its intended purpose. If a user gets to the end of your tour and says “what now?” something is wrong. Ideally, your tour should bring them to the point where they can start achieving the success they want. So, highlight where users can go to learn more (e.g. help center, support), but don’t force them there – let them get on with using your product/get out of their way.
+
+## Mistakes to avoid
+
+Some common missteps often prevent onboarding flows from being the best they could be. Look out for the following:
+
+### Mistake #1: Planning your onboarding last
+
+Is onboarding the last thing you add before launch? It shouldn’t be. If you make onboarding an afterthought in your design process, it will almost certainly feel like an afterthought to your users.
+
+### Mistake #2: Designing onboarding by committee
+
+Cracks in the onboarding flow often show up when multiple teams are involved in building a product – and each one is responsible for designing onboarding for their own portion. Rather than a single unified experience, disparate design patterns and messages start to emerge.
+
+> “Team Onboarding is responsible for designing frameworks, principles and components that allow other teams to easily create onboarding flows for their features”
+
+The solution is to treat onboarding as a product itself, a constant concern for a single team. That’s the approach we take here at Intercom, where our Team Onboarding is responsible for designing frameworks, principles and components that allow other teams to easily create onboarding flows for their features while maintaining a cohesive experience throughout the product.
+
+### Mistake #3: Catering to the average user
+
+The larger your product, the more likely it tackles multiple uses cases and attracts a wide range of users. So instead of assuming all users share a common goal, guide them to their individual “aha” moment by asking a question or two.
+
+### Mistake #4: Relying solely on time-based onboarding messages
+
+Too often, teams set onboarding messages to be sent based on the number of days since signup. Actively communicate with your newest users based on what they have done – or haven’t. These messages should be tailored to their activity, not simply based on when they signed up, because you can’t always guess their level of knowledge or experience. One way to do this is with Intercom’s auto-messages that can be customized based on real-time user activity.
+
+### Mistake #5: Focusing on just the first visit
+
+It’s shortsighted to assume that your onboarding experience will be enough to convince users to come back to your app – or to teach them everything they need to know in one sitting. Think beyond that first experience to a user’s second visit and beyond. What can you do to support the people who have finished your onboarding experience and are returning to your app for the first time in hours, days, maybe even weeks?
+
+### Mistake #6: Optimizing for the single user
+
+The way software is being bought is changing, and the buyer for a company often starts as an individual user. Collaborative, team-based SaaS products know the sooner they can connect these individual users to a team, the more momentum they build toward a premium upgrade.
+
+Making these connections between users and their teams can really help a whole company get onboarded to your product. The alternative is likely to be a failure to adopt your product.
+
+## Onboarding never stops
+
+Once you realize that onboarding is so much more than getting your customers oriented and set up on day one, but rather a type of [continual engagement](https://www.intercom.com/blog/customer-engagement) that helps them get value out of your product over the long-term, its importance to your product’s success should become clear.
+
+> “Onboarding is not so much about making a positive initial introduction as it is an overarching approach to helping your customers become better versions of themselves”
+
+It is not so much about making a positive initial introduction as it is an overarching approach to helping your customers become “better versions of themselves,” as onboarding expert [Samuel Hulick](https://www.intercom.com/blog/author/samuelhulick/) [puts it](https://www.useronboard.com/features-vs-benefits/).
+
+It thus requires a wide-ranging combination of interface patterns, carefully timed messages, relevant educational content and contextual communication, all of which must be thoughtfully interwoven to meet the needs of your customers.
+
+From their first impressions of your app to becoming successful power users, it all rests on great onboarding. Above all, more so than most features, it’s never finished – you’ll always have to focus on improving and evolving your onboarding as your customers’ needs change.
+
+Ultimately, while onboarding is undoubtedly complex, it’s fundamental that you focus on getting it right. Good luck.

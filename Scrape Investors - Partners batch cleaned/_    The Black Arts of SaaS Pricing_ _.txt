@@ -1,0 +1,79 @@
+# The Black Arts of SaaS Pricing
+
+Hiya guys!
+
+Patrick (patio11) here. You gave me your email address to watch my video about improving your first run experience ([watch it here](https://training.kalzumeus.com/first-run-experience?email=*|EMAIL|*&token=*|TOKEN|*) -- folks have told me that implementing the advice actually moved the needle for them). I told you I'd occasionally send you emails you'd find interesting. If making money with software bores you, delete this email now, because it is going to be VERY boring indeed.
+
+One of the questions I frequently get from developers is "I'm thinking of charging $19 a month for my new SaaS offering. Is that a good idea?" Great question. No, that's a terrible idea, but great question. SaaS pricing is a black art and other folks in the industry have suffered so you don't have to. Here's some of what we've learned that can, literally, 10X your revenue.
+
+## Most SaaS Starts Out Underpriced
+
+Technical founders often produce pro-sumer applications that they could see themselves using, then attempt to predict what a business would be willing to pay for it based on linear extrapolation from their own valuation of it. Unfortunately, technical founders perceive code as being worth its cost, and its cost to them is zero. Linear extrapolation from "slightly above zero" is not a happy result for the business. (It is virtually impossible to build a meaningful business off of $9 or $19 per month unless you achieve massive distribution. That is a viable plan for Netflix, which spends enough on advertising monthly to buy entire YC classes, or for Dropbox, which had nearly the best distribution wizardry of any contemporaneous startup. Don't plan on being either.)
+
+Ever heard of [Visual Website Optimizer](https://www.vwo.com/)? They do A/B testing for marketing types. Prior to launching, they perceived their largest competition as Google Website Optimizer, which Big Daddy G gives away for free. The founder Paras Chopra was considering attempting to compete with free on price (don't laugh -- this is surprisingly common among technical types). I think his proposed plan levels were something along the lines of $9 / $19 / $49 when he asked me for advice.
+
+I successfully convinced him to radically increase prices, on the theory that marketers sufficiently savvy to use A/B testing for their advertising campaigns had money to burn for anything which decreased conflicts with their (very expensive) engineering teams. VWO's published pricing is now $49/$129/$249 and they make a significant amount of money on (unpublished but available) Enterprise pricing. The economics of this are \*radically\* better for the business. A single customer can now give them $3,000 a year without even requring a single email of support. That is worth as much as 25 customers or approximately 1,000 signups under the proposed $9 plan. As many of you are probably painfully aware, it can take months of work to get 1,000 signups for the free trial of anything.
+
+Ruben Gomez runs Bidsketch, a proposal design SaaS for web designers and other creative types. Note how this also appeals both to cash-poor freelancers as well as honest-to-God businesses with offices, payroll, health insurance, and other things which laugh in the general direction of $19 a month. Ruben started out his pricing plans at $9 / $19 a month and was doing well but not spectacularly. Recently he did some [fascinating work on re-pricing BidSketch](http://www.extendslogic.com/business/what-i-learned-from-increasing-my-prices/). I strongly encourage you to read that whole article -- in a just world, it would be pinned on top of Hacker News for the rest of the year.
+
+What Ruben found out as a result of substantial customer interviews was that, while he did have quite a number of "poor freelancers" on the software, a disproportionate amount of the value getting created for the software was at web design agencies. There were some making six figures a month off of proposals produced on his $19 a month software! Ruben then re-segmented his pricing plans to capture some of the vast customer surplus he was creating. (He also did a best practice for SaaS repricing: locked early adopters onto their too-cheap plans for forever. It is, in the long run, a trivially cheap marketing expense.)
+
+This resulted in agencies paying $99 a month rather than $19 a month. The $80 delta makes absolutely no difference to the decisionmaker at the agency. To you or me, $80 means a very nice dinner for that special someone. \*To an employee\*, $80 of the company's money means absolutely nothing: compared next to non-software items on the budget (e.g. a single employee's salary) it is a joke, and economizing for the $80 a month a) achieves no substantial business goal, b) does not result in a pat-on-the-head from the boss, and c) does not result in the employee getting to go out to a marginal dinner.
+
+See Ruben's post for the full public writeup, but this re-pricing -- without changing anything substantial about what BidSketch actually does -- fundamentally rearchitectured the business. He keeps his numbers close to his chest, but suffice it to say it to say "\*dramatic\*" does not do the improvement justice. Ruben and the Mrs. are now enjoying as many nice dinners as they can stand to eat.
+
+## Segment Customers By Value Received. Charge Accordingly
+
+Appointment Reminder (a SaaS business I ran for five years then sold) was the first time I ever controlled a pricing grid. (It makes reminder phone calls, text messages, and emails to the clients of professional services businesses.) Revenues are increasing by approximately 30% a month despite my best efforts to torpedo it with terrible pricing on the low-end.
+
+My biggest mistake was the $9 plan for personal users. My idea was that the $9 plan would attract attention from productivity bloggers. That was a stupid packaging decision: I should have simply given any blogger I wanted to influence two free accounts (one for them, one for a reader) and then charged appropriate to value.
+
+The thing that went very, very right with the pricing was anchoring a month's service to the approximate cost of one missed appointment. This is something I come to again and again in copywriting and sales discussions, and it resolves pricing objections for almost everyone I've spoken to. The beautiful thing about that is that it resolves pricing objections at hair salons, who value appointments at $30 to $60, and at cleaning services, who value appointments around $80, and at repair services, which value appointments at around $200, and at health care providers, who value appointments at... oh goodness, you don't even want to know.
+
+Note that the pricing grid attempts to segment most customers by number of appointments they schedule per month. It turns out that \*customers largely ignore this and self-segment anyway\*, based either on marketing copy or on something as simple as plan names. Most of my revenue comes from customers who \*cheerfully overbuy\*.
+
+You would honestly not believe how often that happens to my clients and confidants. The simple best reason to avoid fanciful names for pricing plans, or anonymous pricing plans, is that customers \*will up-sell themselves\* if the name for the plan which best fits their objective needs does not match their self-conception of their business. For example, many employees at Fortune 500 megacorps have reported to a couple businesses of my acquaintance that they needed to upgrade from Hobbyist/Small Business/etc to Enterprise \*purely because their manager was uncomfortable describing the company as a Small Business on an expense report\*. That's right, you can literally make someone happy by charging them four figures more a year \*to avoid a half-instant of embarassment caused by a single word on a document reviewed exactly once\*.
+
+## Pricing Is Not Primarily About Math
+
+Pretend your Hobbyist plan costs $9 and comes with 100 foozles. You might be inclined to price your Small Business plan at $19 and give 300 foozles, because foozles should go down in price as you buy more of them, right? You've made two mistakes: one, underpricing, and two, that any normal person actually cares about math.
+
+Customers are, in many cases, unable to correctly forecast how many foozles they'll require prior to using the service. This is especially true if foozles does not map 1:1 with something which is \*absolutely core\* to their current businesses. For example, if you were hypothetically writing SaaS for cabbies, you would quickly discover that "trips per day" is not a number the typical cabby has a good handle on. They are going to auto-segment based on things like plan name, pricing anchors, and customer psychology.
+
+Here's a fun experiment to run: A/B test the marketing site such that the pricing grid stays the same but the main numerical quota shifts one position in the more generous direction. For example, for consistent prices:
+
+A: 100 foozles | 300 foozles | 500 foozles | 1,000 foozles
+
+B: 300 foozles | 500 foozles | 1,000 foozles | 1,500 foozles
+
+The distribution of customers across the four plans in A and B will be \*virtually identical\*. There is \*no plausible distribution of foozle needs\* which would explain that: customers simply anchor themselves around something like "Well, I don't want the cheapskate plan because that always sucks, but I'm not an Enterprise, so I'll take that second column."
+
+This helps explain why customer behavior is broadly so consistent across very diverse SaaS businesses: the second-most-cheap plan gets a huge number of signups (33% to 50% is common in my experience) and the most expensive plan makes most of the money.
+
+## Testing Pricing Is Actually Not That Hard
+
+You'll often hear folks say that it is difficult to test pricing due to either "that is illegal" or due to reputational risk. The folks saying that it is illegal are simply misinformed. The folks claiming reputational risk will often point to Amazon.com's experience with A/B testing and claim that they, being penny-pinching technologists who hate anything which smacks of marketing, are good proxies for the behavior of employees at corporations which spend more on toilet paper than they'll spend on everything this year.
+
+Testing pricing is legal and less hard than you think it is. The simplest way is to take something you think will change user behavior (500 foozles rather than 300, custom branding, multiple users) and offer it at tier X on one version of the marketing site and tier X+1 on the other version... but have the actual software give it to people at both tiers. No one will notice because, again, most customers are incapable of measuring how many foozles they need and don't perceive foozle counts as a source of value. Should anyone actually notice that they were promised 300 foozles on signup but their dashboard now says they get up to 500, just say "Oh, yeah, our system does that." That will end 90% of conversations. It would be 99% if you told a white lie and said "Our system does sometimes, but only for our most loyal customers." (That would almost certainly make you more money, too, because people love being special and getting a deal that other people can't get. Bah. Can you tell I have a love/hate relationship with marketing?)
+
+This obviously only works with testing immediate reactions to the pricing grid rather than cohort performance, though.
+
+Another way is to use price testing via offers to email lists. (You do have an email list, RIGHT?) You take 20% of the list, segment it into two parts randomly, then send half of them a special offer for Plan X at $A and half a special offer for Plan X at $(A+B). The idea is not so much increasing revenue immediately via the special offer but rather discovering whether $A or $(A+B) is the more motivational price. You will find, in the vast majority of cases, that user behavior is not sensitive to the difference between $A and $(A+B). When you find this out, \*you should charge the more expensive of the two\*. That seems to be a fairly obvious conclusion ("Would we rather sell 100 units at $29 or 100 units at $49?") but I've had to fight for it with a lot of people!
+
+You can similarly do this with dedicated channels / landing pages / ad creatives, but doing it on an email list is a) less likely to be mentioned elsewhere and b) provides an easy excuse if it does get out -- "Oh yeah, we sent a special deal out to some users. Didn't see it? Oh, the system does that. Drop me an email and I'll manually push you into the $A pricing because I like you so much."
+
+## Did You Like This Email?
+
+If you did, great. You'll probably also enjoy a podcast I did with Amy Hoy and Keith Perhac, which covers this topic and a couple of others. [See here](http://www.kalzumeus.com/2012/05/18/kalzumeus-podcast-ep-2-with-amy-hoy-pricing-products-and-passion/) to listen to it and/or read the transcript.
+
+I've got a request for you. I'm blessed with a wife and daughter. If you're not getting a heck of a lot of value out of email from me, I don't really see any need to be in an email client when I could be with them. If you think this email was worthwhile to you, a) click that Reply button in your email client, b) tell me what specifically you are going to do with this information, and c) tell me what topic you'd most like to hear about next. All emails go straight to me, naturally.
+
+Until next time.
+
+Regards,
+
+Patrick McKenzie
+
+|     |     |
+| --- | --- |
+| ### Contact us<br><br>Kalzumeus Software  <br>1608 S. Ashland Ave  <br>Suite #95114  <br>Chicago, IL 60608  <br>patrick@kalzumeus.com  <br>www.kalzumeus.com | ### Feel Free To Share This<br><br>Anybody interested in seeing these emails on a regular basis should go to [my site](https://training.kalzumeus.com/) and give me their email address. If you'd like to share [this link](https://training.kalzumeus.com/newsletters/archive/saas_pricing) around, though, go right ahead! Copyright by Kalzumeus Software, LLC & Patrick McKenzie 2026, yadda yadda yadda, I trust you not to abuse it. |

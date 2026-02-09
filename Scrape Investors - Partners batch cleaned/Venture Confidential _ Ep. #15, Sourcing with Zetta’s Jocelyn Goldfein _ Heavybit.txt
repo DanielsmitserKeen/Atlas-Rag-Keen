@@ -1,0 +1,439 @@
+# Venture Confidential | Ep. #15, Sourcing with Zetta’s Jocelyn Goldfein
+
+**Peter Chapman:** Jocelyn, welcome to Venture Confidential.
+
+**Jocelyn Goldfein:** Thanks, it's great to be here.
+
+**Peter:** You graduated from Stanford with a degree in computer science and quickly worked your way into some engineering management positions. You spent seven years at VMware and then were an engineering director at Facebook.
+
+Let's start there. What was it like working with VMware during that time?
+
+**Jocelyn:** It was amazing. I joined VMware in spring of 2003 and we doubled headcount and revenue every year for the next four or five years in a row. Doubling might not sound crazy to the small startup founders who are listening, but we were probably 300 people when I joined, $100 million in revenue.
+
+> Doubling on that scale, it's not the first double. It's the second and third double that really become overwhelming.
+
+You're running so fast just to try to take advantage of the opportunity in front of you, just to deliver the goods. It becomes so important to just triage, to just prioritize what is the most important thing I can be doing right now knowing that I cannot get to everything.
+
+But there was so much good. I mean, that company was full of brilliant people that I learned so much from, just incredible people to work with. There was a unity, especially in those early days, of sense of mission.
+
+You know, enterprise infrastructure may seem kind of dry and dusty, but I remember the very first VM World . It was in LA. There were maybe 1,000 people there. If you went to that conference and you walked around in a T-shirt that said "engineer" on the back of it, customers would run up to you and they would want to give you a hug. They would have tears in their eyes.
+
+> What VMware did for SysAdmins, for administrators, for operations people, it just transformed their lives.
+
+It transformed their careers. It transformed also the data center, but it changed the way, it used to be they had a job where the ratio of humans to machines was one to 20 and they were just lost in manual, tedious effort, racking and stacking. And if somebody asked them for a server, it was like, "Fill out this form in triplicate and wait for six months for me to get to you."
+
+It wasn't because IT wanted to be the department of "no." It was because that was the lead time for them to do anything, because they had so many cost and resource constraints and because there was so much capital already invested into hardware fleet, that was wasted.
+
+We unlocked it all and all these things that they had to do by hand that were manual, all the manual labor parts of their job, went away. They could be strategic, they could get in front of demand instead of be behind it. They could enable self service, they could automate things with virtual machines that were physical tasks with physical machines and they got to start being the department of "yes."
+
+We made them superheroes. And so that sensation of truly being beloved by your customers, and I'd had previous experiences as a vendor where customers just kind of resented us or they were just demanding. "We've paid you a ton of money, now you better deliver what we expect."
+
+Probably a lot of B2B startups have had that experience of customers really feeling like, you know, they can tell you to jump and you've got to wonder how high, and that experience was just reversed at VMware where we just had such fans, I have to call them. They were fans of our software and it was so motivating, you know, to deliver and to meet their needs and to help them take the next step. There were so many great things about that time.
+
+**Peter:** You wrote something I really liked in a recent essay. You said, "I'm more interested in building tools that affect how people work than how they play." Was this a theme that was resonant for you heading into VMware, or did you sort of catch the enterprise bug while you were working there?
+
+**Jocelyn**: You know, that's interesting. Because my first job out of college was also enterprise software. The startup that I co-founded was enterprise software. So, VMware was third or fourth in the list of enterprise software companies that I had worked for. My summer internship, believe it or not, I was the first summer intern ever hired at Netscape.
+
+**Peter**: Right.
+
+**Jocelyn**: So I had had some consumer experience before all this. They didn't have a formal intern program until '96, but in '95 this one engineering manager out of Apple, Bob Jenning , decided he had to have an intern. So he just hired me on the side.
+
+I was the only one that summer, and then I went back in '96 and it was like a real company and had a real intern program, it was totally transformed. No, I don't think it started at VMware. I think, maybe it's that I love to work.
+
+I guess I enjoy downtime as much as the next person, but if you ask me what I do for fun, it's probably work. That and spend time with my family, of course. Yeah, I think that was probably always just more engaging to me.
+
+**Peter:** At Facebook, you were responsible for overhauling how they hired technical staff members.
+
+**Jocelyn:** Yeah.
+
+**Peter:** Tell me a little bit about that transformation.
+
+**Jocelyn:** Facebook was growing more modestly than VMware. We were only growing 50% a year. I joined in 2010, and we hit that 50% growth rate pretty consistently. It was about 1,800 employees when I joined in 2010, and had that, probably, in the middle of the year, wrapped up the year a little more than that.
+
+Then, I want to say in 2011, the goal was to hire something like 300 engineers. And we missed. We hired 250, which was a sizable miss, and it's meaningful. There's projects we don't get to pursue because we don't have enough engineers.
+
+The view at the time in the company was that was recruiting's miss. But that's kind of a perverse take, actually. Recruiting is there to support us in our engineering hiring, but ultimately, it's engineering that can't deliver the goods, if we were given budget and we don't hire.
+
+**Peter:** Yeah.
+
+**Jocelyn:** That's really our responsibility, and at VMware every hiring manager, and I think typically at most companies, every hiring manager... sorry this is a long digression, but it will come back around... At VMware, every hiring manager is responsible for hiring the engineers for their own team. So there's clear accountability if hiring goals are missed.
+
+That rolls up to directors and VPs and so on. At Facebook, all engineers are recruited in a centralized fashion into Facebook's new hire onboarding program called Bootcamp, and then hiring managers of individual teams, like the manager of the Search team or the News Feed team, would just go into Bootcamp when the new hires were near graduation and would recruit out of Bootcamp.
+
+They kind of viewed it as, recruiting's job is to stock the pond and then we'll fish people out of the pond. Well, there's a lot of good in this kind of centralized approach. There's a lot of efficiency. I actually think there's a lot of cultural benefits, and, "I think people should be citizens of Facebook first and their teams second."
+
+One downside was leaders in the engineering organization didn't feel personally accountable for making the hiring happen, and I think you really need to because,
+
+> I don't think people join a recruiter. They join a team, they join a leader, they join co-workers.
+
+I felt very strongly that engineering needed to step up and take responsibility, especially because... Remember, in 2011 they were supposed to hire 300, they missed, they hired 250. But you know, we continued to grow in our 50% growth rate, and then 2012 we sort of knew we were going to IPO. We felt like it was an opportunity, actually, to increase our growth rate.
+
+We, really late in the game, like November or December, came to recruiting in 2011 and said, "Hey, for 2012, actually, we want you to hire 900 engineers." You know, triple the number they had missed last month. The mood in recruiting was not very jubilant at this news.
+
+I think it's fair to say they felt like an albatross was around their neck and they were set up to fail and just completely doomed. I'd been sort of thinking these thoughts about, "Gee, engineering should be more accountable for this." I'd been partnering with recruiting in a lot of areas and I just felt like an engineering leader needed to step up and take responsibility for this number. It was such a big step up, and it was going to require a transformation.
+
+You can't just hit that number by tripling the number of recruiters. Just tripling bodies is not the answer to this kind of scale. You need a more leveraged approach. There were a lot of inefficiencies in the way that we hired that were visible to me that was going to be hard for recruiting to change, because it meant really getting to engineering and changing how we thought about the decisions we were making.
+
+I basically went to my boss, Mike Schroepfer, who was CTO and head of all engineering, and said, "I think I need to go be point on recruiting for, you know, six to 12 months." He's like, "That's bananas." Then I repeated this offer to Cheryl and she's like, "Mm, I dunno." Then I suggested it to Zuck, and Zuck's like, "That's a great idea."
+
+I didn't give up until I got the answer I wanted and I managed to talk Schroep and Cheryl into it, too. So then I focused pretty exclusively on our hiring and onboarding for the next, it was 11 months, I pretty much called it and did all kinds of things.
+
+The way we conducted phone screens had a lot of problems. That was one of the bees in my bonnet. I thought we were losing a lot of great talent at that initial filter, because it was a single point of failure, versus you bring someone onsite, you put them through the wringer, they meet with four different people, the results get reviewed by our hiring committee.
+
+We can debate, maybe Facebook's missing some good talent because we're not taking enough risks at that stage. But every decision's really reviewed and thought through. At the phone-screen stage, we're losing people left and right, because someone had a bad day.
+
+**Peter:** You're saying you had a high false-negative rate at the screening stage.
+
+**Jocelyn:** Correct. This is not a problem startups should worry about. When you're trying to hire 900 engineers, you better believe false negatives are an immense problem.
+
+We had the ethos of a startup. We had the hiring process that was built for a startup, right? That was built for high quality, low volume. Now we needed high quality, high volume. We had a lot of Facebook exceptionalism, and again, going back to, how do you go from low volume to high volume?
+
+When it's low volume, you can just focus on people who are dying to work for you. You're Facebook. Lots of people want to work for you. Well, it turns out not everybody wants to work for you or knows that they should want to work for you. When you need to crank into high volume, it's not enough to send recruiters out knocking on doors.
+
+> You actually need to give them some air support and lay some groundwork on really telling the story of why people who might not imagine themselves at Facebook should want to be there.
+
+You may need to put in some work persuading people that Facebook is great for them, as opposed to just, "Oh well, they don't see that Facebook's awesome. They must not belong."
+
+You might also need to open your mind about roles. We had done most of our hiring really looking for generalists, people that were kind of stem cells and could be plugged in anywhere. That's great and will take you a long way, but there was a trade-off in generality, in quality.
+
+It was pretty clear, both that we needed more specialists in up-and-coming areas like mobile, where part of what took us so darn long to get our arms around mobile was we did not begin to have enough mobile engineers in 2011 and 2012. We needed to go hire a ton of mobile engineers, and
+
+> the hiring process, to even interpret whether you're in front of a great engineer, looks really different for a specialist than a generalist.
+
+We had to stop throwing specialists into a generalist interview process. We had to design an interview process for them. We had to also look at the other work we were doing and say, "You know what, rather than lower the quality of generalists that we're bringing in in order to hit this volume target, let's understand where high quality specialists could actually fill a lot of these roles, and then let's go keep quality high by getting more specialists."
+
+There was just a ton of things that we played with on just the recruiting and process side. How do we do sourcing? How do we do coordination? How do we think about the culture and incentives of our recruiting team? I think it was just, it was time.
+
+We'd built a recruiting playbook for a small company with small targets, and it didn't scale. When that happens, you don't keep patching it or throw more bodies or more servers at it, right? Just as you're architecting a solution, you're trying to architect a really scalable website. At some point, you go beyond what you built it for and you can scale for a while by just throwing hardware at it.
+
+But eventually you've got to re-factor. Eventually you've got to re-architect. And that's where we were. We'd gotten as far as we could throwing more recruiter bodies at fundamentally small, low-scale process, and we had to re-architect it.
+
+**Peter:** You touched upon a bunch of different things there. You said, "We changed the way we screened, we started doing more selling during the recruiting process, we started shifting the way we looked at roles."
+
+I'd love to hear a little bit more about some of the changes you made around the sourcing side.
+
+**Jocelyn:** Well, there wasn't a single silver bullet on the sourcing side. It was more like a hail of lead bullets. I don't have one megachange to talk about.
+
+You know, one thing I wanted to do was get sourcers, give them better partnership with engineering leaders, give them the sense that they were supporting an internal team. Of course, we weren't hiring for individual teams, but we could hire for individual roles, right? So if you're hiring for iOS, if you're hiring for Android, there may be many, many engineering managers inside Facebook.
+
+The News Feed team wants iOS engineers, and then the Search team wants Android engineers. You know, everybody has these needs. But I can probably find a couple managers who will put their hands up and say, "I will rep for Android," "I will rep for iOS." I will rep for, what we called, I divided generalists into two categories: product generalists and systems generalists. Essentially, frontend and backend. And I got volunteers to be on point for that, too.
+
+So, creating more of a sense of partnership, where engineering managers or leaders are on the hook, and helping the recruiter achieve the goal together, it created a sense of motivation and urgency and gave them a place to go to get unblocked and to get help and air support if they needed it. We threw a broader net on companies and geography, we opened up a lot of international.
+
+> I was pretty aggressive about lobbying for larger numbers of college hires. That's something I've always believed in, especially since my first job out of college.
+
+We probably saw those numbers ramp up to over a third of our hires, maybe more, and campus recruiting was a place where Facebook was great. I mean, just a machine. And the international side could help beef up there, too. We spent a long time doing analytics.
+
+I guess one perspective I had was, "Actually, we've got a good amount of data, here. Let's go analyze it and understand." So we spent more time understanding what sources were working for us and which ones were not. Not just where it's likely to make us want to interview someone, but what's likely to make someone actually get a job, actually land at Facebook in the end? And so just kind of refining the profiles there.
+
+Diversity was a big theme that year and that we were trying to get our arms around and that I could try to be a lot of help. We doubled down the events strategy. I think we'd opened up New York and maybe London that year, too. So that gave us some more geography to source for.
+
+Probably one of the big important pushes, to me, was to really, not just double down on our internal referral program, but to fix it. I think internal referrals can be absolutely some of your best sources of hires. Someone who's already here vouches for you, it's that much more likely that you belong, but other way around, too, right?
+
+If someone who's already here vouches for Facebook, a candidate's more likely to really give Facebook a shot. Our process for collecting and acting on referrals had all these weird kinks and bottlenecks that we needed to sort through, and one of the recruiting leaders took point on that. He's an amazing guy, he's now, I think, running technical recruiting at Slack. But he just took point on that and shook every bit of it loose.
+
+> Sorry, no megasolutions here. Sourcing's hard. Sourcing at large scale is even harder, and there's no one thing to do.
+
+I will say that we spent a lot of time analyzing response rates to emails. Here's an "aha": I had this intuition, as an engineering manager, that probably really well-crafted personal emails would generate a higher response rate than the boilerplate, almost like telemarketing-ish emails that you get from recruiters.
+
+I'd always kind of wondered, "Oh my god, why do they send those things? Who are these people?" It's so embarrassing when somebody gets one from a Facebook recruiter and posts it and it goes viral, and I'm like, "Argh, that's not who we are! That's just that one recruiter. They're probably a contractor!"
+
+> It's sort of like wondering, why do we get spam? Because spam works, sadly.
+
+**Peter:** These emails work.
+
+**Jocelyn:** Well, here's the deal. This is my interpretation of the data. Either you are job hunting, or you're not. And you may not be job hunting in a visible way, where you've put out there on LinkedIn that you're job hunting.
+
+You're in a job, you have a job, you're not telling anybody that you're job hunting. You're stealth job hunting. But you're on the hunt because you're not happy where you are. Facebook is a brand that everybody knows, so either you're interested in working for Facebook or you're not.
+
+There's nobody out there who hasn't thought of Facebook. So if you get an email from Facebook asking if you want to interview for a job, either you're job hunting and Facebook would be on your list, in which case you respond yes, no matter how badly-written that email is. That email would have to be toxic for you to say no.
+
+**Peter:** Right.
+
+**Jocelyn:** Or you are not job hunting or you have really bad associations with Facebook, in which case your answer is no, pretty much regardless of how well-written that email is.
+
+When recruiters talk about passive sourcing and sending emails to uncover these passive candidates who are happy at their day jobs, I don't think that's really what's going on.
+
+> What's really going on with passive sourcing is all the people who are actually job hunting are not admitting it.
+
+Those emails are actually just a brute force search of the complete space of people who exist, and you find out whether the "is job hunting" bullion is true based on who applies.
+
+The query to find out, it turns out, the form of that query doesn't matter very much. Except insofar as, it gets posted and makes you look bad. And I do think there might be people out there who are job hunting for whom Facebook's brand does not appeal, if they got a personal, warm outreach from an individual they admire, they might take a cup of coffee, they might be willing to get it.
+
+It turns out that those boilerplate emails which you can copy and paste... What makes a really great sourcer great, I would have said going in, "An ability to really connect with a candidate, really recognize who's going to be good here, and to recognize talent." Uh-uh. Once I had the numbers in front of me, it was brutally clear.
+
+> What makes someone a great sourcer is great time management skills.
+
+It's just, volume wins. If you send more emails you will get more hires. I would say right up to the leadership level. Once people are in executive, very senior roles, then a boilerplate email, even if you are job hunting and you would like to talk to Facebook, you're probably not responding to a boilerplate email. So, once you get senior enough, then actually, all my concepts about very personalized outreach, that becomes true. But it's a low volume. Now you're in a low volume game again.
+
+**Peter:** Sure.
+
+**Jocelyn:** Yeah.
+
+**Peter:** You left Facebook in 2014.
+
+**Jocelyn:** Mm-hm.
+
+**Peter:** What prompted that move?
+
+**Jocelyn:** I guess I just got addicted to a vertical learning curve, probably when I was at VMware. I mean, coming straight out of college you learn a ton in your first few years anyway, because you don't know very much, right? So it's easy to exponentially grow off a very small number.
+
+Then I did my own startup and that was a really steep growth curve. And then I landed at VMware, and it was just like, "Whoa!" Again, vertical growth curve. But now we're at a scale that really matters, right? Like, real revenue, real customers. For me, real scope where I was owning significant products and significant teams in complexity.
+
+And then transitioning from VMware to Facebook initially, whole new domain, whole new technology stack. Facebook truly pioneering a lot of these techniques, growth ethos, what we think of as the lean startup methodology, this very iterative approach to projects. So much to learn in my first two years at Facebook.
+
+Then as the years wore on, I kind of started noticing, when I graduated from college, my career ambition was to become VP of Engineering. I reached that level in 2007. Now I've been functioning at that level for five or six years across two really different companies in really different domains.
+
+I don't want to declare I have total mastery of the engineering leadership function, because that's a lie. It's like "Zen and the Art of Motorcycle Maintenance." You could learn forever.
+
+I felt like what made my job difficult was that the problems were difficult, not that I needed to learn new skills to tackle them. And I started having these, "Oh, maybe my 20s and 30s were for growth and then my 40s will be when I harvest and put to use all these skills that I've built."
+
+I sat with that thought for about a millisecond, and then I'm like, "Yeah, I'm not done. I'm not done growing. But if I stick around doing the same kind of job I've been doing for the last 15 years, that might stop me from growing." I love Facebook. I think it's an amazing company, product, mission. I think it's one of the best leadership teams.
+
+> I think Mark Zuckerberg belongs on the Mount Rushmore of technologists along with Bill Gates and Steve Jobs.
+
+But I didn't see how I, personally, would keep growing and reach my potential if I stayed. And that was a really tough decision. I spent a long time researching and thinking about options, and I finally just decided, no, I've got to go do something really, completely different with my life.
+
+When I left Facebook I didn't know what that would be. I played with thoughts like, I think I have another career arc in me before I go dedicate myself to philanthropy and service. I have no interest in public office. Maybe if I'd been making this decision in 2016, it would have been different. But in 2014, that didn't seem like an appealing path.
+
+I thought about going back to grad school. I thought about lots of things. But in the end, being a caricature of myself, I landed on probably the same two ideas that a lot of people in my position land on, which is, "I could start a company and become a CEO. I would have to learn a lot of new things to do that."
+
+Or maybe there's this VC left turn. I thought, "I don't know which, but I do know I don't want to start a company for the sake of creating a job for myself to do." I've seen that movie before. I think you create a startup when you have a mission you're so passionate about achieving that you can't do anything else.
+
+And so I thought, "Well, I'm not going to stumble over that mission, sitting here at Facebook being really busy and really comfortable in my job. I've got to just put myself out there." I wrote this goodbye note to my coworkers and I posted it publicly, too, saying, "I'm an angel investor. I'm leaving Facebook. So long, farewell, you're wonderful, and I'm off to go be an angel investor."
+
+I made an AngelList profile and I changed my LinkedIn, and all in the strength of having written, mind you, zero checks.
+
+> It turns out that if you declare to everybody you know that you're an angel investor, they start introducing companies to you.
+
+Then if you blog and show up and give public talks and tech talks around different companies, and you end them all by saying, "And by the way, I'm an angel investor and I'd like to make startups," lo and behold, you meet lots of startups. I just thought of it at the time really like kind of a do-it-yourself EIR program. I'll put myself into the flow of founders and ideas and my idea will come to me. I staked myself, basically tuition money.
+
+I thought, "What would business school cost? All right, I'm going to take that much money, and I'm going to split it into a bunch of small checks and I'm going to start investing, just to learn and to be exposed to these ideas and these people." I started doing that as, more or less, a full-time job. And I got pretty busy.
+
+I started writing about a check a month, not on purpose. It wasn't like, "Ooh, November 30th, I better write my check of the month." But sometimes I'd do two in a week, and sometimes two months would go by and it just averaged out. And along the way, I learned a lot about my taste and what I believed to be true about the future and what things I'm optimistic and pessimistic about.
+
+> I learned that it was kind of boring to have money in a company that I never saw or heard from except maybe a little investor update once in while.
+
+But it was really fun and really enriching and engaging to be invested in startups where I spent time.
+
+Probably a year into this, I woke up one day and I'm like, "Oh, maybe investing is my path. The mission hasn't fallen out of the sky on me, but actually helping a lot of founders feels really great and it feels really leveraged." If you think about it, that was what I had to do. That's what I'm good at.
+
+At VMware, everything doubling out from under you, your full-time job is figuring out how to make things scale. At Facebook, first of all, scale was the name of the game of the whole company. But my particular successes, the things I accomplished there, whether it was the recruiting overhaul, whether it was News Feed adopting machine learning, whether it was the pivot to mobile, all of those things were about, "How do we achieve greater scale?"
+
+What I'm good at is scale, and so all the sudden it was like, "Oh, all this know-how, all this operating ability I have, these things I know how to do, I can leverage them across 10, 20 startups instead of a single company that I work for." The only way to get scale is with leverage.
+
+That leverage was a light bulb going off. It was like, "Yes, this is how I make my mark. This is how I have the most impact." And by the way, it's a phenomenal way to learn a lot, too. You are never bored in this job. It is a buffet. So, around then is when the light dawned and I thought, "I think my next career move is not founder. It's investor."
+
+**Peter:** You joined [Zetta](http://zettavp.com/ "Navigate to http://zettavp.com") January of 2017.
+
+**Jocelyn:** That's right.
+
+**Peter:** Who is Zetta? Let's start there.
+
+**Jocelyn:** Zetta is an early-stage VC firm that invests in early-stage startups solving business problems with data. We look for data network effects, which usually these days means machine learning and AI. And in terms of stage, we invest in what's traditionally called the seed round, although the nomenclature here is a really broad tent.
+
+The fence posts, of the round we participate in, will lead or co-lead, are between one and five million. But in truth, we like to think of ourselves as series A classic. Because we operate like the series A firms did 20 years ago, which is we're the first institutional money. We write a large check, we take board seats, we do price rounds, we hold reserves, we roll up our sleeves, we work with the startup.
+
+When I offer a term sheet that includes a board seat for myself, it's a part-time job offer to me, working for the startup. And we look at it that way, not as, "Here, we're buying a lottery ticket and if you do well we'll come back and put more money in." This is the round where we are all-in.
+
+It's a concentrated fund. We'll make 20 or 25 investments. We're on fund two. We'll make 20 or 25 investments in the second fund, and we're six investments in. So lots of dry powder, I guess, to start at Zetta right at the outset of deploying fund two.
+
+> It's all B2B, which is what gets me excited. What I like to do is change how people work.
+
+Zetta's named for the zettabyte, which is, your listeners may not be familiar, but if you think about the quantities in which we measure data, everybody is familiar with the gigabyte these days, the terabyte and the petabyte and the exabyte. They may have heard of the yottabyte. Well, the zettabyte is the next order of magnitude beyond yottabyte.
+
+The founding belief of Zetta, my partner Mark Gorenberg started the company with the insight that it has become easier and easier to make software. The tools are better, the training is better, we're all standing on the shoulders of giants now. The infrastructure cloud, it's so much simpler.
+
+We're in the era of the capitally-efficient startup, that workflow software is basically a commodity. If you can build it, somebody else can build it. And his belief was, "What will make the next generation of winners? What will make truly differentiated companies?" The value lies not in the software itself; it lies in the data and the intelligence that powers the software.
+
+What we look for when we invest in companies, is not just that there's AI or machine learning involved for the sake of it. We look for data network effects. Which means we're almost always investing in something that's sort of verticalized either around an industry or a line of business, rather than a pure horizontal plate.
+
+We're looking for something that can acquire proprietary datasets, usually by working with their own customer base. And those network effects come because, as you sign up each additional customer, you're training your models, you're offering recommendations or insights or decisions. You're doing something with your AI to make the software smarter.
+
+> Each additional customer you sign up gives you access to additional datasets, which makes the product better for every customer before you.
+
+Facebook's the classic example of network effects. The social network effect, which is, the more users that are there on Facebook, the more everybody benefits. That's why a new social network that is a feature-for-feature copy of Facebook that launches itself in, say, 2010, from, say, one of the best software companies in the world, while being a feature-for-feature exact copy of Facebook, it cannot displace Facebook. Because it doesn't have the one thing you're there for, which is the other people.
+
+Network effects like that can exist in data, too, where even if you launched a feature-for-feature copy of my product, because you don't have the dataset that powers it, you can't make recommendations as good, you can't give insights as meaningful, and you'll never catch up. That enables startups to build what investors love to look for: a moat. A competitive advantage.
+
+That's why we're excited about AI. I mean, there are many problems we can solve with AI that haven't been solvable before. Some of them will be great investments, some won't. But it's not for the sake of hype. It's not technology for the sake of technology. It's for the sake of being able to build distinctive, powerful solutions that have compounding value for your customers.
+
+**Peter:** I'd love to walk through a member of the Zetta portfolio and how they demonstrate a B2B network effect.
+
+**Jocelyn:** For example, one of our startups is called [Tractable](https://tractable.ai/ "Navigate to https://tractable.ai"). Tractable has built a computer vision technology that can look at a photo of a damaged car and can identify whether this is something that should be repaired or replaced. They sell this technology to auto insurance companies who can now automate or enhance the job of the claims adjuster.
+
+Instead of having to send a human being out to make this assessment, the end user can take the picture, send it in, get a recommendation, get an estimate, and take it straight in. So, this is a win-win-win all around, right? It's clearly great for you as the customer of the auto insurance company that, if you're in an accident, you can take a picture. You don't have to schedule a meeting and wait three days and miss work. You can get an instant answer.
+
+It's great for the auto insurance company because they can become more efficient, more nimble, and hopefully get right answers a lot more. And it works well, too, in how they manage their supply chain and their relationships with different repair shops.
+
+This is kind of a hard computer vision problem, and Tractable has worked really hard to accumulate a good training dataset. But now that they have contracts with some of the largest auto insurance manufacturers in the world, each one of those is now sending more and more photos through the training model and it makes a decision, it makes a recommendation, it classifies the photo as repairable or replaceable.
+
+Then somebody takes an action, and then, here's what makes it a virtuous loop: they get to find out if that was right. Like, the car ends up in the shop, and they get to find out the result. And so, not only are they getting more and more photos to look on, more and more photos to make a recommendation, they get to find out if they were right or wrong, which feeds back into the model.
+
+If somebody were to come along now and try to replicate what Tractable's built, they just couldn't catch up. There's such a profound data advantage. And each customer they sign up benefits from Tractable's models being smarter and smarter because of the additional data that each customer gives them.
+
+**Peter:** I had a really fun interview with an investor called Bubba Murarka recently.
+
+**Jocelyn:** Oh, Bubba's a great friend.
+
+**Peter:** Oh, yeah?
+
+**Jocelyn:** We were at Facebook together.
+
+**Peter:** Oh, right. He talked a lot about what business development looked like at Facebook. He said, "There's two kinds of investors. There's folks that make their first bet right off the bat, and there's folks that wait a long time to make their first play." Which kind are you?
+
+**Jocelyn:** I would say, as an angel investor I dived right in and made really quick decisions. As a VC I'm definitely in the second category. I just made my first investment about month ago.
+
+**Peter:** Congratulations.
+
+**Jocelyn:** Thank you, thank you. I'm really excited about them.
+
+**Peter:** Who did you invest in?
+
+**Jocelyn:** Well, it is a stealth startup based in the Midwest and they're building solutions for IoT security.
+
+**Peter:** I'd love to hear a little bit about your process. How did you land on this startup?
+
+**Jocelyn:** Zetta is trying the solve business problems with data. We're looking at applications of AI and machine learning. In particular, perhaps thanks to my many years at VMware and also at Facebook, I'm really excited about the potential for infrastructure and what machine learning and AI can do for infrastructure.
+
+Security I would call sort of infrastructure-adjacent. I think there's a bunch of reasons why security is a great market for AI. In fact, it's such great market for AI that I would say AI security startups are peak hype cycle now, where chief security officers have heard it so much as a buzzword it's just noise. It almost pisses them off.
+
+> If you are a security startup out there applying AI to security problems, I recommend that you market yourself around a problem you solve and don't mention AI.
+
+That said, nonetheless there is a reason, there's reality behind the hype which is that security is like an asymmetrical battlefield and the defenders are losing, the attackers are winning. Because the attacker just has to find one way to get in, one way to penetrate. Whereas the defender has to close every last hole, and the complexity and surface area...
+
+It's a losing battle, and in fact, there are too many nodes, there are too many configurations, there's just too much to look at to secure everything. At the same time, all of those factors, all of the vulnerability, all of the surface area, it is known in a quantifiable, structured way.
+
+We have every network packet that flows through the wires. There's nothing that's hidden or secret, something where all the data exists. It's there to be understood and looked at. It's just an overwhelming amount that no human can make sense of. That is a problem humans cannot solve and AI can.
+
+It's been something I believe from very early, that there are going to be a lot of really phenomenal winners applying AI to security problems, many that are already well underway. I think many more in the next five to 10 years.
+
+That was a thesis I'd held. I had looked at probably 50 or 60 security companies already when I met this one. And I had talked to a lot of chief security officers about what problems were high priority for them and what were merely nice to have.
+
+**Peter:** I want to back up a step, there, because there was sort of a magic leap there, where you said, "Oh, I talked to 50 or 60 security companies." We talk a bunch about sourcing this podcast and it's something that's really hard for a lot of venture capitalists. Did you reach out to 50 or 60 security companies? Did they find you? How did you get in touch with all these folks?
+
+**Jocelyn:** You know, it's amazing, because so many people, before I became a VC, so many people had said, "Oh, it's like sales, it's analogous to sales." I've never been a salesperson, so I kind of took that comparison at face value. Doing the job, I find it very analogous to recruiting.
+
+It's like, just as in recruiting, everybody's really focused on the interview and the hiring decision as like the crucial thing to be good at. But when you're in it, it turns out the hard part of the job as a hiring manager is sourcing.
+
+**Peter:** Yes.
+
+**Jocelyn:** Guess what? People think about VCs and they wonder, "How do you diligence deals and how do you make the decision and are you a good picker?"
+
+> It turns out you can't be a great VC without great sourcing.
+
+I'll say at least that. Picking, you know, of course, all of it matters. But you give yourself more chances to be a good picker if you have a great top of funnel. I will say it bears some, but not total, resemblance to recruiting.
+
+One way in which it resembles recruiting is that referrals are one of your very best sources. Just as if a Facebook employee has worked with this other engineer before and vouches for them, I can think it's that much more likely they're going to be a good fit to come work at Facebook if a founder in my portfolio or in my network, or someone I've worked with before is starting a company, that makes a much higher chance that they're doing something really interesting.
+
+But you can't stop there, right? You can't just sit there and wait for inbound. It's a variety of activities. It's sitting at the first institutional funding stage, as we do. Some sources of research just aren't there for us.
+
+If you're a series-A firm or a series-B firm, you can find the canonical list of all funding rounds that have gone before you and you can brute force look at every startup that is at your stage and space. We have to be a little bit more creative than that but we've had a lot of success...
+
+Actually, I'll go back to the recruiting analogy. Again, just as throwing events and public speaking and blogging and all those things, if somebody didn't know if Facebook was for them, those things help people figure out, "Oh, maybe Facebook is not like the stereotypes I had of it."
+
+Likewise, when Zetta publishes a blog post, when we go out there and we speak at events, people come out of the woodwork. Either because they've met us at the event or because they've realized that someone they know is starting something that would be a good fit for us.
+
+So, I think that that outbound is some of the most important work that we do. Honestly, our motivation is to cast the widest possible net to get the most access and exposure to ideas, because that's how we learn. That's how we get smarter, and that's, of course, how we find, hopefully, some really fantastic founders to partner with.
+
+**Peter:** Were you specifically looking for a security company? Or were you just doing research on companies that are empowered by large datasets?
+
+**Jocelyn:** Both. I always have the broad filter, broadest aperture open. I was doing a deep dive on security for three or four months there, where I was sourcing all the security companies I could. Actually, I found this one after that period of time. I'd sort of moved on from security. I was looking at other things.
+
+But security's evergreen. It's not like, "Oh, that market's done now." So it's not like I would say, ever say no if somebody had offered me an intro to a security company. This one was, maybe it was like a reward for good behavior, actually. It was really serendipitous.
+
+I had agreed to do a favor for one of our LPs that, again, for your listeners, the LP is the investors who invest in VC funds. They're the source of our capital. And one of them wanted me to go be on a panel at this conference in Columbus, Ohio.
+
+I said yes before I looked at the flights and I realized you cannot get in and out of Columbus from San Francisco. You can't show up for two hours and then get back on a plane. This was an all-day commitment. I'm like, "What else can I do in Columbus, Ohio, to get more mileage out of this trip?" It turns out there's a really phenomenal VC firm that's home based in Columbus, Ohio, which is [Drive Capital](https://www.drivecapital.com/ "Navigate to https://www.drivecapital.com").
+
+**Peter:** Right.
+
+**Jocelyn:** I shot them an email and said, "I'm going to be in town. Do you want to catch up?" And they said, "That's great! We'll show you some startups, we'll make you some introductions. And let's hang out."
+
+So sometimes it's completely serendipitous. I'd been chasing security for six months, I'd looked at tons of companies. I also had a prepared mind that when I met this startup, I knew right away it was something special. I wasn't like, "Oh yeah, all right. I'm in Columbus, I've heard some interesting ideas, and now I'm off," right? I was like, "No, this is worth digging into."
+
+**Peter:** I'd love to dive into that a little bit more. What defines an extraordinary security company for you?
+
+**Jocelyn:** Let me say,
+
+> what defines an extraordinary company, for me, in general, starts with an extraordinary founder.
+
+Someone with a team that collectively has both deep technology and product insight, as well as deep domain insight.
+
+Remember, in Zetta's world, I think in any AI-powered solution, the core of the value is not actually algorithms, right? The algorithms that beat Go, all these breakthroughs that we're getting, the image net, these are algorithms that have been around for 20, 30 years. The breakthrough that is happening is all about the data.
+
+It's such a misnomer to think that, it's these rocket scientists coming up with a smarter algorithm. It's not. I mean, tremendous, cutting-edge work is happening and it's happening in universities and research labs and in great companies. It's happening at Facebook and Google and Amazon. Can happen in startups. But, by and large, the fact that compute has gotten so cheap and storage has gotten so cheap and data has gotten so abundant, is what is enabling these 20-year-old algorithms to solve these problems that they couldn't solve 20 years ago.
+
+Most of the time,
+
+> where a startup's going to be really successful is not coming up with a better algorithm. It's having command of a dataset that nobody else has got.
+
+I'm looking for a founding team that has not just deep technology expertise, but deep domain expertise. They really understand and I'm going to have access to this data. I'm looking for that unicorn mix of founder qualities, which is the ambition and the humility, the hustle, and the thoughtfulness.
+
+I can keep listing contradictory traits and, of course, we want all of those in one package. This founder had it. For Zetta companies, we also look for there to be not just AI involved in the implementation, we look for AI to be central to the value proposition and we look for data network effects. There are definitely AI companies we've looked at where we came away saying, "It's a great AI company. I don't think they're going to have a moat."
+
+You know, I think recruiting is actually... Ironically, I spent so much time on recruiting. I've looked in a lot of companies, trying to apply AI to recruiting. I'm, at the moment, this breaks my heart, but at the moment I'm kind of skeptical about whether it's possible to have a data moat in that zone.
+
+Because if you think about using AI to match candidates with jobs, you need a large source of data about candidates. You need a large source of data about job listings. Well, those exist and they're public, so everybody can get them.
+
+Then you also need, it may be possible to get proprietary data about matching. And it turns out that it's not enough to have the data about candidates and the data about jobs. You need something indicative of matching, and actually on both sides.
+
+You need intent from the employer and from the employee. Anyway, that's a space where I think AI may be able to help, but I think maybe a lot of people are going to be able to build it. I don't know if a startup can have a moat there. Face detection, similar, right? It's just going to be a commodity.
+
+**Peter:** Lots of faces.
+
+**Jocelyn:** Lots of faces are out there and available. I mean, labeled faces may be harder to come by, but if you just want to do analysis of emotions on faces, data's abundant.
+
+We're looking for not just a smart AI problem, but one where there's going to be proprietary data and data network effects. So we look for that. And then layering on security, I think some of the best background to have if you're going to work on security, is actually federal and the three-letter agencies. They're just exposed to the most cutting-edge and to the most interesting problems.
+
+At the same time, you know, usually people who've spent their life working with or for the DOD, are not necessarily startup-minded.
+
+> To find both that three-letter agency experience, with someone who's also had really great startup experience, in one package, that's kind of a unicorn.
+
+A key factor to understand, there's lots of really interesting things about the security market. One is that it's not like you have a single budget line item for security and you have to displace somebody else's security solution to get yourself in there. If you can demonstrate that you reduce risk or reduce cost, you can be a new line item in the budget.
+
+It's also not the case that chief security officers will only buy from one vendor. They will buy the best of breed. So there's room for tons and tons of, security, first of all, is not one market. It's many, many markets. But there's also room for lots of winners.
+
+What is hard in security is to even get on the CSO's radar. Because their hair is on fire. They're surrounded by problems, and they are overwhelmed with alerts. You need to be, first of all, not contribute to false positives. If you're detecting problems, if you detect any problems that don't exist, you're out of there, right? That's just a deal killer. Because they have too many solutions already that are overwhelming them with alerts.
+
+Second of all, there's a limited attention span because they're so overwhelmed. You kind of have to be on their short list of the top five or so risks they're worried about. I've seen some really interesting companies that are dabbling in areas of security that have been more neglected, and they have a much better approach than maybe some of the incumbents.
+
+My concern is that even if they're 10x better than than the incumbent, if it's not a problem area that's a top five issue for a chief security officer, you're not even going to get the chance to make the case.
+
+> I knew it had to be something that was high-priority, I knew it had to be something that didn't generate lots of false positives, and I knew it needed all this impossible alchemy of opposing qualities. And I saw them all.
+
+**Peter:** I want to tie this back to something we were talking about earlier. You said that good venture capitalists have great sourcing. And you said that in the recruiting world, good sourcers have great time management. Is this true for venture capital, is time management critical for good investment?
+
+**Jocelyn:** I'm still a rookie at VC, but I think it might be. It probably depends on stage. It may be that you can also outsource the time management a little bit. Maybe a partner at a big firm doesn't have to have amazing time management if they have a little army of associates and other people doing sourcing and they have great time management.
+
+I will say, if your role is exclusively sourcing, then yes, that element of your work, quality's kind of dominated by time management, given a baseline, a floor of good judgment.
+
+**Peter:** Sure.
+
+**Jocelyn:** But I think sourcing's not the only thing we do, and those other things... Well, having enough time to do all those other things. Yeah, I would say that time management still amounts to an essential...
+
+> Better time management skills is definitely a comparative advantage in VC, and if you have terrible time management skills, you'll struggle.
+
+**Peter:** You've been at this for about a year now. What have you learned about time management in that span? What does good time management look like for a venture capitalist?
+
+**Jocelyn:** I think it's a combination of discipline and flexibility, maybe? Part of the problem is there's really different rhythms to the work that we do. Sourcing can mean sitting down and researching and sending a bunch of cold emails. But you also need to make time to work on writing talks so that you can go out there public speaking.
+
+> Some of the best sourcing comes from the blog posts that we write and the talks that we go give, having something interesting to say.
+
+You know, capital's a commodity. If a founder sees a VC firm and all they see from them is a dollar sign, it's not very differentiated. Speaking of commodities, capital is the ultimate one, right? So it's in what we have to say, it's in the content and expertise we have that, I think, we differentiate ourselves, that we tell the story of why a founder should want to come work with us.
+
+It's incredibly important to make time for activities like that, even though they may never feel as urgent as the next meeting. So I think not letting yourselves only do meetings. It's also the case that you could fill up your calendar with all first meetings, but then when you take a meeting that's really amazing, you want to be able to dive on it.
+
+You need slots open so that you can start making calls that day. But on the other hand, if you let go of the first meetings, if you get too focused on, "Oh, I'm in diligence with three different companies, I don't have time to source this week," then that pipeline dries up and you get this uneven rhythm.
+
+> I think it's being pretty disciplined about seeing a steady diet of new companies but having big blocks on your schedule reserved where you can do knowledge work.
+
+Or where you can just overwrite them and say, "Fine, I'm not writing a blog post this week because I've got three companies." You need blocks of flexibility in a rigidly-arranged calendar.
+
+**Peter:** I like it. Jocelyn, thank you so much for joining me today. This was really fun.
+
+**Jocelyn:** Thanks, I really appreciate the invitation.
+
+**Peter:** Where can our listeners find you?
+
+**Jocelyn:** I'm easy to find. I'm jocelyn@zettavp.com.

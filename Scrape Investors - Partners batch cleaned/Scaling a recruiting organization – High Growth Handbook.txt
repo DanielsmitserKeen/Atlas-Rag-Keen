@@ -1,0 +1,70 @@
+# Scaling a recruiting organization – High Growth Handbook
+
+The use of recruiters by a startup will shift dramatically over the lifetime of the company.
+
+As a small startup (e.g., 3–10 people), using a recruiter is usually not as useful as direct founder or employee networking, using LinkedIn and other tools. In contrast, when I was at Twitter, the company grew from ~90 to ~1,500 people over a 2.5 year period. As your company scales into the hundreds and thousands of people, you will want to bring specialized recruiters, sourcers, university programs managers, etc. in-house and potentially use retained external recruiters for executive hires.
+
+## Early days: Your team as recruiters
+
+Early on, the best approach to recruiting is to have people on your team actively refer in people from their network. Similarly, many founders & early employees spend as much as 30–50% of their time early on (e.g., when scaling from 3 to 15 people) on recruiting. There is no easy fix around it. You need to just grind through large numbers of people (via networking, LinkedIn, friends, etc.) to find the handful of people to join your team.
+
+Some startups I know successfully hire someone who is a mix of office manager/social media manager/recruiting coordinator. This person will often spend a lot of time scheduling referred candidates and reaching out to passive candidates via email and LinkedIn. Once the candidate expresses interest they pass them off to a founder or hiring manager.
+
+## Initial scaling: The in-house recruiter
+
+Once a company hits a certain scale and is growing fast enough (adding 15–20 people per year or more), hiring in-house recruiters makes a lot of sense. The recruiter initially plays a few different roles that in larger stage companies will get split up including
+
+*   Sourcing.
+*   Running the recruiting process (scheduling, collating feedback, coordinating with hiring manager etc.).
+*   In some cases delivering offers (although I think often hiring managers or founders can do this).
+
+Depending on the strength of the recruiter (and, importantly, the company branding with your candidates), the recruiter will be able to hire 1–4 engineers per month. This shifts as the company scales and adds more differentiated roles (see below).
+
+This means that if you are hiring fewer then 15 engineers a year, you may want to have a part-time or split-role recruiter, grow organically via company referrals, or find an alternative structure with external recruiters.
+
+For non-engineering roles (e.g., sales) a single recruiter may be able to hire a larger number of people per month. This is driven in part by the referral-heavy nature of sales hiring as well as the fact that there are fewer high-growth companies for sales, marketing, and business development people to go to. In contrast, every startup is trying to hire engineers and designers.
+
+Things that impact the ability of the recruiter to be effective include:
+
+*   Brand of the startup with candidates.
+*   Strength of the hiring manager and executive team as recruiters. If they are active and engaged, it makes recruiting run smoother and will help to source and close more candidates.
+*   Breadth of network of the employees at the company.
+
+The importance of the hiring manager and other executives being involved in the recruiting process (through informal conversations, extending offers, meeting for lunch, etc.) cannot be over-emphasized, no matter how strong a recruiting org you have. The candidates will always want exposure to people in key roles in the company (Mark Zuckerberg at Facebook is famous for his “closing walks” with mid-level candidates).
+
+> “The importance of the hiring manager and other executives being involved in the recruiting process cannot be over-emphasized.”
+> 
+> – Elad Gil
+
+## High-growth: Multiple recruiting org roles
+
+When a company is growing really fast, the set of roles on the recruiting team tends to fragment and you need to start to specialize the types of people on your recruiting team.
+
+**1\. Sourcers.** Sourcers research, cold call, email, and otherwise create a path to passive candidates. In some cases they then transfer the candidates over to recruiters who will feed the candidate into a coordinated interview process. Some sourcers manage candidates up through an onsite interview, but seldom beyond.
+
+**2\. Recruiters.** Recruiters manage the process of coordination of the candidate through scheduling various interviews (phone screens, onsite, executive, etc.) and then circling with the team or hiring manager to determine whether an offer will be extended. At some companies the recruiter may extend the offer, in others the hiring manager does so.
+
+Your first few in-house recruiters should have experience sourcing as well. This helps in a number of ways:
+
+*   The recruiter will likely be more effective in sourcing and recruiting specialized engineering roles.
+*   There will be fewer hand offs between people on the team (e.g., sourcer, recruiter, hiring manager, etc.) which means less friction to the candidate and fewer people fall through the cracks.
+
+Splitting the recruiter and sourcer roles tends to work best when you are hiring large number of people of a specific type. For example, if you need to hire 50 back-end engineers, 30 front-end engineers, and 20 PMs, starting to segment recruiting roles makes a big difference.
+
+**3\. Candidate researchers.** These people may scrub LinkedIn for all the engineers at Google, prioritize them, put them into a spreadsheet, and then hand off the spreadsheet to the sourcers to actually do the outreach/pitch the candidates to interview.
+
+These people usually only really get added to the team as it scales from 100+ to 1,000+ people, and you are hiring large numbers of people in the same role.
+
+**4\. Recruiting marketing.** These are the folks who develop marketing materials, run ads, organize recruiting events, hackathons, website content, etc. to create an inbound pipeline of candidates. At a startup, this is usually driven by someone on the team you are recruiting for (e.g., an engineering manager for engineering candidates). Alternatively, the marketing team at the startup may be responsible for this as part of their overall marketing efforts. Only as a company scales to a few hundred people or more does the possibility of a standalone coordinating recruiting marketing role emerge.
+
+**5\. University programs.** Given the specific timing and cadence of new graduate and intern hiring, some companies will specialize sourcers and recruiters specifically for coordination and hiring of new grads. When your startup is still small, instead of hiring dedicated university programs people, you can have your existing recruiting staff pivot to cover this area for the few months when it is most relevant.
+
+## Executive hires: Retained recruiter
+
+For executive hires, a retained search using an executive recruiting firm may work well. While you will continue to mine your investors and employees for leads, specialized recruiting firms have networks tailored to fill your general counsel, CFO, or other role that may simply be outside of your founder network.
+
+For a retained search, you may pay an external recruiter some upfront fee or retainer to find candidates for you. In general, these sorts of searches work best if you are hiring an executive for the company versus an individual contributor. One reason is that executive hires may be outside of your core network, or that executives may be more willing to talk to recruiters from a brand-name firm than to someone from a less well- known startup.
+
+There are a number of brand-name executive recruiters your angels, VCs, or advisors can connect you to. [1](https://growth.eladgil.com/book/recruiting/scaling-a-recruiting-organization/#easy-footnote-bottom-1-451 " Thanks to Ardy Daie and Chris Shaw for comments and feedback on this post.")
+
+1.  Thanks to Ardy Daie and Chris Shaw for comments and feedback on this post.[](https://growth.eladgil.com/book/recruiting/scaling-a-recruiting-organization/#easy-footnote-1-451)

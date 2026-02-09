@@ -1,0 +1,344 @@
+# State of the Cloud 2021
+
+## In the New Normal, Bessemer explores cloud economy milestones, what's driving cloud valuations, and the frameworks to help founders accelerate go-to-market momentum.
+
+## Overview
+
+Exactly one year ago in early March 2020, we were days away from COVID-19 lockdown where our communities, companies, and healthcare system shifted into emergency response. We didn’t know it then, but this was the beginning of a fundamental and abrupt change to the way we live and work—powered by the cloud-first economy.
+
+As the world adjusted to this major disruption in human behavior, we found new ways to adjust to the New Normal — offline and online. CEO of Microsoft, Satya Nadella, affirmed this trend, too. A few months into the pandemic, he told shareholders: “We’ve seen two years’ worth of digital transformation in two months.”
+
+> In State of the Cloud 2021, we explore the major milestones and changes within the cloud economy and original analysis on what’s driving today’s private cloud valuations. In addition, we share new frameworks and emerging strategies to help founders measure growth endurance and drive go-to-market momentum. Plus, we dive into our seven predictions for 2021.
+
+## Full deck
+
+[Download the full PDF.](https://www.bvp.com/assets/uploads/legacy-site/s/state-of-the-cloud-2021-bessemer-venture-partners-report.pdf)
+
+### Top takeaways
+
+1.  Cloud companies have not just reset in the New Normal, but have thrived with a record-breaking market capitalization of more than $2 trillion.
+2.  There’s been a changing of the guard afoot: MT SAAS has overtaken FAANG.
+3.  Cloud multiples are rising to new heights, with both public and private cloud trading over 20x.
+4.  Cloud growth rates and access to capital are at all-time highs, with the average Cloud 100 company growing 80% YoY and $186 billion going into private cloud companies in 2020 alone.
+5.  Good-better-best of growth endurance is 70%-75%-80%.
+6.  GTM strategies have adapted in the New Normal; best practices include product-led growth, usage-based pricing, and the adoption of cloud marketplaces.
+7.  [Read our 2021 Predictions, here.](https://www.bvp.com/atlas/state-of-the-cloud-2021#2021-Predictions)
+
+**_Dive in to read the full analysis of the report._**
+
+## Public cloud industry milestones
+
+[https://www.bvp.com/assets/uploads/2021/03/soc-14-lr.mp4](https://www.bvp.com/assets/uploads/2021/03/soc-14-lr.mp4)
+
+When we look at how the top five public cloud companies grew over the past year, there’s a clear story of how the pandemic drove the change.
+
+First, [Paypal](https://www.paypal.com/us/home) shifted from third place to the largest market capitalization, which was driven by the rise in e-commerce and the increase in digital payments including a QR code system for contactless payments in physical stores. Second, [Shopify](https://www.shopify.com/) nearly tripled in market capitalization as small businesses sought to move their business online to continue engaging with their current customers and attract new ones. And last but not least, [Zoom](https://zoom.us/) replaced [ServiceNow](https://www.servicenow.com/) in the top five. As Zoom meetings, Zoom backgrounds, and even Zoom fatigue became ubiquitous of the New Normal, the business’ market capitalization grew over 4x to reflect that.
+
+**In a year, the top five public cloud companies saw a total 1.7x (or 70%) increase in total market cap — Paypal, Adobe, Salesforce, Shopify and Zoom. Together, these five public companies are collectively worth more than $1 trillion.**
+
+[https://www.bvp.com/assets/uploads/2021/03/soc-15.mp4](https://www.bvp.com/assets/uploads/2021/03/soc-15.mp4)
+
+Compared to last year when there wasn’t a single company worth more than $200 billion, today each of the top three — Salesforce, Adobe, and Paypal — are each above that mark. While the top three maintain a notable lead given their scale, Shopify and Zoom experienced dramatic revenue growth over the past year.
+
+Switching from the application layer to the infrastructure layer, we see that last year in aggregate, IaaS grew 50%, crossing $150 billion revenue run rate.
+
+[https://www.bvp.com/assets/uploads/2021/03/soc-16.mp4](https://www.bvp.com/assets/uploads/2021/03/soc-16.mp4)
+
+AWS continues to maintain its position at the top, steadily owning around a third of the total market size. However, Microsoft’s Azure platform continues to climb, and if they continue at this rate they could surpass AWS in the next three years, in terms of total market share.
+
+When we look at the pure-play cloud leaders and combine the infrastructure and application leaders, we can measure the total public cloud market capitalization through the lens of the Bessemer Cloud Index.
+
+Two years ago, the total public cloud market capitalization was an impressive $690 billion. We predicted that the total public cloud market would cross $1 trillion, but it played out faster than we anticipated.
+
+[https://www.bvp.com/assets/uploads/2021/03/soc-17.mp4](https://www.bvp.com/assets/uploads/2021/03/soc-17.mp4)
+
+Coincidentally, exactly one year later on February 5, 2020, we celebrated crossing the $1 trillion milestone. At that time, we projected it would take another couple years to cross $2 trillion, however on February 5, 2021, we stood at an impressive $2.2 trillion. [Go to our newly launched Cloud Index to see where we stand today.](https://cloudindex.bvp.com/)
+
+Despite a tumultuous first half of the year, 2020 was marked by record-breaking activity in the IPO & M&A environment, especially for the cloud industry. This includes the high-flying IPO of [Snowflake](https://www.snowflake.com/), as well as other major public offerings, including [Qualtrics](https://www.qualtrics.com/), [C3](https://c3.ai/), [Asana](https://asana.com/), [Sumo Logic](https://www.sumologic.com/), [JFrog](https://jfrog.com/), [BigCommerce](https://www.bigcommerce.com/), [nCino](https://www.ncino.com/), [Agora](https://www.agora.io/en/), and more.
+
+![](https://www.bvp.com/assets/uploads/2021/03/atlas-soc-2021-14.jpg)
+
+**In the public markets more broadly, twice as many companies went public in 2020 than in 2019. Also, more IPOs last year doubled in value during their opening days than any year since 1999.**
+
+Raising over $3 billion in its initial public offering, [Snowflake became the largest software IPO in history](https://www.axios.com/snowflake-ipo-32d8ea90-d19f-46ce-b633-b6fb69a7aeec.htmlhttps://www.axios.com/snowflake-ipo-32d8ea90-d19f-46ce-b633-b6fb69a7aeec.html), far surpassing [VMware](https://www.vmware.com/) which had held the record since 2007. It also became the fifth-largest tech IPO ever after [Facebook](https://www.facebook.com/facebook), [Uber](https://www.uber.com/), and [Snap](https://www.snap.com/en-US), surpassing other 2020 blockbuster IPOs including [Airbnb](https://www.airbnb.com/) and [DoorDash](https://www.doordash.com/en-US).
+
+![](https://www.bvp.com/assets/uploads/2021/03/atlas-soc-2021-15.jpg)
+
+Snowflake’s banner IPO points to the fundamental ways in which the data stack for companies is undergoing a significant transformation as more companies migrate to the cloud.
+
+We can’t forget to mention how many cloud giants joined forces via M&A, including [Twilio’s](https://www.twilio.com/) purchase of [Segment](https://segment.com/), and other key strategic acquisitions including Vlocity, [Workfront](https://www.workfront.com/), and [Kustomer](https://www.kustomer.com/). What was also unique in 2020 was the emergence of private equity buyers, as we saw first hand with [Pipedrive](https://www.pipedrive.com/) and [Gainsight](https://www.gainsight.com/).
+
+![](https://www.bvp.com/assets/uploads/2021/03/updated-slack-ma-slide-soc-21.png)
+
+[Salesforce’s](https://www.salesforce.com/) purchase of [Slack](https://slack.com/) for $27.7 billion receiving 33.2x revenue multiple was record-breaking in the M&A market. (Their purchase of Slack was also the second-largest enterprise software acquisition only after [IBM](https://www.ibm.com/us-en?ar=1)'s purchase of [Red Hat](https://www.redhat.com/en).)
+
+In all of this fast-moving cloud activity, it’s important to note that there’s a changing of the guard among the top-performing basket of technology stocks.
+
+[https://www.bvp.com/assets/uploads/2021/03/soc-25.mp4](https://www.bvp.com/assets/uploads/2021/03/soc-25.mp4)
+
+For years, investors talked about the internet revolution and the emergence of Facebook, [Apple](https://www.apple.com/), Amazon, [Netflix](https://www.netflix.com/), and [Google](https://www.google.com/) as the flag bearers of the new economy. We submit that as their growth rates slow and the trends of internet and mobile mature, there is a transition regarding the new growth drivers within technology: the cloud leaders.
+
+In late 2020, we coined [a new basket of high-performing stocks called MT SAAS](https://www.bvp.com/atlas/mt-saas), consisting of Microsoft, Twilio, Salesforce, Amazon, [Adobe](https://www.adobe.com/), and Shopify.
+
+At that time, we looked at the data and found that over the last four years, MT SAAS had an 800% return on investment compared to FAANG’s 330%. In just over one year MT SAAS has outperformed FAANG by over 100%.
+
+> Simply put, cloud computing is increasingly consuming software, hardware, and services and is, therefore, the most exciting mega-trend in technology, making it one of the most compelling themes impacting global GDP over the coming years.
+
+These public market milestones point to a powerful trend underway — cloud’s acceleration is permanent and COVID-19 more than doubled the rate of digital transformation across different vertical industries, impacting people’s everyday lives.
+
+Within the next three years, we expect the cloud will become the dominant delivery model for all software, as we embody a cloud-first world.
+
+## Private cloud market analysis
+
+As of January 2021, there were a total of [527 private unicorns](https://www.cbinsights.com/research-unicorn-companies), with a total cumulative value of more than $1.9 trillion dollars. Of the cloud companies on that list, we find most of them on the [Cloud 100](https://www.bvp.com/cloud100) — the definitive ranking of the top 100 private cloud companies, which in 2020 were valued at $267 billion cumulatively. Ranking in as top companies in 2020 included names such as [Procore](https://www.procore.com/), [Toast](https://pos.toasttab.com/), [HashiCorp](https://www.hashicorp.com/), [Canva](https://www.canva.com/), and more.
+
+![](https://www.bvp.com/assets/uploads/2021/03/atlas-soc-2021-17.jpg)
+
+The number of private unicorns has doubled in the past two years and the momentum continues to grow. In November 2020, the industry crossed a milestone when it minted its 500th unicorn, which was [Forter](https://www.forter.com/), a Bessemer backed cloud company and the leader in e-commerce fraud prevention.
+
+**So what’s driving all of this growth in the private cloud markets? And why are there more cloud unicorns than ever?**
+
+We have narrowed in on three main drivers: first, the increase in cloud multiples, second, the increase in cloud company growth rates, and third, more demand than supply for cloud assets. After digging into these trends, we will introduce the concept of Growth Endurance, which helps to explain this explosion in cloud valuations.
+
+**First up is the incredible growth in cloud multiples** — the average [BVP Nasdaq Emerging Cloud Index](https://www.bvp.com/cloudindex) multiple increased from about 5x forward run rate revenue in 2010 to over 20x in 2020. While we want to investigate private cloud in this section, it is well-known that private cloud multiples trail the trajectory of public cloud, which is up over 500% in the past decade.
+
+![](https://www.bvp.com/assets/uploads/2021/03/atlas-soc-2021-18.jpg)
+
+Interestingly, in 2020 we have seen the top quartile of cloud companies break away from the pack to trade for 30x, and this has been a step-function change in how the public markets value the strongest cloud companies, which include the likes of Zoom and Shopify.
+
+![](https://www.bvp.com/assets/uploads/2021/03/atlas-soc-2021-19.jpg)
+
+We see the enthusiasm for cloud companies mirrored directly in the private markets as well. The average Cloud 100 multiple increased by over 150% in the last five years, from 9x ARR in 2016 to 23x in 2020, and the median multiple has similarly doubled from about 7x to 15x.
+
+![](https://www.bvp.com/assets/uploads/2021/03/atlas-soc-2021-20.jpg)
+
+The cloud IPO and M&A success we touched on in the introduction accounts for much of why investors are willing to pay more than twice what they did five years ago for private cloud companies.
+
+**For founders, the takeaway is that building a cloud business today is as valuable as it has ever been before. For every one dollar of ARR you generate, investors are adding more than $20 to the value of your business.**
+
+But we aren’t seeing more unicorns just because cloud companies are being given a higher multiple on the same ARR – growth rates are increasing too, driving premium valuations.
+
+The average Cloud 100 growth rate increased from 60% in 2017 to 90% in 2019 given tailwinds for cloud adoption. This growth rate dipped to 80% in 2020, which is likely due to COVID headwinds to sales motions.
+
+We noted that the top quartile of cloud companies are breaking away in the public cloud markets, and we see the exact same pattern in the private cloud markets. The top quartile companies have increased their growth rates from 65% in 2017 to over 100% in 2019 and were able to preserve that 100% growth rate in 2020.
+
+![](https://www.bvp.com/assets/uploads/2021/03/atlas-soc-2021-21.jpg)
+
+Higher multiples and higher growth rates aren’t the end of the story for the unicorn birth rate in the private cloud markets.
+
+Over the past decade there has been a 10x increase in the number of dollars going into private cloud companies to over $180 billion in 2020, and this massive influx of capital has driven cloud valuations higher. Demand has very much outpaced supply in the cloud economy, making investors more willing to outbid one another to partner with the best-in-class companies.
+
+![](https://www.bvp.com/assets/uploads/2021/03/atlas-soc-2021-22.jpg)
+
+**Taken together, these three elements of high multiples, high growth rates, and large access to capital mean that it is the best time in history to be a private cloud company founder or operator.**
+
+Given the fact that public cloud is trading near all-time highs and private cloud rounds are pricing at almost 25x ARR, are those valuations justified? What is the unique quality of cloud companies that rationalizes these valuations and that can give investors confidence that they will continue to perform?
+
+Today we are excited to introduce the concept of **Growth Endurance**, a metric we track closely at Bessemer, which we define as the retention of growth that cloud companies experience from one year to the next.
+
+**Growth Endurance equals current year growth rate divided by last year’s growth rate.**
+
+Let’s look at public examples first. Looking at all data points for BVP Nasdaq Emerging Cloud Index companies over the last decade, we find a consistent trend that cloud companies are able to retain 80% of their growth rate from the prior year.
+
+![](https://www.bvp.com/assets/uploads/2021/03/atlas-soc-2021-23.jpg)
+
+While the 80% rule for public cloud growth endurance is not an absolute, for public cloud, growth endurance tends to be relatively narrowly distributed – in 55% of data points, public cloud companies had growth endurance between 70-100%.
+
+However, in over 30% of the time, public cloud companies actually accelerated their growth year over year for growth endurance over 100%. Only 15% of the time does growth endurance fall below 70%.
+
+**So what are the takeaways for cloud founders?** First, you can use the 80% growth endurance rule to predict the future growth rate of a public cloud business. And second, if as a private cloud company founder or operator you can help drive 80% growth endurance year over year, you are sitting among the best.
+
+![](https://www.bvp.com/assets/uploads/2021/03/atlas-soc-2021-24.jpg)
+
+**We can bring that scatter plot to life with some real-life examples of public cloud company growth endurance:**
+
+While Wall Street was bullish on Shopify when it debuted in 2015, consensus estimates at the time said that its growth would flatten to 30% in five years. Instead, Shopify’s growth has never decelerated to that level, and in 2020 it grew an incredible 85.6% YoY in the “new normal” to almost $3 billion of revenue.
+
+In another example, Twilio was welcomed into the public markets in 2016 as a superior developer platform. But even with such recognition, Wall Street still grossly underestimated Twilio’s growth endurance, believing that the company would decelerate growth to the mid-30s in 2018. Instead, Twilio has grown an average of over 60% since IPO, with more growth runway to come.
+
+![](https://www.bvp.com/assets/uploads/2021/03/atlas-soc-2021-25.jpg)
+
+But there aren’t just two examples, there are countless: Time and time again, cloud companies, including [Wix](https://www.wix.com/), [Hubspot](https://www.hubspot.com/), Salesforce, [Atlasssian](https://www.atlassian.com/), [Okta](https://www.okta.com/), [Veeva](https://www.veeva.com/), Servicenow, and more, have defied gravity and outperformed even the wildest growth expectations from Wall Street, unprecedented in terms of scale and pace.
+
+![](https://www.bvp.com/assets/uploads/2021/03/atlas-soc-2021-26.jpg)
+
+**The key insight here is that even without putting a name to it, the 80% growth endurance rule has propelled public cloud companies—and their valuations.**
+
+But what does growth endurance look like for the private cloud? Whereas the public cloud landscape has growth endurance of approximately 80%, looking across the past five years of Cloud 100 data, we find that growth endurance is lower at approximately 70%. This 70% growth endurance rule for private cloud makes sense given that only the best companies make it to be public—some private companies will not hit that bar.
+
+![](https://www.bvp.com/assets/uploads/2021/03/atlas-soc-2021-27.jpg)
+
+The distribution of private company growth endurance validates this, too, with a much wider distribution of growth endurances on both the low and high ends. Here, only 40% of companies have growth endurance between 70-100%, 20% accelerate to over 100% growth endurance, and a much higher 40% decelerate below 70%.
+
+![](https://www.bvp.com/assets/uploads/2021/03/atlas-soc-2021-28.jpg)
+
+### The Good, Better, Best Framework: Growth Endurance
+
+To make our work actionable to cloud founders, in true Bessemer fashion, we created a Good, Better, Best framework for Growth Endurance. For “Good” we hold companies to the 70% growth endurance rule for private cloud. For “Best” we hold companies to the 80% growth endurance rule for public cloud, and “Better” falls in between at 75%.
+
+**The reason we love this heuristic is because of its connection to our famed chart of companies’ paths from $1M-100M of ARR.**
+
+[https://www.bvp.com/assets/uploads/2021/03/soc-42.mp4](https://www.bvp.com/assets/uploads/2021/03/soc-42.mp4)
+
+If you assume that a cloud company grows 300% to $1M of ARR a Good company with 70% growth endurance would get to $100M of ARR in 12 years, a Better company with 75% growth endurance would get to $100M of ARR in seven years, and the Best company would get there in six.
+
+Now that we have surfaced a Good, Better, Best framework for growth endurance, founders can use these benchmarks to focus on turning them into a reality.
+
+The most effective lever in driving high growth endurance is your go-to-market strategy.
+
+## Go-to-market strategies in the New Normal
+
+At Bessemer, when we share insights into how to drive go-to-market strategies, we often recall back on best practices around how to master the [Sales and Marketing Learning Curve](https://www.bvp.com/atlas/10-laws-of-cloud#Law-3-Invest-behind-the-cloud-sales-and-marketing-learning-curve). No matter the situation, always follow the golden rule and only ramp what's working. You’ve still got to nail it, before you scale it.
+
+**This year, we wanted to share the strategies that founders have leveraged to thrive in this new normal: product-led growth, usage-based pricing, and cloud marketplaces.**
+
+![](https://www.bvp.com/assets/uploads/2021/03/atlas-soc-2021-30.jpg)
+
+### Product-led growth
+
+First, we saw companies like [PagerDuty](https://www.pagerduty.com/), [Productboard](https://www.productboard.com/), and [Intercom](https://www.intercom.com/) execute a number of product-led growth strategies to help increase usage and adoption. This trend has been growing over several years as the affordability of software has pushed purchasing decisions to the end user.
+
+![](https://www.bvp.com/assets/uploads/2021/03/atlas-soc-2021-31.jpg)
+
+One of the strongest examples of product-led growth in the new normal is Intercom, led by CEO Karen Peacock. Intercom has all the makings of a best in class product-led growth sales motion. There is minimal friction to get started, the team has been structured internally to have project managers working closely with customer support, marketing and sales, and finally, Intercom focused on building a product that could scale as their customers grew upmarket.
+
+But Intercom is just one example of how a company can find success with product-led growth.
+
+> Over the past decade, the cumulative market capitalization for product-led growth oriented companies has grown more than 100x in the last six years.
+
+Dynamic product-led growth can do wonders for your go-to-market organization in today’s new normal, but that's not your only option.
+
+[https://www.bvp.com/assets/uploads/2021/03/soc-46.mp4](https://www.bvp.com/assets/uploads/2021/03/soc-46.mp4)
+
+### Usage-based pricing
+
+Companies such as [Courier](https://www.courier.com/), Zapier, and [Yotpo](https://www.yotpo.com/) serve as great examples on how to leverage usage-based pricing models to retain and then expand net-dollar retention over time.
+
+![](https://www.bvp.com/assets/uploads/2021/03/atlas-soc-2021-32.jpg)
+
+The rise of the major cloud computing platforms as well as the growth of companies like Twilio, [Datadog](https://www.datadoghq.com/) and Snowflake have shown how powerful usage-based pricing models can be. This model goes hand-in-hand with product-led growth. It minimizes the friction of getting started by allowing the customer to start at a low cost and only pay more as they receive more value.
+
+Essentially you’re providing more flexibility and sharing in your customer’s success as you scale with them. For example, with Courier, pricing is based on the number of notifications sent. It’s all about anchoring around a clear usage-based value metric.
+
+**As our Partner Ethan Kurzweil shared in the** **[Bessemer Developer Laws](https://www.bvp.com/atlas/developer-laws-2019), the gold standard of pricing strategies is when companies deliver a service that can be metered and grows with your customer.**
+
+[https://www.bvp.com/assets/uploads/2021/03/soc-48.mp4](https://www.bvp.com/assets/uploads/2021/03/soc-48.mp4)
+
+Companies that leverage usage-based pricing typically have best-in-class net dollar retention results, averaging roughly ten percentage points higher than their traditional pricing model peer set. Additionally, they are able to create these NDR outcomes at even higher revenue scale, leading to premium valuations in their public market.
+
+### Cloud marketplaces
+
+Channel sales through cloud marketplaces from players like AWS, [Azure](https://azure.microsoft.com/en-us/) and [GCP](https://cloud.google.com/) are becoming the natural port of entry. Providers like [Tackle.io](https://tackle.io/) have helped their customers such as [Sisense](https://www.sisense.com/) and [Auth0](https://auth0.com/) find real go-to-market value.
+
+![](https://www.bvp.com/assets/uploads/2021/03/atlas-soc-2021-33.jpg)
+
+In 2020, Auth0, the leading identity and authentication platform, was one of many early adopters that experienced 10x year-over-year cloud marketplace revenue growth. It obviously contributed to their great success and the company's most recent acquisition [by Okta for $6.5 billion!](https://auth0.com/blog/okta-auth0-announcement)
+
+![](https://www.bvp.com/assets/uploads/2021/03/atlas-soc-2021-34.jpg)
+
+A [recent study published by Gartner](https://www.gartner.com/smarterwithgartner/future-of-sales-2025-why-b2b-sales-needs-a-digital-first-approach/#:~:text=Become%20a%20Client-,Future%20of%20Sales%202025%3A%20Why%20B2B,Needs%20a%20Digital%2DFirst%20Approach&text=The%20Gartner%20Future%20of%20Sales,will%20occur%20in%20digital%20channels.) predicts that by 2025, nearly 80% of sales interactions will take place through digital channels.
+
+Early adopters of cloud marketplaces, such as [CrowdStrike](https://www.crowdstrike.com/), have seen sales cycle times decrease by almost 50%. At Bessemer, we predict that independent software vendors will generate over $3 billion dollars in revenue via cloud marketplaces in 2021 alone, and expect that growth to 10x in the coming years.
+
+And finally, as founders adopt new GTM strategies, we realize something: The sales and marketing funnel is a bit obsolete. It’s really about building cycles of champions.
+
+### Building cycles of champions
+
+We’ve found that when cloud businesses focus on cycles rather than funnels, they can build a customer-centric organization that benefits product innovation, marketing, and growing recurring revenue. With Bessemer’s Champion Creation Flywheel, we see four necessary phases — captivate, catalyze, cultivate, and champion.
+
+This time last year, Bessemer had the privilege of investing in a wildly ambitious company called [Hyperscience](https://hyperscience.com/). They provide the world's first Software-Defined, Input-to-Outcome automation platform for the enterprise. We signed the term sheet in February 2020. (Coincidentally, this funding round closed on the morning of March 12th, better known now as Black Thursday.)
+
+[https://www.bvp.com/assets/uploads/2021/03/soc-52.mp4](https://www.bvp.com/assets/uploads/2021/03/soc-52.mp4)
+
+**At this point, the entire go-to-market organization at Hyperscience had to change — and this is how they did it:**
+
+*   **To captivate** new potential champions, the marketing team amplified the voice of their customer through content and social media campaigns.
+*   **To catalyze** new sales they worked diligently to shorten time to value by 75 days through product accessibility and delivery improvements.
+*   **To cultivate**, Hyperscience committed to being customer-centric in everything they do.
+*   And finally to solidify the **creation of new champions**, the company further established its Customer Advisory Board, allowing them to provide valuable feedback to the product roadmap process.
+
+This past year, Hyperscience has experienced 300% year-over-year ARR growth, all while achieving 109% growth endurance, completely defying gravity and outperforming many of the best in class cloud companies. Creating new champions resulted in more than a 10x increase in platform usage, 140% customer account growth, and 170% net dollar retention.
+
+![](https://www.bvp.com/assets/uploads/2021/03/atlas-soc-2021-35.jpg)
+
+Now that we’ve talked about what’s been driving growth in the public and private cloud markets along with some strategies to bolster your go-to-market organization, here are Bessemer’s 2021 Predictions.
+
+## 2021 Predictions
+
+Every year, we identify the primary and emerging categories we believe provide the largest opportunities for early-stage cloud founders.
+
+### Prediction 1: The unbundling of the Office
+
+Even before the pandemic, one trend we were excited about had to do with the meteoric rise of [global remote work](https://www.bvp.com/atlas/remote-work). Bessemer Partner [Talia Goldberg](https://www.bvp.com/team/talia-goldberg/) identified how powerful this macro trend could be even months before COVID hit—removing geography as a constraint to team building would be transformative. While some companies choose to permanently shift to remote work, it’s abundantly clear that the Work From Anywhere movement is here to stay.
+
+In just under a year, we've seen the landscape evolve dramatically. When we compare and contrast each of the product offerings based on the Microsoft office suite, we see a ton of opportunity and a number of superior products have been created to promote both efficiency and collaboration.
+
+Whether its a solution like [Parsec](https://parsec.app/) which helps keep your remote teams connected, [Hopin](https://hopin.com/) for live events, or great tools like [Calendly](https://calendly.com/) and [Undock](https://undock.com/m/) which make it easier to get everyone’s schedule on the same page, we’re excited about all of the new tools that will make remote work in the virtual office more productive. In addition, we’re seeing companies like [Productboard](https://www.productboard.com/) as a leader in the project and product management space.
+
+![](https://www.bvp.com/assets/uploads/2021/03/atlas-soc-2021-36.jpg)
+
+### Prediction 2: We’re bringing the S-M-B back with SaaS
+
+The pandemic was a shock to the system for every small business owner. As the new normal continues to take shape and more SMBs get back to business, cloud software tools are helping them to do so even faster than before.
+
+Across every key functional area that an SMB needs to care about, including Sales & Marketing, IT, Customer Success, HR, etc., SMBs have recognized the importance of leveraging cloud software to create a better experience for their customers and more efficient operations.
+
+We have leaders like Toronto-based [Ada](https://www.ada.cx/) for customer support and [Contractbook](https://contractbook.com/) for legal operations who are delivering real value to small business owners each and every day. Then there are leaders like [Squire](https://www.getsquire.com/) who have built a killer cloud platform dedicated to serving the barber shop SMB vertical.
+
+![](https://www.bvp.com/assets/uploads/2021/03/atlas-soc-2021-37.jpg)
+
+### Prediction 3: Diversity, equity, and inclusion software take their rightful place
+
+As we’ve noted in prior State of the Cloud reports, the tone starts at the top. Diverse, inclusive teams are an invaluable asset for every organization. When done right, it not only drives better business outcomes, but serves as a sustainable competitive advantage.
+
+Ambitious cloud companies like [Diversio](https://diversio.com/) have been laser-focused on bettering the venture capital and private equity industry via their diversity and inclusion software platform.
+
+Recently, Bessemer backed [Syndio](https://synd.io/), the leader in pay equity cloud software which ensures that everyone gets equal pay for equal work. And industry veterans like Stephanie Lamkin at Blendoor have built a DE&I analytics platform which promotes equitable career experiences for each and every employee.
+
+It’s great to see that in the new Normal, these tools have moved from being a nice-to-have, to a must-have.
+
+![](https://www.bvp.com/assets/uploads/2021/03/atlas-soc-2021-38.png)
+
+### Prediction 4: Data and machine learning infrastructure accelerates to new heights
+
+As companies make the transition to the cloud, and as more data is generated and available than ever before, we’re seeing the enterprise data stack evolve as well.
+
+From moving data to storing it, querying it, analyzing it, visualizing it and monitoring it -- companies are building best in class solutions throughout. We believe the market size here is massive as every single company in the world will need to make better use of data to compete.
+
+Whether it’s [Firebolt](https://www.firebolt.io/) in data warehousing, or [Coiled](https://coiled.io/) in python-based data analytics, the opportunities are endless.
+
+![](https://www.bvp.com/assets/uploads/2021/03/atlas-soc-2021-39.jpg)
+
+### Prediction 5: The rise of the “citizen” developer and creator
+
+In 2019, we predicted that the low code/no code movement would take off. Fast-forward only two short years, and we are now fully in the age of democratization of software development.
+
+Companies are moving towards solutions like [Zapier](https://zapier.com/) and [Webflow](https://webflow.com/) to free up their engineering/expert resources or to equip their "non-technical" workers with "developer" capabilities.
+
+In addition, we are seeing a similar proliferation of tools democratizing the creator economy and enabling anyone to become a creator — developing, managing, and distributing their own unique content without the help of dedicated technical resources.
+
+Tools like [Canva](https://www.canva.com/), [Teachable](https://teachable.com/), and [Substack](http://substack.com/) are at the forefront of this movement, and we expect many more companies to form for creators.
+
+![](https://www.bvp.com/assets/uploads/2021/03/atlas-soc-2021-40.jpg)
+
+### Prediction 6: Fintech and crypto players are changing financial services forever
+
+The pandemic has only accelerated a trend that was well underway. Financial services infrastructure is being rebuilt and redesigned for the modern world, and creating the piping for capital and credit to flow, as our Partner [Charles Birnbaum](https://www.bvp.com/team/charles-birnbaum) has been tracking for years. This includes facilitating SMB payments like [Melio Payments](https://www.meliopayments.com/), and supporting KYC/AML with [Alloy’s API](https://alloy.co/).
+
+We’ve also seen increased adoption of bitcoin and cryptocurrencies as more institutions recognize bitcoin as a store of value and more companies enable crypto transactions on their platforms.
+
+To support this market, tools like [TRM Labs](https://trmlabs.com/) are working with financial institutions, governments, and crypto businesses to provide the blockchain intelligence needed to ensure safety, security and compliance.
+
+![](https://www.bvp.com/assets/uploads/2021/03/atlas-soc-2021-41.jpg)
+
+### Prediction 7: The vertical SaaS wave becomes a tsunami
+
+Last year our Partner [Brian Feinstein](https://www.bvp.com/team/brian-feinstein) published his [top ten lessons learned from a decade of vertical SaaS investing](https://www.bvp.com/atlas/ten-lessons-from-a-decade-of-vertical-software-investing/). We believe there’s much more to come.
+
+Every industry has accelerated their adoption of the cloud and are reaping the benefits. This includes well-known giants like Procore and [ServiceTitan](https://www.servicetitan.com/reviews), as well as recent players like [Shopmonkey](https://www.shopmonkey.io/) in auto repair, Squire for barbers, and [Gloss Genius](https://glossgenius.com/) for salons & spas. With this theme in mind, vertical SaaS giants are going to be making a huge splash in 2021 and beyond as they join the pool of public cloud markets!
+
+![](https://www.bvp.com/assets/uploads/2021/03/atlas-soc-2021-42.jpg)
+
+Until next year, we’ll leave you on this note — that even in the New Normal, we’re living in a cloud-first world!
+
+[https://www.bvp.com/assets/uploads/2021/03/soc-64.mp4](https://www.bvp.com/assets/uploads/2021/03/soc-64.mp4)

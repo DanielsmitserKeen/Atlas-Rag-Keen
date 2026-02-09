@@ -1,0 +1,103 @@
+# The U.S. Perspective on SME Tech
+
+In this exclusive interview, we sat down with [Jason Shuman, General Partner at Primary](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Eprimary%2Evc%2Fpeople%3Fslug%3Djason-shuman&urlhash=650Y&trk=article-ssr-frontend-pulse_little-text-block), to discuss the evolving landscape of SME Tech and how AI and compound software startups are reshaping the ways small- and medium-sized businesses operate. As a venture capital investor with deep expertise and experience in automation and vertical SaaS, Jason shares his perspective on why SME-focused startups require a different level of execution and often need less capital to grow.
+
+Jason also reflects on why SME Tech is a distinct investment category, the importance of customer obsession, and the playbook founders need to follow to build enduring, high-growth companies in the space.
+
+* * *
+
+Can you tell us about yourself and your role at Primary?
+
+My name is Jason Shuman, I'm a General Partner at [Primary](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Eprimary%2Evc%2F&urlhash=PMWr&trk=article-ssr-frontend-pulse_little-text-block). We're the largest seed-stage venture capital firm in New York City. We are a high-conviction, low-volume shop that tries to provide an unreasonable amount of resources to founders to create unfair advantages for them.
+
+I’ve been with Primary for six years, during which we’ve grown from a six-person team to around 60 – so our firm has scaled quite a bit. My journey into venture started as a founder. I’ve been obsessed with startups and entrepreneurship growing up and since middle school, I really got involved in tech. I ran an e-commerce business before transitioning to VC about a decade ago.
+
+You were born in Boston and grew up in the area, surrounded by entrepreneurs. Did your upbringing impact some of the ways that you work with founders today?
+
+Absolutely. Entrepreneurship runs in my family, nearly everyone is a small business owner in some capacity. I learned a lot from my dad, my aunt, and multiple uncles. They set the bar for me in terms of work ethic, thoughtfulness in working with employees and external stakeholders, and, most importantly, a strong ethical and moral compass. Moreover, my mom is a therapist. I often tell our LPs that the psychology aspect of venture and backing people who have big dreams is something that strongly resonates with me because of her. That foundation has overall given me a deep sense of empathy when working with founders.
+
+But I can also relate when talking to founders because I’ve personally been in their shoes. For example, when running my own business, I once drove from Massachusetts to Miami – which is about 1,500 miles one way – eight times and slept in my car to personally sell to over 50 retailers. That experience gave me firsthand insights into how hard it is to move a single metric or execute even one critical initiative as an entrepreneur. It also reinforced my understanding of the importance of focus when building a company, something I truly relate to when working with founders.
+
+You mentioned in an interview last year that 5 million SMEs will transfer $10 trillion in asset ownership over the next decade, with two key winners: acquirers who buy and optimize these businesses, and venture capitalists who capitalize on the shift. However, many investors – especially in Europe – argue that SMEs and software for these businesses are not a distinct category from a B2B investing perspective. Is that sentiment shared in the US?
+
+I think that argument is completely absurd. SMEs operate fundamentally differently from mid-market and large-cap companies. In bigger companies, roles are specialized – there are dedicated teams for recruiting, scheduling, customer service, sales, and operations. In contrast, SME owners are in most cases also operators that handle all of these functions themselves. Their daily challenges are entirely different, so to state they are not a distinct category makes little sense.
+
+That said, historically, investing in SME tech has been difficult. The main reason for that is that SME owners have not been great buyers of software. But more importantly, one has to admit that the first generation of software for SMEs didn’t create a meaningful return on investment (ROI). Most tools were built to help owners operate their businesses more efficiently – including tracking customers, sending invoices, and managing workflows – but they required significant manual input. These solutions didn’t truly save time, generate new customers, or drive clear cost savings.
+
+Now, however, we’re entering a new era – moving from ‘do-it-yourself’ technology to ‘do-it-for-me’ software powered by AI. Instead of simply managing workflows, AI-driven solutions can actively drive business outcomes. For example, they can acquire customers by acting as an evolving, optimized sales rep. They can handle procurement, including reaching out to suppliers, negotiating terms, and optimizing costs. These capabilities create real, tangible ROI for SMEs.
+
+Looking at history, the biggest technology and venture capital outcomes have happened at the intersection of a technological platform shift and a demographic shift. That’s exactly what we’re experiencing in the US, but also Europe, today. As baby boomers transfer ownership of SMEs to private equity firms, search funds, or new individual owners, those who take an AI-first approach will find it not only easier to run these businesses, but they will also be far more successful.
+
+At the mid-cap and enterprise level, we see a lot more point solutions, whereas in the SME space, they are less common. Last year, we launched the EU SME Vertical SaaS 50 alongside Eight Roads to map the landscape. In a previous interview, you mentioned that business models like ServiceTitan and Toast are going through a “business model renaissance” and may not look the same as they did in the past. Could you elaborate on that?
+
+If you analyse the businesses that have been successful in selling to SMEs, you see that they all operated on a key insight: software alone wasn’t enough to build sustainable unit economics. While they could charge for software – maybe $299 or $499 a month – many SMEs wouldn’t pay much more than that. So they had to figure out how they could generate more revenue per customer to make their unit economics as a software business work. The real breakthrough then came from monetizing payments.
+
+So if you look at companies like Shopify, Toast or ServiceTitan, you can see a very broad range, but a very high percentage of their revenue typically comes from processing payments. Venture capital firms like Bessemer Venture Partners made enormous returns by identifying and backing that insight early.
+
+However, we’re now entering a new phase – one where SMEs’ biggest expenses, mainly labor and outsourced services, are ripe for disruption. When you look at an SME’s cost structure, their workforce and services like third-party consulting typically far exceed their software spend. AI is now creating an opportunity to automate many of these functions, capturing significantly more value.
+
+To put it in perspective, if a company like Toast has an average contract value (ACV) of around $10,000 per customer through its current model, an AI-powered solution selling downmarket could potentially capture $50,000 per customer by automating labor and service-related expenses. This shift will unlock significantly larger enterprise values for AI-driven companies targeting the SME space, marking a major evolution in the business models that have dominated the sector until now.
+
+As part of your work, you have published many interviews with leaders in the SME Tech space in the US, such as Dane Atkinson (Founder of Odeko, formerly at Squarespace) and Codie Sanchez, who is an investor that speaks extensively about acquiring SME businesses. From all your conversations with such experts, what are your key takeaways?
+
+The first takeaway is customer obsession. Many founders claim to be customer-obsessed, but when you look at their actions, it often doesn’t hold up. True customer obsession means spending significant time engaging directly with customers, understanding their pain points, and embedding their feedback into the product. Too many founders build in silos, assuming they know what customers want without actually validating it through direct conversations.
+
+The second takeaway is that building an SME tech company requires an entirely different level of intensity. You need to be obsessive, have an extreme sense of urgency, and approach the market aggressively. Winning over SME customers is difficult because their attention is scarce. They tend to rely on trusted local service providers – people they see at the deli or their kids’ soccer games. To break through, founders must be highly intentional about how they engage these business owners, craft compelling messaging, close deals efficiently, and maintain strong, personal relationships at scale.
+
+The third takeaway is long-term focus, but with urgency in execution. Many successful vertical SaaS companies have followed a well-known playbook: land with a core or “wedge” product, then expand by layering on additional products and services. However, with AI making software development exponentially faster and cheaper, the companies that invest heavily in building ‘compound software’ companies for SMEs early on, are going to be far more successful.
+
+The reason I say that is if you study the best-in-class vertical software companies and you look at the attach rate of the additional products, there is a wide variance. Instead of acquiring a customer and upselling them gradually over several years, the goal should be to get them using multiple tools from day one. The best vertical SaaS companies that embed multiple solutions from the start see significantly higher adoption and retention. Long-term vision is critical, but the ability to pull product adoption forward today will be a defining factor in success going forward.
+
+## Recommended by LinkedIn
+
+You brought up two fascinating points: first, the idea of compound startups – building multiple features and revenue streams simultaneously – and second, the importance of starting this approach early. Typically, VCs advise founders to focus on one thing and execute it exceptionally well, arguing that multi-revenue models can make revenues less predictable. How do you see this playing out?
+
+To unpack the ‘compound startup’ concept, I think my background in consumer technology plays a big role in how I see this. The best consumer founders excel at one key thing: testing. When acquiring SME customers, especially in the US where the sheer number of SMEs makes them behave similarly to consumers, it is important to recognize that they have short attention spans. SME owners and operators are incredibly busy, and they’re not actively thinking about which software they need to buy.
+
+By building a compound startup with AI, founders can rapidly test different messaging and acquisition strategies. For one customer, an AI-powered growth agent might be the most compelling value proposition. For another, the biggest pain point might be optimizing food supply orders to minimize waste. A broad product set enables multiple entry points, making customer acquisition easier and more adaptable. This is why I believe the compound model is so critical today – it allows startups to iterate faster and engage customers in ways that single-product companies can’t.
+
+That said, execution is key. Founders need to be highly credible and deeply skilled in positioning. I’ve met countless founders whether at Seed, Series A, or Series B who struggle to articulate their product’s value clearly and concisely. This is especially critical in SME Tech, where the best companies don’t just build strong outbound sales engines – they also invest in high-performing inbound strategies. Getting positioning right from start is crucial because it compounds over time, just like the product itself.
+
+At an event we recently hosted, a founder spoke about the concept of “double product-market fit” based on the experience that startups often think they already achieved PMF, but when they try to scale, it doesn’t work, forcing them to pivot and refine their approach.
+
+In this regard, Odoo is a great example of a European tech company. They didn’t rely on outbound sales until recently, yet they’ve already grown to over €100 million in ARR. They figured something out – and that “something” was a highly optimized, fine-tuned funnel that allowed them to acquire customers efficiently at scale. So in the early days of a startup, before thinking about revenue growth, the priority should be simple: build a product that customers love. Whether that’s five customers or 50, nailing that foundation is what matters most. Once that’s in place, then you can pour fuel on the fire and scale.
+
+Lately, I’ve been thinking a lot about simplification – both in optimally managing my own schedule and in observing the best founders who have scaled companies to billions in enterprise value. Time and time again, in board meetings and conversations, these founders demonstrate a unique ability to cut through complexity and focus on what truly matters. They don’t get distracted by every new challenge or opportunity. Instead, they say: “This is the most important thing right now. These are the top two priorities, and everything else I don’t care about.” They go into full-on “founder mode” on the most important things, relentlessly solving those core challenges. And when they do that effectively, they create massive long-term enterprise value.
+
+In Europe, we’ve recently seen VC funds pouring significant amounts of capital into SME-focused startups at the very early stages. Do SME Tech startups really need millions in pre-seed funding to get started? Or, given their multi-revenue, multi-feature nature and the stickiness of their products, can they grow through revenues and be more capital-efficient?
+
+When it comes to fundraising, we’re at a very interesting moment in time. Today, founders can build products that weren’t possible even a few years ago. Can an SME Tech startup get started with minimal capital? Absolutely. In fact, some don’t need any capital at all. As a founder, you can simply go and get started.
+
+I recently met a bootstrapped company in London, generating tens of thousands in MRR in the payments space. The founder, a King’s College student studying machine learning, took inspiration from companies like Odoo and executed on those proven playbooks that I mentioned earlier. This proves that it’s possible to get started with little to no funding.
+
+However, market timing is critical. Every percentage of market share captured by a competitor makes entry exponentially more expensive. If you find product-market fit – meaning you can acquire customers efficiently and they’re incredibly happy with your product – you should pour fuel on the fire and scale.
+
+In this regard, venture capital as an industry is becoming far more efficient. Investors who are placing bigger bets early are backing founders who they believe will reach PMF quickly and then use the majority of the raised capital to scale once that fit is found. The logic behind that is simple: if a competitor secures funding and starts acquiring and retaining customers at scale, they can lock in market dominance – which you can only avoid by being faster.
+
+Most VCs are talking about AI these days, and you mentioned its significance already earlier. After all, what do you think will be the most impactful changes AI will bring to the SME segment?
+
+I was just talking to somebody about this the other day. Back in 2017, before I even joined Primary, I was running a family office and investing in what I called “the future of automation.” Every investment I made at that time was in SME-focused companies. Ironically, those companies are now all taking off – it just took them a little longer than I anticipated. The reason is that the technology itself has dramatically improved, but just as importantly, consumer awareness and sentiment have shifted, largely thanks to ChatGPT and other mainstream AI applications.
+
+When I think about AI’s impact on SMEs, I look at what private equity firms do when they acquire small- and medium-sized businesses. Their playbook generally falls into three key buckets:
+
+1.  Procurement Optimization – PE firms consolidate purchasing across multiple businesses using Group Purchasing Organizations (GPOs), securing bulk discounts and streamlined procurement.
+2.  Sales & Marketing Optimization – In industries like home services, PE firms implement subscription-style maintenance plans to drive recurring revenue. They also cross-sell services, for example, by acquiring both HVAC and plumbing companies and training sales teams to upsell across categories.
+3.  Consumer Financing – They usually introduce embedded consumer financing options to increase conversions and transaction values.
+
+I believe AI will have the biggest immediate impact on procurement and sales & marketing. AI-powered systems can automate procurement, optimize supplier negotiations, and reduce costs, just like PE firms do – but at scale. On the sales side, AI can personalize marketing, automate outreach, and streamline lead conversion, dramatically improving efficiency.
+
+At Primary, we’ve already made investments in home services targeting these areas, and our plan is to back or even incubate companies tackling these challenges in other markets. AI is going to reshape SME operations, making many of these PE-style efficiency plays accessible to small business owners without requiring a large corporate backing them.
+
+Lastly, what is one book you would recommend?
+
+It’s funny, I probably listen to way more podcasts these days than I read books. I’ve been thinking a lot about how people decide when to consume current content via podcasts versus when to dive into maybe more historical lessons from books. Personally, I let my interests guide me at any given moment.
+
+That said, there’s one book that profoundly impacted me – not just as a founder and investor, but as a person. It’s an old book: [“](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Eamazon%2Ecom%2FThink-Grow-Rich-Landmark-Bestseller%2Fdp%2F1585424331&urlhash=_hb7&trk=article-ssr-frontend-pulse_little-text-block)[Think and Grow Rich”](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Eamazon%2Ecom%2FThink-Grow-Rich-Landmark-Bestseller%2Fdp%2F1585424331&urlhash=_hb7&trk=article-ssr-frontend-pulse_little-text-block) by Napoleon Hill. The author spent years studying the greatest minds of the early 1900s and distilled their shared habits and principles into a framework for success.
+
+What makes the book powerful is its emphasis on exposure – we all need exposure to people, ideas, and potential. The book lays out a playbook for achieving greatness by modeling those who have done it before. One of its core concepts is the idea of a “mastermind group”, surrounding yourself with experts who are incredible at their craft and a step ahead in life or business and using them sort of as your own personal board of directors.
+
+That concept has shaped how I approach major decisions, whether I’m about to make an investment or just life in general. Whenever I face a choice – especially a “one-way door” decision where once you go through and can’t turn back – I build my own little advisory circle to help me learn as much as possible before taking that particular decision and making the leap.
+
+A great way to end this interview as that is the whole point of SME Tech Leaders – it's a group of individuals passionate about the SME segment that are learning from and advising each other.
+
+Thanks a lot for sharing your insights, Jason!

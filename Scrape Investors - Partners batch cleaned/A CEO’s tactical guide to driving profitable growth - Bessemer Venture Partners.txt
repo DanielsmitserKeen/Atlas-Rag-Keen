@@ -1,0 +1,188 @@
+# A CEO’s tactical guide to driving profitable growth
+
+## 40 practices SaaS leaders can employ across their business to improve operational efficiency and profit margins.
+
+In the software world, a “growth at all costs” mindset has given way to “profitable growth.” Building a venture-backed business was easier when only growth mattered. But now CEOs need to drive both growth and profitability. In the public markets, the companies with the highest growth efficiency (which we define as [ARR growth rate + free cash flow margin](https://www.bvp.com/atlas/scaling-to-100-million#Efficiency-Score)) command the highest multiples:
+
+![](https://www.bvp.com/assets/uploads/2023/03/valuation-premium-v6-profitable-growth-min-min.png)
+
+**In this Q&A guide, we unpack a software profit and loss statement (P&L) into its component parts. Much has been written about how to drive growth, but here, we provide tactical steps for CEOs to follow in order to drive more efficiency and profitability.** 
+
+## I: Gross Margin
+
+Gross margin acts as the limit to the ultimate profitability of your business and has an enormous impact on your valuation. It’s a great place to start because improving gross margin rarely comes at the expense of investment in growth. 
+
+> The median gross margin for high-growth public cloud companies is 77%.
+
+**Case example:** Take two identical software businesses. One is an 80% gross margin business that operates at 40% profit margins at scale. Holding all other factors constant, that same business with 60% gross margins will have only 20% profit margins. The difference between 80% gross margin and 60% gross margin cuts the value of the business by at least 50%.
+
+### **Cloud hosting costs**
+
+**How can my SaaS company optimize cloud hosting costs to improve gross margin?**
+
+1.  **Negotiate with hosting providers** for reserved instances, pre-purchasing, and multi-year contracts to reduce cloud spend.
+2.  **Monitor and optimize cloud usage**, and consider a dedicated full-time employee (FTE) for cloud cost management once annual spend exceeds $1M. Consider applying FinOps or Cloud Cost Management tools such as [Aimably](https://www.aimably.com/), [Bluesky](https://www.getbluesky.io/), [Cloudhealth](https://cloudhealth.vmware.com/), [Datadog](https://www.datadoghq.com/), [Finout](https://www.finout.io/), [HashiCorp Terraform](https://www.terraform.io/), [Infracost](https://www.infracost.io/), [Kubecost](https://www.kubecost.com/), [Spot](https://spot.io/), [Vantage](https://www.vantage.sh/), or [Zesty](https://zesty.co/).
+3.  **Review and improve code to optimize performance and architecture** to reduce compute, network, and storage costs. Explore refactoring the code, changing the database architecture, and using different types to drive performance through strategic caching and cost gains, such as limiting data transfer fees, especially if you’re in a multi-cloud environment.
+
+### **Implementation**
+
+**What strategies help SaaS companies reduce implementation costs and improve profitability?**
+
+4.  **Automate customer implementation** by building data migration tools, onboarding materials, out-of-the-box integrations, customer templates, and self-service options—increasing speed to go live and reducing expenses.
+5.  **Charge more for implementation services**, consider hourly billing to achieve breakeven or better margins, and avoid free implementation as a sales incentive. For instance, [Veeva](https://www.veeva.com/) has been able to deliver [a 20%+ gross margin](https://ir.veeva.com/investors/news-and-events/events-and-presentations/default.aspx) on its professional services.
+6.  **Shift implementation work to third parties** to avoid losses and scale services efficiently. Customers can contract directly with service providers, and you won’t have to worry about growing your service team.
+
+### **Customer success and support**
+
+**How do I drive efficiency in customer success and support functions as a SaaS business?**
+
+7.  **Benchmark your ARR per CSM** by leveraging [these benchmarks from Gainsight](https://www.gainsight.com/blog/customer-success-team-planning-cost-benchmarks/). Consider reducing or freezing your CSM headcount to “grow into” the appropriate benchmark.
+
+> The median amount of ARR that an Enterprise CSM manages is $2 million to $5 million.
+
+![](https://www.bvp.com/assets/uploads/2023/03/high-dollar-ratios-profitable-growth-min-1-min.png)
+
+![](https://www.bvp.com/assets/uploads/2023/03/medium-dollar-ratios-profitable-growth-min-min.png)
+
+![](https://www.bvp.com/assets/uploads/2023/03/small-dollar-ratios-profitable-growth-min-min.png)
+
+8.  **Reduce customer support burden by creating self-serve resources**, paperless documentation, customer forums, and in-app tooltips. See how [Netlify](https://www.bvp.com/atlas/10-product-led-growth-principles#1-Build-product-as-its-own-self-serve-distribution-vehicle) embedded such self-serve levers into product architecture.
+9.  **Automate customer support using AI tools** like [Ada](https://www.ada.cx/) or recommendation engines to boost productivity.
+10.  **Monitor support agent activity and utilization** to ensure efficient staffing. The goal is a balance between responsiveness and profitability.
+11.  **Offer premium support subscriptions** to subsidize support staffing costs. For example, “Standard Support” for normal business hours and “Premium” for 24/7 support.
+
+### **Customer profitability**
+
+**What’s the best approach to increase profitability among low-margin customers?**
+
+12.  **Review customer profitability** and develop plans to increase margins for low-margin customers, often through pricing changes (see part V).
+
+## II. Sales & Marketing 
+
+As a guiding principle, we suggest you **use CAC Payback benchmarks to assess your GTM efficiency**. CAC payback benchmarks range by scale of the business and whether you are selling into an SMB or enterprise customer base, as sales cycles differ across segments. [Here are the good-better-best benchmarks we have aggregated from private cloud companies](https://www.bvp.com/atlas/scaling-to-100-million-ramping-your-cloud-gtm-engine#Lesson-10-Let-CLTV-CAC-and-CAC-payback-be-your-guides):
+
+![](https://www.bvp.com/assets/uploads/2023/03/CAC-payback-profitable-growth-min-min.png)
+
+At scale, one of the most powerful drivers of S&M efficiency is improving retention. It is always cheaper to retain and upsell existing customers than to acquire new customers. Moreover, if gross retention is low, refilling a leaky bucket makes it tough to maintain profitable growth.
+
+### **Sales**
+
+**What are the most effective ways to optimize sales team performance and efficiency?**
+
+13.  **Review sales attainment by rep**—[target 80%+ quota attainment](https://www.bvp.com/atlas/scaling-to-100-million-ramping-your-cloud-gtm-engine#Lesson-4-Use-pipeline-as-a-leading-indicator-to-guide-hiring-plans) for ramped reps and transition out underperformers (most software companies transition out sales reps with over two-quarters of underperformance).
+14.  **Assess non-quota carrying sales headcount for efficiency**, aiming for optimal 1:1 ratios of quota carrying to non-quota carrying expenses by segment (enterprise, mid-market, SMB). In mid-market, this ratio should be ~2:1, and in SMB, ~4:1.
+15.  **Benchmark quotas and sales compensation**, [targeting on-target earnings at 4-5x quota](https://www.bvp.com/atlas/scaling-to-100-million-ramping-your-cloud-gtm-engine).
+16.  **Define and focus your ideal customer profile (ICP)** for higher conversion rates, and assign the best leads to top reps. This also means having the discipline to say no to low-converting prospects. Consider this [case study from Imply Data](https://www.bvp.com/atlas/scaling-gtm-from-25-to-50-million-arr/#Lesson-1-Solidify-your-ideal-customer-profile-to-dictate-your-GTM-rhythm) on how to crystallize your ICP).  
+17.  **Use enablement and standardization to boost sales productivity and scalability.** This [case study from Teleport](https://www.bvp.com/atlas/scaling-gtm-from-25-to-50-million-arr/#Lesson-2-Transition-to-standardized-processes-and-documentation) demonstrates how to transition to a ‘process-driven’ environment where scalable strategies are leveraged over bespoke motions.
+
+### **Marketing efficiency**
+
+**How should my SaaS company maximize marketing efficiency and return on investment?**
+
+18.  **Invest in product-led growth (PLG)** to reduce your CAC, especially in developer and collaboration tool markets. To read: [10 Product-Led Growth Principles](https://www.bvp.com/atlas/10-product-led-growth-principles) and [Software Powering the PLG Era](https://www.bvp.com/atlas/roadmap-software-powering-the-plg-era/?from=feature).
+19.  ****Review CAC by channel** and shift spend to the best-performing channels, with marketing organizations aiming for an [8-10x spend-to-pipeline ratio](https://www.bvp.com/atlas/scaling-to-100-million-ramping-your-cloud-gtm-engine#Lesson-3-It-is-all-about-demand-generation).**
+20.  **Reduce hard-to-measure marketing spend**, such as PR, brand, and in-person marketing.
+21.  **Align marketing and sales goals to ARR targets**, monitoring pipeline metrics closely each month/quarter. [Unweighted pipeline out of period (based on deal close date) ideally should be 3-5x ARR goal, and in-period weighted pipeline would be 2x+.](https://www.bvp.com/atlas/scaling-to-100-million-ramping-your-cloud-gtm-engine#Lesson-4-Use-pipeline-as-a-leading-indicator-to-guide-hiring-plans)
+
+## III. R&D
+
+Research & Development (R&D) is the most fraught area to cut spending to drive profitability: overcutting in R&D can lead to short-term wins but degrade competitive advantage over the long-term. Management teams should apply discretion when looking at R&D benchmarks given unique factors such as product complexity and market competitiveness. 
+
+> The median R&D as a % of revenue is 20% for high-growth public cloud companies.
+
+**What comprehensive strategies can SaaS companies use to maximize R&D efficiency while maintaining innovation?**
+
+22.  **Prioritize the product roadmap** by force-ranking current projects, cutting lower ROI projects, and reallocating resources to the highest ROI initiatives. [ProductBoard has a number of helpful frameworks](https://www.productboard.com/glossary/product-prioritization-frameworks/) to structure thinking around product prioritization.
+23.  **Eliminate recurring meetings** (except quick standups) to give engineers more time to build. Aim for scheduling meetings on an ad hoc basis.
+24.  **Use metrics-driven performance management** (e.g., [DORA](https://www.okayhq.com/handbook/), McKinsey’s Relative Contribution) to assess engineering effectiveness. Look at the relative contributions of each individual on a team, managing out those who are contributing less and promoting and heavily retaining those who are contributing far more.
+25.  **Leverage tools to visualize and benchmark engineering productivity or developer OKRs**, such as [Allstacks](https://www.allstacks.com/), [Faros.ai](https://www.faros.ai/), [Jellyfish](https://jellyfish.co/), [LinearB](https://linearb.io/), or [OKAY](https://www.okayhq.com/).
+26.  **Foster a culture that values ingenuity and profitability over headcount growth**, celebrating resourcefulness like your R&D teams finding clever ways to build with limited resources or when they eliminate a low ROI project.
+
+## IV. G&A
+
+G&A is a ripe target to drive efficiency given that it is a cost center.
+
+> The median G&A as a % of revenue is 12% for high-growth public cloud companies.
+
+**What are the most impactful ways to drive efficiency and cost savings in General & Administrative (G&A) functions?**
+
+27.  **Reduce real estate expenses** by shrinking office footprint, subleasing, and renegotiating rent.
+28.  **Optimize vendor spend** by consolidating licenses, switching to cheaper alternatives, and renegotiating contracts. Companies such as [Zylo](https://zylo.com/) can help to rationalize your SaaS usage. Negotiation isn’t just about discounts, but can also incorporate flexible contract terms, extended payment terms, or moving from a subscription to consumption pricing structure. Companies like [Vertice](https://www.vertice.one/) and [Vendr](https://www.vendr.com/) can help negotiate lower prices for software purchases.
+29.  **Use software and automation to reduce headcount** in finance, IT, and HR.
+30.  **Optimize net working capital** by extending vendor payments, initiating payment plans, and focusing on collections.
+
+## V. People
+
+Throughout your company, people-related costs tend to be the biggest area of expense. Making sure you are staffed appropriately across the entire organization is critical.
+
+**How can organizations strategically manage people-related costs to boost overall efficiency and performance?**
+
+31.  **Freeze headcount temporarily** to assess productivity and performance management impacts. Growing revenue while keeping costs flat is also a straightforward way to drive profit growth.
+32.  **Review managerial span of control**, aiming for five or more direct reports per manager where possible. This varies widely from organization to organization, but if your spans of control are below three direct reports per manager, there may be an opportunity to gain efficiency here.
+33.  **Require managers to justify backfills** for voluntary departures, but not for involuntary churn. Making a written and persuasive case will help identify roles that don’t need to be backfilled. But you don’t want to disincentivize managers from moving out underperformers. To this end, healthy involuntary attrition at a high-performance company is generally above 5%. An involuntary attrition rate below 5% may be a signal that performance management could be optimized.
+34.  **Engage the workforce in profitability goals** and solicit cost-saving ideas, rewarding contributions.
+35.  **Leverage zero-based budgeting in each department**, building org charts as if from scratch to optimize headcount. If things are working, certainly double down, but if there are signals that spending isn’t providing a good ROI on the margin, adjust quickly to reroute cash to other areas.
+36.  **Move to lower-cost onshore and offshore talent**, starting with support/ops roles and ensuring cultural alignment. Hire a local leader who has experience working with a US company, ensuring cultural and technological consistency in your chosen offshore location, and avoiding business process outsourcing (BPOs).
+37.  **Streamline overlapping projects** to eliminate duplicate efforts and boost organizational performance.
+
+## **VI. Pricing and Packing**
+
+Pricing is one of the most important drivers of revenue growth and profitability. It is one of the most efficient ways to drive margin because any price increase drops straight to the bottom line. If you’re a SaaS leader looking for new levers of revenue growth, [take our B2B SaaS Pricing course.](https://www.bvp.com/pricing-course)
+
+**Which holistic pricing and packaging strategies work best for SaaS companies aiming to drive revenue growth and profitability?**
+
+38.  **Experiment with raising prices for new and existing customers**, using annual increases and grace periods to manage churn. Most customers understand that your costs are growing each year and are comfortable seeing a modest increase in price each year (e.g., 3%-7%).
+39.  **Add volumetric or tiered pricing components** (grows with volume, usage, revenue, etc., or “good, better, best” packages) to align pricing with customer value and usage. Learn more about different usage-based pricing models in [our usage-based pricing report](https://www.bvp.com/atlas/linear-volumetric-or-bundling-which-type-of-usage-based-pricing-is-right-for-you/).
+40.  **Default to annual upfront prepayments to strengthen cash flow**, adding flexibility only as needed. This will drive much stronger cash flow (see point 30) than other contracting models (e.g., paid monthly or quarterly instead of annually, or paid upon customer go-live rather than at contract signing).
+
+### A note about stock-based compensation
+
+The benchmarks we leverage for this article do not include stock-based compensation. However, it is important for founders to understand the impact of stock-based compensation. Although it does not immediately impact cash flow and profitability, it will inevitably at a future point. Further, looking at benchmarks inclusive of stock-based compensation also mitigates any noise resulting from different stock vs cash compensation structures across companies (e.g., the same company that gives 70% stock and 30% cash will look much more efficient than one that gives 50% stock and 50% cash). Lastly, the role of stock-based compensation is becoming an increasingly common topic of discussion for public market investors and has an increasing impact on valuation. We recommend benchmarking your business by including stock-based compensation or benchmarking against companies with a similar equity burn to fully understand relative cost structure and profitability.
+
+## Parting thoughts on achieving profitable growth 
+
+As a CEO, it is important to remember:
+
+1.  **Focusing on both growth and profitability is hard.** Business was easier when only growth mattered. But a focus on profitability presents a new set of challenges and opportunities for your team to shine. The teams that can successfully transition from “growth at all costs” to “profitable growth” will make themselves richer. They will also walk away with the pride of having pulled off a transition that only the highest performing teams have been able to make.
+2.  **The gold standard is a 40+ efficiency score** (ARR/revenue growth % + EBITDA/FCF margin % > 40). The scoreboard has changed and we’ve moved from a market that exclusively valued revenue growth to one where both revenue growth and profitability matter. The median [BVP Cloud Index](https://cloudindex.bvp.com/) company has an efficiency score of 33%. Most software companies managed by experienced PE firms have an efficiency score of 40+. This is what investors and buyers of software companies have come to expect. If you find yourself deviating from this benchmark, it is important to assess why and whether you have a clear path to get there.
+3.  **Avoid death by a thousand cuts.** As of Q1 of 2023, we are seeing a second wave of layoffs and cost reductions rippling through the software ecosystem. If you’re going to reset your cost structure, make the reset substantial enough that you can avoid making painful changes in the future. 
+4.  **Culture and communication are key.** Your team needs to understand that software companies are ultimately valued on their profits. Revenue multiples are just a proxy for future profit generation. If you can create a culture that focuses on growing revenue while keeping expenses as low as possible, it will be much easier to generate profit later. 
+5.  **Give your executive team ownership over the problem.** As you think about how to roll out a cost reduction plan, one approach is a top-down edict from the CEO or CFO. This can be effective but may create an adversarial relationship with your execs. Consider letting your team take ownership of the problem by framing the goal (e.g. “we need to get to rule of 40”) and challenging them to figure out how to get there. Use that as the foundation for a cost savings strategy.
+
+## Case Study from Sameer Dholakia: Former CEO of SendGrid on driving profitable growth
+
+In this article, we tried to be as comprehensive as possible in ideating tactics CEOs can implement to drive efficient growth. As we wrote the piece, I wondered if it might be helpful to share how I applied at least some of these 40 different tactics to a real business. The case study below shows that these ideas are very actionable. They changed the trajectory and outcome for SendGrid—and can for you, too!
+
+Fortunately, I worked with a very talented and mature team at SendGrid. Creating alignment on our need to drive to a healthier rule of 40 was like pushing on an open door, and our whole company (not just the leadership team) got behind this goal.
+
+Ultimately, it was a collective effort from across the organization that enabled SendGrid to drive profitable growth. A few examples of notable initiatives included a finance leader branding a company-wide “Save to Reinvest” campaign, a vice president of support helping us create and monetize new customer support tiers, and a customer success leader helping us launch new add-on services
+
+![](https://www.bvp.com/assets/uploads/2023/03/Sameer-quote-card-2-2-min-min.png)
+
+Focusing on profitable growth isn’t just the job of the CEO. Invite the smart and hard-working teammates of your company, who know your day-to-day operations best, to be part of the solution.
+
+Our “Save to Reinvest'' campaign was one of the best examples of internal marketing I’d ever seen. We demonstrated to everyone in the company that we weren’t cost-cutting for its own sake, but rather so that we could afford to reinvest in growth levers for the business. This framing is what allowed us to both slash our burn and reaccelerate growth, what we later called the “SendGrid smile”; in other words, the graph that illustrates our growth rate over time which went down, then flat, then up and to the right.
+
+Over the course of six quarters, we took action on the following tactical steps throughout the organization. Incrementally, we moved from -30% to roughly breakeven, and then reaccelerated our growth as we scaled in 2016, ramping toward our IPO in the fall of 2017.
+
+### Tactical steps SendGrid took to improve its gross margin
+
+SendGrid’s Gross Margin was in the 60s at the time I joined, and was mid-70s by our IPO, and mid-80s when I left Twilio. Unquestionably, some of that improvement was simply due to economies of scale—costs held flat as we increased our output. But it also was the result of many intentional, cost-focused initiatives across a number of areas, including:
+
+1.  **Cloud hosting/Infra**: We found seven-figure cost savings by refactoring the most “expensive” pieces of our email infrastructure software. To do that, we had to balance two objectives: optimizing costs and developing new features. For example, the engineering team re-wrote a microservice in a more performant language; in another case, the team re-wrote and re-optimized the pieces of an old daemon over a multi-year period. 
+2.  **Services**: When we found out our customers had expected to pay for a service we had been providing for free—email deliverability—we created a set of services that our sales and customer success teams could sell. These ranged from one-time implementation services to a retainer model for on-call experts.
+3.  **Support:**  By implementing support tiers—”standard” during normal business hours and “premium” for 24/7 coverage—we found that many customers were willing to pay for premium support as an insurance policy, even though they didn’t use it often.
+4.  **CSMs**: In the early days, our coverage ratios in customer success were more focused on a number of accounts and dollars, but often didn’t factor in account potential. We ended up segmenting, [as the Gainsight benchmark suggests](https://www.gainsight.com/customer-success-index-2022-tool/), along lines of account potential, and some customer success managers (CSMs) ended up with far fewer accounts, and some with many more.  But productivity increased across the board.  
+5.  **Sales and marketing**: Because SendGrid had already benefited from an incredibly efficient CAC payback period of six months, we asked our revenue marketing team to experiment with prolonging that period, by investing, not spending, up to a 12-month CAC payback. This increased investment led us to double our paid acquisition budget and accelerated our net new monthly recurring revenue (MRR). It also helped us when we got clarity on our ideal customer profile (ICP), which enabled our sales teams to create more targeted lists of prospects. The names of the top 25 were posted around the office, so that everyone was aware and thinking of how we might get into those accounts. 
+6.  **Research and development (R&D)**: When I first joined, I was tempted to hire additional developers to help turn my product ideas into reality. I was fortunate to have a board member suggest that I pause on hiring more engineers—after a period of rapid hiring throughout the company, I wasn’t sure we had the right management and processes in place to run the engineering org most efficiently. He was 100% correct: hiring more people into an unoptimized org would make changes more difficult and investment less effective. Instead, we hired a new senior vice president (SVP) of engineering and put all other hiring on hold—except for backfills of people who had been performance-managed out. Over the next six months, the new SVP helped us rebuild the engineering org, and then we started hiring again. 
+7.  **General and administrative (G&A) expenses**: 
+    
+    a. **Vendors**: We found it helpful to align the whole team on being more disciplined about vendor costs and negotiations. I personally helped renegotiate our renewal for a event and data analytics platform, which had reached $1 million per year when I arrived—untenable for a $30 million ARR company like ours. This saved us a boatload of money each year. Importantly, it also showed the company that the CEO cared a lot about cost containment. 
+    
+    b. **Real estate**: When SendGrid expanded from its roots in Boulder to a larger presence in Denver, our CFO and COO championed the consolidation of our two Colorado-based locations.  Economies of scale, again, saved us a lot of money as we hired more people into the same physical footprint.  
+    
+8.  **Pricing**: We conducted a [pricing study](https://www.bvp.com/pricing-course) that led us to a significant price increase for our lowest-volume senders. Thanks to the help of Simon Kucher Partners and our pricing team, that represented a 50% price increase for tens of thousands of customers. We were simply underpriced relative to the value we provided.  We had a few dozen unhappy customers—no one likes to receive a price hike—but out of 30,000+, it led to millions (~$5M-7M) dropping straight to the bottom line. We did this in 2017, so it wasn’t part of the initial cost focus.
+
+The biggest takeaway for CEOs is to remember that there are opportunities to drive better margins and profitable growth in every aspect of the business. If you’re a SaaS leader fundraising in the near future and looking for ways to drive profitable growth, reach out to Brian Feinstein ([Brian@bvp.com](mailto:Brian@bvp.com)), Caty Rea ([crea@bvp.com](mailto:crea@bvp.com)), Janelle Teng ([jteng@bvp.com](mailto:jteng@bvp.com)), or Sameer Dholakia ([sdholakia@bvp.com](mailto:sdholakia@bvp.com)) to learn more.
+
+## Recommended Articles

@@ -1,0 +1,174 @@
+# Consumerizing Enterprise == Loop Sequencing
+
+> ### _**“the only kind of writing is rewriting”**_ - Hemingway
+
+This is going to be an evergreen post connecting loose threads and tying to future articles. It also heavily stitches together writing from some very clear thinkers I’ve been studying. I encourage you to read the whole thing, in Ernest.
+
+Working at Box for the last 2.5 years, I’ve learned a ton about enterprise software, SaaS models, go-to-market (GTM) motions, and business scaling. The notion that [product-market fit might not be enough](https://brianbalfour.com/four-fits-growth-framework) was an eye-opener. The concept of [GTM-fit](http://gtmfit.com/) was a game-changer. But the biggest, recurring lesson around scaling that I’ve absorbed can be summarized in 1 word: _**repeatability**_. As much as you may have internalized the instinct to [do things that don’t scale](http://paulgraham.com/ds.html), ultimately, to get to a point where you can just “run the business”, you have to scale; this means figuring out an aligned product and GTM strategy that can start (and sustain) a flywheel.
+
+I love the flywheel analogy (even wrote an internal white-paper titled ‘Platform Flywheel’) because it conjures up the image of repeatability, once you get over the initial bootstrap hurdle (i.e. you can do things that don’t scale as long as you understand it’s all in the interest of eventually scaling). But over time, I’ve shifted from seeing businesses as flywheels to…loops.
+
+[
+
+![X avatar for @kevinakwok](https://substackcdn.com/image/fetch/$s_!TnFC!,w_40,h_40,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Favatars%2Fdefault-light.png)
+
+Kevin Kwok@kevinakwok
+
+Loops is the correct way to view the world. Eventually everyone will realize this
+
+![X avatar for @maxolson](https://substackcdn.com/image/fetch/$s_!TnFC!,w_20,h_20,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Favatars%2Fdefault-light.png)
+
+Max Olson @maxolson
+
+3/ And some real-world examples I sketched out that combine multiple advantages into the flywheel engines driving growth: https://t.co/Qzgq4C9mzW
+
+4:39 AM · Aug 4, 2019
+
+59 Reposts · 375 Likes
+
+
+
+
+
+](https://twitter.com/kevinakwok/status/1157873624159641600)
+
+[Kevin Kwok](https://twitter.com/kevinakwok) recently wrote an essay ([Why Figma Wins](https://twitter.com/kevinakwok/status/1273769264915156992)) that felt like the last piece of a slowly-coming-together puzzle to me. It’s nominally about Figma’s growth strategy, but if you read it 3 times (like I did) you realize it’s about something more meta. He literally spells it out in the first sentence:
+
+> ### _“Companies are a sequencing of loops.”_
+
+If you run with that idea, and apply it to horizontal, consumerized, enterprise SaaS (which has been my puzzle of choice for a few years), you see a playbook for a successful company (and business (and product)). The sequencing of loops is as follows:
+
+1.  individual -> team productivity
+    
+2.  consumer -> creator mixshift
+    
+3.  extended enterprise -> ecosystem
+    
+
+Don’t let the simplicity of the series fool you - in order to actually get one loop going is a huge accomplishment, and transitioning from one level to the next requires a cultural and strategic transition. Many companies plateau in one stage and can never break through to their next potential phase because they don’t recognize (or maneuver against) their [invisible asymptotes](https://www.eugenewei.com/blog/2018/5/21/invisible-asymptotes).
+
+Walking through the [Figma analysis](https://kwokchain.com/2020/06/19/why-figma-wins/) helps outline the story that I’ve summarized as 3 sequential loops.
+
+Any software tool that helps a professional 10x their productivity has value, along with the potential for monetization. The first loop you need to automate is the self-service flow of a knowledge worker (PM, designer, engineer, sales rep, marketer, CSM) seeing that productivity boost and choosing to use your product (over competition, over status quo, over ad-hoc spreadsheets, etc). But individual efficiency gain is merely a trojan horse tactic, because the real money is in enterprise budgets vs. individual enterprises.
+
+When you model the employees within an enterprise, your initial target customer (aka core user) works within many larger, cross-functional processes (with adjacent users). Adjacent users are critical to cross-team collaboration, and removing team-level friction (and thereby enhancing efficiency and effectiveness) is the key customer promise behind the consumerization of enterprise software (think of this as the MVP loop for a horizontal enterprise play).
+
+The focus on teams highlights an aspect of user research which is critical: observe teams as they collaborate, not individuals as they work. These observations help identify the lowest-hanging fruit for the purposes of loop-building, and they are always obvious in hindsight once user behavior has changed over time. For example, with Figma, the biggest _**aha!**_’s are not having to think about version collisions, not having to install software, etc.
+
+Finally, if you’ve already started with the team mindset (e.g. enable design vs enable designers) and are wondering who your core vs adjacent users are, it’s whoever owns the output of the process and up-levels their role in the org as the process matures; therefore, personas with significant accountability and a desire for a seat at the table are prime candidates for such products (horizontal, consumerized, enterprise SaaS). If you serve the core user well enough, they in turn serve as your product champion within the broader organization.
+
+The key takeaways for the _**individual -> team productivity**_ loop are:
+
+1.  enterprises will pay for team (but not individual) productivity gains
+    
+2.  user research should index on team collaboration (core + adjacent users)
+    
+3.  core-user friction x team-level collaboration = enterprise-wide value
+    
+
+The next loop that comes along after you’ve proven out meaningful value within a particular (type of) team in an organization is replicating that across the enterprise. Again, from the Figma scenario, improving product quality through better designer / non-designer interactions for 1 product / 1 team is not the same as all products / all teams. But how do you get to enterprise-wide deployment? The traditional, brute-force, high-touch way has been to run sales plays where you identify incremental use cases and get to a tipping point where wall-to-wall (i.e. all employees have licenses) makes financial sense for the buyer. But if you’re thinking in terms of self-sustaining loops, there has to be a way to do this through product-led growth.
+
+The answer is cross-side network effects, which the multi-disciplinary nature of collaboration in the modern organization biases towards. This is not to be confused with virality, which manifests as popularity within a function (e.g. designers loving Figma); the reason I point this out is the rate of adoption (virality) doesn’t correlate to value generated (monetizability) for an enterprise. But cross-functional adoption of a tool isn’t enough, because many folks in the collaboration chain end up as consumers vs creators; if you’ve ever been in an enterprise software sales conversation, you’ve heard the customer argument that they don’t need a seat for employee _X_ because they are “view-only”. If I was on the procurement side of a Figma purchase, I’d argue that viewing design assets within the app shouldn’t require a full license. But if you can expand the definition of design to more than the work designers do (e.g. design review is curation, and curation is a type of creation) then you have a compelling case for monetization. What this means in practice is users that at first blush are just consumers over time become 1st / 2nd order creators, and that conversion funnel is your next loop.
+
+The path from an 80/20 consumer/creator split to a better (monetization-wise) blend is what I’m referring to as a mixshift. The specific tactics you employ will depend on the product domain, but ultimately you’re reducing barriers to creation until you break through the asymptote. Failure to successfully get traction on this dimension means you have a valuable product but not a viable business (because you can’t capture enough of the enterprise budget). In addition to just the ratio of creators to consumers, you will likely also want to measure conversion speed, because time to ROI is a key metric from a customer point of view.
+
+The key takeaways for the _**consumer -> creator mixshift**_ loop are:
+
+1.  there is a tipping point of team-level productivity gains to get to wall-to-wall
+    
+2.  your product itself has to convert consumers to creators via network effects
+    
+3.  if team-level productivity is the buyer’s ROI, then time to ROI matters a lot too
+    
+
+If you’ve managed to build a business that captures mindshare for a professional concerned with efficiency, enables their broader team to be more effective, and squirrels its way across their organization to a point where a purchase is a formality, that is likely a very successful product. But there is a difference between products and platforms. Ultimately, the production of user value is a concern that can be juggled by multiple entities, and the reason to even entertain such a model goes back to the start of this post: _**scale**_. In short, platforms scale better than linear businesses.
+
+But where do you begin your platform journey? Since you’ve been building a consumer-flavored enterprise product which orients on cross-team productivity gains, you start with a special case of your adjacent user: the extended enterprise collaborator. Basically, you have folks that your employees work with that sit outside your official organizational boundary: contractors / integrators / aggregators. As you research these users, you’ll find that your product by itself / your company with its makeup cannot serve them (well enough)…but there are potential partners who can. And if you can cook up a viable platform strategy / equitable partner incentives, the net result is an ecosystem.
+
+This whole post has been about sequencing loops to break through a series of asymptotes - so how does an ecosystem come into play? Over time, you run into a plateau where new users outside an organization don’t see compounding value when they join (what [the Figma article](https://kwokchain.com/2020/06/19/why-figma-wins/) refers to as global vs local network effects). An ecosystem provides that clear value proposition to the extended enterprise.
+
+The key takeaways for the _**extended enterprise -> ecosystem**_ loop are:
+
+1.  adjacent users exist both within the official and extended org
+    
+2.  your product + platform strategy + partner entities = ecosystem
+    
+3.  ecosystems can scale network effects from local -> global
+    
+
+To recap, a horizontal, consumerized, enterprise SaaS play has 3 primary loops to sequence:
+
+1.  individual -> team productivity
+    
+2.  consumer -> creator mix-shift
+    
+3.  extended enterprise -> ecosystem
+    
+
+There are a bunch of underlying assumptions, known unknowns, and implicit trends suggested here, which I’ve ordered according to how easily (most to least) they poke holes in my argument:
+
+1.  enterprises measure (or even care about) team-level productivity
+    
+2.  team-level productivity actually correlates to product quality (sounds right)
+    
+3.  “team” definitions mature from reporting-based to collaboration-based
+    
+4.  there are horizontal cross-industry / cross-segment domino use cases
+    
+5.  a single product can support bottoms-up and top-down GTM motions
+    
+6.  users and buyers share an understanding of product value / purchase rationale (this a topic for a future post where I explore user vs. buyer “product feedback”)
+    
+7.  a route-to-market exists in a majority of enterprises (more often than not IT shuts downs or isolates to a department tools based on security / compliance risk)
+    
+8.  implicit business processes (and the latent cross-team collaboration therein) can be repeatably and reliably modeled as a series of use cases ([see prescient Tweet](https://twitter.com/ibscribe/status/1266242634181304320))
+    
+9.  enterprises are enlightened enough and politically emboldened enough to elevate core users and empower adjacent users (you are fighting inertia / status quo)
+    
+10.  a repeatable motion that combines bottoms-up / product-led growth + top-down / GTM-led distribution exists (this post attempts to outline the strategic playbook)
+    
+
+Assuming all of the above holds true, becomes known, and pans out, I’m in agreement with Kevin Kwok when he says:
+
+> ### _“This new type of enterprise company is a mix of both product-driven consumer and sales-driven enterprise. We are still early when it comes to companies understanding how to re-architect their org structure, GTM motion, pricing model, and more to best fit this model. And like SaaS before it, this bottom-up to top-down model will mature from art to science over the coming years.”_
+
+If you enjoyed this post, please consider [subscribing](https://runthebusiness.substack.com/subscribe). And if you have thoughts / questions, please chime in via comments👇🏽
+
+_further reading / references_
+
+*   [Brian Balfour’s Four Fits Framework](https://brianbalfour.com/four-fits-growth-framework) is something I refer to time and again
+    
+*   [Survival to Thrival](https://survivaltothrival.com/) is a quick read and introduces the idea of [GTM-fit](http://gtmfit.com/)
+    
+*   Amazon has a famous flywheel that outlines it’s [virtuous cycle in a nutshell](https://fourweekmba.com/amazon-flywheel/#:~:text=The%20Amazon%20Flywheel%20or%20Amazon,prices%20which%20spins%20the%20flywheel.)
+    
+*   [Reforge](https://www.reforge.com/) has a [great post on loops (vs funnels)](https://www.reforge.com/blog/growth-loops) as a way to model product growth
+    
+*   Kevin Kwok’s essay on [Why Figma Wins](https://kwokchain.com/2020/06/19/why-figma-wins/) is exceptional (at least skim the GIFs)
+    
+*   Andrew Chen provides a detailed analysis of [acquisition and engagement loops](https://andrewchen.co/investor-metrics-deck/)
+    
+*   [Eugene Wei’s invisible asymptote](https://www.eugenewei.com/blog/2018/5/21/invisible-asymptotes) visualizes a growth curve’s eventual ceiling
+    
+*   2 enterprise SaaS trends worth a read: [consumerization](https://www.idg.com/news/consumerization-of-it-trend-is-driving-acceleration-of-business-application-development/) and [product-led growth](https://www.productled.org/foundations/what-is-product-led-growth)
+    
+*   [an A16Z primer on network effects](https://a16z.com/2016/03/07/all-about-network-effects/) (and how virality is a different characteristic)
+    
+*   Chris Dixon’s strategy around “[come for the tool, stay for the network](https://cdixon.org/2015/01/31/come-for-the-tool-stay-for-the-network)” ties to the step of going from individual (single player) -> team (multi player) productivity
+    
+*   the terms product, platform, marketplace, and ecosystem tend to be conflated, so I recommend reading [Platform vs Linear Business Models](https://www.applicoinc.com/blog/platform-vs-linear-business-models-101/) and [Platform Types](https://www.applicoinc.com/blog/what-makes-uber-different-from-android-how-to-make-sense-of-platform-businesses/)
+    
+*   an [interesting interview](https://nesslabs.com/fibery-featured-tool) with a startup founder who is betting on team productivity (defined as quantity and quality of insights)
+    
+
+_childish drawing / interpretation_
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!QgQn!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F91739081-ecff-4187-b3e9-81a58bd62615_4032x3024.jpeg)
+
+](https://substackcdn.com/image/fetch/$s_!QgQn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F91739081-ecff-4187-b3e9-81a58bd62615_4032x3024.jpeg)
+
+#### Discussion about this post
+
+### Ready for more?

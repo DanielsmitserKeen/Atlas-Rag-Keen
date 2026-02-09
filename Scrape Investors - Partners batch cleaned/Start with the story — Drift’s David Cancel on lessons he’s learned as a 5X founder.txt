@@ -1,0 +1,397 @@
+# Start with the story — Drift’s David Cancel on lessons he’s learned as a 5X founder
+
+Today’s episode is with David Cancel. David has been a CEO and founder of multiple different companies throughout his career. He’s also been a software engineer, a serial CTO, and the Chief Product Officer at Hubspot, giving him a unique lens into company building and leadership at different levels.
+
+In today’s conversation, David unpacks those lessons and tells us why he’s so focused on storytelling these days as the co-founder and CEO of Drift, a conversational marketing and sales platform. From screenplay writing inspiration, to how storytelling training is part of their onboarding, David shares how they teach storytelling and drive narrative internally at Drift.
+
+He also shares tactical advice for engaging with exec teams and getting better at zooming in and out as CEO, as well as some really tactical frameworks, including Charlie Munger’s practice of inversion, the weekly rituals Drift relies on, and how they use asynchronous video communication.
+
+It’s a must-listen for current founders and CEOs, and anyone looking to level up their leadership skills.
+
+You can follow David on Twitter at [@dcancel](https://twitter.com/dcancel?ref=review.firstround.com). He also pens a popular newsletter called “The One Thing,” and hosts a great podcast called “[Seeking Wisdom](https://www.drift.com/blog/introducing-seeking-wisdom-a-podcast-from-drift/?ref=review.firstround.com)” 
+
+For reference, the books he mentioned in the episode include Jon Kabat-Zinn’s work on mindful meditation, and “The Passion Paradox” by Brad Stulberg. 
+
+To learn more about how Drift approaches storytelling, check out this article David wrote for Inc:
+
+To learn more about Charlie Munger’s concept of inversion that David mentioned, check out this Farnam Street post: [https://fs.blog/2013/10/inversion/](https://fs.blog/2013/10/inversion/?ref=review.firstround.com)
+
+**EP.04 - David Cancel**
+
+**David Cancel:** \[00:00:00\] I think a lot of my job has been as an editor. So I kind of think of myself as an editor and it's like, I'm obviously not doing any of the work, pretty small amount of the work, but I serve more as the editor of kind of, what is the voice? How do we get better on the voice? And. Where do we say not good enough?
+
+Where do we push back and say, we can do a better job there. And so I try to continue to hold us to a higher standard, which again, it's these things it's easy when you're listening to this or thinking about them, they all sound nice and easy and obvious. And, but the real work is. Actually doing it and not compromising and, and doing that over and over again.
+
+And that's the part that makes all the difference, because it's very easy to listen or read something and be like, yep, that's a great idea. It's obvious everyone should do that, but no one does it. And that's the point. 
+
+**Brett Berson:** \[00:00:55\] Welcome to in depth, a new show that surfaces tactical advice, bounders and startup leaders need to grow their teams, their companies, and themselves.
+
+I'm Brett Berson, a partner at first round. And we're a venture capital firm that helps startups, like notion, roadblocks, Uber, and square tackle company building firsts through over 400 interviews on the review. We've shared standout company, building advice. The kind that comes from those willing to skip the talking points and go deeper into not just what to do, but how to do it with our new podcast.
+
+In-depth you can listen into these deeper conversations every single week. Learn more and subscribe [\[email protected\]](https://review.firstround.com/cdn-cgi/l/email-protection)
+
+for today's episode of in-depth. I am thrilled to be joined by David cancel. He's currently the CEO. And co-founder of drift the conversational marketing and sales platform, but it's really the depth of his experience across his entire career. That stands out to me over the past 25 years, he's been a software engineer, a serial CTO, and then a chief product officer and repeat founding CEO, starting five different companies from scaling scrappy startups to running product at HubSpot.
+
+He's had a broad range of experiences. What's also interesting is how David has managed to carve out tons of time for capturing and sharing what he's learned along the way. He's penned a best-selling book runs a popular newsletter called the one thing and hosts a great podcast called seeking wisdom.
+
+In the past, David has spoken a lot about the power of storytelling as he puts it. They're obsessed with story internally at drift. So in today's episode, we're focused on finding out how he created this culture. As the CEO, from the inspiration they've taken from the screenplay writing world to how storytelling training as part of their onboarding.
+
+We dig deep into how David teaches storytelling and drives narrative internally at drift. We also chat about his take on the role of CEO. David's got plenty of metaphors for how he sees his role from pruning a garden to serving as an editor, to being the coach who wants his team to question the place.
+
+In addition to giving advice for engaging with exec teams and getting better at zooming in and out, David also share some really tactical frameworks, including Charlie monger's practice of inversion. The weekly rituals drift relies on and how to use asynchronous video communication. I hope you enjoy the episode.
+
+And now my conversation with David, David, thanks so much for joining us. 
+
+**David Cancel:** \[00:03:35\] Thanks for having me. I'm excited 
+
+**Brett Berson:** \[00:03:37\] to be here. So I wanted to spend the first part of our conversation, talking about CEO tools and approaches to the role of CEO. And this is a role that you've had in. Multiple different kinds of companies throughout your career.
+
+And I thought maybe we could start, you've written a little bit about this, but the role of focus and your job as a CEO to figure out what to focus on and sort of drive that across the 
+
+**David Cancel:** \[00:04:02\] country. I think from me adrift my current company each year, I kind of look at. What I'm doing as a job, and then try to figure out like, what's the next version of myself.
+
+And every year that's been a pretty different version. And now more than ever, it's all about what are the few things that I can focus on that can help the team? I think about it, like two years ago, I would have been like on every slack message, every slack thread, every email, every kind of like in all the details.
+
+And I would constantly would spend this time zooming in and out. So with zoom really low. And then I would zoom at a very high level. And now we're at the stage now that we have all of these leaders in place, we're about 400 and some odd people on the team. And I'm really trying to spend all my time, zoomed out very little, almost never kind of really diving in.
+
+And so trying to figure out what are the things that I focus on. And what I figured out for me is that it really is those zoomed out things. It's about what is our story? Not only the vision, but really like, what is the story that we're telling for the next year, two years, five years? How do we do a better job at storytelling and teaching that storytelling internally and not only the story itself, but the act of storytelling so that there's all of these.
+
+Smaller stories that we have to tell ourselves that we have to tell our teams when it comes to initiatives or projects we're working on, or even the larger story that I focus on. And so how do we train storytelling? How do we translate into that, into how we communicate to our customers, to our prospects on our website and every message that we write.
+
+And so, like, I really think about building. That story first. And then we start to translate it into, okay, what are the offerings that we bring to market? How are the offerings that we have in place changing and what are the new stories or how are we adapting those stories? And then what does the story tell us that we need to build next?
+
+And how do we validate that? And potentially how would it work with the existing solutions we have now and kind of what our customers are using. And so it's really this crazy focus on storytelling. Themes, and then kind of how do we action those themes and then eventually goals cascade out of that and initiatives kind of cascade out, but really I'm not spending so much time on the specific initiatives.
+
+It's more about how do we tell these stories and what I've learned so far. We're still at the early stages that, that work is the easiest for me to ignore for the organization to ignore. But it's kind of the most powerful because when we have communication, Issues within the company or to our customers or prospects, like it all comes back to that.
+
+We didn't spend enough time trying to understand the story and how that fits in our narrative, because like, we're trying to tell this very long narrative of where the market is going in terms of the categories that we're creating, but also how we're evolving as a company. And so. Everything has to fit into this longer narrative, even though we're so kind of focused on hitting our near term 
+
+**Brett Berson:** \[00:06:55\] goals.
+
+And so what was your process to land on that being's focus area for you and were there. Other things that you thought were important that you do prioritized? I feel like focus is one of those things. That's easy in theory. And then when you, as a CEO, look back on your last week and you map your calendar to that focus area, it often gets blown 
+
+**David Cancel:** \[00:07:17\] up.
+
+That you're exactly right. So for me, what helped me to focus on this area was the best incentive, which was pain and all the pain that we were feeling as an organization inside. And that at first I kind of saw as a bunch of. Different issues. They didn't really see the root of them. I saw all these communication issues.
+
+I didn't know why as we were scaling the company, we were getting bigger, like why things were getting misinterpreted, why we were working on projects that we shouldn't be working on, why our customers were struggling to understand how we fit in their world and the larger world. Like all of these different things that I was running around, obviously trying to fix each and every one of those things along with the team.
+
+And then I started to kind of zoom out. I kind of figured out pretty quickly that it all came down to like, Missing the story. And I was on this idea of story anyway, because I had basically taught myself how to become at least somewhat a marketer and starting drift. I have an engineering background. And so I was a software engineer and serial CTO and then CEO and chief product officer and all these things.
+
+But I always built products for. Marketers and for salespeople, but I was not a marketer or a salesperson. And so I had to teach myself this idea of marketing. And I guess now at drift, I'm known more from marketing than anything else, but it's funny. So I took an engineering mindset to it and started with.
+
+Okay. How do people make decisions and start to read all the books you can imagine on human decision-making and cognitive biases and social psychology and all these kinds of things, and then started to work upwards towards, okay. Okay. Copywriting, understanding copywriting and why it works when it doesn't work.
+
+And then eventually how we think about marketing from a brand standpoint. And so story was always a big part. And so we're obsessed with story internally from a marketing standpoint. And then I saw the kind of connection. And I saw it because mostly cause of pain that we were having internally on all the other issues that we had within the company at that time.
+
+**Brett Berson:** \[00:09:16\] So how do you go about teaching storytelling internally and driving a narrative internally, other than the obvious stuff, which everybody says as a CEO, if you're not secure yourself saying something, you haven't said it long enough. But like pragmatically, if that's a main operating theme for you, what are you doing to when you get to the end of the year to say, I think we did an exceptional job in this focus 
+
+**David Cancel:** \[00:09:38\] area.
+
+First start by saying that I'm the worst I repeating. So of course I've heard the same thing, but I'm the worst I repeating and long ago I was trying to figure out how to get better at just public speaking and then figured out that. I have this problem where I can't say the same thing twice, which is, does not make for a good formula for public speaking.
+
+And I was comparing myself against other speakers that I knew that were basically saying the same story 200 times and couldn't understand like why their performance was so much better in my eyes. And then I figured out, oh, I can't repeat anything in any way. I came up with a different style that worked for me, but for me to kind of institutionalize this within the company, it goes beyond just.
+
+Talking about story. We started from the very beginning, from the first marketing person that we hired. And myself just studying all of this stuff, sharing it publicly on our own podcast and our normal marketing to other people about first understanding. Okay. How do people make decisions? Forget about the tools because in terms of marketing storytelling, everyone wants to go to like the channels.
+
+How do you communicate things? What channels are you using and kind of get lost in the tactics of marketing, but what at least figured out pretty quickly was that most marketers, even though they were super effective on different channels of demand generation or events, and what have you didn't really understand why the messages that they were.
+
+Using sometimes work, sometimes didn't work and didn't understand about how people made decisions and biases and things like that. And so we began to internally first train on that. So we have this thing called drift insider, which anyone can access for free in the world. And it's a bunch of video. It's basically like masterclass for marketers and salespeople.
+
+So a bunch of courses that we've created internally and with third parties, but we have a version of insider that we first built internally that we'll continue to build. And it was all around this type of training that we put everyone who joins the company through, during their onboarding phase of not only what is our story, but how do you tell a story?
+
+How do you give a presentation? How do you do copywriting, water, cognitive biases? What a, how do people make decisions? All of this kind of stuff. We kind of drill. Even if your job is not marketing and we continue to kind of live that and try to push that. That doesn't mean that we're great at it. It means that it's constantly an activity that we have to focus on.
+
+I kind of compare all of this stuff to kind of growing and then with garden, which is like some amazing thing, but, and then most garden doesn't get built by just planting the right kind of plants. And 99% of the work is pruning and 99% of the work. To actually keep storytelling a focus is the pruning and making sure and zooming in when we're not doing a good job there and trying to repeat those lessons and it never ends.
+
+And which I guess is non satisfying answer to a lot of people. Cause they want to shortcut there. Isn't a shortcut. It's just, we drill it. We make it a ritual. It's an institutional thing and it's a thing that's non-negotiable and I think that's probably the most important 
+
+**Brett Berson:** \[00:12:32\] part. What's an example of that concept of pruning for you in sort of this category of storytelling.
+
+**David Cancel:** \[00:12:39\] So pruning is always the painful part for me. We just hired a new VP of product marketing. And so right now in the last two months, it's been about zooming in and just tearing apart how poorly the job we've done in specific product marketing work so far. That sounds simple. It is simple, but it isn't easy because someone has put that work in, someone is on the team.
+
+Actually our whole team has worked on that stuff. And so you're just jumping in and trying to be helpful, but it's hard for people not to feel that in their egos, that pain, that shock of just like, this is how bad we suck at X, Y, and Z. And so we're constantly tearing apart. Stuff like that. And that's the only path to grow all growth involves discomfort, but like, it's easy to say, I want to grow and it's easy to say, like I want to learn, but nobody wants to go through the uncomfortable parts and very few people who go through the uncomfortable part, want to do it all the time.
+
+Every single day, continue to go through that because it gets tiring. And so we have to build that kind of resiliency within the team. Does it mean that it doesn't hurt? It doesn't mean that it's not fun, but that's what we do. We kind of zoom in, we tear apart things. We try to build a case around it. We try to then make it a piece of when we can, if it's significant enough, like we try to share that internally.
+
+Then we do a lot of this through doing our own videos. And so we'll send a drift video to the team or to put it, make it part of onboarding that then says, here's what we learned. We have this problem. We sucked at this. Here's how we fixed it here, results. And kind of, we try to teach a lot through video internal video courses, which just seems for a lot of the people on the team, a lot more effective than creating a deck, creating a document or some other form 
+
+**Brett Berson:** \[00:14:23\] in this case of like product marketing pruning.
+
+Can you think of sort of a specific example where the team dove in found this thing was broken and sort of take it through the solution? I'd 
+
+**David Cancel:** \[00:14:36\] say on that specific one often it's not the team. So in that case, the team didn't find that that was me jumping in and it doesn't have to be me, but it's probably someone on the team who really cares about storytelling.
+
+Who's not going to. Kind of say when we're all in the stress and we are, when we're trying to build something, we're under a deadline, that's the easiest time to kind of give up on something like this and just take the shortcut or just follow conventional wisdom, or just repeat something you did before.
+
+So I understand why people do it, but someone like myself or someone else who really cares about storytelling, kind of like zooming in. And in this case, what we saw pretty quickly was that, or what I saw pretty quickly was that we were reducing things. To the most scalable approach, which means kind of checklists, a ton of best practices, a ton of plays.
+
+We call them plays internally, but no one was questioning any of the place. No one was thinking through the process or thinking about how to reinvent the process. They were just following the plays or following the checklist and completing checklists as quickly as possible. And so it was. They cared about their work, but there was about checking these boxes, getting this done, hitting the deadline, meeting the requirements and not about, okay, how do we make this better?
+
+What is the actual message? Does the message resonate with anyone this worked last time, but will it work again? Do we have a new role model that we want to use in this thing? So no one was asking the why, why are we doing this? How are we doing it? Who is all about executing on the what and the, what that we had worked on last time or created a playbook around.
+
+**Brett Berson:** \[00:16:10\] This type of work is you sort of noticing something, surfacing it and sort of pushing people to 
+
+**David Cancel:** \[00:16:16\] exactly. And I think a lot of my job has been over the years as an editor. So I kind of think of myself as an editor and it's like, I'm obviously not doing any of the work or a pretty small amount of the work, but I serve more as the editor of kind of what is the voice.
+
+How do we get better on the voice and where do we say not good enough? Where do we push back and say, we can do a better job there. And so I try to continue to hold us to a higher standard, which again, is these things, you know, it's easy when you're listening to this or thinking about them, they all sound nice and easy and obvious.
+
+And, but the real work is actually doing it and not compromising and doing that over and over again. And that's the part that makes all the difference. Because it's very easy to listen or read something and be like, yep, it's a great idea. It's obvious everyone should do that, but no one does it. And that's the point.
+
+And so in that case 
+
+**Brett Berson:** \[00:17:09\] in sort of playing the role of editor or setting standards of excellence, what is the line between what you should be pushing on and what an executive at your companies should be 
+
+**David Cancel:** \[00:17:20\] pushing on? Great question. The answer is it depends and it's changing. So in the early days there weren't many executives.
+
+And so I took it upon myself. Now I do ask myself that very question. Each time that I noticed something should have been an executive on the team caught this, should I be doing this? Should I stay out of this? And we use each one of these kinds of things when I do zoom and I do often the executive as part of it.
+
+Part of it, to me is training that executive. My expectation is that most of this will be. Done by the executive, all the stuff about zooming in for sure should be our executive team holding on this. But right now it's kind of a hybrid. And where I see more of my time is kind of on that larger story and that larger initiative.
+
+But yeah, it is something that the executive should be getting better at, but again, they have deadlines, they have goals, they have things to meet and it's the easiest place to. Ignore. And so it's always a constant game of current. Have 
+
+**Brett Berson:** \[00:18:18\] you sort of, these types of areas is it's hard on the binary, it should be X or it should be Y and really it's your judgment and instincts.
+
+And so what you're really trying to do is help people kind of develop those instincts that in many ways, mirrors yours, or do you think you look at something and it's just objective, this is the right thing to do. This is the wrong thing to do 
+
+**David Cancel:** \[00:18:40\] and go from me. Is that it shouldn't be. My opinion or my version of it, because I actually don't care about my version of it.
+
+What I care about is that, and this is how my thinking works is that what I care is that someone has actually asked the question, someone can actually answer, why are we doing this? And if someone can do that in the process, if I see something and it doesn't seem right, and we have a conversation about it, if someone can say, here's why we're doing it.
+
+And it's a very thought out kind of answer. And it makes sense on how they're thinking about it and why they're thinking that way. Even if I completely disagree with the execution of it, I will defer to them because they've thought out something and they probably have a hypothesis that I don't understand yet, but it's very well thought out.
+
+But most of the time when you zoom in, it's not that it's kind of the opposite of that. And it's pretty clear when you talk to someone about why they're doing something. And they find it very hard to answer that. Why 
+
+**Brett Berson:** \[00:19:36\] question back to this sort of journey for you as a technical founder, technical CEO, you talked about this sort of learning process as it relates to storytelling sales marketing, are there.
+
+Specific moments or frameworks that you've learned in that journey that I've had a disproportionate impact on your own growth as a story? 
+
+**David Cancel:** \[00:19:57\] Yes, definitely. I'd say the first has nothing to do with storytelling, but it is that kind of monger idea of in birds. That's the first thing that we try to do is.
+
+Try to work backwards and try to like come up with the simplest answer that way. When it comes to being able to tell a story, we kind of practice this technique of inverting, everything, which we learned from Charlie Munger, this kind of idea of like flip it the other way around start backwards. So I flipped it around and said, okay, so the idea is that.
+
+I love Munger and that he simplifies everything is just it's to start backwards. So like, if whatever the goal is, if your goal is, and he uses this example and how he explains it, he asks his eight kids does this champion world champion who won the world champion title at this activity, this sport at the age 20.
+
+And then they won again at the age of 75. What was the activity or sport? And some of the, his kids couldn't figure it out, but his son started backwards, inverted and said, okay, if they want a 20 and 75, it has to be a physical activity. So it couldn't be a sport that you have to play or that you have to have a high cognitive ability.
+
+It has to be something. Different. And then he started to walk down and said, okay, chess, could it be chess? And it's like, no, you lose too much of your cognitive ability. By the time you're 75, like, it'd be hard to be a grand champion in chess. And then the next answer was like, okay, what is close to chest checkers?
+
+And that was the answer. This person had one checkers because it was a game that you could. Kind of almost memorize pretty easily or the moves pretty easily, but he started backwards versus trying to start forward and saying, okay, start with all these sports and start to rule them out. He inverted and said what would have to be true for the answer to be correct.
+
+And in this case it would have to be a sport that couldn't be physical. And so you start there, that's a very simple way of thinking about it. Like for us, our very notion of what we do as a company is that we've inverted. And we said, okay, like if the world has moved from a world of kind of fixed supply in terms of, let's say software and solutions and what have you then.
+
+Sales and marketing tools can be built this way. And that's the way we built them this entire time, including myself. But if we believe that we're moving to a world of infinite supply where now the buyer has all the choice, okay. Now we've inverted the whole model. And so everything that we do at drift, because we believe that's true.
+
+Starts with the buyer perspective, not the company perspective, not the sales rep perspective. And so it's a fundamentally different way to start to build marketing and sales software in our case, because we've inverted the thing and said like the world has changed because we believe this one thing is true, which is we've moved from fixed supply to infinite supply across every given category.
+
+And so like, everything has to be flipped upside down now. So 
+
+**Brett Berson:** \[00:22:38\] that kind of. Charlie Munger inversion version ideas. Like one of these unlocks for you in this area of storytelling would love to continue on and hear more about other unlocks in your journey to be a marketer and storyteller. 
+
+**David Cancel:** \[00:22:50\] Inversion was one tool which has nothing to do with storytelling, but then we started to study just the simple or the stuff that everyone knows in terms of storytelling.
+
+Mostly that comes from. Writing screenplays. And so there's the whole Joseph Campbell's the hero's journey because the idea of the different archetypes for different hero types and people wanting the hero journey. And so even when we started a podcast, my podcast called seeking wisdom, I was trying to figure out like, what are our characters?
+
+Like, who are we. Not that we are characters because it's so a hundred percent us, but like, what do we need to emphasize from a character standpoint? So people can identify with this character. And for me, my role in that podcast and myself and a co-host was his name, Dave. And he was a young kind of marketer and it was more of a kind of mentor mentee relationship.
+
+And so my character was that of the Sage, which is like, I'm the old man from the hill. Who's got a bunch of stories and trying to teach us young, new. Hero who's on the beginning path of his journey, all of these lessons that I've learned. And that was kind of the two archetypes that we kind of emphasized.
+
+It didn't mean that we were acting and doing any of those things, but we knew that we had to like follow kind of a story pattern for people to develop some sort of empathy or connection with us. And so that was an example of how we use. That whole hero's journey and hero archetype in creating a podcast.
+
+But we also do that in kind of like stories that we tell or copywriting that, right. We're always trying to figure out how hero path. 
+
+**Brett Berson:** \[00:24:23\] Are there any other frameworks or things that you've learned along the journey that I've had outside? 
+
+**David Cancel:** \[00:24:29\] I think it's pretty simple. I think those are the things that I think one of the things that we try to teach internally at drift was tend to stem more about how people make decisions and cognitive biases was too.
+
+We do this in an internal course, like I do, which is use an example that everyone's familiar with in this case. It's the Amazon product detail page. So everyone's used that page. It's the page, that same template that they use pretty much for every product that they sell. And we kind of like break it down and say, okay, what is this page work from a decision-making standpoint?
+
+And that really helps people understand, because if you were to look at it just from a visual standpoint or UI UX standpoint, your normal designer, if you asked them to redesign that page would remove every reason that that page works so well because to them, it would appear to be just a bunch of clutter, a bunch of colors and things competing for attention.
+
+But if you start to look at it from how people make decisions, you'll see like, okay, there is a whole group of people that primarily make decisions based on kind of their social. Bias on the Amazon detail page, you'll see obviously reviews and video uploads and photo uploads and all of this stuff that like hits you from a social standpoint and wanting to belong and wanting to be like others.
+
+And then other people may make decisions based on, there are people who want to make decisions immediately and they want everything right away. And you'll see things like that trigger that that are just like, Hey, we only have four more of these in stock, but then there's a reassurance that says, don't worry, we're getting more in.
+
+And then they'll say like, if you buy now, we'll ship it to you by tomorrow at 1:00 PM. And there's all these triggers over and over again for every single type that you see on that page. And of course, most people are a combination of these types of these things kind of work together. And again, to use another
+
+Mongers gave this speech one time that said, if you trigger more than one cognitive bias, then you get into this Lollapalooza effect. That's what you call it. And that's the ultimate thing where you're triggering someone on multiple biases at the same time. And that really changes how they make decisions.
+
+One 
+
+**Brett Berson:** \[00:26:37\] other question about sort of storytelling, who are the CEOs or companies that you've learned the most from and any specific things you've learned for me. One of the most obvious ones is Salesforce and Marc Benioff himself as just both was obviously technical in sort of the beginning of his career, but just one of the great storytellers of 
+
+**David Cancel:** \[00:26:57\] all time.
+
+It's hard to come up with a great number two, I think. Moscow Tesla does it in a very different way. And so like, it doesn't seem like they're storytelling kind of we've been there, but everything from the master plan, the way that he communicates, and he lets out pieces of a bigger narrative, little, little tiny pieces that kind of pull you along, even how they launch products or how their sequence on those products is really clear storytelling.
+
+It continues to pull you along in this clear narrative. That appears to be there that starts to like then fold back to the master plan and some of the other activities that they do, I'd say he's pretty up there, but the style is, could not be more opposite than bending off. I'd say Benioff is probably by far the best and one that we admire and that we look at for sure on what we do.
+
+And obviously that we're in the same world as Benioff, but then it starts to dwindle pretty quickly. And it's hard to come up with others who are great at storytelling. There are some that you see every once in a while on the consumer product side. And so like one that we've admired for a long time has then the founder of Patagonia.
+
+And so like the founder of Patagonia, Yvon Chouinard, and that story of how they found that company and the ECOS behind the car know all that kind of stuff had a big impact on us starting drift, or I found myself starting to drift. And so like, there is again, a very different form of storytelling, but it's clear that in that brand you are buying.
+
+A story more than anything else. Brian, great technical products with great characteristics, but like really you're buying a story. And I think obviously Nike does it in some ways so that it doesn't seem like there's one clear narrative from outside, but like there is this bigger Nike story that kind of shows up in different places.
+
+**Brett Berson:** \[00:28:47\] So in the case of Salesforce and Benioff, is there any specific thing that you learn from the way that they told that story 
+
+**David Cancel:** \[00:28:53\] training is the most important thing? I'd say like a couple of things I've learned from Benioff. One of them was this whole idea of annual themes, him working nonstop on annual theme, and then that annual theme.
+
+Being tested or road tested basically on a road show where he would start to test that message in smaller events. And then finally that message would be harden and ready for the world. By the time they unbelted at their annual conference, which is Dreamforce. So he had this very clear method of as an annual theme.
+
+There's a series of tests and iteration that are happening along the way in public. With the public with their customers and partners. And then finally getting into a point that it's refined enough for the big show, which in their case is Dreamforce. So I learned that whole kind of like pattern. Then I learned about how anyone who's read his book.
+
+Behind the cloud can see all of this, of how they would implement that tactically for everything from how are we going to get that message out to everyone on the team? How are they going to memorize this? Are they going to be tested on the message? All of those different tactics you can learn from reading that book, but like, it was really about how do you operationalize and test and harden a message and then use that in your 
+
+**Brett Berson:** \[00:30:11\] big reveal.
+
+Obviously Benioff is one of the folks that you take a lot of inspiration. Are there other CEOs just broadly that either you've become friendly with personally or you've read a lot about that influences your role as the CEO of drift. 
+
+**David Cancel:** \[00:30:27\] So many of them, I think one of them that really impacts me in the stuff that we do at drift has been Frank Slootman.
+
+Frank Slootman is the CEO of snowflake, which recently went public, but we got to know him through one of our investors back when he was at service now. And right before he had left that company and retired and then later gone to snowflake. And so I think from Slootman, swimming is amazing in a whole different way, because like Slootman is.
+
+100% Dutch, meaning to me, he's like, I'm a native new Yorker. And like the Dutch or Slootman could be more New York than any new Yorker. So like really. Breaks. Everything down to its simplest form is very direct in your face. In some ways he is like another version of Munger who idolized, they can break down the most complicated things.
+
+When you get lost in your head and you talk to them, they can break it down to the simplest terms and it all comes down to what are the incentives and how do we design the incentives so that humans will act in the best way. This is me generalizing. Neither of them have said that, but like, that's kind of like.
+
+What I find from them versus us, including myself getting lost on the tactics and the details. I'm like why and the emotions and all these things. It's very simple. It's like, what are the incentives? Why this incentives misaligned, how do we align incentives so that people do the right thing. And the right thing happens to benefit them as well.
+
+**Brett Berson:** \[00:31:51\] this has sort of been an active discussion in Silicon valley. As people are sort of unearthing stuff that he's written in the past, given that they had to be successful IPO in history. And I think if you look at it at a high level, a lot of people would say like, he's the kind of CEO that's, let's focus on the numbers.
+
+Let's get the job done. And that's the only thing that matters. And I think sort of reading about your style, you spend most of your time talking about the value of people and people and people. And do you think those are opposing forces and you have a different value system as CEOs are actually, a lot of people are reading Frank style and getting it wrong or misunderstood.
+
+**David Cancel:** \[00:32:28\] I love that question because I think a lot of what I talk about internally, basically, Get summed up to a question that's very much like this. And I think what everyone wants is they don't want a dichotomy. They want a binary choice. They want kids at this path or that path, especially within certain groups.
+
+Like they want it more than others. Obviously engineering products constantly. When I talk to them, they want answer a answer B and then my answer and the answer that keeps coming up more and more as every year goes by for me is just like, the answer is always, it depends. The answer is it depends. And sometimes like this is the right tool and sometimes that's the right tool.
+
+Sometimes the right approach is to really focus on, to take the approach that I try to spend a lot of time on it. Like it's all about the people. And sometimes you really need to focus on the numbers and how you drive and how do you send people and how do you do that? And like, I don't think either one of those is right or wrong and somewhere in between is the right answer.
+
+But the where in between that spectrum depends on the context and where you are as that. Company as a team, as a group, and you constantly have to unfortunately go between those two extremes and try to find the right answer for that moment. And I think that's why the whole people part is so fascinating to me because I didn't actually spend much time in the first half of my career thinking about that.
+
+But like, that's why I say it's 99% people. It's like 1% everything else. Because like, it's the people inside the building. It's people who you sell to it's the community, it's everything. But like the answer is never black and white. The answer is constantly changing every second, because the people are changing and the time is changing.
+
+So the context that we're operating in, the context that we're speaking on right now, October 9th of 2020 is very different than October 9th of 2019. So it's an entirely different context of it cannot be this clear. This is the only way that it works. And this is the answer. Unfortunately, life is not multiple choice.
+
+It's somewhere in 
+
+**Brett Berson:** \[00:34:26\] between. And so in these areas, do you think it's ultimately. Your judgment and instincts that drive, what is the right thing for the company? Or there's some more objective way to understand where you are on this pendulum or how these two things fit together? I think 
+
+**David Cancel:** \[00:34:43\] the way that I think, but it's that Frank's approach to, and again, these are my words, not his words, but like that really boil it down to what are the incentives.
+
+And if there's things that aren't working, people are not doing the things that you want is probably a misalignment of incentives. How do we fix those incentives? I think ultimately that's the most objective form and I think he's right, then there's the gray area of how do you treat people and how do you coach people and how do you invest in people?
+
+That's a whole different gray area, but I think really his answer brings the most clarity of like, The incentives are off. How do we align them? And then there's like, okay, now, how do you communicate that? And then how do you coach people around that? That's probably where I'm more on the other end of the spectrum, but like, I think his, to me is the most objective tool.
+
+**Brett Berson:** \[00:35:32\] Can you think of an example or share an example of when you recognized something was broken, the incentive was at the core of it, and then you change the incentive in some way. And it changed the outcome. 
+
+**David Cancel:** \[00:35:44\] The most obvious example I was talking about at our quarterly meeting two days ago for the company, which is, and it's an obvious one, which is we are moving more and more into the enterprise from a customer base standpoint.
+
+And the one thing that we've never fixed is kind of do we have. This idea of multi-year commissions, which we haven't, but yet in some ways we wanted to have multi-year relationships, but we don't have multi-year commissions. So like no one has incentive to actually sell a multi-year deal. They're actually incentive the other way.
+
+And so like that is painfully obvious. That's another one where you're just like, that's obvious. Everyone knows that in reality. We don't practice that because we know that on the surface, that's obvious, but we weren't doing it. And we were expecting entirely different outcome. We'll find out first analyzing the incentives and seeing like, why isn't this happening?
+
+So that's when we just fix recently and we're seeing the results of that almost the next day immediately. And it's painfully obvious, but most of the things that you're going to face in business are painfully obvious. They're not the most problems that we spend our time focused on, not these like wildly complicated problems, they're human problems because there's only humans that we're selling to.
+
+And there's only humans that are working. We are not bots selling to bots. There are humans in the system. And so like the incentives and coaching those people along and trying to get them to do the thing that you need them to do when you need to do it. Has a lot to do with being centers. Can you 
+
+**Brett Berson:** \[00:37:13\] think of a non sales example as CEOs?
+
+I think there's a whole lot of effort. You could go to a more traditional go to market motion around. Sales compensation plans, and you can change all sorts of different things. And I think when we think about incentives, it really stops at sales and go to market. And to your point, it's the most profound concept.
+
+So curious if you can share kind of a non sales example, 
+
+**David Cancel:** \[00:37:36\] one of them from my last company has come in called HubSpot before was that we had a traditional kind of hierarchy within the product engineering and design kind of parts of the business. And so, and that was as a head of engineering or VP of engineering.
+
+There's a head of product. And those two people work together to try to build the product and solve a technical issues. And what we saw was that. Each team, even though they were communicating incredibly well and working together and doing all the right things and had shared goals and shared accountability and did all these things, things weren't working as well as they could have because each team started to optimize for the things that they felt were more important.
+
+An obvious example would be engineering, refactoring, rebuilding. Building internal tools and et cetera, and the product team wanting to solve focused more and more on customer problems and issues that they were hearing from internal customers, as well as external customers, our true customers. And looking at that, we thought like, okay, like the reason it's happening is that they have two different, even though the goals are the same, like they are naturally insensitive in two different directions and they have to somehow agree.
+
+All the time, every single day in order for this thing to work perfectly. So what I did was a unified product to be one organization. I got rid of the idea of an engineering organization and the product organization and said, like, we only have this one thing called product. There are product teams and our engineers and product and signers on each of these teams.
+
+And we moved everyone to. Work for one single person. And that person set all the goals for the team. And so, like that seems like a simple one, but it was a big one to get everyone to focus on one thing. And then we started to put in guardrails within the system. So it was not only just this shared owner at the top, but now we put those into the system that said, okay, If we want everyone to do the right thing for the customer, like we're going to start to measure them on customer terms, including engineers.
+
+So engineers, every engineer had to spend a certain amount of time talking to customers. We were measured that by team, we measure a bunch of customer metrics that those were the metrics that the engineering teams were congratulated on. They weren't directly incentive from a comp standpoint, but they were incentive from a goal standpoint and recognition standpoint.
+
+Only on notes and all the other, the older kind of engineering metrics or things, they were incentive from kind of, we removed from the system like you no longer, no one care to celebrate it. If you built something or you ship something, or you did something from an engineering standpoint, if we could not tie that back to one of the customer guardrail metrics that you had to move as a team, 
+
+**Brett Berson:** \[00:40:18\] that's super interesting.
+
+I was talking to a CEO a while ago and they were mentioning that. They had these long standing issues between marketing and product. Where does marketing leave off and where does product pickup? And they just decided to put it all under one person and get rid of the role VP marketing, VP product, and all the problems went away.
+
+Obviously, combining everything into one role is not a solve for all problems, but it's not thought about a lot. It's pretty 
+
+**David Cancel:** \[00:40:42\] remarkable how fast problems fix themselves. In our last 
+
+**Brett Berson:** \[00:40:47\] bit of time together, I'd love to talk about rituals as a CEO that you do that. You found really valuable and they could be things that maybe other people don't do or things that just really work for you.
+
+So that could be the way that you run staff meetings, do annual planning, do skip levels. Communicate. You talked about a great one earlier, which I think is video and audio is the most under utilized format. As a CEO, not many people have internal podcasts, not many people use videos. And it's just an amazing way to sort of scale storytelling, which is what we were talking about earlier.
+
+But what are the different tools or things that you do if I were to be watching you as a CEO that you've personally found really valuable, 
+
+**David Cancel:** \[00:41:28\] the number one has been one that you mentioned, which is video, and that started a long time ago before. We had kind of a platform in a way to do that internally really started because I was using WhatsApp all the time and it was easy to record videos.
+
+That could be some pretty corporate. And so I started to communicate to my kind of senior leadership team, mostly asynchronously. And I was doing that through video and audio messages that I was sending in that app. And I noticed that. It allowed me one to really think through what I was saying versus just getting in a room with someone or just having a back and forth in text messaging or having a phone call and then really made me think about it first, before I recorded something.
+
+And then it created this artifact, obviously that then could be shared. And it was the sharing aspect of the artifact that really made it an effective tool for us. Like, because we could share that. And then all of a sudden we had old. Videos that we had on different topics that we then began to share with people that were beginning their journey at trip.
+
+They were beginning the onboarding process, and that then led to us kind of creating a platform and ultimately offering those a product as well, because we were using it so often internally. And I'd say one of the teams I use the executive team uses it time, but one of the teams that probably uses it the most is.
+
+The product and engineering team, they have videos about everything that they do. They create videos about new releases. They create videos about problems that they're working on. They video. Almost all of their meetings and share all those meetings afterwards. And so like that really embracing that asynchronous nature of communicating and having that artifact that we can keep and store and then share with other people over time, really helped with onboarding and getting everyone focused and understanding why we were making decisions and giving us an ability to be transparent in a way that we couldn't before.
+
+And so, like, that's been probably the biggest thing. That we do internally, is that real focus on asynchronous communication, mostly in the form of video, sometimes in the form of audio, but say 80, 20, 80% video, 20% audio it's been massive for us. And then that's led to an entire product line that we are from to people.
+
+And then that we use in our own marketing as well. 
+
+**Brett Berson:** \[00:43:53\] Anything else that you do rituals meetings throughout a week that you, or month or a year that is kind of part of your go-to playbook? I'd 
+
+**David Cancel:** \[00:44:02\] say embracing the idea of rituals, which is a word you use. And a word we find very important within drift is one of the best things that we've done.
+
+We have a set of rituals internally along lists of them, but like rituals, we found porn earliest super important. As for giving people this kind of comfort, that there is a place that things are going to be discussed, that there is a format to something that they can basically count on this thing. And happening at a specific time.
+
+And so like we have two weekly rituals, which is a Monday metrics meeting, which starts the week. And then this thing called show and tell which ends the week and show and tell is this thing that I created back at HubSpot only within the product and engineering teams, as a way for us as a product and engineering team to show our work.
+
+And show the rest of the organization, what we were working on and how is it affecting customers? Because product and engineering can be teams that are naturally opaque to the go-to-market teams within a company. And so we wanted to have a way to have this meeting where we could invite these people.
+
+Most of the company would show up. We'd make it a party and event. And so there'd be ice cream and this and that and fun and food. And we would show off all this stuff. At all of a sudden, I saw this thing happening because it was self-organized meeting by the product team where the product team started to almost compete within itself to have the best presentation, because then now they had an audience that was really interested in what they were doing.
+
+The go to market teams now. Felt that they were deeply connected with what the product team was doing. And then it led us to a place that all of a sudden that those people were not screaming for roadmaps and accountability, because they always felt like they were in sync with the rest of the team. And so we took that.
+
+Old ritual and brought it to drift and we made it across the entire organization. And so this happens every Friday, three o'clock it's the end of the week for us, we leave after that, meeting's over probably runs 45 minutes self-organized but instead of product it's, every team showing their work for that week is a different person that gets chosen from each team to present.
+
+It's a real competition. There's awards, there's all this stuff. That's like the most fun events. Ever, and it's kind of the thing that people talk about the most internally in terms of nursing, but it is our most effective kind of communication channel. And none of the executives speak at it. We have a question to answer at the end of it, which executives get asked questions.
+
+And I'm usually always in part of that, but like the team is actually running this, the team is evolving this team, this thing team continues to make it better. And it's a pretty special ritual for us. And one that's become part of the company. And so like, Most of our communication happens in between that meeting and that Monday metrics meeting that I mentioned, which is just a 30 minute max, more like 20 minutes of what are the metrics that from last week and what do we need to focus on from each functional area for the coming week?
+
+And those are all company 
+
+**Brett Berson:** \[00:46:57\] meetings to wrap up. I'd love you to share. Just things that you've read that you'd recommend other CEOs read, maybe some non-obvious stuff, 
+
+**David Cancel:** \[00:47:10\] a crazy amount of stuff. I'd say one book that I've been reading a lot recently. So this one's top of mine is wherever you go. There you are.
+
+And it's a book on mindful meditations kind of by John Kabat-Zinn. And so I think this is a really. Important book for people to read and one that you can pick up and read any chapter randomly. And it's a very small and easy to read book. But I think it's important for leaders to read because one of the things that I've been focused on the most in recent history is that this idea that it's not the time that you're doing stuff, but it is the time in between the doing where you actually have the breakthroughs you don't have.
+
+The breakthrough is while you're actively doing something. It's important that you do the action that you default to action, that you do the things, but the real breakthroughs happen when you give yourself time in between those things to actually. Think process and let these things kind of synthesize and come together.
+
+And so that's a book. I recommend an activity that I do a lot that helps me is just walking with no phone. No audio book, no podcasts, no anything just walking. And that's when for me, and everyone's different that ideas start to really synthesize and come together. And that's where the breakthroughs happen.
+
+The breakthroughs don't happen sitting behind a desk behind a laptop and just going all the time, which is a big personal change for me because I defaulted to work more, work more, work more, and try to push through things. I'd say the only other book to read, because I can go on forever on books is a book by one of my coaches.
+
+His name is Brad Stolberg and he comes from the sports psychology world. And he's written a book called the passion paradox. And it's a book on which everyone listening to this will struggle with, um, basically finding that elusive. Balance. And he talks about the benefits of kind of an unbalanced life.
+
+And so it's a book that I recommend everyone pick up again, super quick read and you read through a lot of stuff online. And a lot of the things that I read or listened to come out of the sports psychology world. So it's a pretty interesting area for people to. Focus on, because it's exactly what we're trying to do.
+
+It's kind of high performance people. What is the psychology behind them? How do you insent them? How do you coach? And that's an area that I spend more time in than reading business books, 
+
+**Brett Berson:** \[00:49:27\] sort of the big idea of that book or sort of the trailer for folks that are considering reading it. 
+
+**David Cancel:** \[00:49:33\] Basically the summary is that there is no such thing as living this balanced life and that the stroke that most of us want to live this kind of false, perfectly balanced, even life.
+
+And there isn't an basically that, and the way that I say it is that the only natural shape is. The shape of ebbing and flowing and things are going to go in and out and in and out, the sun is gonna rise. The sun is going to set. The tide comes in, the tide goes out. And so like, there are times when you're going to be wildly out of balance and that's okay in a specific area, as long as you come back and become wildly out of balance in the other areas.
+
+And the obvious is personal professional family and work and all those kinds of things. And so he talks about that and kind of walks through this kind of. Idea of how do you deal with that? And how do you feed come self-aware and know that you have a choice and that you can balance those 
+
+**Brett Berson:** \[00:50:21\] things. Well, thanks for spending this time with us.
+
+Really appreciate it. Oh, 
+
+**David Cancel:** \[00:50:25\] no problem. Thanks for having me.

@@ -1,0 +1,110 @@
+# Your Product Sells Itself. Now Hire Sales.
+
+[https://openviewpartners.com/wp-content/uploads/2020/02/Your-Product-Sells-Itself.-Now-Hire-Sales..mp3](https://openviewpartners.com/wp-content/uploads/2020/02/Your-Product-Sells-Itself.-Now-Hire-Sales..mp3)
+
+_Would you rather listen than read? Let Kyle serenade you by clicking on the audio file above._
+
+From its bootstrapped founding in 2002 all the way to a $5 billion valuation in 2016, Atlassian famously had [no sales people](https://www.bloomberg.com/news/articles/2016-05-18/this-5-billion-software-company-has-no-sales-staff). ‘No sales’ became nearly as synonymous with Atlassian as ‘no software’ was with Salesforce. The software company’s stated strategy was to offer great products paired with low pricing and self-service purchasing, a [Product Led Growth (PLG)](https://openviewpartners.com/blog/what-is-product-led-growth/) recipe that fueled the company’s sustained profitable growth.
+
+I’ll let you in on a dirty secret. Atlassian now has a sales team. They employ more than 150 people in sales and another 120 people in business development according to data from LinkedIn. Sales now accounts for about 7% of the company’s headcount–a similar share of their workforce as marketing or product management.
+
+![](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+You may have noticed that Atlassian has changed the way they talk about their go-to-market motion, too. In a 2019 [podcast interview](https://www.intercom.com/blog/podcasts/scale-how-atlassian-built-a-20-billion-dollar-company-with-no-sales-team/), President Jay Simons emphasized that Atlassian has a low touch sales model. Low touch does not mean no touch. The company proactively layers in sales (Atlassian calls them ‘enterprise advocates’) depending on a prospect’s level of complexity or their potential value to Atlassian. Here’s how Simons describes the low touch approach:
+
+> “If you’re a large enterprise customer that has more complexity, or potentially more value to us, we have a team that can help steer you in the right direction and answer a more complicated set of questions that you have. We call them enterprise advocates and it’s something that we began to grow about four years ago, with a focus on really complex large customers.”
+
+This is a good thing. I’d even argue that the company is still under-resourced in sales; sales accounts for only 7% of Atlassian’s headcount compared to 25% of headcount at the average PLG business. When implemented correctly, a sales team increases a business’ natural rate of growth, or how fast they grow organically before layering in incremental sales or paid marketing. Sales teams drive growth by catalyzing faster expansion within existing customers, improving free to paid conversion, increasing deal sizes and offering a better customer experience for prospects who need more help.
+
+## Public PLG Businesses Are Doubling Down on Sales
+
+Atlassian is by no means alone in betting on sales reps to accelerate their natural rate of growth. Among the PLG businesses that have gone public since 2017, sales headcount grew by an average of 45% year-on-year compared to a 33% increase in non-sales headcount. This dataset includes 15 public PLG companies that all have a self-service element of their business including Zoom, Slack, Dropbox and SurveyMonkey. The data was collected in December 2019 using employee information from LinkedIn (click the photo to enlarge).
+
+[![](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)](https://openviewpartners.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-07-at-4.41.41-PM.png)
+
+Ten of the fifteen companies hired in sales faster than they hired in the rest of the business. Let’s look at a few specific examples.
+
+![](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+*   *   *   Slack increased their sales headcount by 66%, presumably to support their continued push into the enterprise and larger deals. The rest of their headcount only grew by 31%.
+        *   DocuSign increased their sales team by 41% year-on-year versus 21% for other functions. Sales represents more than half of their net new employees.
+        *   SurveyMonkey, one of the first PLG companies, similarly scaled their sales org by 43% year-on-year compared to only 16% for other functions. Sales represents one-third of their net new headcount.
+
+It’s worth underscoring that many of these businesses waited until their self-service, product-led motions were humming before they scaled their sales org. Take Slack for instance. As recently as 2016, CEO Stewart Butterfield emphasized that Slack intended to keep relying on organic and viral growth rather than a large sales force. Back then he told [_Business Insider_](https://www.businessinsider.com/slack-ceo-stewart-butterfield-no-salespeople-2016-3), “I think we can get away without having a sales team in any kind of traditional way probably forever.”
+
+The best PLG businesses [solve end user pain](https://openviewpartners.com/blog/what-is-product-led-growth/), distribute where those users live, make it easy to get started, deliver value before the paywall and then hire sales last. But they do hire sales! This sort of discipline leads to a top-notch product experience and unparalleled time to value, which is the healthiest foundation to layer on more concentrated sales and marketing investments. In Slack’s Q2 FY2020 earnings call, Butterfield described the company’s current go-to-market approach as always starting with the end user, which allows Slack to go ‘bottoms-up’ and ultimately win million dollar Enterprise deals. Here’s what he [said](https://seekingalpha.com/article/4289748-slack-technologies-inc-work-ceo-daniel-butterfield-on-q2-2020-results-earnings-call?part=single) on the call:
+
+> “In every case, our sales team had the advantage of a lot of very happy end users. Our history of strong bottoms-up adoption is a vital factor in our success. We only win if people choose Slack, and they choose Slack if it provides real value to them. There is no other path.”
+
+It even turns out that one element of user pain is not having someone to help them do things like fill out security questionnaires, navigate purchasing processes and work through legal requirements for things like GDPR. Contract size used to dictate when procurement got involved. Now even free tools may go through the same level of scrutiny if important data is involved. Sales can actually enhance the user’s experience by helping guide them through the buying process rather than forcing them to go it alone.
+
+## How to Add a Sales Motion to a Self-Service Business
+
+There are very real risks in bringing sales into a self-service business. An overly aggressive sales team could turn off prospects who just want to use the product and be left alone. Sales could push the product roadmap towards larger customers with deeper pockets, which could lead to a more complicated and harder to use product. And, let’s be honest, sales is expensive and can drive CAC up significantly. In many companies, it can start to feel like you’re building two different companies at the same time.
+
+So what _should_ sales look like? Here are four principles that should guide your design process:
+
+1.  Start with the customer journey
+2.  Validate that sales improves on natural growth
+3.  Define the right plays leveraging what you already know
+4.  Be thoughtful about sales compensation and operations
+
+### 1\. Start with the customer journey
+
+When you’re spending money on proactive sales outreach, it’s important to make sure your team engages with the _right person_ at the _right time_ in their product journey. Ask yourself, what customers need more help? It likely comes down to no more than three vectors: the size of the organization, the complexity of their existing systems or their level of product sophistication.
+
+One useful technique is an in-depth look at your funnel and account data. Are you having trouble converting accounts above 200 employees? 500 employees? Do you find that your large enterprise customers only spend a few hundred dollars per month, but could be spending $10,000+ per month? Remember there may also be account types that should never get any proactive sales resources, for example because the opportunity size can’t generate a positive ROI or you don’t have product-market fit in that segment.
+
+Another technique is to conduct a 360 degree retrospective with customers who had the biggest in-account growth (we call this a ‘patient zero’ analysis thanks to Brent Chudoba). You should be able to answer the following questions:
+
+*   *   *   Who was your first user inside of that account (your ‘patient zero’)?
+        *   Who was user two, three, four, five and so on?
+        *   How did patient zero evangelize the product to others inside their organization?
+        *   When were there inflection points in the account’s spend and what catalyzed it?
+        *   What touchpoints did your team have with this account that helped them expand?
+        *   What new features is the account using and what incremental value do they receive now that they’ve expanded?
+
+Answering these questions will help you identify which accounts are the most ripe for expansion and what sales plays can accelerate expansion that otherwise might’ve happened organically over the course of months or years.
+
+### 2\. Validate that sales improves on natural growth
+
+If your product already sells itself, do you really need sales? There’s plenty of evidence that the answer is ‘yes’ (for example, the [Redpoint Free Trial Survey](https://tomtunguz.com/top-10-learnings-from-the-redpoint-free-trial-survey/) found that sales people increase free to paid conversion by 3.5x). You can put this question to bed by proving that there’s an ROI within your own funnel. I recommend doing this for both new customer acquisitions and for existing customers.
+
+On the new acquisition side, start with A/B testing. You should look to see whether sales engagement either increases free to paid conversion, shortens time to close or improves average deal size for particular segments of sign-ups. If you’re fortunate enough to have a large base of new sign-ups, start with those with the highest potential spend and work your way down. You can also add ‘contact sales’ forms to allow your website visitors to self-select into a sales assisted journey rather than a purely self-service one. In those forms it’s helpful to collect qualifying information like the prospect’s use case and what they want help with.
+
+This can be more challenging to measure for existing customers. Did sales really catalyze expansion or just pull forward expansion that would’ve happened on its own? I recommend doing predictive revenue modeling based on historical expansion and churn patterns within different customer segments. You’ll want to see the short and long-term return on sales investment and whether there’s an improvement in customer lifetime value across cohorts.
+
+### 3\. Define the right plays leveraging what you already know
+
+You need to equip your sales team with a playbook on how to engage with users to drum up demand. These plays will generally fit into two buckets: plays for hand-raisers and plays sales-generated leads.
+
+Your hand-raisers are those who ask for help. Maybe they’ve filled out a form, asked a question using in-app chat, requested to use a high value feature or sent you an email. In these instances, you’ll want your sales reps to act more like customer success. Think of their role as a sherpa who works hand-in-hand with the customer to resolve blockers to adoption and ultimately navigate to the summit. They need to have a strong grasp on the product, customer use cases and the distinct needs of different audiences. These team members should be motivated by understanding the product in a deep and meaningful way – not just by crushing their quota.
+
+Your sales-generated pipeline, on the other hand, comes from proactive campaigns aimed at existing free and paid users. Here are a few to consider:
+
+*   *   *   **Offering help:** When a potential high value account signs up, sales can offer to help them get set up correctly and make full use of the product. This could entail anything from adopting a complicated integration all the way to guiding the account through a proof of concept for a broader company-wide rollout.
+        *   **Empowering power users:** Your power users love your product and have strong loyalty to the brand. They’ll often take meetings to learn how to make better use of the product. You can equip them with tools, resources, ROI calculators, etc. to build a business case for broader adoption of the product. If you have multiple users within the same account, look at who has the most breadth and depth of product usage rather than the user with the most senior job title.
+        *   **Going top-down:** Initiate sales efforts (email, calling, InMail, account-based marketing and the like) towards C-suite executives and/or business unit leaders at high value accounts that are already using your product. The pitch should be tailored to the executive pain point that you solve. Ideally, you would lead with personalized insights based on the usage behavior of existing users from that account.
+        *   **Dangling an incentive:** How can you equip sales to deliver more value than the user could get via self-service? The specific incentive doesn’t need to be complicated. You can start by allowing sales to extend a user’s free trial for another 14 or 30 days.
+
+These plays should all take place at the right time in an account’s usage. I recommend leveraging a Product Qualified Lead (PQL) methodology. PQLs are users who have shown behavior in the product that indicate buying intent. This could include things like whether they’ve used certain high value features, the number of users they’ve invited to the product, usage growth month-over-month and more. (For more advice on putting PQLs into practice, check out Sam Richard’s [post](https://openviewpartners.com/blog/putting-pqls-into-practice-at-your-organization/) on the subject).
+
+Yammer Founder and CEO David Sacks described a similar playbook for layering sales on top of their freemium, self-service product in a [recent post](https://medium.com/craft-ventures/freemium-vs-free-trial-which-is-better-for-saas-startups-97b9ac737597) saying:
+
+> “The product urged employees to invite their coworkers. Once the network hit critical mass, our sales team would reach out. We built a dashboard for the sales team called Mission Control, which surfaced active networks. Sales reps couldn’t see the content but they could see which users were frequent contributors (our likely champions at the company) as well as VPs and C-level execs (our likely buyers), making it easy to prospect into the company.”
+
+### 4\. Be thoughtful about sales compensation and operations
+
+You’ll inevitably run into gray areas between the self-service and sales assisted funnels. The hairiest issues will likely be around sales compensation and business operations. For example, if a sales rep has activity on an account that eventually purchases via self-service, should they get compensated on it? If so, does that drive sales towards ‘false activity’ – emailing as many accounts as possible? Another conundrum is how to handle compensation around the expansion that might happen after a sale, a phenomenon that’s extremely common in land-and-expand businesses. If you don’t compensate for the tail, will reps slow down the deal to try to make the ‘land’ as large as possible? And what about contraction?
+
+When you’re just starting to layer on sales to an existing PLG motion, you may want to consider ditching commission-based sales compensation at least in the short term and instead pay sales the same way as engineers or PMs. That’s the approach taken by balena.io, as described by [CEO Alex Marinos](https://openviewpartners.com/blog/systems-engineering-for-platforms-organizations-podcast/) on the BUILD podcast. It allows you to experiment quickly with the sales process and optimize the funnel without the ‘gaming’ or ‘jockeying’ behavior that might take place with a commission-based incentive. It also helps you hone which customers you want your team to spend time on and cut loose prospects who aren’t a good fit. Finally, it can be a catalyst for connecting your sales and product teams to better collaborate around the customer experience.
+
+On the business operations side, some of the challenges might seem basic at first. For example, what counts as a ‘lead’ versus a ‘contact’ in terms of sales and marketing activity? How do you define the appropriate sales stages when the account is already using your product?
+
+The operational challenges will certainly evolve over time as your process matures. As a starting point, over-invest early on in revenue operations and consider having dedicated resources between the two funnels. This function will help you set up the infrastructure that will allow you to test, iterate and move quickly.
+
+## What Comes Next?
+
+You have a healthy self-service business that continues to grow on its own. You’ve added a repeatable sales process to accelerate growth. Now you have to close the loop: embrace the unique benefits of a sales team to improve on your existing process.
+
+Self-service doesn’t bring you a close or personal relationship with your customers. Sales does. Look for ways to bring sales’ insights back into the product and into your marketing. Try sitting your first sales team directly next to your PMs and engineers – it’ll help sales better understand the product and how it gets built and it’ll help the product team see their customer impact. The best PLG companies empower their sales teams to improve the product so that it does an even better job of selling itself. So go hire sales!

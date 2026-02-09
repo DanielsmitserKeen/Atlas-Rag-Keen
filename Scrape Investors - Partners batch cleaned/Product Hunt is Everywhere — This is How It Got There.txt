@@ -1,0 +1,130 @@
+# Product Hunt is Everywhere — This is How It Got There
+
+In early 2013, [Product Hunt](http://www.producthunt.com/?ref=review.firstround.com) didn’t exist. Its founder, [Ryan Hoover](http://ryanhoover.me/?ref=review.firstround.com), was the Director of Product at gaming company PlayHaven and an active blogger, attracting a loyal but modest following. He couldn’t have anticipated what was to come. Kicked off in November 2013, Product Hunt has seen rapid hockey-stick growth. It’s become a known quantity in the media and among influencers. And the company [announced that it's part of Y Combinator’s current class of startup starlets](http://techcrunch.com/2014/07/17/product-hunt-the-popular-tech-product-discovery-site-is-in-current-y-combinator-batch/?ref=review.firstround.com). Suddenly, Hoover has found himself a tastemaker with a very high-powered audience.
+
+Product Hunt is now _the_ place to discover the“next big things” in tech. Every day, it curates a list of the top products and startups that people haven’t heard of yet and lets a widening yet select group of members upvote, comment and discuss. The result is a daily top 10 list of what people should be paying attention to across the industry. Founders are using it as a launch pad, investors as a hunting ground, and many others just to stay in the know.
+
+Product Hunt may have started as an experimental side project, but in many ways its rise was keenly manufactured. In this exclusive interview, Hoover shares the tactics startups can use to capture attention early and build on it for success.
+
+**Articulate a clear gap in the market.**
+
+The idea for Product Hunt surfaced when Hoover realized how much time he was spending talking about new tech products and gadgets with friends. A lot of people would ask him what he thought of new things on [TechCrunch](http://techcrunch.com/?ref=review.firstround.com), [Hacker News](https://news.ycombinator.com/?ref=review.firstround.com), [Reddit](http://www.reddit.com/?ref=review.firstround.com) and [Twitter](https://twitter.com/?ref=review.firstround.com). There seemed to be many places to go to find this type of information — too many places. “What there wasn’t was one platform-agnostic destination for all of it,” he says.
+
+He started thinking through prospective competitors for this type of platform. "I looked at things like [Kickstarter](https://www.kickstarter.com/?ref=review.firstround.com), but that site was limited to products running crowdfunding campaigns, and others had other limitations. I wanted some sort of curation — a way to find all of the cool new things that the startup community would find interesting. There was no one place for these types of conversations."
+
+Initially, Product Hunt was shaped by what it wasn’t. It wasn’t part of a broader tech community. It wasn’t too technical. It wasn’t too consumer. It wasn’t overrun by commentary or fragmented across multiple sites. It was one, clear, simple list that would allow people to skim through or dig deeper as they wished. It was a niche that many might have overlooked. But Hoover was able to explain why this niche was compelling for busy people who wanted to get all the information they needed in one place.
+
+**Start with email.**
+
+With this explanation in hand, Hoover set out to test whether others would embrace this type of resource. He chose email to run this test, partially because it was easy to execute (thanks to link-sharing tool Linkydink), but also because it had the potential to snowball fast.
+
+“I created this collaborative list called Product Hunt and invited maybe a couple dozen people I knew to join,” says Hoover. “They worked at startups, or were just people I knew. I didn’t market it heavily, but people seemed to like it right away. Soon, I had a couple hundred subscribers and people started coming up to me to talk about how much they enjoyed getting the email every day. That’s when I thought, okay, maybe there’s something more here.”
+
+Email gave Hoover’s initial followers the ability to forward Product Hunt messages on to other potential subscribers, and create a network through the most resonant form of communication. People pay much closer attention to their inboxes (especially when emails come from people they know) than to social media or other marketing efforts, no matter how well designed. A [recent McKinsey study declared emails to be 40 times more effective at customer acquisition](http://www.mckinsey.com/insights/marketing_sales/why_marketers_should_keep_sending_you_emails?ref=review.firstround.com) than Facebook and Twitter combined. So, if you’re gauging interest in what your startup has to offer, email gives you the chance to watch organic growth, experiment easily with small tweaks, and build an audience from scratch.
+
+“Even though the email was super basic, it gave me validation that people cared about this content,” says Hoover. And when he eventually decided to build the site, the email list became the most important asset and springboard for driving traffic and keeping people coming back again and again. It’s continued to swell as Product Hunt has gained momentum, a constant source of new fans and marketing opportunities.
+
+Today, the email list tops 43,000 subscribers. “This may not sound like very much, but we think of it as being very dense, because the people we’re reaching are founders, entrepreneurs, VCs — every time an email goes out it has an impact because this ecosystem is so influential.”
+
+**Here's an example excerpt:**
+
+![](https://assets.proof.pub/2056/firstround/3VCUKarnTqi7egg4vn26_PH%203.png)
+
+**Give people a new habit.**
+
+When the Product Hunt site launched earlier this year, one of the smartest decisions Hoover and his co-creators made was to “day part” the listing of products. Every day starts fresh with new product submissions, votes and comments. Past days can be viewed —conflated to the top 10 items with the most votes —as infinite-scrolling time capsules of products. You can see what people loved last week, three months ago, etc. But to see what people love today, you have to come back to the site.
+
+“Segmenting the service by day has been critical — we’re building this daily ritual for people,” says Hoover. “By time bounding what we’re doing, we frame Product Hunt as something that people set time aside to do each day.” This is the pattern of usage he’s observed as the site has gained more visitors. Just like people return to a favorite blog or people they follow on Twitter, they see what’s up on Product Hunt — a mentality Hoover and the team were able to establish fresh out of the gate.
+
+“It helps that you can also scan through previous days without feeling overwhelmed,” says Hoover. “You can leave with this sense of completion — that you came, you saw, you know everything you need to know, and can leave. With other feeds, the content seems to go on forever and you can get exhausted or you feel like you’ll never get to the end, so you never even begin.”
+
+Email has also been instrumental in reinforcing the Product Hunt habit. Subscribers receive a daily email summarizing the top products from the previous day and sharing any other relevant information about the site. For example, Hoover has been able to launch a podcast series drawing big names like Reddit’s Alexis Ohanian, Kevin Rose, and Robert Scoble — and has effectively driven eyes and ears to it using email.
+
+> “One mistake product builders make is they're too scared to bug their users.”
+
+“They don’t send emails. They don’t send push notifications,” Hoover says of many founders and makers. “At the end of the day, if users like your product, they will want to be reminded about it. That’s how we get people who have maybe just visited once or twice to make it a ritual. We prompted them. Email is the best way to get people to reengage.” So far so good, the Product Hunt team has been seeing open and clickthrough rates that roundly beat industry averages.
+
+What makes this daily email so sticky? **Hoover has two theories:**
+
+*   **Consistency:** The email goes out at the same time every day (7:30 a.m. PT) and will always contain the same section of information: the top five products from the previous day. “People know what they are going to get — we’ve created an expectation that they can look forward to. It becomes part of their morning routine. If it went out at a different time or on unexpected days, I don’t think it would be as habit forming.”
+*   **One new thing:** At the top of every email, Product Hunt includes a brief, original editorial section that may promote a new podcast, link to a collection of products in a particular category, or make an announcement (like its inclusion in YC). “It’s intended to be different and unexpected, and I think that’s one of the main reasons people open it up, especially our hardcore fans who don’t care very much about the top five. They still want to know what is new, and that drives action.”
+
+> “Add just a little serendipity where it's not expected.”
+
+**Don’t distract from your primary goal.**
+
+Something that is very unique to Product Hunt is that it doesn’t give users a bunch of options to share content on their social channels. You have the option to tweet a new product, and that’s pretty much it — and even that is fundamental to the site because users log in using their Twitter identities. Choices are limited. As a visitor, you can click through to see products, and if logged in, you can upvote or comment.
+
+“This is really intentional because we want to keep people focused on the content they’ve come to see,” says Hoover. “**Our core metric that we use to tell if we’re doing a good job is how many people are actually clicking through and visiting product pages**. That’s how we know people are continuing to find value in what we’re doing and everything follows after that — traffic, engagement, etc.”
+
+It comes back to the question of what makes something sharable. In most cases, people want to share or “hunt” a product on the site in order to look smart, savvy, connected. They want to comment to build intellectual credibility and a point of view among other influencers.
+
+“It’s in our best interest to make it easier for people to both share and then feel rewarded for sharing,” says Hoover. “We don’t want to get in the way of this with a bunch of other features, and we don’t want to sacrifice the content itself by giving people too many chances to click away or do something else.”
+
+If anything, Product Hunt plans to leverage its one social integration to drive harder toward its goal of getting eyeballs on products. “One example could be that if you’re following someone on Twitter you could be notified when that person comments on a product or posts a product. It capitalizes on the existing respect you have for the people you follow, and makes products we show you through email or elsewhere even more relevant to you.”
+
+**Incentivize your influencers.**
+
+One of the reasons Product Hunt has taken off is that so many of its users have communities that listen to them. In particular, Hoover has found it especially valuable to involve the makers or founders behind the products on the site in dialogue. Users love to hear the rationale behind different features, and relish the opportunity to discuss things with them directly. It’s a rare opportunity.
+
+It’s a similarly rare opportunity for founders, who can use Product Hunt to listen in on what people are saying about what they’ve built, what they could do differently, and how they can acquire more users. Promoting and showcasing this ability has helped Hoover attract and motivate even more influencers to talk about Product Hunt and share it with their followers. Recently, the site added a small green “M” badge next to product listings to indicate that the maker has engaged in the comments (it appears next to their names too). You can see how popular this has become:
+
+![](https://assets.proof.pub/2056/firstround/ddlb2ZBLRhG99Ohzfv46_PH%203.png)
+
+“Early on, I spent a lot of time doing manual outreach, through email, on Twitter, making it personal,” says Hoover. “Giving early adopters a good experience was always a high priority. Even now that things have grown, I’ve tried to keep that tone like I’m emailing a friend about something new and exciting that I legitimately think they should check out. In only very rare circumstances have I personally sent mass emails about Product Hunt.”
+
+He supplemented this communication by constantly monitoring comment threads on the site, chiming in with thoughtful responses to individuals, congratulating them on helpful insights, and encouraging them to stay involved in conversations. This consumed hours of his time, but has made a big difference.
+
+“I would purposely pull in people who would be relevant to particular products. Like if a product focused on connecting people based on expertise, I would comment and tag a few other people who I knew were working on or worked on similar projects asking them to weigh in. This would make the conversation more useful and livelier for everyone.”
+
+> “You want to make people not only feel special, but like they are a part of your success.”
+
+To get the site’s influencers even more embedded in Product Hunt, he has given them opportunities to literally shape the look, feel and functionality of the site. Using [Invision](http://www.invisionapp.com/?ref=review.firstround.com) to share mockups for both the web and iOS app versions of Product Hunt, he asked his most influential followers to provide their input on everything from the tagline to page structure to navigation.
+
+“We did this from the very beginning by sharing mockups through email, even before the product was built, and just collecting feedback on a one-off basis,” Hoover says. “It was clear that the people who did provide feedback really did feel more invested in us. People really liked feeling like they had a say in this thing, and we truly listened, changing the design based on their feedback.”
+
+Critical to the success of this strategy was actually delivering something based on user feedback in a timely manner. Hoover worked with his friend [Nathan Bashaw](https://twitter.com/nbashaw?ref=review.firstround.com) to build the first site over a four-day weekend. And even though it was somewhat buggy to start, the influencers who had spent time giving their opinions had the ability to play with something right away. According to Hoover, this cemented many people’s loyalty to the site.
+
+> “Knowing who people are in the community and what they are working on goes a long way.”
+
+The third component of incentivizing influencers actually takes place offline. Since early this year, the Product Hunt creators have been hosting brunches, happy hours and other events, inviting smaller groups of people who have been participating in the site and are involved in other communities. “We’ve done public events where anyone can come, and then a few private ones,” Hoover says. “We had a brunch in New York recently with 25 long-time product hunters.”
+
+People attend these events knowing ahead of time that they are likely to meet other people who could be valuable networking contacts. They provide another touchpoint for people who have already been submitting products and commenting to really get to know one another and maybe help each other professionally in other ways.
+
+> “You love a product or a community even more if you feel like you've built a real relationship.”
+
+The more people with large networks who love the product, the more people they will bring into the fold, and the faster Product Hunt will grow. Hoover has already seen this ripple effect take place, and hopes to maximize it even more by hosting hackathons and making it easier for like-minded influencers to find and connect with one another.
+
+Recently, he doled out invites to some of the more engaged members of the Product Hunt community that would grant people commenting and voting privileges. The way the invites worked required these individuals to tweet to their invitees. Given their larger than average followings, they not only invited people, but intrigued many more about Product Hunt and potentially becoming a member.
+
+**Limit access and gradually expand.**
+
+Since the site launched, only a certain number of people have been able to exercise all of its functionality — and many were handpicked by Hoover. This has cultivated a sense of exclusivity that incentivized influencers to be even more excited about joining the site. But this wasn’t the only reasoning.
+
+“Limiting the number of people who could submit products was critical for us so that the site wouldn’t be slammed with hundreds of random submissions — it would be a bad user experience for everyone,” says Hoover. “We needed to make sure we didn’t leave the door open to a bunch of self promoters or marketers posting things for the wrong reasons. By keeping the size manageable, we could moderate better and it gave us more time to learn how things were working and what people expected from us.”
+
+It’s been said that it’s important for startups to explore ideas that aren’t scalable. Product Hunt is proof that it’s sometimes beneficial to restrict scaling entirely. It can give you a chance to put more things about your site, product or experience in stone. It can give you a sandbox where it’s safer to play before opening things up to a broader audience. And, perhaps most importantly, it can elevate the quality of content at the very start so that you can make a great first impression on everyone who visits the site.
+
+Hoover knows that they will inevitably need to grow to accommodate new users. When this happens, he expects to implement some of the more sophisticated tactics used by Hacker News and Reddit to make sure the best content bubbles up to the top. “We fully expect to put measures in place to prevent spamming and use ranking algorithms to manage curation."
+
+> “When we open up the flood gates, we want to make sure we're ready for it.”
+
+“Most startups have their culture to consider — not just internally, but also their culture of users. If we were to open up Product Hunt to 50,000 new people overnight, the culture would shift dramatically. Even if it wasn’t a bad culture, just a different one, there would be a clash. We want to be more protective of the good vibe we have right now.”
+
+More people on the site would also demand that more products get posted, and this wouldn’t necessarily be a good thing. “You have to think — what is the main object of interaction on my site? In our case, it’s the individual products and everything revolves around them. If there aren’t enough products to discuss, then our community will fizzle. You have to make sure that you have a balance between your audience and content. Right now we do, and we want it to keep growing that way with just the right amount of momentum.”
+
+Part of this momentum is also making sure that people have positive experiences on the platform. One reason so many founders and makers are willing to participate is because they know they will find a respectful, high-caliber community on Product Hunt. “Many people’s first experience with Product Hunt is seeing their own product on the site, and it’s been a very good first-time user experience for them,” says Hoover. “Not only is it free exposure, but they get a lot of attention, sometimes thousands of visits as a result. Founders have blogged about this experience and raved about it. They instantly become part of the community, and they have empathy for other founders whose products show up. It’s kind of a virtuous circle.”
+
+Limiting the size of the community around your service or product can sound counterintuitive, but it does come with a lot of pluses. Once you’ve attracted the right people who can get you even more users, you want to make sure they have positive experiences — and the best way to do that is often to be more intentional and involved in shaping interactions.
+
+**Don’t wait on your product before building an audience.**
+
+“It’s so important to build an audience before you have a product or even a company,” says Hoover. “One of the hardest things about building something like this is getting attention.”
+
+> “Even if you have a great product, if you don't have an audience, it doesn't matter.”
+
+“A lot of people say they want to found a startup, but they don’t know what they want to do. You absolutely can’t force it. But, if you know this, you can be thoughtful about building a community while you’re waiting for the right idea or the right moment.”
+
+In Hoover’s case, he ran his blog for nearly two years before Product Hunt burst onto the scene. He wrote about a range of topics relevant to those working for startups in areas like product design, marketing, and product management. He also helpedNir Eyalwrite his book,Hooked: How to Build Habit-Forming Products. The fanbase he built around this blog helped him seed the initial group that got access to Product Hunt, and it made a huge impact at the very beginning.
+
+“People say they don’t know how to build an audience, but it boils down to providing some sort of value to people. What advice can you give? What do you know that most people don’t? If you start putting that out there, you can build a reputation and connections that will help you with a launch down the line — people will care about what you have to say,” Hoover says. “If I hadn’t been blogging and active on Twitter, I think it would have taken way longer for Product Hunt to become what it is right now. So my advice is to start early. If you want people to listen to you eventually, you have to build trust over time.”

@@ -1,0 +1,854 @@
+# Ramp and the AI Opportunity
+
+_Welcome to the **93 newly Not Boring people** who have joined us since Thursday! If you haven’t subscribed, join **226,688** smart, curious folks by subscribing here:_
+
+Hi friends 👋,
+
+Happy Tuesday and welcome back to our _fourth_ Not Boring Deep Dive on [Ramp](https://ramp.com/).
+
+Ramp is one of the fastest-growing, best-run startups in the world. It’s also just one of my favorites. I met Ramp CEO Eric Glyman the first year I wrote Not Boring, invested personally in the company before I had a fund, and have invested via Not Boring Capital twice.
+
+I haven’t written about any other company more than once, but Ramp has become a tradition here, and I learn something totally new every time.
+
+This time, it’s AI. Specifically, what will the B2B software landscape look like as companies build AI into their products? What will the experience of using software at work be like?
+
+Software is not dead, but I do think B2B will consolidate. There will be some massive winners, the ones who can help take all of the work that people in a particular department hate off their plates. And if you’re going to choose a department, finance is a good one to choose: finance controls the purse strings, and it touches every piece of the organization, even ones that don’t seem like “finance.”
+
+Like Travel. Today, Ramp is launching [Ramp Travel](http://www.ramp.com/travel), which means you can now book travel right through Ramp. I tried it, and it’s predictably great.
+
+It also points to a world in which you just hand over your card to an AI agent and let it do all of the booking for you — to save you time and money, and let you focus on the parts of your job that you actually like doing.
+
+Let’s get to it.
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!cUL-!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F63383657-ac4a-4d9b-83b2-e5c6de950645_1200x600.png)
+
+](https://substackcdn.com/image/fetch/$s_!cUL-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F63383657-ac4a-4d9b-83b2-e5c6de950645_1200x600.png)
+
+Sunday, April 24th was a fantastic Sunday for Neal Shipley. 
+
+Shipley had won a spot in the 2024 Masters at Augusta National by finishing as the runner-up in the 2023 U.S. Amateur. He came into Augusta one of just five amateur golfers in golf’s greatest tournament. By Sunday, he was the only one left. Oh, and he was paired up with Tiger Woods. 
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!s4xG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fefb42961-d70d-47fa-b118-23fa7336f7d9_908x570.png)
+
+](https://substackcdn.com/image/fetch/$s_!s4xG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fefb42961-d70d-47fa-b118-23fa7336f7d9_908x570.png)
+
+He shot a 1-over-par-73 to finish 12 over for the week and secure his spot as Low Amateur, which meant he got to receive a trophy next to Scottie Scheffler and do a series of post-match interviews. His awkward lookaways during those interviews catapulted him into memedom. 
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!PpGX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d74f45b-ca94-4455-8b19-602f55374d66_867x209.png)
+
+](https://substackcdn.com/image/fetch/$s_!PpGX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d74f45b-ca94-4455-8b19-602f55374d66_867x209.png)
+
+Shipley was all over the internet and TV screens during the Masters, and all the while, you may have noticed, Shipley was rocking the logo of long-time Not Boring favorite: **[Ramp](https://ramp.com/)**.
+
+The Masters was Ramp’s first foray into athlete sponsorship. It sponsored 8 players, all of whom sported the Ramp logo on their shirt. The company had no idea, of course, that Shipley would get paired with Tiger, win Low Amateur, or become _the_ meme of the Masters, _**twice**._ But he did all of those things, and the sponsorship paid off. It was the biggest single day of traffic to ramp.com in the company’s history. 
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!bmhn!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F80e1bfba-9783-420b-9114-1be03ed56323_908x440.png)
+
+](https://substackcdn.com/image/fetch/$s_!bmhn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F80e1bfba-9783-420b-9114-1be03ed56323_908x440.png)
+
+_Ramp Internal Data_
+
+Sunday, April 24th was a fantastic day for Ramp, too, but spend enough time around the company and you realize that it’s had a lot of fantastic days in its 1,905 day life. 
+
+Some companies just have it. **[Ramp](https://ramp.com/) has it.**
+
+This is my fourth time writing about Ramp. It’s the only company I’ve done more than _one_ deep dive on. Each time, there’s a: “Holy shit, look at that growth!” Each time, there’s a: “But can they keep it up?” And each time, they do. 
+
+When I last [wrote about Ramp in March 2022](https://www.notboring.co/p/ramping-up), it had just crossed a **$100 million gross revenue run rate**. That represented the interchange fee it took on its customers’ transactions, before paying out fees to partners like Visa. 
+
+Now, two years later, Ramp’s **run-rate contribution profit has grown by 10x** and is already a **multiple of the company's run-rate gross revenue back then.** Contribution profit represents interchange on card transactions _minus_ the costs it incurs to process that volume, plus Bill Pay fees and Ramp Plus ARR (minus their costs, too).
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!P2vf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7cfc52c1-80c2-4159-b807-92ddb29be64c_908x588.png)
+
+](https://substackcdn.com/image/fetch/$s_!P2vf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7cfc52c1-80c2-4159-b807-92ddb29be64c_908x588.png)
+
+_Not exactly to scale because I’m not that good at drawing_
+
+Ramp’s contribution profit has **more than tripled year over year**, driven by **total purchase volume (TPV) more than doubling to over $35 billion per year** and adjacent products like Bill Pay and Plus taking off.
+
+But having _it_ means more than just growth. It’s about always seeming to be in the right place at the right time, and usually making the right decision when the time comes. It’s more intentional than it looks.
+
+In Ramp’s case, I think it comes down to a combination of **mission, structure, and talent**. 
+
+Ramp’s mission is to **save customers time and money**. That’s a clear, timeless mission that Ramp can build against using whichever technology helps achieve it best.
+
+Ramp is structured to **move fast and not break things that can’t break**. It has teams focused on deliberately crafting infrastructure and integrations that need to be rock solid because they touch money, and small teams focused on experimenting and owning great new products.
+
+Ramp is a **talent magnet**. It hires former founders, future founders, and winners of international programming competitions, and gives them the infrastructure and freedom to build great products fast. 
+
+Ramp keeps finding itself in the right place at the right time because the company is built to be in the right place at the right time, executing against a mission that will never go out of style with a structure and team that allows it to take advantage of new ways to fulfill it. 
+
+One of the fun things about writing about Ramp multiple times over the past few years is that the same themes pop up over and over – saving time and money, card as a Trojan Horse, card & software, talent-density, and more – but my understanding of the company’s potential continues to grow. 
+
+In the [last piece I wrote on Ramp in March 2022](https://www.notboring.co/p/ramping-up), I realized that by starting with the corporate card to wedge into the **transaction**, then building great software around transactions, Ramp had the opportunity to own and automate the business transaction layer, which might be even more valuable than owning search has been for Google. I wrote: 
+
+> _If Ramp is able to keep growing and keep shipping simultaneously, and if it can fold all of its products into a clean, comprehensive offering that saves time and money for customers automatically, it has the chance to own and finally bring intelligence to the most valuable real estate on the internet: the transaction._ 
+> 
+> _That’s more valuable than search. That’s a trillion dollar opportunity._
+
+This was way back in early 2022, a lifetime ago in tech. I searched the piece for “AI” and it didn’t return a single result, even though Ramp has been embedding AI into its products from the beginning. It’s just not something people were really talking about in March 2022. 
+
+But this is what I mean when I say that “Ramp has it,” that it ends up being in the right place at the right time much more often than is reasonably expectable through random chance. 
+
+It turns out that **what Ramp has been building towards is perfectly suited to take advantage of AI**. 
+
+Last month, Ramp announced that Khosla Ventures and Founders Fund co-led its $150 million Series D-2 at a $7.65 billion valuation. In the [raise announcement](https://x.com/tryramp/status/1780725092143468575), both Vinod Khosla and Peter Thiel highlighted the enormous opportunity the company has at the intersection of AI and finance.
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!yjj_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66373ab9-2ba1-41f4-accd-eca86984e623_908x571.png)
+
+](https://substackcdn.com/image/fetch/$s_!yjj_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66373ab9-2ba1-41f4-accd-eca86984e623_908x571.png)
+
+_Ramp Series D-2 Announcement_ 
+
+When I saw the announcement, I didn’t think much about it. It’s practically a law that software startups must say they’re well-positioned for AI in 2024. 
+
+But the more I’ve thought about it, the more I think Ramp really is. 
+
+And look, I see you rolling your eyes. I didn’t want this piece to be about the AI opportunity, either. Everyone writes about their AI opportunity, even, and maybe especially, if they don’t even really have one. It’s boring. 
+
+I wanted to write about [Ramp Travel](http://ramp.com/blog/introducing-ramp-travel), the new product the company is launching today. Travel is tangible and specific to Ramp, the manifestation of something Eric and I had been discussing for years: that owning the transaction opened up new business models beyond earning interchange on card swipes. It showed that Ramp could keep eating adjacent businesses – first expense management, then bill pay, and now travel – by owning the transaction. 
+
+But I’ll be damned if they didn’t end up being one in the same thing. As I wrote about Travel, the AI opportunity became more clear, and more interesting. 
+
+Once again, **Ramp is in the right place at the right time**. 
+
+The Ramp team has built AI into its products since the beginning, from way back when AI was called ML. There’s a [whole page on its website that details some of the ways it’s been using AI](https://ramp.com/intelligence):  from receipt matching, underwriting, fraud monitoring, merchant categorization, growth campaigns, and landing pages since the early days, to price intelligence, expense intelligence, contract intelligence, seat intelligence, smart accounting, copilot, support automation, and sales optimization more recently. 
+
+If you love Ramp’s products already, it’s likely due to the AI they’ve used to make everything simpler, faster, and more seamless from day one. 
+
+All of that happened in the background. The opportunity I’m talking about is bringing it to the front, allowing Ramp to use the intelligence it’s built up to begin recommending decisions to customers, and then making decisions on their behalf. Fiduciary Agents, if you will.
+
+That’s the really big opportunity. AI is the missing piece in the trillion-dollar opportunity I [predicted in 2022](https://www.notboring.co/p/ramping-up), when I guessed that “At some point in the future, **automation will overtake manual purchases**…” That point is here now, much sooner than I expected then. 
+
+There’s a storied tradition of me and the people I talk to about Ramp being hyperbolic about the company in these pieces. In the last one I called it a “trillion dollar opportunity” and Redpoint’s [Logan Bartlett](https://x.com/loganbartlett), a Ramp investor, said, “I don’t want to be quoted saying Ramp is the perfect B2B company because that’s ridiculous… but it is.” 
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!GBhG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a012e08-ddef-4b87-bec6-f54655fa96a1_908x396.png)
+
+](https://substackcdn.com/image/fetch/$s_!GBhG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a012e08-ddef-4b87-bec6-f54655fa96a1_908x396.png)
+
+So in that great tradition, I’m going to one up us, and then spend the rest of the essay backing it up: 
+
+**Ramp is in the best position of any B2B company to capitalize on AI.**
+
+That sounds crazy and crazily biased. I’m a Ramp investor and long-time fan of the company. 
+
+But think about it for yourself. Which B2B company do you think has a bigger opportunity? 
+
+The argument that Ramp is in the best position of any B2B company to capitalize on AI comes in three stages, from general to Ramp-specific: 
+
+*   **AI will drive extreme consolidation.**
+    
+*   **The companies that win will be in the sweet spot between owning workflows and building great products. Ramp is in the sweet spot.** 
+    
+*   **Of all of the workflows to own, finance is the most lucrative.** 
+    
+
+Ramp once again finds itself in the right place at the right time. Its mission is to save companies time and money. AI’s raison d’etre is to save time. It can also save money… if you give it the ability to make transactions.
+
+If Ramp can take advantage of its AI opportunity, it has the chance to consolidate a fragmented fintech market, and some adjacent ones, like Travel. The more Ramp does for finance teams, and the more data it has about how companies operate, the more time and money it can save for customers. 
+
+**“What is it worth to be the company that quite literally makes every company more profitable?”** Eric asked during our last conversation. 
+
+It was a rhetorical question, meant to highlight that B2B business models, including Ramp, will need to evolve as companies move from software that they do things with to software that does things for them. 
+
+But the answer would be a big number: American corporate profits hit $13 trillion in 2023, [according to the Bureau of Economic Analysis](https://apps.bea.gov/iTable/?reqid=19&step=3&isuri=1&1921=survey&1903=239), and growing that number by helping companies spend smarter is a ramp for the economy. 
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!w1Pj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F76e4593f-8c43-45c2-8f74-35695d4b4714_831x594.png)
+
+](https://substackcdn.com/image/fetch/$s_!w1Pj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F76e4593f-8c43-45c2-8f74-35695d4b4714_831x594.png)
+
+Today, we’re going to go deep on how Ramp is thinking about using AI to make companies more profitable. It’s also a great excuse for me to think about how AI might bend markets. 
+
+Before we dig into the AI opportunity specifically, though, let’s look at how Ramp got itself into a position to capitalize on it. 
+
+One of the ways to think about what Ramp is building is that it’s taking all of the things that people hate doing at work, replacing those things with software that’s delightful to use, and eventually automating away those things so people can focus on the things they actually love doing. 
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!pE-E!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F977a2b47-1783-419c-8ceb-d1464383fed7_908x339.png)
+
+](https://substackcdn.com/image/fetch/$s_!pE-E!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F977a2b47-1783-419c-8ceb-d1464383fed7_908x339.png)
+
+When I was at Breather, I _hated_ having to use Expensify. Ramp replaced it with a delightful expense management product. When I started Not Boring, [I](http://bill.com/) _[hated](http://bill.com/)_ [using bill.com](http://bill.com/). Ramp replaced it with a delightful bill pay product. I always wait until the last minute to book travel in part because I’m irresponsible, and in part because the OTA experience is a mess. It’s worse for the executive assistants who have to deal with booking their execs on corporate travel sites. Ramp is replacing it with a delightful travel product. 
+
+Part of the reason that people hate doing those things at work is because the products are objectively bad. 
+
+But a bigger reason is simply that those things are just not the things we want to spend our time doing. They’re things that, for a very long time, we just had to do in order to do the parts of our jobs that we actually love doing. That may not be the case for much longer. 
+
+I love writing and working with startups. I don’t like doing expenses or chasing down invoices or booking travel. Any minute I spend doing the latter is a minute I can’t spend doing the former, and it’s probably worse than that, because the context switching takes me off my game. 
+
+But I write a newsletter. I’m not saving the world. The problem is, the people who _are_ saving the world have to waste their time on that stuff too. 
+
+I’ve spent a lot of time over the past couple of months writing about Techno-Industrials like [Astro Mechanica](https://www.notboring.co/p/astro-mechanica), [Earth AI](https://www.notboring.co/p/earth-ai), [Base Power Company](https://www.notboring.co/p/base-power-company), and [Fuse Energy](https://www.notboring.co/p/fuse-energy). Every minute that the people at those companies spend on mindless tasks is (at least) a minute they’re not spending making flight supersonic, discovering new resources, stabilizing the grid, or protecting America’s nuclear arsenal on route to fusion power, respectively.
+
+Ramp’s purpose is to help its customers achieve _their_ missions, by helping them save time and money that they can apply to the thing they exist to do. If Ramp does its job, it acts as a force multiplier on the over 25,000 customers it serves today. The more it grows, the more force it unleashes on the world. 
+
+That sounds like an overly lofty thing to say about a corporate card company, but Ramp has never really been a corporate card company. 
+
+From the [first piece I wrote in December 2020](https://www.notboring.co/p/ramp-the-card-sized-finance-team), when the company was valued at just $300 million, they’ve talked about saving customers time and money. It was clear back then that this wasn’t a corporate card company, but a company that used a corporate card as a Trojan Horse into the CFO’s office. 
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!tS0O!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81bad0d6-6362-4be2-a5f4-2de31c3ee66b_867x486.png)
+
+](https://substackcdn.com/image/fetch/$s_!tS0O!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81bad0d6-6362-4be2-a5f4-2de31c3ee66b_867x486.png)
+
+From the beginning, the plan has been, roughly: 
+
+*   Win customers on corporate card
+    
+*   Make interchange revenue when they spend money
+    
+*   Reinvest that interchange in great financial software instead of rewards points
+    
+*   Eat more of the software that finance teams use
+    
+*   Cross-sell that software until Ramp is the one piece of software finance teams use
+    
+*   Make finance teams more strategic, and companies more profitable
+    
+
+Ramp has been consistent and relentless in its execution against that plan. 
+
+In the first piece, I wrote that they were planning to kill Expensify. Mission Accomplished. 
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!KK2y!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38f72ead-401d-4f5c-9fe3-bc2342d18fe5_895x348.png)
+
+](https://substackcdn.com/image/fetch/$s_!KK2y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38f72ead-401d-4f5c-9fe3-bc2342d18fe5_895x348.png)
+
+_Data from Google Finance as of May 30, 2024_
+
+It was obvious from the moment Ramp announced the product that software with a card would beat software without a card. In [December 2020](https://www.notboring.co/p/ramp-the-card-sized-finance-team), I wrote, “While Expensify and other non-card expense management systems need to guess blindly, using OCR and transaction outputs, Ramp adds its own transactional data to the mix and turns a complicated guessing problem into a simpler matching problem.”
+
+By my [last Ramp piece in March 2022](https://www.notboring.co/p/ramping-up), the company had launched a **Bill Pay** product that competes with companies like Bill and early versions of **Procurement** and **Travel** products. When Ramp announced that it was launching free Bill Pay software. That day, [Bill.com’s stock dropped 4.7%](about:blank). After a brief recovery, it’s tanked from a peak market cap of $35 billion to $5.5 billion today. 
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!r9Bf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89bfc116-4001-4672-aaf5-8e0bb4083556_696x276.png)
+
+](https://substackcdn.com/image/fetch/$s_!r9Bf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89bfc116-4001-4672-aaf5-8e0bb4083556_696x276.png)
+
+_Data from Google Finance as of May 30, 2024_
+
+There are many reasons for BILL’s downfall, including the fact that it was simply ridiculously overvalued, but one thing that was clear at the time of the announcement was that if Ramp gave away a more delightful version of BILL’s product for free and bundled it with software finance teams were already using to manage their companies’ expenses, it would make a dent. 
+
+One of Ramp’s core insights was that **all of these pieces of software that finance teams use don’t need to be separate companies, that in fact each piece would work better if they were all part of the same product.** 
+
+It positioned itself not as a corporate card company, like American Express, but as a “technology-driven financial services company” _with_ a corporate card. 
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!cBp5!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2db6ec87-cdde-42f1-a15d-3eed13ed8c70_674x295.png)
+
+](https://substackcdn.com/image/fetch/$s_!cBp5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2db6ec87-cdde-42f1-a15d-3eed13ed8c70_674x295.png)
+
+_Email from Karim to Delian and Keith at Founders Fund, May 2019_
+
+That sweet spot – “an engineering and product-driven company slash corporate card ([and not the other way around](https://www.youtube.com/watch?v=24a9ty1m3ZU))” – gives it an advantage over both sets of competitors, corporate card companies and SaaS companies that serve finance teams.  
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!my5f!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcda62152-6372-483a-b742-a1d70ce9f648_667x418.png)
+
+](https://substackcdn.com/image/fetch/$s_!my5f!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcda62152-6372-483a-b742-a1d70ce9f648_667x418.png)
+
+Today, it’s launching its newest product, **[Ramp Travel](http://www.ramp.com/travel)**, a corporate travel product built right into ramp.com. 
+
+I wrote about Ramp for Travel, an early version of the product that automatically grouped travel-related expenses and managed travel policy items like per diem and spend limits, in my [2022 piece](https://www.notboring.co/p/ramping-up). 
+
+Seeing an early version of a [Ramp travel](http://www.ramp.com/travel) product back then opened my eyes to the size of the company’s opportunity. It wasn’t about a corporate card, or even just building better software for finance teams to use, but about **improving every part of the business that involves a transaction.** 
+
+Because travel is booked on cards, travel became part of Ramp’s opportunity. Every transaction is part of Ramp’s opportunity. 
+
+In that piece, I guessed at what might come next: 
+
+> _It seems possible that Ramp could use its position in the transaction to recommend better priced options to customers and erode some of the OTAs’ power and market share and take some of their revenue**.**_
+
+Beyond saving customers time by organizing travel expenses, Ramp could also own the booking itself, saving customers time _and_ money. 
+
+That’s exactly what Ramp is doing with [Ramp Travel](http://www.ramp.com/travel)**.**
+
+Starting today, Ramp customers can book flights and hotels directly through the Ramp website. Ramp will monetize with interchange, but it will also monetize the same way that Online Travel Agencies (OTAs) do, through commissions. 
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!Szm1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37ee5b13-3f7b-4865-9d09-e4698dd7a8ea_908x253.png)
+
+](https://substackcdn.com/image/fetch/$s_!Szm1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37ee5b13-3f7b-4865-9d09-e4698dd7a8ea_908x253.png)
+
+_My Ramp Travel_
+
+This was simply a better booking experience than I’ve had on any of the OTAs or through Chase, let alone through a corporate travel portal. It was clean and clear. I booked my flight directly through Ramp without being kicked over to United. Unfortunately, I’d already booked my hotel the day before getting Ramp Travel access, but when I checked Ramp, the price was actually _lower_ than I got booking direct. And of course, all of my payment information is there already, and anything I spend in Detroit will automatically be included in this trip’s expenses. 
+
+Now that I have access to Ramp Travel, I don’t see why I would book anywhere else. It saves me time and money. 
+
+Once again, seeing a Ramp travel product has expanded my view of what the company can become. 
+
+My use case is relatively simple. I’m booking travel for myself, I don’t need to coordinate with coworkers, I don’t have travel policies or per diems to worry about, and I don’t have to submit any receipts for approval after the fact. I can just book on consumer travel sites. I don’t love Booking.com, but it’s fine. 
+
+For teams, though, travel booking is outdated, painful, and expensive. Employees don’t like booking through them, so many just book for themselves on consumer sites and ask for forgiveness (and reimbursement) after the fact. When they do book through the corporate travel platform, companies pay up to [$35 per trip](https://www.gbta.org/top-5-tmc-questions-asked-and-answered/) for the privilege of using outdated software just because it provides controls based on travel policies that consumer sites don’t. And even those policies are rigid and hard to adapt to different team members and situations. Then, when the employee gets home, they have to deal with more receipts than usual because they spent more on their corporate card than they do when they’re at home. 
+
+I could go on, but you get it. You’ve booked travel at a company.
+
+It’s even worse for the EAs than it is for the employees, and even worse than that for whoever in the finance department is responsible for dealing with the travel program. Often, they do their work across a corporate travel platform (like TravelPerk, SAP Concur, or Navan), a reimbursement platform, and a card platform. 
+
+You see where this is going. Ramp can take something that people hate (dealing with travel booking and expenses), build delightful software made even more delightful by the fact that it consolidates three platforms into one, and eventually, automate it away altogether. 
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!G7AY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c164dc9-c243-4ec0-8138-196adf3b6013_908x454.png)
+
+](https://substackcdn.com/image/fetch/$s_!G7AY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c164dc9-c243-4ec0-8138-196adf3b6013_908x454.png)
+
+_Ramp Travel_
+
+Today, Ramp Travel lets customers do things like build custom travel policies directly into the booking process that guide employees on what they can book and spend, understand who can spend what when based on information like role, length of trip, and market rates at the destination, and automatically organize receipts and close books through accounting integrations. Companies can even share savings with employees via gift cards if they choose flights or hotels that cost less than the policy allows. 
+
+Because Ramp owns the card, plus integrations with HR and accounting software, it can build a better, smarter product than a corporate travel card alone can. 
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!RzPc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a4c12dc-7f5b-4c5e-9d70-b763433440aa_844x491.png)
+
+](https://substackcdn.com/image/fetch/$s_!RzPc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a4c12dc-7f5b-4c5e-9d70-b763433440aa_844x491.png)
+
+Ramp’s core products now span four buckets: 
+
+*   **[Corporate Card](https://ramp.com/corporate-cards)**: still the largest part of the business and the wedge into everything else.
+    
+*   **[Bill Pay](https://ramp.com/bill-pay):** automates accounts payable workflows. 
+    
+*   **[Ramp Plus](https://ramp.com/blog/introducing-ramp-plus): SaaS product that gives customers access to automated procurement, global expenses and payments, workflow builders, self-enforcing smart policies, and more advanced integrations with providers like Workday, Microsoft, and Netsuite.** 
+    
+*   **[Travel](https://ramp.com/travel): as of today, customers can book travel directly through Ramp, and Ramp will do things like enforcing travel policies and automatically matching receipts to trips.** 
+    
+
+This also means that Ramp now makes money in three ways: interchange on Card spend, SaaS fees on Plus, and commissions on Travel. 
+
+But this is just the beginning of what Ramp Travel can become as the company builds more AI-powered features into the product. 
+
+Once you book, for example, it could scan for better prices on the same flight or hotel and rebook for you, automatically saving you money with no extra time. 
+
+Because Ramp will see so many trips across its more than 25,000 corporate customers, it will be able to suggest expense controls based on what other travelers are paying, not a generic “average cost for this route.” It might also suggest restaurants, hotels, and other local trips that other Ramp companies enjoyed.
+
+Eventually, _you_ won’t need to book at all. 
+
+Since Ramp knows every employee’s travel policies and spending limits, and because it sees where all of its customers book in certain cities, booking travel with Ramp will eventually be as easy as sending a text: “I need to go to the Marketing Offsite in Miami in March.” 
+
+Everything else will happen automatically, other than the fun part: actually traveling. 
+
+The easier it makes the process, the more spend customers will manage through Ramp. The more customers spend through Ramp, the smarter Ramp will get and the better deals Ramp will be able to negotiate for its customers. AI can help make Ramp easier and smarter, and save customers time and money. It’s an incentive-aligned flywheel. 
+
+Beyond Travel, the more parts of a company Ramp touches, the more value it can provide as it orchestrates workflows that previously existed across multiple disparate platforms. 
+
+All of this compounds. As more companies use Ramp for more things, Ramp is able to save customers more time and more money. That may be why Ramp investor [Keith Rabois told Harry Stebbings](https://www.youtube.com/watch?v=04k2fFdZPmE&t=1s), “I think all CFOs of the future will want to run on Ramp and they'll be reckless if they don't.”
+
+This is one of the ways learning about Ramp Travel shaped my views on the AI opportunity, which is where we’ll turn now. Starting with the idea that AI will lead to extreme consolidation. 
+
+**AI Will Drive Extreme Consolidation**
+
+Software isn’t dead, but a lot of today’s B2B software companies will die. 
+
+Integrated platforms that own customer workflows will pull more of a buyer’s jobs to be done into what they do, and enjoy accumulating advantages that turn previously competitive markets into winner-take-most markets. 
+
+These winning platforms will be more valuable than today’s biggest platforms, and the small handful of winners may be more valuable than _all_ software companies today. It’s a power law.
+
+In other words, **AI will drive extreme consolidation**. 
+
+There’s one idea that SaaS companies are at risk because anyone will be able to make great software. I think the more likely outcome in B2B will be that **point solutions** – software products that do one thing – are more at risk from integrated platforms that can more easily bundle point solutions into their platform, making their whole offering more valuable as they do. 
+
+This has already been happening pre-AI, as highlighted by Ramp’s ability to successfully build Expensify and Bill competitors into its product offering. The [Compound Startup](https://www.youtube.com/watch?v=BbSNA64TQ7s), popularized by Rippling CEO Parker Conrad, is in. 
+
+“Gentlemen, there are only two ways I know of to make money,” Jim Barksdale said. “Bundling and unbundling.” We are already in a bundling phase. It will happen faster and more violently now. 
+
+**Customers want to buy from as few companies as possible to solve their Job to Be Done**. 
+
+In a recent series of conversations with Ramp customers, Sands Capital found that “there was a loud and clear desire (1) to consolidate even more parts of the finance stack and (2) for Ramp to be that consolidation partner.” 
+
+It makes sense. Using one platform is simply easier for people than using multiple. 
+
+Somewhat counterintuitively, the more choices buyers have — the more companies or individuals spin up point solutions – the more they’ll want to retreat to one product they trust.
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!yc83!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e995826-47da-42c8-97d8-1ae62ad8a80d_610x230.png)
+
+](https://substackcdn.com/image/fetch/$s_!yc83!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e995826-47da-42c8-97d8-1ae62ad8a80d_610x230.png)
+
+_[Link to Tweet](https://x.com/atelicinvest/status/1796655999501156838)_
+
+As long as Ramp is at feature parity on each of the point solutions it’s replacing, using Ramp a no-brainer. And **getting to feature parity becomes easier with AI**. 
+
+Plus, bundling software likely means saving money (and time) versus buying a number of separate point solutions. Microsoft is the most valuable company in the world at $3 trillion in large part because of these dynamics. 
+
+**As a platform adds more products and data, each product gets more valuable**. 
+
+By combining credit cards and expense management, for example, Ramp is able to automatically match receipts to transactions in a way that Expensify can’t without the credit card. 
+
+With more products and more integrations, Ramp gets more data about a company, which it can leverage in multiple different ways. 
+
+As one example, because it integrates with Okta, it understands which employees are using which products. Because companies pay for those products with Ramp cards and Bill Pay, it understands how many seats companies are paying for. 
+
+Today, that means that Ramp alerts customers when they’re paying for unused seats, which saves them money. With AI, Ramp may be able to use that data and those integrations to proactively manage its customers’ vendors to save them money and time, automatically, like an employee would today. 
+
+Eric told me that **as Ramp has added more products, it’s winning more customers, selling more products to each, and improving product monetization, which has led to improved contribution profits.** 
+
+New cohorts are adopting new products at an accelerating rate – one-third of new customers in Q1 2024 have already adopted Bill Pay – and older cohorts are expanding as they adopt more Ramp products. It all compounds. 
+
+“Great platforms do this,” he said. “With each new product, it should all get easier. I think this is when companies go from good to great.” 
+
+This will continue to accelerate. When I asked Logan Bartlett for his thoughts on Ramp’s opportunity in AI, he told me: 
+
+> _I kind of think if you run a company and are not using Ramp by now, you are either insane or just lazy (or both?). Every product they put out is exceptional and it’s clear at this point that the gap between what they’re doing and what everyone else is doing is only increasing. **AI is a new paradigm that will only compound that.**_ 
+
+Imagine two products with the same software. Product A is built on top of less data. Product B is built on top of more data. Which is more valuable? 
+
+As software becomes easier to build, the advantage shifts even more heavily in favor of the companies with the best data. And as software begins to use that data to do **work on its customers’ behalf**, that advantage gets even more pronounced. 
+
+**AI will flip products from passive to active**, and like employees, products can do better work if they have better information. 
+
+Take something like accounting. AI is really good at looking at a general ledger, understanding how things have been done in the past, and organizing new transactions into the right place. It’s not hard to imagine that with the right data, Ramp’s AI might get a company’s monthly close to the point where the CFO just needs to review and sign off. 
+
+At a certain point, if you _really_ want to be “just lazy,” that’s even more of a reason to be on Ramp. 
+
+**If a platform can do more work for its customer with more data, there’s an incentive for customers to move even more of what they do into a smaller number of platforms.** 
+
+As a result, platforms that own specific workflows can both win more of their existing categories _and_ eat more adjacent categories that can be integrated into those workflows. 
+
+But not every company that owns a workflow today will benefit equally. 
+
+**Who Takes Advantage of Owning the Workflow?**
+
+People seem to be converging on this idea that one of the things that one set of winners will be the incumbents who **own customers’ workflows. “**Owning the workflow” means embedding the product so deeply into the customer's operations that it's not just a tool, it’s the nervous system of a department. 
+
+This is a consensus take at this point, and I’m guilty of it, too. 
+
+In _[Better Tools, Bigger Companies](https://www.notboring.co/p/better-tools-bigger-companies)_, I wrote: “SaaS isn’t dead. There will be big SaaS businesses built, and in particular, **today’s leading SaaS companies will get much bigger as they marry their place in customers’ workflows with AI to deliver more value**. Information industries will be won with software.” 
+
+That’s a trite and easy thing to write because it’s so high-level as to be meaningless. 
+
+But _which_ workflow owners are in the best position to take advantage of the AI opportunity? 
+
+I asked an impartial arbiter – ChatGPT – which software companies it associates with “owning the customer workflow,” and it put Salesforce first:
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!dxzn!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f64a998-8b03-49c2-af0c-d97cca520d6f_827x243.png)
+
+](https://substackcdn.com/image/fetch/$s_!dxzn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f64a998-8b03-49c2-af0c-d97cca520d6f_827x243.png)
+
+Investors do not seem to be tripping over themselves to buy $CRM in anticipation of the value the company will capture by owning the customer workflow. The stock tanked 18% on weak earnings last week, and is down 1% on the year, even as the Nasdaq index has soared 28%. 
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!Z0qC!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee74d4d5-affd-4b87-a3fd-21f8e939440e_705x427.png)
+
+](https://substackcdn.com/image/fetch/$s_!Z0qC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee74d4d5-affd-4b87-a3fd-21f8e939440e_705x427.png)
+
+_Google Finance as of May 30, 2024_
+
+There’s gotta be something more than Workflow + AI = Money.
+
+I think there’s a sweet spot, and that, unsurprisingly, that Ramp is right in it. An oversimplified version looks something like this: 
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!asJA!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b7bd804-7f18-4344-a554-701d88235212_908x475.png)
+
+](https://substackcdn.com/image/fetch/$s_!asJA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b7bd804-7f18-4344-a554-701d88235212_908x475.png)
+
+On one end, startups are unencumbered by legacy code and customer expectations, and can ship modern software quickly, but don’t own their customer’s workflows because they’re too young.  
+
+On the other end are legacy companies that own their customers’ workflows, but are old and creaky when it comes to developing products that users love. 
+
+In the middle, though, are companies that have been around long enough to earn a place in their customers’ workflows, but are still young and talented enough to integrate AI into their products in seamless and non-obvious ways that help customers do the thing they’re trying to do much better, or even replace the need for customers to do that thing altogether.  This is the sweet spot.
+
+You can think of a number of companies that fit in the sweet spot. 
+
+Figma, for example, can make designers’ jobs much easier by using AI to replace a lot of the repetitive grunt stuff that they do while adding magical touches that anticipate their needs and co-design with them. From that position, it can build or integrate with more and more of the tools designers use to do their jobs, and even eat adjacent opportunities. It would be easier for Figma to build Asana than for Asana to build Figma. 
+
+**Ramp sits right in the heart of the sweet spot.** It owns workflows and it builds great products. 
+
+The reason is the same reason that Ramp always seems to be in the right place at the right time: it points world-class **talent** at a timeless **mission** in a **structure** that allows them to experiment and move fast.   
+
+All three apply even more clearly to Ramp’s ability to win the finance AI opportunity, so let’s cover all three in that context. 
+
+In mid-May, three weeks after Neal Shipley went viral, Ramp AI engineer [Will Ye](https://x.com/will_ye_) racked up 141k likes on his [tweet about continuing to work at Ramp](https://x.com/will_ye_/status/1791150224758427709). 5.6 million people saw that Will worked at Ramp and wanted to continue working at Ramp. You can’t buy that kind of employee marketing for a billion dollars. 
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!xBbW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb387408b-88ce-44ef-b2a6-01b768647bc2_610x706.png)
+
+](https://substackcdn.com/image/fetch/$s_!xBbW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb387408b-88ce-44ef-b2a6-01b768647bc2_610x706.png)
+
+One weekend is a fast turnaround time, but the Ramp Boomerang is a common pattern. 
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!KMue!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa929b757-bcbf-4149-af8c-aa55c4a7616a_597x271.png)
+
+](https://substackcdn.com/image/fetch/$s_!KMue!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa929b757-bcbf-4149-af8c-aa55c4a7616a_597x271.png)
+
+_Yunyu (l) and TK (r)_
+
+Last June, [Ramp acquired Cohere](https://ramp.com/blog/welcome-cohere), an AI-powered customer support platform co-founded by [Yunyu Lin](https://x.com/yunyu_l?lang=en), an early Ramp employee. The Cohere team now leads Applied AI efforts at Ramp. 
+
+Ramp’s Applied AI team has a dual-mandate: to infuse Ramp’s products with AI and to use AI to make Ramp employees’ lives easier. 
+
+A couple of weeks ago, Ramp shared one of the team’s first public-facing products: [Tour Guide](https://x.com/tryramp/status/1792659194996281478).
+
+Tour Guide is interesting for a couple of reasons. 
+
+First, as the company [tweeted](https://x.com/tryramp/status/1792659194996281478), “As Ramp grows in functionality, we want to make all of it easily accessible to all of our customers. To do that, we're demoing a first-of-its-kind AI agent that can show and tell people how to accomplish anything with Ramp.” 
+
+In other words, **as Ramp handles more of the things that its customers do, the first big product the team released is one that makes it easier to navigate all of those things.** If Ramp wants to continue to eat more of its customers’ workflows, it’s fascinating that the first tool it built is one that helps manage the necessarily increased complexity. 
+
+From the customer point-of-view, there’s an evolution in ease: from multiple point solutions to everything in one place to everything in one _easy-to-navigate_ place. It’s a meta-tool that will make it easier for Ramp to add more products without overwhelming customers. 
+
+The second reason it’s interesting is that it looks a lot like the product that Cohere built, except it replaces a human customer support agent in Cohere’s case with an AI agent in Ramp’s. 
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!jtn0!,w_1456,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F07632393-a622-44fa-acc5-581b39a34bed_800x539.gif)
+
+](https://substackcdn.com/image/fetch/$s_!jtn0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F07632393-a622-44fa-acc5-581b39a34bed_800x539.gif)
+
+_Cohere Product_
+
+It’s almost too perfect an example of why Ramp acquires former employees’ companies.   
+
+“When they go and start a company, they learn something great and relevant,” Eric explained. “They can come back turbocharged because they have that experience plus context, history, and sheer drive.” 
+
+Cohere wasn’t the only company that fit this mold. Two months later, in August, [Ramp acquired Venue](https://techcrunch.com/2024/01/30/fintech-ramp-acquires-another-ai-powered-startup/), an AI-powered procurement platform co-founded by [TK Kong](https://x.com/thetkkong?lang=en) and [Young Kim](https://www.linkedin.com/in/young-k/), two early Ramp employees. TK now leads Procurement at Ramp, and Young leads Procure-to-Pay.
+
+In the [blog post announcing Ramp Procurement](https://ramp.com/blog/ramp-procurement), TK made the case for consolidation that I made above: 
+
+> _I founded Venue in 2022 with [Young Kim](https://www.linkedin.com/in/young-k/) and [Kevin Chan](https://www.linkedin.com/in/kevinchan159/) to build a delightful experience for employees to request spend, all while giving finance teams full visibility and control. After talking to hundreds of procurement teams, **we realized that a point solution wasn’t the answer to their decentralized spending problems. What they needed instead was an integrated finance platform**, with purchasing workflows built in to help them revamp their entire procure-to-pay process._
+
+Like Cohere, the Venue team has built products at Ramp that combine what they learned building Venue with Ramp’s workflows and scale, including accelerated approvals, easy collaboration, and full visibility into committed spend. 
+
+The formula seems to be: find exceptionally talented people and let them work on hard problems, even if those problems take them away from Ramp for a bit, in which case Ramp will support them and welcome them back if there’s a good fit, once they’ve gained some founder seasoning. Being known for having the best people _and_ being a [founder launchpad](https://twitter.com/aashaysanghvi_/status/1496300680793010180) is a great way to attract ambitious, talented people. 
+
+A couple of months ago, I asked twitter [which companies under 5 years old have the most talent density](https://x.com/packyM/status/1779225865236120055). Lulu Cheng Meservey replied asking whether I picked five years to keep Ramp from running away with it. 
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!1coL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1e4db7e0-0d6a-4313-ab24-c7c4b1b3264c_609x109.png)
+
+](https://substackcdn.com/image/fetch/$s_!1coL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1e4db7e0-0d6a-4313-ab24-c7c4b1b3264c_609x109.png)
+
+But despite being a smidge over five, Ramp still won. 
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!4oq1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F86a9aad7-f241-4a1e-9979-cad5f682b300_908x548.png)
+
+](https://substackcdn.com/image/fetch/$s_!4oq1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F86a9aad7-f241-4a1e-9979-cad5f682b300_908x548.png)
+
+Look, is that how I would have chosen to make that graph, all out of order like that? No way. I would have Sort: Descending’ed. 
+
+But I didn’t make it. [Devin did](https://preview.devin.ai/). Devin is an AI software engineer built by [Cognition Labs](https://www.cognition.ai/), the six-month-old startup that recently [raised $175 million from Founders Fund at a $2 billion valuation](https://analyticsindiamag.com/six-months-old-cognition-labs-raises-175-mn-from-founders-fund-at-2-bn-valuation/). There are a lot of AI agent companies and Founders Fund is smart. This is a talent bet; Cognition’s co-founders are [exceptionally talented](https://x.com/TechBroDrip/status/1767706006010945867). 
+
+I’m telling you this because Cognition co-founder, Neal Wu, is a coding gold medalist who, pre-Cognition, was an early employee at Ramp. In _[Ramping Up](https://www.notboring.co/p/ramping-up)_, I wrote about one of the products he built, the early version of Travel.  
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!ksAC!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9d9594ac-ae4f-4207-bc82-7f59338cbef8_747x93.png)
+
+](https://substackcdn.com/image/fetch/$s_!ksAC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9d9594ac-ae4f-4207-bc82-7f59338cbef8_747x93.png)
+
+_Ramping Up, March 2022_
+
+Ramp remains a magnet for the type of people with the talent and drive to found their own serious AI application startups. With so much of how AI should work in finance still to be discovered, having talented, creative people who can move fast and experiment is a huge advantage. 
+
+One of the reasons Ramp is able to attract such strong talent, and one of the main reasons I think they’ll be a force in AI, is the way the team is structured to build great products quickly on top of stable infrastructure. 
+
+There’s a tension inherent in fintech: the “tech” wants to move fast but the “fin” has to be zero-defect. You can’t Move Fast and Break Things when you’re dealing with peoples’ money. 
+
+In _[Ramping Up](https://www.notboring.co/p/ramping-up),_ I wrote about the clever way that Karim structured the engineering team to resolve this tension by splitting product, design, and engineering into two archetypes: 
+
+> _One team, full of the **deliberate code craftspeople**, would handle all of the things that can’t afford to have mistakes, like underwriting and transaction processing, in addition to building strong infrastructure and integrations…_
+> 
+> _The other team, full of the **fast-moving builders**, have a long leash to create new products with very little organizational overhead…_
+> 
+> _In addition to their raw talent, a big reason this team is able to build new products so quickly is that they’re **building on top of the high-quality data and tech infrastructure developed by the other team.**_
+
+This structure has been responsible for Ramp’s insane product velocity. It moves deliberately on the things that can’t break, and frees up decentralized teams to move very quickly on the things that can. 
+
+After interviewing both Eric and Brex Co-CEO Pedro Franceschi, Simon Taylor noted the differences in the two companies’ shipping cadence: 
+
+Ramp isn’t shipping infrastructural overhauls every day, but it _is_ shipping small product improvements, and even new products, as fast as it responsibly can. Those small improvements compound. 
+
+Even though Karim didn’t set the team structure with AI explicitly in mind, I think its importance is even more pronounced as Ramp infuses AI more deeply into all of its products. 
+
+No one knows yet what the right interfaces and interactions for financial AI are yet, so experimenting towards the right answers is important. But experiment in the wrong places, and you might end up with an AI agent buying your company a yacht. 
+
+As a concrete example, handing the reins over to AI agents to make spending decisions on its customers’ behalf on day one could be a disaster, but letting the Applied AI team ship Tour Guide to improve navigation on the site is low-risk. 
+
+More generally, Ramp is structured to give small, nimble teams ownership of entire products, which means that each team can iterate towards the right solution for their particular piece of the business. Applying AI to accounting is very different from applying it to travel, and the teams closest to each problem will be able to talk to customers, build, and experiment towards the right solutions for each. 
+
+As they do, the deliberate code craftspeople will work to ensure that each product benefits from improvements in all of the others. If the data is structured properly, integrating with accounting software like Quickbooks and Netsuite across thousands of companies, for example, should help TK’s Procurement team build better informed products to recommend software to its customers and the Travel team make better recommendations on trip budgets. 
+
+All of this works because everyone knows what they’re building towards: saving customers time and money. 
+
+In an internal 2024 Kickoff presentation in January, there was a slide that illustrated how Ramp thinks about itself:
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!u7c2!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9119821-1c53-43a8-91ea-d449c87cc1ba_908x516.png)
+
+](https://substackcdn.com/image/fetch/$s_!u7c2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9119821-1c53-43a8-91ea-d449c87cc1ba_908x516.png)
+
+_Ramp Internal Presentation_ 
+
+A simple machine that reduces the force needed to perform work sounds like a machine that will benefit greatly from AI, itself a machine that reduces the force needed to perform work. 
+
+Since ChatGPT launched in November 2022, kicking off a funding boom in AI, we’ve seen hundreds of companies contort themselves to fit into an AI-shaped hole. 
+
+Did we say our mission is to provide [fresh juice](https://en.wikipedia.org/wiki/Juicero) to everyone? We meant our mission is to provide fresh juice to everyone, powered by AI! 
+
+Ramp doesn’t need to contort itself. 
+
+From the very beginning, Ramp [counter-positioned](https://www.notboring.co/p/ramp-the-card-sized-finance-team) against corporate card incumbents by promising to save its customers time and money. 
+
+Its vision, as I wrote way back in [December 2020](https://www.notboring.co/p/ramp-the-card-sized-finance-team), “is to help companies build better businesses with financial software.” 
+
+One of the promises it’s made to its buyer – the finance team – is that it would “free them up to do the things they’d love to be doing if they weren’t telling people what they can and can’t spend on, collecting and cleaning messy data, and chasing people down to fill out their expense reports.”
+
+**All of the things Ramp has been saying since the beginning are now simply easier to achieve.** 
+
+The idea that AI won’t replace people, but “free them up to do the things they love” is maybe the #1 thing AI’s proponents say most. Saving time and money isn’t far behind. 
+
+By consistently building towards a clear mission, with a talented team structured cleverly, Ramp is in a position to incorporate whichever new technology helps them achieve it. 
+
+In the beginning of this year, I wrote an essay on Stewart Brand’s idea of _[Pace Layering](https://www.notboring.co/p/pace-yourself)_. 
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!WRh4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F21631217-5e93-4e8f-b35f-f4a1f3d786dd_599x460.png)
+
+](https://substackcdn.com/image/fetch/$s_!WRh4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F21631217-5e93-4e8f-b35f-f4a1f3d786dd_599x460.png)
+
+Applying it to tech, I argued that “a firm base creates room for freedom.” 
+
+> _There’s that Jeff Bezos question: “What’s not going to change in the next 10 years?”_ 
+> 
+> _… That’s pace layering. It’s not just that Amazon has a long-term focus, **it’s that having a bedrock belief about what won’t change at the bottom, Amazon can move faster and experiment more at each layer up the stack.**_
+
+I think that’s exactly what’s happening at Ramp. A mission to save companies time and money is a bedrock belief about what won’t change that supports speed and experimentation at the higher layers of the stack. 
+
+There will always be new technology. Ramp’s ability to take advantage of the opportunities they present comes from keeping a talent-dense team focused on a singular mission. 
+
+But I said that Ramp is in the _best_ position of any B2B company to capitalize on AI, not just that it was in a _good_ position to capitalize on AI.   
+
+And that comes down to the fact that **finance is the most valuable workflow to own.** 
+
+Not all workflows are created equal. 
+
+Earlier, we talked about the idea that AI will accelerate consolidation into winner-take-most platforms. One way to think about categorizing those platforms is by department, and the finance has a lot going for it. 
+
+**Finance is the nervous system of the company.** Everything that a business does flows through finance in some way, and no department has a better bird’s-eye view into how the company operates. 
+
+**The data that the finance team has is extremely valuable for AI.** The data generated by financial transactions - what companies are buying, how much they're spending, when they're spending it - is a goldmine for training AI models to make predictions and recommendations.
+
+**Every company in the world needs to manage its finances.** Big or small, tech or retail, businesses are the sum of the revenue they generate and the costs they spend. 
+
+Most importantly, **the finance team has buying power**. The finance team has significant influence over how the company spends money – how many employees it can hire, what software it can purchase, how much its employees can spend on travel and expenses, and more.
+
+$30 trillion flows through the hands of finance teams in the US every year, and [over $100 trillion](https://usa.visa.com/partner-with-us/payment-technology/visa-b2b-connect/resources/delivering-simpler-cross-border-payments.html) of global B2B payments are processed annually. Helping to direct that budget is a great place to be. 
+
+It also has the **most adjacencies**. Because it touches every piece of the business, finance is the easiest starting point from which to expand into new parts of the business. 
+
+In _[Ramping Up](https://www.notboring.co/p/ramping-up)_, I wrote about the idea of **transactions as mini-apps:** “I’m picturing a world in which cards send out transaction intent, and mini-apps for different categories help direct purchase decisions based on rules set by each company and intelligence gathered from all of them.”
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!poiV!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F113add8c-e1f9-4466-9cc4-17bb7e48d528_908x683.png)
+
+](https://substackcdn.com/image/fetch/$s_!poiV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F113add8c-e1f9-4466-9cc4-17bb7e48d528_908x683.png)
+
+**Powering finance workflows with AI makes that world possible.** 
+
+With Travel, Ramp will be able to save customers time and money by automatically booking flights and hotels based on what they know about an employee’s calendar, trip details, preferences, and travel policies, and then organizing all of the expenses they generate on the trip. Ramp will earn a commission on the travel and interchange on the purchases. 
+
+With Procurement, Ramp will be able to save customers time and money by negotiating better deals on their behalf, managing licenses against actual usage, and understanding which products similar companies are using and getting value from. Ramp will potentially be able to earn affiliate fees from software providers, interchange from card purchases, and a small fee on Bill Pay. 
+
+Fascinatingly, the existence of a product like Ramp can build in Procurement means an acceleration of winner-take-most dynamics in _other_ categories, as Ramp will have the data to understand which products offer the best value and direct more purchases to those products. 
+
+More broadly, it seems as if the **Finance AI will have the clearest path to both creating and capturing value in other categories that don’t seem like finance.** 
+
+Software and flights aren’t “finance,” but Ramp has the ability to monetize both categories. The same is likely true for anything that companies buy, which is to say, practically every category. There’s no other workflow that can say that. 
+
+Finance has another advantage over other workflows: **the clearest business model**.
+
+There’s been a lot of discussion about what will happen to SaaS business models with the emergence of AI. Do per-seat models make sense when software isn’t used by employees, but acts like an employee? Should companies pay for outcomes? If so, how do you pay for an AI software engineer that writes code? Do you pay per line of code? That seems like an incentive nightmare. Do you pay for the quality of the code? How do you judge that? 
+
+Finance to date has been straightforward. Take a cut of purchases. There’s a world in which that remains the case, and in that world, the more of a company’s purchases that flow through Ramp, the more money it can take. As AI helps Ramp touch more pieces of the business, that opportunity expands. 2% of $30 trillion is a lot of money. 
+
+But Eric called that “the old game.” The new game, he thinks, is about making companies more profitable and capturing value in the process. 
+
+Which brings us back to the question Eric asked: **what is a company that can do that worth?** 
+
+It’s an interesting question to think about. Profit is the ultimate arbiter of a business’ financial success. It’s not just about saving money – spending too little can be as damaging as spending too much – but about investing money intelligently in the things that produce outcomes. 
+
+Saving _wasted_ money and time – by doing things like negotiating better prices or canceling seats that employees aren’t using, or by automatically matching receipts instead of hounding employees to enter them manually – improves profitability. Knowing what to spend money on –  perhaps because your finance platform has insights not just into what other companies spend, but how they’re performing – is another. And freeing the finance team up to spend more of their time on being strategic with its money is a third. 
+
+Getting paid to increase profitability is as close to perfect alignment as a business model can get. Of course, a number of things impact profitability, and no matter how good it gets, Ramp couldn’t take credit for all of it. It would have to charge an amount such that customers believed they were getting more value than they were paying. 
+
+There might not be a company better positioned to do that. 
+
+“If you can suddenly start to do the work in certain cases, drive better outcomes because you have just a much vaster array of ways to help,” Eric told me, “You can create a lot of value, and capture some of it.”
+
+Platform shifts open brief windows of time for defining businesses to be created. 
+
+**Microsoft** and **Apple** were born alongside the personal computer, in 1975 and 1976 respectively. 
+
+**Amazon** (1994) and **Google** (1998) both born in the first five years of the commercial internet, marked by the launch of Netscape in 1994. 
+
+**Airbnb** (2008), **Uber** (2009), and **Instagram** (2010) were founded within three years of the App Store launch in 2008. 
+
+Even **American Express** is what it is today because it capitalized on a new platform.  
+
+The BankAmericard credit card program launched with a “drop” to 60,000 people in Fresno, California on September 18, 1958 – the same day, coincidentally, that my mom was born! Less than two weeks later, on October 1st, American Express had “[issued](https://postalmuseum.si.edu/exhibition/america%E2%80%99s-mailing-industry-industry-segments-financial-services-industry/american-express#:~:text=The%20First%20American%20Express%20Card&text=By%20October%201%2C%201958%2C%20the,to%20introduce%20a%20plastic%20card.) 250,000 cards and had 17,500 establishments signed on to accept them.”
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!6PL4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0c070a5-7410-4e98-95db-242e2fc867a4_608x389.png)
+
+](https://substackcdn.com/image/fetch/$s_!6PL4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0c070a5-7410-4e98-95db-242e2fc867a4_608x389.png)
+
+_First Version of the AmEx Credit Card, Smithsonian_
+
+American Express was actually founded over a century earlier, in 1850, as a delivery business. By 1882, it had entered financial services with the introduction of the money order. In 1915, it added a travel business by selling tickets “by rail and steamship, to outline routes and arrange for personally conducted tours to any part of the world.”
+
+It became the **$170 billion market cap** company it is today by being in the right place at the right time, and acting quickly, when the credit card came. 
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!5kqz!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc110255-dfe2-4ac8-b453-517ff1782baa_686x286.png)
+
+](https://substackcdn.com/image/fetch/$s_!5kqz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc110255-dfe2-4ac8-b453-517ff1782baa_686x286.png)
+
+_Google Finance as of June 3, 2024_
+
+Today, Ramp is in the right place at the right time with the right team and mission to take advantage of the shift to AI, and its opportunity may be larger than any of the previous ones. 
+
+In the _[March 2022 piece](https://www.notboring.co/p/ramping-up)_, I wrote that Ramp’s opportunity might actually be bigger than Google’s because “At some point in the future, **automation will overtake manual purchases**” and Ramp had “the opportunity to own the **transaction layer for businesses.”** 
+
+“As more spend is automatically orchestrated with software, as opposed to starting with a search and ending in a manual purchase,” I predicted, “**whoever controls the transaction controls the flow of dollars**.”
+
+That “some point in the future” may be here now, and Ramp is in the best position of any company to control the flow of dollars by controlling the transaction. 
+
+**AI may lead to extreme consolidation** among B2B companies. The platforms that build the most complete products with the best data and integrations will be able to do more of the worst parts of their customers’ jobs, better. There will be fewer, bigger winners. 
+
+The winners will be in the **sweet spot between owning workflows and building great AI-infused products**. Ramp is in the sweet spot. 
+
+And if you’re going to own a workflow – to handle everything that one department does – **finance is the best workflow to own**. An AI agent that can make purchase decisions is more valuable than one that can’t.
+
+Or as Eric put it, “You’re not just the brains, you’re the arms and the legs.”  
+
+Those arms and legs can reach out into adjacent verticals – like Travel, Bill Pay, Procurement, even potentially accounting, and HR, where Ramp has integrations today. Anything that touches money may be consolidated into the Finance AI, and Ramp is continuing to launch products that compete with standalone multi-billion dollar businesses. 
+
+Competitors like American Express and BILL are obvious, but what about SAP. Ramp is starting to compete with two of the company’s products – Concur in expense management and travel, and Ariba in procurement. At some point, if you help enterprises plan enough of their resources, you’re kind of an ERP, right? People hate those, too… 
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!Nn3-!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F22cb3024-b3f2-49b8-be35-84801cf14389_793x397.png)
+
+](https://substackcdn.com/image/fetch/$s_!Nn3-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F22cb3024-b3f2-49b8-be35-84801cf14389_793x397.png)
+
+The opportunity when software can do things on its customers’ behalf is likely much bigger than the current market for passive software suggests. 
+
+Would you pay more for an Enterprise Resource Planner or an Enterprise Resource Doer? 
+
+How much would you pay for someone to just do everything you hate doing at work?
+
+Or consider this. **If the Finance AI helps control spend, will companies that sell to businesses optimize for SEO, or will they work to negotiate with the Finance AI directly?** What does that mean for Ramp’s ability to create and capture value? 
+
+Even before adjacencies, the finance opportunity is massive. It may be the biggest market addressable by pure software that’s yet to be consolidated. 
+
+Eric pointed out that finance has remained stubbornly fragmented in the face of technology. “It’s weird,” he said, “As Amazon gets bigger, as Microsoft gets bigger, and as Meta gets bigger, they get more useful. There are only a few industries that haven’t behaved like that: finance, maybe healthcare.” 
+
+The reason, he believes, is that products have been so undifferentiated, so it became a game of customer acquisition and segmentation. There was a period a few years ago where there was a startup focused on practically every demographic cross-section you could imagine. 
+
+Ramp has been working to change that, as a financial technology company focused on helping its customers spend _less_. It’s been successful so far, building products that customers love to do things they didn’t realize a financial services company could do. 
+
+AI, done right, accelerates that. 
+
+A finance platform that gets more differentiated with scale – that saves customers more time and money as it grows by virtue of better data, products, integrations, and that can proactively do smarter and smarter things on its customers behalf to make their businesses more profitable – might be the most valuable platform there is to own. 
+
+Now is the time for _someone_ to build that platform. Will it be Ramp? 
+
+It’s certainly not guaranteed. 
+
+There’s a world in which AGI comes and gets so good at _everything_ that companies hire OpenAI to do everything they need to do, from finance to engineering to HR. If you’re going to bet on AI leading to consolidation, you have to consider the risk that it _really_ consolidates. 
+
+There’s also a world, a more likely one, in which AI agents can operate among many best-in-class point solutions in a way that feels no different to the user than using one solution. This world might actually weaken some of Ramp’s advantages. BILL’s interface is rough for a human, but it does offer both Accounts Payable and Accounts Receivable, whereas Ramp doesn’t offer AR yet. In this world, the work building delightful software for customers may end up being less important than building feature-rich point solutions that robots can figure out. 
+
+Then there are the millions of more mundane reasons it might not work, or that it might not get _quite_ as big as I imagine with my optimist’s hat on. If it’s no longer able to attract and retain the most talented employees, that will be an issue. If its AI agents abuse their power to make decisions that are in the best interest of Ramp but not the customer, that’s a huge issue.
+
+Doing big, complex, multi-product things, and stringing all of those things together in a cohesive way, is just hard. 
+
+**But the more interesting scenario to imagine is the one in which Ramp really can help make companies more profitable at scale.**
+
+That would mean that companies can spend more of their time and money on the things that matter to grow their businesses. 
+
+Employees can spend more time doing what they love to do at work… or even get more done in less time working.  That’s one of AI’s more exciting promises: not that we won’t have to work anymore, but that we can each do more with less. 
+
+I think we’re a long way away from AI replacing everything humans do, but it can certainly replace the most machine-like work we do. Filing expense reports, booking travel, negotiating for discounts on software products (with limited information), closing the books at month-end – these are all things that we should just hire software to do for us. 
+
+The history of automation isn’t that certain people lose their jobs forever while others continue to grind. It’s the history of more people spending less time to produce more output. We have weekends now, and vacation. Kids start working later in life, they can go to college. And adults retire earlier, instead of having to work until they die. 
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!kmnw!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8dca4c97-9aeb-477d-8a7f-06f8084a6980_856x586.png)
+
+](https://substackcdn.com/image/fetch/$s_!kmnw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8dca4c97-9aeb-477d-8a7f-06f8084a6980_856x586.png)
+
+I love working. Even if I got the fattest UBI check, I would continue to read, write, talk to smart people, and invest. But there’s plenty of stuff I don’t like about working. If AI can eliminate all of that so I can focus on what I love, bring it on. 
+
+As more people spend more time on the things they love doing at work – building things, spending time with customers, focusing for hours (or days) on really hard problems – they’ll be more productive, and generate more value. 
+
+As companies stop wasting money on software seats they don’t use and travel booking fees they don’t need to pay, they can hire _more_ of these more productive people to do the very human things that add value. 
+
+It’s an anti-Private Equity way of making a business more profitable: making each employee happier and more productive such that companies can hire _more_ of them to add more value. [Jevons Paradox](https://en.wikipedia.org/wiki/Jevons_paradox#:~:text=In%20economics%2C%20the%20Jevons%20paradox,use%20is%20increased%2C%20rather%20than) is a hell of a drug. 
+
+Plus, more talented people might start their own companies if they just need to be really good at the thing that they’re good, and not also good at all the undifferentiated work that comes with keeping a company running. 
+
+More value might flow to the companies that care about crafting great products and delivering great value when agents with tons of data help make purchasing decisions.
+
+There are tons of second and third order effects in the world in which Ramp succeeds in making companies more profitable, not the least of which is that profits can be reinvested in growth, and **growth is good**.  
+
+And what’s a business that quite literally makes every other business more profitable worth? 
+
+Man, I don’t know. A lot.
+
+_Thanks to Eric, Karim, Calvin, William, Jo, Lindsay, Lulu, and the Ramp team for input and feedback on this piece!_
+
+That’s all for today. We’ll be back in your inbox with a Weekly Dose on Friday.
+
+Thanks for reading,
+
+Packy
+
+#### Discussion about this post
+
+### Ready for more?

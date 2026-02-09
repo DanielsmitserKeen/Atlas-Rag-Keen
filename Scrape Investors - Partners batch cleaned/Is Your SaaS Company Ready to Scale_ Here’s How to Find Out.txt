@@ -1,0 +1,252 @@
+# Is Your SaaS Company Ready to Scale? Here’s How to Find Out
+
+Growing a B2B SaaS company is a major challenge, no matter what stage the company has reached so far.  
+
+This is especially true for founders and executives operating below $50 million in revenue. Sure, you have a strong product and have gained some traction. But navigating market competition, defining the right go-to-market strategy (GTM strategy), and understanding key growth levers make it hard to leap to scalable growth. 
+
+If you can’t get these pieces of your GTM strategy right, you’ll find yourself working overtime but unable to break through a seemingly indestructible growth ceiling.
+
+If you can take the time to understand your market and how your product, sales, marketing, and customer success departments can deliver that value to customers. You’ll be amazed at how clear your growth path becomes and how (relatively) easy it can be to execute.
+
+As a founder or as an investor, how do you know if your company is set up for growth?
+
+The secret lies in thoroughly auditing your market, product, and sales strategies and tactics. You need to find out what’s strong, what exists but needs help, and what doesn’t exist but needs to be implemented.
+
+This blog dives into actionable steps to assess the growth viability of your company. It explores essential areas such as market fit, go-to-market strategies, and revenue levers. 
+
+Whether you're leading a SaaS startup, a seasoned executive, or even an investor doing due diligence, this guide will equip you with the framework you need to assess your company's potential, make informed investment decisions, and create a roadmap for sustained growth.
+
+## 1\. Understand the Market
+
+The first step is to get a firm grasp of your market’s current state and how well your company understands it. 
+
+Is your target market big enough? Is it too big? How competitive is it? How mature?
+
+Answer these questions to narrow your focus and maximize your GTM strategy's effectiveness. On the other hand, if you use the wrong GTM strategy for your situation, you may add significant friction to your growth path. Or you might derail it completely.
+
+### Market Size and Potential (TAM, SAM, SOM):
+
+I like to determine a company’s target market by running a [TAM, SAM, SOM exercise](https://www.kalungi.com/blog/5-steps-to-go-to-market-focus). 
+
+Start with the **Total Addressable Market (TAM)** of all potential customers in the world. Then narrow this list to the **Serviceable Addressable Market (SAM)** by identifying the specific market segments you can realistically serve based on language, pricing, product functionality, onboarding capabilities, etc. Finally, cut this list down to the **Serviceable Obtainable Market (SOM)** to understand the specific niche you can prioritize for the next 6-12 months, with your existing product, marketing, sales, CS teams & capabilities.
+
+These three lists give you a great picture of a company’s growth potential. They allow you to understand how large your company's long-term potential is, while showing you how focused its short term GTM efforts need to be.
+
+How a company selects (or doesn't select its SOM says a lot about its GTM strategy. A great GTM strategy starts with a solid SOM construction, while many sub-par ones create a SOM that is too broad. GTM strategies that really struggle, though, don't have a SOM at all.
+
+![TAM-SAM-SOM (1)](https://www.kalungi.com/hs-fs/hubfs/TAM-SAM-SOM%20(1).webp?width=1920&height=1080&name=TAM-SAM-SOM%20(1).webp)
+
+**The biggest issue I’ve seen with companies’ market sizing is that they often focus on markets that are too large.** They don’t want to say no to potential customers and want the future of their company to seem as bright as possible. While this makes sense at first glance, this strategy contains some significant risks. What these companies don't realize is that this strategy delivers an undifferentiated product. Undifferentiated products hinder companies' revenue, growth, and profitability. They don't resonate with prospects and get lost in the noise of the market.
+
+The key to a strong, focused GTM strategy is developing a tight [Ideal Customer Profile](https://www.kalungi.com/blog/nailing-b2b-saas-icp) (ICP). Defining your ICP is essential for a focused market strategy. Knowing your ICP allows you to prioritize the most important customer segments. If you don’t have an ICP yet, use our [template to build one](https://www.kalungi.com/blog/how-to-define-b2b-ideal-customer-profile-template-icp).
+
+Equally as important, it gives you permission to deprioritize other, less important segments. Great ICPs force you to tailor your positioning and messaging, maximizing your differentiation in the market and growth.
+
+### Market Maturity:
+
+**Named Categories:** Examine whether analysts (Gartner, G2 Crowd, Capterra, or Software Advice) have identified your market as a category. A named category suggests a mature market, while an undefined space usually points to an emerging market.
+
+**Competitor Analysis:** Assess how many competitors operate in your space. Are there clear leaders, or is the field open for disruption? If you encounter your competitors frequently, analyze your win/loss ratio to understand your competitive positioning. Understand on a deep level, where they beat you and why. What value do they provide that you can’t? Where do they have gaps in their capabilities that you can stand out in?
+
+For more information on market maturity and how to select the right GTM strategy for your market, [take a look at this blog](https://www.kalungi.com/blog/why-market-maturity-is-so-important-when-selecting-a-go-to-market-strategy-for-b2b-saas-companies).
+
+### Market competition:
+
+**Open Market:** Are you the only player in your market? Are you creating a market that didn’t exist before your product? If so, then you’re a first mover, embarking on a blue ocean strategy. Being a mover has some massive benefits like a lack of competition and your ability to set the standard for what solutions look like in this market. 
+
+The downside is that more often than not, prospects aren’t ready to buy. In fact, they most likely haven’t heard of your solution before, and they may not even know that they have a problem that needs to be solved. As a result, you need to spend a lot of time and effort educating the market. 
+
+Furthermore, unless your product is revolutionary and will upend the way your ICP does their jobs, it can be difficult to gain rapid traction until you’ve taken the time to develop the market for your company.
+
+**Competitive market:** Are you playing in a market with a lot of competitors? Are you often coming up against similar products when trying to sell yours? Then you’re most likely in a competitive market. 
+
+The plus side of a competitive market is that your prospects are both “problem-aware” and “solution-aware.” This means that they’re actively searching for a solution like yours. All you need to do is show up in the right place, with the right message, targeted for the right audience, and you will be able to grab market share. The trick here is that you’ll compete with incumbents who are often larger, more established, and will have much larger budgets than you. 
+
+This means you’ll likely have to “pay to play” and spend money on more expensive advertising, etc., to help gain market share. It also means that you can “niche down and carve out” your market. You can select a small ICP and build your product, marketing, sales, etc. completely around it. This will let you gain a strong foothold in the already competitive market. 
+
+From there, you can expand your market until you’re large enough to take on incumbents directly.
+
+## 2\. Understand the Product
+
+Your product’s fit within your target market is the next indicator of scalable growth potential. 
+
+Product differentiation and positioning are critical to establishing your foothold within your market. If your company has established product market fit, you can invest in the right GTM areas and see rapid, scalable growth. 
+
+However, if you don't have product market fit, growth can be much slower and more painful than it needs to be.
+
+### Product Differentiation:
+
+What does your product do best for customers? What can you do measurably better than your competitors? What can only your product do? 
+
+Make sure you have tangible answers to these questions. Most importantly, make sure these features/benefits really matter for your target market. These questions should guide your focus on delivering tangible, market-relevant value.
+
+Your product's **unique selling propositions (USPs)** should align with the specific needs of your ICP. If your product offers a distinct set of features or solves a problem better than others, you can use this differentiation to guide your GTM strategy.
+
+For more information on how to create a messaging framework that highlights and enhances your products differentiation within your target market, [read this blog](https://www.kalungi.com/blog/free-saas-messaging-framework-template).
+
+### Product Fit and Validation:
+
+Use your current customers as a litmus test. Are they paying, staying, and advocating for your product? Are they proactively referring other clients to your product? This is a strong indication of product-market fit. It suggests that your differentiation strategy resonates with your target audience.
+
+Make sure that you’re constantly talking with your customers to understand their Jobs to be Done, their pain points, and how your product does (or doesn’t) solve their problems. Regular check-ins with customers or even customer advisory boards are fantastic ways to stay in touch with your target market.
+
+Your goal is to achieve “Product Market Fit” (PMF), which means that your product solves your market’s needs so well that people “pay, stay, and refer others” on their own. When you achieve PMF, you can pour the gas on your GTM efforts and (with the right GTM strategy & execution) really start to see exponential growth.
+
+For more information on Product Market Fit, listen to this [B2B SaaS Marketing Snacks podcast episode](https://www.kalungi.com/b2b-saas-marketing-snacks-podcast/diagnosing-product-market-fit), or read [this blog](https://www.kalungi.com/blog/10-milestones-to-reach-product-market-fit).
+
+## 3\. Understand the GTM Strategy
+
+Once you understand your market and product fit, turn your attention to your go-to-market strategy. Tailor your GTM to the market you’re playing in, the audience you’re trying to attract, and the unit economics of your product pricing.
+
+For instance, the higher your Average Contract Value (ACV) is (the average amount a customer pays you in a year), the more you can spend acquiring a customer. Conversely, if you have a low ACV, you can’t spend a lot of money converting prospects to customers, drastically impacting the way you go to market.
+
+Make sure that your GTM strategy yields strong unit economics, and allows you to profitably grow your business. If not, at least make sure that the rapid growth that is generated, more than offsets the negative ROI of your GTM strategy. Equally as important, make sure there is a plan and path to using the economies of scale generated by that growth, to yield profitability that makes it all worth it in the long run.
+
+Sales-led strategies can work for low-ACV products, and product-led strategies can work for high-ACV products, but these cases are much more the exceptions than the rule. Regardless of which GTM motion you select for your company, be careful not to create a system that generates demand but with unprofitable unit economics. This dynamic can create a situation that is increasingly difficult to remove yourself from, as your revenue growth hurts your profitability. Of course, this can be a good strategy in the short term, as you get traction, or if you’re making a conscious decision to prioritize market share over profitability, but it’s not a viable long-term strategy.
+
+Below are a few general GTM strategies to help gauge if your company is going to market the right way, for its situation.
+
+### GTM Model Selection:
+
+**Sales-Led:** Ideal for high-value, complex products where personal touch is necessary to close deals. 
+
+Because the product has a high ACV and a long, complex sales cycle (6+ months), companies can afford (and are often required) to spend a lot on custom account based marketing efforts, outbound and inbound sales efforts, wining and dining, exclusive events, etc. This lends itself very well to a large team of highly-paid salespeople that are supported by complex marketing efforts to attract a smaller number of high-value customers. 
+
+Some viable methods in this motion include:
+
+*   1:1 or 1:few Account based marketing
+*   Multi-touch paid media aircover ads
+*   Personalized cold outbound
+*   Thought leadership
+*   Customer interviews & testimonials
+*   Amazing sales materials
+*   Partnerships
+*   Exclusive events & executive round tables
+*   Industry & analyst relations
+*   Solution selling
+*   Land and expand selling
+
+**Marketing-Led:** Suitable for products with an ACV of around $20,000 to $80,000. 
+
+This motion usually has moderate sales cycles of 3-6 months. It relies on a mix of inbound and outbound marketing to generate demand and nurture it before handing it off to sales, but it can’t support highly custom motions like a sales-led strategy can. 
+
+Here are a few examples of tactics that fall in a marketing-led motion:
+
+*   Thought leadership & content creation (blogs, videos, podcasts, etc.)
+*   Customer interviews & testimonials
+*   Search Engine Optimization
+*   Events
+*   Paid Media Advertising (Google, Meta, LinkedIn, etc.)
+*   Partnerships
+*   Email marketing
+*   Organic social media
+*   Review sites (Capterra, G2crowd, etc.)
+*   1:many Account Based Marketing
+*   Cold outbound (call, email, etc.)
+
+**Product-Led:** Best for low ACV, self-service, low-friction products where users can experience value immediately and without human intervention. 
+
+This GTM motion usually supports quick sales cycles and depends on a strong, engaging, product-first sign-up and onboarding experience for customers. Success demands cheap, high-volume demand generation and often requires either negative ROI growth to gain traction or virality to kickstart growth. 
+
+Some GTM options for a Product Led Growth strategy include:
+
+*   Thought leadership & content creation (blogs, videos, podcasts, etc.)
+*   Customer interviews & testimonials      
+*   Search Engine Optimization
+*   (low CPC) Paid Media Advertising (Google, Meta, LinkedIn, etc.)
+*   Email marketing
+*   Organic social media
+*   Referral programs
+*   Review sites (Capterra, G2crowd, etc.)
+*   Community building
+*   User generated content
+*   Freemium, Trial-based land and expand
+
+## 4\. Understand the GTM Execution
+
+Without solid execution, a great strategy is just a good idea. In other words, a well-defined GTM strategy is only as good as your team’s ability to implement it.
+
+Dig in to all of the marketing campaigns and tactics your company is executing to ensure that the great strategy you identified above is being implemented efficiently and effectively. This is where companies often stumble, especially when an inexperienced team marketing team is in play, if there is a poor goal-setting system in place, or if sales and marketing are not aligned.
+
+Whenever I need to gauge if a B2B SaaS company is ready for scalable growth, the first thing I do is run an in-depth marketing audit to determine what foundational elements are in place, and how well the team is executing the company’s Go to Market strategy.
+
+Here are some of the areas my team and I will look at to fully understand the state of a company’s GTM execution:
+
+### Team:
+
+Does your marketing team have the right roles and skillsets to accomplish your GTM strategy? Do you have the right level of strategic ability to see the playing field and make the right moves? Do you have the right level of tactical ability to do the right work in the trenches and actually get the results? 
+
+Making sure that you have the “right people” for the “right seats” and that they “Get it”, “want it”, and have the “capacity to do it” (think EOS) is arguably the most critical piece to look at when auditing a marketing department.
+
+### Sales and Marketing Alignment:
+
+In a modern SaaS company, the marketing funnel should seamlessly transition into the sales funnel. Regular communication between these teams is vital for nurturing leads effectively. Marketing should continue to support leads even after they enter the sales funnel, providing tailored content and sales enablement materials.
+
+### Positioning & Messaging:
+
+No matter how good your product or service is, if it isn’t positioned correctly towards the right audience, and you can’t differentiate why it’s better than the competition, you’ll struggle to grow. 
+
+Ensure that you’ve identified the right ICPs, and the right personas within those companies and have built your messaging (and, more importantly, your product) to become the champion of that audience.
+
+### Demand generation channels:
+
+Is your company and product showing up in the right places for the right people? Or are you just running Google Ads because everyone else is doing it? Make sure that you’re showing up where your prospects’ watering holes are, where they consume information and make decisions. 
+
+This could be on Google search, social media like Meta, LinkedIn, Instagram, etc. or even in industry publications or events. Just make sure your product and brand are well-known and well-respected in these circles.
+
+### Demand Creation vs Demand Capture:
+
+Are you only publishing a blog and then wondering why more people aren’t naturally converting on your site? Or are you only running bottom-of-funnel ads and not seeing good engagement? If either of these seems familiar to you, you are likely skewing too much toward [demand creation or demand capture](https://www.kalungi.com/blog/demand-creation-vs-capture). 
+
+Make sure that you’re balancing the work of capturing the market’s existing demand, while also taking the time to create additional demand as well. If you don’t, you’ll likely hit a growth ceiling that will be very difficult to break through. Learn more about demand capture vs creation.
+
+### Content:
+
+How well does your content add real value to your prospects? Are you answering the actual questions they’re asking? Are you adding real thought leadership to the conversations happening in the market? Or are you just pumping out AI, built, SEO-optimized content that doesn’t actually solve any problems for your audience? 
+
+At the end of the day, your content needs to convince your audience that they need to change, with you, and now. If you can’t create really compelling content that accomplishes those three things, your marketing results, and growth will suffer.
+
+### Marketing Operations:
+
+Do you have a marketing CRM that serves as a “one source of truth” for your business? Does it give you a clear line of sight into how people interact with your site, marketing materials, etc.? Can you tell what sources produce Marketing Qualified Leads, Opportunities, and Customers? What about what campaigns are producing those results? 
+
+Finally, does your CRM allow you to automate your marketing efforts to scale your team’s impact, while effectively handing leads off to product, sales, and customer success? If the answer is yes to all of these questions, you’re likely in pretty good shape. If not, make sure you dig into your CRM to solve any gaps. 
+
+A clean, well-functioning CRM is the key to your ability to make the right decisions and grow your business the right way.
+
+### Brand:
+
+Was your brand built with your target audience in mind? Do the colors, fonts, and styling resonate with the people you’re trying to sell to? Does your brand make you look 10x bigger than you are? 
+
+Make sure that your brand reinforces your credibility and engages your audience on the right emotional level. Also, make sure that you have a clear brand standard and that your brand is consistently implemented across every prospect and customer interaction.
+
+### Product marketing:
+
+How well does your product fit your market? Do you have consistent customer feedback loops? Are you constantly building your product roadmap based on what your ICP needs to solve their problems? 
+
+Make sure that you not only have these feedback loops in place but also have a function to make sure that there is complete alignment between marketing, sales, customer success, and product. Every prospect and customer interaction must be as great as it can be, but also consistent across the various teams. 
+
+Doing this well will increase your demand gen and sales conversion rates and your customer satisfaction, retention, and upsell rates.
+
+### Website:
+
+Your website is the storefront to your business. Make sure that it is polished, professional, and quickly communicates your differentiation to prospective customers. 
+
+Run a/b tests to make sure you’re optimizing your conversion rates, constantly SEO optimize your pages, so you’re showing up in the right place, for the right searches. Make sure you address bugs, speed issues, etc. that would keep google from crawling it. 
+
+Most importantly, make sure it is a beautiful representation of your product. It should be designed for prospects to quickly learn about your product, and easily convert to customers.
+
+Auditing the above categories will give you a comprehensive view of your marketing performance to-date. You’ll know what is in great shape and should be built upon, what exists and needs to be adjusted, and finally, what doesn’t exist and needs to be built. 
+
+This process will also give you an understanding of the urgency associated with each item, and how well prepared your company is for exponential growth, from a marketing perspective.
+
+### Key Takeaways:
+
+*   Start by analyzing your market's maturity and size to determine your strategic options.
+*   Understand your product's differentiation and align it with a targeted ICP.
+*   Choose a GTM strategy that fits your market dynamics and product value.
+*   Ensure flawless GTM execution with close alignment between sales and marketing and a focus on data-driven decision-making.
+
+In summary, by systematically understanding the market, product fit, GTM strategy, and execution, you set a solid foundation for sustainable SaaS growth. This structured approach will enable you to identify growth opportunities and adjust your strategy to maximize your potential in the marketplace.
+
+Kalungi is the ideal marketing agency to support your scaling. Our [T2D3](https://www.kalungi.com/t2d3) framework was designed to build B2B SaaS companies’ marketing functions, revenue, and growth. Contact us today to [kickstart your growth](https://www.kalungi.com/contact).

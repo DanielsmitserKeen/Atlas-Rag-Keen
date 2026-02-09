@@ -1,0 +1,267 @@
+# Jason Fried on Using JTBD at Basecamp
+
+[![Chris+Bob-Byline-v2](https://jobstobedone.org/wp-content/uploads/2012/10/ChrisBob-Byline-v2.png)](http://jobstobedone.org/wp-content/uploads/2012/10/ChrisBob-Byline-v2.png)
+
+## For more than 15 years, [Jason Fried](https://twitter.com/jasonfried) has helped individuals and teams improve their collaboration, productivity and the nature of their work.
+
+Jason is the co-founder and CEO at [Basecamp](https://basecamp.com/), a “… saner, calmer, more organized way to manage projects and communicate company-wide.” Basecamp is known for bootstrapping their company (except for letting [Jeff Bezos buy a small part in 2006](https://www.youtube.com/watch?v=v4YA7i8X3wA)) and having an incredibly profitable, small and very remote team. You’ve likely read one of Jason’s many essays at [Signal v. Noise](https://m.signalvnoise.com/), his three best-selling books – [Getting Real](https://www.amazon.com/Getting-Real-Smarter-Successful-Application/dp/0578012812), [Rework](https://37signals.com/rework) and [Remote](https://37signals.com/remote) or watched his [TED Talk](https://www.ted.com/talks/jason_fried_why_work_doesn_t_happen_at_work). Each chronicles smarter ways for individuals and teams to work.
+
+We caught up with Jason to discuss what Jason learned from interviewing Basecamp customers, why it’s important to refine your customers’ language during interviews his passion for sharing the framework with others.
+
+If you like what you hear, [check out more episodes of JTBD Radio](http://jobstobedone.org/topics/radio/): You can subscribe on [iTunes](https://itunes.apple.com/us/podcast/id499859427) or grab the [RSS feed](http://feeds.feedburner.com/jobstobedone).
+
+Below you will find a lightly edited and condensed transcript of the episode. Don’t have much time? Here are a few quick takeaways:
+
+TAKEAWAYS:
+
+1.  [Jason worked with Bob and Chris](https://jobstobedone.org/radio/jason-fried-on-using-jtbd-at-basecamp/#how-basecamp-applied-jtbd) of The Re-Wired Group and used JTBD to “figure out why people hire Basecamp”. These interviews were very different than how Basecamp used to talk to customers as the JTBD interview got to the root cause of why people hired Basecamp.
+2.  [JTBD interviews help you define a customer’s language](https://jobstobedone.org/radio/jason-fried-on-using-jtbd-at-basecamp/#challenging-interviewees) (such as what they mean by “easy”), the root cause of why they switched and how their story connects which in turn impact your product marketing.
+3.  [When Jason interviewed Basecamp customers](https://jobstobedone.org/radio/jason-fried-on-using-jtbd-at-basecamp/#jason-jtbd-project-takeaways) he was surprised to find that they didn’t use the words project management, even though Basecamp had spent 8 years using that phrase.
+4.  [The first Switch conference was born when](https://jobstobedone.org/radio/jason-fried-on-using-jtbd-at-basecamp/#first-switch-conference-inspiration) in the middle of the JTBD project Jason turned to Bob and said: “We should do a conference” – he wanted other people to experience JTBD
+
+INTERVIEW TRANSCRIPT:
+
+## 1\. How Jason decided to use JTBD at  Basecamp and how it’s different than Basecamp used to talk to customers
+
+> ## “We hired you guys at The Re-Wired Group to help us figure out why people hire Basecamp…”
+> 
+> #### – Jason Fried
+
+**Bob \[Moesta\]:** Jason, How did you learn about Jobs-To-Be-Done and come to use it within Basecamp?
+
+**Jason:** The whole concept came to us through [Ryan Singer](https://twitter.com/rjs), who works here at Basecamp. He had seen the [Milkshake video that Clay did](https://jobstobedone.org/news/clayton-christensen-understanding-the-job/) and he was sort of curious about who this colleague was that Clay was talking about \[in the video\]. So … Ryan found out that it was you, Bob … \[he\] came to me and told me about this guy he met who had some really interesting ideas. I’d heard some of these ideas…, but then hearing them from Ryan again really made me think there was something to this, so that’s how it all started. As you guys know but listeners don’t, we hired you guys at The Re-Wired Group to help us figure out why people hire Basecamp, and that was a really interesting project. Part of the reason why \[Basecamp offered to host\] the Switch Workshop is because \[we thought\] the insights \[from the project\] were so valuable … that we wanted to share some of these insights with other people so they can do the same type of things with their own products.
+
+_\[Note: Hear more how Ryan Singer brought JTBD in to Basecamp in [30 minutes with Ryan Singer](http://jobstobedone.org/radio/ryan-singer-jtbd-radio/) on Jobs-To-Be-Done Radio.\]_
+
+## “Well, we’d talk to customers before… but talking is not enough. You’ve got to ask the right kind of questions and you’ve got to get to the right kind of answers. What I think is so different about \[JTBD\] … is that we’re actually looking for the root. We’re looking for the real causes of purchasing or canceling or quitting.”
+
+#### Jason, explaining how the JTBD is different than just “talking to your customers”  
+
+**Bob:** What was so different about \[JTBD\] in terms of talking to customers?
+
+**Jason:** Well, we’d talk to customers before. Hopefully, every business has talked to their customers, but talking is not enough. You’ve got to ask the right kind of questions and you’ve got to get to the right kind of answers. What I think is so different about the lessons that you guys teach and the techniques that you guys teach is that we’re actually looking for the root. We’re looking for the real causes of purchasing or canceling or quitting.
+
+In the past, we’d talk to customers about what they liked about our product, what they didn’t like, things like that, and you get a very surface-level understanding of what they like but that doesn’t really tell you a whole lot. What you really want to get down to are the causes and the reasons why someone switched to your product or switched away from it because that’s where the emotional stories are, that’s where the deep insight is into what actually finally pushed them into making this purchasing decision.
+
+One of the things that I learned from you guys — and it seems obvious but it wasn’t at first — was that people don’t just decide to buy something. No one ever just decides to buy something. Something has to happen to you first. You’ve got a lot of things going on in your life and you don’t just wake up saying, “I’m going to buy this new thing today.” You might think that but really what happens is your purchases are sort of an answer to a question you’ve been asking to yourself, and getting to that question and getting to those situations is really valuable.
+
+> ## “What you really want to get down to are the causes and the reasons why someone switched to your product or switched away from it…”
+> 
+> #### – Jason, comparing how Basecamp used to talk to its customers to and what JTBD focuses on.
+
+**Bob:** Yeah, it’s digging down deep to the causality, right? It’s like, “Well, it was easy.” Well, why was easy important? We just check the box “easy” and move on, but for us, we want to dig down and say, “Other things are easy, why is this easier than something else? Why is easy important at this point in time?”
+
+When you think about any kind of switch you make, when you unpack it, when you pull it apart, you realize that there’s a lot that goes into it. There’s a lot that goes into trying to figure out ‘which software do I want to buy?’ ‘Can I get the other people on it?’ All the anxiety around it and everything else that’s there. As much as we think it’s simple on the surface, it really is a complicated thing. Once you find the right emotions you realize that other people have the same emotional drivers with them and so it simplifies a lot of the depth.
+
+## 2\. Challenging interviewees: Why it’s important to define “easy” and how that can change how you market your product
+
+> ## “… every answer is a deeper question to that same answer.”
+> 
+> #### – Jason, explaining what he learned from Chris & Bob and why you can’t just let a customer answer “I love Basecamp because it’s easy”
+
+**Jason:** The thing I liked about what you just said is “Why is easy important?” Because it’s so easy for us to just see someone going, “I love Basecamp because it’s easy,” and then we could just move on to the next question, but you can’t just move on to the next question. That’s what I learned from you guys is that every answer is a deeper question to that same answer.
+
+So when someone says why is something easy, or when I ask someone why is easy good, it seems like well of course easy is good. Isn’t easy good? But what you can find out is that easy is good for them because everything else in their life is really complicated, everything else in their life causes stress. Sometimes easy can just be an oasis, it can be a moment for somebody to breathe and to smile a little bit during their day.
+
+So it’s not just that it’s easy, it’s that it actually brings a sense of well-being and pleasure in many cases. That’s just really interesting when you can get that deep into why people answer a specific question a certain way and find out it’s almost always an emotional response. Once you understand these emotional responses, you can change the way you explain your product or change the way you market your product or the messaging around it to play on those emotional responses a lot more than just fact or features, which are ultimately boring things to most people.
+
+> ## “Once you understand these emotional responses, you can change the way you explain your product… to play on those emotional responses a lot more than just fact or features…”
+> 
+> #### – Jason, explaining that JTBD helps you understand and market to emotional responses which are more compelling than simple fact or features
+
+**Chris \[Spiek\]:** One thing that the people who came to the first workshop really figured out was sometimes it’s hard to get at those insights, but often times we find that it doesn’t take a whole lot of questions or polling when you’re doing these interviews for that emotion to come out. If they say it’s easy, just say, “Help me understand that, I really don’t get it. What was going on during that day and why was easy so important?”
+
+It’s unbelievable how these stories pour out and you get that whole situation, you get all the context that really can help you refine the product or take it in the right direction. It always kind of astonishes me how much people are willing to tell you in these interviews.
+
+**Jason:** The other thing is you don’t get rehearsed answers, which is cool. Because people haven’t been asked these questions before in that same way, so they don’t have their standard talking points or anything. They actually have to think about these things, and sometimes they’ve never thought about them at all before. Subconsciously they have, but they’ve never explained to someone else. What we saw, people see it as an interesting challenge to understand what they are thinking themselves, and that’s a fun thing to do.
+
+**Chris:** To build on the method, that’s one thing I’ve learned from watching Bob do these interviews for a long time, and I think everybody picked up at the workshop is it’s hard to do these interviews and let people think. When you see somebody struggling with an answer, you always want to jump in and help them out. You can get so much from just saying why is easy important? And just sitting back and letting them ruminate and giving them time then seeing what comes out. That’s just one of the little nuance methods that we always try to make sure people understand.
+
+**Bob:** It’s like “easy to install”, I was thinking it’s easy for somebody else to do, right? Then it takes a completely different path. The other thing is definitions… I was doing an interview the other day where \[the interviewee was\] talking about walking into Best Buy with their mother to buy a computer and the notion was it was “comfortable”. I’m like “okay, hold on a second. Let me make sure I got this right, you’re walking in with your 85-year old mom to buy a new computer and she feels comfortable? Going into Best Buy?” He’s like “no, comfortable is not the right word. It’s more like…” and he ended up repacking the word to it’s “familiar”… they might pick a word and you need to dig at it to make sure that’s what they mean…
+
+And you need to call them out sometimes when it’s like “that makes no sense to me.” What we’re finding, especially when talking to some people after the first \[Switch\] workshop and them now talking to customers, is they’re worried about challenging the customer on some of their definitions. It’s really trying to make sure \[the interviewee\] is clear. You’re not catching them in a lie. It’s like \[in the Best Buy story where the interviewee\] said “comfortable” but all of a sudden we got to “familiar” which meant a whole different thing. Because trying to design a “comfortable” store is not easy \[for product developers and designers\], but a familiar store, that’s easier. So it’s back to how you end up unpacking \[the interviewee’s language\] .
+
+**Jason:** I love words, so for me that’s one of the reasons why I think I like this stuff so much, because individual words matter. We spend so much time on our copywriting. On a specific sentence we can spend an hour plus, on just one sentence. I think that each individual word says so many different things. Like you just said, comfortable versus familiar, very, very different. They’re about the same length and you feel like they’re kind of synonyms, but they’re not at all when you really get down to what they really mean.
+
+I just find that whole process fascinating, to get down to what people really mean.
+
+> ## “…comfortable versus familiar, very, very different. They’re about the same length and you feel like they’re kind of synonyms, but they’re not at all, when you really get down to what they really mean.”
+> 
+> #### – Jason, explaining why you need to challenge an interviewee and refine their language
+
+**Bob:** But the thing is, when you translate that word “familiar” versus “comfortable” into what the developer or the designer has to do, \[those two words can\] lead you down completely different paths. So the reason why you need to get to such depth and get to such clarity is because without that clarity, you end up possibly unpacking or adding more features that you don’t need to add, because what they really meant was “familiar” and \[you as a developer or designer\] are trying to make it “comfortable”, and you’re going to realize, I can’t get \[to what the interviewee meant by “comfortable”\].
+
+> ## “…without that clarity, you end up possibly unpacking or adding more features that you don’t need to add…”
+> 
+> #### – Bob, on the hidden cost of not **_pushing_** an interviewee refine their language.
+
+What they say and what they do is so different, and you need to make sure that it’s as clear as possible. In a lot of cases, \[using\] analogies and working in analogous spaces \[really helps\], “if this wasn’t a computer you were buying but something in the grocery store, what would it be?” \[Using analogies and analogous spaces in interviews\] helps \[the interviewee\] build better language for you to help give direction \[to your designers and developers\]. That’s really important.
+
+**Chris:** I was with a team of researchers all last week, big enterprise people that were skilled in research, and I think they were astonished or shocked at how much I pushed the consumer to refine that \[language\]. It was almost borderline uncomfortable for them, the quote was “we’ve been trained to let the consumer talk.” Not that I was interrupting \[the consumer\], but don’t butt in, just let \[the interviewee\] move on, and I kept pushing and pushing for that language refinement. It’s a big departure from what a lot of people are used to.
+
+**Jason:** Why do you think that they recoil in horror? What was it about that process that scares them?
+
+**Chris:** From my understanding, it’s how they’ve been trained. There is such a fear of leading the consumer. The fear is if you start to interject too much, it’s like the anthropological approach. Just the fact that you’re there is already skewing how they’ll behave, but if you start to ask questions and plant ideas in their mind, then you’re going to lead them to the answer that you want.
+
+The two comments I got are one, you really ask a lot of questions and two, somehow you do it in a way that doesn’t lead \[the interviewee\]. I think the second half of it is just being comfortable saying like Bob said, “I’m really confused”. You said this, and it might be what you meant, but you’ve got to help me out because it’s just not adding up, it’s not connecting for me.  
+**Jason:** Bob says that a lot.
+
+**Bob:** Yeah. I do say that a lot.
+
+**Chris:** He’s confused a lot.
+
+## “Help me, I’m poor confused.” – Bob Moesta
+
+[![James Franco is confused like Bob Moesta](https://jobstobedone.org/wp-content/uploads/2017/02/James-Franco-What-Bob-Confused.gif)](http://jobstobedone.org/wp-content/uploads/2017/02/James-Franco-What-Bob-Confused.gif)
+
+The look on Bob Moesta’s face when tells an interviewee: “Help, me I’m confused” because their story doesn’t add up.
+
+## **3\. Jason’s top takeaways from completing a JTBD Project on Basecamp customers**
+
+> ## “… not even hearing the positioning that we use, that we’d spent so much time trying to hone was really eye-opening.”
+> 
+> #### – Jason, explaining how interviewees used very different words in explaining Basecamp than Basecamp used when positioning the product
+
+**Bob:** Out of all the different interviews we did \[during the Re-Wired/Basecamp project\], which we didn’t do a lot. We did about ten of them. What are the nuggets that you got out of the interviews that you’d say “wow,”? What would you say is kind of your biggest moment?
+
+The beauty is that you sat through every one of them and listened to each one and you were active in \[the interviews and project\], which is rare for the way \[The Re-Wired Group\] works. Usually \[clients\] ask us to go off and do it without them, and we wanted to make sure that we did it with you so you could have the benefit of all \[interviewee’s language\].
+
+**Jason:** For eight years we’ve been talking about Basecamp as a project management tool. What was interesting to me was that very few customers that we talked to really talked about project management. They didn’t use that term or really even think of it in that way. That was eye-opening to me. Different people said different things and had different reactions, but for me not hearing the words that we use or not hearing the description that we use or not even hearing the positioning that we use, that we’ve spent so much time trying to hone was really eye-opening.
+
+Of course Basecamp is a very successful product so something we’re doing is working. I always find it really fun to realize that maybe you don’t know what you’re doing. That was what was most enlightening to me, is that the customers that we were talking to weren’t even talking about project management. They were talking about all the other things like issues with adoption, making sure other people would use it with them. Talking about things like accountability and responsibility and audit trails and who said what when.
+
+All those things that are built into the product. Basecamp does a really good job of handling those things for them, but they never said Basecamp allows us to manage our projects better or anything like that. It wasn’t about that so much for them, it was about all the little small things that add up to make Basecamp a tool that they depend on.
+
+> ## “For eight years we’ve been talking about Basecamp as a project management tool. …very few customers that we talked to really talked about project management.”
+> 
+> #### – Jason, with an example of the difference in a Users’ perspective and a company’s
+
+_As Jason said  above when discussing why it’s important to refine a User’s language: “….individual words matter. We spend so much time on our copywriting. On a specific sentence we can spend an hour plus, on just one sentence.”_
+
+_Below are a few examples of how tuned in Basecamp is to its users and how they have adapted their messaging throughout the years._
+
+[![Basecamp Example Landing Page - project management](https://jobstobedone.org/wp-content/uploads/2017/02/basecamp-landing-page-ProjectManagementAbout-Communication.jpg)](http://jobstobedone.org/wp-content/uploads/2017/02/basecamp-landing-page-ProjectManagementAbout-Communication.jpg)
+
+[![Basecamp Example Landing Page](https://jobstobedone.org/wp-content/uploads/2017/02/basecamp_example2.jpg)](http://jobstobedone.org/wp-content/uploads/2017/02/basecamp_example2.jpg)
+
+### [![Basecamp Example Landing Page](https://jobstobedone.org/wp-content/uploads/2017/02/basecamp_example3.jpg)](http://jobstobedone.org/wp-content/uploads/2017/02/basecamp_example3.jpg)
+
+> #### From top to bottom: A landing page with project management management from a long time ago, a landing page from 2013 and Basecamp’s “Hair on Fire” landing page from early 2017.
+
+**Bob:** To me, it’s about the important, subtle moments that add value. Because as much as we always ask customers about what’s the best project management software out there, it’s small little things that add up to make it the best thing. So it’s always trying to find what are those small things and where’s the things that are adding the most value. You can clearly see in these interviews when you’re talking to people, I need to make sure nothing fell through the cracks. I got to make sure that in case someone comes back at me I know where everything is.
+
+All of a sudden it’s like all the details that I know when things got done, I know who did it, I know where, when it got shared, and the customer can’t come back and say “Hey, you didn’t send this,” and it’s like, “No, it got sent here,” all that record aspect of it is what makes it valuable to them.
+
+**Jason:** And technically, I mean, that is what project management could be defined as in some ways but they didn’t think about it that way or they thought about, like, the CYA side of it or the accountability of it or the audit trail or history log side of it. It wasn’t management so much as it was history and proof.
+
+…If we really think about what that means we could \[go\] in an entirely different direction. Designers could think about the product entirely different ways and market it and explain it and show demos in different ways and talk about different features. I mean, it could change everything that we do, and I hope it does. We haven’t gotten around to making these changes yet because the project just ended, but it opened a lot of new ideas to us.
+
+**Bob:** Right. Well, and it’s the ultimate thing here is it’s about trying to find out where the consumer, what the consumer values when they make that switch, because, again, when they’re making the switch it’s a lot of work. Whether I’m switching houses or I’m switching software or I’m switching anything, there’s a lot of effort that goes into it and so the thing is that we don’t seem to dig enough and \[JTBD\] is trying to get it down the root side.
+
+Clay and I talk about it as the causal side… just because I’m 48 and I’m a male and I’m in the Midwest it doesn’t mean I’m going to buy the Wall Street Journal. We have to understand the causal mechanisms of why I buy the Wall Street Journal, right? And that’s what we’re all about.
+
+**Jason:** It’s fascinating… You come away from every one of these interviews fascinated by what you just found out and that, to me, is a sign that something’s working, when you come away with new ideas. And that energy you get when you hear something new for the first time that you hadn’t heard and you thought you’d heard it all and you hear something new, that, I love that. That’s what it’s all about for me. So I get a lot of that out of these types of things and this type of thinking.
+
+## 4\. Why Jason pitched the “Switch Workshop” to Chris & Bob 
+
+> ## “…the insights were so valuable … that we wanted to share some of these insights with other people so they can do the same type of things with their own products.”
+> 
+> #### – Jason, explaining earlier in the interview how the valuable insights from JTBD project with the Re-Wired Group made him want to share JTBD with more people
+
+**Bob:** So, in the middle of doing all that work, you turned over and looked at me and said “You know, we should do a conference” and I’m like, “Uh, okay.” and started thinking about it for a little bit and then it’s like we’ll have 20 people here or 24 people come here and we’ll do a one day and see what happens and so we pulled that off. First of all, what were you thinking when you asked that? Because it’s like, I felt you wanted to share, right? So what was your real intention behind all that?
+
+**Jason:** I felt like I’d stumbled onto something really important by listening to you guys and seeing how you guys do what you do and whenever I feel that way I always want to share it with other people. I kind of hate keeping secrets that way.
+
+The best way I know how to do, of course you can write a book and all that stuff and there’s a lot you can blog about it, whatever, but I thought that the real value is the fact that I was there listening to these interviews and also learning how to do these interviews. I didn’t read a report that you guys wrote. I actually was there, and so I’m like “How can we get more people to have that experience?” And the first thing that pops into my mind is like an in person conference, small, intimate, 20, 25 people, something like that where we do these interviews and not only do we interview, or, we actually interview the attendees and then the attendees ultimately interview themselves by the end of the day after they’ve learned how to do the techniques.
+
+I was just excited to have more people think this way because at the end of the day the more people think this way the better products that are going to be out there. I’m a consumer just like everyone else, so I like to see more products that are appropriate for me and I’d like to find more of these products too. So, I’m just a fan of getting the word out there any way we can. This is the best, sort of, this is the highest resolution version of this type of teaching I can think about which is in-person, small group and really go into the stuff in depth.
+
+> ## “the more people think this way the better products that are going to be out there.”
+> 
+> #### – Jason, explaining that if more people use JTBD then they will make better products
+
+**Chris:** It was impressive how fast you got to that. So Bob and I have always been saying it’s not a science, it’s an art and it’s so hard. People say “How do you do interviews?” and it’s like, I can’t think of the PowerPoint deck that I could put together and give to you and have you read it and then do an interview. It’s like I need to show you, you need to see the emotion in the whole thing before you can hand it off to somebody and say “Okay. Go talk to your consumers and see what you get out of it.”
+
+> ## “Most businesses don’t know the real reasons why people switch to — or from — their products. We’ll teach you how to find out.”
+> 
+> #### – Jason from his blog post announcing the 2nd Switch Workshop after the 1st Switch Workshop sold out in 5 days. 
+> 
+> _Below is a post Jason wrote on October 15th 2012 announcing the 2nd Switch Workshop. See it [here](https://signalvnoise.com/posts/3272-announcing-the-second-switch-workshop-gain-fresh-insight-into-why-customers-choose-or-leave-your-product)_
+
+**[![2nd Switch Workshop - Jason](https://jobstobedone.org/wp-content/uploads/2017/02/2nd-Switch-Workshop-Jason-502x1024.png)](http://jobstobedone.org/wp-content/uploads/2017/02/2nd-Switch-Workshop-Jason.png)Jason:** Well, I find that a-ha moments are always hard to get to in print and that’s just me personally. But I think in person they’re really easy to see and I was watching around the room as people, as we were doing these interviews and you could see people nodding their heads in a way that if they had read that question and read their answer they wouldn’t have nodded their head, they just would have kept going in a book. But there’s something about hearing something and then the slight awkwardness that comes from someone realizing that there’s actually a deeper story than they were even aware of themselves.
+
+Then it turns into some fun. Everyone starts laughing a little bit, and it’s just a fun atmosphere to be in, and then realize that you’re learning this new technique that is really insightful and deep and can change the way you think about everything, including the things that you buy yourself. So I just kind of noticed that immediately when I was having those feelings sitting around the table, talking to customers, and I wanted to make sure other people could have that same feeling.
+
+> ## “…\[JTBD\] can change the way you think about everything, including the things that you buy yourself.”
+> 
+> #### – Jason, explaining what attendees really get from a Switch Workshop
+
+**Chris:** Yeah. It’s always interesting how you reflect on your purchases. So one of the people that we – we won’t give the whole thing away – but we interviewed one attendee, Hugh, about the suit that he had purchased. I talked to him a week later and he was laughing about, “I look with such suspicion at this suit because I think about how I approached it and I can really boil it down, everything that led up to that purchase. I wasn’t aware of it until you guys kind of pulled it out of me, and now I think about every purchase completely differently.” I think a lot of the people who get interviewed kind of feel that way. But it adds so much resolution. It’s a cool experience.
+
+**Jason:** It’s sort of a bit of a disease, I think, because every time I buy something now or I see someone buying something and I know the person, I’ll ask them, “Why did you hire that?” They don’t really understand what it means, and I go into the whole thing. But I’m always thinking about: why am I hiring this product? Why am I hiring this service? Why am I hiring this whatever? I feel like, in the long-term, it’ll make me a better buyer of things. Obviously a better salesperson too, but a better buyer, and that’s a benefit in itself right there.
+
+> ## “I’m always thinking about: why am I hiring this product? Why am I hiring this service? Why am I hiring this whatever?”
+> 
+> #### – Jason, explaining how learning JTBD can become a bit of a disease in that you start to see it appear everywhere
+
+**Bob:** Yeah, and on the sales side. So one of the things we’re doing on the sales side is we’re applying all this to a sales framework, because it really is salespeople really just help people buy what they already want to do. So the whole notion is, is that instead of trying to teach manipulative-type selling, it’s like, how do we actually have job-based selling, which is how do you teach salespeople to have these kinds of conversations with people to make them better consumers?
+
+And when there’s a fit you’ve got the product there, and when there’s not, to know how to walk away? So, we’re working on a whole kind of curriculum around teaching salespeople how to sell via Jobs-to-be-Done.
+
+**Jason:** I think if you guys manage to do that, you’re in a good position. Sales is the one thing I think more people need help with than anything else in business. Not even business, it’s just it’s everything, design, writing. I mean, designers have to be good salespeople. Writers have to be good salespeople. Programmers have to be good salespeople. I don’t think a lot of people think in those terms, but it’s very, very true.  
+I mean, there are so many people I know who are really good at what they do, but they don’t know how to sell and it’s frustrating because they just can’t see that that’s a skill that they need. I think once more people feel comfortable with that skill, you can do anything. If you can sell, you can do anything. So I’m looking forward to that class or that framework, whatever you guys drop.
+
+[![ABC Alec Balwin](https://jobstobedone.org/wp-content/uploads/2017/02/ABC-Alec-Baldwin.png)](http://jobstobedone.org/wp-content/uploads/2017/02/ABC-Alec-Baldwin.png)
+
+Could a Jobs-based selling curriculum teach salespeople to have these kinds of conversations with people to make them better consumers?
+
+## “…salespeople really just help people buy what they already want to do”
+
+#### \-Bob, explaining how a good Job-based sales person works
+
+**Bob:** Yep. I’ll say that the most fun I’ve had in the last two, two and a half weeks is talking to people from the \[Switch\] conference and \[who’ve\] set up and done some interviews. \[We told them\] “If you record them and you send them to us, we’ll talk through them with you.” It’s just amazing. First of all, what I didn’t anticipate was the anxiety \[Switch Conference Attendees\] had of being able to dial-up the customer and have kind of these deeper conversations with them.
+
+**  
+It was amazing how much anxiety was there to begin with. Then, once they did it, they realized how easy it was, and the one gentleman was like, “Oh, my.” He goes, “I couldn’t believe how fast everything just poured out, then where the emotion was and where the value was. At one point I felt like I was getting stuck, and then I asked one more ‘why’ and all of a sudden it just all came pouring out.”**
+
+> ## At one point I felt like I was getting stuck, and then I asked one more ‘why’ and all of a sudden it just all came pouring out.”
+> 
+> #### – A Switch attendee, explaining how you need to keep digging deeper because one more question can bring out all of the emotion and value. 
+
+_Want to hear more about another Switch Workshop Attendee’s experience? Listen to Nick Owsley recapp his experience on JTBD Radio [here](http://jobstobedone.org/radio/switch-workshop-recap-with-nick-owsley/)_
+
+**Jason:** Yeah. I remember when you guys were interviewing customers, I sort of kept thinking to myself… First of all, I’m an impatient person, and so as these interviews are going on, I’m like, “Okay, okay. We got it. We got it. Let’s move on. That’s when you’re going to annoy this customer because we’re still asking them questions.” But none of them seemed annoyed to me, actually, at the end of the day.
+
+A lot more stuff came out as you got deeper and deeper. So, it’s really enlightening to see… I mean, I felt the anxiety, myself, but I think it’s just misplaced, and you don’t know it until you try that. Then you realize that people are really happy to talk to you. First of all, people who use your product want to see it get better because that’s going to benefit them.
+
+If maybe your product wasn’t a good fit for them, and they don’t have any bad feelings towards you, they can help you understand why it wasn’t a good fit. They probably wanted to do that too, just because they want to help, and that’s so interesting to see, especially when we got to talk to Basecamp customers who left Basecamp for one reason or another. They weren’t mad at us, it just wasn’t the right fit and they helped us understand why and that was really great to hear.
+
+**Chris:** Yeah, I think most people find that that line of annoying, somebody who you’re interviewing is probably way farther away than you think it is. Like I, we, Bob and I have both pushed really, really hard and have never, I don’t think, come close to having somebody say, “You’re pushing too hard” or “Cut it out” or anything like that. People are usually by the time you’re really asking people questions it like they’re fighting to kind of remember the details just as much as you’re fighting to help them tease them out. But yeah, the first couple times you do it it’s like, “I’m not sure I can ask this.”
+
+**Bob:** Yeah, there have been cases where people have just been, like, we feel like they’re annoyed on the other end of the phone and at the end they’re like, “God this has been the greatest conversation I’ve had in a long time,” and you’re like, “Wow, I thought I was pissing you off.”
+
+**Jason:** You never know. But you don’t piss them off. It’s again, that anxiety, which shows how powerful anxiety is. You make up all these stories in your head about how difficult something’s going to be and how much you don’t do something. I mean, it’s just part of the human condition. We’re always sort of defending ourselves or protecting ourselves, but it’s cool to break through that and see what you can do when that’s not in your way
+
+**Bob:** Yeah, perfect. Thank you for coming on, Jason. I really, really appreciate your time and helping us spread the word and Clay was the one who’s been pushing Chris and I to make this more consumable and you helping us do that is very much appreciated.
+
+**Jason:** Well, thanks. I really feel truly like I’m forever changed by this, this way of thinking is very fresh and very interesting and very true. It seems very true to me. It doesn’t seem like BS, you know?  And sometimes you hear about these new systems and this and that and you’re like “Yeah, yeah, yeah” but this thing seems very, very real and I’m a believer.
+
+> ## “I really feel, truly, like I’m forever changed by this..”
+> 
+> #### – Jason, on how learning JTBD has changed him
+
+In fact, what’s interesting too is Bob came to 37signals about a year or so ago and spoke to the whole company. We had about 30 people at the time and since then a lot of people just keep asking why would someone hire this, why would someone hire that, and they’re using the language and thinking about the framework, and that to me is also proof that this is the real deal because anytime you try and get a bunch of people to believe in something … if they believe in it they’re going to do it naturally and if they don’t they’re going to stop and people are still talking about hiring products and firing products, so you’ve had a big impact on this. Thank you.
+
+> ## “a lot of people \[at Basecamp\] just keep asking why would someone hire this, why would someone hire that, and they’re using the language and thinking about the framework…”
+> 
+> #### – Jason, says that Bob has had a big impact at Basecamp and since he spoke there as people on the team are still using JTBD.
+
+**Bob:** You’re welcome.  I’m always humbled when Clay says “I hate you… because I see you everywhere.  You’ve changed my thinking… like, why didn’t I think of “hiring” that one before?” It’s very, very interesting. So I think it is changing and the other part of it is \[that\] it’s simple. The reason why, I think, it’s catching on is because it’s a very simple notion but it has some really big impact.
+
+**Chris:** Yeah, well, we need thank you \[Jason\] for all your help too. I think the first Switch workshop it was a lot of software people. I’m still of the mindset that that was such a great place to start because there are so many software, technology-based companies that have a successful launch and do so well for a couple years and then start to look at the platform or whatever they have and say it’s time to either keep up with the competition, or take this to the next level and evolve it and how the heck are we going to choose what direction to go or what features to add.
+
+I think for those 24 people it gave them a pretty good idea of what to do next. I’ve been surprised at how many people have contacted us and said “You know, I cranked out my first five interviews. When can we circle back and talk about how to do the analysis and what to do next?” But I think it was the perfect kind of jumping off point for the workshop and we do really appreciate your help in bringing that together.
+
+**Jason:** Well, let’s keep doing it. There’s more people to help, right?
+
+**Chris:** Absolutely.

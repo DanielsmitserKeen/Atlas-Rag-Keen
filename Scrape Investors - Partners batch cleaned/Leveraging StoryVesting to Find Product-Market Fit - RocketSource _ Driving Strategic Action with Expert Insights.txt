@@ -1,0 +1,614 @@
+# Leveraging StoryVesting to Find Product-Market Fit - RocketSource
+
+### The TL;DR\* of this article
+
+\*Too Long, Didn't Read
+
+[![](https://www.rocketsource.com/wp-content/themes/bridge-child/assets/img/common/slideshare-button.svg)](https://www.slideshare.net/RocketSource/leveraging-story-vesting-to-find-product-market-fit-slideshow-2)
+
+*   Beginner
+*   Intermediate
+*   Advanced
+
+#### Post Summary
+
+1.  **What Is Product-Market Fit?**Uncover what Product-Market Fit means and why it’s so relevant today, despite the lack of conversation around the concept.
+    
+2.  **Using StoryVesting as Your Product-Market Fit Guide**It’s critical to have a framework that acts as the guardrails as you design and develop your product.
+    
+3.  **Leveraging Data to Determine Product-Market Fit**Without knowing what to collect or how to interpret the data around Product-Market Fit, your project could quickly go off the rails.
+    
+4.  **Scaling for Growth**Getting a handful of people in the door is only the first step. Product-Market Fit is achieved when you’re able to scale for growth.
+    
+
+[![Powered by RocketSource](https://www.rocketsource.com/wp-content/themes/bridge-child/assets/img/common/powered2.svg)](https://www.rocketsource.com/)
+
+Product-Market Fit — it’s the yearning of every founder and the mission of every product team. Why? Well, first in terms of securing funding, most investors and enterprise leaders demand that a team knows how to achieve it before they ever invest a dime into a new company or product idea. Moreover, it’s that elusive point at which your idea, your product, and the market collide to at least give you a chance to compete for the market’s limited attention. And yet, despite how critical this term and concept is, there hasn’t been a whole lot of discussion around what it is, how to build toward it, and let alone a reliable methodology or framework for finding it. How will you know if you’ve found it? And more importantly, how will you know how to optimize for scale once you’ve nailed it? For Facebook and other massively growing ideas, it’s fairly obvious. But for the rest of the product teams who will never be able to grow their product at that clip, it’s a lot more subtle and hard to discern.
+
+So, let’s buckle up…Those are some of the questions I aim to answer for you here.
+
+By the end of this post, you’ll have an easy-to-follow actionable (and highly reliable) framework that will enable you to put the spurs to the ol’ development horse. I’ll walk you through the process I’ve used to navigate finding Product-Market Fit early on and measuring it, thus making it easier for you to turn an idea into something scalable. If you’re already well-versed in Product-Market Fit and want a deeper dive into intermediate or advanced techniques using data discovery loops, our team’s got you covered with in-depth training, education, audits, prototyping and kickstart discovery packages to move you to that next level.
+
+For now, let’s dig in.
+
+## What the Heck is Product-Market Fit Anyway?
+
+If you’ve ever done a quick online search to learn what product-market fit means, you’ve probably found many descriptions — enough to make your head spin. For the sake of this post — and for clarity  — here’s how I describe it coupled with a measurement caveat to ensure reliability:
+
+> Product-Market Fit (or PM Fit) is the starting point at which your core value proposition — embodied in a product or service — aligns with the core needs/wants of your target audience _**and**_ is organically growing exponentially via word-of-mouth marketing.  — Buckley Barlow
+
+I want you to laser focus on the term “exponential growth” here. That growth is the key piece of this equation because it’s critical to the sustainability of competitive and brand advantage. Once you’ve nailed it, you’ll know you’ve tapped into a market need or want. But, initially — particularly early on in the launch of your MVP product/service — if you’re only growing at 1% week-over-week in terms of retained use of your service/product, or user growth as a whole, you might want to reconsider the idea, strategy, model, team, product or service, channel, market, experience or many other intrinsic factors. Those factors are what we frequently lean on when we use [StoryVesting](https://www.rocketsource.com/cx-terms/storyvesting/) — a business transformation and problem-solving framework I developed over the course of 15 years — to make critical decisions about many facets of a business, including and especially relating to the future of an idea.
+
+[![product market fit and employee experience](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-24-1-1024x742.jpg)](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-24-1.jpg)
+
+Each of the layers in this concentric circle speaks to a critical component of your business. If any component falters, your growth is at stake. I’ve broken down each of these areas in a post all about the [business transformation framework](https://www.rocketsource.com/blog/business-transformation/), StoryVesting, which is well worth your time to read. For now, though, let’s keep moving on the focus of this post: a key factor that will help determine PM Fit — word-of-mouth marketing.
+
+If you’re growing usage, users and/or retention at a 100% month-over-month (MoM) rate with zero marketing spend, it’s safe to say that you’re likely riding an emotional high these days. Congratulations! You’ve experienced the thrill of what it’s like to capture lightning in a bottle. You’ve also experienced the methods for measuring Product-Market Fit to ensure you’re not gathering false positives along your path. This concept of gathering false positives is another post for another day, but is still an important element to keep in mind as we continue to explore the definition of Product-Market Fit.
+
+The concept of Product-Market Fit was developed by a man named [Andy Rachleff](https://www.linkedin.com/in/rachleff), better known as the CEO and co-founder of Wealthfront and the co-founder of Benchmark Capital. Here’s an excellent video of him speaking about “PM Fit” as it applies to the wealth management space:
+
+The core of Rachleff’s idea came from his analysis of the investing style of pioneering venture capitalist and Sequoia founder Don Valentine. In the video above, Rachleff talks about the big differences in how different generations manage their finances. Baby boomers like Rachleff appreciate being able to talk to someone. The millennials he’s built a service for, however, would rather pay to not have to talk to someone. While that concept might seem strange to some, it’s the reality Rachleff uncovered by walking through the process of fitting his product in with a market need.
+
+Many articles around the web incorrectly assume that Marc Andreessen is the one who coined the term _Product-Market Fit_ because he’s outspoken about the concept. However, the man/myth/legend Andreessen is quick to credit Rachleff on his website and in [articles that discuss product-market fit](https://a16z.com/2017/02/18/12-things-about-product-market-fit/). Although Andreessen wasn’t the creator of the term itself, he has a lot to add to the conversation, such as:
+
+> “Product-Market fit means being in a good market with a product that can satisfy that market.” – Marc Andreessen
+
+Pretty simple, right? Theoretically, yes. It kind of _is_ that simple. And yet getting to this point can be a treacherous journey as evidenced by the scores of proverbial {entrepreneurial} bones in the graveyard.
+
+Let’s look closer.
+
+## Knowing Product-Market Fit is Only a Sliver of the Traction Battle
+
+Many of you reading this probably already understand just how critical it is to not only know IF you have Product-Market Fit but also HOW CLOSE you are to achieving it. The answer is not as cut-and-dried as a simple yes or no. So, let me walk you through the process I’ve used in my most recent project, [Platstack](http://platstack.com/), to determine what I would define as early traction Product-Market Fit.  Although we haven’t nailed it yet, the exponential growth of Platstack’s user retention rate is a clear sign that we’re well on our way towards a much more stable and cohesive Product-Market Fit goal. For a quick peek inside one core feature that helped put us on the right trajectory toward early Product-Market Fit, see the quick 60-second video below.
+
+[https://www.rocketsource.com/wp-content/uploads/2020/07/12.-Drag-and-Drop\_final.mp4](https://www.rocketsource.com/wp-content/uploads/2020/07/12.-Drag-and-Drop_final.mp4)
+
+We took big measures to determine what I would call early-stage Product-Market Fit throughout this journey because we know it’s a core part of the traction battle. Spending precious capital outside engineering or using perceived viral loops on a product before you’ve secured Product-Market Fit could spell disaster in the social sphere. People will start speaking badly about your brand experience, which could send your reputation into a tailspin and invite ruthless competitors to take a good idea and make it better (and possibly more stable) — and that’s just the beginning. The list of negative consequences goes on and on. I’ll let you use your imagination to think about just how bad things could get. I’d rather spend my precious time here with you focusing on how you can avoid those negative consequences rather than playing the what-if game.
+
+Navigating your brand’s story, deciding when, where (i.e. Disrupt, ProductHunt vs quieter channels) and how to release your product, determining the first, second, or third stages of release, or simply readying your team for a pitch or budget allocation for continuance are some of the toughest decisions you’ll face. Without a framework, you’ll be left playing a guessing game. Rather than making those decisions within the guardrails of a framework like StoryVesting, you’ll likely feel forced into spending money to solve a similar feature or sequence problem that will only continue rearing its ugly head time and again.
+
+Timing is everything when it comes to easing your way into Product-Market Fit and beyond. I won’t go into the macroeconomic indicators and macro-societal shifts in consumer behavior as they impact the ultimate success of your new venture or product launch. Instead, I want to jump right in and show you how the StoryVesting approach can uncover just how devoted your users are and whether that devotion will scale as you move from circle connections to second circle networks and then onto mass-market consumption.
+
+## The Meta Side of Product-Market Fit Frameworks
+
+One thing I’ve noticed in my own research is a huge lack of describable or definable frameworks regarding Product-Market Fit. They’re a bit elusive, which is something I take with a grain of salt. I could be accused of the same thing with many of my own frameworks and yet I firmly believe that the more definition and content around the framework, the more credibility that framework should receive. In other words, just because someone speaks about a framework in a TED talk or at a SaaS conference, doesn’t mean it’s the end-all-be-all framework to follow.
+
+With that in mind, let me give you a glimpse into a few of the Product-Market Fit models or frameworks out there I’ve either used or noticed.
+
+### Net Promoter Score (or NPS)
+
+If we were at a Vegas table, I’d put money on the fact that you’ve been approached by a business asking you to rank, on a scale from one to ten, the likelihood that you’d recommend a specific business you patronized to a friend. This is called the Net Promoter Score (NPS).
+
+Many product owners use NPS to determine Product-Market Fit as a means of forecasting and/or predicting the level of a customer’s devotion to a brand, product or service. Because it’s rooted in the word-of-mouth concept, it’s considered the gold standard of early traction and scale. A low NPS means it’ll be enormously difficult to break through those key inflection points along the [S Curve of Business](https://www.rocketsource.com/blog/s-curve-of-business/) or scale your business if you’re a startup. Qualtrics has done a great job of representing how some businesses [chart the responses to NPS scores](https://www.qualtrics.com/experience-management/customer/customer-effort-score/) over time to gauge how well they improve or digress from the market’s perspective based upon this survey alone.
+
+[![net promoter score simulation product market fit](https://www.rocketsource.com/wp-content/uploads/2020/06/NPS-Simulation-2.gif)](https://www.rocketsource.com/wp-content/uploads/2020/06/NPS-Simulation-2.gif)
+
+While this metric looks and sounds insightful on the surface, there are some inherent problems with using NPS as the sole determinant of Product-Market Fit. I’ve talked and written several times about the downsides of NPS in the past while analyzing [journey analytics](https://www.rocketsource.com/blog/journey-analytics/) as a whole. The gist of that message is always this — NPS isn’t an accurate predictor of future behavior. Data collection methods are often skewed because the buyer is in a hurry to respond and doesn’t give it the same level of thought that you do. Also, demographics need to be taken into consideration because behavioral economics show that people react differently to sharing information with others.
+
+None of this is to say that NPS shouldn’t be used. Rather, it is best used as a support metric to other frameworks, like StoryVesting, when determining Product-Market Fit. As a standalone metric, it’s just not robust enough for me to justify amping up my marketing budget from $10,000/month to $100,000/month.
+
+Let’s look at this a different way. We can use this image of bank NPS scores as a prime example of how banks with a negative NPS have still managed to grow.
+
+[![product market fit nps](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-14-1024x791.jpg)](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-14.jpg)
+
+I was turned on to this study in a recent article by Tomas Pueyo, who noted, “Comcast is the biggest broadband and cable company in the world, but it has an NPS of -9. Most banks are in the same spot. Conversely, many companies with a great NPS never get close to a liquidity event: You can imagine products that are amazing but don’t have a good business behind them, or the founders didn’t figure out how to make money.”
+
+Great find and insight, Tomas!
+
+From my own experience, NPS is not a great predictor of Product-Market Fit but rather a solid method to conduct 1:1 experience interviews with outliers that could be essential in helping you rethink your model, processes, channel, product/service and even your messaging. Think about that for a second. As you start to do some data science around your NPS, reach out directly to the passives. I’m confident that, in doing so, you’ll find some intriguing data for your Product-Market Fit efforts. What you won’t find is a single solid metric to make thousand-dollar-a-month decisions.
+
+### The “How Disappointed” Measurement
+
+Any time I research Product-Market Fit, I put a set of questions on repeat, starting with the granddaddy of them all:
+
+> How disappointed would you be if you could no longer use Product Z?
+
+The answers are enlightening and push the test driver to think beyond the immediate conversation. Each time I ask, I’m hoping to hear the respondent utter a resounding cry of “very disappointed!” Hearing this ensures we have a sticky product in the works.
+
+I’m not the one who came up with this approach. The “how disappointed” measurement is the brainchild of [Sean Ellis](https://www.linkedin.com/in/seanellis/), CEO of GrowthHackers, and is based on his experience at Dropbox, Logmein and other companies. The concept is simple — ask your audience how disappointed they’d be if the product was not available, and measure the response based on these answers: Very Disappointed, Somewhat Disappointed and Not Very Disappointed. If you don’t have at least 40% saying they’d be “very disappointed,” you haven’t achieved PM Fit yet. There are other questions utilized beyond this question set (and sometimes in front of it as a discovery question) and it has rarely steered me wrong for a quick snapshot of where a Product stands.
+
+### 8 Simple Questions to Ask (BTW: We’re always walking the walk, so this is a live survey in case you’ve had the chance to signup for Platstack):
+
+I have tried this method in many different companies, and frankly, there are times when it works and other times when it doesn’t. Rather than using it to gauge PM Fit alone, I use it to gauge something I call Pre-Traction Product-Market Fit. The “how disappointed” survey acts as a leading indicator to help you understand if early customers consider your product a must-have. If they’re willing to stick around through alpha, beta and beyond, more than likely they’ll end up becoming advocates and brand ambassadors on your [bowtie funnel](https://www.rocketsource.com/cx-terms/bowtie-funnel/).
+
+[![bow tie funnel and product market fit](https://www.rocketsource.com/wp-content/uploads/2020/06/bowtie-funnel-1024x955.jpg)](https://www.rocketsource.com/wp-content/uploads/2020/06/bowtie-funnel.jpg)
+
+This concept of transforming people into brand ambassadors is especially valuable if you’re using their feedback to drive your product iterations **_as well as_** **_REWARDING_** them along the way. The reward itself doesn’t matter. It can be a t-shirt, $100 gift card, or an email showcasing a new feature that you brought into the application because of their suggestion. I’ve tried each of these and they work… Every. Single. Time.
+
+Where this model falls down is that it only showcases the quality (or lack thereof) of the product rather than the entire experience. Many companies have Product-Market Fit with numbers that aren’t well-reflected using this method. If you’ve read much by me, you know I like bridging and stitching together data-driven experiences as a whole. This approach has helped me achieve a measure of success in many of my own ventures, my client accounts, and the companies at which I led Product-Market Fit and growth. Relying on the “how disappointed” metric alone won’t always give you the full picture.
+
+To help companies extend their reach and get more detailed data around Product-Market Fit, I helped develop a free product market fit survey for companies to use in their own business. Here’s a snippet of what it looks like in action. If you want to see the full version, you can go sign up to create a product market fit survey like this, no strings attached.
+
+[![free product market fit survey](https://www.rocketsource.com/wp-content/uploads/2020/07/Screen-Shot-2021-03-30-at-12.18.05-PM.png)](https://www.rocketsource.com/wp-content/uploads/2020/07/Screen-Shot-2021-03-30-at-12.18.05-PM.png)
+
+The reason for creating this [free product market fit tool](https://freeproductmarketfitsurvey.com/) was to give entrepreneurs and small businesses closer access to our proprietary form designed to uncover more specific insights by leveraging the order, the sequence, the line of questioning, and more. Additionally, as the user-base grows, it becomes more difficult to ascertain if you really have enough Product-Market Fit traction to support a healthy spend on development and marketing. To that end, coupling the approach we’ve outlined so far with a more robust framework can ensure that the data and Product-Market Fit will hold up if a competitor enters the space.
+
+### Brian Balfour’s 4-Stage Model
+
+I have a tremendous amount of respect for Brian Balfour and what he’s brought to the digital community. His content and thinking are top-notch, and although I have neither used nor analyzed his 4-Stage Model in-depth, I think it fits nicely with my approach to determining Product-Market Fit and the StoryVesting framework.
+
+Here’s a brief breakdown of this model, which is more geared for Growth:
+
+![Why Product Market Fit Isn't Enough — Brian Balfour](https://embedwistia-a.akamaihd.net/deliveries/9d6d5fb4fb1b497b37206fed578f34915ef382fa.webp?image_crop_resized=1280x720)
+
+As Brian Balfour aptly points out, [Product-Market Fit isn’t enough](https://brianbalfour.com/essays/product-market-fit-isnt-enough). Building a great product alone isn’t the key to success. Heck, many terrible products have grown into $1B companies while many excellent products have never even seen the light of day. The concept that Product-Market Fit isn’t a sole indicator of success is the foundation for his 4-Stage Model, in which he outlines the four interconnected fits that must be made to achieve growth. These are:
+
+*   Market/Product Fit: A process that continues over multiple cycles of iteration in which you hypothesize your target audience and their needs before evaluating the accuracy of your hypothesis.
+*   Product/Channel Fit: A process that happens when your product attributes mold to the distribution channel you choose.
+*   Channel/Model Fit: A process in which your channels are determined by your specific business model.
+*   Model/Market Fit: A concept in which the number of customers within your market determines your business model.
+
+Much like StoryVesting, there’s a lot brewing underneath the surface of each element in this model. Balfour doesn’t claim that tweaking one element here or there will get them more closely aligned. The same holds true for the Product-Market Fit framework, StoryVesting. You will never, ever hear me say about StoryVesting that a small change will instantly make the stars align. Because each of these fits is constantly evolving, changing, and breaking, organizations have to maintain a strong pulse on each — not on Product-Market Fit alone — to ensure consistent growth across the board.
+
+### Hoshin
+
+If you’ve ever worked closely with me, you know I advocate heavily for the Hoshin methodology. It’s a process designed to help teams extract priorities, plan the best next steps and keep everyone on a course toward an actionable goal. I’m a staunch advocate of this process because it goes leaps and bounds beyond the average brainstorming session – so much so that awesome companies like Honda, Toyota and Sony utilize this methodology in their decision-making. This group-think approach is unique because _the Hoshin method is done in utter silence._ You read that right.
+
+Complete. Utter. Silence.
+
+To give you an idea of what it looks like, here’s a picture from a recent RocketSource engagement during which we conducted a Hoshin experience for the Agile Solution Architecture team at a Fortune 500.
+
+[![product market fit hoshin](https://www.rocketsource.com/wp-content/uploads/2020/06/IMG_6206-scaled-e1594679203287-1024x690.jpg)](https://www.rocketsource.com/wp-content/uploads/2020/06/IMG_6206-scaled.jpg)
+
+You could have heard a pin drop if it weren’t for the fact that there was carpet on the floors, and yet this team came together to determine a clear solution to the problem we outlined at the start of the exercise. The purpose of the silence is to immediately level the playing field in the room, giving all members the chance and obligation to take part in curating, sorting, and labeling ideas. This approach to ideating complex problems instantly solves the ubiquitous problem of the “loudest voice in the room.” Ideas stand on merit instead of being judged based on who suggests them. Everyone participates equally until they reach a unanimous solution for a specific problem. There’s a lot more to it than just that simple explanation; if you’d like to learn more, reach out and we’ll quickly see if we’re a fit for your organization.
+
+When it comes to developing a product the market wants and needs, using a method like Hoshin can help identify gaps in your product development plan and the processes that lead to a better interpretation of market-to-product and product-to-value proposition fit. Once the ideation process is complete, you can use an interrelational digraph to determine the drivers of the core issues, thus guiding your development cycle closer to Product-Market Fit.
+
+### A High-Level Overview of StoryVesting
+
+By now, you’ve heard me drop the “_S”_ word — StoryVesting — multiple times. I developed this [business transformation framework](https://www.rocketsource.com/blog/business-transformation/) after years of research. If you haven’t read the backstory to it, I encourage you to carve out some time and dig in. For now, here’s a high-level overview you should know before trying to leverage the framework for Product-Market Fit. The StoryVesting framework looks like this:
+
+[![product market fit framework storyvesting](https://www.rocketsource.com/wp-content/uploads/2020/06/StoryVesting-01-768x557-1.png)](https://www.rocketsource.com/wp-content/uploads/2020/06/StoryVesting-01-768x557-1.png)
+
+The magic of StoryVesting is the concentric alignment of employee and brand experience with customer/user experience. When you can effectively bring the two experiences together to work in harmony, you’re able to deliver a sublime brand experience. This concept of aligning all people within your organization, from your employees to your customers, is why the Hoshin methodology is so powerful. The framework ensures that your team not only buys into the product you’re developing, but becomes self-proclaimed brand ambassadors. Your entire team is able to see how their work impacts the greater good, which empowers them to create an experience for your customers that surpasses all others in the market.
+
+But StoryVesting isn’t based solely on gut feel. It’s driven by the data you collect and the insights you glean from those findings. To understand how to leverage StoryVesting for your product development cycles, let’s first start by talking about data collection.
+
+## Determining Product-Market Fit Starts With Asking the Right Questions
+
+The process of determining Product-Market Fit must start with talking to your market. Asking questions of your user base is one of the best and fastest ways to understand whether you’re hitting the mark or sailing right past it. I believe so strongly in asking a variety of questions that I created a [free Product-Market Fit survey](https://www.freeproductmarketfitsurvey.com/) tool that infuses all of these questions into one place. Before you jump over there to create your own survey, keep reading to learn why I’ve taken this route. It’s not the easy road but it’s proven time and again to be the best road towards uncovering how well your products align with the market’s wants and needs.
+
+I want to take you through a portion of the process I used to uncover the true intent of our user base at Platstack. Perhaps not surprisingly, I started by leveraging Sean Ellis’s survey methodology discussed above, adjusting it to the development stage our product was in at the time. I’m peeling back the curtain here and showing you the exact numbers I was seeing as we moved the product through development.
+
+The first thing I did — and what you’ll want to do, too, as you bring a new product or iteration to market — is to structure the survey specifically to the power cohort using the product. More often than not, you’ll get cohorts who aren’t using the product very often, or who are signed up but aren’t using it at all. These cohorts can be thrown out as outliers. Sure, other collection and aggregation methodologies include them, but for the sake of this survey, I opt to disregard any data based on conjecture, speculation or nonuse.
+
+When I conducted this survey for Platstack users, I gave them three options to choose from when answering the question, “How would you feel if you could no longer use Platstack?” — Very Disappointed, Somewhat Disappointed, or Not Disappointed at All. Here’s how the responses broke down:
+
+![emotional triggers for product market fit](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-15-877x1024.png)
+
+There are many researchers who believe you should include the option to reply, “no longer using the product” but again, I prefer to cut the noise. Part of the reason I don’t ask for or include those response options is that I just don’t want those outliers included in my data sets. It adds confusion and clutter, and takes away from the core of what I’m going after — how the people using my product are feeling at the time I question them.
+
+The way I phrase this question to the current user base is important. It cuts straight to the core of how someone feels about the product itself. This feeling, or core emotion, is the reason why StoryVesting works so well. Before I dive into what I did with this data, let’s talk a little more about how I leverage the StoryVesting framework when gathering data.
+
+## Using StoryVesting to Guide the Product-Market Fit Discussion
+
+I’ve never been a 9-to-5 kind of worker. Perhaps you haven’t been, either? If you ask my wife and colleagues, I’m much more of an around-the-clock go-getter who embraces opportunity. Although it sounds like a good thing, I don’t say it boastfully. In fact, this approach to managing work and life simultaneously has humbled me on numerous occasions.
+
+There have been countless times when the direction I was pursuing with such gusto turned out to be the wrong one. These epiphany moments are powerful, but they can also be enormously distracting and game-changing if you’re not careful. To overcome the temptation to be blinded by bright lights and big ideas — and take a thoughtful approach to Product-Market Fit and to success in general — I leverage StoryVesting.
+
+### Achieving Brand Euphoria With StoryVesting
+
+Simply put, StoryVesting is a problem-solving framework. When you’re working to solve Product-Market Fit, having this type of framework to guide your process equips you with a format for thinking through and simplifying the complex. Unpacking this framework specifically for Product-Market Fit research involves looking internally first. That’s right, we start trying to find out whether or not we have a product the market will want by asking our team.
+
+This bewilders many people when I say it but I stand by the idea — your team _always_ comes first. If you don’t have Employee Experience (EX) and Brand Experience (BX) elements nailed, nothing you’re ever going to build for Customer Experience (or in this case User Experience) will matter. Your data lakes will turn into data swamps, making all your hard work collecting data go stale quickly.
+
+Take a look at what I mean through the lens of StoryVesting.
+
+[![storyvesting and product market fit](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-39-1-scaled.jpg)](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-39-1-scaled.jpg)
+
+Every initiative, whether for Product-Market Fit or otherwise, requires you to start by asking poignant questions around **the why**. Notice the word _poignant_ here. Asking your team about your company’s **why** isn’t as simple as asking for their interpretation. In order to gather the cleanest data, you’ll need to elegantly uncover the employee’s emotional and logical understanding of the “Why” (i.e. why the company is pursuing a new project, why it matters to them and to the company and to the customer).
+
+I’m asked all the time for the specific questions to ask to most efficiently gain insight into your employees’ understanding of your company’s **why** as it pertains to **your customer’s why**, but there’s no one-size-fits-all approach. There’s no set script here. Too many other factors — company culture, industry, processes, and others — make it impossible to template this process. The goal here is to dig deep into the emotional triggers for both your employees’ and customers’ vesting in your brand.
+
+The same questioning mentality holds true for the next concentric circle in the StoryVesting framework — the **business model**. It’s important to analyze and address the logic behind how your company makes money, how pricing strategy and implementation affect employee retention (i.e. just go look at what former employees are saying about your BX on Glassdoor, for example). Your employees, especially those leading teams throughout your company, should be able to visually draw out the logical flow of your company’s business model. That logic can then be compared to **the logical part of the customer’s journey** in which they’re analyzing your offering as it relates to a variety of elements including time vs. effort, cost vs. benefit, and more.
+
+Then, we look at **the 3 Ps** — people, process and platforms (tech stack). For the sake of Product-Market Fit, I look most closely at the **people** stage of StoryVesting and how those people are executing. Because there is a direct correlation between the experience a user has externally with your product and the experience your employees, investors and outside stakeholders have internally, getting this stage right is critical, not only while you’re building but also while you’re trying to discover Product-Market Fit. In both cases, these experiences are what fuel your people to adopt and share what you create within their own networks while getting ruthless about flawless execution. And frankly, the devil in the details of process improvement success starts with finding and then asking a more beautiful or elegant question which directly affects/directs the ultimate outcomes of Experience Alignment (BX to CX).
+
+**This set of data loops within the 3Ps is CRUCIAL to get right.  Can’t stress it enough.  Your people control the levers (processes/tech stack) and the levers ultimately control the product experience.**  
+
+Remember, the ultimate brand experience must sync with the user’s expectations of that brand experience at BOTH the cognitive and emotional levels. Early team members are crucial to your ultimate adoption, so whether you’re a startup or an enterprise, it’s important that you’re selective about your “A”-team. These people must be V-Shaped around their specialty; otherwise, you’ll quickly fall into the trap of getting siloed efforts and specialists who advertently or inadvertently deviate from the product vision.
+
+[![v shaped teams for product market fit](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-23-1-1024x565.jpg)](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-23-1.jpg)
+
+T-Shaped teams become tough to manage, especially in the beginning of product development, because team members are too ingrained in their own areas of expertise, making it hard for them to see the impact their work has on the greater vision. These players are more suited for the Scale stage as you move up the S Curve of Growth.
+
+It’s important to note that focusing on each individual team member can quickly drive you into a trap of inefficiency. Instead, focus on the people who drive the implementation of the Vision — the Core Why — not only of the product but also of the brand. This can be anyone from the Founder to Stakeholders, Project Managers, Product Management Leads, DevOps Product Leads, and others. I could write a whole post on this section alone, but in an effort to keep it brief, let’s look at just a handful of the attributes, skill sets and reasoning maturity that makes someone **amazing** in this role. You read that right. Good is not enough here. These people have to be AMAZING at taking their position up a few notches and cranking out the efforts needed to secure a Product-Market Fit victory.
+
+[![product leader qualities fueling product market fit](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-38-1-733x1024.jpg)](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-38-1-scaled.jpg)
+
+When you have Product Leaders driving the team, Product-Market Fit becomes much easier to obtain. Apple is a prime example of this visionary mentality. I was fortunate enough to be at their headquarters right before the release of the iPod. I’ll never forget the way two senior executives talked to me (even when Steve Jobs was not in the room) about the _experiences_ — not products — that Apple created. This isn’t a company that hires cowboys who pop features in because they like them, or create landing page content just because they thought it might sound good. The minute you start to take that approach, everything falls apart. Strong Product Leaders not only create cohesion of an epic vision but also translate that vision to their teams — over and over again.
+
+The rest of StoryVesting — the product/service, channels and experience — all fall into line as soon as you have these first three areas nailed down. The vision, along with your company’s **why** aligned with your customer’s **why** must be embedded in everything you do, including how you conduct Product-Market Fit research.
+
+Let’s get back to what this looked like as I conducted research for Platstack.
+
+### How the StoryVesting Framework Fits In With Product-Market Fit Research
+
+StoryVesting is rooted in measuring and navigating emotion, so it only makes sense that our research into Product-Market Fit starts with understanding how a person _feels_. The logic, including the business model and logical cognitive thinking in the buying process, is all secondary. Hitting the core emotional triggers — or the feelings of the people who will eventually share their experiences with others — is the easiest and fastest way to drive growth through Word of Mouth (WoM) marketing.
+
+To drive this point home, think about the emotional feel of the bulk of organic conversations you have about a pain point you’re trying to solve. Typically people won’t go to a party and strike up a conversation around the analytical features of your product. Instead — with an application like Platstack, for example — they’ll speak directly to the feeling it resolves, such as stress from too many open tabs or anxiety around losing digital content due to a lack of organization. It’s that emotional connection that drives someone to say, “I just found this cool new app.” Not the logic.
+
+That feeling permeates my personal collection technique, too. Instead of lugging around a laptop or whipping out my cell phone to gather data, I bring a journal. Laptops, mobile phones and tablets take a backseat to pen and paper every time. While you’re in data collection mode for your company, leave the electronics at home. You’ll thank me later. Here’s why.
+
+For each question I ask, I’m doing more than jotting down an answer. I’m feeling my way through the conversation and documenting all the qualitative data I can along the way. A pen and paper allow me to make annotations and drawings, highlight qualitative items, measure facial and emotional reactions, and more. Those data are CRITICAL supplements to every other piece of data — data you’ll need to stitch together to see exactly where you are with Product-Market Fit.
+
+Understanding the role of emotions is critical as you set up every design, data loop or concept — so critical that as I’m out with my journal taking notes, I always include qualitative data in my data collection process.
+
+As a person answers my question about how they’d feel if they could no longer use Platstack, I note their physical reaction. Are they visually disturbed? Are their brows furrowed? What’s their voice inflection like? Are they nervously excited?
+
+When I did this during a recent round of questioning, I found that 19% of the people would be very disappointed if they couldn’t use Platstack. You know by now that, as Sean Ellis explains, this is not enough to get Product-Market Fit, but I was still energized by these results to the point of wanting to write another big check into this business. Yes, the supplementary qualitative feedback was that eye-opening.
+
+**Take a closer look at the 52% of respondents who said they would be somewhat disappointed if Platstack was no longer available.** When this group of respondents answered, I could immediately see a common pattern of visual confusion, inquisitive looks about why we were asking, brows furrowed with worry that we were getting rid of the product, and more. I honed in on a palpable feeling of dejection from this cohort. That’s right. 52% were dejected — and that got me excited.
+
+The feeling of dejection showed that we were on the right track, but just not there yet. From experience, I know that when someone feels dejected, there is also an underlying feeling of optimism that the product could actually solve a core problem they experience, and that they’re bummed that the potential for resolution could be going away. That emotive feeling gave me pause. Even though I only surveyed 42 people, it was amazing to see that kind of response.
+
+Let’s talk about the elephant in the room here. **29% of respondents also said they would not be very disappointed if Platstack went away.** Qualitatively, these respondents appeared relieved, likely because they knew I wouldn’t be bugging them about Platstack anymore. They may have almost had a sense of optimism about other future opportunities, not only for themselves but for me as the surveyor. Many times, they’d quickly change the subject away from Platstack, closing the book more quickly than I could turn the page.
+
+This data was enlightening and led me back to the data collection drawing board. I spent hours upon hours in conversation with people from various cohorts seeking to understand more about how they felt about Platstack. Each time they answered, I continued to document their physical reaction and body language during the conversation.
+
+Back at home, I broke each response up into various cohort segments to get a more crisp representation of who wanted to use this product. I took a massive pool of data and started to analyze and segment it a little bit more using these, and other, equations in Excel.
+
+[![formulae for finding product market fit](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-37-1024x780.jpg)](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-37.jpg)
+
+Before breaking out the cohorts in this way, I really thought our prime market would be students/teachers/educators. I figured this cohort would be the most active in spreading the word. And yet, as I dropped these formulae into Excel, the data started telling a slightly different story.
+
+Take a look at the 19% of respondents who said they would be very disappointed. I took the same data I showed you above, and then categorized these respondents into a specific cohort. Once broken out, I recalculated the data I’d collected. Based on demographic segmentation alone, I saw a sudden increase to 28% of respondents in the cohort of those who would be very disappointed.
+
+![product market fit data collection](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-42-5-scaled.jpg)
+
+In data science, pattern recognition is critical. By categorizing the responses I was hearing into segments, cohort-specific patterns started to emerge. We were moving north, closer to Product-Market Fit with certain demographics.
+
+Let me pause here and add a disclaimer. I’m well-aware of the risks involved with manipulating the data to get the response you’re hoping for. That wasn’t what I was doing. In many cases, like this particular example, it makes sense to drill in deeper and add more layers just to see how close you’re getting to your goal. That goal for us was Product-Market Fit.
+
+Further bending the statistics, I broke out various cohorts and took the qualitative data I’d gathered — the eyebrow raises, the moments the respondent leaned in, the crossed arms, and more. I then recalculated these findings one more time to analyze the impact of qualitative segmentation.
+
+As you can see, if I hadn’t dug deeper into the various layers, I would’ve missed a massive opportunity. Making these adjustments to the data using qualitative inputs worked really well because it showed us the true target cohort who would adopt the product — not the one I assumed at the outset.
+
+By breaking out the cohorts and analyzing for patterns at a cohort level, I was able to identify the most engaged cohorts and power users. We clearly saw the power user curve shifting to the coveted smile, meaning users were on the platform more than 20 days each month. These were the users that we wanted to hone in on and ultimately build around. That’s because we knew these users were the ones who would give us the most and best feedback. As we fit the product to this specific market, we could count on many of them to spread the word about Platstack, increasing our viral coefficient and helping us gain traction much faster than if we hadn’t identified the right cohort from the get-go.
+
+Combining these various stats together makes it so your data is not only quantitative, but includes an immense amount of qualitative data as well. In taking this layered approach, we were able to understand how close we were getting to PM Fit with the power user base — not just focusing on all users as a collective whole. Segmenting cohorts in this way also made it far easier to identify just how close we were getting to the coveted Brand Euphoria in StoryVesting. If you’re new to the framework, it’s important you know that brand euphoria happens when both the Employee Experience concentric circle and Customer Experience concentric circle, align. The closer these two circles are together, the more poised a company is to hit the ball out of the park.
+
+Many companies don’t go to the same lengths we went to in order to collect this data. It takes a ton of time and energy, but in my opinion, it’s well worth it. I don’t trust focus groups to give this level of insight, which is why it was so important to me to sit down and have conversation after conversation with a variety of cohorts, so I could more deeply understand who was using our product and whether we were getting fit within that cohort.
+
+At this point, it might seem like I had received enough confirmation that we were on the right path, but this type of questioning was only the beginning of our research. We also wanted to better understand what users felt while interacting with the product and what kept these people coming back time and again.
+
+### The More Poignant the Questions = The More Insightful the Data
+
+As a follow-up to the question set methodologies, I recently discovered a couple of new ideas on this very subject while stacking links on [Platstack.com](https://www.platstack.com/). A big shout out to Karolina Gowran as she added some critical thinking value on the types of questions she uses to discover [Product-Market Fit MVP](https://www.monterail.com/blog/product-market-fit-mvp) that I’ll more than likely adopt in the very near future.
+
+**The core of the problem they try to solve with your product**
+
+**What are the key features of your product (and how your users talk about them)**
+
+*   Can you tell me about the problem you were trying to solve?
+*   What’s the hardest part about \[the process you’re improving\]?
+*   What solutions have you tried?
+*   What didn’t you love about them?
+*   What reservations did you have about the product before trying it?
+
+*   Tell me about your first impression with the product
+*   What motivates you to continue using our product?
+*   What’s most appealing about our product?
+*   What convinced you that this product is for you?
+*   Who would you recommend our product to?
+*   What can you do now that wasn’t possible before you started using our product?
+*   How did it influence your life/work?
+
+**Main priorities for new features or functionality**
+
+**Main problems and pain points connected to your product (and how your users talk about them)**
+
+*   What would make you recommend our product to other \[persona type/job title\]?
+*   What features do you wish our product had?
+*   What would improve your experience with our product?
+
+*   What’s the hardest part about using the product?
+*   What would make using the product significantly easier/more pleasant?
+
+### Gathering Usage and Experience Data for Product-Market Fit
+
+My questioning progressed from trying to understand the emotions behind the product to understanding the perceived benefits. This question let me know the specific problem our users were able to solve while using Platstack. To paint a clearer picture of what these main benefits looked like, I dropped all the responses I received into a word cloud to quickly illustrate the results.
+
+[![finding benefits for product market fit](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-20-1024x780.jpg)](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-20.jpg)
+
+When I asked our users the main benefit they received from Platstack, there was a clear response — simplified organization and the ability to recall saved data were the top answers. Saving links wasn’t enough to reach that goal, however. People wanted context while saving links to help them remember where and why they were saving it. This gave us the critical data we needed to confidently move forward in development.
+
+We were able to layer the results from this word cloud over our sprint cycles and requested feature sets, bugs and QA list. Like most startups, we have a small development team. Using this word cloud, we could split up our time to keep our product moving toward its epic design, and our current sprint cycles aligned with the features/bugs that were most requested and which were derived from the main benefit our users wanted from the product. In doing this, we could prioritize each task by focusing first and foremost on all of the features and bugs that had a direct correlation to the core emotional and logical triggers discovered using the StoryVesting framework and during my research.
+
+Based on the fact that the core trigger in Platstack is that the user wants to feel organized, feel less anxious about their digital organization, one of the things we prioritized was the ability to create notes and reminders while saving a link. We knew that if a user felt they could get more organized while saving content, they’d immediately feel more organized overall. This feature was therefore elevated to the top and became a big deal in the development cycle.  Now keep in mind, every detail, every decision has to roll up into a larger vision/strategy and those little micro-decisions are the basis of “flawless execution”.
+
+And yet, the small features developed based upon that sprint cycle were critical for achieving Product-Market Fit. But imagine this — what would happen if I didn’t address that core issue? What if we decided to do live streaming or add a highlighting tool, and they weren’t directly associated with the high scores or main benefits derived from survey data? We would go sideways and not get closer to Product-Market Fit.
+
+By zeroing in on SV as a framework, I was able to shape the development cycle to get to Product-Market Fit. The main benefits here are organization, reminders and quickness.
+
+### Honing In on Your Target Market
+
+The next question I knew we needed to answer involved the cohort. Who was using Platstack? What type of person was benefiting the most from this product? Often, companies look at who is using the platform at the time instead of who the epic design will benefit the most. This was no different for us. We kept seeing researchers, teachers, students and marketers logging onto the platform. The problem was that these were just the cohorts we were asking for feedback and inviting into the platform at the time. It worked for them based on the stage to which the platform was built out.
+
+Here’s the issue — if you’ve only built out 10% of your platform, your audience can’t see your epic version. They’ll only give you survey data viable for what’s there.
+
+To overcome this, I spent a ton of time shoulder-to-shoulder with our lead designer building out a prototype. We went through the flow and data rigorously, created prototypes, and took them out every night to users. The data I received regarding who would benefit was completely different than the current state.
+
+[![finding target cohorts for product market fit](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-21-1024x780.jpg)](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-21.jpg)
+
+When I asked the people I was showing the epic prototype to, “_what type of person would most benefit from Platstack?”_ the answers I got differed from what we were seeing at the time. Although we’d originally anticipated that students would be our primary cohort, once we showed the epic vision, we realized we were wrong. That’s why StoryVesting is so powerful. Using the guardrails of this framework, we are able to look at past, present, and future emotional/logical triggers. Here’s how I do it from a data collection standpoint.
+
+When collecting data, I don’t take things at face value. Instead, what I did with Platstack was to show my respondent the current state of the platform and collect their response. Then, I showed them the epic prototype and collected the same data. With both responses, I normalized the data using statistical modeling to get the most accurate picture of the direction we should go. In this particular case, when I showed where we were going, the responses showed me that students were no longer the prime target market. Instead, it was marketers, researchers, influencers and educators.
+
+> When collecting data, what you show a respondent in terms of the future will dictate the type of cohort you should be going after.
+
+I know many businesses don’t have the luxury of creating a prototype. Many have already launched and time is not on their side. In this case, the goal is to get your epic features developed ASAP, so you can get the power cohort to start pinging you on an ongoing basis. Without a data loop in place that goes out repeatedly, you’re only guessing in terms of target market. You’re really only developing an application for you and you alone — not for the market.
+
+### Improving Your Platform to Achieve Product-Market Fit
+
+You’ve got the data on the main benefits and main cohort. Now what? It’s time to plan out which features you’ll need to build out in order to continue to achieve Product-Market Fit. Before I show you what we uncovered when I asked this about Platstack, I want to give you a critical word of warning about features-related questions.
+
+When collecting this data, I was careful not to show the respondent the current state of the product and ask them to ideate alongside me into the future. Taking that approach would’ve given me bad data and sent us on a path of creating features without a strategic plan. Instead, I asked for feedback with the goal of gathering experience data.
+
+When you work to gather data around a person’s experience, you’re able to uncover where there are negative friction points in the product. If a respondent gives me a totally new idea, I rarely take it into consideration. Those ideas are more noisy than helpful at this stage. Sporadic ideas and feature requests could get into the agile cycle and throw the product team off the rails, driving us further away from Product-Market Fit.
+
+Instead, I focus exclusively on the ultimate experience. It’s this experience that’ll get the viral marketing loop going at a faster pace. When we asked this question of our Platstack beta users, we could see that visuals and imagery were a big deal.
+
+[![features for product market fit](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-22-1024x781.jpg)](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-22.jpg)
+
+In beta, we struggled to get some images to populate. Without adding images to the saved links, our users couldn’t resolve that core feeling of being organized. The idea of visuals wasn’t about adding a new feature. It was about creating an experience associated with a core emotional trigger with the platform.
+
+Another thing we discovered was that our users wanted more onboarding. They wanted getting onto the platform to be easier and the learning curve lower so they could get started saving sooner. So, we listened and have started putting those ideas into the development cycle one step at a time.
+
+We can’t do everything, despite what we’d like to believe. Mobile-friendliness, more onboarding, ease of use…we put these into the dev cycle to improve one step at a time. Because we can’t do everything all at once, we prioritized those improvements based on the core SV experience.
+
+## Leveraging the Product-Market Fit Data You Collect
+
+I could eat data for breakfast, lunch and dinner, but the magic happens when that data is leveraged to achieve Product-Market Fit, effectively getting products out into the wild. In order not to fall into the dangerous traps of letting data go stale or using it in the wrong way, our team leans on a variety of methods to stay on track.
+
+[![team test for product market fit](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-44-1024x784.jpg)](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-44.jpg)
+
+There are several ways we take a wealth of data and break it down into something actionable. The goal with each exercise is to get larger data refined into smaller insightful data to inform your product development and QA cycle.
+
+### The Ten-Foot Test
+
+To start, I love doing an exercise called the _Ten-Foot Test_. To do this test, roll your chair back ten feet and look at your product. Viewed from a distance, the user interface (UI) of your product should make it instantly clear what your user should do when they’re on each screen.
+
+At RocketSource, we’ll often mirror one of our computer screens on the large television screens in our conference room (before we were socially distancing, anyway). This way we could all have the same, ten-foot perspective.
+
+By taking a step back, you’re able to see the interface in a different way. This is when you might notice things like how much you’d have to bounce around between each side of the screen to achieve a goal. Big picture, this test shows you how easy it is for your users to know what they need to do next. If the process isn’t simple or efficient, something’s gotta give.
+
+### The Crossout Test
+
+Another thing you can do as a team, either while viewing your screen from ten feet or up close, is to eliminate fluff in your UI. To do this, start crossing out everything on the screen you don’t need. Keep removing unnecessary elements on that page until you’ve either cleared the page or it’s become confusing.
+
+Once you’re done, you’ll be left with either a clear screen or a minimal screen. At this stage you can slowly and methodically add elements back into the mix based on the data you’ve collected. I always use the StoryVesting framework as a guardrail when doing this. Each element must tug on an emotional, logical and/or emotional/logical trigger based on findings in our research.
+
+### The Comparative Test
+
+A third exercise is the Comparative test. In this test, I judge specifically what our platform looks like, or how it compares, to the others in our space. I want to be able to judge how our user experience scores compared to that of the competition.
+
+To do this with Platstack, I asked questions to clarify what users love the most about one of our top competitors and what they love most about Platstack. I used StoryVesting as my guide as I asked each respondent about how they currently navigated their problem and which system they used to solve it.
+
+[![product market fit framework](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-40-1024x929.jpg)](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-40.jpg)
+
+As each respondent discussed their problem-solving strategy, I was able to identify and begin analyzing **behavioral, emotional,** and **cognitive** triggers per the StoryVesting model. For example, I identified the driver (motivational trigger) for seeking a product like ours. By uncovering which of our competitors they associated with that trigger, I was able to integrate the data into the Brand Experience side of StoryVesting, matching the brand with their cognitive association trigger.
+
+Put together, I call this the **competitive cognitive & emotional association** of a brand. As a company, understanding these associations is critical. When a behavioral pain point is triggered by visuals, smell, sound, or another sense, you need to ensure your product is capitalizing on those innate core behaviors, feelings, and senses. While it might seem like we’re overdoing it here, we’re not. We’re tapping into your cohort’s core drivers at various levels, which empowers you, as a brand, to help them reconcile past, present and future states of that cognitive and emotional driver.
+
+This concept is too complex to get into in this post, but it’s been a powerful driver in helping me map this data to Product-Market Fit. As I’ve started diving in deeper with this process, I’ve been able to readjust the overarching solution so that it mimics the data loop. As a result, we’re able to make strategic tweaks to our product until it’s the first choice for resolving a specific pain point.
+
+Ultimately, these tests — the Ten-Foot Test, Cross-Out Test and Comparative Test — each help as we conduct the final and possibly most critical test — the experience test.
+
+### Our Proprietary Experience Tests
+
+Once you have a prototype or an alpha/beta version of your product/service, you’re able to move from this line of questioning into a more specific questioning.  Since markets are constantly evolving, I’m always toying around with new approaches to data science.
+
+Let me give you one example of an experimental test that is showing some degree of correlation with early traction:
+
+This UX WoM (Word of Mouth) Depletion/Gained test takes into account the logical and emotional _**energy**_ the user will either deplete or gain based upon each interaction/experience with the platform.  The way we gather this score is similar to that of an NPS, except we score it on +/-5 point intervals similar to a moving average and we take into account a different set of variables.  We toss out all neutral experience and focus implicitly on positive/negative UX/CX.
+
+The idea is that when a user is engaged and excited experientially, it fills their UX bucket per se and their UX WoM score increases +5.  On the other hand, when they’re angry or upset, we know they’ll never use positive WoM and could actually do worse — say something negative about your brand on social media for example — scores a -5. Recent research by INFORMS (Information Systems Research) journal showed that [negative posts on Facebook business pages outweigh positive posts](https://www.silive.com/news/2019/09/study-negative-posts-on-facebook-business-pages-outweigh-positive-posts-2-to-1.html). Twitter is another hotbed for negative customer reactions. Tread carefully, folks! The backlash from a bad experience is exponentially more damaging than the benefits of a good one when social media comes into the mix.
+
+When measuring experience, start at the 50% level.  The final scoring is very dependent on mixed variables like how far along your product is (alpha vs. beta vs. live) and what users expect or the maturity level of your brand (startup vs. enterprise).  You are simply trying to evaluate the amount of energy a user gains or depletes (which is the basis of Word of Mouth potential) while interacting with your product and we get very specific about the interactions/experiences we’re measuring — content, design, mobile, flow, expectation of time invested vs. value received, pricing parity, value proposition discovery, # of clicks to the desired outcome, etc.  The takeaway here is to gauge specific areas of your product against the much larger SV picture. In many cases, this coordination of data sets will unlock or confirm blockages, friction points or on the flip side, important _a-ha_ user experience moments or key WoM drivers.
+
+## Using Product-Market Fit Data to Spur Processes
+
+By now you’ve done face-to-face interviews with your journal in hand, you understand the emotional and logical drivers, and you’ve conducted an analysis that shows the logical reasoning triggers your audience is looking for when deciding on a solution for the problem your product solves. Now it’s time to back that data into a roadmap for bringing your product to life in a way that quickly and effectively moves you exponentially closer to Product-Market Fit.
+
+When it comes to quality assurance (QA) prioritization and sprint planning, I recommend surfacing your primary cohort’s story requests and friction points. If the things your audience says counteract their Actions of Doing, well, I hate to say it but you either have a negative experience score or there is significant confusion in the market. It’s your job to dig deeper to get you closer until you achieve synchronicity. One way to do that is through empathy mapping.
+
+[![product market fit empathy map](https://www.rocketsource.com/wp-content/uploads/2020/06/Empathy-Radar-01-971x1024.png)](https://www.rocketsource.com/wp-content/uploads/2020/06/Empathy-Radar-01.png)
+
+Our empathy map, seen here, wasn’t created using your standard empathy mapping approach. In this map, we take both the employees’ and the customer’s thoughts, feelings, sayings, and actions as backed by the StoryVesting framework. From there we can extract the true pains, motivations, solutions, and measurements we’ll need to leverage empathy in our content and development process.
+
+### Using Data to Support Channel Model Fit
+
+Earlier I presented [Brian Balfour’s Channel Model Fit for user acquisition](https://brianbalfour.com/essays/channel-model-fit-for-user-acquisition). This concept states that the channels you use to reach your audience are determined by your model. If your product yields low annual revenue per user (ARPU), you typically need to use low cost channels to bring customers into your business. That logic is pretty fundamental.
+
+I like to take this a step further. By thinking empathetically, you can not only determine which channels to use to drive customers to your product, but also how to message on each individual channel to meet the target cohort for your product.  Early-stage, Pre-Fit messaging sets the tone for users’ expectations and ultimately the experience they have with your brand’s purpose/why, business model (freemium to upgrade), 3Ps (people, processes and technology), and your product. Every channel that houses a brand message is a driver of that final concentric circle in StoryVesting which is the matching of your brand’s experience with that of your users’ _**expected** **and anticipated**_ experience.  If your development team doesn’t truly get that syncing at that final stage, you’ve made achieving Product-Market Fit extraordinarily difficult.
+
+On Facebook, which is considered a low-cost channel, we’re reaching a cohort that cares deeply about connection. The people who spend time on Facebook often have ideas they want to share, people they want to learn from and ways to keep those two elements organized. Because of that, we are testing various headlines and visuals to quickly and empathetically capture the attention of this group. Here’s an example of a header image we’re testing.
+
+[![product market fit data for facebook messaging](https://www.rocketsource.com/wp-content/uploads/2020/06/image-1-1-1024x557.png)](https://www.rocketsource.com/wp-content/uploads/2020/06/image-1-1.png)
+
+We chose this verbiage and imagery because of how people are using Facebook. Rather than focusing on news feeds, users are living in Facebook groups to forge more genuine connections with people around specific ideas. These same people are simultaneously inundated with links around specific areas where they want to deepen their knowledge OR they have many links they’d like to share in these groups to position themselves as a leader in the space. [Internal Facebook research](https://research.fb.com/wp-content/uploads/2017/04/www2017_kooti.pdf?) found that their users often look at Facebook when they wake up and are busy getting ready for the day, thus not having time to consume content, or right before bed when they’re probably encountering content they want to save for a specific project they’ll tackle the next day. Having messaging to reach those users with these behavioral patterns will help us drive traffic to Platstack.
+
+YouTube has different behavioral patterns. This platform is the second most visited site online after Google. It’s also a hub for brands and influencers in our target market who aim to reach their audiences. Because of that, we shifted our messaging and implemented a contiguous design to hit on these specific points of interest.
+
+[![product market fit driving youtube strategy](https://www.rocketsource.com/wp-content/uploads/2020/06/image-1024x675.png)](https://www.rocketsource.com/wp-content/uploads/2020/06/image.png)
+
+Using the headline “Stack All Your Content in One Place” helps us send a strong signal to brands and influencers, as well as other users. The content and links you often find in YouTube video descriptions can be condensed into one link and one location. Rather than brands and influencers dropping dozens of links, they can drop one. Their audience only has to click once to open all of the links they want to share, making the process of distributing content from one place a far better experience for their viewer.
+
+Using empathy when deciding on which message to use is critical, no doubt. But adding the extra layer of taking an empathetic view through Product-Market Fit data findings to address cohort needs at the channel level is a far more powerful way to be sure your product resonates with various user groups.
+
+### Letting Data Support Decisions in the Development Process
+
+There’s so much to be written about at this stage that goes way beyond the scope of this post. For now, here’s what I’ll say. Your design comes first. Every time. When you’re working with your development team and your customers alike, full buy-in to your vision is crucial. It lets your developers better understand how users navigate your platform. It also helps your team understand how the end-user feels about that navigation and how you compare to the current competitive landscape.
+
+As you prototype with a program like Figma and Figma Mirror, you can get accurate data without a user actually using your product or prototype. Instead of walking your user through Photoshopped and Sketch screenshots, hook up your prototype and let it fly.
+
+[https://www.rocketsource.com/wp-content/uploads/2020/07/EpicPrototype.mp4](https://www.rocketsource.com/wp-content/uploads/2020/07/EpicPrototype.mp4)
+
+You’ll notice we prototyped on mobile devices first. It’s far easier to walk a mobile design backward into desktop than the other way around. If you need help creating something like this for your product, we have tons of amazing talent that can help you get from idea to prototype very quickly. [Reach out!](https://www.rocketsource.com/contact/) 
+
+Back to the data. The points I collected earlier, and encourage you to collect as well as you aim to reach Product-Market Fit, are the points that correlate with the final concentric circle on the CX side of StoryVesting. Once you identify these points and the features that resolve those cognitive association triggers, you can then bump them up to the top of the queue.
+
+This graphic shows how we prioritize each of these features at RocketSource and for our clients before dropping them into a strategic roadmap. We print these priorities on large posters for our clients to hang in their halls to keep them top of mind for the entire team.
+
+By doing this, you’re able to implement your proverbial guardrails within the development cycle to match what your market REALLY wants and needs. By reconciling these past, present and future emotional and logical drivers and then matching them into sprint cycles and epic vision, you’re able to achieve early traction Product-Market Fit at a faster clip than most of your competitors, and with far less capital deployed.
+
+## 100xing Your First 10 Users With Product-Market Fit
+
+As we started building out our development process, I wanted to analyze what we could expect in terms of user retention. One way I estimated what we could expect was by asking, “_Do you plan to continue using Platstack?”_ Here’s the response I got:
+
+[![future usage for product market fit](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-17-1024x781.jpg)](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-17.jpg)
+
+As you can see, 39% of people said yes, they plan to continue using Platstack. That response elicited a lot of high fives around the office and gave us a lot of hope. Only a small percentage said no. The rest said maybe.
+
+As I went back to the data I gathered in which users felt dejected, I could clearly see that we were onto something. With the right features, the right product cycle, and the right timeline (we had to do this quickly), we could get to Product-Market Fit much more quickly. Think we were able to nail this equation? You better believe it!
+
+I won’t say we’ve nailed Product-Market Fit yet, but we’re moving closer by the day. What started at around 30 users is now over 2,000 users, gained mostly via WOM marketing. While we have received around 200 from podcast interviews, I credit most of this growth to how we’ve navigated the Employee Experience (EX) side of StoryVesting. We grew quickly as our employees talked enthusiastically about Platstack to their circle of influence and their friends.
+
+If you’ve read [the backstory to how StoryVesting came to life](https://www.rocketsource.com/blog/business-transformation/), you’ll know that I developed it after learning from the likes of product guys like Eric Schmidt of Google and service kings like Gene England of England Trucking. I also developed it after years of experience growing numerous companies. Each conversation and experience led to the same conclusion — you have to start on the EX side of your business to get the first 10 users. It starts with your family. Then your friends. Then your employees. Then your employees’ families. I want to stop here for just a moment before we move further than that because this is SO crucial.
+
+If employees aren’t in the trenches gathering similar feedback, having similar conversations and hearing about the impact their work is making across each layer of the StoryVesting framework, they’ll miss out. They’ll operate out of their own silo and struggle to see their contribution to the bigger picture.
+
+> StoryVesting is powerful because of the sum of its parts.
+
+The more you can navigate each layer and use these layers cohesively to develop your product, the better success you’ll have. Mark my words. Putting these parts together in the right sequence will get you to 1,000 users in no time.
+
+At the product level, it’s all about matching feature parity against your competition — and as everyone knows, competition moves fast. But at the brand level, it’s about matching experiences at the EX and CX levels. As you know well, at the brand experience level, companies are only a click away from becoming irrelevant as new competitors enter the market.
+
+### Hitting Relevancy Means Achieving the Smile With Cohort Analytics
+
+As I said earlier, if a respondent’s words don’t align with their actions, something’s way off. We have to measure our audience’s actions compared to their answers to our questions. One of my favorite tools to use to match a customer’s actions with what they say is Mixpanel.
+
+Mixpanel’s cohort analytics shows us how often people log in and for how many days in a row. The goal is to see people logging in 18-20 days per month or more. In many SaaS applications, any less than that puts you squarely in no man’s land. Using your product hasn’t become a habit, which means you’re not retaining customers as frequently as you need.
+
+[![cohort analytics and product market fit](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-19-1017x1024.jpg)](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-19.jpg)
+
+One thing I looked at early while tracking our Mixpanel cohort analytics for Platstack is any < Day 1 unbounded login issues against a steep drop >2-5 unbounded retained uses. This issue is so critical that I took all developers off their current path and put all manpower toward fixing any and all login issues. But here’s the thing — no one gave us feedback on the login process. Regardless, I could see in Mixpanel reports that we’d never get to the Product-Market Fit if we didn’t nail the signup functionality which we have been improving on each iterative release.
+
+Another key area we were looking for was whether our users could be converted from Monthly Active Users to Daily Active Users by incrementally adding low-hanging freemium features to convert them first to Weekly Active Users.  By plotting out the number of total active days a user was on Platstack each month, we could see whether we’d not only retained users but also retained Daily Active power users.
+
+Over time, power users become more highly engaged, shifting the curve upward, making the curve look like a smile.  Notice the Yellow Better line below.  That break in the line effectively shows that you have potential to achieve Product-Market Fit because the product is being adopted/used by a small power user group >24 days out of the month.  Heck, I don’t care if you only have five users….if you see this conversion from Monthly Active Usage to Weekly and then Daily Active Usage, you have the spark…the potential to turn those users into brand ambassadors on the cheap.
+
+[![product market fit power user curve](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-46-1-1024x791.jpg)](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-46-1.jpg)
+
+When analyzing the power user curve, you can see that something’s broken about the product if everyone’s dropping off of the platform after a few days (the red line). As more people stay on, you start to see your power users emerge as they use the product 26 to 30 days each month. These users tend to be somehow vested, emotionally, financially or both, in the company’s success. Seeing a big chasm between the two sides of the curve can be problematic. What product leaders want to see is whether or not that path to get to Daily Active Usage is actually happening in the data.  It’s clear if you’ve achieved the Green Smile that things are rocking and rolling as there’s a high level of engagement across the board.
+
+Back to Platstack. Here’s what our analytics looked like right before we got serious about answering this problem:
+
+[![product market fit retention smile](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-33-1024x791.jpg)](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-33.jpg)
+
+When I went to Mixpanel, I noticed that retention rates were incredibly low. A user either didn’t get signed up or when they did, they didn’t know where to go. They dropped off after a few days, which signaled to us that we needed to address the up-front user experience.
+
+We didn’t do onboarding in the beginning (and we still don’t to a degree) because we were changing the app so frequently it didn’t make sense to spend the time/effort. Instead, I’d go out and sit shoulder-to-shoulder with people as they signed up. I started the conversation by showing them my stacks before they started building their own. In taking that hands-on approach, we retained 99% of users. However, when users were left to their own devices, they fell out of the loop 99% of the time. That was a big-time lightbulb moment.
+
+Another factor that we saw continuously rise to the surface in our feedback was visuals. Remember the word cloud I shared with you earlier? We needed to be sure that when a user logged in and started creating their stacks, they had visuals they could attach to their links, even if we continued to struggle with pulling images from the link itself. To overcome that issue, we offered the opportunity to upload images or use Unsplash to drop a stock photo onto the stack. Even though it’s not perfect, we found that if a user is willing to invest that much time, they’re “vested” in making the product a success.  (By the way, I meant “Vested.”  Totally different than “invested” and I hope by now you understand the difference between the two because if you don’t know the difference, you’ll probably be fighting an uphill Product-Market Fit battle until you cave in, learn it and then lean into it).
+
+The final piece of achieving early Product-Market Fit was the way we continued to interact with our initial user base with 1 to 1 data looping, n200 strong. Each time someone requested a feature, I dropped a note into a spreadsheet. When the feature was implemented, I’d take a screenshot and send a personalized note letting that user know that a piece of them was in Platstack. Talk about feeling ingrained in a product! These users were able to squint through certain parts of the product knowing we were continuing to make it better and as a result, they became the power users driving the WOM viral effect for us. Fast forward about five months and our Mixpanel graph has taken on the coveted Retention Smile.
+
+[![user retention and product market fit](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-34-1024x791.jpg)](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-34.jpg)
+
+This smile tells us that more and more users are coming back and using the product more frequently and that many are Monthly Active Users (MAU). Those who may have only used the product once or twice per month were organically converting to Weekly Active User (WAU) and then to Daily Active Users (DAU).
+
+Exponential growth is unquestionably a key part of Product-Market Fit. Thanks to this time-consuming data looping process for securing consistent user data, along with having an incredibly dedicated and vested team hellbent on ensuring we get there, we’ve seen exponential growth via WoM in five out of the last seven months. The two months we fell short were in March and April — right smack in the middle of Covid-19.
+
+### Data Looping is a Time-Consuming Process
+
+In full transparency, as you look at this Smile graph above, let me bare my soul to you. Many people have asked why **_obtaining Product-Market Fit_** is so difficult and time-consuming. Let’s address that, shall we?
+
+Products are successful because your team knows exactly what to build for a market that is large enough to support the features users demand today. That minimally viable total addressable market (TAM) is typically more than $100,000,000. Either the vision is crystal clear, the timing is perfect or the data you’ve collected from users REALLY does satisfy a need or want.
+
+In the case of Platstack, getting to this position so quickly after toiling on it for over a year took a monumental effort (not only for me but for everyone on the team). If you’re serious about successfully finding the early traction stages of Product-Market Fit quickly and you’re the one responsible for delivering it, let me be perfectly clear — It’s not for the faint of heart. It takes a lot of dedication to see a product get to exponential retained growth, and the Founders or the Product Leader have to lean hard into the process.
+
+For me personally, it took months of long and grueling workweeks collecting shoulder-to-shoulder data and then executing on a stubborn determination to align our 3Ps (people, processes and platforms), bring that quantitative AND qualitative data into a UX mobile-first design strategy, and then to ruthlessly prioritize ONLY the key features/bugs which tied directly to the core StoryVesting triggers and goals for a specific set of cohorts and subcohorts. It was brutal as hell but the work has paid off in spades, as evidenced by our growing Smile as well as our exponential user retained growth rates!
+
+And the work ain’t done yet. We’re still working to tighten Product-Market Fit by growing that smile to the north for the DAU power-user base and getting the curve for early adopters to flatten out a rate that would reduce that churn percentage by at least 50% while growing Lifetime Value (LTV) two or three times over. Even then, it’s a long way from being a true hit, despite showing signs of Product-Market Fit traction. So, we’re still by no means ready to scale, **_nor are we guaranteed to have a successful product_**. It takes a lot of time but if you want Product-Market Fit, be prepared to roll up your sleeves and do what most other people won’t do.
+
+## Tying it All Together
+
+There are so many things you can do with Product-Market Fit when you actually grab the data as I have. From being able to get this data to measuring it, you can systematically increase it until you’ve achieved Product-Market Fit and then optimize it on an ongoing basis. In other words, it’s the road to never-ending fit. You’ll always have new entrants, competitors, and technologies, and consumer sentiment is always changing based on a slew of factors. Rediscovering Product-Market Fit is an ongoing game you’ll play for the lifetime of your product.
+
+I don’t just theorize on this either. I’m in the trenches vocalizing and teaching my team about StoryVesting at every single opportunity that presents itself. Take a peek behind the curtain at this recent Slack communication between one of our team members and myself.
+
+[![product market fit conversation](https://www.rocketsource.com/wp-content/uploads/2020/06/Screen-Shot-2020-06-29-at-10.54.52-AM.png)](https://www.rocketsource.com/wp-content/uploads/2020/06/Screen-Shot-2020-06-29-at-10.54.52-AM.png)
+
+As you see, I brought his question back to StoryVesting. The goal is to get our entire team, top to bottom and back to top again, to think about these problems through the lens of StoryVesting’s behavioral, emotional and cognitive triggers.
+
+For most of the companies developing small products in niches, or for enterprises launching new products and services, you need to get really granular, tactical and data-driven. Unless you have this as a team, you’ll falter in achieving success. I want my team to act on data, and to do that, we constantly giving our team reminders about what that data looks like.
+
+[![formulae for finding product market fit](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-37-1024x780.jpg)](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-37.jpg)
+
+This is a great example of the type of data we calculate and deliver to our team, based on the competitive landscape. We’re able to take a look at the biggest complaints about our competitors to find areas where we can steal market share based solely on needs that aren’t being met. We then take this data and get ruthlessly focused on what we need to do as a team to improve our chances of achieving sustainable Product-Market Fit.
+
+[![product market fit data driven roadmap](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-28-1-994x1024.jpg)](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-28-1.jpg)
+
+Bullet points like these are ones we come back to every few weeks. Although these particular points are old, we’re able to keep the conversation moving forward, talking about the things that will help us tighten Product-Market Fit. Each of these things then feeds into our North Star metrics.
+
+### North Star Metrics
+
+Like Polaris, its namesake in the sky, you can count on your [North Star Metric](https://www.rocketsource.com/cx-terms/north-star-metric/) to help you navigate back to home base. Although this star isn’t the brightest one in the sky, it is well-positioned above the North Pole, so you’re always able to tell which direction you’re heading and how far you are from home.
+
+StoryVesting serves as an excellent guide for building your North Star Metrics to keep your team on course as you continue to develop and drive toward Product-Market Fit. Keep in mind that your North Star Metric probably isn’t the flashiest number. It’s not a vanity metric, such as Facebook likes or Twitter followers. One thousand new Twitter followers a day doesn’t equal growth — especially if none of those Twitter followers clicks to your website, recommends your business, or buys your product. Likewise, you can put your time and effort into monitoring your free trial signups, but that’s probably not where your focus should be because it doesn’t tell you anything about whether those people are actually using your product – or whether they’ll stick around when the free trial ends.
+
+At Platstack, we have narrowed in on a potential North Star Metric that we’re still trying to understand today. The metric is not isolated, but is paired with the journey. As evidenced above, the North Star Metric for the customer’s journey that helped us retain 90% of our users is being modified to something we’re tentatively calling the New StackItForward Retention Metric (which we anonymized for competitive purposes):
+
+[![product market fit campaign idea](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-31-1024x791.jpg)](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-31.jpg)
+
+That path results in 90% retention and movement from MAU to DAU which, as you know, is a huge deal for early traction and Product-Market Fit. As we recirculate and reevaluate this data, we’ll be sure to find optimizations along the journey and points at which we could amp retention across a great number of users in that cohort as well as open up the additional cohorts we need to scale.
+
+## Building the Traction of Product-Market Fit to Scale
+
+When people talk about the growth of a company, it’s often in very technical terms. Data, charts and percentages often fill the conversation. While these are often useful for providing a synopsis, they’re really only the footnotes of the story when it comes to success. In fact, I argue that the term “growth” itself is sometimes overused to the point of abstraction.
+
+Maintaining momentum starts with a mindset, not a mathematical formula. Defining growth in concrete terms generally boils down to year-over-year revenue. While many companies enjoy huge market shares and massive profits, growth is only good right up until it stops happening. As we’ve seen time and again, impressive growth falls short of sustainable momentum up the S Curve of Growth. Markets fluctuate. Competitors make adjustments to stay relevant. Groundbreaking products just aren’t as impressive and unique as they used to be.
+
+There are a lot of moving pieces, but the foundation of growth is knowing how to navigate the S Curve of Business and knowing when you need to jump to that next S curve. What separates leading companies from laggards is how they handle those leaps, starting by understanding your Product-Market Fit today, tomorrow and long into the future, and then refining your development cycles to stay on track and relevant for whatever the world brings our way.
+
+Do you know how to reach Product-Market Fit, so you can increase LTV and lower CAC? If there’s uncertainty, let’s talk.
+
+[Schedule a Discovery Call](https://calendar.google.com/appointments/schedules/AcZssZ3Y-ejlQYyV6EGMB1u443wizqtEY0zhSgcN6Yb_AbKt9BA7sMyxQljqAB24XzC3p6qqy7DBTIur)
+
+Written by [Buckley Barlow](https://www.rocketsource.com/blog/author/Buckley-Barlow/)
+
+![Avatar photo](https://www.rocketsource.com/wp-content/uploads/2018/05/buckley-barlow_lg-96x96.jpg)
+
+Founding partner of RocketSource. Author of The Growth Code and StoryVesting. I live at the digital intersection of strategy, tech, creative and data. I roll up my sleeves with some of the most forward-thinking teams in the world to help them deliver best-in-class brand outcomes.
+
+[Follow @BuckleyBarlow](https://twitter.com/BuckleyBarlow)
+
+## Downloads and Resources
+
+#### Intrinsic Factors to Consider When Finding Product-Market Fit
+
+[![product market fit and brand experience](https://www.rocketsource.com/wp-content/uploads/2020/06/Artboard-10-copy-19-100-555x375.jpg)](https://www.rocketsource.com/wp-content/uploads/2020/06/Artboard-10-copy-19-100.jpg)
+
+#### Attributes of Amazing Product Leaders
+
+[](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-26-scaled.jpg)
+
+#### Data Looping Via the StoryVesting Framework
+
+[![storyvesting and product market fit](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-35-555x375.jpg)](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-35-scaled.jpg)
+
+#### Product-Market Fit Data Collection
+
+[![emotional triggers for product market fit](https://www.rocketsource.com/wp-content/uploads/2020/06/Artboard-2-copy-2-100-555x375.jpg)](https://www.rocketsource.com/wp-content/uploads/2020/06/Artboard-2-copy-2-100.jpg)
+
+#### The Product-Market Fit Framework
+
+[![product market fit framework](https://www.rocketsource.com/wp-content/uploads/2020/06/Artboard-10-copy-7-100-555x375.jpg)](https://www.rocketsource.com/wp-content/uploads/2020/06/Artboard-10-copy-7-100.jpg)
+
+#### A User Retention Curve Showing No Product-Market Fit
+
+[![product market fit retention smile](https://www.rocketsource.com/wp-content/uploads/2020/06/Artboard-2-100-555x375.jpg)](https://www.rocketsource.com/wp-content/uploads/2020/06/Artboard-2-100.jpg)
+
+#### Cohort Analytics and Product-Market Fit
+
+[![cohort analytics and product market fit](https://www.rocketsource.com/wp-content/uploads/2020/06/Artboard-2-copy-10-100-555x375.jpg)](https://www.rocketsource.com/wp-content/uploads/2020/06/Artboard-2-copy-10-100.jpg)
+
+#### The Smile Retention Curve When Finding Product-Market Fit
+
+[![user retention and product market fit](https://www.rocketsource.com/wp-content/uploads/2020/06/Artboard-2-copy-100-555x375.jpg)](https://www.rocketsource.com/wp-content/uploads/2020/06/Artboard-2-copy-100.jpg)
+
+#### Stack It Forward Concept
+
+[](https://www.rocketsource.com/wp-content/uploads/2020/07/PMFit-graphics-31.jpg)

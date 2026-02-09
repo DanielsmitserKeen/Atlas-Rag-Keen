@@ -1,0 +1,376 @@
+# Lessons from Top SaaS Startups
+
+Struggling to achieve product-market fit? This post showcases seven inspiring product-market fit examples from top SaaS companies like Superhuman, Linear, Sidekick Browser, and others illustrating how they navigated the challenges and succeeded. 
+
+Drawing from our experience as a [design agency](https://eleken.co/) with over 100 SaaS products, we'll break down these success stories to provide actionable insights you can implement. However, keep in mind there's no one-size-fits-all roadmap here – discover how iterative design, user testing, user interviews, and others can help you iterate towards achieving product-market fit just like the industry leaders.
+
+## What is product market fit?
+
+The term Product-Market Fit (PMF) was first popularized by Marc Andreessen, a well-known entrepreneur and venture capitalist, in his 2007 blog post titled [The Only Thing That Matters](https://pmarchive.com/guide_to_startups_part4.html). In it, he described product-market fit as the point when a product meets the demands of a market, resonating strongly with a target audience and achieving strong traction. 
+
+While Andreessen didn’t introduce the exact phrase, he defined and framed the concept in a way that has since become central to startup and growth strategy discussions.
+
+Nowadays, we may find people define PMF in quite a poetic way 
+
+> “… do someone’s pupils dilate when they use your stuff?” **– Steve Blank in** [**Great Entrepreneurship is Artistry**](https://podcasts.apple.com/us/podcast/steve-blank-great-entrepreneurship-is-artistry/id1488560647?i=1000459113604) **podcast**
+
+or more pragmatic like this
+
+> “Plot the % active users over time (for various cohorts) to create a retention curve. If it flattens off at some point, you have probably found product/market fit for some market or audience.” _–_ [**Brian Balfour**](https://brianbalfour.com/essays/product-market-fit)**, in his article** [**The Never Ending Road To Product Market Fit**](https://brianbalfour.com/essays/product-market-fit)
+
+Or this
+
+> “For consumer apps, you start to experience ‘exponential organic growth’, driven by word of mouth.” — **Andy Rachleff on the podcast** [**​​How to Know If You’ve Got Product Market Fit**](https://podcasts.apple.com/us/podcast/andy-rachleff-on-how-to-know-if-youve-got-product-market-fit/id1488560647?i=1000458416917)**.**
+
+If we had to provide a simple product-market fit definition, it would be something like this “**It’s when you have a strong market and a product that effectively meets the needs of that market.”**
+
+For more information on PMF, its definition, importance, and ways to measure it – check out our [Guide to product-market fit](https://www.eleken.co/blog-posts/guide-to-product-market-fit).
+
+## How to find product-market fit
+
+Of course, there is not, and can’t be, the one and only well-defined step-by-step plan on how to achieve product-market fit. However, some proven strategies can guide you. Let's explore [Lenny Rachitsky's insights](https://www.lennysnewsletter.com/p/finding-product-market-fit), gathered from over 20 successful B2B founders who share their experiences. 
+
+1.  **Focus on one company: make them love your product.** Become obsessed with their success. Do whatever it takes to make your product work for them, even if it means personally fixing issues or customizing features.
+2.  **Get paid: convince this company to pay a meaningful amount.** Aim for five to six figures per year. Don't undervalue your product - many founders suggest charging more than you think you should.
+3.  **Expand: get multiple companies (3-10) to love and pay for your product.** This proves your product has broader appeal. Pay attention to retention – if early customers leave, they don't count towards product-market fit.
+4.  **Watch for organic growth: notice when interest shifts from you pushing to customers pulling.** Look for signs like customers asking to pay for your product or complaining when it doesn't work, indicating they depend on it.
+5.  **Grow consistently: keep expanding your customer base.** Continue refining your product and acquiring new customers. Talk to customers frequently. Spend about 50% of your time communicating with users to understand their needs.
+
+To learn how to do it correctly, check out our article on [how to interview users when looking for a product-market fit](https://www.eleken.co/blog-posts/product-market-fit-how-to-interview-users-questions-list).
+
+The last but probably most important thing you should understand about finding PMF is that **it isn't something you achieve once and forget about**. It's an ongoing process.
+
+*   Markets change over time.
+*   New competitors appear.
+*   Customer needs evolve.
+*   External factors can affect your product's success.
+
+Because of these changes, you need to keep checking if your product still fits what customers want, make updates and changes. And be patient – for most SaaS companies, the journey to product/market fit typically lasts about two years.
+
+Now let's examine real-world best product-market fit examples to uncover more insights and identify patterns that help companies achieve PMF.
+
+## Superhuman
+
+**reaching PMF before official product launch**
+
+Rahul Vohra, founder and CEO of Superhuman, shares his detailed [journey to product-market fit](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/). An interesting aspect of this case is that when they began this process in 2017, their email app had been in development for two years but hadn't yet been launched. Rahul aimed to assess their PMF before the official release. Let's explore how they succeeded in this unique approach.
+
+![Superhuman](https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66cb8df1ef45c6d8e0f261f2_AD_4nXcoNIXJhUAnYvoEWy5S88j_mrPgfn_Ku42fjYX_MtitQww1UcKpbcXTgKJumCDyI_mQJpG3r0vtGinyKMIrHUVtf1gDgIk6OmkUfgGSTPnZb5SLnNJm9zMys5g03A4ifv6I-Cw-dBmfQqrKGrX_ZDq6i7wr.png)
+
+### Signs of PMF
+
+Product-market fit is quite an abstract notion still Mr. Vohra wanted to find some measurable indicators that would help him understand when they have PMF. Superhuman used Sean Ellis’s, a growth expert who led early growth at Dropbox, LogMeIn, and Eventbrite, metric as a key indicator: asking users, **“How would you feel if you could no longer use the product?”** The goal was to have 40% of respondents answer “very disappointed.” 
+
+Initially, only 22% of users felt this way, indicating they hadn’t reached PMF yet. However, this survey gave a way to clearly communicate the situation to the team and create a plan to improve the situation.
+
+![a pie chart showing the results of Superhuman's "How would you feel if you could no longer use Superhuman" survey they conducted to find out if they reached PMF. In the early 2017 only 22% of users responded "Very disappointed"](https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66cb8df12113a16095566ba3_AD_4nXfjOy-BQ2Ps2vUPSi7ZND8RMeGVHqY2cgW0gwVlmOXvOshXBiRhTXwDMLwMzu3FMq5fRkxrn0LFWvLBVAS6rlo9tGiiawiOdGGgqqrTFToAYZ_9oPpK2WznTuYMBhSfVWdsU_RC6_c3KDftATOtWzpFCNAV.png)
+
+Image credit: review.firstround.com
+
+By segmenting their users and focusing on the right customer personas, they gradually improved this score closer to the 40% threshold.
+
+![The results of the me product-market fit survey after Superhuman segmented its users. The impact of segmentation lead to 32% of users responding "Very disappointed"u](https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66cb8df23cd57b4a713ee3ee_AD_4nXeK3Fmp5zd6ILfmCa4ZYVpAvM47UNBzteKNwUpRSjysArgcVb58L-ZAMfBg3x3BStu2qzLABqqlmWuFpuB3ZNpvhvY0zqg7PbW-MG5N61Bo5FOb11V6XjA9AhRMnlspjgC1XwpHqagbNqsqwFy_35ihDZTG.png)
+
+### Audience they targeted
+
+Superhuman initially cast a broad net, attracting different types of users. Through their survey, specifically a key indicator, they identified that their **High-Expectation Customers (HXCs)** were professionals like executives, managers, founders, and people in business development who dealt with a high volume of emails. These users needed to be extremely efficient and responsive.
+
+Next, they focused on the HXCs' responses to another survey question: **“Who would benefit most from Superhuman?”** This question is powerful because satisfied users typically describe themselves using words that matter to them. It helped Superhuman understand their ideal users and the language that resonates with them.
+
+The “Nicole” persona they developed is a busy professional who values speed, productivity, and streamlined communication.
+
+### How they reached PMF
+
+Now, the most interesting part of Superhuman’s story, let’s see what actually helped them succeed. 
+
+*   **Segmenting to find high-expectation customers (HXCs)**
+
+They identified users who were most enthusiastic about the product and narrowed their focus to these customers. By understanding who really loved their product and why, they could fine-tune their offerings to better meet the needs of this core group.
+
+*   **Analyzing feedback to convert on-the-fence users.**
+
+They broke down feedback to identify why some users were only “somewhat disappointed” if they lost access. They paid particular attention to those users who valued Superhuman’s main benefits, like speed and keyboard shortcuts, but still had reservations. They ignored feedback from users who didn’t resonate with their product’s core value proposition.
+
+*   **Building a roadmap around customer needs.**
+
+Superhuman focused their product development on enhancing what their most loyal users already loved (speed for example) while addressing common pain points like the absence of a mobile app. By balancing these two priorities, they created a roadmap that gradually pushed more users into the “very disappointed” category.
+
+*   **Iterating based on customer insights.**
+
+Superhuman didn’t view PMF as a one-time goal. Instead, they continuously ran this process as an engine, measuring, learning, and iterating based on real user data to steadily improve their product’s fit.
+
+Here’s a quote from Rahul Vohra.
+
+> “If your business has strong network effects (think Uber or Airbnb), then the core benefit will keep getting better as you grow. If you're a SaaS company like Superhuman, you simply have to keep on improving the product as the pool of users expands.”
+
+To sum-up, Superhuman’s PMF strategy was a structured and data-driven approach. By focusing on a key metric, segmenting their users, and concentrating efforts on their most promising audience, they systematically improved their product until it resonated deeply with their target users.
+
+## Linear
+
+**achieving PMF through niche focus and network effect**
+
+Linear is a popular project management and issue-tracking software, particularly loved by startups and tech companies. With its success leading to a $400M valuation, it's an intriguing case study, so of course, at Eleken, we've already analyzed [Linear's overall success](https://www.eleken.co/blog-posts/linear-app-case-study). Now, let's explore how they achieved product-market fit.
+
+![Linear](https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66cb8df10ac1e768890344ed_AD_4nXesiuffdbCIHXig_Z4T9Z0_SB7HpOcgmtAwzwGeLyjL5bicwOugHTVF56cd14S8sKZerEci1zb_g2SlNF1D1q8biuv3lgq6E8HNKbXXnlnRhx9wT9hWl7kBmNfTAK5XALeUGS0JONHpTFliiv-xw1RtMDvB.png)
+
+### Signs of PMF
+
+First of all, here are three key indicators that showed Linear was achieving product-market fit.
+
+*   **User adoption and traction:** despite minimal marketing spend (only $35k), Linear achieved widespread adoption, including a $400M valuation, a strong user base, and high customer satisfaction.
+*   **Cult-like following:** the product quickly garnered a loyal community of users, many of whom became advocates, helping spread it through word-of-mouth.
+*   **Waitlist demand**: the founders’ reputations and early networks attracted 10,000 users to a waitlist during the closed beta, highlighting strong initial demand.
+
+### Audience they targeted
+
+Linear decided to go with quite a specific audience type.
+
+*   **Early-stage startups and developers:** Linear focused on small, dynamic startups, especially targeting developers within these teams. They intentionally optimized the tool for developers, even if it meant sacrificing appeal to other roles like product managers.
+*   **Niche within issue tracking**: instead of trying to appeal to everyone, Linear targeted a specific underserved segment – smaller startups frustrated with cumbersome tools like Jira.
+
+### How they reached PMF
+
+So, how did Linear crack the PMF code? Here's the scoop:
+
+*   **Focused niche strategy.**
+
+Linear initially concentrated on dominating a small, well-defined segment (startups and developers) rather than trying to be everything to everyone. This strong niche focus allowed them to win over their ideal customer base before expanding.
+
+*   **Beta testing and iteration.**
+
+The product was rigorously tested in closed beta for a year before going public. This extended period allowed them to refine the product and onboard 1,000+ highly engaged users before full launch.
+
+*   **Network effects.**
+
+As a collaborative tool, Linear benefitted from network effects, where one user would introduce it to their team, and that team would introduce it to others. This organic spread was crucial to their growth without heavy marketing investment.
+
+*   **Founders’ reputation and network.**
+
+The founders’ strong Silicon Valley backgrounds and connections led to early buzz, securing high-profile beta users from companies like Cohere and Ramp and a $4.2M seed round from Sequoia.
+
+#### Additional points
+
+There are some facts, I also want to mention as I think they really helped Linear nail their product-market fit. 
+
+*   **Compelling product narrative:** Linear differentiated itself by standing against the typical “fail fast” Silicon Valley approach. They emphasized craft, taste, and user empowerment, which resonated with users who share similar values. This alignment with user beliefs contributed to brand loyalty and strengthened PMF.
+*   [**Product-led growth strategy**](https://www.eleken.co/blog-posts/product-led-growth-a-customer-focused-strategy-for-saas-business-growth)**:** Linear's growth was driven by product quality and user experience, not marketing. Their focus on user delight, combined with network effects, allowed them to grow organically.
+*   **Design-driven approach:** Linear’s reputation as a design-centric company also played a role. From the beginning, they prioritized aesthetics and ease of use, which became core selling points and a driver of PMF.
+
+Summing up, Linear achieved PMF by focusing on a well-defined niche (early-stage startups and developers), leveraging the founders’ networks, and employing a product-led growth model that relied on organic spread rather than paid marketing. Their design-first approach and clear product narrative helped create a strong brand that resonated deeply with their target audience.
+
+## Sidekick Browser
+
+‍**engineering a PMF score engine for continuous improvement**
+
+Sidekick is a productivity-focused web browser designed to streamline work processes and boost efficiency. What makes their [journey to product-market fit](https://www.reforge.com/artifacts/product-market-fit-score-driven-product-strategy-at-sidekick-browser) interesting is how they adapted Rahul Vohra's PMF approach (check Superhuman’s PMF story) to their unique needs. Nik and his CMO developed a 'PMF Engine' for Sidekick, which led to some unexpected insights and a clearer path forward. Let's dive into how they tackled the challenge of finding their perfect market fit in the competitive world of web browsers.
+
+![Sidekick](https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66cd991561d5a3dfefef2664_AD_4nXcfFPodhPLqF_2rFlI6WkT_pdBNno2Cx9jdiCPZ8UD5ARR2m3lMi_vlViFK9lEnog3WJBBp0PDgEE-vvDFrtYWIlTxtOEZO4R-lK5K24wb3Sf8hp_uyjtlpNhNwyz4fuCQuq_QM2YRp9e2qoZhnY4yPqSfK.png)
+
+### Signs of PMF 
+
+*   **User traction and satisfaction tracking:** Sidekick Browser systematically monitors its PMF through a Product-Market Fit Score Engine. They update it monthly and quarterly. This way they can directly track user satisfaction and ensure whether they are delivering consistent value.
+*   **Data-driven insights:** By analyzing user feedback and tagging it based on specific features, they are able to prioritize product updates that would have real impact. The continuous process of gathering, analyzing, and acting on feedback indicates strong PMF, as the product is closely aligned with user needs.
+*   **Strategic conversations with investors:** The team’s ability to clearly articulate the impact of their product to VCs and investors based on tangible user feedback and growth metrics further underscores PMF.
+
+### Audience they targeted
+
+While browsers often cater to diverse user personas, Sidekick has refined its target audience by **identifying key personas and understanding their specific needs**. Sidekick focuses on the most relevant personas, and this way avoids spreading resources too thin ensuring that they can meet the unique demands of their core users.
+
+In general, the browser is designed for users in evolving work environments who need a specialized tool that enhances productivity and user experience.
+
+![Sidekick's table with user personas they used to move to the product-market fit](https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66cd991903bed88b798f303c_AD_4nXdm1SPLZ43uF3jlaNqnfHXKngYIYiGqyLmXA_fWIsmAB77sC16gahU9Ary09ori3FdI4_yyXl92qRPuZyyd5QfHkUsfz6ukC4NwOTEjFgpgCr8amR89clvGV8BRNLsFKC8o5jvcX8N03Rrk-NhSN5kSEAM.png)
+
+The list of Sidekick’s user personas
+
+### How they reached PMF
+
+*   **PMF score engine for structured feedback**.
+
+Sidekick uses a well-structured PMF Score Engine that involves 
+
+*   collecting user insights via surveys
+*   processing the data in Notion and Google Sheets
+*   translating those insights into actionable goals for the product roadmap. 
+
+With such a cycle of feedback collection and feature prioritization is key to their iterative improvement and maintaining a strong product-market fit.
+
+*   **User-centric roadmap planning.**
+
+The team is all about really getting to know and organizing user feedback. They tag feedback based on specific features, helping them focus on the most impactful updates for their users. This prioritization ensures that Sidekick continually enhances the user experience in ways that matter most.
+
+*   **Goal-oriented feature development.**
+
+Feedback is transformed into specific goals for the next two quarters. By aligning roadmap goals directly with user needs, Sidekick avoids feature bloat and maintains alignment with its target audience. 
+
+#### Additional Points
+
+*   **Avoiding resource waste:** The structured approach to feedback analysis allows Sidekick to cut through the noise and focus only on what truly matters. This disciplined focus helps avoid the common startup pitfall of misdirecting resources.
+
+**Sidekick Browser achieved product-market fit by closely aligning its product with user needs through a systematic feedback and iteration process.** They identified and targeted specific user personas, refined their roadmap based on detailed user insights, and used data-driven narratives to communicate their growth strategy to investors. Their methodical approach to monitoring PMF and prioritizing user feedback has been key to delivering a product that meets the needs of its core audience while continuously improving based on real-time user satisfaction metrics.
+
+## Roadmap
+
+‍**navigating to PMF with a multi-dimensional framework**
+
+Roadmap is a startup helping job seekers improve their career prospects through various tools and services. This [Product Market Fit case study](https://www.reforge.com/artifacts/product-market-fit-assessment-at-roadmap#f7c7279f-c6a6-47c1-868d-75881324b23a), shared by Emily Giddings, a former employee, demonstrates how the company systematically approached achieving PMF across multiple offerings.
+
+### Signs of PMF
+
+*   **Clear customer demand and feedback loops:** The team identified strong interest in specific features like interview practice through customer surveys. This demand was validated when users expressed a willingness to pay more for enhanced versions of these features.
+*   **Data-driven iteration:** The consistent alignment between survey insights and product feature updates indicated that the team was honing in on what customers truly valued, resulting in improved user satisfaction and engagement.
+
+### Audience they targeted
+
+The primary audience consisted of users seeking tools and resources to improve their job interview skills, indicating a market need for accessible and scalable interview practice solutions.
+
+The assessment process was geared towards startups, specifically those needing a structured framework to validate product ideas before scaling.
+
+### How they reached PMF
+
+*   **Framework for PMF evaluation**
+
+The Roadmap team implemented a structured PMF assessment based on six dimensions, inspired by the Reforge Growth Series. 
+
+![Framework for product-market fit evaluation by Roadmap startup](https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66cd991571971cb1981e3e7d_AD_4nXcdhQkjLIRD1PnNLyJToI7rYcqY4TN_WKSFz4_sRlmHT28djJjsndyTuYaCsru3p7j7fkT6CyoWulJlp8J7UCQcC_bYp470Y3cKv4vxGjPEFoMS2X27aT6LmozkJ1h9dyJgR2V1DsZXKZW3b-7_r95OAdk.png)
+
+Product-market fit framework that Roadmap used
+
+The framework allowed for methodical analysis across different product ideas, helping prioritize the most viable concepts.
+
+*   **Continuous customer discovery and iteration**
+
+The team conducted surveys, had focus groups, and gathered qualitative feedback to continuously refine the product. They validated assumptions, identified core value propositions, and adjusted offerings based on real user input. For example, they added popular features (e.g., interview practice) to primary offers and adjusted marketing materials to highlight valued features.
+
+*   **Flexible product strategy**
+
+They used customer insights to experiment with different formats, like a 1:1 interview practice process tailored for global time zones, indicating responsiveness to user needs. Roadmap also created multiple product tiers (Free DTC, $ DTC, $$ DTC) to cater to different audience segments.
+
+Roadmap’s case illustrates how a methodical, data-backed approach combined with iterative user feedback can effectively guide startups in aligning products with market needs, leading to stronger PMF.
+
+## Populate
+
+‍**iterating to PMF through deep user understanding**
+
+[Populate](https://www.eleken.co/cases/populate), a healthcare startup, aims to reduce clinician burnout through an efficient documentation app. Inspired by his wife's struggles with clinical software, founder Chance Rodriguez decided to create this time-saving solution. As Eleken's client, we've witnessed Populate's journey to Product-Market Fit (PMF) firsthand, so we have what to share with you.
+
+![Populate](https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66cd99158d983c000da65157_AD_4nXdc4gQqJX42SNE7bhI7m6xFfCh1o_y5bNTaxHQwxR7agS1acISL_9HOnKYLIOyIsIok8B8hQEzu_ETbvC4QE67a6NvZrsAvPOS3_kXr0PROdrC8WHkVB45GkzhkUD9OiqRWMRKs-bhz3akf3QqB2V7U0n0.png)
+
+### Signs of PMF
+
+*   **Positive iterative feedback from users**: Populate’s team reached PMF by consistently iterating on their product based on real-time user feedback. By testing each design and feature directly with doctors, they identified what worked and improved upon what didn’t.
+*   **User retention and engagement:** The product’s focus on minimizing the time doctors spend on documentation (through AI-powered templates, speech-to-text, etc.) became a key reason for its success. When doctors actively used the product and experienced meaningful time savings, this signaled alignment between the product and the market need.
+
+### Audience they targeted 
+
+The primary audience were **clinicians and healthcare professionals** (e.g., doctors, therapists) who are overwhelmed with inefficient documentation processes. However, Populate also targeted healthcare facilities looking to improve clinician efficiency and patient care by adopting more modern, user-friendly software.
+
+### How they reached PMF
+
+*   **Customer-centric design approach**
+
+The team’s user-centric methodology involved continuous communication with potential users. The CEO, Chance Rodriguez, spent hours each day talking to doctors to understand their workflows and frustrations.
+
+![Quote of Popuate's CEO, Chance Rodriguez saying "I spend most of my day talking to doctors. If I spend 6-7 hour of my day just talking to doctors about their workflows, that's a good day for me."](https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66cd9915cf5dc1c242abd821_AD_4nXd9XdNYuo0Nu3pm7HN_0t1hsIbI_KJ1HNRclVt60ZiEOMSOgyTqLWLCupzdIpl2b701Ong9fJEHL6bpBkC7fs0UF6yURKm0wxjdqoeF5uaWyhFZEZl_QuwiLKE77d0W7LlPvBQ-XaTIi9rs1FOzGBsVnl-M.png)
+
+*   **Iterative testing and feedback**
+
+Being a part of it, we can ensure the design process was highly iterative. We tested initial designs, gathered real-life feedback, and made necessary adjustments. For example, doctors tested different versions of screens to determine which offered the best balance between information accessibility and user experience.
+
+*   **Adapting to user preferences**
+
+Together with the team we made compromises, such as choosing function over aesthetic perfection, to align with user needs. For instance, doctors preferred a less elegant but more functional design that allowed them to work faster.
+
+Populate reached PMF by focusing on a deep understanding of their users’ needs, engaging in constant communication with clinicians, and iterating based on user feedback. By optimizing for efficiency and aligning their product with real-world workflows, they successfully addressed a critical pain point in the healthcare industry, leading to high user engagement and satisfaction.
+
+## Datawisp
+
+‍**pivoting from confusion to PMF via user-centric design**
+
+[Datawisp](https://www.eleken.co/cases/datawisp) is a no-code data-analysis platform and one of our clients with an amazing story of raising a $3.6M seed round. So, being a part of this success as their design partner, we wanted to analyze what helped them reach product-market fit. 
+
+![Datawisp](https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66cd9915e26c1faf44ff0383_AD_4nXeqcGhlv5UkeIjEiG-wT_-6xuB01GmKtSz6GLfqAbDj0lBDttIU8Lin_MBBf6QbeKXt-Gh6zIGM3F_pHJ5vRqEhOERR46T8h1BIj3iFwtOTfhJYVj6U27Qyvb6I24dl1ukgCU5-1bcy-MgPGLoIyCi_5ns.png)
+
+### Signs of PMF
+
+*   **Improved user feedback**: After the redesign, user feedback shifted from “this looks complicated” to “this looks easy,” indicating a better user experience and increased satisfaction.
+*   **Investor confidence:** The successful redesign and positive user reception contributed to Datawisp raising a $3.6M seed round, reflecting market validation and investor belief in the product’s potential.
+*   **Adoption and usability:** The transition from a confusing prototype to a polished, usable tool demonstrated alignment with user needs.
+
+### Audience they targeted
+
+Datawisp primarily targets **non-technical users who need data analytics but lack coding skills**, such as small businesses, marketers, and managers. The product is also aimed at small to medium-sized enterprises (SMEs) looking for a simple and visual approach to data analysis.
+
+### How they reached PMF
+
+*   **Iterative user testing and redesign**
+
+Datawisp’s approach involved frequent user feedback loops, with Eleken’s design team iterating on the interface to address usability pain points.
+
+*   **Detailed UX audit**
+
+Together we conducted an [in-depth UX audit](https://www.eleken.co/ux-audit-service) and redesigned user flows to simplify complex interactions, leading to a more intuitive experience.
+
+*   **Building a cohesive design system**
+
+[Establishing a consistent design system](https://www.eleken.co/blog-posts/ux-design-system) improved navigation, user interaction, and future scalability, enabling a more seamless product experience.
+
+The redesign was pivotal in transforming Datawisp from a raw, confusing prototype into a market-ready product. Constant validation from target users allowed them to align the product with real-world needs, driving both user and investor confidence this way achieving product-market fit.
+
+## Segment
+
+‍**from failure to PMF – a story of persistence and pivots**
+
+Segment is a customer data platform (CDP) that helps businesses collect, clean, and control their customer data. The company's journey to success is particularly instructive, as the founders have openly shared their [experiences with achieving and measuring product-market fit](https://segment.com/academy/intro/measuring-product-market-fit/). Their story encompasses both failure and triumph. Initially, they developed ClassMetrics, a product that did not meet market expectations. However, they persevered and eventually found success with Segment. 
+
+Let’s see what we can learn here.
+
+### Signs of product-market fit
+
+*   **Retention metrics as core indicator:** Segment highlights retention cohorts as the most reliable metric for measuring PMF. They focus on whether a consistent cohort of users returns week after week, signaling that they derive sustained value from the product.
+
+![Graph from Segment product-market fit example case study showing the percent of people returning each week when a company has product market fit and doesn't. ](https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66cd9917b5ce9eabd51fd3a3_AD_4nXdAw61qm2sRQQrsCdrxSilNAtvZLAqWx4yVfzlWSJSxvvrC0vkw2Wl_4OnkY9UgDNSY-9KDbG6jsJTXdUE22vJjPi1o6x_OfvumJo9URWL8QaqKMXFPXMUzEaRY99mNcX6PwLUv0vjUq6s3hbPcMVQaxCA.png)
+
+Image credit: segment.com
+
+*   **Avoidance of false positives:** The Segment team initially failed to achieve PMF with their first product, ClassMetric, despite early excitement from students, professors, and investors. This misalignment was later revealed through poor retention and a lack of meaningful engagement.
+
+This point is not a sign of PMF, but it’s an important lesson that teaches PMF should be measured by consistent, meaningful user engagement and retention, not just by initial interest or excitement. By focusing on the right metrics, you can avoid being misled by false positives that can waste time and resources.
+
+### Audience they targeted
+
+The initial product, ClassMetric, targeted university students and professors with a classroom engagement tool. However, this market proved unsuitable due to poor adoption and distraction issues.
+
+After multiple pivots, Segment shifted focus to **developers and product teams in SaaS companies**. This new audience was more aligned with their product offering, enabling them to provide analytics infrastructure that met a pressing need in the market.
+
+### How they reached PMF
+
+*   **Analytics-driven approach.**
+
+Segment emphasizes the importance of using analytics tools (like Amplitude, Mixpanel, and Heap) to build retention cohort charts. This data-driven approach helps quantify whether users are sticking around and consistently using the product.
+
+*   **Iteration and learning from failure**
+
+Segment’s path to PMF involved multiple pivots. After burning through $500,000 without gaining traction, they eventually focused on solving a core problem that developers faced—centralized data analytics. This pivot was informed by extensive customer feedback and their own failures.
+
+*   **Choosing the right metrics.**
+
+Segment stresses the importance of picking engagement metrics that accurately reflect the value users derive from the product. For instance, they track key actions like video plays or subscription upgrades to measure whether users are truly engaging with their product.
+
+#### Additional points
+
+*   **Importance of both quantitative and qualitative insights:** While analytics and retention metrics provide clear indicators of PMF, Segment also emphasizes the qualitative aspect, where users begin actively pulling the product from your hands. This “feeling” of PMF complements the hard data.
+*   **Complexity in advanced stages:** As products scale, the retention cohort analysis becomes more complex. Segment uses Mode Analytics on top of Amazon Redshift to create quarterly retention cohorts, allowing them to track both revenue and account retention over time.
+
+Segment’s path to product-market fit is persistence, pivoting, and learning from failure. They initially failed to achieve PMF with their classroom engagement tool, but after multiple pivots, they found a clear need among SaaS companies for robust analytics infrastructure. 
+
+By focusing on retention cohorts as their primary metric and using tools like Amplitude and Mode Analytics to track user behavior, Segment systematically quantified PMF. The combination of data-driven insights and qualitative feedback allowed them to refine their product for a more suitable audience, ultimately leading to a successful product-market fit.
+
+## The iterative process is a key
+
+I’d like to provide a quote of Linear’s co-founder, Jori Lallo here
+
+> “PMF is never a binary yes-or-no moment. It’s instead a gradual process of finding fit with larger and larger segments.”
+
+And that’s not only his thought. Just like UI/UX design, product-market fit isn't a one-time achievement — it's an ongoing journey. All our case studies, from Superhuman to Datawisp, demonstrate this crucial point.
+
+Reaching PMF takes time, iterations and talking to customers. Luckily, that’s something we at Eleken can very successfully help with. So, if you're seeking a dedicated design partner to accompany you on the path to product-market fit, [reach us out for a free consultation](https://www.eleken.co/contact-us).

@@ -1,0 +1,527 @@
+# a16z Growth's David George on His Frameworks for Late-Stage Investing
+
+Finding and backing companies that can reach escape velocity is the name of the game over here at a16z Growth—but picking those winners is far from easy. David George, head of the a16z Growth fund, sat down with Tyler Hogge and Sterling Snow from the [I/O podcast](https://www.investoroperator.io/) to discuss his mental models for growth-stage investing, what it really takes to go public, where AI is today and where it’s headed, and more.
+
+**\[00:03:19\] What makes Andreessen Horowitz different**
+
+**\[00:08:29\] David’s mental model for investing**
+
+**\[00:18:23\] Focusing on inputs, not outputs**
+
+**\[00:26:52\] What constitutes a growth company?**
+
+**\[00:29:14\] David’s three investing frameworks**
+
+**\[00:36:45\] How to measure the ROI of R&D**
+
+**\[00:42:15\] What it takes to go public today**
+
+**\[00:46:43\] AI: market structure and infrastructure vs. application layers**
+
+## Transcript
+
+**David**: At that time, I was working at a PE firm before it, and I had a decision to make, which was like, “What asset class do you want to go into?” And like, it was very clear at that time—this was like 2010—that the world was going to specialization, like you had to pick an industry. And I had narrowed it down to growth investing. I had done both growth style and private equity. I liked growth better. And it was like, “All right, what will have tailwinds for my career?” And so I ended up, you know, sort of getting an intro to a guy at General Atlantic while I was at Stanford and started working at GA while I was at Stanford and then ended up working there for a long time—for eight years.
+
+**Tyler**: Eight years at GA. There’s probably plenty we could talk about there, but I would love to know how you ended up at Andreessen because they didn’t have a growth fund. Did you help start it? Is that right?
+
+**David**: Yeah, I started it. Yeah. Well, I mean, look, I helped to start it. And, you know, they didn’t have a growth fund, but they had done a decent job, actually, at making growth investments.
+
+**Tyler**: There was Skype—it was like a growth investment.
+
+**David**: Skype was like a PE investment.
+
+**Tyler**: Yeah, that’s true.
+
+**David**: I was like, “What are these guys doing?” And by the way, like, there’s a lot that we could talk about, you know, it’s—I’m speaking out of school because it’s not mine—but, you know, LPs were like, “What are you guys doing?” at the time.
+
+**Tyler**: But it was just one fund, one core venture fund.
+
+**David**: It was a core venture fund, and they had what we called parallel funds, which was kind of like an overage for things when check sizes got a little bit bigger. And so, that was kind of the de facto…
+
+**Tyler**: Growth.
+
+**David**: …growth fund. But they were the last one that just hadn’t done it in a first-class way yet. And, you know, I knew some of the folks from a16z just from overlapping investments. Like, I was on a board with Alex Rampell, and, you know, I was an investor in Slack and Airbnb and a couple of others.
+
+**Tyler**: At General Atlantic.
+
+**David**: At GA, yeah. And so, I got to know them. And, you know, in fact, the initial push for a16z for me was from somebody that I actually didn’t work with—a16z portfolio founder Jen Tejada from PagerDuty. And I’d gotten to know her, and a16z was like, “Hey, who do you all like in the industry? We’re starting a growth fund.” And she was like, “I don’t work with this guy, but I really liked him. He’s always kind of, you know, carried himself the way you all do. First-class business in a first-class way, treat people right, take the long view of relationships.” And so, I got to know them in six to nine months. Got to know all the GPs, had a bunch of different sessions, sort of mutually, there was sort of…
+
+**Tyler**: Falling in love.
+
+**David**: …yeah, falling in love. And, you know, the further we got into it, they’re like, “Okay, how would you actually design this thing?” And that was so cool for me.
+
+## **What makes Andreessen Horowitz different**
+
+**Tyler**: Well, you had never built a growth fund before, right? So, how did you get comfortable?
+
+**David**: I managed like a pod. Like, GA is awesome. We had amazing people. But, you know, I sort of managed a pod, and it was like, “Okay, for me personally, this is so cool.” Like, for a couple of reasons. One, I get to design our system and team and set up and focus and investment decision-making process. But also, I get this, like, incredibly unfair advantage in the industry, which is we get to attach ourselves to the best VC… Well, I’m biased. I think it’s the best VC firm in the industry, one of the best VC firms in the industry, with one of the best portfolios in the industry.
+
+So, I remember one of the things that we did during this get-to-know-you process—I shall tell two parts of it. One of them was like, “Why don’t we simulate a deal discussion, you know, and just come in?” And so, you know, we had some people at the time. There were three employees at a16z who had worked at AppDynamics, and that was one of my investments. They had been sold to Cisco at the time. And so, it was like safe to talk about, like, there’s no confidential information or whatever. And I remember I was blown away. I walked into our upstairs conference room, you know, at like 11:00 on the dot…
+
+**Tyler**: This is here.
+
+**David**: This is here. It was before I worked here. It was like a simulated investment discussion. And the room is packed—like 11:00 a.m., you know, normally you go to some investment firm, and it’s like people are filing in, and people are late or whatever. But the room is there waiting, and they’re like, “All right, let’s get started.” And it was so professional. I was taken aback by it. And then the depth of the conversation—to me, it was totally different. You know, it was not… The stuff they wanted to talk about was not like, “How do you protect your downside?” and “What did you make of this risk?” and “Did you think about structuring something to protect how you price the IPO?” or whatever. It was more about, like, “What do we know about this market that other people don’t know, right?” And, like, “Why does this have the potential to be something much greater than what it is?” And so, it was a super cool experience—fun. You know, the team there—I had all kinds of misconceptions about what the firm was all about before I joined.
+
+**Tyler**: What were some of those misconceptions?
+
+**David**: Well, I thought… I had met Marc before; I didn’t know Ben. But I thought Marc and Ben were like these sort of celebrity dudes just kind of doing other stuff. And like, “What do they know? What do they care about investing?” Like, they’re doing all this stuff. And, like, it couldn’t have been more wrong. Like, they worked so hard. Like, that was one of the things that really struck me during the process of getting to know everybody—coming over after work at 6:00 or something on a Monday. And like, the halls are packed. Everybody’s working hard. You know, they’re talking about how they can gang-tackle an investment if they decide they want to do it. Very robust discussions about the merits of investing. And so, I had that totally wrong. They’re super competitive, and they’re still that way, which is fun. You know, it’s—they’ve had a lot of success building the firm, and I think we’ve had a decent amount of success kind of building individual funds inside of it. But we work our asses off. Like, everybody here works really hard.
+
+**Tyler**: Fascinating. So this fake investment discussion you had—is that what cinched the deal for you to join, you think? Like, is that where you knew it was the right place for you, and they knew it was right for you to join?
+
+**David**: What really cinched the deal was a brunch that we had with our partners—with our spouses. And my wife, you know, asked the really hard-hitting questions of them at that time.
+
+**Tyler**: Like what?
+
+**David**: And Ben… Well, it was sort of funny because she kind of asked like…
+
+**Sterling**: She’s like, “Let’s talk carry.”
+
+**David**: Yeah, let’s talk carry.
+
+**Sterling**: She negotiated it.
+
+**David**: No, she was like, “Talk to me about your commitment,” you know, right? Like, “Are you committed to building a growth fund?” And then Ben always joked after the fact—he still does—that he’s like, “I think we hired the wrong one. You should have hired your wife, not you.” But it was super cool. And, you know, at the time, like, part of my kind of reverse diligence on the firm was like, “Can I look at the portfolio?” And they’re like, “Sure. I assume you’ll want to look at this to know, you know, what kind of pipeline you want to build.” And I was like, “I already know the first six investments that I want to make inside the fund,” like your venture fund. Like, I know which companies we want to go get. And so, that was just a way to kind of get turbocharged.
+
+**Tyler**: How much of your excitement—and you mentioned this—came from the fact that Andreessen has this feeder portfolio to a growth fund that is top tier versus, like, how many of your great deals would come from that versus you could find someone outside of the portfolio? How big of an advantage is it to have?
+
+**David**: So, it’s a huge advantage. So, like, it’s probably obvious, but, you know, we have deep relationships. We’ve got a lot more game film. We can have more direct conversations about how things are actually going. It’s just the advantage in a growth fund of having a venture fund. It comes in a lot of different forms. Like, it’s not just, “Hey, you know, we have access to information,” but there’s so much exhaust that comes from our business. Even the companies that we don’t invest in—like 90% of our investments that we make outside of the venture portfolio—we will have looked at their Series A or Series B. And so, that’s a huge advantage. And the other piece is like where I think alpha comes from, which is, you know, there’s this whole sort of, like, framework of investing growth investing, right? It’s like…
+
+## **David’s mental model for investing**
+
+**Tyler**: We’re going to talk about that, by the way. We could do it.
+
+**David**: Yeah, we could jump into it. This is like, “Okay, like, where do you get the edge, right?” So, the thing that we always used to say at GA is like, “Okay, what are the big buckets of things to care about when you’re assessing an investment—market, business model, management team, and the deal?” And there’s like a bunch of subcomponents to each of those. When I joined a16z, I made some additions and some points of emphasis, right? So, the biggest addition that I made is the uniqueness of the product, right? Like, the uniqueness of the product above all else.
+
+**Tyler**: Why? Why did you make that change?
+
+**David**: Well, one, I think understanding all of these things, like market position and quality of business model, comes back to how high-quality the product is.
+
+**Tyler**: It’s so funny because, like, you always have this emphasis on unit economics from a financial standpoint. But if you actually go farther to the core of what drives the unit economics, I think it leads you to product, which is what…
+
+**David**: It leads you to product. Yeah. Like, when I was at GA, like, we had no ability to differentially assess a product. But if you go back to what is an advantage of being attached to a venture fund, like, we have very, very, very capable and smart early-stage investors who know the products, know their markets, know their tech stacks, and that gives us a huge advantage. And so, if you talk about, like, uniqueness of product, how do you figure that out? It’s talking to customers, it’s understanding how compelling they view it to be, and doing much work on that—pricing power, you know, gross margins, stuff like that. Although I think at the stage that we invest in companies, like, nobody has good pricing on their products. You know, they haven’t tended to figure that out yet. But you start with that as the first thing. And the most successful investments that I’ve made and that we’ve made as a firm, I would say, have very unique products. So, emphasis on the uniqueness of the product, emphasis on the market differentially, right? Business model. I think the business model is like table stakes. So, like, there’s a million blogs that you can go find on, like, doing cohort analysis and, like, CAC paybacks. And, like, that might have been the edge in 2010. And there’s…
+
+**Tyler**: But you don’t get any alpha in that anymore.
+
+**David**: I don’t think there’s alpha in that. And I think getting it wrong—at least in my career—I haven’t been surprised to the upside on, like, business model. I’ve made plenty of mistakes in my career in a lot of different ways, which we can talk about. But I do think many errors of commission in this industry happen from, like, business model issues, like getting that wrong.
+
+**Sterling**: So, what’s an example of that?
+
+**David**: A company that is dependent on Facebook and Google for all of their traffic and they don’t have a differentiated product. So, you go back to unique… So, I always start with, like, any investment conversation that we have. It’s like uniqueness of product and uniqueness of distribution. Like, the best businesses in the world have both, but you absolutely have to have one of those, right? So, you know, if you take something like Roblox or Figma that we’ve been investors in, there’s virality for Figma. And in the case of Roblox, there’s a network effect. So, it drives organic traffic. And so, the best businesses have both. We’ve also been very successful in investing in companies that have very unique products but not necessarily unique distribution. And I would say that a lot of sort of enterprise software would fit that bill.
+
+**Sterling**: One thing that I always put in that same bucket, so you’re talking about there has to be product differentiation, there has to be distribution differentiation, kind of in that order. The one that I always think about that tends to lead to big outcomes, too, is like a different monetization strategy. It’s like, “Hey, you know, Expensify’s over here charging for SaaS, and then Ramp, you know, charges… You know, it’s interchange, right?” Like, there’s a business model innovation.
+
+**David**: Yeah, for sure.
+
+**Sterling**: Do you put that in your criteria, too?
+
+**David**: Look, it’s pretty rare to see them. You know, this was like one of the big unlocks of SaaS. Right now, it is. It’s a business model innovation. And, you know, there’s a bunch of reasons why perpetual-licensed companies would struggle to adapt and compete with SaaS companies, one of which was the business model innovation. Like, Adobe is the famous…
+
+**Sterling**: Well, you’re making more money, you can spend more money just to change everything, right?
+
+**David**: Yeah, exactly. It’s very hard to make that shift because you’re sort of pushing out your revenue recognition. And so, Adobe is the famous one that went through it in the public markets and just got their asses kicked. And they made it out the other side. And it’s one of the best software businesses ever. But yeah, business model innovation for sure. Like, you know, some of the financial industry companies that we’ve invested in, like, you know, Robinhood, Coinbase, are business model innovation companies. And, you know, they don’t per se have uniqueness of distribution, but the innovation that they had is so profound and competitors are unable to actually stay up with it that it actually gives them organic distribution. And so…
+
+**Sterling**: Like if you think about…
+
+**David**: …that’s huge.
+
+**Sterling**: Yeah, you think about Robinhood and they removed all this friction and, like, that model innovation ended up having, like, a distribution…
+
+**David**: A distribution. Yeah, for sure.
+
+**Sterling**: …in that, right?
+
+**David**: It’s what gave them organic distribution, right?
+
+**Sterling**: Yeah. That’s right.
+
+**David**: And so, yeah, it’s like going back to the framework, right? Where do you get the alpha? Like, the business model, I don’t think the alpha comes from there. The market is where you get the… The uniqueness of the product in the market is where you get the alpha, right? And so, there’s a bunch of examples of companies where we’ve gotten it right and gotten it wrong in understanding, like, what is the upside or the right side of the fan, as we call it, of like how this could go right in the market and how the duration of growth could be much, much longer.
+
+**Tyler**: Talk about that right side of the fan, left side of the fan framework for people who would maybe be curious about that.
+
+**David**: Yeah. So, like, we’re kind of investors, and there’s all this work that we do, which I talked some about, but we always stare at, you know, what we call, like, our investment cases, you know, like our scenario, you know, a range of scenarios. And we’ll have, you know, downside, base case, upside, and there’s a bunch of… Sometimes we’ll have multiple different versions of those. But when I say the right side of the fan, I mean, how can things go right? Like, what are the tail outcomes of things that could work in your favor on the right side of the fan? And so, our style of growth investing is to pay adequate attention and focus and diligence on the right side. Like, it’s very tempting to focus on the left side, which is how we protect ourselves. You know, in a downside scenario, it seems like, “Maybe somebody would buy this,” and, you know, whatever. Or, “You know, in a downside scenario, I think we’ll be protected because of liquidation or whatever.” There’s a tendency in the growth industry, I think, to talk about that a lot and kind of have it—the right side of the fan—be kind of a throwaway thing, right? Our style is very different. You know, we do care about downside protection and understanding how we protect capital. And, you know, we focus on our loss rate and all that stuff as, you know, fund managers and stewards of capital. But on the right side of the fan, what can happen in the market to give you, you know, a big boost? What is something… Like, does the founder… I’ll give you a couple of examples, right?
+
+**Tyler**: Yeah, go ahead.
+
+**David**: So, in the case of Figma, on the right side of the fan, you know, you could build a super simple model—investment model. When we made our investment, and it’s like, “Okay, there are only so many designers in the world. And, like, pretty quickly, you’re going to run out of TAM.” What that fails to acknowledge is two things. One, that’s a static view of how many designers there are—it’s actually growing fast. The ratio of designers to engineers is growing very fast. And number two, the function of design is very much merging with the function of engineering and even business. And so, your view of the TAM is not designers—it’s actually front-end engineers and actually businesspeople, which they’re seeing.
+
+**Tyler**: And did you identify this on the right side of the fan?
+
+**David**: Yes.
+
+**Tyler**: You guys did?
+
+**David**: Well, so there’s a funny story about this, which I’ll share because, you know, I deserve no credit. So, when we were making our Figma investment decision, we were debating it—we knew the price—and we were like, “Oh man, the price is high.” You always kind of feel that way when…
+
+**Tyler**: And for context, when is this? What round?
+
+**David**: This was the series C or D—it’s at $2B. And I love Figma, and we’re still very happy investors; we continue to invest in it. But the question was like, is the price too high? You know, business quality is very high, but Dylan’s amazing—is the price too high? And we had this discussion about TAM and how big can it be. And it’s funny—this is the benefit of the early stage that I’m talking about with product and market understanding. Our early-stage partners were like, “You guys are missing the point. Like, the world is going to design merging with these other functions. So, like, that’s great. Cute little design TAM analysis. Like, thanks for that. But it’s missing the point—it’s going to be something much larger.” And so, we had this heated debate. And we go home that night. And I’m wrestling with it. And we got to make the decision by the morning. And at the time, my wife worked at Facebook. And, you know, they were like a big Sketch user. So, like, Sketch was the other…
+
+**Tyler**: Yeah, we used it at our old firm.
+
+**David**: …company. And I remember I’d asked her about Figma before. And she’s like, “You know what?” Just out of nowhere—she didn’t know we had the Figma discussion. She was like, “I saw Figma for the first time. And, you know, in action today—I get it.” And I was like, “Huh, like, this is kind of a sign.” And then I had a conversation, you know, with our deal team and a couple of the early-stage guys—Peter Levine, Mark, and Ben—the next day, and we decided to do it. But, you know, like, it’s a good example of if you stick with just business model analysis and, like, a TAM that everybody else will understand and model the same way, like, you’re never going to get the conviction to do the right investments. You know, so that’s one example of seeing that sort of right side of the fan.
+
+## **Focusing on inputs, not outputs**
+
+**Tyler**: Do you have an example where you guys brainstormed, got conviction on the right side of the fan, and it did not play out at all that you’d want to share?
+
+**David**: Of course. But I’m not going to share names because most of them are still in process. But no, it happens all the time.
+
+**Tyler**: All the time.
+
+**David**: And look, it’s a probabilistic outcome thing, right? And so, we focus on inputs, not outputs in, you know, our decisions. And, you know, one of our values is, like, as a Growth team—openly disagree, be transparent, and then commit. A lot of people have that same philosophy, but I think it’s really important. And so, yeah, focus on inputs, not outputs. There are plenty of examples of that. The more painful examples are the ones where I feel like, you know, we or I failed to recognize that right side of the fan and see what could have been, right? And so…
+
+**Tyler**: Do you have an example of that one you’d share where you didn’t see the right side and you should have done it? A deal you missed—what’s your favorite one?
+
+**David**: DoorDash.
+
+**Tyler**: DoorDash.
+
+**David**: Yeah, DoorDash. I guess now it’s like $700B.
+
+**Tyler**: What did you miss on DoorDash?
+
+**David**: We missed a bunch of stuff. But one of the big things was just the power of the trend itself. And look, you can look at DoorDash’s numbers now. It’s still growing very, very fast, right? Way faster than any model would have outputted. So, the magnitude of the trend, we missed. The strengths of Tony, you know, we missed. And, you know, he’s exceptional. I think he’s one of the best founders of those kinds of businesses out there. Maybe, you know, one of the best.
+
+**Tyler**: If not the best.
+
+**David**: Yeah, if not the best. And, you know, it was one of those things where we probably over-rotated on concerns about the business model and failed to see how powerful the trend would be and how the power of the trend and the scale that he would get to would allay some of the fears and concerns that we had, you know, about business quality. So, yeah, that’s—I mean, there’s a ton of examples of things where we’ve gotten involved and all.
+
+**Interviewer**: Yeah, makes sense. I got in my notes—by the way, I talked to Alex Immerman on your team about what we should ask you about. And he sent a bunch of stuff. One of them is that he thought you should talk about the long-term market structure of different investments that you make and the Glengarry Glen Ross analogy. Can you talk about how you think through that long-term market structure?
+
+**David**: Yeah, it’s something we talk about all the time. And it’s so fun. And like, I know we’ll talk about AI later, but like, AI market structure and all that stuff—so fun to geek out on. Yeah. So, there’s a philosophy, you know, that we’ve always kind of espoused at the growth fund, which is, you know, you said Glengarry Glen Ross, but it’s like a power law, right? It’s just a power law in most tech industries.
+
+**Tyler**: Andy Radcliffe would call them like gorillas, chimps, like, yeah.
+
+**David**: Exactly. And so, the Glengarry Glen Ross analogy is… And by the way, this exists not like network effect things—that’s obvious, right? It’s like, okay, Google and Facebook and all these things.
+
+**Tyler**: Yeah, the insight is not there. It’s that it exists in others.
+
+**David**: It’s that it exists in other industries, not the network effect industries. And so, you know, Salesforce, right? Workday, ServiceNow—like, there’s a bunch of these examples where this still holds. And so, you know, the Glengarry Glen Ross analogy is if you’ve seen the movie, it’s like this old-school kind of boiler room movie. And these guys are sales folks, and it’s Alec Baldwin, and he walks in, and he’s got his whole sales team in there. And he’s like, “Okay, new contest, first prize.” And he explains what the contest is. He’s like, “First prize gets a Cadillac. Second prize gets a set of steak knives. Third prize, you’re fired.” And so, like, we actually think that most technology markets follow this power law, where it’s like, “Hey, first prize, you’re going to command 80% or 90% of the market cap. Second prize, you’re probably playing for scraps, and you’re going to be disadvantaged because most of these technology industries are scale industries. And then, you know, third prize, like, see ya.”
+
+**Tyler**: So, would you go as far as to say that this dynamic exists by default in, like, most parts of tech and it’s not the opposite where it’s the exception? This is actually the rule, would you say?
+
+**David**: So, I think for most areas of technology, actually, follow like the increasing returns of scale, right? Like the Brian Arthur concept. And again, the network effect is one example of one of those, but there are many others, right? Like, there’s large upfront costs. And, you know, it’s like the inverse of the decreasing returns of scale, or like the widget-maker, where it’s like, “Hey, there’s no…
+
+**Tyler**: Capitalism eventually catches up to them.
+
+**David**: …differentiation and, like, you know, capital will follow profits and suck it all away.” That doesn’t exist in most technology markets, and there’s a bunch of reasons for that. But I think the default is, yeah, that’s the way it plays out in most of these industries.
+
+**Tyler**: How much of…
+
+**David**: And so, like, we very… Like, look, it’s not that many people say they focus on market leaders. We probably overemphasize market leadership and assume more things could go right on that right side of the fan for market leaders than for the ones where you’re like, “Okay, things are…”
+
+**Sterling**: But that puts a lot of pressure on you to determine who’s going to be the market leader, right? And to know that earlier on than most folks are going to know it. Or do you feel like you get to wait, see who’s kind of, who’s emerging and who’s got a lead and then, like, go in? Like, how do you think about that?
+
+**David**: So, it’s… We actually get to do both, which is, you know, on the venture side, they’re in the business of picking them early. And I’m very fortunate because my partners do a pretty good job of it. They’ve picked the right ones, right? Like, my partners have picked Databricks and Coinbase and, like, these—you know, like, Stripe and like these exceptional companies that then set us up to continue to proceed with them. And then, there are other industries where we just didn’t, for whatever reason, see it or make a bet. And so, Figma is an example of that, or, you know, Roblox or SpaceX or Flock Safety, which were net new investments. And once we felt like we saw that they had sort of achieved that market leadership, uniqueness, business model, you know, it was going to be high quality, then we can go make the investment.
+
+**Sterling**: How often has it ever happened where you felt like you, at the growth stage, backed someone who was, like, a non-consensus number one, or like they were a number two, but you felt like you saw things where they were going to go and actually win and be the category king?
+
+**David**: Well, so, there are a bunch of examples of companies where it appeared that there was another winner that was like a modern winner. And then, it turned out to not be the case, right? And so, in the case of Figma, Envision and Sketch existed already. And so, many people made bets on those companies. But, you know, Figma kind of came later, and it was a much longer build. You know, when I invested in CrowdStrike at GA, you know, I remember we had looked at it and passed on the round before, stupidly. But when we had passed on the round before, consensus was much more in favor of, like, other players. Like, CrowdStrike was not the declared winner. It was like Cylance was the hot company. Carbon Black was a really hot company, and a bunch of people looked back to them and made big investments. And, you know, it suited us well to not follow one of those. And then we ultimately ended up investing in CrowdStrike, and that turned into one of those power law companies. But yeah, it’s… You know, back on the DoorDash point, like, Postmates was around before DoorDash, right? And so, they were first.
+
+**Sterling**: Well, and UberEats was, you know, bigger for a long period of time and stuff.
+
+**David**: Yeah, for sure.
+
+**Sterling**: Yeah, it’s always interesting to me when it looks like somebody else is going to win and then somebody else actually wins. And how can you figure it? Because that’s a growth stage type decision.
+
+**David**: Yeah. And there’s never, like, there’s no, like, rule of thumb of what you see. But, like, architecturally, Figma was a five-year build, you know, famously before they released the product. And it turns out that it’s just a really hard build to build collaborative features. But, you know, the technology shift to SaaS and cloud actually enabled it. And so, you know, that’s what got them. And then many other things, like, they’re a very special company for a lot of reasons. But yeah, there’s a bunch of examples of those. And, you know, it’s hard to do.
+
+**Tyler**: By the time someone gets to the growth stage, I assume one of the main questions you’re trying to figure out is how long they can maintain this specific…
+
+## **What constitutes a growth company?**
+
+**Sterling**: And also, when do you put somebody in the growth stage?
+
+**Tyler**: Yeah. Actually, talk about that. A lot…
+
+**Sterling**: Because a lot of people who listen are early stage. But what is growth? What are we talking about?
+
+**David**: Yeah, it’s a qualitative assessment of once a company has found product-market fit. And so, that can take a lot of different forms. Sometimes that’s…
+
+**Tyler**: But that could be a Series A even, right?
+
+**David**: Yeah.
+
+**Tyler**: So, you would call some Series A growth companies?
+
+**David**: Yeah.
+
+**Tyler**: What about at Andreessen? When is someone going to be pitching you and your team for a round from Andreessen?
+
+**David**: Well, we’re very fortunate the way we operate. So, we work really closely with our early-stage folks. And so, a very common thing that happens is we hear about a company, they’re raising, it’s sort of, you know, it’s like it’s whatever. Pick a number: $8M of revenue, growing really fast, you know, raising some amount that, if you squint, could be venture or could be growth. And we’ll just see it together. And we’re like, “Hey, let’s figure it out.”
+
+**Tyler**: Yeah, you just tag team.
+
+**David**: And we tag team, and we’ll figure out later. Let’s figure out the answer, and then we’ll figure out later what sort of fits…
+
+**Interviewer**: Which vehicle to use?
+
+**David**: …yeah, which vehicle to use and who should be leading, all that stuff. So, we have that luxury. I’d say in AI world now, where it’s a little bit… We have made some investments that are slightly earlier for a variety of reasons. And we have a rubric around what constitutes something that fits. But the biggest thing is like a view on the uniqueness of the founder and their capabilities when it comes to the AI stuff. So, you know, we’re investors in Character.AI and and X.AI. And some of these companies where it’s like, okay, we’re making an earlier bet than is typical, but because of the quality of the team and the magnitude of the trend, we’ll…
+
+**Tyler**: Do it out of the Growth?
+
+**David**: …do that at the Growth fund.
+
+**Tyler**: Okay. So, you know, degrading growth rates over time—someone’s growing at 300% and then 200%. Like, how do you project, and what are the best companies doing to maintain high growth rates, would you say?
+
+**Sterling**: It sounds like it’s all going to come back to what you’re talking about with the uniqueness of the product, right? And how long can you remain unique? And I think part of the way that you’re going to answer this will be like the push versus the pull thing. I would love to understand that framework and how does that tie to the uniqueness of the product.
+
+## **David’s three investing frameworks**
+
+**David**: Yeah. All right. I’m going to try and… I’m going to do a triple Lindy here. I’m going to bring three of my little frameworks, okay?
+
+**Tyler**: Love it.
+
+**David**: All right. So, three frameworks. So, uniqueness of product. One of the things that we talk about when it comes to the uniqueness of product is, is this a “what” innovation or a “how” innovation? And a “what” innovation is a fundamental reimagination of something that is a product. So, like, you know, an example would be Anduril, creating completely novel products in an industry without competitors, or Databricks, right? Creating so our, you know…
+
+**Tyler**: So, not…
+
+**David**: …Roblox.
+
+**Tyler**: …Figma here. This is not a thing.
+
+**David**: Figma…
+
+**Tyler**: Definitely would be, because…
+
+**David**: It is a collaborative because of the collaborative capabilities, which is extremely hard to build, right? And so, it feels trivial to all of us now with, like, Google Docs and all the stuff we collaborate on. But at the time, it was not.
+
+**Tyler**: Yeah, that’s right.
+
+**David**: And so, the uniqueness of the product itself is a “what” innovation. So, it’s, like, very, very, very hard to replicate. A “how” innovation is something where the method of delivery is the innovation. So, for example, early days in e-commerce, like, take somebody else’s product that used to sell cowboy boots at Boot Barn, and instead of selling in Boot Barn, you’re selling on your website. And, like, maybe you figure out some hacks on Facebook advertising and Google advertising for a little bit. But the fundamental innovation is pretty light, right? And it’s a delivery innovation as opposed to a product innovation. You know, like, your mattress company, and you have the same manufacturer as every other mattress company. There’s no uniqueness to your product. You just figured out that you can do the foam thing and send it in the mail. But that’s going to get competed away, and it’s ultimately going to be, you know, a tough story. So, the “what” versus the “how” is one of the things that we focus on a ton on the uniqueness of the product. So…
+
+**Sterling**: Is there ever a reason to do a “how”? Or is that always a no-no? Like, if you cannot answer the “what,” we’re done talking about it.
+
+**David**: It’d be very hard for us to do a “how.” Like, you won’t… Because we want to invest in companies where, you know, the firm was started for this reason. It’s like investing in these people who figure out these product breakthroughs or innovations and engineering and then help them be business people. And so, like, the business people thing is more of the “how” thing, whereas, like, the technologist is more of the “what” thing. And so, we tend to think that you can teach a technologist how to do business stuff more so than you can teach a businessperson how to innovate or create new products or novel products.
+
+**Sterling**: I don’t know—Boeing seems to be crushing it.
+
+**Tyler**: Yeah, with their non-engineering CEO.
+
+**David**: It’s like putting me in as CEO. You know, whatever. So anyways, yeah. So, the “what” versus the “how” is a big one. You mentioned, you know, the push versus the pull. So, one of the ways that you can tell there’s uniqueness, you know, of product, and that the product is super interesting and compelling is if it’s flying off the shelves, right? So, I have a post-it note in my office that says, “Is the market demanding more of my product?” And it turns out, like, that’ll help things go right. You know, if people can’t stop buying it and it’s coming naturally, there’s a viral motion, whatever, like, that’s very unique and rare.
+
+**Sterling**: So how does that show up? Is that like you see it in CAC? You see it…
+
+**David**: You see it on them.
+
+**Sterling**: …in their S&M headcount? You see, like…
+
+**David**: You see organic…
+
+**Sterling**: …yeah, organic.
+
+**David**: …and CAC. And so, you know, I’m not like, “We can’t invest in CAC.” You’d be very limited to find only investments that have…
+
+**Sterling**: That are only organic, yeah.
+
+**David**: …organic growth characteristics, but you can see it on a relative basis. Like, “Hey, there’s CAC. You know, there’s an organic component. There’s viral components.” And, you know, we place a huge premium on those. And so, those two things, you know, are big inputs into that, like, durability of growth thing. On TAM, one of the things that I always say to my team is like, “Ignore the research reports,” generally speaking. Like, they’re probably wrong, and they’re probably backwards looking. So, the formative experience for me in this was AppDynamics. When I invested in AppDynamics, you know, you go to, like, Gartner and IDC and all these places, and they’re like, “You know, this market size is $2B, you know, APM.” You’re like, “Okay, that’s interesting.” And then you go in, and you talk to AppDynamics, and it’s like they have a travel customer, a financial services customer, a healthcare customer, an insurance company, and a tech customer all paying multiple millions of dollars per year. And you’re like, “Wait a minute. Okay, it seems like you can extrapolate that to the broader market. And yet the prevailing wisdom is that this is like a $2B market size—like, something is off.” And so, we always say, like, “Okay, take a first-principles view of building out what the market size can be. And that will allow you to actually see a little bit more durability.” You know, I’m like… because I always say, like, I have these dumb sayings in our meetings, but like one of them is like, “Don’t let your theory outsmart the traction.” And so, it’s like, we can have these theories about what a market’s going to be…
+
+**Tyler**: But the market wants.
+
+**David**: …but, like, pay attention to what the market’s actually doing.
+
+**Tyler**: It’s… yeah, go ahead.
+
+**Sterling**: So, like, I’ve wondered about this, particularly because sometimes I think that the push versus the pull thing—when things are getting pulled out of you, a lot of times that’s a trend-specific thing. Like, “Hey, you know, COVID shut the world down, and this thing’s flying off the shelf.” But a company never learned how to push their own thing. And so, as soon as whatever tailwinds were propelling them stop, they get screwed. And so, like, do you think about that at all? And by the way, I am probably biased this way because I understand push a little bit better than I understand pull. But I’m curious if you think there’s virtues of that or if it’s all vice.
+
+**David**: Look, I go back to, like, what’s a better starting point to have, right? So, like, the pull with learning how to push is a way better starting point than a push capability.
+
+**Sterling**: Trying to figure out how to get some pull-back.
+
+**David**: It’s like we always said this about software. And I think this has changed a little bit post-COVID, and like reset in the market and, like, tightening up the belt and stuff. But we would always bias the things that have the bottoms-up traction and then, you know, say like, “Okay, you can hire and teach people how to do enterprise selling. But, like, it’s really hard to captivate a community and to get, you know, that bottoms-up love and traction.” And so, yeah, if you made us pick, or me pick, we’d pick the bottoms-up or the organic and understand that you’ll figure out how to do the push.
+
+**Sterling**: So, if I made the argument to, like, if you learn how to push, you will have that muscle, and you’ll be able to push forever and maintain, you know, great growth rates for a long, long time, you’d say, like, “Maybe.”
+
+**David**: Well, there are exceptions. So, I’ll give you a great… So, ServiceNow and Workday are a great answer, actually. So, ServiceNow was just one of the best execution companies, like, in modern software. It’s incredible. I think Workday is maybe even a better example because it was like, there was no bottoms-up thing, but it was like, these are the guys, like PeopleSoft. Like, they are the ones. They have all the relationships in the enterprise. They know how to build the product. Like, they’re the ones to go sell this. And so, sure, that’s a different thesis. But that’s a thesis, like, based on their superpowers and the uniqueness of them. You know, SimSara is another example of that in our own portfolio, where it’s like, “Hey, it’s the Meraki guys.” Like, they know how to build products. They know how to build sales forces. Like, they’ve figured out the market, like, you know, it’s going to be a push.
+
+**Sterling**: Yap, and fair enough.
+
+**David**: And it can still be a great company.
+
+**Sterling**: Yep. Love that.
+
+## **How to measure the ROI of R&D**
+
+**Tyler**: So, for those who are watching, you guys have got to check out David’s—some of the content he and the a16z team produce. We’re going to talk about a couple of these. One of them I’d love to dive in on is how founders should think through their R&D spend. Can you give the team…
+
+**Sterling**: Give us the magic number.
+
+**Tyler**: Give us a quick framework on how…
+
+**David**: You’re like giggling because you’re like, you know… So, okay. So, yeah. All right. So, yeah, I wrote this piece about R&D spend and…
+
+**Tyler**: It’s great.
+
+**David**: …how to frame it.
+
+**Tyler**: We’re going to link to it.
+
+**David**: Yeah. Well, so, look, it’s not an answer, but hopefully it’s a framework, right? And so, I was struck by this, you know, observation in talking to founders and management teams and sitting in board meetings and doing all this stuff, like, the rigor around go-to-market spend and ROIs and, like, the precision of tracking of every dollar that goes into go-to-market spend as compared to the rigor and tracking and understanding…
+
+**Tyler**: None of that.
+
+**David**: …of the dollar that goes into R&D. There’s many good reasons why this is the case. Look, everything in a company is in service of delivering the product to the customer, right? So, nothing’s more important than R&D. And so, I was always struck though where it’s like, we’re in these meetings, and it’s like, “Okay, here’s our budget for next year.” And it’s like, we’re going to spend $40M on R&D. And it’s like, okay, $40—like, why $40, not $50 or $30 or $25 or $60? And it’s like, “Well, we’ve got all these people, and we’ve got these things, and we’re going to do these things.” And so, the thing that I wrote was basically just like, “Hey, here’s a high-level framework of how to approach it.” So, it’s like, start out by benchmarking companies your size. And we each shared benchmarking data from our own portfolio in the piece. It’s just like, how much do people generally spend? And there’s good reasons to spend more or less, depending on the circumstances in your market.
+
+**Tyler**: But you give them a starting point, and then they can argue from there.
+
+**David**: There’s a starting point, at least. And then make an effort to attach product roadmap initiatives to an ROI, right? And so, there’s this commonly held thing: 70/20/10. Like, people talk about, like, “70% of your R&D in your core product, 20% in the second product, and 10% on speculative stuff.” Sometimes that’s right, but that should be an output, not an input, right? That should be an output of what’s important for you, what’s happening in your market. Sometimes you spend all your money on the core product, or 20% of your money on the core product. But start to be deliberate about how much you’re doing. And then paybacks are long. The reason that go-to-market is so easy to append these financial metrics to is because you get feedback in a quarter. It’s like, “Hey, we hired these reps, and they’re ramping, and it took six months, but they didn’t hit quota. And some did, and these ones are good, and these ones are bad in this region and that.” The feedback loops are longer in product, but try and push yourself to—even if it’s a two-year payback or a three-year payback or a five-year payback—even attach some metrics to it. And then from there, it’s like, performance manage it in a rigorous way where you can have goals. And I think, in fairness, companies are probably pretty good at that last piece. But anyway, that’s the framework.
+
+**Tyler**: Love it.
+
+**David**: Rant over.
+
+**Sterling**: It’s a great thought. And I am curious, do you think it has to have longer feedback loops? Is that just a reality of something? Sure, you talk about a quarter. Can we not have second or third products that we start to get usage on or start to see early signal on? Or should we just surrender and say, “This is a three-year thing?” And, like…
+
+**David**: No, like, this is the last piece. It’s so dependent on how long of an initiative it is, right? But just push yourself. Even if it’s a long initiative, push yourself.
+
+**Sterling**: To show, and you put those interim milestones…
+
+**David**: What are the interim milestones that we’re going to hit? And then put those interim milestones in place, and then performance manage them. And again, this is the piece where I think product and engineering management are pretty…
+
+**Sterling**: Yeah, it’s key.
+
+**David**: …good at that. But it’s more of the marrying it to finance and overall investment decisions.
+
+**Sterling**: Yap, totally.
+
+**David**: And by the way, I think coming out of COVID and the reset that happened in 2022, a bunch of our companies were actually under-investing because it was like all they heard from their investor base was, like…
+
+**Sterling**: Cut, cut, cut.
+
+**David**: …”Cut, cut.” And it’s like, well, we’re on the precipice of this massive shift to AI. And for most of our companies, there’s some potential benefit or product that they can go push on. But make sure that you’re being deliberate about it.
+
+**Sterling**: Sometimes it can be broken thinking. If you think that just by being efficient, you somehow… Well, you can fail by being too efficient just as easily as you can by over-investing.
+
+**David**: A hundred percent.
+
+**Sterling**: So, you have to understand what you’re going for.
+
+**David**: There was one specific board meeting that lit the lamp for me, which—it was a company that they’re awesome. And they had product mojo. They’ve subsequently sold. But they had, like, great product. And they’re awesome at it. And the founders were product guys. And it was all of the conversation in the board meeting. And this was kind of after they had done the hard work, like, the stuff work, which is like the cut—and it sucks—negotiating the cloud bill and all that stuff. And it was still all about, “Look at our efficiency.” And it was like, “Whoa guys, get back to the fun stuff. You ensured your survival.” And so, that’s sort of like… I don’t know, that was when it dawned on me to maybe start talking about it a little bit.
+
+## **What it takes to go public today**
+
+**Tyler**: Yap. Another big debate I’d love you to weigh in on is what it takes to go public today. You’ve got the Coatue guys who have their thing on, like, $10T in revenue you got to get to. And then others who say, “No, the markets are open at any time, you just have to price it appropriately.” And what does it take to go public today, would you say? Where do you stand on this?
+
+**David**: Yeah, I think it’s… look, the end of the stuff that we’re talking about is so small.
+
+**Tyler**: It’s so small.
+
+**David**: So, like, looking back at the historical trends, like, it’s impossible. There’s no, like, “We have subsequent data to templatize this.” I wrote a piece about this, which is just like, keep it super simple. There’s three things that you need to have. One is, can you grow for an extended period of time at a high rate? And, like…
+
+**Sterling**: A high rate as defined by you being?
+
+**David**: So, I think for the kinds of companies that are in our world, it’s like, you got to be growing, and I’ll get to sizing and stuff, but, like, 30% plus, at least, in, like, a path to maintaining that high growth. And I said in the piece, a story that’s quantitative and qualitative, that will allow an investor to build a model that, in year six, you’re still growing north of 20%. Now, that’s a high bar. But, like—and it may be, you know, more on the upside case land—but for the companies that are in our world, like, they’re going to want to show, like, “Hey, investor, like, here’s a way to dream.” And so, you know, companies that are close to me that I think did a really good job of this is CrowdStrike. But CrowdStrike sort of articulated this very clear thesis of becoming a platform company from a product company. And they’ve reported on that over time, they’ve done a great job with it. And so, investors understand the algorithm, and they don’t…
+
+**Tyler**: Reward them for it.
+
+**David**: Yeah. And it’s like, it’s straightforward for them. Airbnb, you know, its core market, network effect, global, one of the best business models of all time. You know, plenty of time to go get—and investors don’t have to squint to see a lot of it. And then another one that I really like is NuBank, which is my old roommate from Stanford. David is the founder, and he’s done an extraordinary job. But I think among the companies that have gone public, like, they did the best job of laying out what their growth equation is, like, mathematically. It’s like, “Hey, we’re gonna add more products, you know, we’re gonna go get a bunch more people in all these different geographies, we’re gonna get into B2B.” And it’s like a really simple and clear spoon-fed way for an investor to be like, “Yeah, in year six, in my model, it’s definitely gonna be growing north of 20%.” So, durability of that growth allows the investor to dream—is part one. Part two is operating leverage. The rules of thumb that I gave, it’s like, it’s guidelines. If you’re north of $100M bucks of revenue, you should be growing your expenses less than your revenue. So, if you’re growing your revenue at 60%, you should not be growing your expenses at 60%. By the time that you’re going public, your expense growth should be—again, it depends on, like, maturity and growth rate and all that stuff—but, like, 85% of your growth rate. So, if you’re growing, you know, 30%, 85% times 30%, you shouldn’t be growing your expenses more. So, show it going in the right direction so that investors can think about profitability, you know, in time in their models.
+
+**David**: And then the last one, which I think is the biggest reason why I think companies need to be kind of big to go public, is the bar for predictability and forecastability is extraordinarily high right now. And I don’t think that’s actually gonna change. Like, you know, there’s a bunch of reasons why that’s the case. But, you know, if you look at companies that hit their numbers all four quarters, compared to companies that missed in one of their first four quarters or missed in more than one of their first four quarters—the difference in stock performance is 20% to 40%. And we’ve probably all got examples in our lives of these companies that went out, and they missed their numbers, and it’s like, penalty box, investors aren’t going to pay attention to it. And so, that’s the reason that I think you end up with this threshold size—because to have that kind of precision and predictability, like, you got to be kind of big. And so, those are the three things, you know. I try to make it constructive. I try not to make it about, like, capital markets conditions and the election. Like, I don’t know, I think…
+
+**Tyler**: Stuff needs to focus.
+
+**David**: …stuff is stupid. Like, control what you can control and, you know, ignore the rest. So, yeah, that’s the framework.
+
+**Tyler**: Awesome.
+
+**Sterling**: Let’s do the wrap-ups.
+
+## **AI: market structure and infrastructure vs. application layers**
+
+**Tyler**: All right, so before we get into wrap-ups, I would love—AI is the question everyone talks about—but how do you think this market structure evolves? Foundational models versus application layer? And how do you think about where the value is going to be created? Where do you get most excited? There are 10 questions there. But, like, how are you thinking about things?
+
+**David**: I did this interview with Mark Casey recently, who’s like this… He’s one of my favorite investors from Capital Group. And, you know, it’s like the clock was ticking, and we have like 30 seconds left, and I’m like, “All right, now do AI.”
+
+**Tyler**: Yeah, that’s what I just did for you.
+
+**David**: Yeah, it’s like that. I’ll give a couple of observations and maybe ways to think about it. First of all, like, it’s pretty well covered—the power of this technology. But, you know, it’s 10,000 times better or 10,000 times cheaper at doing certain things than humans. And it uses, like, 10,000 times more power to do those things than humans—like, than our brains. And so, on the former, I think it’s going to continue to get better at more and more of those tasks. Today, it’s things where, you know, absolute precision doesn’t matter as much, right? Because of hallucinations and things like that. But there’s a lot of stuff that AI can do today. And then that 10,000 times less efficient thing— a lot of people are working on that problem. It’s gonna get a lot better.
+
+**Tyler**: Yeah, that’ll get solved likely.
+
+**David**: It’ll get… It doesn’t even need it. I mean, look, it’s already pretty good. Like, the cost of doing all this stuff is pretty low. And the cost of accessing the foundation models is just rapidly declining, which is great for the industry. So that’s like the magic. You know, and so, the promise—we’re very bullish. We’ve made a ton of investments. I mentioned a bunch of them earlier. I’m very confident that there’s gonna be a tremendous amount of value created at the application layer. And so, if you look at demand signals, they’re extraordinary for a pretty raw technology still, right? I think the capabilities are already closing fast on, you know, reasoning, accuracy, planning, memory. And so, I’m very bullish at the application layer. I have sort of a two-by-two of market conditions right now in enterprise. One is like, are you selling an AI product or not? And then another is, are you a consolidating vendor or not? And so, if you are a consolidating vendor selling an AI product, it’s flying, right? And so, you know, one of the stats I got from a friend of mine is like, I think it’s the Fortune 7 or Magnificent 7 or whatever—they’ve added double the market cap of the Fortune 493 since ChatGPT.
+
+**Tyler**: Yeah, it’s wild.
+
+**David**: And so, it’s like, the consolidating vendors are having a field day because there’s a top-down mandate to go buy…
+
+**Tyler**: To buy.
+
+**David**: …figure out AI stuff—go buy stuff. For challenger vendors, so non-consolidating vendors selling AI stuff, it’s actually pretty good, too, because there’s a lot of experimental budget to go get. And again, there’s, like, demand for these applications. You know, there’s examples of companies that are, you know, in the other two categories, but suffice to say it’s a little bit tougher, right? And so, you know, overall IT trends and tech trends are all kind of healthy again, but like, all the growth is coming in the AI side. And, you know, it’s sort of all early business apps. On that incumbent piece, I think there’s sort of two phases. So, my partner Alex Rampell has this saying, which is, “Can the startup get to distribution before the incumbent finds innovation?” And so, where we are in phase one of this technology is, it’s actually pretty easy if you’re an incumbent just to plug it in. It’s like a chatbot.
+
+**Tyler**: Put AI on your product—slap it on.
+
+**David**: Put AI, charge more, you know, “Hey, our core product’s not that good, but like, pay us more and you can get the good…”
+
+**Tyler**: Because you have the distribution.
+
+**David**: …product that works. Because you have distribution. I happen to think that that’s just like a phase one thing. And you know, like, the future of AI is not chatbots. Like, we got to do better. It’s gonna be way better. And when you start thinking beyond that, there’s a sort of notion that we have, which is like a complete re-imagination of what the product itself actually is, and how you engage with it, and what function it takes, what data it’s at, what data it accesses. And so, all of those things make me very bullish for startups and newcomers to be able to carve out a space. But where we’re at in the technology itself today very much favors the incumbents. You know, Mark has a great way of describing it, which is, he says, “You know, is the AI gonna be frosting or sugar?” And so, you know, if you think about, like, baking a cake, like, if it’s frosting—like, today, it’s frosting, you know, you just throw it on top, right? It’s like…
+
+**Tyler**: It’s the lipstick on a pig.
+
+**David**: Yeah, it’s like lipstick, and you throw it on, and like, then you have to get big, like…
+
+**Tyler**: That’s what he means by frosting though, right?
+
+**David**: Yeah, frosting. It’s like, you can put it on top of today’s product. It’s not a fundamental ingredient, right? So, like, Adobe’s Firefly thing, you know, as an example of that, you know, obviously the co-pilots in GitHub and Microsoft, and there’s a bunch of examples of these, and companies are doing a really good job at taking advantage of that demand. We happen to think that it’s going to be sugar. And so, you can’t… Like, if it’s sugar, you have to put the sugar in…
+
+**Tyler**: Start from scratch.
+
+**David**: …from scratch. Like, you can’t bake the cake and then add the sugar and it’s still in the cake.
+
+**Tyler**: And that hurts incumbents.
+
+**David**: And that hurts incumbents.
+
+**Tyler**: And that’s very hard for them.
+
+**David**: And so, like, today you can’t point a finger at, like, what is going to be that thing. But for SaaS and cloud, you know, and the internet, those things did actually favor the newcomers a little bit. And so, yeah, that’s the, like, high-level AI thing. I think it’s premature to speculate on value capture by the model layer or, you know, who’s going to be the winners and losers in market structure. It’s all so early and so fast-evolving, you know, but I mean, it’s very exciting.
+
+**Tyler**: I love the frosting/sugar analogy.
+
+**Sterling**: That’s great.
+
+**Tyler**: All right, take us home, Sterling.
+
+**Sterling**: Well, so we have questions that we ask everybody. So, there’s a couple of them. First one is, we usually ask, who’s the entrepreneur you admire the most? You probably have a lot of favorites. Let’s just talk about one that you admire greatly.
+
+**David**: I can’t do one. Come on.
+
+**Tyler**: Okay, a couple, three.
+
+**Sterling**: I mean, you can throw out a couple if you need to.
+
+**David**: All right. So, I mentioned this earlier, but I have a soft spot for CEOs, founders, and we as a firm design, or our firm in this way, for founders who are technical, who become…
+
+**Tyler**: Great business.
+
+**David**: …commercial killers. And so, there are a few in my life that I’ve been fortunate to work with. David Baszucki from Roblox is an unbelievable example of this. You know, he’s technical, brilliant, you know, mission-driven. And it turns out, like, he’s super competitive. And, you know, he’s been remarkable. He’s done a great job. You know, in my prior life—and I’ve stayed really close with him—George Kurtz from CrowdStrike is remarkable. He’s an absolute savage. Like, I’ll still… You know, they’ve had all the success there. They’ve stomped on their competitors. And, you know, I’ll text him after earnings or something, and he’s like, “Take no prisoners.” You know, like, he’s this guy, I’ll tell you.
+
+**Sterling**: Quotes coming out of earnings are always just…
+
+**David**: He’s a beast.
+
+**Sterling**: …mad whenever he talks about competitors.
+
+**David**: Yeah. My favorite thing about him is when he went public, you know, he’s like—they celebrated, you know, whatever. And then he was like, “100 customers in 100 days.” It was like, literally, like, next day, he’s like, “I’m gonna go see 100 customers in 100 days. Work doesn’t stop.” Like, he’s relentless. And then, you know, more recently, one of the CEOs I’m closest with is Ali Ghodsi from Databricks. And, you know, he’s like… I don’t know what the right comparison for him is, but, like, Larry Ellison or something, he’s just… he’s a ruthless competitor who is technically brilliant, on top of his field, and super rare.
+
+**Sterling**: Second question is the same thing, but for investors. And, you know, you can’t pick anyone who works in the building.
+
+**David**: Yeah, I’m not picking anybody that works in the building. Actually, I love them for a lot of reasons. No, there’s… Look, I knew this question was coming. It’s a really hard one because I feel like I’ve learned components of a lot of different things from a lot of different people, right? I think I learned a lot from my early-stage partners and other ones I know from, you know, from public investors, even like value investing. I just like it’s such a fun industry because you learn—you get exposure to people who are like really good at structuring, or downside protection, or really good at seeing, you know, a future trend, or really good at assessing people. So, the one that I wanted to mention is a person who early in my time at GA taught me something really important. This guy Dave Hodgson—he’s like totally underrated, you know, OG of GA, I think he started in 1980 or something like that. He taught me the art of, like, subtle influence and subtle persuasion, picking your spots, you know, balance. You know, I got to work on this company, TriNet, with him, which, you know, there’s all these HR startups, you know, now that are super hot, but TriNet’s like an OG really hot one. And so, I spent many years working with Dave on TriNet, and I feel like I learned a ton from him in the boardroom.
+
+**Sterling**: That’s awesome. And then, the last question is what we call the golden spur question: what makes you the way you are? Why do you care about this? Why do you charge at this? Like, what…
+
+**Tyler**: What’s driving you?
+
+**David**: Yeah, it’s sort of funny. My wife always asks, like, “Why are you the way you are?” And I’m like, “That’s a negative.”
+
+**Tyler**: That’s so weird. My wife asked me that too. It’s wild.
+
+**David**: It’s like a negative framing of what you’re trying to get at. You know, look, I mentioned this earlier. Like, I think I’m super competitive. And so, I think that comes back to, like, my childhood and playing… My brother’s two and a half years older than me. You know, if he was in the room, he’d be like, “I’m taller than you too.” And, you know, like, it’d be like those kinds of things. But I think, you know, my formative years were, like, being super competitive with him. And then, for whatever reason—maybe it’s, like, losing and still getting back out there—something has built some resolve and discipline and competitive spirit within me. So, I think that’s a big part of it. You know, I was, like, a wrestler in high school, which is, like, the ultimate. You know, you would, like, get your hand raised and you’re knocked. Like, there’s no other thing. So, I’ve always loved competition. The crazy thing about our business is, there are a few different scoreboards. You know, one of the scoreboards was like, “Are you doing a good job in the community, in the founders, and do people like… You know, like, we always used to measure founder NPS and all this stuff.” But there is a scoreboard in our business, which is, like…
+
+**Tyler**: DPI.
+
+**David**: …DPI, returns. And so, I tell the team all the time, like, you know, one of our values is, like, we win. And, like, we’re the freaking Yankees. And, like, there’s a scoreboard, and there’s a good course behind it, but there’s a competition, and it’s gonna be measured, and that gets me excited.
+
+**Tyler**: That’s been awesome, man. Now, we could go on for a long time, but thank you for giving us the deep dive, and thanks for having us.
+
+**David**: Thanks for having me. Great to be with you all.

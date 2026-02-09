@@ -1,0 +1,88 @@
+# Perspectives: Freeing SMBs from Franchises through AI
+
+*   Opinions
+*   15 December 2023
+*   11 min read
+*   Words: Molly Alter, Wendy Xiao, Aaron Liu, Northzone
+
+##### **AI is enabling small business owners to scale like franchises, while maintaining their independence.** 
+
+As investors, we think a lot about tools that allow enterprise software startups to get off the ground, and grow in a profitable way. But for the [33 million](https://advocacy.sba.gov/2023/03/07/frequently-asked-questions-about-small-business-2023/) SMB owners in the US (99.9% of all businesses), it’s still really hard to start and scale a business. Many of these entrepreneurs have strong intuition around business building, but their real passion often lies in the service they’re providing. If I were to retire and start a Caesar Salad food truck it would be because I love making Caesar Salad, not because the unit economics of a single-item food truck inspire me. 
+
+And yet SMB entrepreneurs find themselves hamstrung by business issues instead of their core service issues. If a daycare owner could wave a magic wand and have all of their lead generation, scheduling, CRM management, forms processing, and payments collection handled… they just might wave that wand. Many learn these business tasks by doing, but often on the wrong tech stack, which only adds frustration. Some entrepreneurs choose to join franchises to spare themselves a portion of this burden, as well as reduce some of the risk and uncertainty of being an entrepreneur. At least then someone from a corporate HQ is choosing the marketing copy, or installing a payments provider.
+
+We are witnessing a breakthrough moment for these small business owners. While **AI cannot replace the hard work of a service professional, it has emerged as a powerful tool for these providers to accelerate their growth—and hopefully hire even more employees as a result**. But let’s take a step back. How did we get here? There are three distinct categories that are colliding to create one of the most interesting market opportunities we’ve seen in a long time.
+
+##### **Traditional Vertical SaaS**
+
+There is an abundance of Vertical SaaS platforms that allow an SMB to run virtually all of its operations, from proposals and quotes to service agreements, scheduling, marketing, and payments. These companies have been wildly successful, scaling to 100s of millions of ARR and generating billions of dollars in enterprise value over the past 10 years. Some operate in seemingly niche markets but have expanded their own market size by allowing their customers to grow faster and, notably, by monetizing on payments flow through their systems. Examples span a variety of industries:
+
+*   HVAC Operators (ServiceTitan, $9.5B valuation)
+*   Restauranteurs (Toast, $9.7B valuation)
+*   Medical Practices (eClinicalWorks)
+*   Boutique Fitness (MindBody, $1.9B valuation)
+*   Lawyers (Clio $1.6B valuation)
+*   Auto repair (ShopMonkey)
+*   Caterers (ezCater, $1.6B valuation)
+*   Dentists (Dentrix)
+
+These companies are fantastic resources for small business owners, but don’t always solve their headcount or execution problems, and often only become useful once an SMB is already proficient at a certain function. There might be a built-in portal for marketing, but someone still has to set up the cadences and decide on messaging. There may be a scheduling module, but a manager must still sit down and slot in staff based on their contracts. Companies like ServiceTitan have offered a real shift in SMB daily management, but it represents only the beginning of a more fundamental change in how these business owners spend their time.
+
+Furthermore, existing Vertical SaaS has yet to cover all of these markets. Using NAICS code data, we identified a number of contractor segments that have a combination of high absolute employment and a significant % of the industry sitting in small firms. Painting, wallpapering, and landscaping stand out as the most addressable, with hundreds of thousands employed and ~50% sitting in 0-19 employee businesses. Top-down, the Home Services market represents a huge portion of the U.S. economy at [**$600 billion in value**](https://www.danhock.co/p/service-marketplaces) and a healthy margin (30-40%); Vertical SaaS players have only begun to scratch the surface.
+
+![](https://northzone.topleftdesign.com/wp-content/uploads/2023/12/table-AI-1024x650.png)
+
+Data: [US Census, NAICS codes](https://www.census.gov/data/tables/2020/econ/susb/2020-susb-annual.html)
+
+##### **Traditional Offline Franchise Businesses**
+
+Then there are offline franchise businesses. In the US there are 792K franchise establishments, employing 8.5M people and producing a total annual revenue of >$825B (contributing to ⅓ of all retail volume). It’s been an enduring and pragmatic business model for so many decades—and yet remains unchanged in essential ways.
+
+The first modern-day franchise dates back to 1888. The business was hair care, and the visionary was [Martha Matilda Harper](https://www.atlasobscura.com/articles/martha-matilda-harper-the-greatest-businesswoman-youve-never-heard-of). Harper was a Canadian-American who developed a unique method of shampooing and began to franchise her methods (and special tonic) to low-income women. She would offer initial and ongoing training, branded products, field visits, advertising, group insurance, and “motivation,” in exchange for a % of proceeds. The female entrepreneurs who started Harper salons were lifted from poverty and the model expanded. At its peak, there were 500 salons and training schools under her name, with the last location closing in 1972. (The reclining shampoo chair was also invented in her shops—and Susan B Anthony was known to be an early customer of Harper’s).
+
+While today we typically think of franchises as McDonald’s or Subway, there are in fact 5 distinct types of franchise models—including product franchises (i.e. John Deere), investment franchises (Marriott), business format (good old McDonald’s), or conversion franchises (Century21). The fifth type is called a “Job Franchise.” Like Martha Harper’s original salons, these are typically home-based or low-investment and run by a single person. In buying the franchise, the franchisee creates a job and an income for themselves, hence the name. Examples include travel agencies, coffee vans, domestic lawn care services, drain cleaning, commercial and domestic cleaning, cell phone accessories + repair, real estate service, shipping service, pool maintenance, corporate event planning, children’s services, etc. This is where we see the most opportunity for change right now.
+
+Job Franchisees typically benefit from the franchise brand in a few key ways:
+
+1.  Established branding, tech, and product
+2.  Pre-opening and ongoing support including training
+3.  Access to broader advertising campaigns
+4.  Scale in purchasing and supplier base
+5.  Benefit from a proven business model
+6.  Comparatively smaller capital commitment than starting own business
+
+The economics of these agreements are typically compelling too. Let’s say my skill is killing mosquitos and I want to make a living from it. I could go online, fill out a form, and apply to become a franchise owner with the [Mosquito Squad,](https://www.mosquitosquad.com/franchising/) which will provide me training, a cool branded outfit, marketing collateral, and maybe even some discount codes for pesticides. The average territory gross revenue is $452k annually—not bad at all if I’m doing it myself or splitting it with a small team.
+
+But nothing is for free. If you’re a Mosquito Squad franchisor you might pay 5-10% in ongoing royalty fees after a ~$164K initial investment. Is it worth it?
+
+##### **AI and LLMs**
+
+AI is the final piece of this puzzle. Vertical SaaS platforms provided the **_management_** systems for scheduling, marketing, payments, etc. but not the **execution itself.** Meanwhile, franchise models provided the **_collateral and training_** but it was still ultimately up to the owner/operator to leverage that themselves.
+
+But AI just might rewrite the rules. In the future, home service providers might use a vertical AI platform to automatically build a professional website that adheres to SEO best practices in a matter of clicks. Using LLMs, the platform would be able to ingest important information like his hours, contact information, service area, etc., and weave it into his site while maintaining a unique and natural feel. A separate module might provide a 24/7 chatbot that responds to inbound leads and gathers information according to SOPs to quote a price and schedule a visit. On the backend, a third module could monitor projects across channels and automatically email suppliers to order additional inventory when the provider is running low.
+
+Under the hood, these modules are actually specialized LLM agents fine-tuned on the SMB’s data & user behavior. Since they’re all part of a broader platform with a unified data model, they’re able to achieve a level of performance that would be difficult, if not impossible, to replicate by stitching together disparate point solutions. At a certain point, these agents will work together so seamlessly that interacting with the platform feels like working with a seasoned righthand man whom can be trusted to take care of the day-to-day business operations.
+
+**Business management platforms and franchise models** **_help_** **service workers do work; AI business-in-a-box just does the work for them.** And while the machines perform the mundane tasks like scheduling visits or processing customer surveys, SMB owners and employees can focus on what they do best—building relationships, closing deals, hiring talent, as well as the services themselves like painting nails, administering Botox, exterminating mice, repairing cell phones, you get the idea.
+
+##### **Where will we end up?**
+
+We’re excited about AI business-in-a-box companies that enable this new generation of “franchise-free entrepreneurs.”
+
+These startups may start by automating tasks such as lead generation, website creation, or scheduling. Eventually, they might offer more of what traditional franchises offer—group purchasing, automated training, payment providers, and bundled rates. In other words, value creation can emerge through economies of scale rather than just process efficiencies alone. _Unlike_ traditional franchises, branding and quality will be enabled but not ensured: these companies are 100% entrepreneur-owned, so the brand inspections that mark traditional franchise businesses are irrelevant in this new world. The AI business-in-a-box provider then remains a software + payments company—they don’t have to eat into their margins by hiring a brand and quality inspection force. And the entrepreneurs benefit from software + traditional franchise support but play a flat SaaS rate instead of steep royalties. They own their business entirely and are free to make decisions without fear of violating group-level requirements.
+
+These startups can also take advantage of the unique opportunity now to build a wedge into these small businesses’ behaviour with a highly sticky use case, because many of these entrepreneurs are still new to technology adoption. Once they have captured the audience with this initial wedge, they have the ability to introduce a lot more onto their roadmaps to help automate more parts of their business process, capturing more value also in the value chain. This, we think, is one of the reasons this model has a much higher ROI than a specific vertical solution for only one of the functions (such as CRM, scheduling, payments, etc.). 
+
+Lastly, another dimension we consider is whether the company is looking to capture new supply of business owners or tap into existing supply. While the initial market is much larger serving existing supply, we think that every once in a while, a shift in consumer demand can drive a great increase in supply that is so great that it allows business-in-a-box models to capture a lot more value in a short amount of time. For example, the increase in demand for mental health care during and after Covid helped companies like Grow, Headway, and Alma greatly accelerate their trajectories.   
+
+While AI penetration is still in varying degrees of maturity within this theme, some examples of startups we’ve seen capitalize on these trends include [WonderSchool](https://www.wonderschool.com/corp/) (childhood education), [Moxie](https://www.joinmoxie.com/) (medspas), [ToplinePro](https://www.toplinepro.com/) (home services), and [Fora Travel](https://www.foratravel.com/) (travel agency). We’re excited to meet more business-in-a-box companies leveraging AI, no matter the category. If you’re working in this space please reach out to Molly at molly\[@\]northzone.com!
+
+Stay in the know about the future our founders are building. The Northzone newsletter is a monthly round-up of interviews with key people, our latest investments and portfolio news.
+
+#### Next Story
+
+###### How Gen Z is rewriting the rules of entrepreneurship: ‘They come in with a much greater advantage than previous generations’
+
+[Read more](https://northzone.com/2023/12/17/how-gen-z-is-rewriting-the-rules-of-entrepreneurship-they-come-in-with-a-much-greater-advantage-than-previous-generations/)
+
+#### Related News

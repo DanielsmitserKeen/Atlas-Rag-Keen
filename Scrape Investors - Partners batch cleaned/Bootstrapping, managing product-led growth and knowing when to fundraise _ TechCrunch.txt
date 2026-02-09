@@ -1,0 +1,100 @@
+# Bootstrapping, managing product-led growth and knowing when to fundraise
+
+Product-led growth is all the rage in the Valley these days, and we had two leading thinkers discuss how to incorporate it into a startup at TechCrunch Early Stage 2021. Tope Awotona is the CEO and founder of Calendly, which bootstrapped for much of its existence [before raising $350 million at a $3 billion valuation from OpenView and Iconiq](https://techcrunch.com/2021/01/26/how-atlantas-calendly-turned-a-scheduling-nightmare-into-a-3b-startup/). And on the other side of that table and this interview sat Blake Bartlett, a partner at OpenView who has been leading enterprise deals based around the principles of efficient growth.
+
+In this interview, the two talk about bootstrapping and product-led growth, expanding internationally, when to bootstrap and when to fundraise, and how VCs approach a profitable company (carefully, and with a big stick). Oh, and how to spend $350 million.
+
+_Quotes have been edited and condensed for quality._
+
+* * *
+
+## Bootstrapping is directly tied to product-led growth
+
+Product-led growth is all about efficiency — spending all of a startup’s capital and time on perfecting its product to capture new users and help the most fervent customers advocate for the product with others or perhaps the managers approving their expenses. That’s directly related to bootstrapping, since by evading VC investment, a startup has to be much more tied to customers in the first place.
+
+**Tope Awotona:**
+
+> With no marketing at all, Calendly began to take off. So the initial users were in higher education, and very quickly we moved to the commercial sector. And all of that was because of the virality of the product. Seeing that, we just began to invest more into virality. So the combination of self-serve, which is incredibly capital efficient, because you don’t need all of these sales people, and also the virality, instead of spending a bunch of dollars on advertising, you can really rely on the virality of the product and rely on the network of the users to really propagate and to enable distribution, just those are the two things that really allowed us to be successful. **(Timestamp: 7:49)**
+
+We later discussed how the extreme focus on users can drive efficiency through product-led growth.
+
+Techcrunch event
+
+San Francisco | October 13-15, 2026
+
+**Blake Bartlett:**
+
+> It’s the product and the distribution model, and they need to be tightly aligned. Tope spoke to some of this, but I think first and foremost, even outside of metrics, it’s just how is the business built? And on the product front, the product is built, the jobs to be done, so to speak, are oriented towards the actual user of the product, not their boss. SaaS historically was built for the boss because the boss owns the the budget for that department. So if you’re building a sales tool, build for the VP of Sales, and then hopefully the AEs will, you know, go along with it. But now with product-led growth, you’re actually building for that user. … Eventually, you can build the things on top that the boss cares about like the admin panel, and the KPIs and all that kind of stuff. **(Timestamp: 29:35)**
+
+*   [Bootstrapping to $80M ARR](https://techcrunch.com/2021/01/09/bootstrapping-to-80m-arr/)
+*   [6 tips for SaaS founders who don’t want VC money](https://techcrunch.com/2021/03/02/six-tips-for-saas-founders-who-dont-want-vc-money/)
+*   [Mailchimp’s Ben Chestnut on bootstrapping a startup to $700M in revenue](https://techcrunch.com/2019/05/13/mailchimps-ben-chestnut-on-bootstrapping-a-startup-to-700m-in-revenue/)
+
+* * *
+
+## Product-led growth and international expansion
+
+Using the product to generate growth doesn’t just help with early clusters of users — it can help startups expand internationally much earlier in its life cycle. Instead of opening up expensive overseas offices, the right viral product can expand to new markets with minimal cost.
+
+**Tope Awotona:**
+
+> 30% of Calendly’s revenue comes from outside United States. That’s in spite of the fact that we don’t have a single employee outside the United States; we don’t have a single marketer, we don’t have a single product person. We don’t have a country GM, and we only have a single office. And by the way, like, that’s been the case for most of the company’s history. So it’s 30% today, but even from the early days when we started generating revenue, it always represented about double-digits of our revenue. And that just really comes from the efficiency of the product, between the self-service capabilities and also virality. **(Timestamp: 10:28)**
+
+> We were doing about 150K in ARR per employee back then, and fast-forward to today, that efficiency has actually grown today, and it’s about double that. **(Timestamp: 12:17)**
+
+*   [4 keys to international expansion](https://techcrunch.com/2020/12/28/4-keys-to-international-expansion/)
+*   [Enter new markets and embrace a distributed workforce to grow during a pandemic](https://techcrunch.com/2020/12/04/enter-new-markets-and-embrace-a-distributed-workforce-to-grow-during-a-pandemic/)
+*   [Proactive CEOs should prioritize European expansion](https://techcrunch.com/2021/03/09/proactive-ceos-should-prioritize-european-expansion/)
+
+* * *
+
+## On switching from bootstrap to major VC backing
+
+Awotona raised a small seed round of $550,000 when he was first getting started building Calendly, and then proceeded to take no venture funding for about seven years before landing a $350 million check. Avoiding capital for so long takes grit, but there’s always a time when the equation swings back to venture.
+
+**Tope Awotona:**
+
+> I never enjoyed the process of raising money. And so even once I raised a seed round, I was really determined to make sure that was the last round that I ever raised. **(Timestamp: 22:24)**
+
+And it was, but then things change.
+
+> First and foremost, we saw the opportunity over the last so many years that there’s just a very special opportunity to create something really amazing for our users, our customers and our employees, and we want to be able to do that. And so our vision, and the way we think about Calendly is not, “Let’s build a company and flip it in two, three years.” We want to create a long-lasting business and truly advance our mission. And so as you begin to think about that, what additional capital allows us to do is just place even bigger bets than we’ve been placing so far. **(Timestamp: 13:37)**
+
+Of course, Calendly’s success helped it snag a great offer to get a deal over the finish line.
+
+> It put the company in a position in which you can raise on terms that are very friendly to the company. **(Timestamp: 15:07)**
+
+*   [What I wish I’d known about venture capital when I was a founder](https://techcrunch.com/2020/11/10/what-i-wish-id-known-about-venture-capital-when-i-was-a-founder/)
+*   [What to expect while fundraising in 2021](https://techcrunch.com/2020/12/11/what-to-expect-while-fundraising-in-2021/)
+
+* * *
+
+## Profitability from the VC lens
+
+Very few startups are profitable in their early years, making Calendly something of an exception to the norm. How do VCs perceive these sorts of companies, and what sort of questions are they asking?
+
+**Blake Bartlett:**
+
+> For me as a VC, when I run into a profitable business, a lot of times the question is, Why is the business profitable? Is the business profitable because everything’s been run on a shoestring budget and nobody works there? Or is it profitable because there’s a business model advantage, there’s something that sustainably and scalably generates profits as the company gets larger? Because one keeps going, the other one, the second you start hiring people, the profits go down.
+
+*   [Long-term profitability is the only growth metric that matters](https://techcrunch.com/2020/06/17/long-term-profitability-is-the-only-marketing-and-advertising-metric-that-matters/)
+*   [Fintech startups are increasingly focusing on profitability](https://techcrunch.com/2020/12/21/fintech-startups-are-increasingly-focusing-on-profitability/)
+*   [Growth is out, profitability is in](https://techcrunch.com/2019/10/25/growth-is-out-profitability-is-in/)
+
+* * *
+
+## After bootstrapping for so long, how do you spend $350 million?
+
+**Tope Awotona:**
+
+> Well, you throw a lot of parties **(Timestamp: 37:44)**
+
+He was kidding. We think. Or as I said then, “at least everyone will be on time” using Calendly.
+
+*   [Airbnb declares all parties over indefinitely at its listings](https://techcrunch.com/2020/08/20/airbnb-declares-all-parties-over-indefinitely-at-its-listings/)
+
+https://www.youtube.com/watch?v=6iqa3IjEUr0
+
+[You can read the entire transcript here](https://otter.ai/u/b2tIP5bp0TqvhWG3wt8ZBv2YbXE).
+
+Danny Crichton is an investor at [CRV](http://www.crv.com/) and a former contributing writer at TechCrunch.

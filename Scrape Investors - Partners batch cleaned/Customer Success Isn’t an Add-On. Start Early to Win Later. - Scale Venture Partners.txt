@@ -1,0 +1,114 @@
+# Customer Success Isn’t an Add-On. Start Early to Win Later.
+
+What comes first: Sales or Customer Success? Many growing startups pressure themselves to start selling as soon as there’s a viable product to sell. “Set up Customer Success functions” goes on the to-do list. After all, we don’t have to worry for another year, right?
+
+A year passes, and the company’s first renewals come due. Everyone from the CEO on down scrambles to do whatever it takes to make those charter customers happy and win contract extensions. After all, those customers aren’t just any customers–they’re the company’s first references, critical to landing new business and raising funds from investors. Every effort goes into making them happy.
+
+The problem is, of course, that bringing in the CEO and CTO and VP of Sales on every renewal isn’t exactly a scalable process. Nor the basis for a long-term Customer Success strategy.
+
+Customer Success — a formal, process-driven, value-creating operational activity — needs to be structured to scale. And it needs to be top-of-mind from day one. Here is a look at the data and strategic rationale for launching CS early in a startup’s growth to avoid inefficiency and mistakes down the line.
+
+**THE CASE FOR CUSTOMER SUCCESS: VALUATION**
+
+To venture investors, a well-run CS operation at an early-in-revenue startup communicates that your company has a sophisticated go-to-market strategy with a customer-centric foundation. This can translate into a valuation boost along two paths: accelerated revenue growth and increased predictability. And growth is a [key driver for valuation with venture investors](https://www.scalevp.com/blog/four-vital-signs-of-saas).
+
+The primary metrics investors will use to evaluate your effectiveness are Gross Churn and Net Churn, measured on either an annual (ARR) or monthly (MRR) basis. We’ll use ARR here to be consistent with the Scale Studio data that follows:
+
+GROSS CHURN (QUARTER) = (Churned ARR Q1) / (Beginning ARR Q1)
+
+NET CHURN (QUARTER) = ((Upsell or Expansion ARR Q1) – (Churned ARR Q1)) / Beginning ARR Q1
+
+Gross Churn is the basic measure of how well your organization retains customers. By introducing upsell and expansion into the equation, Net Churn captures whether or not your software is sticky enough to drive growth throughout the customer lifecycle. It’s a key metric in your own evaluation of your Customer Success program.
+
+Let’s look at Gross Churn and Net Churn benchmarks from Scale Studio (see charts below). The Scale Studio dataset includes performance metrics on hundreds of SaaS software companies at various stages of growth. What you see in both Gross and Net Churn is a significant gap between top-performing startups (the 75th percentile band) and everyone else (the 50th and 25th percentile bands).
+
+![Gross Chrun | Scale Venture Partners](https://www.scalevp.com/wp-content/uploads/2023/09/Scale-Venture-Partners_Gross-Churn-final-chart-scaled.jpg)
+
+That gap tells an important story. Less churn doesn’t only reflect a stickier product and superior Customer Success. There’s a very real financial benefit tied to the compounding effect that happens in a recurring revenue software businesses. More recurring revenue sooner builds up over time, then shows up directly in a company’s valuation.
+
+![Net Churn | Scale Venture Partners](https://www.scalevp.com/wp-content/uploads/2023/09/Scale-Venture-Partners_Net-Churn-final-chart-scaled.jpg)
+
+In fact, the uplift that CS provides to sales growth and sales predictability is non-linear — showing investors high growth and high visibility is how top-performing startups achieve multiple expansion and repeated valuation step-ups at each funding round.
+
+Looking at it from another angle, upsell and expansion are powerful counterweights to periods when new customer growth slows — potentially even determining whether or not you post top line growth for a given period.
+
+Clearly, Gross and Net Churn are important KPIs early in a CS program. As your company grows more sophisticated, [metrics like Retention Efficiency and Customer Retention Costs](https://www.scalevp.com/blog/why-startups-cant-afford-to-ignore-customer-retention) can give you additional signals for deciding how to allocate sales resources towards landing new customers and retaining existing ones.
+
+**THE CASE FOR CUSTOMER SUCCESS: START EARLY**
+
+These days, few people question the value of Customer Success. But how does a growing company with many competing priorities go from saying they want to be “customer-centric” to proving that’s true?
+
+It starts with ensuring Customer Success is part of the conservation from the first day you start selling. And the best way to do that is to understand CS not as a department or a team, but as a core set of  business activities that touch every part of the business. We dive into the details below.
+
+Those core CS activities have to be clearly owned and tracked. Remember the rule of thumb here: Everyone owns a number and every number should be clearly owned.
+
+That wouldn’t be too much of a challenge if businesses stood still. But for fast-growing startups, operations are constantly evolving. Typically in the early going, customer success is owned by a person or small team. Then by a small department. Eventually, ownership for CS spans the entire organization. Which is why transitions in the customer journey become such an important and often difficult aspect of success in CS.
+
+That evolution takes place along two paths: who owns core CS activities at different points in time (accountability), and how robust your “CS offering” is as you scale (depth).
+
+**ADAPTING CUSTOMER SUCCESS TO YOUR SALES MODEL**
+
+We mentioned the core activities (processes) that are the foundation for an effective customer success program. They are:
+
+*   Book new logos
+*   Onboard customers
+*   Drive adoption and value
+*   Harvest brand advocates
+*   Renewal
+*   Upsell
+
+When we talk about bringing a customer success mindset into a company from day one, these are the operational activities that bring that vision to life. How these activities are brought to life is of course unique to a given organization.
+
+The most difficult part of growing a CS organization is not carrying out these activities, it’s managing the transitions that take place when these activities are owned by multiple people and teams inside the company.
+
+Startups are constantly growing headcount and operational capabilities. This dynamism is a challenge for customer success, adding layers of complexity. Growth adds more people to the loop, and more transitions between those people. Early on, founders and SVPs handle many of the core CS activities in a very bespoke (and non-scaleable) manner. Over time, those responsibilities become formalized and distributed across Sales, Customer Success, Account Management, and Customer Service teams.
+
+To develop the customer success program most suited for your organization, start by looking at your sales model. A company that sells primarily to SMBs will structure CS very differently from a company that sells primarily to enterprises. Companies that sell to multiple segments will have a mix of different models (blended). Best practice here is to select one model (customer segment) to focus on first. Don’t spread yourself too thin.
+
+Let’s look at how this works in practice by comparing Customer Success at low Annual Contract Value (ACV) SaaS business to high ACV businesses.
+
+**Low-touch sales model (low ACV)**
+
+![Low Touch Sales Model | Scale Venture Partners](https://www.scalevp.com/wp-content/uploads/2023/09/Scale-Venture-Partners_Customer-Imperative_Low-Touch-Sales-Model-final-table-scaled.jpg)
+
+Customer success for low-touch sales models has several advantages. The roles and responsibilities of Customer Success Managers can be clearly defined and operationally there are just a few transition points between Sales (booking new logos), Customer Service (onboarding), and CSMs.
+
+When working in a low ACV, high transaction volume environment, everything is about repeatable processes and automation. Customers may not require the same level of support or proactive engagement that you see in a high-touch model — the product might be less complex, onboarding may not take as long, and training needs are not as high.
+
+Customer Success leaders may assume that not hearing from their customers means revenue risk does not exist. Beware of this assumption. Because the reality in high-volume, low ACV sales is that customers have less friction around switching, especially with shorter contract terms.
+
+Companies with this sales model require systems to drive a proactive approach to account health scoring, automation using product and engagement data, and the right balance of CSM touch and automated engagement to keep accounts covered.
+
+**High-touch sales model (high ACV)**
+
+High-touch sales models are associated with more complexity in roles and ownership. In these environments it is particularly important to remember the concept that “everyone owns a number and every number should be clearly owned.” The schematic of the typical high-touch customer success program underscores why:
+
+![High Touch Sales Model | Scale Venture Partners](https://www.scalevp.com/wp-content/uploads/2023/09/Scale-Venture-Partners_Customer-Imperative_High-Touch-Sales-Model-final-table-scaled.jpg)
+
+Each of the six core CS activities have a primary owner and one or more supporting owners. But a quick glance at the chart reveals the potential pitfalls here: duplicated workloads, overloaded customer communication, and botched transitions across the customer journey. This is made all the more complicated by the fact that enterprise customers are often multiple customers — users, buyers, decision makers, authorizers. It’s a very complex picture.
+
+Companies with high-touch sales models require this approach for three related reasons:
+
+1.  The product is complex, or solves a complex problem, requiring deep evaluation
+2.  There is a high level of integration required, due to scale
+3.  Buyers are cross functional, requiring organizational alignment
+
+These complexities carry through to ongoing account management. From the moment the customer signs the contract, a high touch is needed to deliver the right experience. Customer onboarding is handled by a multidisciplinary professional services team (e.g. project managers, process consultants, and product specialists). Even the account management side of Customer Success might have multiple roles involved, as when CSMs are paired with Technical Account Managers.
+
+Companies with high-touch models have a lot of pressure to support growth without needing to linearly increase Customer Success resources. While predictability and automation are important in low-touch, the use of optimized processes and having the right people in the right roles is important for high-touch. There is little room for inefficiency: teams struggle here to develop processes that allow them to deliver in a high-profile, complex environment.
+
+Often CSMs at young companies are slow to develop formal processes, approaching everything on an ad hoc, on demand basis. But this sort of thinking can be a trap: nothing truly custom can be scaled. The secret is designing CS processes that feel custom and bespoke but are in fact formalized, documented, and carefully orchestrated.
+
+There is another important element in play here: time. The tables here reflect an up-and-running, steady state CS program. But as we said before, startups are always evolving.
+
+So it’s one thing to know you’re building out a high-touch CS program and another to realize your company is too early-stage to have the resources for, say, a dedicated Account Management team. The important thing is to keep your long-term vision in front of you, and ensure at every step along the way that the six CS activities are being delivered by people and teams working with a clear understanding of who does — and owns — what.
+
+**REALIZING THE CUSTOMER VISION**
+
+A startup’s culture emerges from the relationships among its first employees. Likewise, developing a true customer-centric culture starts with decisions made early on.
+
+Have a vision for your CS program on day one, and move towards implementing that vision as your team and resources expand over time. This lets you evolving behind the scenes without your customers being aware of anything but your dedication to their success.
+
+_Dale Chang is the Operating Partner at [Scale Venture Partners](http://www.scalevp.com/), where he advises portfolio companies on strategies for go-to-market and scaling._
+
+_Jay Nathan is Founder and Managing Partner of [Customer Imperative](https://customerimperative.com/), where he and his team help SaaS companies scale revenue by operationalizing customer success._

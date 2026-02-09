@@ -1,0 +1,81 @@
+# How to Scale Your Early GTM from a Few AEs to a Repeatable Machine
+
+[We’ve written before](https://baincapitalventures.com/insight/the-mvp-icp-handshake-how-to-move-from-founder-led-to-ae-led-sales/) about the important step of moving from founder-led to AE-led sales on a startup’s journey through the commercialization wilderness. We're going one step further here to describe several facets to work through as a founding team builds a more comprehensive Go-to-Market (GTM) machine to reach $25M+ of ARR.
+
+### Early Sales Leadership: You need a great ‘player/coach’ for the next two years, not the next four
+
+Sales leadership is a lot of work. It involves regularly meeting with, and unblocking, AEs. It requires reviewing dozens of call transcripts and recordings, as well as providing real-time feedback on pitching and objection handling. It requires working with customers to continue to learn about what the market is asking for — and how it’s responding to your product and pitch.
+
+As a result, founders can’t meaningfully own sales leadership once the team expands beyond a few AEs.
+
+Your profile for an early sales leader should be someone who has managed salespeople before, but ideally not for so long that they’ve carried quotas meaningfully larger than your own goals.
+
+Yet, if this particular sales leader is too senior, they will expect much more machinery than you can equip them with, like RevOps and a robust product marketing and marketing ops org. They also may not want to do a lot of the ‘player’ work — jumping in to close a deal; painstakingly setting up sales dashboards; even re-designing the sales deck themselves because there are no other marketing resources yet.
+
+And, if things go as well as you expect them to, you will likely need to have someone quite senior manage this person as they help scale the GTM engine to $30M+ ARR. This ‘latter leader’ will have a large number of contacts, both customers and potential hires, to draw upon to continue to radically expand the business.
+
+**In short, in your first sales leader hire you should be optimizing for the next 24 months, not the next 48.** Make sure you have the right person for the immediate phase of continued growth. When they help get you there, you will likely need a different type of leader to get you to the subsequent phase. Companies sometimes optimize for the ‘forever sales leader’, and that can do a disservice to the immediate goals, and the person best suited to achieve them.
+
+Additionally, we recommend a general title (”Head of Revenue” or “Head of Sales”) over a specific hierarchy that may get changed quickly (such as “CRO” or “VP of Sales”).
+
+As Jeff Williams, operating partner at BCV and multi-time CRO puts it, “A founder’s first senior sales hire should be a quota-focused, director-level person with key early adopter relationships. They should have high EQ and IQ to navigate complex, early-stage sales cycles. Once the Sales Director’s small team of AEs are productive, then you can make the VP of Sales or CRO hire. If your first senior hire does their job well, you’ll be able to bring in a bigger name CRO or VP of Sales.”
+
+### Early Sales Compensation: A moving and generous target
+
+Before you hire your first AEs, you’ll need to design a variable compensation plan for them. They’re motivated by money more than most hires. Consequently, even your earliest AEs should have a large ‘at-risk’ component to their compensation.
+
+Most SaaS companies choose a ‘50/50’ AE compensation model for Account Executives, whereby 50 percent of an AE’s potential earnings should be base salary and the other 50 percent should come from the deals they close. Consider these principles when designing an early-stage company AE compensation plan:
+
+1.  **Keep it simple**. Make sure it’s easily understandable and digestible, not only for the AEs, but for your ‘RevOps’ team (probably a portion of an analyst’s time at this point) who cuts checks based on the mechanics of the plan. This is money people are receiving for their hard work and you should make sure it’s easily processed. (This hits home for Joe; as an AE earlier in his career, he once had a startup underpay for several pay periods. That stung!)
+2.  **Incentivize new logos.** You are building market awareness and competitor defensibility as you grow your early business. As such, it's crucial to make sure your reps are motivated to get new companies using your product, not simply expanding existing accounts. Your compensation structure should reward both expansion as well as new logos closed, but make sure reps are ‘land grabbing’ the logos that can expand later.
+3.  **Make it generous**. Early sales reps are taking a huge risk in joining your company. On a cash basis, the opportunity cost is very high. They could be selling somewhere with greater brand awareness, and, thus, having an easier time closing deals and making steady money! As a result, you should make it slightly easier for them to earn their keep, in terms of the ratio of quota to OTEs, than you will in the future. An added benefit: They’ll likely tell their friends about the great opportunity of joining your company.
+4.  **Be honest that it will change**. You are learning about your market and your product’s adoption. Nothing is certain; especially the variable compensation of the people tasked with selling. We recommend telling every AE that their compensation may change often — maybe more than annually — while emphasizing that you will always do right by them. Sam Li, CEO and founder of Thoropass, adds: “We have re-engineered our quota system several times. If it’s too challenging, it’s not motivating. If it’s too easy, it’s not motivating either. What works is \[setting\] reasonable goals but with really good accelerators if people go above and beyond. Front-line managers need to have a back pocket of dollars to just spread when they see something is working.”
+
+If your AEs are hitting or exceeding quota, they will be among the most, if not _the_ most, highly compensated people in the company. At Trilogy, when Ajay was leading GTM, they regularly had AEs who made $1M a year, which was dramatically higher than any executive at the company. This was something they celebrated. This may feel odd — after all, your senior IC engineer responsible for much of the infrastructure of your product will also make much less in cash. But this is normal and good: If your AEs are delivering toward the targets that you and your board have set, then your business is growing very quickly! And if they aren’t performing, they are fired quickly.
+
+Sales is a different kind of function with a different kind of compensation philosophy. ([Elad Gil has a helpful podcast episode](https://podcasts.apple.com/us/podcast/ep-49-elad-gil-angel-investor-solo-capitalist-and/id1606770839?i=1000596975135) about the tendency of technical founders to ‘reinvent’ sales compensation philosophies and why they shouldn’t do this.)
+
+### When hiring (a bunch more) AEs, “R.I.S.E.” and shine
+
+After you have your ‘player-coach’ in seat to manage your sales team — and once you see the first few AEs hitting quota repeatably —, it’s time to hire more salespeople. Here are a few heuristics to keep in mind as you dramatically increase the number of salespeople you hire. Joe dubbed this “R.I.S.E. and shine”, because he has kids and likes to invent random, memorable acronyms.
+
+**R -** **References**: Salespeople are good talkers; they are literally the best talkers. So interviewing them can be quite difficult, as they know how to talk their way out of any tough question with panache and charm. It’s critical to get the perception of a candidates’ performance from other references — ideally those they have not selected. ‘Back channeling’ is a must-do for every early sales hire. A quick email, subject line ”Quick reference convo — thoughts on \[Name of Candidate\]” with the body asking for a three-minute call works quite well. Most people will call immediately (bonus points — you can reconnect with old friends quickly this way!).
+
+**I - Identify**: This is for identifying the short list of companies you want to poach from because they (1) have robust sales cultures, and (2) have a similar selling motion or end buyer to you. If you’re hiring salespeople who need to understand backend infrastructure well and sell large deals to CTOs, then don’t hire them from a fintech startup that sells SMB software to accountants. Narrowing on companies with a similar motion or buyer will also help your recruiters find these candidates. If you produce a short list of logos to poach from, with similar sales motions (enterprise <> enterprise, SMB <> SMB) or target buyers to your own, your recruiters will be much more efficient in sourcing.
+
+**S - Screen**: Screen out candidates who are from big companies where accountability is unclear (”partner manager of cloud platform relationships?”). Keep a non-negotiable set of attributes you need to see. For instance, if your team is highly technical, make sure any AE can hold their own with your technical cofounder.
+
+**E - Evaluate**: Develop a tight hiring loop to evaluate candidates, ideally no longer than two to three weeks. We recommend including an exercise as part of the process; something that requires the AE to (1) demonstrate how deeply they understand your company’s problem space and market, and (2) gives you a sense of how hungry they are for the role. Make sure to see at least two or three exercises before you make a decision because the breadth of responses indicate who the outlier candidates are.
+
+### Sales Training: An ‘always on’ motion that will continually improve your team
+
+Hiring many AEs is hard work. But your work in getting those AEs to do well is hardly done once they’re in your company. That’s because your product is ever-changing; with engineers likely shipping features and bug fixes on a daily basis — thereby expanding the surface area that a customer sees. Your AEs need to know this and be able to speak to it, succinctly and effectively.
+
+This motion starts with good sales onboarding and training. At a minimum, we recommend onboarding include the following components:
+
+1.  A robust call repository with examples of “great” and “poor” calls.
+2.  A large ‘living’ sales playbook with objection handling, and data and anecdata that are useful illustrations of your product’s efficacy.
+3.  An onboarding ‘ buddy’ – usually a more tenured AE.
+4.  A four-week ‘sales academy’ in which there is a weekly ‘test’ on retention of information and onboarding slope. We recommend that as part of this, several executives (including the CEO) ‘certify’ the AE’s pitch. Bonus points if these pitch meetings are one-to-many, so the AE has the added pressure of an audience.
+
+When I (Ajay) was running GTM at Trilogy, each AE would have to give the company pitch and demo to me and our company founder at the end of _every_ sales kickoff. This was NOT a cakewalk. For some reps, it took three tries before they “passed,” but the result was stronger execution across the board.
+
+A monthly ‘sales refresher’ is an example of how you may want to accomplish continued certification at the team level. A standing, one-hour meeting in which you walk through key updates to the product, new objections (and handling), new customer stories or anecdotes to roll out. This meeting should be run by the head of sales and include every AE. It should _not_ be run as a pipeline review, a deal review or feature request highlight reel.
+
+### Sales takes a village — the functions to stand up around your growing sales team
+
+As your sales team grows they will be scheduling dozens of customer calls and “ringing the bell” as they close more business. But it takes many important functions to empower a sales team to succeed. The language we use in our recommendations here is deliberately vague. We’re not telling you to hire individual headcount for each of the below roles, but you should have an answer for them — whether it’s a fractional advisor’s time, an agency, a dedicated portion of a generalist IC’s time or, in some cases, an FTE.
+
+_Demand Generation_ - Leads: your new salespeople need to be fed! It’s not uncommon for early company AEs to generate some pipeline on their own, but they will not stick around for long if they are expected to generate _all_ their pipeline. Depending on your product, segment and ideal prospect, this could mean some combination of SEO, SEM, website iteration or events. Regardless, there has to be a plan for generating leads when you have AEs who are expecting to use them to hit their numbers.
+
+_Lead qualification_ - BDR / SDR: Once you get past four AEs, you should have a junior person in a sales development role to qualify meetings and set expectations with prospects. These are also great roles in which to coach and mentor junior folks into AE roles.
+
+_Product Marketing_ - Product marketing connects customers’ needs and how they want to learn about your product to the teams that build your product — freeing your salespeople from opining at length about your product roadmap. This role is even more important in this noisy and uncertain era of AI because it’s harder for startups to be understood accurately by their potential customers. As Tim Fletcher, founder of Stride and former VP of Product Marketing at Snowflake, puts it, “people should be tweaking the message in response to customer interactions…if the founder isn’t enjoying the iteration, or the market requires a lot of it, then get a PMM earlier to help.”
+
+_Sales engineering_ - Your best AEs aren’t going to want, or be great at, setting up demo environments or otherwise getting very far in the technical weeds. For that, you should have someone in sales engineering. Additionally, when a deal is progressing, it’s useful to have a second person on a sales call as a tactical counterpart to the AE. For instance, when Joe was at Coda, he would often explain the rationale behind a particular product feature, using a customer story, while a sales engineer pulled up the exact template or demo in question to “show” what he was “telling.”
+
+_Customer Success_ - Once you’ve closed dozens of deals, you’ll need to keep in regular touch with your existing customers to ensure they are happy enough to renew. Churn is devastating for an early-stage company. A great way to prevent churn is to have a resource solely focused on the happiness of the customer. These folks can fulfill more than one role — a hybrid Customer Success Manager and Sales Engineer, for instance — as much of the CSM work when your product is early will involve troubleshooting issues that you don’t want to bother your engineering team with (at least, not every time).
+
+### Early founders and sales leaders: Go forth and GTM
+
+These strategies may sound intensive, but taking a hands-on, accountability-drenched approach to early GTM leads to the commercial inflection of your business. Putting in the work today will help you build a robust sales team that sets you up for the long-haul.

@@ -1,0 +1,165 @@
+# Essential B2B SaaS Benchmarks Every Customer Success Manager Should Track
+
+Keeping track of customer health can feel like running in circles—especially when the data doesn’t add up. For Customer Success Managers (CSMs), this often comes down to one key issue: knowing _what_ to measure and _how_ to act on it.
+
+That’s where benchmarks come in. B2B SaaS benchmarks offer CSMs a clear, data-backed foundation to assess customer health, retention, and satisfaction accurately. They take the guesswork out of tracking the right metrics, so you can focus on delivering meaningful results.
+
+In this blog, we’ll break down the most important B2B SaaS benchmarks, explain why they matter and what benchmarks you should be aiming for. 
+
+## Revenue benchmarks
+
+Revenue benchmarks are critical for assessing the financial health and growth trajectory of a SaaS company. These benchmarks help you understand how your business stacks up against competitors and whether you’re meeting industry expectations. Key revenue benchmarks include:
+
+### Annual Recurring Revenue (ARR)
+
+[ARR](https://www.velaris.io/glossary/annual-recurring-revenue) measures the predictable and recurring revenue your business generates annually. It’s a standard metric for subscription-based businesses to track growth and assess long-term stability.
+
+According to [SaaS Capital](https://www.saas-capital.com/blog-posts/growth-benchmarks-for-private-saas-companies/), the median ARR growth rate in 2024 was 30%. However, for early-stage SaaS companies, especially those with ARR below $1 million, top quartile growth rates have been observed at [approximately 139% year-over-year](https://chartmogul.com/reports/saas-benchmarks-report/). 
+
+As companies mature, growth rates tend to decelerate; for instance, SaaS businesses with ARR between $1 million and $30 million have shown top quartile growth rates around 62% in recent years. 
+
+ARR indicates how well you’re acquiring and retaining customers. It also provides insight into the scalability of your business model.
+
+### Revenue per user (ARPU)
+
+ARPU (Average Revenue Per User) measures how much revenue you’re generating per customer.
+
+Average Revenue Per User (ARPU) varies significantly between SMB-focused and enterprise SaaS companies. According to a report by [OpenView](https://fastercapital.com/content/Average-Revenue-Per-User--The-Role-of-ARPU-in-SaaS-Companies--Benchmarks-and-Best-Practices.html), the median ARPU for enterprise SaaS companies was $1,320 in 2019, while the median ARPU for SMB SaaS companies was $210. 
+
+Additionally, data from [ProfitWell](https://www.marketingscoop.com/service/mastering-arpu-the-essential-metric-for-analyzing-and-maximizing-saas-revenue-in-2024/) indicates that enterprise SaaS companies achieve ARPUs 3-5 times greater than SMB-focused companies.
+
+Monitoring ARPU over time helps you identify trends and determine whether your pricing strategy aligns with customer value.
+
+### Net revenue retention (NRR)
+
+[Net Revenue Retention (NRR)](https://www.velaris.io/glossary/what-is-net-revenue-retention-nrr) is one of the most valuable metrics for measuring growth from your existing customers. Unlike churn or retention alone, NRR considers upsell, cross-sell, and churn to show how much revenue you’re retaining—and growing—over time.
+
+Why does this matter? A high NRR means your customers aren’t just staying—they’re investing more in your product. It’s a sign that your team is delivering real value that leads to growth.
+
+The [average annual NRR is between 85% - 135%](https://www.klipfolio.com/blog/top-saas-metrics-benchmarks). An [NRR above **100%** is considered excellent](https://chartmogul.com/reports/saas-benchmarks-report/?utm_source=chatgpt.com#how-common-is-having-nrr-and-gt-100) because it indicates that revenue expansion outweighs losses from churn. Top-performing SaaS companies aim for 110-130% or higher.
+
+But [ChartMogul](https://chartmogul.com/reports/saas-retention-the-new-normal/#nrr-amongst-b2b) also says that B2B companies with low NRR can still grow exponentially in 2024, because of large markets. So a low NRR doesn’t mean the end of the road. 
+
+### Gross margin
+
+Gross margin measures the percentage of revenue left after accounting for the cost of goods sold (COGS). The [median gross margin for 2024 was 74%](https://www.benchmarkit.ai/widget/saas-performance-24/fy-24). 
+
+SaaS companies typically aim for gross margins of 70-90%. A study by [The SaaS CFO](https://www.thesaascfo.com/how-to-calculate-saas-gross-margin/) indicates that a great overall margin is 80% and above, with a subscription gross margin near 90%. 
+
+Additionally, data from [The CFO Club](https://thecfoclub.com/metrics/saas-gross-margin/) suggests that top-performing SaaS companies achieve gross margins of 80% or higher. Higher margins like that reflect operational efficiency and signals that your SaaS model is scalable and has strong potential for profitability.
+
+### Expansion revenue
+
+Expansion revenue measures growth from existing customers through upsell, cross-sell, or add-on purchases. It’s a great indicator of customer satisfaction because happy customers are more likely to expand their investment in your product.
+
+According to industry analysis, achieving [20% to 30% expansion revenue is considered a solid benchmark](https://www.reforge.com/blog/brief-analyzing-expansion-revenue-of-5-000-saas-companies), with higher percentages indicating even stronger performance. Notably, some high-growth companies report expansion revenue approaching 40%. 
+
+Growing expansion revenue requires building relationships and understanding customer needs. Targeted campaigns and proactive engagement can uncover upsell opportunities and ensure customers see value in upgrading.
+
+## Churn benchmarks
+
+Churn benchmarks reveal how successfully your company retains customers over time. Reducing churn is essential for maintaining predictable revenue and sustaining long-term growth. Key churn benchmarks include:
+
+### Customer churn rate
+
+This measures the percentage of customers who leave your service during a given period.
+
+A study in 2024 by [Recurly](https://recurly.com/research/churn-rate-benchmarks/) found that the average churn rate  among subscription services was between 3.5% to 2.6%. However, Customer churn rates vary significantly between enterprise and SMB-focused SaaS companies. 
+
+For [enterprise SaaS providers, aiming for an annual churn rate as low as 1%](https://www.kalungi.com/blog/saas-churn-rate-benchmarks) is advisable, given the higher costs and complexities associated with switching providers.
+
+In contrast, SMB-focused SaaS companies often experience higher churn rates due to factors such as lower switching costs and shorter contract durations. Monthly churn rates for [SMBs can be around 3-5%, translating to annual churn rates between 36-60%.](https://froged.com/blog/saas-churn)
+
+High churn suggests gaps in onboarding, product fit, or customer engagement. Tracking churn helps you pinpoint areas for improvement.
+
+### Revenue churn rate
+
+Revenue churn accounts for lost revenue due to customer cancellations or downgrades.
+
+According to [ChartMogul](https://chartmogul.com/reports/saas-benchmarks-report/), top-performing SaaS businesses achieve net negative churn, meaning their expansion revenue exceeds the revenue lost from churn. 
+
+Specifically, the report notes that 40% of new revenue for SaaS businesses with an Average Revenue Per Account (ARPA) of more than $1,000 per month comes from expansion, which drives up net retention.
+
+Tracking revenue churn gives you a better understanding of the financial impact of customer losses compared to customer churn alone.
+
+### Customer Retention Rate
+
+[Customer retention rate](https://www.velaris.io/glossary/customer-retention-rate) measures how well you’re keeping customers over time. It’s a critical benchmark because retaining existing customers costs far less than acquiring new ones—and long-term customers drive higher lifetime value.
+
+Retention rates can vary depending on company size and industry. For SaaS companies, an annual retention rate above 85% is typically considered healthy, while [best-in-class businesses tend to have 85-87%](https://chartmogul.com/saas-metrics/customer-retention/) or higher.
+
+Keeping a close eye on customer retention helps you strengthen relationships and build a foundation for long-term success.
+
+With Velaris, you can easily [create a customer health dashboard](https://www.velaris.io/articles/customer-health-dashboards) to track these metrics in one place.
+
+## Funding benchmarks
+
+Funding benchmarks are key indicators of how SaaS companies are valued and funded across different stages of growth. These benchmarks provide insight into the capital needed to scale successfully.
+
+### Seed funding
+
+Seed funding benchmarks provide early-stage companies with the capital to refine their product and prove market demand.
+
+Recent data indicates that the [average seed funding round is approximately $2.1 million](https://www.paddle.com/resources/guide-to-seed-funding-for-startups). However, it's important to note that these figures are averages, and individual seed rounds can be higher or lower depending on specific circumstances.
+
+For instance, in the U.S., the [median seed round was $2.3 million in Q1 2023, with the average at $3.6 million](https://news.crunchbase.com/venture/seed-series-a-funding-charts-2023).
+
+### Series A funding
+
+Series A funding allows companies to scale operations, expand teams, and accelerate customer acquisition.
+
+The [median Series A round size in the U.S. was $12 million in early 2023](https://news.crunchbase.com/venture/seed-series-a-funding-charts-2023), with average deal sizes around $18.7 million, and the total Series A funding raised in 2023 was around $41 billion. This has reduced [in 2024, with the total funding raised being around $33 billion](https://growthlist.co/series-a-startups/). 
+
+Valuations during Series A rounds also differ depending on the startup's growth metrics and market potential. [Typical valuations range from $10 million to $30 million](https://www.capitaly.vc/blog/startup-funding-explained-series-a-funding-in-depth), though this can fluctuate with changing market dynamics.
+
+### Burn rate and runway
+
+Burn rate measures how quickly a SaaS company is spending its cash reserves, while runway refers to how long the company can sustain operations at its current burn rate.
+
+[Lighter Capital](https://www.lightercapital.com/blog/managing-saas-startups-burn-rate/) suggests that a healthy SaaS startup should aim for a burn rate that affords at least 12 months of runway.
+
+Similarly, [Visible.vc](http://visible.vc/) notes that a common guideline is to ensure your burn rate allows for at least 12-18 months of runway between funding rounds.
+
+Maintaining a manageable burn rate is essential for ensuring operational stability and securing follow-up funding.
+
+## Customer satisfaction benchmarks
+
+Customer satisfaction metrics help you measure how customers feel about your product and service. These benchmarks give you a pulse on loyalty and satisfaction.
+
+### Customer Satisfaction Score (CSAT): 
+
+[CSAT](https://www.velaris.io/glossary/customer-satisfaction-score) The CSAT score measures customer satisfaction by asking them to rate their experience with a product, service, or interaction. It reflects the proportion of your customer base that is satisfied.  
+
+Customer Satisfaction Score (CSAT) benchmarks can vary by industry, but generally, a score above 80% is considered strong. For instance, in the s[oftware industry, a CSAT score of 80% is above the industry benchmark](https://www.fullview.io/blog/csat-benchmarks-by-industry), indicating a high level of customer satisfaction.
+
+### Net Promoter Score (NPS):
+
+[NPS](https://www.velaris.io/glossary/net-promoter-score) is a metric to understand how likely customers are to recommend a company to others based on their love and trust for your solution and brand. 
+
+These ranges from [Sparkchart](https://www.sparkchart.com/what-is-a-good-net-promoter-score/) provide a framework for evaluating customer loyalty and satisfaction:
+
+*   \-100 – 0: Definitely needs improvement
+*   0 – 30: Good
+*   30 – 50: Very good
+*   50 – 70: Excellent
+*   70 – 100: Great
+
+### Customer Effort Score (CES): 
+
+[CES](https://www.velaris.io/glossary/customer-effort-score) measures the level of effort customers expend when interacting with a company's products, services, or support channels. 
+
+CES can be measured according to different scales. According to [Smartkarrot](https://www.smartkarrot.com/resources/blog/customer-satisfaction-benchmark/), on a scale out of 7, a 5 is considered average, indicating moderate effort required from customers. 
+
+Scores above 5 suggest that customers find interactions relatively easy, while scores below 5 may indicate areas needing improvement. 
+
+Additionally, according to [Gartner's](https://userpilot.com/blog/customer-satisfaction-benchmarking/) CES benchmark, scores below 70% indicate areas for improvement, and scores above 90% show that the product or company is in a strong position.
+
+[Customer success tools](https://www.velaris.io/articles/top-10-customer-success-software-tools) specifically focus on these factors and provide you with specialize tools and dashboards to monitor and respond to them.
+
+## **Conclusion**
+
+Benchmarking isn’t just about hitting numbers—it’s about giving your team the clarity to focus on what matters most. By tracking the right metrics like customer retention, churn, and NRR, you can better understand customer health, identify growth opportunities, and take proactive steps to keep your customers satisfied.
+
+If you’re looking for a better way to track and improve your Customer Success performance, Velaris can help. [Book a demo today](https://www.velaris.io/request-a-demo) to see how you can turn benchmarks into actionable insights and keep your customers on the path to growth.
+
+‍

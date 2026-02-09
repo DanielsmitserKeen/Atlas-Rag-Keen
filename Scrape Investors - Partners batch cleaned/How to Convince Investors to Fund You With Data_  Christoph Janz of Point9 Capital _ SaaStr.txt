@@ -1,0 +1,105 @@
+# How to Convince Investors to Fund You With Data: Christoph Janz of Point9 Capital
+
+### So what’s the real bar to raising a Seed, Series A or Series B round today?
+
+Christoph Janz of Point9 Capital came to **[SaaStr Annual](http://www.saastrannual.com/)** to do a deep dive.
+
+## Who is Christoph Janz?
+
+Christoph Janz isn’t just another VC – he’s been spotting and backing SaaS winners for over a decade as Managing Partner at Point Nine Capital. If you’ve used Zendesk, Algolia, Contentful, or Loom, you’ve experienced the impact of his investment thesis firsthand. Some fun facts:
+
+*   10+ years of SaaStr conference attendance
+*   Partner at Point Nine Capital, a leading early-stage VC firm
+*   Geographic reach: Actively investing across Europe, US, and Australia
+*   Notable portfolio: Zendesk, Algolia, Contentful, Loom (and many more)
+*   Known for his “five ways to build a $100M business” framework
+
+## The 5 Key Things You Need to Know First:
+
+1.  Clean, high-quality data is your secret weapon in 2024’s tougher fundraising environment
+2.  You need different metrics for different stages (Seed vs Series A vs Series B)
+3.  Growth remains the #1 factor, but efficiency metrics matter more than ever
+4.  Cohort analysis must be segment-specific – averages across different customer types don’t cut it
+5.  Having one scalable, efficient customer acquisition channel is better than many mediocre ones
+
+## Your Essential KPI Sheet: What Top VCs Actually Want to See
+
+### The Foundation: Monthly Tracking
+
+*   Month-over-month for early-stage/PLG companies
+*   Quarter-over-quarter for enterprise/later-stage
+*   2 years of projections (minimum)
+
+### The Must-Have Metrics:
+
+1.  Top of Funnel: visitors → sign-ups → trials → paid
+2.  Financial Core: MRR/ARR, revenue
+3.  Unit Economics: CAC, R&D, S&M, G&A
+4.  Customer Health: logo churn, revenue churn
+5.  Cash Metrics: burn rate, runway
+
+## The Growth Numbers That Actually Get You Funded in 2024
+
+### At $1-2M ARR:
+
+*   Need: 2-3x growth to get serious investor attention
+*   Focus: Proof of repeatable acquisition
+
+### At $5-10M ARR:
+
+*   Need: 2x year-over-year growth
+*   Focus: Proof of scalable operations
+
+## 🔥 The New Rules of Cohort Analysis
+
+### Do’s:
+
+*   Separate monthly vs annual plans
+*   Analyze by customer segment
+*   Focus on your best-performing segments (but be transparent about it)
+*   Track both revenue and usage cohorts
+
+### Don’ts:
+
+*   Mix different customer types
+*   Present averages across segments
+*   Cherry-pick data without context
+*   Ignore usage metrics (especially for AI companies)
+
+## The CAC Deep-Dive Investors Actually Care About
+
+1.  Channel-specific acquisition costs
+2.  Clear methodology explanation
+3.  Source-by-source conversion rates
+4.  Scalability evidence
+5.  Excluded costs explanation (if applicable)
+
+## Special Section: AI Company Metrics in 2024
+
+### The New Must-Tracks:
+
+1.  Usage retention (separate from revenue retention)
+2.  Model performance improvements over time
+3.  Cost of goods sold (especially with humans in loop)
+4.  Real feature adoption metrics
+5.  Proprietary data advantage metrics
+
+## Pipeline Management: The Numbers That Actually Matter
+
+1.  Monthly/quarterly pipeline evolution
+2.  New pipeline records (should increase consistently)
+3.  Conversion rate stability
+4.  Sales team performance metrics
+5.  Ramp time to quota
+
+## The 5 Key Investor Red Flags to Avoid:
+
+1.  Misaligned financing needs with raise amount
+2.  Unrealistic valuation expectations (especially Series B)
+3.  Cherry-picked data without context
+4.  Unclear cohort analysis methodology
+5.  No clear path to NDR improvement
+
+## 🎯 The Bottom Line:
+
+In 2025’s fundraising environment, having clean, well-organized data isn’t just nice to have – it’s essential for running an efficient process. Focus on showing clear evidence of growth + efficiency, segment-specific excellence, and one truly scalable acquisition channel. Most importantly, make sure your historic trajectory supports your future projections.

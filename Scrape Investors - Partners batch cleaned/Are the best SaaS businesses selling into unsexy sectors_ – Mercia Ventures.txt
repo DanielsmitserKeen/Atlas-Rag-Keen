@@ -1,0 +1,129 @@
+# Are the best SaaS businesses selling into unsexy sectors? – Mercia Ventures
+
+#### **_A 9 figure exit and 7 learnings from the field (service management market)_**
+
+Amid all of the AI hype, I still think software businesses targeting unsexy sectors are some of the best to invest into.
+
+After having the pleasure of sitting on the board of [Evotix](https://www.evotix.com/) ahead of its £100m+ exit to US PE buyer Symphony Technology Group in 2023, I’ve been fortunate to see first hand how selling technology into less sexy, more traditional sectors can result in great businesses being built. Think products designed with the worker in the field at their heart, across sectors such as construction, manufacturing, utilities, telecoms, energy and transport. More on the Evotix story later..
+
+**Lines, not dots**
+
+The famous quote “invest in lines, not dots” was coined in 2010 by Mark Suster – a prominent entrepreneur turned venture capitalist and general partner of Upfront Ventures. Mark’s blog, _Both Sides of the Table_, noted that to increase the chance of fundraising success founders should build longer term relationships (lines) with prospective partners rather than single meetings (dots), as this helps to build familiarity, trust and observation points from the past upon which to inform the future. It is sage advice, and something we suggest our portfolio founders to do ahead of raising an external funding round.
+
+**Drawing lines in Field Service Management – a greenfield opportunity**
+
+> **Over 50% of the UK’s 6 million field workers continue to rely on spreadsheets, paper forms, and disconnected tools**
+
+Over the past 18 months, and building upon our experience with Exotix, my colleague [Henry](https://www.linkedin.com/in/henry-hamilton-aa28a7a4/) and I have been drawing our own lines. We’ve had the pleasure of speaking with dozens of founders building technology products being sold into more traditional sectors.
+
+These sectors all have one thing in common – a large number of assets and workers in the field (e.g. a construction site, a factory, sometimes _literally in a field_). However, they have traditionally been slow to adopt technology, due to the fragmented nature of the industries requiring a wide breadth and specificity of workflows, and an ageing non-tech native workforce.
+
+Speaking with founders, commonly more than half of new customers were previously using no technology solution – for example, end to end field service management business [Re-flow](https://re-flow.co.uk/) estimates 60-70% of new customer opportunities are greenfield. The macro data seems to support this. In the UK over 6 million workers are employed in these sectors on the front line. However, over 50% continue to rely on spreadsheets, paper forms and disconnected tools.
+
+**A retirement crisis and increased complexity – the case for technology**
+
+Labour intensive industries are suffering with the shifting demographics of the workforce. In the UK, a third are now over 50 years old, up from 21% in 1994. In the US, 37% of workers are over 50.
+
+At the same time there has been a reduction in appetite for job roles in skilled manual trades – applications from young people seeking this type of work has reduced by 50% in recent years. These demographic trends have created a retirement crisis across industrial sectors.
+
+Other challenges include complex scheduling requirements across distributed mobile workforces, poor communication between field and back office teams, increased regulation and compliance driving requirements for audit trails and automated regulatory reporting, and margin pressure due to supply chain disruptions.
+
+These challenges are coupled with increasing customer expectations – 74% of customers expectations are higher than they used to be – communications are now expected to be digital, fast (increasingly same day) service with more pro-active updates.
+
+It is therefore unsurprising technology adoption is growing. The global Field Service Management (“FSM”) software market is set to grow 11% per annum to a market size of $7.2 billion over the next 3 years.
+
+**What does good look like**
+
+Core functionality of field service management software sits across a combination of Advanced Scheduling, Asset and Inventory Management, Worker Apps, Safety and Compliance, Back Office Analytics and Customer Portals. Regardless of where products sit within this value chain, we have observed a number of common success factors. But before that, more on Evotix’s story…
+
+**_Evotix – from £1 to a £100m+ exit_**
+
+_In 2011_ [_Matthew Elson_](https://www.linkedin.com/in/elsonmatthew/) _saw an opportunity no-one else did. He bought a 15 year old employee health and safety software company being sued by its largest customer for £1. Fast forward 12 years, £10m+ in capital raised, growth to £15m+ ARR, and Evotix (formerly SHE software) was acquired by US PE firm Symphony Technology Group in a 9 figure deal._
+
+_At Mercia Ventures we were delighted to partner with Matthew, first investing in 2017 and supporting across several follow on rounds throughout the scale up journey, culminating in a 4.6x blended return._
+
+_But what did Matthew see in the business? In an interview with Mercia, recorded after the acquisition was announced, Matthew reflected on what attracted him to the business and sector initially “..while nobody else wanted it, I saw what seemed to be a great product and clearly a great market”. Matthew continued “lots of people in this sector are still managing health and safety; recording and investigating incidents; understanding risks and mitigations; and training – with pen and paper and excel spreadsheets”. He then set about developing a solution which stores and captures customer information digitally, provides simple workflows to maintain compliance and business intelligence to highlight areas for improvement based on the data captured._
+
+<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start">&#xfeff;</span>
+
+_So what did Evotix get right? As is often the case this overnight success took 12 years, and 6 years from our initial investment in 2017. Matthew was successful in building a high performing team and a strong go to market function, which was pivotal. However, the worker first design, configurability and interoperability of the platform, and focus on key customer segments at specific ACV’s were also key factors that underpinned a strong and consistent growth journey._
+
+**1\. Field worker first, integrated into existing processes**
+
+> **_**If field teams find the product clunky, slow, or irrelevant, they simply won’t use it**_**
+
+[Nick Woodrow](https://www.linkedin.com/in/nickwoodrow/), former COO of [CEMAR](https://www.thinkproject.com/products/thinkproject-cemar/) (a construction contract management business acquired in 2018 by Thinkproject) explained that while the economic arguments with the back office team need to make sense, the success of FSM software hinges on frontline adoption. If field teams find the product clunky, slow, or irrelevant, they simply won’t use it. The best vendors obsess over UX, speed, and usability in real-world conditions – acknowledging the average user may not be tech literate.
+
+Evotix demonstrated this front line obsession which resulted in an impressive 95% retention rate. CEO Matthew continues _“..(customers use our) solution to be more efficient and demonstrate compliance, but most importantly to engage with their people. We very much focused on mobile experience, given the application is in everyone’s hands.”_ Solutions which fit seamlessly into existing processes for field workers are likely to see greater adoption, and faster sales cycles.
+
+**2\. Verticalise (at least initially)**
+
+More verticalized approaches, targeting one or two core markets initially and expanding from there can be highly effective. While Evotix served a number of end sectors, its stronghold was in manufacturing, Re-flow in highways, and [Vyntelligence](https://vyntelligence.com/), an innovative Ai-driven video intelligence platform for site installations and inspections, initially focused on Utilities before branching out into Telecoms, Manufacturing and Green Energy. This appears a sensible approach given the specificity of workflows, compliance, accreditations, and health and safety requirements by sector.
+
+There is a clear attraction of broadening the ICP to become a horizontal platform, increasing the TAM and therefore potential exit multiples. However, demonstrating product market fit across core industries initially before expanding has proven a successful approach with the companies we have worked with and spoken to.
+
+**3\. Configurability and Interoperability**
+
+While there is lots of commonality across the end sectors serviced by FSM software, even within a specific sub-sector each customer will have unique workflows, risks and compliance areas to be satisfied. FSM platforms must therefore allow non-technical users to configure digital forms and workflows to suit their needs, on the same code base.
+
+Re-flow is an end-to-end field service management platform focused on highways, civils, utilities and commercial landscaping, which was acquired in 2025 by Kester Capital. Re-flow provides its customers with an extensive library of out of the box forms providing managers control over exactly how forms should function and how pathways populate. This helped the business drive strong customer satisfaction with user retention rates of 94%.
+
+Configurability is becoming table stakes, as is interoperability delivered by API first architecture allowing for a breadth of integrations to accounting, CRM, ERP, and HR software platforms.
+
+**4\. Niche solution first, platform play later**
+
+We have seen new entrants enter the market to solve a specific pain point, and broadening the platform out from there. The site access and accreditation segment is a good example of this.
+
+[Biosite Systems](https://www.biositesystems.com/en) was founded in 2009 as a fingerprint algorithm platform, initially providing a simple, card free access control system to the Construction Industry using biometrics. By the time of its acquisition in 2020, Biosite was generating £14m of revenue and had developed into a wider FSM platform offering training record management and environmental monitoring through a combination of hardware and software.
+
+[Siteassist](https://www.siteassist.com/), founded in 2021 are taking a similar approach. The initial focus has been on providing the most sophisticated permitting platform on the market for the Construction Industry, replacing traditional paper permits and ensuring compliance of worker access and activities on site. Looking forward there is opportunity to expand both by sector (into Infrastructure, Defence and Nuclear) and functionality – to become a wider hazard protection platform for site work, collecting data on assets and people to comply with health and safety audits.
+
+[CertChain](https://www.certchain.ai/), also founded in 2021, offer digitised right to work checks for employees and subcontractors within the Construction Industry. The initial focus is to help customers comply with the Building Safety Regulator to demonstrate worker competence for all works. The longer term vision is to create and maintain a golden thread of building information to comply with the Building Safety Act 2022. This golden thread spans from design through to occupation, including up to date and accurate information on details on materials, product and contractors, accessible to all relevant parties.
+
+**5\. GTM – word of mouth, land and expand**
+
+High stakes industries rely on trust, and word of mouth plays a key role in winning new deals – therefore attendance at industry events and referencing specific case studies are an important and effective route to new logo acquisition. Biosite had great success with this approach in the Construction sector for example.
+
+We have seen varying sales cycles, from 0-3 months in the SMB market, anywhere from 3-12 months in mid-market  all the way through to 12-18 months in Enterprise. As described by [Li Wang](https://www.linkedin.com/in/liwang/), CEO of Biosite up until acquisition, a key determining factor is whether the purchase is being made at the project level (typically with a contractor) or at the Enterprise level (typically with a general contractor or underlying asset owner). SMB (if product led) and Enterprise (given potential for £1m+ contract values) GTM motions can certainly be effective. However, we have seen a sweet spot in the mid-market, with £50k-£150k deals being able to be closed in 3-6 months.
+
+In all cases, a land and expand model can be highly effective and can help circumvent otherwise longer sales cycles. This expansion revenue can stem from cross-selling to a different department after successfully demonstrating value for an initial use case, geographical expansion within a specific use case (for example Evotix regularly upsold into the US), or simply deeper penetration within the existing user base of customers (Re-flow). We have consistently seen the potential for FSM businesses to drive upsell of at least 15% of the ARR base, and in several cases significantly more!
+
+**6\. Customer service remains key**
+
+Unsexy, good old fashioned customer service remains absolutely crucial. 73% of FSM customers expect more of a personal touch than they used to, so platforms offering a slick on boarding process, supplemented with digestible on-platform learning material and slick customer portals to provide real time updates are more likely to achieve market leading retention rates.
+
+On exit, Evotix was a profitable business. Management were focused on driving strong ARR per FTE, and 95%+ of revenues were SaaS. However, the business still employed a customer success team of 35, supplemented by on-platform customer learning and training. While Ai does truly have the potential to help optimise customer service operations, these are sectors where the human touch is still highly valued.
+
+**7\. Ai and automation**
+
+A blog post from a VC wouldn’t be complete without mentioning Ai… which is already being used improve the customer experience at all parts of the value chain. There are large and well-funded Enterprise players innovating with Ai in specific areas (e.g. Service Titan in scheduling, Service Max in predictive maintenance, Agentforce in Ai agents for field workers on site). There are also newer Ai-first entrants in specific segments such a Vyntelligence in video intelligence.
+
+The next frontier is using customer data to generate Ai-produced workflows, eliminating the need to generate configurable workflows entirely – [Fieldproxy](https://www.fieldproxy.com/) are innovating in this area.
+
+Given these are high stakes environments, we believe automation is unlikely to take the human completely out of the loop any time soon. Rather, given half of field workers are still using pen and paper or excel, our view is that in the short run there remains a huge opportunity for software which digitises workflows, ensures compliance, and is built with the field worker at heart to add immense value, whether or not it is Ai-native.
+
+In the longer run we anticipate that the integration of Ai to improve the customer experience further will become table stakes, however the best FSM software products of the future will remain those who continue to put the experience of the field worker at the forefront.
+
+* * *
+
+**Summary – what we have seen work well**
+
+What we have seen work well will not hold true across all FSM software businesses, and there will be notable (and successful) exceptions. There are also multiple other critical factors in growing a successful FSM software business, which apply cross sector – for example recruiting and developing a high performing team. However we have seen these characteristics disproportionality correlating with successful growth stories across companies we have worked with and spoken to.
+
+1.  **Make sure the field workers love your product**
+2.  **Start off with selected verticals, and expand from there**
+3.  **Build with configurability and interoperability as default**
+4.  **Start with a narrow use case, then expand functionality**
+5.  **Mid-market can be a sweet spot, GTM motions focusing on land and expand, in person events, and leveraging of case studies work well**
+6.  **Customer success remains key – you won’t be able to automate this team away completely**
+7.  **Use Ai to future proof product experience – but greenfield opportunity remains today regardless**
+
+* * *
+
+**How Mercia Ventures can help**
+
+At [Mercia Ventures](https://www.merciaventures.co.uk/) we invest £1-10m from Seed – Series B. With a portfolio of over 100 B2B software businesses, we understand the challenges of scaling from £1m-£20m ARR and beyond. We work tirelessly to support founders on their journey, and employ a growing base of operating partners who have been there and done it, to support across sales, marketing, finance, operations, people strategy and US expansion.
+
+If you are a founder building in this space, or you know any founders you think would be interested to chat, please drop me a DM on LinkedIn, or email at [adam.watts@mercia.co.uk](mailto:adam.watts@mercia.co.uk).
+
+We’d love to hear from you!

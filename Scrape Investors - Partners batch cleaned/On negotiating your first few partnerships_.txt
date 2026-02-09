@@ -1,0 +1,183 @@
+# On negotiating your first few partnerships
+
+[This post was republished on PandoDaily.](http://pandodaily.com/2013/06/14/on-negotiating-your-first-few-partnerships/)
+
+Dealing with partnership contracts as a new startup is hard.
+
+There’s very little in the way of “standard” terms and conditions when it comes to software (at least that I can find). Everything is specific to the kind of software you have and the kind of company you’re partnering with. When there’s no standard to work with, the first few deals can be kind of a pain if (like us) you’ve never done this before.
+
+The way we managed to get through this was:
+
+1.  Get good advice about what’s reasonable from people who have been there before
+2.  Once you’re actually in the contract phase have a good lawyer (I love you [Lowenstein Sandler](http://www.lowenstein.com/)!) to help you craft language and avoid common pitfalls
+
+Because a lot of this advice cost me about time, money, blood, sweat and tears I thought it might be worthwhile to talk a little bit about these kinds of deals on a high level and get into some specific things that we’ve run into that are helpful to think about.
+
+Disclaimer: I’m not a lawyer. Follow this advice at your own risk. Always consult people who are smarter than you (or me!) and/or who are legally qualified to give advice like this before acting on it.
+
+That out of the way, let’s proceed.
+
+**First things first**  
+Doing partnerships early on as a small startup can be good or it can be bad. It really depends on your goals.
+
+The thing about partnerships is that they get you awesome early distribution and revenue, but at the cost of capping your growth potential: you can’t get larger than your biggest partner. If you’ve raised a lot of money and you’re shooting for the moon, you probably want to hold off on partnerships until later. You’ll get better terms anyway. As a small startup you don’t have a lot of leverage, and this will be reflected in the kind of deal terms you get early on.
+
+But, if you’re bootstrapped (like we are), it’s important to you to get revenue in the door early, and you’re not as concerned with massive scale then partnerships might be a route that you want to explore.
+
+If that sounds like you, here’s a brain dump of the things I’ve learned as we’ve negotiated partnerships for Firefly over the last year.
+
+**Fair is where you end up**  
+The first thing to realize when you’re getting into these types of negotiations is that there’s no such thing as fair. One of the biggest lessons I learned from Rob Bailey – the CEO of DataSift and former VP of biz dev at SimpleGeo – is this:
+
+Fair is where you end up.
+
+When you go into a deal you have to recognize your partner’s needs and requirements. You WANT them to be as happy as you are with the deal. Screwing over a partner just screws yourself. There’s no “winning.”
+
+But with that said, don’t be afraid to propose deal terms that work for you. Let your partner come back with what works for them. Then figure out a way to move forward.
+
+Don’t negotiate against yourself. You’re not going to be thrown out of the room for proposing something pricey, as long as you can back it up.
+
+This advice is easier said than done, especially for me. It’s taken me a while to avoid being squeamish about it (and to some extent I still am). But it’s important to start with what’s good for you – as long as it’s reasonable – and let your partner tell you what’s good for them.
+
+**Thinking about pricing models**  
+In an ideal world you would have a standard deal with standard pricing that you could give to all of your partners. In practice this doesn’t really work out. With Firefly, we work with a variety of different partners at different sizes in different verticals. This means that we pretty much have different deals with different pricing structure for each company that we work with.
+
+In general your partner will want to pay you in the same way their customers pay them. So if a company has customers that pay them per seat, then they will want to pay you per seat. If the company’s customers pay per concurrent they will want to pay you per concurrent. If their customers pay them per interaction, they will want to pay you per interaction.
+
+Expect this and use it to your advantage.
+
+**Being completely honest about where you are**  
+It’s important when you’re working with a partner to be completely honest about where you are as a company. Doing anything else is bad. Don’t act like a big company if you’re not one.
+
+Unclear expectations will lead to damaged trust and a poor working relationship down the road. Ideally you should find partners to work with who know that you’re a small startup and will want to work with you to help your business succeed.
+
+**Whose paper should you use?**  
+In partnership speak whose “paper” you use means who actually provides the first draft of the contract. For a small startup (especially one run by people with no prior experience writing contracts) being the one to provide the first draft can be a costly and time-consuming.
+
+If you’re working with people who understand where you are as a company (see the point above) they will generally be alright with writing the agreement themselves.
+
+The nice thing about this is that once you have a few of these deals out of the way, you’ll be able to piece together new contracts by looking at the language and structure of the deals you’ve done in the past.
+
+However, as a general rule it’s better to provide your own paper if you can. Being able to put the first foot forward and drive a stake into the ground that you have to be negotiated away from is generally better than trying to do it in the reverse. You especially want to use your own contract if you don’t feel like your partner is likely to treat you fairly if they write it. So if you can afford to have a lawyer draw up your own contract, prefer that option.
+
+**The letter of intent**  
+Once you’ve talked to the partner for a while and you’ve agreed on the broad outline of what a deal should look like, it’s generally a good idea to put together and sign a letter of intent or LOI. People will also use terms like:
+
+*   MOI
+*   MOU
+*   LOU
+*   Term sheet
+
+These are all basically the same thing (although a term sheet takes a slightly different form). But the general idea of getting an LOI together is that it allows both companies to legally agree to the broad terms like price before getting into the nitty gritty details of an actual contract.
+
+Typically you want to do this (at least in our case) because we needed to customize the software slightly for the partner’s needs. Signing the LOI allows you to get started on those customizations before you sign the actual contract which speeds up your timeline.
+
+**Charging for customizations**  
+If you have to do custom development work for a partner you want to charge for it. In partnership lingo these will be called “Professional Services.”
+
+In the very early stages (before you’re feature complete) a partner might ask you to do development work without being paid for it.
+
+You should only say yes if the development work meets the following standard:
+
+Having that feature in your product will make you significantly more competitive / attractive to other customers or partners.
+
+Basically, if the work will make your product more valuable for everyone then it’s okay to do it for free (to a point). If it’s a customization that will only apply to one partner then you need to charge for it. Also make sure that you legally own any customizations that you build.
+
+If the customizations are specifically for one partner’s use they may ask you to exclusively license it for them – but make sure you still own the code.
+
+We charge $200 / hour for any customizations and we don’t apologize for it. We also estimate how many hours it’s going to take up front. People pay it because it’s fair.
+
+**Whitelabeling**  
+Try to avoid whitelabeling if you can.
+
+Having your brand on your product is important, and will help you own customer relationships that will be more valuable over the long run than just your partner relationships.
+
+However, you don’t have to avoid whitelabeling at all cost. Again, it depends on what you want out of your business. Don’t do this early on unless it’s aligned with your goals.
+
+If it is aligned, just charge more for it. We’ve done a few whitelabel deals and you can make good money with them. But, if I had to do it over again, I would have negotiated harder to get our brand on things.
+
+**How long is this going to take?**  
+If you’re a new company it’s going to take a while. It took us about 9 months from initial contact to the ink drying on our first partnership. Be prepared for this kind of timeframe for your first deal.
+
+As you get more mature and you’ve done the partnership thing before, the time frame will shorten significantly.
+
+**Confidentiality**  
+The terms of the deal you make with your partner your will be confidential. This is for your benefit and theirs. Expect it.
+
+**Escrow**  
+It’s common, as a small company, to be asked by a partner to do put your code into escrow for the duration of the contract. This is generally not unreasonable but should be only agreed to with discretion.
+
+The escrow does the following:
+
+After successfully executing the contract, you put a copy of your source code along with accompanying documentation into an escrow run by a third party. In the contract you will negotiate certain conditions upon which your source code can be released (these are called “Release Conditions”) to your partner. These are up to your negotiation, but typically release conditions are things like:
+
+*   Bankruptcy proceedings or insolvency
+*   Material breach of the contract
+*   Extended downtime, or demonstrated disinterest in fulfilling your obligations to continue supporting the product
+
+Be careful to make release conditions specific. It’s also generally a good idea to make sure that a downtime-based release condition is very well thought through. The last thing you want is for your site to go down for a few hours and have the escrow triggered.
+
+The advice we got from our lawyer was this:
+
+“Only agree to an escrow if the deal will significantly increase the value of your company. Otherwise it’s not worth it.”
+
+That’s the rule we follow and it has generally worked out well. If your partner requires an escrow and cost is an issue, they should generally be willing to pick up the tab for it. Make sure you ask for this.
+
+**Assignment**  
+You will have an assignment clause in any contract that you sign (or should). Assignment basically means that you can transfer the agreement to another company. Typically the agreements that you sign will not allow for assignment except in specific cases.
+
+The time when you want assignment is upon acquisition. Typically the contract will read something like (I’m paraphrasing here), “This agreement is not assignable. Notwithstanding the foregoing, this agreement is assignable in whole if a company acquires all, or substantially all of my company’s assets.”
+
+This will give your partner peace of mind that you’re not going to sign the contract and then foist it on some third party that they don’t know, and will give you peace of mind knowing that, if you get acquired, part of the revenue stream that might make you an attractive acquisition target won’t be cut off.
+
+**Be honest.**  
+Whenever we’ve been in a negotiation and things have gotten frustrating it’s for a very specific reason:
+
+We want something in the contract, call it Term X, but we’re afraid to be completely honest about why we want it.
+
+When you feel that way about something that you’re negotiating on, what you tend to do is make up a bunch of plausible-sounding reasons for why you want Term X which are all probably true to some extent, but that don’t fully reveal your real reasons.
+
+There can be a bunch of reasons why you wouldn’t want to reveal why you want a term.
+
+*   You think it would be embarrassing if your partner found out
+*   It reveals something about your long term strategy that you don’t want them to know
+*   You’re not 100% sure that you trust them and you want piece of mind
+
+Whatever it is, it’s almost always best to just get it out in the open. If instead, you make up a bunch of excuses for why you want Term X that are only partially true, then the following will happen:
+
+*   The company you’re negotiating with will, in good faith, attempt to resolve your (only half-true) concerns
+*   You will either:
+*   Claim that their resolutions don’t really address your concerns (they can’t because they’re not directed at the real issue)
+*   Make up new concerns to try to get what you want without actually asking for it
+
+This is frustrating for everyone and generally leads nowhere. Whenever I feel frustrated in a deal it’s because someone is doing this.
+
+If you’re as honest and upfront as you possibly can it will help you get past these stalemates.
+
+**Have clear specific reasons for your positions**  
+Aside from just being honest, it’s also very important to be clear about what you want and why you want it. If you’re new to this you probably won’t know what you want. Worse still, you’ll think you know what you want without actually knowing it.
+
+The second situation is worse than the first. But both of these can be fixed by getting good advice from people who have done this before, and from a good lawyer.
+
+**You don’t know what you don’t know**  
+During a negotiation it’s very easy to devolve into in-fighting and bickering over one part of the contract or another. One person on the team wants termination for convenience, another doesn’t think it’s a bad idea. Both sides end up making reasons for why they’re right, which are at best supported by weak anecdotes and at worst are just plain made up.
+
+As a small startup run by inexperienced founders you’ll probably end up doing this a lot. You’ll tend to fight over a lot of things that end up being insignificant and totally glossing over points that end up being massively important later.
+
+The only way to avoid this is to accept the fact that you don’t know very much and get people to help you figure out what’s important.
+
+**Find people to work with who you like**  
+We’ve been lucky to find partners who recognize where we are as a startup and want to help us reach our goals. They’re helpful, friendly, and understanding. You should work hard to find this for your first couple of deals as well. You’ll know the companies who will be good to you or bad to you after the first meeting.
+
+“People tell you who they are, it’s your job to believe them”.  
+You will have some good and bad negotiations. When people disappoint you, lie to you, or shade the truth, chances are they are telling you who they really are; believe them. They will always act the same in every situation.
+
+This is the tip of the iceberg on what I’ve learned over the last few months about doing these types of deals. I’ll probably do a follow-up post or two over the next few weeks as I think about more of these.
+
+A big thanks to the people who helped me get through our first few contracts:
+
+My dad, Josh Kopelman, Andrew Dumont, Apu Gupta, Rob Bailey, Michael Hoey, Nat Turner, Zach Weinberg, Alex Blom, Lowenstein Sandler (Eric Weiner, Justin Chan, Ed Zimmerman.)
+
+There are definitely a lot of people missing here, so if I forgot you I’m incredibly sorry just shoot me an email.
+
+### 14 Jun 2013, 10:00am | [14 comments](http://danshipper.com/on-negotiating-your-first-few-partnerships#comments)

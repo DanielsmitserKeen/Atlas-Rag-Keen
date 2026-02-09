@@ -1,0 +1,847 @@
+# Zapier’s Kieran Flanagan on Rising Above the AI Commodity Wave
+
+00:00:01:01 - 00:00:27:11
+
+Ben Hillman
+
+Imagine the moment when fast food first appeared on the scene. It was revolutionary. People could grab a meal and mere minutes, something unheard of in an era when even simple meals required time and preparation. The magic of this efficient service quickly spread, setting a new standard and raising the floor for what was considered quick good food. However, as more fast food joints mushroomed across cities and towns, the novelty wore off.
+
+00:00:27:13 - 00:00:56:20
+
+Ben Hillman
+
+Each burger, each fry began to taste like a reflection of the other. In this world where speed was king, but uniqueness was lost. Master chefs saw an opportunity. They took some of the same technology that turned out countless burgers and fries and used it sparingly, blending it with their craft. The result? Gourmet dishes that carried the efficiency of fast food but were crafted with an artistry and uniqueness that stood above the rest and the ever evolving realm of B2B sass.
+
+00:00:56:21 - 00:01:23:08
+
+Ben Hillman
+
+We see a parallel story. Technologies, especially once revolutionary, have started to become commonplace. The floor for what is considered innovative is constantly rising, and with this, there's a risk of everything starting to feel the same. Just as in the world of food, the challenge here is to not just use the available tools, but to use them in ways that stand out, that offers something unique and valuable to the audience.
+
+00:01:23:10 - 00:01:46:01
+
+Ben Hillman
+
+Enter Kieran Flanagan, CMO at Zapier, a maestro in the Sass domain. Kieran understands the balance between leveraging the power of AI and ensuring that a company's offerings don't just blend into the background. His insights, strategies and innovative approaches have guided businesses to shine brightly in a marketplace that's getting more crowded by the day.
+
+00:01:46:02 - 00:02:09:04
+
+Ben Hillman
+
+Join us in today's episode as we explore the landscape of B2B sass, delve into the challenges and opportunities presented by the commoditized zation of AI, and learn from Kieran Flanagan on how to be the master chef in a world filled with fast food options. From Paddle, it's Protect the hustle, where we explore the truth behind the strategy and tactics of B2B SAS growth to make you an outstanding operator.
+
+00:02:09:06 - 00:02:32:05
+
+Ben Hillman
+
+I'm Ben Hillman, and on today's episode, Kieran Flanagan speaks with paddles. Andrew DAVIES about rising above the commodity wave. They talk about challenges in upgrading products, automation and tech stacks the future of content, the role of creators and modern marketing, and adapting to change in the SAS landscape. After you finish the episode, check out the show notes for a field guide from today's episode.
+
+00:02:32:09 - 00:02:42:13
+
+Ben Hillman
+
+Then, while you're leaving your five star review of the podcast, tell us what resonated most about our guest advice.
+
+00:02:42:15 - 00:03:00:23
+
+Kieran Flanagan
+
+Yeah, I'm currently over at Zapier CMO. They're kind of lead in marketing and growth. I like to think of Zapier as the connective tissue between apps helps you to customize your software to your needs. Do no code, build apps and do all that as you scale. So that's my kind of pitch. I'm sure you go to the website, it's pitch much better than that one.
+
+00:03:00:23 - 00:03:06:14
+
+Andrew Davies
+
+You also, for those who don't know you and your journey, give us a couple of of the bits of breadcrumb of how you got to Zapier.
+
+00:03:06:14 - 00:03:29:03
+
+Kieran Flanagan
+
+My career originated I started my career as a software developer, like at a college with a computer science degree was not very good as a software developer, although I do think like I would be a better software developer today than I was back then because I just got stuck into the wrong segment of building, which was internal apps through new tax, which is like not the most exciting thing to do.
+
+00:03:29:04 - 00:03:45:12
+
+Kieran Flanagan
+
+Then I, you know, found my way into marketing because I ended up working on this Ecom store and I was like really obsessed by how they were going to get visitors and buyers to that Ecom store. And they hadn't really thought through that. They were like much more engineer and lead builder than they would come. And then it turned out that after six months, no one came.
+
+00:03:45:12 - 00:04:15:17
+
+Kieran Flanagan
+
+That thing failed and that just really struck me as, wow, like being able to like, scale something, build the audience, figure out how to get people to use these things is really important. So I started career in marketing and started William Performance Marketing and then went to help companies build out their international business. Did that. Salesforce Marketo ended up in HubSpot, spend ten years in HubSpot, building out the international business, building out the product led growth business, helping to scale the customer demand engine led the acquisition of a company called the Hustle, built at the HubSpot Media Network and did a bunch of other things in there.
+
+00:04:15:17 - 00:04:24:03
+
+Kieran Flanagan
+
+And then ended up going to Zapier to kind of lead marketing and growth. So I really like the intersection of like growth and marketing. So get to do a bunch of fun work over there.
+
+00:04:24:03 - 00:04:44:15
+
+Andrew Davies
+
+Let's firstly just stop on Zapier. So you've joined that business that are super interesting time as Open Air has launched a bunch of APIs that thousands of companies are building on and Zapier has got a really interesting place in that ecosystem. I assume, you know, you had a lot of forward visibility on what that was looking like, but I'd love to hear from you like what Zappos role is in that ecosystem and how you see that playing out.
+
+00:04:44:20 - 00:05:06:09
+
+Kieran Flanagan
+
+I join that at a really interesting time because I was already pretty deep into the AI space and really trying to think through like how this is going to change the way people do jobs, like just the job of knowledge worker going to change the way that we actually use software. Like there were some really good apps when I joined Zapier that were trying to like Reskin how we use software, like use the entire tech stack through a chat engine.
+
+00:05:06:09 - 00:05:24:02
+
+Kieran Flanagan
+
+And so you never even had to use like UI experience of a of a software app which would fundamentally change like how we actually do SAS do know and knowledge work. And so when I joined Zapier, one of the things Spirit is, is it's like very engineer led, very product led chips a lot and so they had a bunch of like AI features into the wild very quickly.
+
+00:05:24:02 - 00:05:38:18
+
+Kieran Flanagan
+
+They had, we had our chat CBT plug in, we had a bunch of other things and we had this like influx of users who really wanted to figure out how to make AI actionable for their company. I think that's the real thing I took away from it as like people are trying to figure out how to interject, inject AI into their current workflows.
+
+00:05:38:18 - 00:05:53:23
+
+Kieran Flanagan
+
+So we see a lot of people create these kind of custom workflows and now they are able to like add an AI step in. So they're a good example is like I can create a custom workflow to pull tickets from customer support and then I can now add an AI step. To summarize all those tickets. Send me send them to someone else.
+
+00:05:53:23 - 00:06:12:08
+
+Kieran Flanagan
+
+And now you can actually have I do the qualification of them, but also to actually help some of them through chat experience. And so I think that's the main thing was you can see people trying to figure out, okay, how do I make there's just a lot of hype. We're like the real hype cycle of the AI. And I think the thing that we try to focus on is like, how can we help AIB actionable for a business?
+
+00:06:12:08 - 00:06:31:18
+
+Kieran Flanagan
+
+Like how can we actually help bring an AI to a business so you can actually use it within your current workflows? Some of the use cases that we've seen that are most popular, obviously we see a lot of people using it for content, for marketing, to see a lot of people using it for a really interesting customer support use cases, seen a lot of people use it for a lot of interesting sales cases.
+
+00:06:31:18 - 00:06:56:03
+
+Kieran Flanagan
+
+The one hesitancy we're seeing people run up against is just like how confident they might put this into a customer facing parts of my workflow, like my go to market experience because I still hallucinate. So you can change the settings to make sure that that is that comes down a lot. And so I think people are still trying to get over the hump of like it's in the background, starting to do a lot of the work and am I okay actually interacting with a lot of my customers.
+
+00:06:56:03 - 00:07:17:17
+
+Andrew Davies
+
+I know one thing you've talked about is, you know, the best marketers are using tools like Zapier and the new generative APIs to, you know, become more technical to suddenly start being builders. And that's what we've experienced a lot of like a bunch of my team have suddenly become much more technically competent than they ever were before. Talk to us about that and how you see marketers suddenly embrace the new technical chops that they have at their fingertips.
+
+00:07:17:19 - 00:07:39:14
+
+Kieran Flanagan
+
+Yeah, I think deep down we all want to build things because software out of the box is limited like it just is. Every person has a unique use case they want to use software for that's unique to that business, right? Like most businesses, yeah. When you have a standard, 80% of the software covers all of the use cases and then there's 20% that you yourself want to customize to your business and out of the box software is not going to get to that 20%.
+
+00:07:39:17 - 00:08:04:14
+
+Kieran Flanagan
+
+There's an appetite to like build customization into every go to market experience, every kind of company experience that we have. And if you look at the evolution of how this has done in the past, the number of people who can do that has grown over time, right? So when the Internet became popular code and allowed us to do some customization, but you're limited by engineers, which is why we have way more things in the universe that we can actually build because our, you know, our limitation is engineers.
+
+00:08:04:14 - 00:08:21:00
+
+Kieran Flanagan
+
+Then no code actually helped you to do some of that without actually needing to actual code. But you had to learn how to do all these kind of tools. Now, hey, I kind of like you to just learn English language and be able to like, build and customize things. And I think deep down the best marketers like how do you get an edge over the other marketers?
+
+00:08:21:05 - 00:08:35:12
+
+Kieran Flanagan
+
+It's really hard today. Like most marketers are experience like SAS is not a new thing. Technology is not a new thing. The thing that I still think you can get an edge on is like how quickly you can adapt new tools, how quickly you can adapt these custom tools before they become universal, before they become really, really popular.
+
+00:08:35:12 - 00:09:00:19
+
+Kieran Flanagan
+
+And if you could be at the bleeding edge of like integrating these tools, customizing these tools, making your go to market much, much better because you build something custom for your audience. That to me is still like something that you have. You know, certain marketers have the unique advantage on me personally, like I was playing with I'm like, I'm doing stuff that I would have always loved to have done, but I didn't think I was like, very good at it, which is like downloading repos from GitHub, running things on my laptop, having I fix bugs for me.
+
+00:09:00:19 - 00:09:09:19
+
+Kieran Flanagan
+
+Like I, I've been running all the kind of new API I different agents have, like someone who can assist me, like fixing things where like previously it was like really hard to do that.
+
+00:09:09:19 - 00:09:27:05
+
+Andrew Davies
+
+So let's stay on the topic of marketers and I for a second. I love the conversation between you and Patrick on the three types of marketers and how they survive. I So I think you had lazy copy and paste marketers proactive copy and paste marketers and original thinkers talk us through, you know, how you see each of those different groups face the wave.
+
+00:09:27:05 - 00:09:45:02
+
+Kieran Flanagan
+
+So to go through that kind of there's categories like the lazy copy and paste marketer is like, read something, replicate it for my company, but I replicate it really badly. Most like even great marketers are in that second bucket, which is like proactively replicate things but customize it for my business. And then you have the original thinkers who wrote the post to begin with, right?
+
+00:09:45:05 - 00:09:59:16
+
+Kieran Flanagan
+
+They actually wrote the post that everyone else is like copying from that. They are very far a few in between. And again, the thing I always point to is this is not ten years ago, like the internet has been around for some time, marketing online has been around for some time. All of the channels that we kind of live in have been around for some time.
+
+00:09:59:16 - 00:10:16:05
+
+Kieran Flanagan
+
+People are just getting better and better at their jobs. And so actually being an original thinker is much harder than it used to be. That's just like harder to come up with things that have not been done before. So everyone kind of gets pushed into that second bucket. I think if you look at what A.I. does, the first bucket, which is the lazy copy and paste marketer, they just get blown away, right?
+
+00:10:16:05 - 00:10:33:23
+
+Kieran Flanagan
+
+Like you, I can actually do lazy in copy and paste through A.I. tools, right? I don't actually need you to do that. And so you have like one marketer can do many marketers lazy and copy and paste job. The middle bucket I think becomes much more saturated much, much quicker, which is like, I can take something now and then I can use a to customize it really quickly for my business.
+
+00:10:33:23 - 00:10:51:21
+
+Kieran Flanagan
+
+And so what does that actually mean for a marketer? I think historically, if you were the first person to take something replicated and customized for your business, you're in that fast follower group and you have this huge advantage before everyone else catches up with the timeline between the laggards in marketing and you being in that fast follower, a more proactive bucket was quite high.
+
+00:10:51:21 - 00:11:08:23
+
+Kieran Flanagan
+
+Like you have maybe 12 months, maybe 24 months before everyone starts to they commoditize that thing. I think I commoditized things much faster, like I've seen it. I've seen some really cool outreach programs someone showed me and then like an AI agent can actually go do that and everyone is doing the same thing. And then everyone's like, Well, this isn't you.
+
+00:11:08:23 - 00:11:27:23
+
+Kieran Flanagan
+
+I'm not going to react to it because I've seen it the million times. And so I think the middle bucket gets bigger but gets saturated much, much faster and gets much more diluted in terms of like impact. There's still always going to be a place for original thinkers, like original thinkers of the people who can take the AI technology and really think about how I customize it and do unique things for my audience.
+
+00:11:27:23 - 00:11:36:23
+
+Kieran Flanagan
+
+And I think that's going to really skew towards the creative thinkers who are now able to take those creative thoughts and build something really awesome for their customers, for their go to market experience.
+
+00:11:37:01 - 00:11:50:12
+
+Andrew Davies
+
+Let's go to the other side of the conversation from the marketers, the buyer. In a world where I can spew out perfectly customized or personalized messages for thousands of people at the same time, you know, how does this affect the buying process? And is the world of outbound selling dead?
+
+00:11:50:14 - 00:12:10:04
+
+Kieran Flanagan
+
+This is a good one to like noodle on or like debate. You know, it could be that we actually revert back to things that seem outdated or antiquated because we went from very like human to human purchasing. B, which is expensive. And then digital allowed us to like programmatically scale Many of those things that make them much more touchless.
+
+00:12:10:06 - 00:12:42:23
+
+Kieran Flanagan
+
+Air is going to make those things ubiquitous, right? So everyone's going to market well in terms of like digital will look and feel the same. I think it's going to look really easy for someone to have like a great buying experience online from the personalized open emails to the personalized chat to the website, customizing itself around the data its collected on you to you being able to like go buy that thing, touch a sleeve by going back and forth at an agent age and asking the questions, getting all your questions answered, likely to the buying the software and having the agent customize it for your needs, like even being able to like customize the settings
+
+00:12:43:00 - 00:13:01:10
+
+Kieran Flanagan
+
+of that, provide you custom onboarding material. All of that stuff will be done through AI, which means like everyone probably has a very good experience. And so how do you differentiate in those things? And maybe it's like we have to go back to people will be craven to like, interact with humans. Like I actually want to talk to a human, I actually want to spend some time to it, to a human.
+
+00:13:01:10 - 00:13:24:20
+
+Kieran Flanagan
+
+So I think the buyer expectations will go will only get higher. The experience that I expect from a company is going to get higher. Like I'm not going to forgive a company for having a really subpar buy an experience. But I do wonder, like how interactions with people during that buy an experience will it will be valued. Because I think for a lot of us it seems like heaven to actually be able to buy things and never talk to a human.
+
+00:13:24:20 - 00:13:30:00
+
+Kieran Flanagan
+
+But I just don't know if that's reality or not, right? I don't know. That's the way we're going to feel when that actually happens.
+
+00:13:30:00 - 00:13:45:13
+
+Andrew Davies
+
+On that, as marketers, I think we're all delighting in the fact we're going to automate some more customized and valuable experiences on the other side of the fence. Like what are some experiences you point to where, you know it's automated at, it's auto generated for you, but you've actually appreciated and enjoyed that.
+
+00:13:45:16 - 00:13:58:12
+
+Kieran Flanagan
+
+I think this is a really good question, right? Like when you know something personalized for you, buy a machine, do you actually think it's personalized that you feel like it's personal to you? You don't. I really don't think you do. I always tell Patrick this like Patrick Campbell, the commander who has been on my part a couple of times.
+
+00:13:58:12 - 00:14:16:03
+
+Kieran Flanagan
+
+I was love his emails from like I always love his emails. The I always like because I know him, right? And I always go to like reply to them like, jeez, like I always say these are automated emails. And so in that case, like, I think when people understand that these things are being automated for them, like what do people appreciate about the personal touch?
+
+00:14:16:03 - 00:14:36:11
+
+Kieran Flanagan
+
+They appreciate the personal touch, They appreciate that you actually spent some time and effort to truly understand them and create something that is meaningful for them. Right? To a certain extent. Like, you know, they don't expect you to go and like handcraft an email and like, you know, spend hours and hours and hours. There's a certain amount of value they attach to you spending some time to try to deliver them a really great experience.
+
+00:14:36:11 - 00:14:55:20
+
+Kieran Flanagan
+
+So we have to ask ourselves is everybody is able to get those personalized experiences, whether they're through email or chat or web or offsite, and everyone kind of understands it's being done by an ad machine. I don't know if people value them as much, which comes back to why I think the digital go to market experience could be very commoditized.
+
+00:14:55:20 - 00:15:11:12
+
+Kieran Flanagan
+
+And what actually could be valuable is how you integrate that personal touch in other ways, whether it's through your community, whether it's through some sort of customer account management or customer success. Like I don't actually know what it is. I'd be lying if I knew what it is, but I don't know. I'd be interested in your thought, which is like, it's a really good question.
+
+00:15:11:13 - 00:15:22:20
+
+Kieran Flanagan
+
+Like, has there ever been something that you've gotten that's personalized that you know is through a automated experience, through code and then saw like, Wow, I feel like super special because you went to the effort of doing this. For me.
+
+00:15:22:20 - 00:15:38:23
+
+Andrew Davies
+
+It feels like in the maturity of marketing automation, whether it's even with DM gifting and a whole bunch of other stuff with people mimicking handwriting at scale for that kind of outreach that's personalized, it feels like what we're playing on so often is people not understanding that we've got a tool that's one click ahead of what their recognition is.
+
+00:15:38:23 - 00:15:48:08
+
+Andrew Davies
+
+And yet the mass adoption of Jedi raises the level of understanding of what's going on behind the scenes in a way that, you know, the Comodo is opening in a way that it perhaps hasn't done before in certain other areas.
+
+00:15:48:10 - 00:16:03:20
+
+Kieran Flanagan
+
+Yeah, I do like and again, I argue I'll argue against myself a little bit like do I that let's take the actually handwritten notes because I think that that's a really good example where there's these companies where you can have marketing automation workflow set up and trigger a handwritten note and it goes to that person and feels very personal.
+
+00:16:03:20 - 00:16:22:23
+
+Kieran Flanagan
+
+And so the question would be if that person reads that note and knows that that was created through like this automated function, that you had no real interaction with other than setting up the workflow. Do I feel like you've taken the time to like, really do something for me? So I think you get some level of dopamine hit because you've taken the time to probably at least you've taken the time to like handwrite a note in an automated fashion.
+
+00:16:22:23 - 00:16:38:09
+
+Kieran Flanagan
+
+That speaks to me, right? So you've tried to understand me as a customer content have been able to write and communicate is a skill that is only going to increase in value over time if it's not already the most important thing. I think it is like the only the most potent skill to learn is going to continue to be the most potent cell to learn with.
+
+00:16:38:11 - 00:16:53:20
+
+Kieran Flanagan
+
+I still like how you craft the message and how you can actually elicit emotions from someone through the written word, but still matter. But I just think that the dopamine hit you get or the, you know, the feeling of like being important that you get probably diminishes over time because now you've got instead of like one company figuring it out and send you an handcraft note.
+
+00:16:53:20 - 00:17:07:06
+
+Kieran Flanagan
+
+50 companies have sent you like this amazing handcraft. You're like, Oh, the first one is cool, the second is fine. The third one, they're like, Jesus sending me handcrafted, like handwritten notes. Right? I know, I know. You're all doing right. And I think that's the thing is when you populate, when you commoditize something, you just doesn't feel the same.
+
+00:17:07:06 - 00:17:21:10
+
+Andrew Davies
+
+Coming back to your three categories of marketers, I think the question that will be in a bunch of listeners minds, whether they're marketers or whether they're founders, is how do I become that original thinker? So what's your tasks? An insight do you put in front of people of how they can improve their own thinking and their own writing?
+
+00:17:21:10 - 00:17:42:07
+
+Kieran Flanagan
+
+Like original thinkers? I actually debated this with Kip recently. Was the CEO of HubSpot. I don't know if there's anything you can do. I think trying to like I don't know how you make someone a better original thinker. Like I was trying to figure out. I was sitting there yesterday for hours trying to come up with a new post and something that I wanted to do and I was like, How do I have some like a real And it's like in a space that's really commoditized.
+
+00:17:42:09 - 00:17:57:15
+
+Kieran Flanagan
+
+And I was trying to how do I have a I always like to try to think of like original thoughts or something someone hasn't said before, and it's a pretty hard thing to manufacture. Like I didn't get anywhere. But then I would be walking my dogs or doing something random that would come to me, right? Like it seems that like the original thoughts.
+
+00:17:57:15 - 00:18:12:21
+
+Kieran Flanagan
+
+I think you can be inspired by other you can. I think if you consume the right things and you spend enough time with the right people, they can elicit those thoughts from you. But I think certain people are just better than it than others. Like, I think there are there is the original thinkers, and they're just better than that than the others.
+
+00:18:12:21 - 00:18:34:17
+
+Kieran Flanagan
+
+And I've seen it up close, like I've seen people who are very good original thinkers. And I could have like reverse engineer how they do that. I can reverse engineer why people are the proactive replicators, like people who are just like really quick taking something, customizing it and being able to replicate it. I think they're incredibly valuable. That's actually what most companies, they're they're the people that are making most companies successful today.
+
+00:18:34:21 - 00:18:51:00
+
+Kieran Flanagan
+
+The people who can actually do that, the original thinkers, I think, are just these they just have that extra spark to go from like the they need to have that extra spark, to take that leap to do something that no one has ever thought is. I also think that they have the ability not to be Part of it is like they're just not scared to fail.
+
+00:18:51:01 - 00:19:06:23
+
+Kieran Flanagan
+
+Like they're they have way more confidence to do something. They're not scared to fail. But I don't know how easy it is to reverse engineer that. I think right is a good example, like the difference between someone who has who writes a book and makes someone change the way they feel about something and someone who writes really well.
+
+00:19:07:01 - 00:19:18:03
+
+Kieran Flanagan
+
+But it's something you've heard many times before, but maybe makes you feel like, Oh, I didn't understand that as well. Known as an all the better. Like it's pretty that gap is I think is pretty large and I don't know how you actually close that gap or help someone close that gap.
+
+00:19:18:03 - 00:19:36:02
+
+Andrew Davies
+
+A bunch of the CMO's I know who have got kind of outbound enterprise type motions are all asking the questions on how they automate their video function. So before we move to PLG, let's stop on kind of the sales assist or sales led go to market approach. How are you thinking about that? How are you advising people about reinventing in this new world?
+
+00:19:36:02 - 00:19:38:21
+
+Andrew Davies
+
+They're they're BTR, SDR teams and they go to market.
+
+00:19:38:22 - 00:19:59:09
+
+Kieran Flanagan
+
+For the most part. If we step through like what are the things that people feel they can automate today that they had not been able to automate 6 to 12 months ago? Like I think on the qualification part, there's nothing new. They're like, we were always able to like find signals within product, find signals within website, interact like find signals and a mix of that and engagement.
+
+00:19:59:09 - 00:20:14:15
+
+Kieran Flanagan
+
+For the most part, what I've seen people want to automate away is the personal, like the message. And I like that actually. We can craft the outreach for you. Like there's a there's a company I invested in that's doing like really cool things where you can pull in some data on a person through their LinkedIn or something and it crafts a really good message for you.
+
+00:20:14:17 - 00:20:29:11
+
+Kieran Flanagan
+
+Much better than any sales rep would write, because they just wouldn't take they, they wouldn't have the time to write a thousand of those emails. They wouldn't. And the copies really go to like a lot of sales reps are just not good at writing that outreach part, which is like it's personal to you, I think is something that most people are trying to automate.
+
+00:20:29:11 - 00:20:45:04
+
+Kieran Flanagan
+
+And what I'm trying to tell people, as we take that slice of that, there's a moment in time where that's going to work much, much better. Like I've seen it, I've seen companies who are getting like really good return rates on on that more personal email messaging in scale. But again, coming back to our conversation, when everyone does it, the results diminish over time.
+
+00:20:45:04 - 00:20:59:05
+
+Kieran Flanagan
+
+That's an example of like, I'll give you a good example where we're talking about this like replicate an original thinker. So that's an example of like someone who can replicate something really fast, like they can take new systems are on the bleeding edge of software, they can take existing playbooks and they can customize them with that new technology, right?
+
+00:20:59:05 - 00:21:14:06
+
+Kieran Flanagan
+
+They are like really valuable people. You have a certain amount of time before anyone else catches up to you because they're just not at the bleeding edge. They're not using the new software, they're not figuring out how to do it. The original thinker like G who who's over hyper partners was like growth partner for many companies. He's talked through this example for Ramp.
+
+00:21:14:06 - 00:21:32:23
+
+Kieran Flanagan
+
+He was in the podcast and he gave this example like he's a good example of an original thinker, right? He went through this process, would wrap his give this use case publicly where they did the outreach part, personalize, replicate proactively, be at the bleeding edge of technology. But they did some original thought where they look to see where someone's where this person had gone to college or CFOs and they look to see where this person got to college.
+
+00:21:32:23 - 00:21:55:02
+
+Kieran Flanagan
+
+Then they actually said, Hey, like I'd bet against your team. It's plain in the next week you want to take that free bet, right, to such like apparent original thought with bleed in that technology. Right? And that's like the difference between those two things. The other thing that I've seen people want to do is like the qualification in the company and then the the kind of triggered emails through A, B, R, And so again, it's all I don't know what you're seeing, but for me it's all of the personalized messaging.
+
+00:21:55:02 - 00:22:07:08
+
+Kieran Flanagan
+
+Like for the most part, when people say they want to replace their borders, it's like, I can qualify you better. I can get engagement rates better through an automated A.I. sequence than I can through like mass adoption of our, you know, mass usage of BTR.
+
+00:22:07:11 - 00:22:33:23
+
+Andrew Davies
+
+I agree with all of that. I guess the other thing that I think is interesting here, though, is when you've got the ability to automate a bunch of that functionality, the persona that you're reaching out from becomes really important. And in a world where, you know, creators are building, following, doing that all on behalf of the founder or our subject matter expert within the business feels a huge amount more productive than doing on behalf of a you know, may be fantastic, but early in their career BTR who's trying to learn the ropes.
+
+00:22:34:04 - 00:22:46:02
+
+Andrew Davies
+
+So there's also that persona piece of it of who's doing the outreach that I think is really interesting here that we've got to kind of understand, is it not the credible persona plus the automated outreach that gives the killer results rather than just one piece of or the other?
+
+00:22:46:05 - 00:23:04:06
+
+Kieran Flanagan
+
+Yeah, we the early days of HubSpot, we had Brian's name on everything At some point. Brian, I said, take us the name of everything because he was getting so many replies and emails people said and then like and so, and then again it comes back to like it's a, you know, there was a point then people realized this is from Brian like so again, there's just that part of it, which is what is there a value in that person knows that person.
+
+00:23:04:06 - 00:23:26:23
+
+Kieran Flanagan
+
+You know, the CEO is not really they understand how the the thing is being made. The other part that I've seen on the ACR front is like what I'm really good at is they can really see that they can really top scores for like really good calls because they can pull in information around an account and they can format it, articulate it, have talking points, pull data from like gong calls and just have like this incredible, like, here's your next call.
+
+00:23:26:23 - 00:23:32:10
+
+Kieran Flanagan
+
+Here's everything you need to know about this account that is like incredibly advantageous for a sales rep.
+
+00:23:32:10 - 00:23:48:00
+
+Andrew Davies
+
+And then the ability, as you've talked about so can think about micro products, how can that be pushed back as a auto created bit of value in some kind of experience, whether interactive or static, so that person could consume outside of a sales call as well, which I think is really interesting to see people experiment with?
+
+00:23:48:00 - 00:24:04:05
+
+Kieran Flanagan
+
+I think like we're all being like all knowledge workers are going be forced to be system builders, right? Like when you create one of these processes that you'll want to like systemize that, build it and scale it. And I think that is and if you think about A.I. is just another form of automation, and I think it's going to make automation a must have skill for knowledge workers.
+
+00:24:04:06 - 00:24:11:05
+
+Kieran Flanagan
+
+I think the two most important skills for knowledge workers in the future are understand how you could automate much more of your job and creative ways. And right.
+
+00:24:11:09 - 00:24:31:03
+
+Andrew Davies
+
+So before we do a hard switch to a couple of other topics, there'll be a bunch of early stage founders listening to this who haven't yet built out their go to markets. Then the enviable position of having a clean slate with all of these new tools at their fingertips. A new traditional practice two years ago, three years ago, five years ago would have been, okay, you know, we need to get a marketing person, you know, a growth person and hire a pair of builders and go from there.
+
+00:24:31:03 - 00:24:45:03
+
+Andrew Davies
+
+What would your advice be to someone who's maybe got, you know, a little bit of a demotion, but is trying to build an outbound sales team on top using all of the tools available? Are they hiring anyone at all? Who are they hiring and how do they think about building out that go to market organization?
+
+00:24:45:05 - 00:25:14:09
+
+Kieran Flanagan
+
+I think there's force. This is a sweeping generalization. There are four stages of a P&G business for the most part of you. If you're a true like bottoms up P&G business. And so you have your initial PLG self-serve business, and that business is marketed to end users and users can adopt, buy and use the product. And for hopefully if you're like a successful PLG business that goes really well and you build momentum and you start to like really scale that business, the next part as you start to invest in inbound direct sales.
+
+00:25:14:09 - 00:25:40:04
+
+Kieran Flanagan
+
+And that that to me is like, okay, well, we have all of this self-serve demand. It's working really well. People are coming in. They want to use product. They they use a product, they activate. We get them on site to the value and then they upgrade. But there's if we just product contact sales there in chat there, there's going to be some end on demand because there's certain people you just want to talk to a human and they have some questions about maybe their your questions about your pro plan, your enterprise plan, and then we can actually close them for the most part, that isn't like a traditional SDR team.
+
+00:25:40:04 - 00:26:05:20
+
+Kieran Flanagan
+
+It's like a BTR team. It can be an we called at have solid an invite success coach team. It's like more of a quick high velocity deal. It's not that you are now I decided I'm going to start to move up the market. It's just like I'm going to service the demand that's there, that's already there, but that actually wants to interact with someone that the thing to watch out for is because you're applying human capital, you would want to either close that really fast or see the average contract value higher than the self-serve business, or it's going to be hard to like make the math work.
+
+00:26:05:20 - 00:26:19:13
+
+Kieran Flanagan
+
+But I think I think in terms of that, you can automate a bunch of the stuff in chat, you could automate a bunch of the email that goes out to them when they when they hit the contact sales form. But you still may actually have to have some amount of calls because there's questions that can just be answered by a person.
+
+00:26:19:13 - 00:26:35:00
+
+Kieran Flanagan
+
+Get them on a call close, get them on to the pro and enterprise plans. So that's so we've gone through the end user self-serve. Now we're still the end user for the most part. Inbound direct sales, maybe sell into some more teams there. And then we layer on product LED sales. And product sales is really just expansion, right?
+
+00:26:35:00 - 00:26:51:03
+
+Kieran Flanagan
+
+Like it's like, okay, well I have an existing user base. I'm building these kind of like enterprise features, which really just means that it's so safe that I can consolidate the I can consolidate the plan onto this platform like me, the IT person. You have all the things I want. So now I would just consolidate and use your enterprise plan.
+
+00:26:51:03 - 00:27:09:14
+
+Kieran Flanagan
+
+And again, I'm not purposely I'm not building an enterprise product, but I'm doing the IT features so you can consolidate all of these users onto a singular account. And that product led sales motion is just like, how do I get expansion through my existing user base? And that then starts to look much more like a kind of it's not like an SDR Open team, but it's like more like a product led sales team.
+
+00:27:09:14 - 00:27:23:10
+
+Kieran Flanagan
+
+And I'm using my product signals to build protocol side leads, product qualified accounts. I'm looking for the signals to be able to say this is a great account. They've got multiple users, here's how we sell them. We can sell them a team plans or we can consolidate everything to our enterprise plan and we try to make that work.
+
+00:27:23:10 - 00:27:44:23
+
+Kieran Flanagan
+
+And I think in terms of there that if a founders got the they feel very good about the end user, they've got the end brand direct sales motion, then they move on to the product like sales motion. I think that you still need to have some version of a sales team, but it not it is not your traditional top down sales team because they are selling into existing customers, they are selling into existing users, they are selling into existing accounts.
+
+00:27:44:23 - 00:27:59:03
+
+Kieran Flanagan
+
+And so you need to have a team that I think is separate from what you'll need to do when you need to build an up a top down sales motion so you can call in there, start our team. But I think people get confused that like a top down sales team and a product, that sales team are just the same thing and they're not.
+
+00:27:59:03 - 00:28:15:06
+
+Kieran Flanagan
+
+It's like a different motion and that's a different thing to actually learn how to do. And I think when you've got that working really well and again within there, there's like a bunch of things we can do with A.I. that we were not able to do in the past, that, you know, the qualification, the outreach, the personalized emails, like all of those things do get better with AI.
+
+00:28:15:06 - 00:28:36:06
+
+Kieran Flanagan
+
+And then the last thing will companies do is okay, like we have some meaningful momentum here. We're starting to get dragged out of market through this product like sales motion that's build a real enterprise SKU, go after the enterprise market and try to displace whoever's out market. And then you have your like traditional top down sales motion. And now you do need you're like SDR and you need your, you know, all of the things you would expect to build in that top down south motion.
+
+00:28:36:06 - 00:29:04:09
+
+Kieran Flanagan
+
+I think we're P&G businesses, so there's lots of places you can go wrong. But I think what I've seen, even with our expansion in HubSpot, we started orderly with a top down motion in some ways and then like built into the PLG Motion for Investors Motion. But those, those two things aren't the same. So when I spent a lot of time with founders or and the companies I do advisory work for, or just in general spending time with people who are in PLG, I feel like they misconstrue those two things, like part of that sells and that I've done I heart of VP sales.
+
+00:29:04:09 - 00:29:10:14
+
+Kieran Flanagan
+
+They've done top down sales. They're just come in and make this product, that sales thing work. And it's actually pretty different there. It's like somewhat different from each other.
+
+00:29:10:14 - 00:29:26:05
+
+Andrew Davies
+
+So let's just extend that a bit further because I've heard you also talk a little bit about switchable PLG businesses. And you know, there's often PLG businesses that want to do the we're going upmarket market and we're going downmarket at the same time a few of those two fronts can be really hard. I think the Dropbox example is one the views this instructive.
+
+00:29:26:05 - 00:29:31:22
+
+Andrew Davies
+
+So talk to us a bit about the switchable businesses and how you can be equitable businesses and how you can be switchable.
+
+00:29:31:22 - 00:29:49:15
+
+Kieran Flanagan
+
+Yeah, I think what happens though, like if you go through if we go through like the what I what the thing I just went through, which is like hey, the end user to the end brand inbound direct sales to the peak product that sells to the top down motion, which is like a true enterprise motion. And so what happens is you have a company that has a core user base and that is basically will offset and that's bottoms up, right?
+
+00:29:49:15 - 00:30:05:16
+
+Kieran Flanagan
+
+And so that bottoms up motion has got you a ton attraction and you're doing really well, but your average contract value is lower than you want. You know, if you want to keep growing at 35%, that average contract value is too low. Churn a contraction is a problem. And actually the market is starting to be saturated in some ways.
+
+00:30:05:16 - 00:30:22:10
+
+Kieran Flanagan
+
+Right. Like you've you've grown extensively, whereas all these users are using your product and it just gets harder and harder to grow. And so you start to say, well, what I'll do is I'll start to move up market. So first of all, I think where a lot of businesses go wrong, as I on misunderstand the product that sales and the true enterprise type of emotion.
+
+00:30:22:10 - 00:30:38:20
+
+Kieran Flanagan
+
+But let's just say this company has not. So this company is like okay well I'm going to continue to grow my base and now I'm going to try to move upmarket. And so the typical problem that you see in PLG businesses is, first of all, the end users and the buyer for your enterprise SKU are totally disconnected, right?
+
+00:30:38:21 - 00:30:58:09
+
+Kieran Flanagan
+
+You're like, Well, I have all these users using the product, but the person who actually has to buy the enterprise skewed, they're not one of the same people. And that person who has to buy your enterprise SKU is actually not even using your product, right? They're not in there using the product. They don't see the value. And you're also just not an integral part of their tech stack, like you're actually not an integral part of the tech stack.
+
+00:30:58:09 - 00:31:24:13
+
+Kieran Flanagan
+
+And so it's harder to sell that enterprise deal. But you're starting out like it's you're you're running into that problem, right? You're you've actually miscalculated that actually that enterprise leap is way harder than you thought because you have to have an entire SKU for that person and it has to make sense for that enterprise buyer. Right. And at the same time that you have kind of miscalculated how hard that is to do that leap between those two things you have the lower end of the market being commoditized because it capitalism is incredibly efficient.
+
+00:31:24:13 - 00:31:42:02
+
+Kieran Flanagan
+
+And now all of these new players have seen that you've done really well and are coming in to replicate some of your features, not all of them, because you're trying to build more clear going up market and they're trying to displace you in price, I'm sure. Like why? Like we're losing the thing we were synonymous with at the lower end of the market and we're trying to like move off market.
+
+00:31:42:02 - 00:32:01:16
+
+Kieran Flanagan
+
+And we've kind of miscalculated the fact that even though we have all of these users and companies using the product, the leap between that and sell into this enterprise buyer is like far higher than we thought. Like the product is not there. We don't have the right enterprise SKU, we don't have the right sales pitch. And there's like an incumbent, an incumbent up there who's totally focused on that buyer, like they've been focused from day one.
+
+00:32:01:16 - 00:32:27:13
+
+Kieran Flanagan
+
+The example I use is like Dropbox. And you know, I don't mean to pick on Dropbox. I think they're an incredible company, but it's a really good example where they had incredible momentum. And one of the poster child for many users in companies using product executive buyer was much more i.t related and box specifically built for that i.t buyer and they branded themselves there and more kind of enterprise features got a foothold in there.
+
+00:32:27:13 - 00:32:43:11
+
+Kieran Flanagan
+
+And then at the lower end you had like lots of companies add dropbox features like Google, all these companies added dropbox features and start to commoditize and at the lower end and then it's hard for them not to get squished in the middle. Right? I'm getting blocked out going up market because I miscalculated how big that leap is.
+
+00:32:43:16 - 00:33:02:05
+
+Kieran Flanagan
+
+I don't get commoditized at the lower end and now I'm going to squish the what do I do? Do I try to go back down and like make sure I solidify my place here? Do I keep going up market and stretch my resources? I'm trying to like do two different my go to market segment fragmented like my enterprise go to market is disconnected from my core go to market because that leap is higher and I'm selling to a new buyer.
+
+00:33:02:10 - 00:33:05:02
+
+Kieran Flanagan
+
+It's a really hard magic trick to pull off.
+
+00:33:05:02 - 00:33:29:08
+
+Andrew Davies
+
+Let's take one more hard switch. Jumping on the Dropbox theme. So I noticed that L.A. know who will be a friend of both of ours has just jumped in a dropbox as their head of growth as interim. Yeah, cool to see what she's going to be doing at that business. And I also know, you know, I think she's released the first couple of episodes, but she has been doing a whole bunch of air generated podcasts and conversations where know completely auto generated from her back catalog coming up with new topics.
+
+00:33:29:08 - 00:33:47:21
+
+Andrew Davies
+
+One area of expertise for you is is on the media side. You know, you're part of a media purchase that HubSpot clearly got a big following across multiple channel channels as well yourself personally. So in a world where there are a huge number of launches with audience plus what Anthony is doing are people building on that platform with Elliott Auto generating content?
+
+00:33:48:00 - 00:33:54:13
+
+Andrew Davies
+
+What is the future for businesses that are building a strategy that involves media? What does that look like in today's world?
+
+00:33:54:18 - 00:34:23:20
+
+Kieran Flanagan
+
+I've always thought that creators I think creators will beat brands. I think the media landscape will look much more creator led than it looks brand led. If you look at all of the channels that have grown over the past five years or so, they favor creators for the most part, not brands. If you look at creators, we're seen like creators build audience, then launch businesses or launch VC firms or do what the Logan Brothers are doing and become like wrestling phenomenons and boxing phenomenons.
+
+00:34:23:20 - 00:34:41:23
+
+Kieran Flanagan
+
+Like we're just seeing this whole other way to build audience and monetize our audience. The reason that we built, we acquired a media company like it. People really got the Hustle acquisition wrong. The external perspective was perception was we did it for leads. We did not do it for leads, like there was no need for us to like buy the company.
+
+00:34:41:23 - 00:35:02:22
+
+Kieran Flanagan
+
+We generated a lot of leads. We wanted the media talent. We wanted to have like a true media presence. And that to me means that you have people who are much more a creator led or incredible content creators. The reason we launched the Creator network on HubSpot was because we wanted to be aligned with all of the best creators, because we believe creators will actually run content in media in the future.
+
+00:35:02:22 - 00:35:24:17
+
+Kieran Flanagan
+
+And I think A.I. is going to accelerate this because AI is going to cause people what's going to get commoditized first, all the informational, educational content, you know, most brands have, especially in tech, have like that's what they've leaned into to build audience. And I think in the future, the thing that is going to be required to like, build and sustain audience is personality, personality and original thoughts.
+
+00:35:24:20 - 00:35:46:21
+
+Kieran Flanagan
+
+Brands not good at that because brands, when they sit in the middle and be safe, I think creators will for the most part, start to crush brands in all spaces in terms of content. And then it's going to be up to brands about how they either integrate creators into the company, partner with creators, make careers part of how they actually do content like Patrick, who is Wattpad like he, you know, he's a founder slash creator, right?
+
+00:35:46:21 - 00:36:05:13
+
+Kieran Flanagan
+
+Like that to me is the profile of, you know, obviously he's a fine I think Patrick's going to go work in a content too, any time soon because he's done pretty well for himself. But like he's the archetype of like the person that you would want to have in a SAS business doing content, which is this perfect blend of truly understands the business and has like a creator mindset.
+
+00:36:05:13 - 00:36:08:15
+
+Kieran Flanagan
+
+And that's the person I would be trying to hire if I, if I could wholeheartedly agree.
+
+00:36:08:15 - 00:36:27:16
+
+Andrew Davies
+
+And as someone who, you know, has been driving my 11 year and my nine year old son around to multiple spa shops to make sure he has the latest prime drink, you know, I'm a big believer that these creators carry huge influence. So. So how are you thinking about this for Zapier? Like, how are you inspiring, partnering with your own team to help them become creators and then creators in your kind of deep marketplace?
+
+00:36:27:16 - 00:36:47:08
+
+Kieran Flanagan
+
+Yeah, we already work with a ton of influencers who use app here to do things within their business. Like most of our best performing videos are around some of some of the kind of influential people who are showcasing Zapier in terms of AI and we actually help promote and accelerate their content. So we find creators who are doing like really cool things that Zapier will actually ask them to create videos.
+
+00:36:47:12 - 00:37:06:19
+
+Kieran Flanagan
+
+We'll put it into our paid to advertise and would try to accelerate engagement on that. We are going to invest much more in video like I truly believe video is the medium for brands in the future. I think text again, because educational content will get very commoditized. I think text itself might get very commoditized and also search engines are changing drastically.
+
+00:37:06:19 - 00:37:28:12
+
+Kieran Flanagan
+
+So to me, video is like a great place to try to excel and bring to life people within the company. The company in itself. And so we're going to invest much more in video. And I think part of investing in video is like how we partner with creators and how we actually live on these platforms. Like people like every SAS and Zapier has been the same, but it has not focused on and we haven't focused on video really at all.
+
+00:37:28:12 - 00:37:42:22
+
+Kieran Flanagan
+
+But like all SAS brands, like if you just like look at just YouTube as a microcosm for what happens in terms of content for us, aspirin's a go to any SAS brand and look at their YouTube channel. It's basically just take content from teams, change title types and thumbnail, put content on YouTube. That's how you win in the future.
+
+00:37:43:01 - 00:37:59:16
+
+Kieran Flanagan
+
+You actually have to have a YouTube channel that can stand up against other YouTube channels. Your competitors on YouTube are the YouTube channels, right? And so you need to have like a cool angle. You need to have something that's differentiated, you need that personality. You need to have like engage in things, fun things. And I think that's the skill set to learn is like, how can I live and be relevant on these channels?
+
+00:37:59:17 - 00:38:21:22
+
+Andrew Davies
+
+Final question, Kieran. We've run through a huge amount of conversation here that is going to be super valuable for the audience and I'm sure this one's not too hard for you. A lot of what we talked about is about how the commoditization of content via AI is going to raise the bar about how automation in our outbound and out policy functions is going to raise the bar about how media and the production of that is going to raise the bar of expecting action.
+
+00:38:21:23 - 00:38:40:05
+
+Andrew Davies
+
+And you've mentioned a few things there on one, click ahead on how people can get ahead. What's the second click like when everybody is doing exactly what you said and they've got creators, They're now original thinkers. They're producing a video channel on YouTube that rivals other YouTube channels. Where do you see this going in a couple of years time when everyone is fast followed up to that?
+
+00:38:40:05 - 00:38:57:05
+
+Kieran Flanagan
+
+I don't know. Like I'm trying to I actually would be lying. Like, I don't know, like I'm trying to figure that out myself because I'm don't know if you feel the same thing, but like, it definitely feels everything is changing. Like even just technology. Like how does a SAS brand not get commoditized of an I can make the brand the product itself somewhat irrelevant.
+
+00:38:57:05 - 00:39:17:11
+
+Kieran Flanagan
+
+Like if you see some of these companies who have added AI layers on top of software that, you can use this software without ever having to use the software. And how does that impact all of us? Because then it doesn't really matter what the brand is or the product is user can go to air and say, I want to do these things and I can go and figure out how to sign up to the software and automate that stuff and do that stuff for you.
+
+00:39:17:11 - 00:39:38:05
+
+Kieran Flanagan
+
+I think that you can imagine a future where your tech stock is like customized to you, like much more customized to you. You're not trying to stitch together out of the box software. You can just like create something much more custom explicitly for your needs. And so I think the way I think about this is like, first of all, you to be like, it's a time I think that there's these times where things are changing and the people who's who really do well are super passionate about change.
+
+00:39:38:05 - 00:39:52:22
+
+Kieran Flanagan
+
+They thrive in chaos. So I think working for a brand where there is there's ability like to push yourself like you're working in a brand who wants to to do like who is like open for you to do the new things, to try to do things, who want more people of that type who are not looking for the steady, steady state type.
+
+00:39:52:22 - 00:40:10:07
+
+Kieran Flanagan
+
+Like, I think there's been times in SAS where the steady state has been really good because there's, you know, that that's working and that's what everyone is doing. And now we're in a time where I think it suits the people who are much more forward thinking, chaotic, willing to try things. And I think trying to decide which one of those you are will probably be help you like deal emotionally with what's going on.
+
+00:40:10:07 - 00:40:26:06
+
+Kieran Flanagan
+
+Because I think it's I think it's like the chaotic time, the forward thinking time, the try thing time. That's the time I love. I'm just I actually get like very weird in times where a steady state I don't deal with it well. I kind of like I end up starting like 100 different personal projects because I feel like I'm not trying new things.
+
+00:40:26:06 - 00:40:42:12
+
+Kieran Flanagan
+
+And so I actually thrive in the in this time. And so I think if you are one of these people who want to that make sure that you align yourself with people who are like trying new things, you can idea idea to off and then actually work in a company where that behavior is kind of encouraged.
+
+00:40:42:14 - 00:41:01:10
+
+Ben Hillman
+
+Shout out to Kieran for being on the show today. We talked about challenges in upgrading products, automation in tech stacks, the future of content, the role of creators and modern marketing, and adapting to change in the SAS landscape. Make sure to give Protect the Hustle a five star review and tell us what lesson from today's episode was your favorite.
+
+00:41:01:11 - 00:41:09:03
+
+Ben Hillman
+
+Thanks for listening. Subscribe to and tell your friends about Protect the Hustle, a podcast from Battle Studios dedicated to helping you build better SAS.

@@ -1,0 +1,554 @@
+# #57 NfX: A masterclass on network effects and investing in network effect businesses with Co-Founder and General Partner James Currier.
+
+> **“Every company is its own work of art, and the founder is the artist.”** – James Currier
+
+James Currier ([@JamesCurrier](https://twitter.com/JamesCurrier)) is General Partner of [NFX](https://www.nfx.com/), an early stage VC firm with a focus on startups with potential for network effects. Before founding NFX, James co-founded four successful companies: Tickle (acquired by [Monster](https://www.monster.com/)), Wonderhill (merged with [Kabam](https://kabam.com/)), IronPearl (acquired by [PayPal](https://www.paypal.com/)), and Jiff (merged with [Castlight](https://www.castlighthealth.com/)).
+
+## Chapters
+
+*   James’ background and journey to NFX
+*   Defining network effects and why they are so powerful
+*   Virality vs. network effects
+*   Examples of businesses with network effects
+*   Tweaking rules and systems to take advantage of network effects
+*   Networks effects as a business strategy
+*   Investing in network effects businesses
+*   Advice for founders
+
+## Dive Deeper  
+
+[**What Are Network Effects?**](https://online.hbs.edu/blog/post/what-are-network-effects)
+
+Harvard Business School offers this introduction to network effects with examples and how they affect pricing and strategy.
+
+[The Network Effects Manual: 13 Different Network Effects](https://www.nfx.com/post/network-effects-manual/)
+
+NFX has put together a list of 13 (and counting) types of network effects and their playbooks.
+
+[**They Dynamics of Network Effects**](https://a16z.com/2018/12/13/network-effects-dynamics-in-practice/)
+
+Andreessen Horowitz has created a great summary of network effects and the three things to pay attention to in your own company to take advantage of network effects.
+
+[**Books about Network Effects**](https://twitter.com/andrewchen/status/1027751397293531137?lang=en)
+
+This Twitter thread from Andrew Chen is a crowdsourced list of books about products with network effects.
+
+[**Your Life is Driven by Network Effects**](https://www.nfx.com/post/your-life-network-effects/)
+
+James noted that this essay guided his own son’s choice of schools; it’s an excellent application of network effects into everyday life.
+
+## Transcript
+
+Daniel Scrivner:
+
+James Currier, it is amazing to have you on the show, so thank you so much for the time.
+
+James Currier:
+
+Oh, glad to be here.
+
+Daniel Scrivner:
+
+So I'm been excited for this episode for a really long time, because I feel like network effects is something that everyone knows on the surface or with some depth, but I don't think they're ever able to articulate it and they haven't spent as much time thinking about it as you have in the team at NFX. So we're going to spend much to the time talking about network effects and really digging into what that means and how it applies to businesses. But just to start, for anyone that doesn't know your background, can you give us a quick sketch of just your journey leading up to founding NFX?
+
+James Currier:
+
+Sure. So I grew up in the Boston area in Southern New Hampshire and \[inaudible 00:00:36\] and went off to \[inaudible 00:00:38\] Princeton and Harvard Business School on scholarship, all three times, and then worked at Battery Ventures as an associate, smiling and dialing, trying to sell Battery's money for equity to companies. Learned a lot about startups and the venture world there, and then started a company after business school called Tickle, which was one of the first AB testing consumer user generated content viral things on the internet. And we were about the 18th largest website in the world for a long time when no one cared about consumer internet after the crash. And we then sold to monster.com and we took our winnings and we started an incubator and we tried that model and we came up with three different venture back companies that came out of that, which did well. And then at the end of that realized that the way to go would be toward creating an investment vehicle like a venture firm or like an accelerator in targeting network effects businesses, because we'd had that insight.
+
+James Currier:
+
+And so that journey began in 2013 when we've had our first conference around network effects here in Palo Alto. And then in 2015, kicked off an accelerator. Did that for two and a half years and then kicked off the venture firm, NFX Capital in 2017 with 150 million fund and we invest in seed. So we invest anywhere from a $0.5 million to $3 million in very early stage companies to people in \[inaudible 00:01:56\] that sort of thing.
+
+Daniel Scrivner:
+
+And do you follow on or do later stage rounds at all?
+
+James Currier:
+
+Yes. So we keep half of the capital for follow-ons, and so yeah, we're with the teams. We don't always need to be on the boards, but we want to be the number one call. So at 11:00 at night when you're having a real problem, we want that call. That's the fun part for us.
+
+Daniel Scrivner:
+
+James is awake in waiting for your call.
+
+James Currier:
+
+Yes. Exactly.
+
+Daniel Scrivner:
+
+You had a fascinating story around selling to Monster in realizing that Monster was maybe not ideal in terms of how it was being run, but it was a powerful, profitable growing company because of network effects. Can you tell that story a little bit?
+
+James Currier:
+
+Yeah. So we had started a company that was doing psychological testing and social networking and matchmaking. We were doing a lot of different social media things between '99 and 2004. We had a 40 million business. We'd been profitable every month for three years, we were doing okay. But eventually we sold the business to Monster and they were a really horribly run company, actually. And we got in there and we're like, "Wow, this is amazing that they have $700 million of revenue and have a $7 billion market cap and it's just a cluster in here." And so we realized that the reason that it was doing so well was because they had this network effect between the employers and the employees. And so the more employers are there listing up their job postings, the more employees come to look at the job postings and post their resumes and the more resumes are there in the database, the more the employee years are going to want to come and put their job postings there.
+
+James Currier:
+
+And once they got that network effect going, which is now known as a two sided marketplace network effect, they were unstoppable. They could go to sleep, they could screw it up and it would still continue to produce great revenues. And that was when it dawned on us that, oh my God, why would you ever build a business without a network effect? And in fact, that company has subsequently gone through bankruptcy because their management was so bad and they're still doing, I don't know, about $700 million of revenue 10, 15 years later. It's incredibly durable.
+
+Daniel Scrivner:
+
+It sounds like that experience shined a light on just the power of network effects. And you talked about doing that accelerator and then moving to a fund. Do you still do the accelerator? And if not, I guess, would you learn from that phase of NFX?
+
+James Currier:
+
+We don't do the accelerator. We loved it. It was really fun to do and we made 80 investments in some very interesting companies and really got to know a lot of great entrepreneurs, but we think that it's just more scalable to do it as a venture firm. And we've had very good success since we've moved over. I think both worked out quite well. But it's interesting, once we realized there were network effects, we also realized that there was other defense abilities of the network effects. It's just that network effects were the most powerful of the defense abilities. And the three others that exist in the digital world are embedding, where you embed the software, like an Oracle embeds their software into your business and you can't rip it out so they can just charge you whatever they want. Another is just brand where once you're using Google or once you're going to Amazon, you're just going to go. And then the third is around scale. So if you get very big and you have lowest price and everyone's going to come to you. And this is sort of the traditional scale economics that we've known since the 1850s, since we had machinery.
+
+James Currier:
+
+But those are now not as powerful as the network effect ones. And as we went to do an accelerator, as we do a venture firm, we invest in companies with all of them, but we try to move the companies to have network effects because instead of building a billion dollar or $2 billion company with an embedding strategy, you can build a $10 billion or a $20 billion company with a network effect strategy.
+
+Daniel Scrivner:
+
+I mean, are there companies then that you look at that you just say, "I don't think there's a way to build network effects into this businesses or..."
+
+James Currier:
+
+Yeah. Yeah.
+
+Daniel Scrivner:
+
+Okay.
+
+James Currier:
+
+A lot of enterprise software is hard to build because the enterprises don't want any data share, they don't want any users share. They want their silos and they just don't want to share and so we don't always do a lot of enterprise. We'll do a lot of SaaS software for SMBs or we'll do payments SaaS software because you can build a network of recipients and payers into a network effect that gets more valuable over time. But straight up enterprise software, we don't do a \[inaudible 00:05:42\]
+
+Daniel Scrivner:
+
+NFX, the name of the firm is short for network effects, is that right?
+
+James Currier:
+
+That's right. That's right.
+
+Daniel Scrivner:
+
+Which I like. Was that domain name available? Did you have to buy that domain name?
+
+James Currier:
+
+We did. We found a professor actually on the East Coast who owned it, who wanted to use it for something around trading, international trading of currencies. And so we grabbed that from him and used it for network effects.
+
+Daniel Scrivner:
+
+So I want to move and dive pretty deep into network effects, but I felt like a good place to start would just be to talk about why network effects are so powerful. And as I was researching this, this is your chance to create and then add onto this. But the three things that I found were network effects helped create anti fragile, more durable businesses. They improved both customer, user acquisition and retention, which is really powerful, two ends of that funnel. And then the last one was, it seems like it skews outcomes towards power lock streams, meaning like winner take all winner, take most outcomes. To have that broadly right and I guess how would you add or refine that?
+
+James Currier:
+
+Directionally that's right. Let me refine that a little bit. The key to understanding network effects is it's mostly about retention. Can we build more viral effects on top of network effects businesses? Yes you can, but they're different playbooks. They're actually very different mindsets and different playbooks. And so network effects to understand them, you really just have to say, look, it's about retention. And basically there's retention because there's value. When you build a product you want to create value. And a lot of us think, well, I'm going to make this product that's going to have value. Hey, but what if you say I'm going to let other people use this so that those people add value to my other users, not just my product adding value to other users.
+
+James Currier:
+
+So Craigslist is a great example. This is a website that hasn't changed in 20 years and still it's a massive part of most cities' ecosystems because they only have one feature, and that one feature is that everyone is there. And it's not anything to do with the product that the team at Craigslist built, it's literally just that everyone's there. And so that's an extreme version of retention based on value created by other people being there, not by the product you built or the system or the data you have or whatever. And so I would focus us on realizing that it's where the power of network effects comes.
+
+James Currier:
+
+The other thing I would say is a lot of people think that network effects means it's a winner takes all market. Turns out that's just not true. In certain cases like Facebook and Google, that has been true. But even with Microsoft being as dominant and as sort of they had 96% of things back in the '90s, you still have Apple coming along and creating their network effect iOS platform and now they're worth $2 trillion twice as much as Microsoft.
+
+James Currier:
+
+So it's a winner takes a lot is the way I would put it. And when you look at things like Monster, you look at things like eBay and Craigslist and Amazon marketplace, you see a lot of different companies being able to compete with network effects in the same markets. And so it's a quick thing that the press says, it's winner takes all, but it's not really true. It's just winner takes a lot and winners can build multi-billion dollar companies pretty consistently if they hit those network effects, and that's what we as investors like.
+
+Daniel Scrivner:
+
+Sure. On that durability, anti fragility side, so that's maybe not the reason.
+
+James Currier:
+
+That is the reason. You were right. I didn't point out. The first thing you mentioned, the durability, the anti fragility, that is the reason. That's the main thing.
+
+Daniel Scrivner:
+
+Okay. That's the qualitative thing that network effects gets you. Makes sense.
+
+James Currier:
+
+Yeah. The way I put it is you go to sleep and you wake up in the morning and your business is stronger.
+
+Daniel Scrivner:
+
+Yeah. Which I don't think anyone doesn't want that in their business, any CEO. What would be your definition of a network effect, just to start there and see if that's different as well too?
+
+James Currier:
+
+It's that every new user of a product makes the product more valuable to all the other users.
+
+Daniel Scrivner:
+
+The existing users. So a new node in the network improves basically the network.
+
+James Currier:
+
+That's right. And you think does my second user help my first user get value? How does my 1000th user help my first user get value? If you run through that mental model, if you see that that could take place with the product as you've designed it, then you're starting to look at network effects.
+
+Daniel Scrivner:
+
+You talked about that a viral effect or a viral strategy, something that focuses more on user acquisition is a very different play book from network effects. Talk a little bit about why that's different, because I think for some people that might be counterintuitive or non-obvious.
+
+James Currier:
+
+Yeah, yeah. No it's really easy to confuse. And the reason it's easy to confuse is because our greatest examples of network effect businesses like Facebook or Twitter had both viral effects and network effects. As we look at them, it was hard to differentiate what was going on. So for instance, I could create a B2B marketplace between, let's say a thousand different businesses that want to do a trade. I could spend $10,000 to onboard each one of them. And then I could create liquidity in that marketplace between the thousand, although that might be enough people to create liquidity. And then 10 years from now that business would be running just great because all of them have just gotten used to trading there. I have had no virality in building that I had to spend $10,000 per node of the network. But I had a network effect, which gave me a very durable and lasting business, but I didn't have any virality involved.
+
+James Currier:
+
+Another example would be something like Chatroulette, which was a company from about 10 years ago where people would just get on and see who they're going to be on video with. Very viral. You had tens of millions of people using this with no marketing, but there was no network effect because the relationships were ephemeral. There was no lasting profile that would allow you to build up a reputation or anything like that, and so there was no rock that they built on. And so there was no defensibility, no durability. So you can have a lot of virality with no network effects and defensibility and you can have a lot of defensibility without any viral effects.
+
+Daniel Scrivner:
+
+Yeah. That's a fascinating example because it seems like such a shame that that team or that founder wasn't thinking as much about network effects as they should be.
+
+James Currier:
+
+I can give you tons of examples about companies that got viral, because we were some of the first viral engineers. Stan \[Janoski 00:11:17\] and Michael \[Butch 00:11:17\] and \[inaudible 00:11:19\] contractor were some of the first people doing viral flows back in 2000, 2003, that timeframe. And you thought everyone's going to be doing this and everyone started doing it, but then no one took that next step, which we learned from Monster, which is now you've got to actually build a network effect.
+
+Daniel Scrivner:
+
+It's fascinating. One of the things that you talk about a lot, when you talk about network effects is just this idea of re-enforcement. And it's an interesting principle and I feel like it's really helpful in understanding the mechanics of it. So can you talk a little bit about what that is and why it's important?
+
+James Currier:
+
+Yeah. So often what'll happen is you put out a product and you'll find you have some sort of a defensibility. It could be that you're embedding or it could be that you have a small network effect between all your users who are talking to each other or something through your product. That is the beginning of defensibility. Once you see that you need to and you want to, and it's actually easier to then reinforce that defensibility with another type of defensibility. Could be one of the other or 15 or 16 network effects or it could be embedding, could be brand, could be scale. And so that process of layering on one type of defensibility after another is how you get to build a big company. And we've done some breakdowns on our essays on nfx.com, if you look at the essays, about Facebook and about Uber and we use the network effects map and we show you where they started, where they woke up one day and said, "Hey, wow, I've got this cool business going. Now, how do I reinforce it?" And we walk you through the different network effects and defensibilities that they added and when in their journey so that you can see why Uber is still worth $80 billion, despite having an \[inaudible 00:12:50\] two-sided marketplace network effect that isn't super powerful.
+
+Daniel Scrivner:
+
+Yeah. And we will link to many, many resources on your site as I was preparing for this. I mean, you guys have just created an absolutely incredible amount of great content in terms of maps of network effects. So we will link to a lot of that here. I thought it would be interesting to talk about a couple of examples. And I feel like with network effects, everyone generally understands some of the examples you shared, like Facebook is a canonical example. What is a counterintuitive example or something? That's a surprising example of a network effect that you've come across?
+
+James Currier:
+
+QuickBooks. This is a little counterintuitive how this thing works. Basically it works through the labor marketplace. So the product itself doesn't have any network effects, because it's a single player game. An accountant or a team of accountants for your company uses the tool and they run your books and no other company cares that they are using QuickBooks to manage their accounts. But the network effect comes through what we call an expertise network effect, where once I get trained on QuickBooks, I want to work on QuickBooks and I'm very fast on it. And so when someone advertises that they've got a job for an accountant and they say, I use QuickBooks, I'm like, "Oh, well then I'll go work there." And then I stay on QuickBooks or I get hired and someone says, "Hey, we use this other package." And I'm like, "It really be easier for me if I could just use QuickBooks, I'm really familiar with that program." So I have an expertise in that.
+
+James Currier:
+
+And then what the founders of the companies think is well, let's just use QuickBooks because there's so many people who know that program and prefer that program. And so they make the choice for the product, not because of the product, not because of a network effect in the product itself, but because they're anticipating that over the next few years, as they go to hire different accountants, if their accountants churn, they're going to want to be on the platform everyone else is on. And so that's intuitive sort of network effect that works through a hidden mechanism of the labor markets.
+
+Daniel Scrivner:
+
+That's a fascinating example. I've spent a lot of my career in design and I feel like that absolutely happens with design tools. It used to be Photoshop, now it's Figma and Sketch and those are literally in job descriptions. That's the tool the team works in. And it's interesting, that expertise network effect.
+
+James Currier:
+
+I came to be able to articulate that so well after a conversation at the NFX offices were Scott Cook \[inaudible 00:14:59\]. He came by because he himself like me as a network effects \[inaudible 00:15:03\], and he just wanted to jam. And we just covered whiteboards with all these different network effects. And he explained that he's been looking to add network effects to his business. And then he and I diagnosed that one and he articulated it well to me.
+
+Daniel Scrivner:
+
+That's incredible. I am probably going to butcher this number, but you have an article, I think it covers the 13 network effects. How many network effects, different types have you guys classified?
+
+James Currier:
+
+It's funny. We published that article about three years ago, three and a half years ago. And the title of it is 13 Network Effects and Counting. And we now have three more network effects, two of which we published and a 16th we haven't published yet.
+
+Daniel Scrivner:
+
+I love this because the image in my mind is that you guys are almost studying wildlife and trying to classify the different types of species of a given animal. And just like the approach you've taken with network effects, I think it's fascinating.
+
+James Currier:
+
+I'm the David Attenborough of network effects.
+
+Daniel Scrivner:
+
+There we go. That is the new title after this interview. I'd be curious for your favorite all time example of a powerful network effects business. And it can be, I'm just looking for something again, counterintuitive or interesting to flesh out people's understanding part of that is an example, for instance, that I've heard a million times, I'd also be curious for your thoughts on is something like Visa or Mastercard as these all time amazing network effects businesses. So do you have a favorite either business or just type of network effect that you love?
+
+James Currier:
+
+I think one thing to point out to people to help them understand is a company like Waze. It's not necessarily counterintuitive, but it is interesting because it's one of the really best examples of data network effects, which are action quite rare out in the wild. A lot of people talk about data network effects, but they generally don't actually have that much bite to them in the marketplace, in the real world marketplace, but Waze does. And the Waze is that app that you put on your phone for getting through traffic faster.
+
+Daniel Scrivner:
+
+Amazing in LA.
+
+James Currier:
+
+Right. And in so many cities, you really need this to save you a lot of time. And the reason that it's powerful is because once you turn it on, it stays on so it's sending data automatically into the system. The data's changing all the time, so it's real time data. If people all turned it off the data from yesterday, isn't super helpful for today because there was an accident \[inaudible 00:17:13\]. And so everyone needs to keep using it in order to get the benefit. Just by turning it on, you benefit all the other users. You don't have to do anything. And it's real time. So that actually really is a data network that you need tens of thousands of users to get a really good map of a city area. And so the threshold to get to a good network effect and compete with Waze is difficult. So I particularly like Waze and I can use them as examples of lots of different types of network effects, particularly that data network effect, which is so rare.
+
+Daniel Scrivner:
+
+Yeah. It's a fascinating example. What's your sense of Tesla? And do you think that they're building a data network effect with the data they're collecting from cars?
+
+James Currier:
+
+They're going to try and I think they're clever enough to actually be thinking the forward about this. It hasn't shown up to me in their product yet, but I can see that they could turn it on pretty easily and if it were me, I would've already turned it on. I should have collision avoidance with other Teslas. I should have Waze with other Teslas. I should have trivia games that I could play with other Tesla owners who are on the same commute with me. You could also see Tesla creating a network fixed around their home batteries saying, look, if you get another Tesla battery, you can share electricity with a neighbor of yours so that you as a block could be more durable and more fault tolerant because this protocol will balance the loads between the two batteries and draw the energy off when it's cheapest and you as a network will perform better than you as an individual. I don't know if they're going to build that into their home batteries, but I would, if I were them.
+
+Daniel Scrivner:
+
+Yeah. I hope Elon Musk comes and has a whiteboard session with you. All about the network effects to put into that business. I want to talk about one more example, which is that article I referenced that was 13, now we're up to 16 soon, different types of effects. We have this amazing visual that's basically starts with this inner circle and then radiates out. And the idea is the network effect in that inner circle is the most powerful. And you refer to that network effect as the personal direct utility. Can you talk a little bit about that one and just share your favorite example or an iconic example?
+
+James Currier:
+
+You're right. The network effects at the center of that colorful disc are more powerful. And the first one is physical, which is like a Comcast or a telephone network and even Visa. They've got the Visa readers and what not, so that's very powerful and then you start going out from there. And then you've got a protocol network effect like an ethernet or a fax. I mean, people are still using faxes, right? I mean, let's not forget.
+
+Daniel Scrivner:
+
+It's insane. Yeah.
+
+James Currier:
+
+It's insane because it's a great network effect, very durable. And then the third layer out, which is what you're talking about is this personal direct network effect. And that was revealed interestingly enough over time because Facebook had found a personal direct network effect and it was pretty strong. But the fact is if I stop using Facebook, I'm okay. My life doesn't end. However, if I stop using WhatsApp and my wife says, you got to pick the kids up, I've got a flat tire and I don't get that message, I'm screwed.
+
+James Currier:
+
+So there's a lot of utility to WhatsApp. And so the personal direct utility network effect is actually stronger because I really can't leave WhatsApp or Facebook Messenger wherever I'm doing my messaging. And so when Facebook saw that WhatsApp had created a stronger network effect, they were willing to pay anything to buy that company. And I think the original offer was $8 billion I heard. And then it went up to 13 and then went up to 19, in the end, it was 21 billion, which was about 10% of the value of Facebook. And I think Zuckerberg was very smart to pay 10% to grab WhatsApp because it is such a powerful direct network \[inaudible 00:20:37\]. And when they saw it, they said, well, let's take Facebook Messenger and basically replicate it for the US market, because WhatsApp was generally outside the US. And so they had both Facebook Messenger and WhatsApp focused in on this personal direct utility network effect. I think they were very, very smart to do that. It was one of their great moves that they made as a corporation.
+
+Daniel Scrivner:
+
+And just to underscore the two you talked about, so it sounds like the first one would be a physical based network effect and then the second would be some sort of just network, network effect like Ethereum or Visa or something like that. Yeah.
+
+James Currier:
+
+That's right. So what I mentioned was just physical, meaning if I'm Comcast, I've laid down these cables.
+
+Daniel Scrivner:
+
+Oh yeah.
+
+James Currier:
+
+You're going to want to lay those cables? I don't think so. Look, I think Comcast has the lowest NPS score of any company in America. Why? Because their network effect is so durable that no matter how bad they are, we can't do anything about it.
+
+Daniel Scrivner:
+
+Yep. Which as an investor, as a student of businesses, you have to admire. This is... Yeah, Charter does the same thing and it's super counterintuitive, especially in startup world that you can build just an incredibly profitable, durable business while providing an average to mediocre, to just poor customer experience. But that's the power of network effects.
+
+James Currier:
+
+Which is what we saw with Monster.
+
+Daniel Scrivner:
+
+So I want to ask one more question and then we'll move on to operations for a network effects focused business. And that question is, Facebook's a really interesting example where it has individual products and it's a conglomerate at this point. And it seems to me like it's an interesting example of a conglomerate being able to be a \[inaudible 00:21:57\] of network effects and lay those into all of their businesses. Do you think that they've meet the bar? I guess the question is as a student of network effects, who do you feel is really about weaving network effects into their various businesses or product lines that they \[crosstalk 00:22:12\]
+
+James Currier:
+
+Oh, Facebook is superior. They get it as well as anybody. And whether it's they're classified, the classified system that they have now is their fourth attempt. The group's system, which is another great network effect. If you look at clusters of network effects within a network effect. Reeds law from 2001, basically explains that the power of these network effects has incredible geometric proportions once you take into account the durability of the clusters within the overall network effect. So clustering is really important and the groups functionality of Facebook helps them achieve that. That was their fifth attempt at groups, because they knew they needed it. They needed to keep reinforcing and they eventually figured it out. And the way they figured it out was by making groups opt out, meaning I can add you to a group and you have to opt out of it. And that's how they formed and got groups going.
+
+Daniel Scrivner:
+
+With one small tweak in logic and rule set. Makes me wonder how much of thinking about network effects, thinking in terms of network effects is thinking about tiny little tweaks and rules like system rules like that one you just referenced. How important is that?
+
+James Currier:
+
+It's incredibly important. I mean, look, if your Comcast is not, because you just laid in cable and the government told you to do it and that's what the technology did and it's 1978, and now here you are. So that wasn't that clever. But what Facebook has done or what Amazon Marketplace has done, what Google has done in some cases is very clever, very detail oriented. You have to be an artist. You have to really understand psychology. You have to understand language. And so that's why when you look at people like David Marcus or Stan Chudnovsky who were recruited to Facebook six years ago, the willingness of Facebook has to pay for those people is infinite because there's so few of them who can do it, who can combine language with EQ, with IQ, with data, with code. The number of brains that can do that is very small.
+
+Daniel Scrivner:
+
+That's an insight that I've had as well too, is just the number of people that are really good at thinking in terms of systems is really, really, really small. It's a very complex way of thinking. So I want to talk about operations for network effects businesses, because one of the "aha" moments I had thinking about network effects, preparing for this was I think for a lot of people they might think network effects is a tactic, but it seems to me like it really is much higher level. It's more of a business model and a strategic focus. Would you agree with that? Would you clarify that at all?
+
+James Currier:
+
+It's core to how you think about everything because it drives everything about your business. Once you understand what the core network effects are, it drives the language you use, it drives the flows, it drives your pricing model, it drives your marketing, drives how you build it, how you spend your time, how you spend your time on the onboarding process and that sort of thing. What data you need to collect at the beginning in order to create the network effects and the later stages of the experience four minutes later, eight days later, you've got to anticipate that. So yeah, it's at the core of your thinking strategically about everything you're doing.
+
+Daniel Scrivner:
+
+I want to ask you a couple questions about just how you assess and how you work with founders. And I guess my first question is how do you guys think about assessing whether a founder that you're talking to or a founding team that you're talking to are the right people to be building a network effects based business? Because it sounds like there is a brain wiring input that's important to be able to build one of those. Clearly you can recruit those or you can have those at that executive level, but any thoughts there. Is that a part of your process when you're thinking about investing in a company?
+
+James Currier:
+
+Yeah. I think we see a lot of companies that already are beginning to show network effects. So we've got a little bit of a benefit of these, have people have self-identified themselves as people who want to pursue these types of interfaces, these types of products. So it's a little easier for us in that way. I mean, we're called NFX. A lot of people approach us specifically for this and have already drunk the Kool-Aid and so that's a little easier.
+
+James Currier:
+
+I think generally when you talk to founders and they light up, their eyes dilate and around this discussion, then you know that they're going to keep iterating and until it works. But those who remain skeptical about it, they're going to be better at just sales. And we say this to founders, even founders we've already invested in. Once we get to know them better, we're like, it seems to me, you should do an embedded business, not a network effect business. Where you just sell the software, you make $12,000 a month per customer, you have a funnel, you sell them, you implement, that's more your personality and you can build $10 billion companies doing that and that's fine. These are great businesses.
+
+Daniel Scrivner:
+
+Yeah. There's many ways to win. On that, I was also curious how often do you encounter an entrepreneur and you see just massive opportunity for network effects in different areas of their business and that's maybe not something that they have realized themselves. How often can you guys just see where all of that open space is?
+
+James Currier:
+
+A lot. And a lot of founders send other founders to us for that. A lot of investors who might have put in 50K they're like, dude, we need to get an FX to lead their pre seed or their seed because we need that thinking here and we can diagnose and we can go through and I can pick out which of the six of the 15 or 16 network effects we could actually start thinking about using and narrow that six down to the one that we start with and then once we get it going, then we start reinforcing with the others.
+
+Daniel Scrivner:
+
+Just to build on that question, it sounds like that maybe is your playbook because that was a question I was also curious. So you find a team that you think has an interesting network effects business, where network effects can be really powerful in their business. You then invest, and then you're working with them like you said. Maybe you pick out these six network effects and then you find one to focus on. I was curious, just to go a little bit higher level than that for a second, what is different about a company operationally that's focused on network effects? How does that show up? Because I'm guessing that shows up in terms of the OKRs that they set in terms of just like they always have things they're trying to reinforce or network effects are trying to work on. I guess just any insights into what it means to operate as a network effects business.
+
+James Currier:
+
+The KPIs you look at are different for a network effects business. We've had some companies where we had all the CAC metrics and the LTV and all the normal stuff that you might see. But really what we were watching on a weekly and monthly basis was the number of messages between nodes on the network. And everyone looks at revenue or net margins, or... Those are all metrics that are there, but the real health of the business was determined by the liquidity of the communication between the nodes. And that could be transactions in a marketplace, it could be messaging on a social thing. You're always looking for that density of network, frequency of network and size of network. Those are the things you're really measuring and those are the things that the teams become obsessed with.
+
+James Currier:
+
+One thing that I will say that has been challenging for teams to do is to focus on different KPIs. So a social network has certain KPIs that indicated social network, its network affects growing, and marketplaces have different ones. And so it's been a real challenge to have a social marketplace, market network, as we call it, for an internal operational reason, which is that the team just doesn't understand what should we be watching? And the answer is you have to watch both, and not too many teams are capable of doing that.
+
+Daniel Scrivner:
+
+Yeah, that's really fascinating. I want to talk about some lessons learned and some advice you might have for founders. And the first one is knowing that NFX was founded in many ways in 2013. You've now had, what, going on nine years, almost something like that in terms of learnings. So I'm curious, what has evolved in your thinking about network effects or what did you initially think was important that you've disqualified now or I guess thinking about the major deltas between thesis and thoughts when you first started to now?
+
+James Currier:
+
+Yeah. So I continue to believe that when you look at all these defensibilities, including the 15 network effects and the other three embedding scale and brand, it's like painting a picture, and every company is its own work of art and that the founder is the artist. And when we companies, we say to them, look, if it were me, I might do it this way, but you have got to do it the way that feels right to you because ultimately this whole thing needs to be organically you, because no great thing was ever done by a committee. Certainly not by a committee of a guy like me sitting on your board. It's got to be done by you. So that is true. You are painting with these different colors as you approach the strategy of your business. And yet where I've been wrong is what I just mentioned, which is the difficulty most people have had in operationalizing the pursuit of these different network effects.
+
+Daniel Scrivner:
+
+And that's where the challenge is.
+
+James Currier:
+
+Yeah. Once you get toward a reinforcement moment, that's where you have these operational challenges. Now, Facebook hasn't had it. They've operated incredibly well, perhaps because their core network effect was so powerful that it created a lot of air cover. Same thing with Google. I mean 95% of the revenues still come from the same product they had in 98. And so that might make the operations of that easier as they reinforce with defensibilities. But I've been struck by the challenges many companies have had with operationalizing at such an early level of multiple KPIs.
+
+Daniel Scrivner:
+
+I love that analogy you used of every business being a work of art. And I feel like that's an uncommon way of thinking about business, but it's something that I like it like. It seems like it's not brought up enough and I think that's really interesting.
+
+James Currier:
+
+I want to dig in on that because I want people who are founders to understand this, that I was not born 6'5, I can't play in the NBA. I was not born so I could paint very well, I've tried many times. I was not born so that I could play the piano, I've tried. I'm just not talented in those ways, but I did have enough talent in this way to do business well. And I wanted to make business my art. And I think you should be encouraged that this is an art and you can bring your artistry to it. And it's a beautiful way to live life because your art touches your employees and your customers, and it touches the world and it's dynamic and much of art is not. So I see it as a really beautiful expression of life to do business. And for those of us who aren't talented enough to do other things, this is our place to do it. So you should embrace the idea of this being artistry.
+
+Daniel Scrivner:
+
+Yes. I think business is a wonderful place to do art. And I love, just to add on to what you said, I also feel like with that approach comes, you want to lean into really expressing your beliefs and your perspectives. And there's also something that's more personal about when you're treating your business as a piece of art. And sure, there's still plenty of focus on quantitative things, but I love of that kind of gravitational center being more qualitative, more artistic. I think that's interesting.
+
+Daniel Scrivner:
+
+Something that I love about your model is when I look out at the kind of venture landscape, most firms generally are going to be vertically focused or they're going to be more narrow in terms of what their thesis is and what they invest in. You guys are very different. You have basically what can be referred to as a horizontal thesis where you're focused on network effects, which allows you to look at super wide set of opportunities that also changes every single year or I'm sure in real time. Talk about what's unique about that and what you enjoy about that model.
+
+James Currier:
+
+Well, I love it because we're investing in \[inaudible 00:32:59\] bio or tech bio, if you will, sort of computational biology. We're discovering platform network effects in that space. We're teaching the firms to embed their software in the hospitals where their diagnostics are being run. We are finding all sorts of ways to bring defensibility to those businesses that isn't IP related, isn't patent related. It's a good way, but the best way is again, network effects.
+
+James Currier:
+
+And obviously the crypto world, nothing exists in crypto without network effects. There's nothing. There's no company without network effects in crypto at all. And in terms of winning deals in the crypto space, we've had our great success in that because they all want to build real businesses, not just crypto businesses and they all need network effects. And so they want the expertise in that and so we're really good partners to crypto companies.
+
+James Currier:
+
+So these are new segments that have emerged in the last four or five years that having this perspective about the real mechanisms for businesses becoming big, that allows us to bring that expertise to each of these verticals as they emerge and grow and get bigger and more important.
+
+Daniel Scrivner:
+
+Just knowing a little bit about you and Peter, it feels like you're very...
+
+James Currier:
+
+Pete Flint?
+
+Daniel Scrivner:
+
+Sorry, Pete. Pete Flint, yes.
+
+James Currier:
+
+\[crosstalk 00:34:07\] he go by Pete.
+
+Daniel Scrivner:
+
+You guys just seem incredibly curious. And so it seems like your model also inherently leans into that curiosity where you can invest in and learn about the things that you're most excited about and at the same time, your portfolio is this series of experiments and network effects that you can triangulate across and take learnings from one business and apply it to another. Am I right there?
+
+James Currier:
+
+Oh yeah. It's incredibly intellectually stimulating. I mean, looking at buy now pay later in Brazil or looking at... I mean, there's so many different businesses that you could bring these things to. So yeah. We're constantly learning. It's a joy.
+
+Daniel Scrivner:
+
+Okay. I had one more question, which is obviously with your focus on network effects, it seems to me like you guys must have brought some of that to your approach, to building NFX. How do you think about the network effects in that business or how have you approached it in that way?
+
+James Currier:
+
+I mean, venture capital has traditionally not been a network effects business and we're trying to bring them into our business in two different ways. One is through software. So we've built two products that have some network effects. One is called Signal and it's signal.nfx.com. And that's essentially the investing network, and people get their investing profile. So if I'm a CEO of a company and I might be doing some \[inaudible 00:35:16\] investing on the side, I have my LinkedIn, which is my professional profile and then I have my Signal profile, which was my in investing profile. And then I can connect to the other investors that I typically invest with and then founders can find me by searching on Signal. And we have almost 75,000 founders a month searching on Signal for investors and that's a network that's growing and we're going to be building more and more tools to allow those investors to collaborate and communicate as well as communicate with the founders. So that's ongoing.
+
+James Currier:
+
+And then we've also built a thing called BriefLink, which is basically DocSend just for startups. So it's DocSend plus you add in a video, plus you answer 12 questions that every investor wants to know before they take a meeting and you're going to then meet with them after they've read your BriefLink and that meeting's going to be much more efficient, because they were going to know so much more about your company that you can get past the first 25 minutes of the discussion. So BriefLink is growing incredibly quickly right now and that also adds to the sort of overall ecosystem network effect and we're going to be evolving that over time. So those two products are out there. They're free to use and lots of people using them doing great stuff.
+
+James Currier:
+
+The other way we try to add network effects to our business is through our Guild. So we don't actually call our portfolio a portfolio. We actually think of the companies we invest in as a Guild and we put in a lot of time and money and energy to introduce them to each other, so that they can form their own Keiretsu, their own Guild to help each other. And while we are off doing new deals or we're having board meetings, they can be helping each other.
+
+James Currier:
+
+There's also a website we use internally called Gilder, which we built, which is essentially a Facebook for our Guild, it's called Gilder. And there 450 different videos and checklists and PowerPoints that educate people. There's vendor deals, there's message boards, there's Q&A. There's just a lot of resources for the founders to very quickly get to what they need to get to. We got playbooks that people keep adding to so that if you want to develop culture at your company, you can do it nine hours. You don't have to get a consultant. You don't have to spend six months. There's all these real shortcuts that have been developed over time by the companies in the Guild that we have codified and captured and then represent to everyone. So we are really giving everybody the cheat codes through this sort of Facebook, which has its own network effect internally to the Guild.
+
+Daniel Scrivner:
+
+Those are fascinating examples. Where did the inspiration come for calling it a Guild, or Keiretsu and thinking about it in those terms?
+
+James Currier:
+
+I think a client had tried to call their thing a Keiretsu back in 2000, but that's not where it came from. So it's not a new idea. The inspiration just came from the fact that I, as a founder, spent a lot of time collecting the other CEOs in the bay area to have dinners with or lunches with, and it pretty inefficient process. And ultimately so much of my best learnings, my KPIs, my insights, the things that really helped my company break through came from those lunches and those dinners and those breakfast, but it was a lot of heavy lifting. And so we figured if we could make those lunches, breakfast and dinners and meetings happen for the founders on the calendar, we would accelerate their growth in the same way that our growth was accelerated by being here and in the mix but putting the effort in. And Pete and \[Gigi 00:38:30\] also felt the same running their own companies. And so we try to help the founders do that.
+
+Daniel Scrivner:
+
+I want to ask two closing questions. And the first is for a founder listening that wants to learn more about network effects, what blog posts or resources would you point them to, as just the first one or two, three things to look at that you've produced?
+
+James Currier:
+
+I would go to nfx.com essays. And I was talking to the professors at Harvard and Stanford and they've all confirmed that the materials you are going to find there are the cutting edge of what everybody's saying about network effects that we had some writing about it in 98 through 2001 around network effects when Microsoft was about to be split up by the DOJ because they had these network effects. And so everyone had to study network effects, what are they, should we split these guys up? In the past, the DOJ was splitting up giant scale of fact businesses like oil and steel, and that's what those laws were built to manage. And so when they saw this new beast in 98, they were like, what is this? They'd never seen a network. They didn't know what it was. And they had split up AT&T in '84, which had a network effect, but they didn't really call it out then. They didn't really understand it.
+
+James Currier:
+
+And so there was a bunch of writing '98 to 2001 and then everyone forgot about it for a while. Tom Eisenman at Harvard did a bunch of writing between 2004 and 2007, but it really wasn't picked up again until we did back in 2015. So that's the place Tom Eisenman over at Harvard, he's got some great essays on this. It's a great essay by Harvard, Increasing Returns to Scale. That was the original one that kicked it off in the early '90s. But that's it. There's not a ton yet. It's surprising giving that it's produced more than 70% of all the value in tech and tech is the world.
+
+Daniel Scrivner:
+
+Yeah. And we will link to... We'll find, I already have a list. I've created this part of this if some of my favorite resources will add all those to the show notes. So for anyone that's interested, they can obviously go to nfx.com. Is there any other way they should get in touch with you or follow what you're working on NFX?
+
+James Currier:
+
+Yep. Just sign up for the newsletter and we send out probably a weekly email with the new content that comes out. That's a good way to do it. And then if you've got a company fill out a BriefLink. Just send me a link. And I don't see it until you send me the link. It's yours. It's totally private to you. And when I get on, you'll be able to track me. It's basically a weapon for you against the VCs. So I would use BriefLink all day if I were you.
+
+Daniel Scrivner:
+
+Yeah. You're arming the rebels. Well, thank you so much for the time. This has been incredible conversation.
+
+James Currier:
+
+Great to see you.
+
+## Links from this Episode
+
+*   **Connect with James Currier:** [Twitter](https://twitter.com/JamesCurrier) | [LinkedIn](https://www.linkedin.com/in/jamescurrier/) | [NFX](https://www.nfx.com/)
+*   [NFX Essays on network effects](https://www.nfx.com/tags/network-effects/)
+*   [Exeter](https://www.exeter.edu/)
+*   [Princeton](https://www.princeton.edu/)
+*   [Harvard Business School](https://www.hbs.edu/)
+*   [Battery Ventures](https://www.battery.com/)
+*   [Oracle](https://www.oracle.com/index.html)
+*   [Craigslist](https://www.craigslist.org/)
+*   [Facebook](https://www.facebook.com/)
+*   [Microsoft](https://www.microsoft.com/)
+*   [Apple](https://www.apple.com/)
+*   [eBay](https://www.ebay.com/)
+*   [Twitter](https://twitter.com/?lang=en)
+*   [Chatroulette](https://chatroulette.com/)
+*   [Michael Birch](https://en.wikipedia.org/wiki/Michael_Birch_\(businessman\))
+*   [Darius Contractor](https://www.linkedin.com/in/dariusmc)
+*   [Uber](https://www.uber.com/)
+*   [Quickbooks](https://quickbooks.intuit.com/)
+*   [Photoshop](https://www.adobe.com/products/photoshopfamily.html)
+*   [Figma](https://www.figma.com/)
+*   [Sketch](https://www.sketch.com/)
+*   [Scott Cook](https://en.wikipedia.org/wiki/Scott_Cook) 
+*   [David Attenborough](https://en.wikipedia.org/wiki/David_Attenborough)
+*   [Visa](https://usa.visa.com/)
+*   [Mastercard](https://www.mastercard.us/en-us.html)
+*   [Waze](https://www.waze.com/)
+*   [Tesla](https://www.tesla.com/)
+*   [Comcast](https://corporate.comcast.com/)
+*   [WhatsApp](https://www.whatsapp.com/)
+*   [Mark Zuckerberg](https://en.wikipedia.org/wiki/Mark_Zuckerberg)
+*   [Facebook Messenger](https://www.facebook.com/messenger/)
+*   [Ethereum](https://ethereum.org/en/)
+*   [Amazon Marketplace](https://www.amazon.com/Marketplace/s?k=Marketplace)
+*   [David Marcus](https://en.wikipedia.org/wiki/David_A._Marcus) 
+*   [Stan Chudnovsky](https://www.linkedin.com/in/stanchudnovsky)
+*   [Pete Flint](https://www.linkedin.com/in/peteflint)
+*   [Buy now pay later](https://www.businesswire.com/news/home/20210930005479/en/Brazil-Buy-Now-Pay-Later-Market-2021-Strong-Growth-Continues-with-28-CAGR-Forecast-During-2021-to-2028---ResearchAndMarkets.com) in Brazil
+*   [Signal](https://signal.nfx.com/)
+*   [LinkedIn](https://www.linkedin.com/)
+*   [BriefLink](https://brieflink.com/)
+*   [DocSend](https://www.docsend.com/)
+*   [NFX Guild](https://www.nfx.com/guild/)
+*   [Increasing Returns and the New World of Business](https://hbr.org/1996/07/increasing-returns-and-the-new-world-of-business) – HBR
+*   [AT&T](https://www.att.com/)
+*   [Strategies for Two-Sided Markets](https://hbr.org/2006/10/strategies-for-two-sided-markets) – HBR
+
+## Glossary of Terms
+
+*   [Network effects](https://www.investopedia.com/terms/n/network-effect.asp#:~:text=The%20network%20effect%20is%20a,of%20a%20good%20or%20service.&text=Initially%2C%20there%20were%20few%20users,military%20and%20some%20research%20scientists.)
+*   [SaaS](https://en.wikipedia.org/wiki/Software_as_a_service) (Software as a service)
+*   [SMB](https://en.wikipedia.org/wiki/Server_Message_Block) (Server message block)
+*   [KPI](https://kpi.org/KPI-Basics) (Key Performance Indicator)
+*   [CAC](https://en.wikipedia.org/wiki/Customer_acquisition_cost) (Customer acquisition cost)
+*   [LTV](https://www.investopedia.com/terms/l/loantovalue.asp) (Loan-to-Value ratio)
+*   [Keiretsu](https://www.investopedia.com/terms/k/keiretsu.asp#:~:text=Keiretsu%20is%20a%20Japanese%20term,%2C%20distributors%2C%20and%20occasionally%20financiers.&text=Translated%20literally%2C%20keiretsu%20means%20%E2%80%9Cheadless%20combine.%22)

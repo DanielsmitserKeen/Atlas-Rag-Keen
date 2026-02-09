@@ -1,0 +1,171 @@
+# A Product Positioning Exercise - April Dunford
+
+Every company I have ever worked with has struggled to make their awesomeness obvious.  I’ve watched startup founders, after working for weeks on a pitch, field a dozen variations on the question “So, what exactly is this product for again?” I’ve seen teams at large companies build truly innovative new products that failed when customers simply couldn’t understand their value. Too often I see a massive disconnect between companies creating offerings that are important, world-changing, exceptional, AWESOME…and customers that fail to see anything interesting about them at all. If you feel like this has been happening to your product – this product positioning template was built for you.
+
+‍
+
+## Deliberate positioning puts your strengths front and centre
+
+The unique greatness of our offerings often feels obvious to folk inside the company. We have a ready answer to the question — “Why should a customer choose us?” Yet, if we ask customers the same question, they often find the differences between what we offer and what other companies offer hard to understand. This problem happens because we do not put our unique strengths at the centre of our positioning. Instead we position ourselves in the market we started in, even after our products have evolved well beyond that. We have failed to actively, deliberately position our offerings around our strengths, falling back on a “default” or “status quo” position that does nothing to help customers understand what sets us apart.
+
+Here’s a simple example. I joined a startup early in my career that was founded by a team of database experts. They built an innovative database, one that could quickly analyze massive amounts of data in a fraction of the time that normal databases could do it. Interestingly when we tried to sell the solution most folks wouldn’t even take a meeting with us. “We don’t need a database, they explained, we have Oracle”. For them, “database” meant a lot more than just an ability to do a fast query — our unique value was sidelined by everything else they trusted Oracle to do.
+
+We ultimately solved our problem by re-positioning ourselves as a Business Intelligence tool. The new positioning put our differentiator — fast data analysis on a large amount of data — at the centre of our positioning and got us away from the “So how are you better than Oracle” trap (I’ve talked about other examples [here](https://www.aprildunford.com/post/how-to-transform-your-product-by-giving-it-context) and [here](https://www.aprildunford.com/post/what-the-heck-is-your-product-really)).
+
+Great positioning makes our strengths obvious. It provides context and a frame of reference that makes it easy for customers to understand why they should care about what we do. This post is going to teach you how to do that.
+
+‍
+
+## The Positioning Statement is Harmful and You Should Never Do One
+
+Positioning, as a concept has been around for decades, however just because you know WHAT positioning is, doesn’t mean you understand HOW to do it.
+
+The closest we have ever come to a template for creating positioning is The Positioning Statement. It’s a fill-in-the-blanks exercise where you create a single phrase that encapsulates what your offering is all about relative to your competition. The template usually looks something like this:
+
+![](https://cdn.prod.website-files.com/5ebd7ae939f9f61d8e17bc5e/5ee11d6b21f5f58662921b2c_1_tumr2oc89UviOyK-t-LR4Q.png)
+
+I’ve blogged about how the [positioning statement sucks](https://www.aprildunford.com/post/product-framing-can-help-grow-your-startup-or-kill-it) before so I won’t re-hash my case against it but here’s a summary of why you shouldn’t do one:
+
+‍
+
+### 1/ This exercise assumes great positioning is magically locked inside your head and you simply have to write it down. The truth is that every product can be positioned in multiple different ways and which one you choose has a massive impact on your business. The positioning statement exercise encourages you to assume there is only one way to position your offering (a dangerous assumption).
+
+‍
+
+### 2/ The output of this exercise is an awkward [franken-statement](https://www.dictionary.com/e/frankenstorm/) of [gobbledygook](https://www.merriam-webster.com/dictionary/gobbledygook) that cannot be easily shared, understood or remembered by the teams who need to use it. Like other totally useless business exercises — it is completed and never, ever referred to again. The exercise is, at best, a waste of time.
+
+‍
+
+### 3/ Creating a positioning statement gives you the false sense that you are “done” doing positioning and you can move on to worrying about other things. Markets change as companies, technologies, and buyers change. Great positioning often becomes weak over time. Positioning cannot be a “one and done” exercise.
+
+‍
+
+## A Better Way to Do Positioning
+
+What we want to do in a positioning exercise is examine what our unique strengths are and find a way to put those at the centre. The goal is to come up with a way to position our offerings that makes our awesomeness obvious. When I work with companies on positioning we do this in 5 steps. The steps are easy but the work is not.
+
+‍
+
+## Step 1: Let go of where you came from
+
+_Weak positioning is usually the result of hanging on to a “default” market position that is rooted in the history of the product idea._
+
+Most product ideas come from a desire to stretch the capabilities of what exists today. “We want to build a CRM with special features for lawyers” or “We want to make an animation tool that kids can use” or “We want to build a training platform for gamers to improve their game skills”. What happens however is that often as you stretch that idea further and further out, it becomes something else completely, to the point where you aren’t in the market where you began.
+
+Coming back to my “database” example from earlier. The company was founded by database experts with the goal of building a better database. We never considered that the solution we built could be anything BUT a database. However, when we tried to describe our value to prospects, they couldn’t understand why they would buy a “database” to do that. Not only that, they already had a database that did a lot of other things better than we did. Positioning ourselves in the database market highlighted what we couldn’t do, put us into direct competition with a very strong competitor, and made our critical value seem like an unimportant add-on. We had successfully built an awesome solution for analyzing a very large amount of data, but it was a kinda lousy database. We were hanging on to our own history so tightly we simply couldn’t see that.
+
+Step 1 is about letting go of the original idea of what you set out to build. Letting go of that historical baggage will help you get clear on where you are right now, the value you deliver today and the best way to put that in the centre of your positioning.
+
+‍
+
+## Step 2 — Isolate your Uniqueness
+
+_The things that make you unique are the reason your offering deserves to exist in the first place._
+
+You have features that no other solution has. You might have a business model, a set of supply chain relationships, a proprietary process or other intellectual property that you and you alone can deliver. This is what you want to capture.
+
+In this step you should list everything you have that makes your offering unique. Don’t get too hung up on the value those features deliver — in this step we just want to list things that you have that nobody else has, regardless of who cares about it. For example I worked on a product ages ago at IBM where our key differentiator was that our product was highly customizable. You could argue that our key “feature” was a fault because it also made our product difficult to use for beginners. However, our customers valued flexibility and we won most deals where we were up against a more elegantly designed competitor. In this step you should focus on what you have that’s unique without trying to pass judgement on whether that uniqueness is a plus or a minus. Even “complexity” can have value in the right context.
+
+‍
+
+## Step 3 — Value: what can your uniqueness do for customers?
+
+_Customers don’t care about your unique features, they care what those features can do for them. Your positioning needs to be centred on the value that you alone can deliver for customers._
+
+In this step you want to capture what value your unique attributes could enable for customers. For example, if your unique feature is “We have a patented way to quickly query a large amount of data”, the value of that could be “Companies can answer questions while a customer is on the phone instead of having to call them back the next day”. In the template below you can match up value with specific features but you can also capture the value that a combination of features delivers.
+
+At this stage don’t worry too much about which customers might perceive this value. Like in the previous step, keep an open mind and focus on the value your unique features might have to any audience.
+
+‍
+
+## Step 4 — Who Cares?
+
+_Many kinds of prospects care about what you deliver but only some of them REALLY care. Understanding how to find those prospects is the key to maximizing revenue return on your marketing/sales efforts._
+
+Now that you have captured what you have and can uniquely deliver for customers, the next step is to figure out who cares a lot about that value. What makes a prospect particularly interested in the value that you deliver? How can you identify a target customer that is very, very likely to love your offering?
+
+For startups this is critical. You have scarce resources to market and sell your products. Customers that are well suited for your offering will easily understand your value, will purchase faster, and are much less likely to ask for discounts. The best way to maximize the revenue you get from a puny budget is to focus on prospects that are easy to sell to.
+
+When defining “Who cares” in this exercise, you will want to list the characteristics that you use to identify a good target prospect. This includes obvious things like industry, location, and company size. But to really nail this you have to get more specific about which prospects within that group are your best target. It isn’t enough to say “We sell to small businesses” — there are millions of those and they are all different. Which small businesses? What is it about the ones that love you the most?
+
+Coming back to my database example, we originally thought about our target market as “Any company with a very, very large amount of data”. But that isn’t specific enough — loads of companies with a large amount of data only store it for backup and don’t care about fast queries. When we asked ourselves who cares a lot about getting answers quickly from a large amount of data, we started to get more specific. Banks and security companies cared a lot because they were looking for data breaches. Companies in the online ad business needed to analyze data for customers. The common thread was companies that needed to analyze a massive amount of machine-generated data for either security or customer service reasons, cared a lot about what we did. This specificity allowed us to get really targeted in our positioning.
+
+The goal of Step 4 is to help you more narrowly define who should be in your target market. You could think about it this way — if the future of your product depended on you selling as much as you could this month, who would you focus on and why? How would you make a list of top priority prospects?
+
+‍
+
+## Step 5 — Choose your best market frame of reference
+
+_Now you know what makes you awesome and who cares the most. You need to choose a market frame of reference that makes your awesomeness completely obvious._
+
+Now we are getting to the hard part. What is the market frame of reference that makes your unique value utterly obvious to your best prospects? Interestingly, it often isn’t the market you started with when you first thought up the idea for your product. For mature products, it may not be the market that you have always positioned yourself in.
+
+The point of this exercise is to help you break free of your old thinking and so you can put your unique differentiated value right in the centre of your positioning. When you declare what market you are in, you set context for your prospects that should help them understand what you do. If you say my product is a type of CRM or a database or a game or a training tool, your prospects immediately place you in that market. They will make assumptions about your value, your competitors, your key features, even your pricing, based on what they already know about that market.
+
+In my database example we chose the database market as our frame of reference and that proved to be a terrible choice. It put us in direct competition with Oracle, a large and very established company. Our core value “fast analysis of a very large amount of data” wasn’t what most companies were buying databases for. Our best target customers (folks analyzing machine generated data) had already given up on trying to solve their problems with traditional databases. Using “database” as our market frame of reference only left our prospects confused and unsure of our value.
+
+Business intelligence was an obviously better frame for us to use because the value we delivered was just like the value that was central to most BI tools — data analysis. While it was true we weren’t a perfect BI tool for everyone, we were an AWESOME BI tool for folks with a large amount of machine-generated data. In the database market frame of reference we had one good feature, but we were still a lousy database, even if you had loads of data.
+
+Startups often mess this up by thinking that they simply have no other option than to stay in the market they started with. This is never true. You could put any product in front of me and I could position it in a dozen different markets. Hand me a screw driver and I could easily make the case that it is, in fact a paint can opener. Every B2C startup I come across I can instantly re-position as a something valuable for businesses. The biggest mistake you can make is to think your offering could only be positioned in one market. There are always multiple possible markets, some of which will make your value more obvious than others. I’ve talked about other startup examples [here](https://www.aprildunford.com/post/how-to-transform-your-product-by-giving-it-context) and [here](https://www.aprildunford.com/post/product-framing-can-help-grow-your-startup-or-kill-it).
+
+Companies with more established products get into trouble by not being diligent about monitoring their market landscape. Often the market shifts slowly over time and an offering which once had a very strong, clearly differentiated position will have its position weakened as features that were once unique become table stakes. Sometimes the markets that products are established in shift or new ones will overlap, making a previously strong position, weak.
+
+There are different styles of how you position in a market category. You can try to win an existing market by taking on the leaders head to head, by splitting off a sub-segment you can own, or by using your unique innovation to change the way people think about the entire market category. You can also create a completely new market category (this is the most difficult option). You can read more on [Styles of Positioning](https://www.aprildunford.com/post/product-framing-can-help-grow-your-startup-or-kill-it) here.
+
+‍
+
+## Implementation — A bigger deal than you think
+
+A change in positioning is a fundamental change in your business. If you change the market that you operate in, the expectations of your prospects will fundamentally shift. The competitive comparisons shift. Expectations around pricing and sales channels will shift. Prospects will make assumptions about sales channels and partnerships that you will have to meet.
+
+Internally a shift in positioning generally results in a massive shift as well. Given our new position, what should our roadmap look like? What skills are we expected to have to help customers succeed? Do we have the partnerships and sales channels our customers would expect? A change in positioning can have a dramatically positive impact on a business, but only if the company internalizes it and ensures that everything — marketing, sales, development, business development, support — aligns with the strategic shift.
+
+‍
+
+## Bringing it together — a positioning template
+
+Once you have all the pieces together, you will want to write it down. Writing it down is good for two reasons:
+
+‍
+
+### 1/ You have a record of the agreed upon positioning, in a form that makes it easy to understand why the positioning is what it is.
+
+‍
+
+### 2/ The document is dated so you can track when the positioning was last reviewed.
+
+‍
+
+So if you want to capture positioning so you can review it and share it, here’s a template I use
+
+‍
+
+![](https://cdn.prod.website-files.com/5ebd7ae939f9f61d8e17bc5e/5ee11e891a45f1b0c4030e36_1_Dk84FmRW-j3bAcfQ2DefrA.png)
+
+‍
+
+## Testing and Iteration
+
+So now you have your best guess at how you would position your offering with your strengths at the centre. You will next have to test it and see if your positioning works with customers the way you think it should. Here are some symptoms and causes of weak positioning:
+
+‍
+
+![](https://cdn.prod.website-files.com/5ebd7ae939f9f61d8e17bc5e/5ee11ea7f5850021c51d8927_1_BGhFsPfE6UPiukaa_hYzAQ.png)
+
+‍
+
+## Positioning is NOT messaging
+
+The positioning template should not be a way of documenting your value proposition or approved messaging around features or value. Once you have your positioning figured out, this becomes a set of inputs to your messaging. I usually build a messaging document that references the positioning template. The messaging document goes a level deeper into approved messaging for value statements for different buyer personas and provides boilerplate messaging that can be used as a starting point for marketing and sales materials.
+
+‍
+
+## Is your awesomeness obvious?
+
+The point of this exercise is to get your special unique value into the centre of your positioning so that it is obvious to customers. Done properly, this positioning should centre your customers on your strengths so that they can quickly understand what you do and why they should care.
+
+Psst, you made it to the end so I’ll let you in on a secret — I’m writing a [book on positioning.](https://www.aprildunford.com/books) Click to get on early access list.
+
+Big thanks to [Rob Tyrie](https://medium.com/@robtyrie), [Dev Basu,](https://medium.com/@devbasu) [Ria Lupton,](https://medium.com/@rialupton) Alexa Clark, [Sol Orwell,](https://medium.com/@solorwell) [David Feldt,](https://medium.com/@davidfeldt) [Evelyn So,](https://medium.com/@evelynso) Georgina Castanon, and [Marlon Rodrigues](https://medium.com/@marlonrodrigues) for reviewing drafts of this post.
+
+‍

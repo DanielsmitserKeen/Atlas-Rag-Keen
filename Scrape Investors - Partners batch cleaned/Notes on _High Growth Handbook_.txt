@@ -1,0 +1,271 @@
+# Notes on "High Growth Handbook"
+
+[![Peter Wildeford](https://www.gravatar.com/avatar/7124688b9c89a1ba55205b881c080771?s=250&d=mm&r=x)](https://www.pasteurscube.com/author/peterwildeford/)
+
+May 30, 2022 — 15 min read
+
+![Notes on "High Growth Handbook"](https://www.pasteurscube.com/content/images/size/w1200/2022/05/Screen-Shot-2022-05-30-at-1.19.15-PM.png)
+
+Elad Gil, among other thing, was a VP at Twitter who helped scale the company from 90 to 1500 people. He wrote a book, [”High Growth Handbook: Scaling Startups From 10 to 10,000 People”](https://t.umblr.com/redirect?z=https%3A%2F%2Fsmile.amazon.com%2Fdp%2FB07DRPGGQ7%2F&t=NjFmYjVjODEzMWVjMDc5MzBjMzVmODZiY2JmOWIwN2UyYjBiNzZjMSw1YWQyYmQyYTVmMDM1MjRmYmY4ODUxZjgzMGIxZDQ0Y2IyNWQyZDQx&ts=1626056707&ref=pasteurscube.com), to write about how to scale a company, mainly through the hiring of lots of employees.
+
+His book is very focused on for-profit (technology) startups that roughly double every year. I am taking notes on this book mainly to learn about management and operations. I personally have more of a non-profit perspective, so I did not take notes on things like startup valuations, investor relations, etc. If you want details about these sorts of things, you’d want to read the book.
+
+Note there are some things in this book that I disagree with, or at least don’t fully agree with. There is also a lot of good advice that is not in this book. In these notes I mainly aim to summarize what I find as the key takeaways of the book, from my understanding and as applied to my personal context, rather than try to present my all-things-considered view on how best to run a company.
+
+## Three Main Goals of a Company
+
+Gil breaks down companies into having three main goals:
+
+First - establish product-market fit and then build a distribution channel and take the market.
+
+Second - get the next product. Build your first product into a more general distribution channel and put multiple products through it. Contrary to common wisdom, most large successful companies profit more from distribution channels rather than products.
+
+Third is “everything else”, which is building the company around the product and distribution engine. This is finance, HR, legal, marketing, PR, recruiting, etc.
+
+There’s a lot of interesting and important discussion around the first two things, and some of it is in this book. However, I am going to solely focus these notes on that third part.
+
+## Scaling
+
+The first part of scaling is that you can get away with a lot when you are under 50 people. This is because everyone knows everyone and the CEO can have a personal relationship with each employee. However, once you cross [that magic number](https://href.li/?https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FDunbar%27s_number=&ref=pasteurscube.com), things will start to break down rapidly and you will need to professionalize and be organized.
+
+Keep in mind four things:
+
+1.  Scaling is not __just__ about the number of people at the company - the company also can scale in complexity without adding people by adding other things, like new products or strategies.
+2.  The old ways won’t work as you scale.
+3.  Other bigger organizations will look from the outside like they have everything figured out, but every organization (including yours) experiences chaos as they scale. Try to minimize the chaos, but recognize that it will happen anyway and is normal.
+4.  Ironically, workloads for individuals tend to increase as the company scales, because the company starts doing more things.
+
+## What does the CEO do?
+
+The CEO:
+
+*   Is ultimately responsible for the success of the company
+*   Sets the direction and strategy of the company
+*   Stays connected to the product and ensures its quality and success
+*   Communicates the direction and strategy frequently to the employees
+*   Sets and maintains company culture
+*   Constructs the incentive / compensation structure of the company
+*   Supervises hiring and fundraising at a high level
+*   Acts as chief psychologist of the company
+*   Is the primary external and internal face of the company
+*   Acts as a tiebreaker when necessary - but ideally this is rare, less than once a week (tiebreaking too often is a sign that the function making the decision is not sufficiently unified under a specific person)
+*   Delegates everything else, but makes sure it is done well
+
+The best executives tend to be a combination of a router (send items from people to the correct people, while taking on little directly themselves) and a problem noticer/solver (someone who identifies when the team is off-track and dives in to help).
+
+Usually the CEO spends ~5% of their time figuring out what to do and ~95% of their time ensuring that it gets done well. You have to continuously say “This is what we’re doing, this is why, and this is how we are going to do it” -- this communication is a lot of the job of the CEO.
+
+It’s good as CEO (and any other executive in the company) to be thinking about 6-12 months ahead (not too far, not too near). For example, if your strategy requires having fifty engineers by next year, you should be able to recognize this now and start putting the systems in place to ensure those engineers are hired.
+
+## Saying no
+
+Goal of the CEO is to create leverage and say no to things that don’t create leverage. Saying no is very important.
+
+A great way to figure out what you should say no to is to look through your calendar and see where your time is going. If you are doing anything where your involvement is not uniquely crucial to its success, you should figure out how you can offload it and/or say no to it.
+
+Some common examples:
+
+*   You do not need to do first round interviews for people who aren’t senior executives... you can still be involved in the final selection and pitching the offers, but there is no reason to be in the earliest stages).
+*   Though it is still important as CEO to meet with customers regularly, you do not need to be in every sales and partnership meeting
+*   You do not need to attend every internal engineering, product, or sales meeting. Instead bring everyone to you for a single sync meeting.
+*   You do not need to talk to the press at every opportunity.
+*   You do not need to go to every event. Be selective about the events you attend and aim to only do 1-2 a quarter.
+*   You do not need to spend large amounts of your time networking. Instead, focus on the highest impact outreach.
+*   You do not need to talk to every single investor who reaches out.
+*   You do not need to take meetings at any time. If you are not in scrappy mode, you need to set limits so you don’t burn out.
+*   You do not need to work every day of the week. Take at least one day off per week.
+*   Do not take fake vacations where you still work. You should take real vacations and genuine time-off to unplug. You should have at least a 1-2 week vacation every year and at least a three-day weekend every quarter.
+
+## Delegating
+
+Delegating is very important. Remember your job as CEO is not to be good at everything yourself, but to ensure the __company__ is good at everything. This is done through hiring people who are actually good at those things and delegating to them. The key is to be crystal clear about who is owning what and ensure you have a process for resolving disputes when there is overlap or a grey area.
+
+Key signs you are not delegating enough:
+
+*   You tend to leave the meeting with many action items for yourself
+*   You are still weighing in on trivial decisions and doing most of the work in an area that you gave to someone else to own more than four weeks ago
+*   You feel the need to jump in on every email and meeting
+
+Key reasons CEOs don’t delegate enough:
+
+*   They don’t know how
+*   They don’t have people they can trust and/or who have the right skills
+*   They are stuck in their previous “work mode” ways that don’t make sense in the “delegation mode” that comes with scaling
+
+Note that it’s also possible to overdelegate - you should not abdicate the key roles of the CEO (see above).
+
+## The Chief Operating Officer
+
+A common trigger for CEO burnout, in addition to some of the items above, is to work on things you hate. If you are working long hours on things you don’t care about, hiring a COO to take them on is a really good idea.
+
+A COO can help add executive bandwidth, scale the company (especially if they have prior experience scaling), help build out the executive team, and take on the areas that the CEO is poorly suited for. Typically (though not always) the COO handles the “business side” (e.g., corporate development, mergers and acquisitions, sales, HR, recruiting, etc.) while the founders continue to focus on product, design, and engineering.
+
+When a COO comes onboard, they ought to deeply integrate into the company as fast as possible. Ideally, within the first thirty days, they will have interviewed everyone at the company and learn about what is and isn’t working.
+
+Be careful when hiring for C-level titles, though, as it will be impossible to promote someone over them. For example, a VP of Operations can always be made to report to an EVP of Operations or SVP of Operations or a COO, whereas a COO cannot.
+
+Another important role for the COO (or someone else) is to act as a “gap filler” and plug holes in the company to shore up what is not getting done. This “gap filler” role could also be a good fit for a Chief of Staff.
+
+## Recruiting, Hiring, and Evaluating
+
+Hiring is the main way companies scale. The goal is to hire employees who will suit the company well over the next 12-18 months. There is no need to look further into the future than that.
+
+Best practices for finding good candidates:
+
+*   Have people from your team refer people to you from their network
+*   When <30 people, it makes sense for founders to spend 30-50% on recruiting
+*   Ask other people outside your organization - especially your board - to help give you referrals
+*   Sometimes there is no good substitute other than just spending a large amount of time going through large numbers of people (via LinkedIn, networking, etc.). It can make sense to hire someone to help with this, even early on.
+*   Once a company is growing fast enough (adding 15-20 people per year), it makes sense to have a dedicated in-house recruiter. This person would help with the sourcing, scheduling, collecting of feedback,
+
+Best practices for ensuring diversity in roles:
+
+*   Ensure you are evaluating diverse candidates for each position
+*   Identify and eliminate sources of bias in your evaluation (e.g., blind gender, race, and name of candidates on resumes; use structured interviewing; use rubrics for grading)
+*   Provide and highlight benefits that support the needs of underrepresented employees (e.g., paid parental leave)
+*   Try to hire from places that offer diverse candidates (e.g., historically black universities)
+*   Specifically reach out to diverse people and invite them to apply
+*   Ensure you have diversity among your interviewers and evaluators
+*   Be careful recruiting exclusively from existing networks as these might be overly homogenous
+*   Emphasize diversity very early, as it gets much harder the more homogenous your company already is
+*   Be careful not to screen out diverse candidates via looking for culture “fit”
+
+Best practices for evaluating candidates:
+
+*   Write a job description for every role
+*   Ask every candidate the same questions
+*   Assign focus areas to each interviewer
+*   Have them develop a work product through the course of an interview
+*   Get feedback from each interviewer about the candidate prior to the interviewer talking with other interviewers
+*   Look to what great people who have this role in other companies think. Potentially they might even be able to help you with final round interviews.
+*   Try to assess that interviewees share your company culture (though be careful not to use this to accidentally filter out diverse populations)
+
+Good yet uncommon interview questions:
+
+*   What would you want from me as your manager?
+*   How do you like to communicate?
+*   What do you want from your teammates?
+
+While it is important to do all of the above and make it fair and equal for all candidates, speed is also important - one of the biggest determinants of how likely you are to hire a candidate is how fast you can get them an offer.
+
+You could consider using a recruiter. This would be good because they already have big networks you can tap into. But beware their incentives - they usually want to convince you to hire anyone as fast as possible, rather than help you get the best candidate.
+
+## Onboarding
+
+Many companies make the mistake of spending months recruiting the best candidates, but then spend very little time making sure they are successful once they join.
+
+Here are some best practices for onboarding employees:
+
+*   Send a welcome email to the new employee and cc everyone they will be working with closely. The letter will explain the person (e.g., bio), their role, who they report to, and their goals for the first quarter.
+*   Give them a welcome package - not just a laptop and email address, but maybe other cool things (e.g., T-shirt, an important book, and a handwritten note welcoming them, onesie if they have a baby).
+*   Pair a new hire with a “buddy” for the first 1-3 months - someone who is not in their reporting chain of command who can introduce them to new people and answer “stupid” questions
+*   Make sure they have ownership over something specific
+*   The manager of the employee should carve out a good amount of time to ensure the employee is successful.
+*   Ensure you are creating a company culture that instills a sense of belonging for that employee.
+
+## Culture
+
+Your company culture acts as an unwritten set of rules and values that drive behavior and cohesion across the company. Culture is a key determinant of success in a company - good culture can lead towards recruiting strong employees and motivating people to do more, whereas bad culture can easily lead toward firings, resignations, demotivation, and chaos.
+
+It’s important to know that a scaling company is a fairly unnatural state of affairs. Most people’s experiences (school, friend groups, clubs, etc.) are usually with a pretty stable group of people that does not grow or change all that significantly. It is the CEO’s job to ensure that the company scales successfully.
+
+It is important to be specific when defining your company culture and avoid platitudes. Culture will require trade-offs and you should be honest about them. For example, it isn’t enough to say “we value hard work” - it is better to say “If you work here, you have to be okay with putting in extra hours and having to redo your work if we feel it isn’t up to our standards. We recognize this isn’t for everyone.”
+
+The culture you want needs to be emphasized daily. If you aren’t repeating it explicitly and being honest about it, you are being unfair to the people who work for you. People need to know what they are signing up for. On the positive side, helping people know what they are in for will help motivate them. When a company gets to be 100-200 people, it is going to be a job in itself, which you may need to hire for, to communicate well internally to all the employees.
+
+Culture also should be implemented directly by making sure you promote and reward people for productivity and living the company’s values, while also getting rid of bad culture fits quickly. It can also be helpful to write down the culture pretty early - even when the company is just a handful of people.
+
+Be careful - A company’s culture should not mean “people who look and act like me”. Rather, it is about instilling a common purpose and shared outlook.
+
+Additionally, it is important to know that your company’s culture can be up to revision, especially as you scale. You don’t want to set the culture in stone, but you do want to oversee the evolution of a positive culture. Some early employees might look fondly on the early days, but it is important to explicitly set them straight and emphasize that changes in the culture are making the company stronger.
+
+Generally speaking, if your company is working well and delivering results, then at least something good has to be going well with the company culture. You can build on that. It can be beneficial to ask your employees what they see as the company’s culture.
+
+## Organizing the company
+
+Organizing the company is important to ensure there is a single individual who is responsible for each area and to ensure that each area is covered. The organization chart represents how decisions will be made and how ties will be broken.
+
+There often is a perception that there is one single “correct” way to structure the company and that doing anything other than that one way is disastrous. However, this is not the right way to think about it. Ideally you should organize your company so that it is on the right path for the next 12-18 month time horizon, and worry about the rest later.
+
+Organizing the company is more of an exercise in pragmatism and trade-offs. By the time the year is over, your company will be completely different and will have very different needs that are hard to predict in advance. You can always reorg.
+
+Sometimes you will make compromises in your organization chart to accommodate the strengths and weaknesses of individual executives, even if the combination of roles might not be natural.
+
+If their role is something that makes or breaks the company, they likely should be reporting directly to the CEO.
+
+Teams [should be 4-7 people](https://href.li/?https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2018%2Fapr%2F24%2Fthe-two-pizza-rule-and-the-secret-of-amazons-success=&ref=pasteurscube.com), such that the manager can realistically hold regular 1:1 meetings. This includes the executive team that reports to the CEO.
+
+When promoting managers, you only want someone to manage someone else if they are superior by some clearly apparent metric (e.g., their experience, their reputation within the company for performance, their reputation within the industry writ large, their seniority at the company). It should be clear to the report that their manager is someone who they can learn from.
+
+## Reorganizing the company
+
+It is totally normal for a growing company to reorganize. You should make it clear to all your employees that this is normal and is a sign of success. Other fast growing companies do the same thing.
+
+Early on, you may reorganize your company frequently - every year or so. However, once you cross ~1000 people, you should expect to reorganize within an organization function rather than reorganize the entire company.
+
+How to do a reorg:
+
+*   Decide why you need the new structure. Determine what the new structure should be and what the logic is behind it.
+*   Look to ensure your managers are neither overloaded or underloaded.
+*   Get buy-in from the right people prior to reorganizing. Consult with the executives who are the most impacted.
+*   Go from announcement to fully implemented within 24 hours to avoid chaos.
+*   Communicate the reorganization clearly, directly, and compassionately.
+*   Ensure every person on the leadership team is briefed about the reorg and is ready to answer any questions about it.
+*   Do not have any ambiguity and ensure 100% of everyone knows 100% about what their new role is.
+*   Know that there will always be people who are unhappy with the reorg. While it is important to listen to feedback, know that the reorg is about trade-offs and doing what is right for the whole company.
+
+## Staying in Sync
+
+*   Hold regular (weekly) 1-1s with your team
+*   Once you have 30+ people, you need a weekly executive staff meeting for your executives
+*   Review key metrics to keep people focused, informed, and aligned
+*   Key discussion topics on broader company or product strategy, key issues, etc.
+*   Not meant to be an in-depth update
+*   Ideally there are dashboards in place to give everyone a good picture prior to the meeting
+*   Ideal to circulate notes the night before (or earlier)
+*   The purpose may be for your reports than for you - while you (CEO) may know what all the reports (executives) are doing, your reports may not
+*   Hold skip-level meetings (meet with your report’s report) to stay in touch with the broader organization.
+*   As companies scale, the CEO starts to lose touch with what is happening in the company. Many executives view themselves as shielding the CEO from unimportant information but they can accidentally shield the CEO from important things. This is a good check on that.
+*   Extremely bright junior people may be on to something new and important and you’d benefit from hearing that
+*   These bright junior people will also benefit from hearing about how you think about the company, the product, team culture, etc.
+*   Goal is to foster open communication, identify and nurture talent, and get ideas from people at the front lines of the company.
+*   Important for the manager to not feel threatened or caught off-guard by skip-level meetings. The manager should not show up to these meetings.
+*   [Write a “working with me” guide](https://href.li/?https%3A%2F%2Fmedium.com%2Fswlh%2Fuser-manual-to-me-92c8ce68f960=&ref=pasteurscube.com)
+
+## Scaling Co-Founders
+
+Early in the company, multiple co-founders weigh in on every decision. As the company grows, this will not be sustainable or practical, and instead co-founders should develop more clear decision-making boundaries and areas of responsibility.
+
+Some co-founders will move to be individual contributors (e.g., Steve Wozniak at Apple). Some co-founders may move to be CTO, VP Product, etc. Some co-founders may leave the company.
+
+## Scaling the Board
+
+If your co-founder is like your spouse, then the board is like your in-laws - you have to see them regularly, they are hard to get rid of, and they have an enormous impact on your future.
+
+The board can help with a lot - company strategy, sourcing deals, referring strong hires, fundraising, operations, and governance.
+
+## Scaling Early Employees
+
+Early employees that can grow and scale with the company are very valuable. The “old timer” status and good relationships with the co-founders can allow an early employee to challenge convention in good ways. However, not every early employee scales well and some should change roles, quit, or be managed out. Often companies make the mistake to work hard to “do right” by their early employees by keeping them in a bad role for too long - it is often better for everyone to enable the early employee to thrive more elsewhere.
+
+## Employees not working out?
+
+Usually you will know within 60 days whether a hire is working out or not. It is expected to make some mistakes in hiring, otherwise you are likely not hiring aggressively enough and/or not rooting out bad employees when you should. Though hopefully you do not make too many mistakes, as this would be more of a sign that your evaluation and onboarding processes are not good.
+
+A good sign that someone is not working out is when they are not taking on ownership of their assigned areas and that they end up getting circumvented and their work comes back to you.
+
+## Executives not working out?
+
+Firing a top-level executive is a big deal, but also something that may happen at a company and is not necessarily a sign of failure. Typically prior to firing a top-level executive you ought to discuss it with the board (potentially discussing it with each board member 1:1), prepare the separation agreement in advance, have a clear transition plan in advance, and have a clear communication plan that involves letting everyone know within the same day. After that, all that is left is to be firm, professional, and clear in your firing.
+
+## Conclusion/Appendix: What Will I Personally Do Differently?
+
+I am a CEO of a non-profit. Here are the things I am going to do differently that I am not already doing and didn't think of until reading this book. (Note this is pretty specific to my context and also note that I am already doing a lot of things in this book.)
+
+*   I will stop doing first round interviews and instead set it up so it is delegated
+*   I will stop working on vacation
+*   I will spend more time on recruiting, with special focuses on diversity and ensuring recruiting systems are well set up
+*   I will ensure onboarding processes are improved, following the best practices listed above
+*   I will write our culture up more explicitly
+*   I will have more regular skip-level meetings
+*   I will involve the board more in recruiting

@@ -1,0 +1,67 @@
+# Andrew Chen on network effects and competing for growth in a rocketing market
+
+## **There’s a part at the top of _The Cold Start Problem_ that’s great at setting up why the problems you examine in the book are important. You say, “Although software has been easier to build, growing products has not gotten easier,” and then you go on to explain growth in this time has become a “zero-sum” game as a result. With digital-first markets having exploded even more since you wrote that, what does anyone hoping to find growth for their product _today_ need to understand about the landscape?**
+
+Let’s go back a decade ago. When you were building a mobile app back in the day, if it was a “killer” mobile app, what were you really competing with? You were competing with waiting in line. And even if you were worried about competing with another app, there were only a couple hundred thousand in the App Store. And so whatever category of product that you were building, whether that was for the workplace or marketplace company or a dating app, you maybe had two or three other competitors, but it wasn’t crazy. And now fast forward a decade later, and all of a sudden we have millions upon millions of apps. People are a lot less excited about installing new ones.
+
+With the market today, it’s really, really hard to break through the noise. For anything to break through, or to even gain traction, it’s got to be something that your friends or colleagues are pulling you into.
+
+## **What you’re hitting on is the focus of the book—that so many of the best products capitalize on networks to grow, or have used network effects. You outline stages of capturing (and keeping) network effects. Can you walk us through what these look like and how some of the most important products from recent years have navigated them?**
+
+Yeah, one of the big ideas in _The Cold Start Problem_ is that the secret to many of tech’s most successful companies has been the fact that these companies actually are, at their core, products that connect you with other people. So if you take a Zoom or a Slack, those are products that connect you to colleagues for communication. If you’re looking at Airbnb, you’re looking at Uber, you’re looking at Instacart—these are products that connect you to drivers, hosts, and couriers that deliver your food.
+
+And when you build a product in this way, the product actually has this really powerful force at the center of it, which is the power of network effects. And network effects let the network actually bring new users into the product: You end up hearing about WhatsApp because a friend adds you to a group. You end up hearing about Zoom because someone adds you to a meeting and you kind of have no choice in these cases to install it and try it out.
+
+Networks effects become this really unique advantage, especially once you get to scale. But one of the most important things here is to point out that there are stages to capturing it, a framework to the whole thing.
+
+“Network effects let the network \[of a product\] actually bring new users into the product: You end up hearing about WhatsApp because a friend adds you to a group… \[or\] Zoom because someone adds you to a meeting.”
+
+For example, solving **The Cold Start Problem**, the first stage, often involves what Paul Graham from Y Combinator calls “doing things that don’t scale.” If you’re Tinder, you’re throwing parties on college campuses. If you are Slack, you are manually onboarding your friends’ startups into your product. If you are a marketplace company like Airbnb or Uber, you’re advertising on Craigslist. These are all these really unscalable things, and some people are really experts and love that kind of hustle part of that business.
+
+In **The** **Tipping Point** and **Escape Velocity** stages, the growth work has to become much more organized. You have to become analytical. You have to think about scale. You have to think: How do I layer more marketing channels on top of what I’m doing? How do I change the product in a way that accelerates all of the viral growth that I want and all of the engagement loops that I want in order to reinforce these network effects that exist in the product?
+
+And then finally, you have **The Ceiling** and **The Moat**. When you are working at a more established company, like Slack today, you’re trying to figure out how to _keep_ growing that business. This can be where market saturation kind of factors come in, maintaining relevance when things like algorithms really start to play larger roles.
+
+There’s not a precise playbook to navigate this framework. But the main idea is that there’s usually some kind of an insight or some kind of a growth hack to get the whole thing going, and then once it gets going, things turn a lot more professional and analytical in order to get off the ground further.
+
+## **Looping back to this idea that competition has, in some ways, made it harder for products to find growth, which of the five stages of capturing networks effects do you think has become the most challenging to tackle today?**
+
+The largest challenge is still the first phase—and what the core of the book is based on. The Cold Start phase is such a magical force to get a hold of.
+
+In the earliest days, if you have a product where it’s more useful as more people are using it, the converse is that if no one’s using it, it’s not useful at all. And so you have to solve The Cold Start Problem. You have to get the right number of people and the right kinds of people into the product all at the same time in order for it to be a compelling service to use.
+
+And if you’re launching a new product right now, it’s likely there are going to be other products you’re looking to compete against that have built a network already, and they may have grabbed a good growth spurt in the last year. That makes it even harder to break in, and I think it’s both true for founders as well as folks who are working on new products within established companies.
+
+## **Let’s get into your own working experience a bit: Which of those five phases of growth has traditionally been your favorite to tackle?**
+
+A lot of the book is about my time at Uber. And my favorite period in Uber was in that transition from being a kind of hands-on hustle culture to a culture that was much more about being scientific.
+
+In later years, our processes became more about efficiency, and we pivoted to trying to squeeze margin out of every transaction—which is a little bit less my style. But I certainly enjoyed the early years when we were spending over $1 million a year in growth marketing and referral programs and all that stuff. We were adding 3% of the world’s population. Those were some really fun times.
+
+## **Do you have a set of growth metrics or practices you’ve taken with you to every team you’ve joined or been an advisor for?**
+
+Yeah, I think it’s dependent on stage. I would say that the core framework that I tend to think about the most is in the earliest stages.
+
+When you’re solving The Cold Start Problem, you are primarily thinking about retention. You’re trying to figure out things like whether your product is a daily-use product. For example: After day 30, are you getting more than 15% of your users using the product? That’s often a really good measurement. And I focus on that over top line growth, because at that point, you’re just trying to figure out whether your product is sticky enough to add more users to it.
+
+Once you’re in the Escape Velocity stage, then I’m starting to look for 3x, 4x, or 5x per year annual growth. And that might look more like 20% monthly or something like that in the early years. I like a framework out there called the Triple, Triple, Double, Double, Double (T2D3) for this kind of growth, which I show the math on in the book.
+
+“When you’re solving The Cold Start Problem, you are primarily thinking about retention. … For example: After day 30, are you getting more than 15% of your users using the product? That’s often a really good measurement.”
+
+## **And what, if anything, about these growth formulas and practices that you’ve followed for so long have changed the most in recent years?**
+
+I think it’s been interesting to see the growth outliers emerge. It’s been kind of amazing how some companies along the way have been able to go much, much faster than anyone would’ve thought. If you looked at early Instagram, within a few years, they were already into the 100 million-plus user range.
+
+So, yeah. I think with everyone having phones and computers, and with every company and product team having established distribution models that include advertising and viral growth that can reach billions of people, it all means the successes are just that much bigger.
+
+## **Speed round on the companies you’ve lent your expertise: What’s the best Substack you’d recommend about product or growth, the most interesting thing you’ve learned in a Clubhouse call, and your guilty pleasure Uber Eats order?**
+
+For best Substack, I’d say you want to read [Lenny Rachitsky’s](https://www.lennysnewsletter.com/). He did growth at Airbnb and now we both work together with Reforge. Lenny is very insightful with product and growth stuff, and I’ve learned a lot from him.
+
+Of course, being an a16z partner, I will say that the Clubhouse one-on-ones that Marc Andreessen and Ben Horowitz do are great, where they talk a lot about everything on managing and running technology companies. They talk a lot about COVID and the future of work. They talk a lot about Web3 and cryptocurrency. So that’s a fantastic series of conversations that they do about once a month. They are always a pleasure to listen to, and even though I hang out with the guys all the time, it’s always fun to hear the long-form version of some of their ideas.
+
+For the last one, I have to say I am a big Chick-fil-A fan. I’ve been splitting my time between San Francisco and Los Angeles, and my new place in LA has a dangerously close Chick-fil-A. I definitely love to Uber Eats over some spicy chicken sandwiches. So that’s definitely my guilty pleasure.
+
+#### About Andrew Chen
+
+_Andrew is a general partner at Andreessen Horowitz, where he invests in consumer technology, including social, marketplace, entertainment, and gaming experiences. Today, he serves on the boards of All Day Kitchens, Clubhouse, Envoy, Hipcamp, Maven, Reforge, SandboxVR, Singularity6, Sleeper, Snackpass, and Substack. Prior to joining a16z, Andrew led the Rider Growth teams at Uber. His new book,_ [The Cold Start Problem](https://www.amazon.com/Cold-Start-Problem-Andrew-Chen/dp/0062969749)_, explores how startups launch and scale._

@@ -1,0 +1,424 @@
+# What Bessemer found when they studied 20 AI unicorns, Value pre-revenue startups (excel sheet template) & a16z new AI investment thesis.
+
+👋 Hey, [Sahil](https://www.linkedin.com/in/sahilsr/) here — Welcome back to Venture Curator, where we explore how top investors think, how real founders build, and the strategies shaping tomorrow’s companies. Today’s edition features even more carefully curated content.
+
+**Big idea + report of the week :**
+
+*   What Bessemer found when they studied 20 AI unicorns.
+    
+*   How AI will change different types of consumer purchases.
+    
+*   Why so many first-time VCs are failing at Fund II.
+    
+
+**Frameworks & insightful posts :**
+
+*   How much money will your software startup raise in each venture round?
+    
+*   How investors value pre-revenue startups with Excel sheet.
+    
+*   The hidden reason many B2B startups fail.
+    
+*   The "IKEA effect" (and what it means for founders and startups, and good products).
+    
+*   Don’t confuse product-market fit with subsidy-market fit: Cursor’s problem.
+    
+
+##### **FROM OUR PARTNER - MECO**
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!oDLp!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd5f35a4-02ef-45f0-bc81-e4f3ab1225b6_3000x500.png)
+
+](https://www.meco.app/get/aew5)
+
+**Tired of messy inboxes? [Meco](https://www.meco.app/get/aew5) moves your newsletters to a clean**, scrollable app built for distraction-free reading.
+
+Join 30K+ readers decluttering their inbox—connect Gmail/Outlook.
+
+**[Try Meco today](https://www.meco.app/get/aew5) →**
+
+##### **🤝 PARTNERSHIP WITH US**
+
+**Get your product in front of over 95,000+ audience** - Our newsletter is read by thousands of tech professionals, founders, investors and managers worldwide. **[Get in touch today](https://forms.gle/cqXf43yfpMMDp4NU7)**.
+
+##### **START WITH**
+
+Every AI founder I talk to thinks they need to hit "hockey stick" growth to succeed. They're burning through cash trying to replicate the explosive numbers they read about in TechCrunch, wondering why their solid 20% month-over-month growth feels like failure.
+
+Bessemer Venture Partners just released their [State of AI 2025 report](https://www.bvp.com/atlas/the-state-of-ai-2025), and it reveals something fascinating - there are two completely different ways to win in AI, and most founders are chasing the wrong one.
+
+After studying 20 high-growth AI startups, BVP discovered that successful AI companies fall into two distinct categories. Understanding which path you're on could save you months of misguided strategy.
+
+**The Tale of Two AI Startups**
+
+[
+
+![new growth AI benchmarks State of AI ](https://substackcdn.com/image/fetch/$s_!bMq3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7470bed3-94e5-45f3-ad8d-ac61ebb04e96_1600x900.png "new growth AI benchmarks State of AI ")
+
+](https://substackcdn.com/image/fetch/$s_!bMq3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7470bed3-94e5-45f3-ad8d-ac61ebb04e96_1600x900.png)
+
+*   **The "Supernovas"** hit $40M ARR in year one and $125M in year two. Sounds incredible, right? Here's the catch - they often operate at 25% gross margins (sometimes negative) because they're fighting winner-take-all battles in red-hot competitive spaces. These companies live dangerously close to being "thin wrappers" around foundation models.
+    
+*   **The "Shooting Stars"** take a steadier path: $3M to $12M to $40M to $103M over four years, maintaining healthy 60% gross margins. They look more like stellar SaaS companies - strong product-market fit, loyal customers, predictable growth.
+    
+
+**What Else Does the Report Reveal**
+
+**Infrastructure consolidation is real.** Foundation models are settling around OpenAI, Anthropic, Gemini, Llama and xAI. The opportunity isn't building another model - it's creating compound AI systems that combine retrieval, memory, and planning.
+
+**Memory is the new moat.** Current AI tools are like brilliant consultants with amnesia. They're smart in the moment but forget everything between sessions. Companies solving persistent memory will create the deepest customer loyalty.
+
+**Enterprise systems are cracking.** AI dropped implementation time by 90% because it translates business logic into code automatically. Companies like Day.ai and Attio are auto-logging customer interactions. The strategy? Start with an "AI Trojan horse" feature, then expand.
+
+**"Technophobic" industries are adopting fast.** Healthcare (Abridge for clinical notes), legal (EvenUp for demand packages), and education (MagicSchool for teachers) show 10x productivity gains. The pattern: pick manual, language-heavy workflows as your wedge.
+
+**Browser becomes the new OS.** Think Perplexity's Comet browser - not just search, but a programmable interface where agents can observe and execute across the entire digital world.
+
+**Video generation hits 2026.** After images (2024) and voice (2025), video will cross the commercial threshold next year. Google's Veo 3 and OpenAI's Sora are approaching production-grade quality.
+
+**Evaluation infrastructure matters.** Public benchmarks tell you nothing about real-world performance. Companies building private, use-case-specific evaluation systems will have massive advantages as AI moves to production.
+
+**M&A wave incoming.** Legacy enterprise giants are buying AI capabilities rather than building. If you're creating domain-specific tools, expect acquisition interest.
+
+AI will change the way we shop - from where we find products to how we evaluate them, when we buy, and much more.
+
+This raises a question: What types of purchases will be disrupted, and where does opportunity exist in the age of AI?
+
+a16z recently shared a [framework](https://a16z.com/ai-x-commerce/) from [Justine Moore](https://x.com/venturetwins/status/1955287508394127800) and Alex Rampell that categorises consumer commerce into five categories based on the level of consideration required for a purchase.
+
+The takeaway: AI will disrupt these categories at different speeds, and the biggest near-term opportunities sit in the middle.
+
+[
+
+![Image](https://substackcdn.com/image/fetch/$s_!gcX8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5e23de86-e1e4-4bf5-9a95-52915ee17152_1893x1026.jpeg "Image")
+
+](https://substackcdn.com/image/fetch/$s_!gcX8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5e23de86-e1e4-4bf5-9a95-52915ee17152_1893x1026.jpeg)
+
+Image Source: a16z
+
+*   **Impulse buys**
+    
+
+Candy bars at checkout, funny shirts on TikTok, no research, no deliberation. AI’s role is limited to hyper-targeted, personalised ads that appear at the right moment.
+
+*   **Routine essentials**
+    
+
+Groceries, cleaning supplies, pet food. You know what you like, but AI can act as an autopilot buyer, tracking prices, predicting when you’ll run out, and ordering at the best deal.
+
+*   **Lifestyle purchases**
+    
+
+Luxury skincare, a designer bag, home décor, researched, but not life-changing. AI can serve as a personal shopper, finding, ranking, and explaining the best picks based on your taste, past purchases, and style.
+
+*   **Functional purchases**
+    
+
+Laptops, sofas, bikes, high-cost, long-term items. AI’s role here is deep research plus consultation: a back-and-forth “expert” conversation that compares across brands and matches your exact needs.
+
+*   **Life purchases**
+    
+
+Homes, cars, weddings, degrees, rare, high-stakes decisions. You won’t fully outsource them, but AI coaches can guide research, flag risks, and even help negotiate terms.
+
+**The opportunity:**
+
+The middle three, routine essentials, lifestyle purchases, and functional purchases are where AI can create the biggest disruption fast. They’re big markets with enough complexity for AI to add value, but not so high-stakes that people resist automation.
+
+The boom years of 2021–2022 saw record fundraising for first-time VC managers, $24B raised in 2021 alone. But the sequel is proving far harder to finance.
+
+PitchBook data shows:
+
+*   Of first-time managers who raised in 2021, only **33%** have closed a second fund.
+    
+*   For those who launched in 2022, it’s just **12%**.
+    
+*   Historically, most have raised Fund II within 3 years. Now, many are stalled.
+    
+
+Why?
+
+*   Capital concentration: In H1 2025, just 12 large firms raised over 50% of all VC capital, leaving less for emerging managers.
+    
+*   LP mindset shift: More LPs are doubling down on “power law” funds with proven access to unicorns.
+    
+*   Economic uncertainty: Volatile markets and political shifts (like US clean energy rollbacks) make LPs more cautious.
+    
+*   Overexposure to venture: LP capital is tied up from the 2021–22 surge, with weak returns across the board.
+    
+
+Fund II isn’t just about proving PMF for your investment thesis; it’s about surviving in a market where LP dollars are concentrated at the top, liquidity is scarce, and macro headwinds make new commitments harder to win.
+
+##### **SOMETHING MORE**
+
+Forget the $50M seed round headlines, unless you’re an OpenAI alum or an outlier, those numbers don’t reflect reality. Most founders raise far less, and understanding the real medians will save you time, stress, and false comparisons.
+
+Recently, Carta shared [some data](https://www.linkedin.com/posts/peterjameswalker_startups-fundraising-founders-activity-7360379503346376706-G_Rh/) on this, which you should look:
+
+[
+
+![No alternative text description for this image](https://substackcdn.com/image/fetch/$s_!6saH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ed53b89-be2f-40a9-b535-763244774051_800x754.jpeg "No alternative text description for this image")
+
+](https://substackcdn.com/image/fetch/$s_!6saH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ed53b89-be2f-40a9-b535-763244774051_800x754.jpeg)
+
+**What the data shows (last 12 months, primary rounds only):**
+
+*   Seed: Median $3.5M. 70% of rounds are under $5M.
+    
+*   Series A: Median $11M. Most common range is $10M–$19M. $50M+ rounds are extremely rare.
+    
+*   Series B: Median $20.3M. Huge variation, some at $9M, others at $55M.
+    
+*   Series C: Median $36.8M. $50M+ is common here, but plenty raise smaller.
+    
+
+**What this means for founders:**
+
+*   Don’t plan your raise based on press releases. They’re often the exception, not the norm.
+    
+*   Your funding needs should align with your business model, not vanity numbers.
+    
+*   Smaller rounds (especially pre-seed/seed) can be closed faster using **SAFEs** rather than priced equity, but stacking multiple SAFEs can cause headaches when they all convert later.
+    
+*   In AI and other capital-heavy spaces, question early how much it will take to build something generational.
+    
+
+Run your race. The right raise size is the one that gets you to your next big milestone, not the one that looks good in TechCrunch.
+
+Even with $0 in sales, your startup can have a strong valuation if you understand the levers investors pull. Valuation isn’t just about money coming in; it’s about perceived potential, team credibility, and the size of the opportunity.
+
+**Pre-revenue reality:**
+
+*   You don’t have revenue yet, but investors still see value in the story you’re building.
+    
+*   Early credibility builds trust with partners and makes it easier to attract top talent.
+    
+*   Market perception plays a big role, how you’re seen will influence deal terms and equity split.
+    
+
+**The common methods investors use:**
+
+*   **Berkus Method**: Values five areas (idea, team, product, market, launch) at up to $500K each, capping most valuations at ~$2.5M.
+    
+*   **Scorecard Method**: Benchmarks your startup against similar ones, adjusting for strengths, weaknesses, and competitive landscape.
+    
+*   **VC Method**: Starts from a projected exit revenue, applies profit multiples, and works backwards to match investor ROI targets.
+    
+*   **Risk Factor Method**: Rates 12 risk categories from team quality to market size, adding or subtracting value based on each.
+    
+
+**Boosting your valuation before revenue:**
+
+*   Build an MVP to prove you can deliver.
+    
+*   Showcase a strong, credible founding team with relevant track records.
+    
+*   Choose market comps that work in your favour.
+    
+*   Land early sales or pilots before fundraising to show momentum.
+    
+
+We’ve included a detailed breakdown of each method, plus an [Excel valuation calculator](https://theventurecrew.gumroad.com/l/valuationguide?layout=profile) for each method, in our full guide: [Valuation Guide](https://theventurecrew.gumroad.com/l/valuationguide?layout=profile)
+
+[Sara Santanen](https://www.linkedin.com/in/sara-santanen/), Product Marketing Consultant at FletchPMM, points out a mistake she sees over and over: founders chase big, cross-company problems that no one actually owns.
+
+Founders love to paint a picture of a massive pain:
+
+*   Broken workflows
+    
+*   Endless manual work
+    
+*   Dropped handoffs
+    
+*   Duplicated effort
+    
+*   Wasted time
+    
+
+The problem? In the target company, no single person is responsible for fixing it.
+
+Example: fixing bad CRM data across an organisation. Who owns that? Marketing? RevOps? Sales? In reality, it touches all of them, and big, cross-functional issues usually need C-level sponsorship, which is rare.
+
+If no one owns the problem, no one is actively searching for (or budgeting for) a solution.
+
+What happens in practice:
+
+*   Founder: “We solve X, and it’s a big company-wide problem.”
+    
+*   Investor/Advisor: “Is that why people book demos?”
+    
+*   Founder: “Not really, they usually have problem Z or Y.”
+    
+*   Advisor: “Right… but Z and Y aren’t connected to X in their minds, are they?”
+    
+
+Her takeaway: **In the early stage, focus on a problem that someone owns, feels, and can take action on.**
+
+[
+
+![A 2x2 of problem ownership & how big the problem is, showing how to position the problem you solve as a b2b start, with the sweet spot being a big problem with a clear owner](https://substackcdn.com/image/fetch/$s_!KndY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5d2fad2-b4e6-4d64-9bfd-af1864d59709_800x910.jpeg "A 2x2 of problem ownership & how big the problem is, showing how to position the problem you solve as a b2b start, with the sweet spot being a big problem with a clear owner")
+
+](https://substackcdn.com/image/fetch/$s_!KndY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5d2fad2-b4e6-4d64-9bfd-af1864d59709_800x910.jpeg)
+
+_Image Source: Sara Santanen_
+
+Asana could have pitched “cross-departmental collaboration”, but they started with project management for individual teams, a pain point that had a clear owner.
+
+The startup graveyard is full of tools that solved “everyone’s problem” and therefore no one’s.
+
+Recently, Greg shared an interesting [video on the IKEA effect](https://x.com/gregisenberg/status/1955439410037821891) and how founders can apply this in their startup:
+
+People value things more when they’ve built part of it themselves; that’s the IKEA effect. Your customers can feel the same way about your product if you design it right.
+
+[
+
+![Design Principle: The IKEA Effect | Marvel Blog - Marvel Blog](https://substackcdn.com/image/fetch/$s_!U3k3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf83716c-33a8-4981-b741-4a800775da7b_1200x646.jpeg "Design Principle: The IKEA Effect | Marvel Blog - Marvel Blog")
+
+](https://substackcdn.com/image/fetch/$s_!U3k3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf83716c-33a8-4981-b741-4a800775da7b_1200x646.jpeg)
+
+Image Source: Marvel App
+
+**How to make it work (with examples):**
+
+*   **Make onboarding hands-on.**
+    
+
+Instead of everything pre-set, guide users to configure it themselves.
+
+Example: Notion’s empty workspace prompts you to add your own pages and templates you feel like you built your system from scratch.
+
+*   **Let them shape the outcome.**
+    
+
+Give customers building blocks they can arrange. Example: Canva lets you start with a template but modify colours, text, and layouts turning “their” design into “your” design.
+
+*   **Involve them early.**
+    
+
+Invite beta users to give feedback before launch. Example: Figma grew a passionate community by running open betas and shipping features shaped directly by user requests.
+
+*   **Personalise over polish.**
+    
+
+Offer flexibility rather than a one-size-fits-all solution. Example: Airtable’s product looks simple at first, but users quickly mould it into CRM systems, project trackers, or content calendars tailored to their workflow.
+
+When users invest effort, they invest emotionally. That makes your product harder to leave and easier to love.
+
+Many startups proudly declare they’ve found product–market fit (PMF). But there’s a quieter, equally critical test: business-model–product fit (BMPF), making sure the way you charge sustainably exceeds the cost to deliver.
+
+Recently, [Chris Paik](https://x.com/cpaik) shared an interesting [article titled as Cursor’s problem](https://docs.google.com/document/d/1q3O7niwoxsyfJ5zSx8dgYzipEgBkUqXzLejQQ-PQNWs/edit?tab=t.0). It shared - Cursor’s story is a cautionary tale.
+
+They sold “unlimited” coding on top of expensive variable-cost AI models from OpenAI/Anthropic. That’s fixed revenue, rising costs, the same trap that buried MoviePass, Oyster, and “Unlimited” ClassPass.
+
+The danger signs:
+
+*   **Cohort inversion**: light, profitable users churn; heavy, unprofitable ones stay.
+    
+*   **Topline masking rot**: growth hides deteriorating margins.
+    
+*   **Subsidies mistaken for product love**: usage spikes when prices are artificially low, but demand collapses when costs are passed on.
+    
+
+Uber and DoorDash survived early subsidies because they had a path to operational efficiency (density, batching, utilisation) and future pricing power. Without that bridge, subsidies just burn cash.
+
+For variable-cost businesses, especially in AI, the lesson is simple:
+
+*   Price in proportion to usage costs.
+    
+*   Cap or segment high-cost users early.
+    
+*   Test demand at the true marginal cost before declaring PMF.
+    
+
+> If customers disappear when the subsidy disappears, you don’t have PMF, you have **subsidy–market fit**.
+
+##### **EXPLORE MORE**
+
+*   AI is polytheistic, not monotheistic. ([Link](https://balajis.com/p/ai-is-polytheistic-not-monotheistic))
+    
+*   Should VCs invest in ‘jockeys’ or ‘horses’? ([Link](https://news.crunchbase.com/venture/startup-funding-people-business-considerations-gray-equidam/))
+    
+*   The VC tech stack report ([Link](https://www.linkedin.com/posts/francesca-baillieu-a2482a8a_excited-to-announce-the-launch-of-scout-activity-7361683055998115840-WMnm?utm_source=share&utm_medium=member_desktop&rcm=ACoAADSZgeABxlwMnuq8n-_LND05e9NXan-Jdvo))
+    
+*   Why taking time to find the right VC is worth it. ([Link](https://www.linkedin.com/posts/nikunjk_have-a-higher-bar-vcs-are-generally-a-gargantuan-activity-7360336807487533056-fLM2/))
+    
+*   SEO cheat codes every founder should know. ([Link](https://x.com/seonatia/status/1954575096690946421))
+    
+*   The VC scorecard that early-stage investors use. ([Link](https://x.com/sahils_r/status/1955992823347781844))
+    
+*   Index’s billion-dollar streak: why it’s rivalling Sequoia’s best years. ([Link](https://www.linkedin.com/pulse/index-new-sequoia-did-bankers-screw-figma-yoram-wijngaarde-l6sge/))
+    
+*   Q3 2025: Quantitative perspectives: US market insights. ([Link](https://pitchbook.com/news/reports/q3-2025-quantitative-perspectives-us-market-insights))
+    
+*   Why over-optimizing could kill your startup. ([Link](https://wildfirelabs.substack.com/p/the-efficiency-paradox-why-over-optimizing))
+    
+*   Why AI can't crack your database. ([Link](https://tomtunguz.com/spider-2-benchmark-trends/))
+    
+
+##### **NEWS RECAP**
+
+**New In VC**
+
+*   Hatteras Venture Partners, NC-based human medicine focused venture capital firm, closed two funds, with over $200m in capital commitments from limited partners. ([Read](https://venturedailydigest.substack.com/p/lovable-targets-1-billion-arr-china))
+    
+*   Scenius Capital, a Miami, FL-based digital assets investment firm, reportedly raised $20m for a new fund of crypto VC funds. ([Read](https://venturedailydigest.substack.com/p/elon-musks-xai-co-founder-departs))
+    
+*   JMI Equity, a Washington, DC-based growth equity software investor, closed JMI Equity Fund XII, at $3.1 Billion. ([Read](https://venturedailydigest.substack.com/p/perplexity-offers-345b-to-buy-chrome))
+    
+
+**New Startup Deals**
+
+*   Cohere, a Toronto-based enterprise AI startup, has raised $500 million in an oversubscribed round at a $6.8 billion valuation. ([Read](https://venturedailydigest.substack.com/p/lovable-targets-1-billion-arr-china))
+    
+*   Topline Pro, a NYC-based AI-powered engine improving how home service businesses grow and run online, raised $27M in Series B funding. ([Read](https://venturedailydigest.substack.com/p/lovable-targets-1-billion-arr-china))
+    
+*   Coverd.us, a New York City-based fintech platform designed to gamify financial wellness, raised $7.8 million in seed funding. ([Read](https://venturedailydigest.substack.com/p/elon-musks-xai-co-founder-departs))
+    
+*   Onerway, a London, UK-based global payments infrastructure provider, raised $10M in Series A+ funding. ([Read](https://venturedailydigest.substack.com/p/elon-musks-xai-co-founder-departs))
+    
+*   Jump, a NYC-based fan experience and sports tech startup, raised $23M in Series A funding. ([Read](https://venturedailydigest.substack.com/p/perplexity-offers-345b-to-buy-chrome))
+    
+*   TILKI, a London, UK-based AI-powered game creation platform, closed $2.2M in pre-seed funding. ([Read](https://venturedailydigest.substack.com/p/perplexity-offers-345b-to-buy-chrome))
+    
+
+##### **TODAY’S JOB OPPORTUNITIES**
+
+*   Investor Relations Associate - Alumni Venture | USA - [Apply Here](https://www.linkedin.com/jobs/view/4285719107/)
+    
+*   Analyst - Adams Street Partners | USA - [Apply Here](https://www.adamsstreetpartners.com/careers-job-post/?gh_jid=4807615007)
+    
+*   Associate - Iconique Capital | USA - [Apply Here](https://job-boards.greenhouse.io/iconiq/jobs/7096654)
+    
+*   Investor Relations Manager - BECO Capital | UAE - [Apply Here](https://www.linkedin.com/jobs/view/4285646165/)
+    
+*   Analyst / Senior Analyst - Updaya Social Venture | India - [Apply Here](https://www.linkedin.com/posts/ankurmehtajn_were-hiring-analyst-senior-analyst-activity-7359142632113037312--7lo/)
+    
+*   Program Manager - generator | USA - [Apply Here](https://venturecapitalcareers.com/job/1807880-program-manager-gbeta-inland-empire-gener8tor)
+    
+*   Investment Analyst - Zeta Capital | India - [Apply Here](https://www.linkedin.com/posts/zeta-capital-advisors_were-hiring-investment-analyst-zeta-capital-activity-7358877654583783425-6GOv)
+    
+*   Capital Formation Analyst - March Capital | USA - [Apply Here](https://marchcapital.bamboohr.com/careers/38?)
+    
+*   Associate - OMERSE Venture | USA - [Apply Here](https://careers.omers.com/ca/en/job/JR-7289/Associate-Ventures)
+    
+*   Investment Analyst - Caanan | USA - [Apply Here](https://www.linkedin.com/jobs/view/4280304750)
+    
+*   Partner 16 - a16z | USA - [Apply Here](https://a16z.com/about/jobs/?gh_jid=6331298003)
+    
+*   Associate Telescope Partner | USA - [Apply Here](https://www.linkedin.com/jobs/view/associate-at-telescope-partners-4271375625/)
+    
+*   Healthcare Analyst - General Investment Management | UK - [Apply Here](https://www.linkedin.com/posts/generation-investment-management_generation-healthcare-analyst-job-description-ugcPost-7350834020655554561-Pa38/)
+    
+*   Investor (AI) - Samsung next | USA - [Apply Here](https://job-boards.greenhouse.io/samsungnext/jobs/7823574002)
+    
+*   Investment Analyst - Miras Investment | Dubai - [Apply Here](https://allocatorjobs.com/investment-analyst-miras-investments/)
+    
+
+##### **PARTNERSHIP WITH US**
+
+**Get your product in front of over 95,000+ audience** - Our newsletter is read by thousands of tech professionals, founders, investors and managers worldwide. **[Get in touch today](https://forms.gle/cqXf43yfpMMDp4NU7)**.
+
+You currently have **0** referrals, only **5** away from receiving **a 🎁 gift that includes 20 different investors’ contact database lists - Venture Curator**
+
+[Refer a friend](https://theventurecrew.substack.com/leaderboard?&utm_source=post)

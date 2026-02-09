@@ -1,0 +1,235 @@
+# Lessons from Eugene Wei
+
+Eugene Wei is one of the most insightful thinkers in tech, media, and product strategy. His blog, Remains of the Day, is a goldmine of frameworks that have become standard vocabulary in Silicon Valley.
+
+### **I. Status as a Service (StaaS)**
+
+Source: [Status as a Service](https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.eugenewei.com%2Fblog%2F2019%2F2%2F19%2Fstatus-as-a-service&ref=antoinebuteau.com)
+
+**1\. The Two Core Principles of Human Nature**
+
+> "Let’s begin with two principles:People are status-seeking monkeys.People seek out the most efficient path to maximizing social capital."
+
+**2\. Social Capital as a Leading Indicator**
+
+> "Social capital is a leading indicator of financial capital, and most social media networks generate much more social capital than actual financial capital."
+
+**3\. The Definition of a Successful Social Network**
+
+> "Social networks are marketplaces for social capital...\[[1](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQHJTWgorNVnRfS-mYZctPwdhawjJIDl0YFFxx4a-ItnIUOmGHDvZWTWjz9lD4gq-aSJjCCez6nDRsz1wuqHTX-g683m3CKfmC3fV6Jildx0a6mXKyKNpireHx4Nhw%3D%3D&ref=antoinebuteau.com)\] To succeed, they must offer their own unique form of status token, earned through some distinctive proof of work."\[[2](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQH1U7TqqAm_ddvpoCXWpp0ZEY7Ul2yDT89kNTYi9XUy2caIMakNvp42XflY7bS6eAxEbRLAInmy-kJMH6RUmEgY2eqdztnef-nRC1yEmRKXORwNug2XDk31QDCVRe7T4CB5QoafP3-e3dlfxdviWTsd8CM7HVtJGGZQvA%3D%3D&ref=antoinebuteau.com)\]
+
+**4\. Proof of Work is Essential**
+
+> "Status isn't worth much if there's no skill and effort required to mine it. If everyone can achieve a certain type of status, it's no status at all, it's a participation trophy."
+
+**5\. Utility vs. Social Capital**
+
+> "Come for the fame, stay for the tool? No. Come for the tool, stay for the network? That is the classic definition of a network effect... But the most successful networks often offer both utility and social capital."
+
+**6\. The Volatility of Status**
+
+> "Status is a relative ladder. It is a zero-sum game in a way that utility is not."
+
+**7\. Why Copying Features Often Fails**
+
+> "If you can't change the proof of work competition as a challenger, copy and throttle is an effective strategy for the incumbent.\[[1](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQHJTWgorNVnRfS-mYZctPwdhawjJIDl0YFFxx4a-ItnIUOmGHDvZWTWjz9lD4gq-aSJjCCez6nDRsz1wuqHTX-g683m3CKfmC3fV6Jildx0a6mXKyKNpireHx4Nhw%3D%3D&ref=antoinebuteau.com)\] The reason that matching the basic proof of work hurdle of an incumbent fails is that it generally duplicates the status game that already exists."\[[1](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQHJTWgorNVnRfS-mYZctPwdhawjJIDl0YFFxx4a-ItnIUOmGHDvZWTWjz9lD4gq-aSJjCCez6nDRsz1wuqHTX-g683m3CKfmC3fV6Jildx0a6mXKyKNpireHx4Nhw%3D%3D&ref=antoinebuteau.com)\]
+
+**8\. The "Cool" Factor**
+
+> "Young people tend to be the tip of the spear when it comes to catapulting new Status as a Service businesses... because they are generally social capital poor."
+
+**9\. Evaporative Cooling**
+
+> "As a network grows, the quality of the content and the signal-to-noise ratio tends to drop... This is often referred to as 'context collapse'."
+
+**10\. Context Collapse**
+
+> "When you speak to a massive audience, you inevitably have to water down your message to avoid offending anyone. This is the 'lowest common denominator' effect of large social graphs."
+
+**11\. Algorithm as Market Maker**
+
+> "The algorithm acts as a rapid, efficient market maker, connecting videos with the audiences they're destined to delight. The algorithm allows this to happen without an explicit follower graph."
+
+**12\. Scarcity is Value**
+
+> "Value is tied to scarcity, and scarcity on social networks derives from proof of work."
+
+### **II. Invisible Asymptotes (Growth Strategy)**
+
+Source: [Invisible Asymptotes](https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.eugenewei.com%2Fblog%2F2018%2F5%2F21%2Finvisible-asymptotes&ref=antoinebuteau.com)
+
+**13\. Defining the Invisible Asymptote**
+
+> "An invisible asymptote is a ceiling that a company's growth curve will eventually bump up against if it continues down its current path."
+
+**14\. Product Market Unfit**
+
+> "We focus so much on product-market fit, but once companies have achieved some semblance of it, most should spend much more time on the problem of product-market unfit."
+
+**15\. Ask Customers What They Hate**
+
+> "Customers are often bad at articulating what they want (the faster horse problem), but they are very good at pinpointing what they don't like."  
+> (Learning: Amazon discovered Prime not by asking what people wanted, but by realizing people hated paying for shipping.)
+
+**16\. The Shoulder of the S-Curve**
+
+> "Every successful business experiences an S-curve... few think about the shoulder that comes soon after; the point when, inevitably, a company's growth flattens."
+
+**17\. Segmentation is the Key**
+
+> "When you hit an asymptote, the key to unlocking growth is usually customer segmentation—creating different products for different users."
+
+**18\. Seduction vs. Data**
+
+> "Seduction is a gift, and most people in technology vastly overestimate how much of customer happiness is solvable by data-driven algorithms."
+
+**19\. Personal Asymptotes**
+
+> "Successful people are often much more conscious of their own personal asymptotes at a much earlier age than others."
+
+### **III. TikTok & Seeing Like an Algorithm**
+
+Sources: [TikTok and the Sorting Hat](https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.eugenewei.com%2Fblog%2F2020%2F8%2F3%2Ftiktok-and-the-sorting-hat&ref=antoinebuteau.com), [Seeing Like an Algorithm](https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.eugenewei.com%2Fblog%2F2020%2F9%2F18%2Fseeing-like-an-algorithm&ref=antoinebuteau.com)
+
+**20\. Algorithm-Friendly Design**
+
+> "To serve your users best, first serve the algorithm. TikTok is an exemplar of 'algorithm-friendly design'—design that helps the algorithm 'see' user preference."
+
+**21\. The Interest Graph vs. The Social Graph**
+
+> "TikTok is not a social network; it is an interest network. It builds a graph of your interests, not your friends."
+
+**22\. Friction Can Be Good**
+
+> "The goal of any design is not to minimize friction, it's to help the user achieve some end. Sometimes, friction (like swiping one video at a time) provides the cleanest signal to the algorithm."
+
+**23\. Cultural Determinism and Tech**
+
+> "I used to think cultural barriers prevented Chinese apps from succeeding in the West. TikTok proved that a sufficiently advanced algorithm can abstract away cultural differences."
+
+**24\. Remixing as a Network Effect**
+
+> "TikTok lowers the barrier to creation by providing tools that allow for 'remixing'. This creates a 'content network effect' where every new video is a potential asset for other creators to use."
+
+**25\. The Sorting Hat**
+
+> "The For You Page is a Sorting Hat. It sorts users into subcultures rapidly and efficiently without them having to self-select."
+
+**26\. Signal Clarity**
+
+> "By relying on a long scrolling feed... apps like Instagram made a tradeoff in favor of lower friction scanning at the expense of a more accurate read on negative signal.\[[1](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQHJTWgorNVnRfS-mYZctPwdhawjJIDl0YFFxx4a-ItnIUOmGHDvZWTWjz9lD4gq-aSJjCCez6nDRsz1wuqHTX-g683m3CKfmC3fV6Jildx0a6mXKyKNpireHx4Nhw%3D%3D&ref=antoinebuteau.com)\] You can't see what a user ignores in a fast scroll."
+
+**27\. The Feedback Loop**
+
+> "The magic of TikTok is the tight feedback loop between creation, consumption, and the algorithm. The user trains the algorithm, and the algorithm trains the user on what to create."
+
+### **IV. Compress to Impress (Communication & Leadership)**
+
+Source: [Compress to Impress](https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.eugenewei.com%2Fblog%2F2017%2F5%2F11%2Fcompress-to-impress&ref=antoinebuteau.com)\[[3](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQHqcfbM3CrnXEFzDaTpokgc4tnkE5VMyXYiEOTUjuTcj5zRJgWjKzlvsWFySKATVuiDrkPA82PqwSzx-tLJ-uJCQf9Zyw0-ZInwuo_sxj_1ifGwHI24UCZl2tHNf_LI1IX2o5on_vLjzEo9NUTDoX1ljU9A&ref=antoinebuteau.com)\]
+
+**28\. Compression is Power**
+
+> "Great leaders are often great compressors.\[[4](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQGa6YDnYflLgCECLRYLhADXlaHUquD7Cv0NSVDTbSCj0FhuOZ6wKlr374E5sAnXe6ljAX_4wHBKnsiDVjRG1T2FUcZyJr_t62iqLamf8OVs5v_9iNUydaOVLc6768Ze1iEIwUTysqU68ByGdIYRaQ3-LGvf1hUq&ref=antoinebuteau.com)\] They can take complex strategies and compress them into memorable slogans or principles (e.g., 'Day 1')."
+
+**29\. The Telephone Game (Chinese Whispers)**
+
+> "As companies scale, the signal-to-noise ratio drops. Messages get distorted as they pass down the chain of command.\[[5](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQHUYIVJ-CcZW0LpyU1fMTCYwN3cmO6a7BCyvjy-wtT06vQb9ZjX23gDFr3MVfoWbTrmsU9lxaC2wl6v1tt7UlCEUWwVZs7Qj1LHCuBIfJeCqmzgS9F65tmagSmOjgo0VdpGnF5hcaIIDUjfZTA4L1HpXVA%3D&ref=antoinebuteau.com)\] A compressed message survives this distortion better."
+
+**30\. Verse and Rhyme**
+
+> "Rhythm and rhyme allow humans to compress and recall a message with greater accuracy than prose."\[[3](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQHqcfbM3CrnXEFzDaTpokgc4tnkE5VMyXYiEOTUjuTcj5zRJgWjKzlvsWFySKATVuiDrkPA82PqwSzx-tLJ-uJCQf9Zyw0-ZInwuo_sxj_1ifGwHI24UCZl2tHNf_LI1IX2o5on_vLjzEo9NUTDoX1ljU9A&ref=antoinebuteau.com)\]
+
+**31\. Defining the Enemy**
+
+> "Jeff Bezos articulated 'Customer Obsession' to give the company a level of oppositional definition.\[[5](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQHUYIVJ-CcZW0LpyU1fMTCYwN3cmO6a7BCyvjy-wtT06vQb9ZjX23gDFr3MVfoWbTrmsU9lxaC2wl6v1tt7UlCEUWwVZs7Qj1LHCuBIfJeCqmzgS9F65tmagSmOjgo0VdpGnF5hcaIIDUjfZTA4L1HpXVA%3D&ref=antoinebuteau.com)\] You can be competitor-focused, product-focused, or technology-focused; choosing one defines you by what you are not."
+
+**32\. Low Entropy Communication**
+
+> "In high-stakes environments, you want low entropy communication. You want the message to be received exactly as intended, with zero ambiguity."
+
+### **V. Amazon & Product Management**
+
+Sources: Various essays including [The Amazon Tax](https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.eugenewei.com%2Fblog%2F2013%2F10%2F25%2Famazon-and-the-profitless-business-model&ref=antoinebuteau.com)
+
+**33\. Process as Proxy**
+
+> "Good process serves you so you can serve customers.\[[5](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQHUYIVJ-CcZW0LpyU1fMTCYwN3cmO6a7BCyvjy-wtT06vQb9ZjX23gDFr3MVfoWbTrmsU9lxaC2wl6v1tt7UlCEUWwVZs7Qj1LHCuBIfJeCqmzgS9F65tmagSmOjgo0VdpGnF5hcaIIDUjfZTA4L1HpXVA%3D&ref=antoinebuteau.com)\] But if you’re not watchful, the process becomes the thing.\[[5](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQHUYIVJ-CcZW0LpyU1fMTCYwN3cmO6a7BCyvjy-wtT06vQb9ZjX23gDFr3MVfoWbTrmsU9lxaC2wl6v1tt7UlCEUWwVZs7Qj1LHCuBIfJeCqmzgS9F65tmagSmOjgo0VdpGnF5hcaIIDUjfZTA4L1HpXVA%3D&ref=antoinebuteau.com)\] This is the death knell of a company."
+
+**34\. Working Backwards**
+
+> "Start with the customer and work backwards. Write the press release before you build the product. If you can't write a compelling press release, you don't have a compelling product."
+
+**35\. Two-Pizza Teams**
+
+> "If a team can't be fed by two pizzas, it's too large. Small teams minimize communication overhead and maximize autonomy."
+
+**36\. The Institutional "No"**
+
+> "In large organizations, 'no' is the easiest answer. It requires the least amount of work. Innovators have to fight against the institutional inertia of 'no'."
+
+**37\. Distribution is King**
+
+> "Distribution is king, even when, or especially when, it allocates social capital."\[[1](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQHJTWgorNVnRfS-mYZctPwdhawjJIDl0YFFxx4a-ItnIUOmGHDvZWTWjz9lD4gq-aSJjCCez6nDRsz1wuqHTX-g683m3CKfmC3fV6Jildx0a6mXKyKNpireHx4Nhw%3D%3D&ref=antoinebuteau.com)\]
+
+**38\. The Amazon Flywheel**
+
+> "Lower prices lead to more customers. More customers increase the volume of sales. More volume attracts more third-party sellers. This allows for better fixed-cost utilization, which allows for lower prices."
+
+**39\. Your Margin is My Opportunity**
+
+> "Amazon's strategy was often described by Bezos as 'Your margin is my opportunity.' They were willing to operate at zero or negative margins to gain market share."
+
+**40\. Primitives vs. Platforms**
+
+> "Amazon (AWS) succeeded by building 'primitives'—basic building blocks that developers could assemble into anything. They didn't try to guess the final application; they just provided the Lego blocks."
+
+### **VI. General Strategy & Tech Wisdom**
+
+**41\. Copy and Throttle**
+
+> "When an incumbent sees a threat, they can copy the feature and use their superior distribution to 'throttle' the competitor's growth (e.g., Instagram Stories vs. Snapchat)."
+
+**42\. The "User" is a Myth**
+
+> "There is no such thing as 'the user'. There are only segments of users with different needs, behaviors, and motivations."
+
+**43\. Network Effects are Not Forever**
+
+> "Network effects can be negative.\[[6](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQEYlAqPD8HOIHt3RY-6zRcwsn-AyZ_nz5X5UxorZNQa9i9ISiNKsG5wrDaJFaN0fgw9OnpjQTrl5y3-y9jr0tiqwUQKwQV12r64nJi1xObc9EQQROHdJiMVACHISJ1BFtXnfIwuchvDp5qrqmghOTsuT4r_qvD6WQHnJh7op9eqfY6z-dNFkkFxeA%3D%3D&ref=antoinebuteau.com)\] As a network scales, it can become less useful (spam, noise, context collapse) if not managed correctly."\[[1](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQHJTWgorNVnRfS-mYZctPwdhawjJIDl0YFFxx4a-ItnIUOmGHDvZWTWjz9lD4gq-aSJjCCez6nDRsz1wuqHTX-g683m3CKfmC3fV6Jildx0a6mXKyKNpireHx4Nhw%3D%3D&ref=antoinebuteau.com)\]
+
+**44\. Look at the Outliers**
+
+> "In data analysis, the averages often hide the truth. Look at the outliers—the power users or the churned users—to find the invisible asymptotes."
+
+**45\. Narrative vs. Slides**
+
+> "Amazon banned PowerPoint because slides allow for lazy thinking. Writing a 6-page narrative memo forces you to clarify your thoughts and connect your arguments."
+
+**46\. The ROI of Status**
+
+> "Users constantly calculate the ROI of their posts. If I post this, how many likes will I get? If the ROI drops too low, I stop posting."
+
+**47\. Participation Trophies Kill Networks**
+
+> "If everyone gets a trophy, the trophy has no value. A social network must maintain a hierarchy of status to remain engaging."
+
+**48\. Cultural dysmorphia**
+
+> "Tech companies often suffer from cultural dysmorphia—they build products for people like themselves (wealthy, coastal, tech-savvy) and fail to understand the rest of the world."
+
+**49\. Single-Player Mode**
+
+> "To bootstrap a network, you often need a 'single-player mode'—a tool that is useful even if no one else is on the network (e.g., Instagram's filters)."
+
+**50\. Strategy is Path Dependent**
+
+> "You cannot simply copy a competitor's strategy because their strategy is a result of their specific history, culture, and assets. Context matters."
+
+Sources 
+
+1.  [glasp.co](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQHJTWgorNVnRfS-mYZctPwdhawjJIDl0YFFxx4a-ItnIUOmGHDvZWTWjz9lD4gq-aSJjCCez6nDRsz1wuqHTX-g683m3CKfmC3fV6Jildx0a6mXKyKNpireHx4Nhw%3D%3D&ref=antoinebuteau.com)
+2.  [archetype.fund](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQH1U7TqqAm_ddvpoCXWpp0ZEY7Ul2yDT89kNTYi9XUy2caIMakNvp42XflY7bS6eAxEbRLAInmy-kJMH6RUmEgY2eqdztnef-nRC1yEmRKXORwNug2XDk31QDCVRe7T4CB5QoafP3-e3dlfxdviWTsd8CM7HVtJGGZQvA%3D%3D&ref=antoinebuteau.com)
+3.  [home.blog](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQHqcfbM3CrnXEFzDaTpokgc4tnkE5VMyXYiEOTUjuTcj5zRJgWjKzlvsWFySKATVuiDrkPA82PqwSzx-tLJ-uJCQf9Zyw0-ZInwuo_sxj_1ifGwHI24UCZl2tHNf_LI1IX2o5on_vLjzEo9NUTDoX1ljU9A&ref=antoinebuteau.com)
+4.  [theinbound.net](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQGa6YDnYflLgCECLRYLhADXlaHUquD7Cv0NSVDTbSCj0FhuOZ6wKlr374E5sAnXe6ljAX_4wHBKnsiDVjRG1T2FUcZyJr_t62iqLamf8OVs5v_9iNUydaOVLc6768Ze1iEIwUTysqU68ByGdIYRaQ3-LGvf1hUq&ref=antoinebuteau.com)
+5.  [eugenewei.com](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQHUYIVJ-CcZW0LpyU1fMTCYwN3cmO6a7BCyvjy-wtT06vQb9ZjX23gDFr3MVfoWbTrmsU9lxaC2wl6v1tt7UlCEUWwVZs7Qj1LHCuBIfJeCqmzgS9F65tmagSmOjgo0VdpGnF5hcaIIDUjfZTA4L1HpXVA%3D&ref=antoinebuteau.com)
+6.  [stanford.edu](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQEYlAqPD8HOIHt3RY-6zRcwsn-AyZ_nz5X5UxorZNQa9i9ISiNKsG5wrDaJFaN0fgw9OnpjQTrl5y3-y9jr0tiqwUQKwQV12r64nJi1xObc9EQQROHdJiMVACHISJ1BFtXnfIwuchvDp5qrqmghOTsuT4r_qvD6WQHnJh7op9eqfY6z-dNFkkFxeA%3D%3D&ref=antoinebuteau.com)

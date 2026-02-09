@@ -1,0 +1,96 @@
+# A Founder's Guide to SaaS Strategy & Growth
+
+Software as a Service has become the dominant business model for B2B software, but building a successful SaaS company requires mastering unique challenges around pricing, customer acquisition, retention, and unit economics. This guide synthesizes insights from analyzing hundreds of successful SaaS companies and their path to scale.
+
+## Table of Contents
+
+1.  [SaaS Business Model Fundamentals](https://tomtunguz.com/saas-strategy-guide/#fundamentals)
+2.  [Pricing Strategy & Optimization](https://tomtunguz.com/saas-strategy-guide/#pricing)
+3.  [Customer Acquisition & Growth](https://tomtunguz.com/saas-strategy-guide/#acquisition)
+4.  [Retention & Customer Success](https://tomtunguz.com/saas-strategy-guide/#retention)
+5.  [Key Metrics & Unit Economics](https://tomtunguz.com/saas-strategy-guide/#metrics)
+6.  [Scaling Operations](https://tomtunguz.com/saas-strategy-guide/#scaling)
+7.  [Path to Profitability](https://tomtunguz.com/saas-strategy-guide/#profitability)
+
+## SaaS Business Model Fundamentals
+
+### The SaaS Advantage
+
+*   Predictable recurring revenue
+*   High customer lifetime value potential
+*   Scalable delivery model
+*   Continuous product improvement capability
+
+### Key Success Factors
+
+1.  **Product-Market Fit**: [Strong PMF signals in SaaS](https://tomtunguz.com/saas-strategy-guide/saas-product-market-fit)
+2.  **Unit Economics**: [Understanding the fundamental unit of SaaS growth](https://tomtunguz.com/saas-strategy-guide/fundamental-unit-of-saas-growth)
+3.  **Customer Success**: [Why customer success is critical for SaaS](https://tomtunguz.com/saas-strategy-guide/customer-success-why-now)
+
+## Pricing Strategy & Optimization
+
+### Pricing Models That Work
+
+*   **Usage-based pricing**: Growing trend, especially for infrastructure
+*   **Per-seat pricing**: Traditional but effective for collaboration tools
+*   **Value-based pricing**: Optimal for high-ROI solutions
+*   **Freemium models**: [How freemium works in practice](https://tomtunguz.com/saas-strategy-guide/how-freemium-works)
+
+### Pricing Psychology
+
+*   [The challenge of performance pricing](https://tomtunguz.com/saas-strategy-guide/challenge-performance-pricing)
+*   [Activity-based pricing strategies](https://tomtunguz.com/saas-strategy-guide/activity-based-pricing)
+*   [How to price your startup’s product](https://tomtunguz.com/saas-strategy-guide/how-to-price-your-startups-product)
+
+## Customer Acquisition & Growth
+
+### Sales & Marketing Alignment
+
+Understanding your ideal customer profile (ICP) is crucial:
+
+*   [ICP identification strategies](https://tomtunguz.com/saas-strategy-guide/icp-identification)
+*   [ICP and disqualification processes](https://tomtunguz.com/saas-strategy-guide/icp-and-disqualification)
+
+### Growth Channels
+
+*   **Product-Led Growth**: [Five pillars of PLG](https://tomtunguz.com/saas-strategy-guide/five-pillars-of-plg)
+*   **Sales-Led Growth**: [Structuring your sales team for success](https://tomtunguz.com/saas-strategy-guide/how-should-you-structure-your-sales-team-for-success)
+*   **Content Marketing**: [Content marketing lessons learned](https://tomtunguz.com/saas-strategy-guide/content-marketing-lessons-learned)
+
+## Related SaaS Strategy Articles
+
+### Growth & Scaling
+
+*   [Can You Still Make Money in SaaS?](https://tomtunguz.com/saas-strategy-guide/can-you-still-make-money-in-saas)
+*   [The Mirage of SaaS Clouds](https://tomtunguz.com/saas-strategy-guide/mirage-saas-clouds)
+*   [Does Winner Take Most in SaaS?](https://tomtunguz.com/saas-strategy-guide/does-winner-take-most-in-saas)
+
+### Metrics & Analytics
+
+*   [Five Characteristics of an Ideal SaaS Company](https://tomtunguz.com/saas-strategy-guide/five-characteristics-of-an-ideal-saas-company)
+*   [How Much is Your SaaS Company Worth?](https://tomtunguz.com/saas-strategy-guide/how-much-is-your-saas-co-worth)
+*   [SaaS Valuation Multiples Analysis](https://tomtunguz.com/saas-strategy-guide/saas-valuation-multiples)
+
+### Sales & Customer Success
+
+*   [How Much Should You Pay Salespeople?](https://tomtunguz.com/saas-strategy-guide/how-much-pay-salespeople)
+*   [The Evolution of Customer Success](https://tomtunguz.com/saas-strategy-guide/customer-success-evolution)
+*   [Customer Success Compensation Models](https://tomtunguz.com/saas-strategy-guide/customer-success-compensation)
+
+### [Go-to-Market Strategy Guide](https://tomtunguz.com/go-to-market-guide/)
+
+Scale your SaaS go-to-market motion. Sales models (PLG vs SLG), customer acquisition strategies, pricing optimization, & building revenue operations for SaaS.
+
+### [Customer Success Guide](https://tomtunguz.com/customer-success-guide/)
+
+Drive SaaS retention & expansion. Build customer success organizations, reduce churn, expand accounts, health scoring, & scaling CS operations.
+
+### [Product Management Guide](https://tomtunguz.com/product-management-guide/)
+
+Build SaaS products users love. Product-led growth strategies, roadmap prioritization for SaaS, user research, & scaling product teams.
+
+### [Data Strategy Guide](https://tomtunguz.com/data-strategy-guide/)
+
+Leverage data to optimize your SaaS metrics. Analytics infrastructure, metrics frameworks, cohort analysis, & creating data-driven SaaS organizations.
+
+* * *

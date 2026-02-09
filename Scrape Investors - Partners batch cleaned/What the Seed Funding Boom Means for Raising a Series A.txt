@@ -1,0 +1,107 @@
+# What the Seed Funding Boom Means for Raising a Series A
+
+_This article was written in 2015 by First Round Partner_ _[Josh Kopelman](http://firstround.com/team/josh_kopelman?ref=review.firstround.com)__._
+
+Shortly after my first child was born, a friend gave me a copy of a book called “The Blessing of a Skinned Knee.” The book was full of contrarian wisdom. While most new parents' natural instincts are to improve their child’s life by removing obstacles, eliminating every potential source of pain, and helping them avoid adversity, the author of the book cautioned against overprotecting your child. Specifically, her thesis was that grit and resilience are extremely important life skills, and that it is important for people to learn how to overcome adversity (like a skinned knee) at a young age. That way they aren’t surprised when they inevitably experience obstacles at an older age.
+
+There has never been a better time to be an entrepreneur. The number of seed-funded companies has quadrupled over the last four years. Over 200 Micro-VC firms have recently raised over $4 billion to invest at the earliest of stages. [AngelList](https://angel.co/?ref=review.firstround.com) and [FundersClub](http://fundersclub.com/?ref=review.firstround.com) are growing in popularity. This all adds up to an awesome environment for entrepreneurs to get started. While it used to take weeks or months to raise a seed round, we’re now seeing some rounds get raised in a matter of days. Incubators and accelerators are pushing out larger numbers of companies — many getting term sheets within hours of walking off the demo day stage.
+
+Ironically, I believe this current “Seed Surge” is unintentionally exacerbating a **Series A Crunch**. The current free flowing seed stage capital is giving lots of founders a false sense of confidence when going into their Series A. As [Y Combinator](http://www.ycombinator.com/?ref=review.firstround.com) President [Sam Altman](https://www.crunchbase.com/person/sam-altman?ref=review.firstround.com) recently tweeted, “…seed money is so easy to raise in the current environment that founders assume they can just raise more money whenever they want…”
+
+I recently worked with a team of talented, young founders who had raised their Series Seed financing without breaking a sweat. They had their choice of investors (I’m thankful they chose us) and their seed round was oversubscribed by 2x. They set out to raise their Series A round six months later — and they were in for a rude awakening. They ended up raising money, but not as much as they hoped for, it was much much harder than they expected and took months to cross the finish line. In the CEO's words, “Our seed round was super fast and hyper-competitive, and then we went into the A and started getting interrogated about our data. It was like graduating from elementary school straight into college.”
+
+This experience mirrors that of many founders and startups I've seen both inside and outside the First Round community. I believe, across our industry, the unprecedented amounts of seed funding available to startups early on is setting them up for a tough reality check at Series A. You can call it a “crunch” or whatever you'd like, but it's significantly impacting companies' long-term success. Looking at this trend, I think the key is to stay lean and thoughtful after the initial money hits the bank.
+
+**Below is my thinking on why this is so critical, and what founders can do to avoid getting killed in the crunch.**
+
+**What's Happening?**
+
+Seed funding is more plentiful and easier to raise today than I've ever seen during my career. What that means, ironically, is that this makes everything much harder. It sets an expectation — especially for young, first-time founders — that something they expected to be challenging is relatively easy, and this sets strong expectations for the next time they do it. The problem is that the number of A rounds hasn't changed. That amount of Series A capital HAS NOT increased. So, if you have 4x the number of companies with seed funding, that's 4x the players competing for the same money… making it 4x harder to raise an A round than it was five years ago.
+
+I talk to a lot of founders about their Series A experience, and more often than not they say they were shocked by how hard it was to get a term sheet, how long the process took, and how much more complex the conversations got. As one CEO I spoke to noted, “The way that seed funding is all about your idea and team, Series A is all about the numbers. We weren't tracking cohorts or anything at all. I didn't know about LTV or CAC, or how to answer questions about the economics of scale. We walked into an interrogation that we weren't prepared for.”
+
+One reason this happens is that founders mistake casual conversations with VCs for serious interest. Founders get a bunch of emails or calls from VCs, and then feel like they have to start their fundraising process immediately or miss out. This can (and does) lead to a lot of hasty pitching before companies are ready. And here's the deal on the VC side: both partners and associates are paid to get out there and build relationships with promising young companies, but there's no commitment. Investors want to make sure they get “the call” from founders when they begin fundraising — so they're motivated to send “happy vibes” in order to stay around the hoop. These happy vibes are heard by a founder’s “happy ears” — often leading the founder to draw false conclusions about the true level of potential VC interest.
+
+Series A investors are always looking to catch a company before they run an official process, as it's almost always in their best interest to pre-empt a competitive funding situation. That means that they're aggressive in trying to get early meetings. As first-time founders see their inboxes fill with email from VCs, they often assume that the volume and intensity of VC interest will translate into an easy funding round — and often (mistakenly) decide to start a fundraising process too soon.
+
+The real danger with pitching earlier than you planned is that you probably haven't hit the right milestones yet and haven't had the time to set up a fundraising strategy. After raising a seed round, every startup should get smart about the inflection points they need to pass in growth, revenue, etc. to demonstrate the traction (customer acceptance, virality, revenue, engagement, etc.) they need to land a Series A. It's more important than ever to hit those goals as Series A investors have more choices than ever to fill each general partners' 1 to 3 investments a year.
+
+> There's enormous risk in raising too early that many founders forget.
+
+Once a company has taken more than a handful of meetings, it can be viewed as a “shopped deal.” Information travels quickly in the startup community. Great fundraising processes are run tightly, like a tactical mission. Containing information is a huge advantage for founders. If a VC knows that 20 of her peers have already had a look and passed, that's some serious negative signaling. How many people eat at a restaurant after 20 of their friends tell them it stinks?
+
+Of course, there are some VCs who can avoid the herd mentality — but even with them, you'll likely start at a deficit. Of course that doesn't mean you won't be able to raise a financing in the future, it just means you're setting yourself for a much bigger challenge. Once a deal is shopped, you often need to demonstrate more traction by focusing on solid execution for 9 to 12 months before you can take another swing.
+
+> It's almost impossible for a startup to get a second fresh look.
+
+Another, related trend we're seeing is that startups are seeking larger and larger A rounds. It's pretty clear that the market can't accommodate it, yet we keep seeing companies setting out to raise $15 to $20 million Series A rounds — just a few months after they've raised their seed round. To invest $15 million, an investor needs to have 3x the conviction that that they have for a $5 million investment. I think this desire to raise $15M+ at series A is being caused by a couple different things.
+
+Founders often see a handful of data points and believe that a new normal exists. For example, a given founder sees their friend raise a large Series A and sees a few tech press articles on large Series A's and they immediately believe they can do it too. Of course, it might be possible. But it's far from typical.
+
+I also hear a lot of later-stage investors giving early-stage founders bad advice. For example, a founder takes a first meeting on Sand Hill Road and mentions a large target round size. When the investor doesn't blink, the founder now thinks it's achievable, even if it's not.
+
+**A simple piece of advice: It's much easier to increase a round size than to decrease it.**
+
+The most successful founders I see wait to raise — they wait to demonstrate traction and hit proof-points that represent real step-change for their companies — and when they do, they ask for a lower range. You never want to call a VC back and say, “Hey, I know I told you last month that I was raising $15M but now I'm going to raise $6M after talking to a bunch of people.” Every investor will know what that means, and it will raise red flags about you and your company. It's much better to call and say, “So I was going after $6 to $8M, but it looks like we're going to be able to do $12M given the strong investor interest.”
+
+I can't tell you the number of stories I've heard about rounds that failed because founders raised too early and asked for too much. It's an industry phenomenon, but founders' mindsets are only just now beginning to change.
+
+> I think founders vastly underestimate the risk of busted financing.
+
+**So, What Should Founders Do?**
+
+The good news is that companies don't have to fall into the Series A trap. There are a lot of opportunities to capitalize on these same trends and use them to your advantage.
+
+For example, some of the smartest founders I work with are taking advantage of the seed funding boom to raise larger early rounds, buying themselves more time to get more done and hit more of those critical inflection points. If you're only new and shiny once, get as much out of it as you can.
+
+When you raise seed money, you're raising on the strength of your vision. As I always say, **there's nothing like numbers to fuck up a good story**. And that's exactly what happens at the Series A.
+
+You're suddenly judged on the data that you should have been collecting all along to show traction, growth, potential. So why not raise $2.5M in seed money instead of $1.5M to give yourself the best shot at perfecting this data? You should target 18 to 24 months of runway post Series Seed. The best time to raise follow-on capital is when you don't need it, and 2 years of runway gives you the best chance to land in that situation.
+
+The other benefit of raising seed money in today’s environment is that more companies have their choice of which seed investors to work with. There's a chance to be more thoughtful about the investors you want.
+
+**My advice:** Do your research and see which firms and people have a track record of working hard to help their startups win. While there are some super-angels who add tremendous value, there are others who are neither super nor angelic.
+
+Rather than having a “party round” full of VC firm logos, I believe founders are better served by having investors who will roll up their sleeves and open doors, make introductions, help source and recruit great talent, give feedback on a Series A pitch, and call in favors to make things happen. And make sure that your investor is willing to do real work for a seed investment. It's tough for a firm that writes both $250K checks and $25M checks to offer the same level of service and support.
+
+Once you have the money in the bank, you need to pause and map things out carefully. It always surprises me how startups fail to plan realistically around their spending. It's vital that you have a clear picture of the traction and proof points you'll need to show investors when you eventually do raise your A. And these proof points have to both demonstrate a significant jump in valuation and de-risk your concept. That is more difficult given how expensive good people are and the current price of Bay Area real estate.
+
+> It's much easier than you think to spend $1 million.
+
+Keeping your burn rate low until you have product-market fit will give you the best chance at building a big company.
+
+**So many companies say, "Alright, we have 12 months worth of cash, let's launch in 11 months." This isn't a good plan.**
+
+If you take 11 months building your product, even if you assume you'll ship on time (which hardly ever happens), you'll run out of runway before you really know what it's like to be out in the market collecting data. There's nothing that increases your odds of a successful A round like a successful launch followed by customers that really love what you've built.
+
+A successful launch is defined by the months that come after it. Let's say you're an eCommerce company and you know the Christmas holidays will represent 40% of your revenue to date. You don’t want to be in a position where you have to raise in November. You're going to want to make sure you have enough cash on hand to raise in February after the milestone.
+
+These inflection points change year to year — so be sure you know what's currently fundable. For example, in the hardware space, a year ago, $1M in pre-sales on Kickstarter with a great product idea was sometimes enough to raise a Series A. Now, investors are demanding pre-sales in the millions with a product that's either functional or actually in production given the risk of bringing hardware to market.
+
+When thinking about timing, remember, a good fundraising process will take between 4 and 8 weeks. Adding in preparation and time to close, you're talking a few months. Remember this math when you're thinking about timeline and proof points. Cutting things too close can be dangerous.
+
+Keep in mind that capturing this data isn't enough, either. Your Series A pitch should be much more polished and rehearsed than you probably think. While it's an uncomfortable thing to do, and easy to dodge, your fundraising pitch is a make-or-break proposition. I've seen founders who spend more time working on weekly payroll than their pitch. You literally have to make it the most important, if not only, priority once you start the process.
+
+> Founders need to be able to demonstrate mastery of their numbers in conversation.
+
+We recommended spending no less than 4 weeks preparing for a Series A. We've even gone as far as to build an internal team at First Round called “Pitch Assist” that works with our founders to nail the strongest fundraising story.
+
+All of this can make it sound like you should start rationing funds immediately. But there's no need to be that extreme. You don't want to hobble yourself when you really should be building and growing fast. Raising a larger seed and regularly checking your progress against the milestones you need to hit will put you in a good position.
+
+Get the feedback you need from your advisors and other entrepreneurs about the proof points they think you'll need to show. Prioritize advice from people who have worked in a similar sector or know your business model best. If you're a SaaS business, get advisors or seed investors that know this space cold. They should understand the exact metrics in the market that are generating strong interest from follow-on investors.
+
+Depending on your business, you may create more enterprise value with aggressive customer growth instead of a monetization strategy. Progress in all dimensions is not the same when it comes to persuading investors. I highly recommend doing diligence on the firms you really want in your A round. Talk to other entrepreneurs who have pitched them or seed investors who know them to find out what they usually ask or expect. Firms are extremely diverse when it comes to what they want to see from entrepreneurs. The more you know, the more you can tailor your strategy to each meeting.
+
+**Adversity is not necessarily a bad thing.** As Walt Disney once said: “All the adversity I’ve had in life, all my troubles and obstacles, have strengthened me… You may not realize it when it happens, but a kick in the teeth may be the best thing in the world for you.” Starting a company is not easy. It's hard to build an awesome product, to hire talented people, and to raise capital. Don’t let the Series Seed Surge fool you into thinking that future financings won’t be a struggle.
+
+**The Key Takeaways:**
+
+*   The Series A crunch is happening industry-wide, busting funding rounds and limiting startups' potential.
+*   That said, it's never been a better time to be an entrepreneur raising seed funding. It's 4x more available.
+*   To avoid the crunch, only start a Series A fundraising process after you've hit major milestones. Starting too early is very risky.
+*   Be rational about the size of the round you want to raise. It's always easier to increase a round than to shrink it, so let the market bid you up.
+*   Consider raising a larger seed round to give yourself more runway to rack up more proof points before your A.
+*   Take your time during your seed round to choose the right investors who will help you raise the next round.
+*   Know what the key inflection points are that you need to hit to show successful step change.
+*   Give yourself enough time in the market to get the volume of data you need, and figure out what is most compelling to share with prospective investors.
+*   Don't panic. Do everything you can to prepare for the next step.

@@ -1,0 +1,206 @@
+# CAC SaaS: A guide for businesses
+
+Stripe Billing lets you bill and manage customers however you want—from simple recurring billing to usage-based billing and sales-negotiated contracts.
+
+[Learn more](https://stripe.com/billing) 
+
+1.  [Introduction](https://stripe.com/resources/more/cac-in-saas#introduction)
+2.  [What is CAC in SaaS?](https://stripe.com/resources/more/cac-in-saas#what-is-cac-in-saas)
+3.  [How to calculate CAC for SaaS companies](https://stripe.com/resources/more/cac-in-saas#how-to-calculate-cac-for-saas-companies)
+    1.  [Start with the time frame](https://stripe.com/resources/more/cac-in-saas#start-with-the-time-frame)
+4.  [What’s the average customer acquisition cost for B2B vs. B2C SaaS companies?](https://stripe.com/resources/more/cac-in-saas#whats-the-average-customer-acquisition-cost-for-b2b-vs-b2c-saas-companies)
+5.  [How can you lower CAC in SaaS?](https://stripe.com/resources/more/cac-in-saas#how-can-you-lower-cac-in-saas)
+    1.  [Optimize your acquisition mix](https://stripe.com/resources/more/cac-in-saas#optimize-your-acquisition-mix)
+    2.  [Improve your conversion rates](https://stripe.com/resources/more/cac-in-saas#improve-your-conversion-rates)
+    3.  [Build referral and viral loops](https://stripe.com/resources/more/cac-in-saas#build-referral-and-viral-loops)
+    4.  [Increase LTV to absorb CAC](https://stripe.com/resources/more/cac-in-saas#increase-ltv-to-absorb-cac)
+    5.  [Automate and scale what works](https://stripe.com/resources/more/cac-in-saas#automate-and-scale-what-works)
+    6.  [Keep testing and refining](https://stripe.com/resources/more/cac-in-saas#keep-testing-and-refining)
+6.  [What’s a good LTV/CAC ratio in SaaS?](https://stripe.com/resources/more/cac-in-saas#whats-a-good-ltvcac-ratio-in-saas)
+    1.  [What moves the ratio](https://stripe.com/resources/more/cac-in-saas#what-moves-the-ratio)
+
+Customer acquisition cost (CAC) is a [software-as-a-service (SaaS) metric](https://stripe.com/resources/more/essential-saas-metrics) that might initially seem straightforward. But there’s nuance in what’s counted in this figure, what’s not, how CAC changes as a business scales, and what it says about a business’s health. Below, you’ll find a deeper look at how CAC really works in SaaS businesses, including how to calculate it, benchmark it, reduce it, and use it to make smarter decisions.
+
+**What’s in this article?**
+
+*   What is CAC in SaaS?  
+    
+*   How to calculate CAC for SaaS companies  
+    
+*   What’s the average customer acquisition cost for B2B vs. B2C SaaS companies?  
+    
+*   How can you lower CAC in SaaS?  
+    
+*   What’s a good LTV/CAC ratio in SaaS?  
+    
+
+## What is CAC in SaaS?
+
+Customer acquisition cost is how much it costs to turn a prospect into a paying customer. This number carries significant weight for [SaaS businesses](https://stripe.com/resources/more/insights-to-scale-your-saas-business), which often spend heavily to bring customers in before they’ve earned anything from them.
+
+CAC is a unit economics checkpoint. If you’re paying more to acquire a customer than they’re likely to pay you over their lifetime, the math breaks down. For example, if you charge $50 per month and spend $500 to acquire a new customer, it takes 10 months just to break even. Any churn before that point is a loss. But if you’re acquiring customers efficiently, you’ve got a business you can scale.
+
+With SaaS businesses, profitability depends on retention and long-term value. CAC can give businesses a clear understanding of how much they can afford to spend on growth. The lower a business’s CAC (relative to [customer lifetime value](https://stripe.com/resources/more/customer-lifetime-value), or LTV), the more it can reinvest in product, marketing, or customer success. If CAC is high, it might mean a business is overpaying for customers who don’t stick around long enough to justify the acquisition spend.
+
+## How to calculate CAC for SaaS companies
+
+You can find your business’s CAC with a basic equation. But you need to be disciplined about what’s entered into each part of the formula and make sure the timing lines up:
+
+_CAC = Total Sales and Marketing Costs ÷ Number of New Customers Acquired_
+
+Here’s how to figure out what to include.
+
+### Start with the time frame
+
+Pick a time period that reflects the way your business operates (typically monthly, quarterly, or annually). Then, add up every expense that goes toward acquiring new customers during that period. This often includes:
+
+*   Advertising spend (e.g., search, social, display)  
+    
+*   Content production (e.g., writers; design; video; search engine optimization or SEO)  
+    
+*   Sponsorships, events, webinars  
+    
+*   Salaries and commissions for sales and [marketing](https://stripe.com/resources/more/marketing-tactics-for-startups) teams  
+    
+*   Acquisition tools (e.g., customer relationship management or CRM; email automation; analytics)  
+    
+*   Agency fees or contractors focused on lead generation or campaigns  
+    
+
+Don’t include customer support, infrastructure, or research and development (R&D)—just the costs tied directly to acquiring new users.
+
+Next, add up the number of new paying customers acquired during that time period. Only count customers who converted to a paid plan during that time. Free trial sign-ups and marketing qualified leads (MQLs) shouldn’t be included unless they actually became paying users. If you’re working with a freemium model or usage-based pricing, make sure you’re consistent about how and when you count a user as “acquired.”
+
+After that, divide the total cost by the number of new customers. That’s your CAC.
+
+For example, if you spend $50,000 on sales and marketing in Q2 and bring in 250 new paying users that quarter, your CAC is $200:
+
+_$50,000 Total Sales and Marketing Costs ÷ 250 New Customers Acquired = $200 CAC_
+
+A few things can get complicated when calculating CAC:
+
+*   Acquisition costs from one quarter might drive conversions in the next.  
+    
+*   Sales cycles can span months, so you need to match cost and outcome appropriately.  
+    
+*   Some expenses (such as branding) support both acquisition and retention, so you need to figure out how best to allocate them.  
+    
+
+This is where many SaaS teams start segmenting CAC, either by channel (paid versus organic versus outbound), by customer type (small and medium-sized business or SMB versus midmarket versus enterprise), or by acquisition motion (self-serve versus sales-assisted). These segments can help you understand where you’re overspending and where you’re having the most success.
+
+Many SaaS teams also now link ad spend, CRM activity, and billing data into a unified view to avoid the lagging, unclear data that can come from siloed marketing and revenue systems. They often use solutions such as [Stripe](https://stripe.com/billing) for billing and attribution, layered with product analytics and CRM integrations. This functionality makes it possible to monitor CAC with far more granularity, track how it shifts over time, and respond quickly when acquisition efficiency starts to drift.
+
+## What’s the average customer acquisition cost for B2B vs. B2C SaaS companies?
+
+There’s no universal benchmark for CAC across SaaS, but one distinction is consistent: the CAC for [B2B](https://stripe.com/resources/more/how-to-automate-b2b-payments-a-guide-for-businesses) tends to be much higher than B2C.
+
+Selling software to businesses, especially midmarket or enterprise, usually means longer sales cycles, more stakeholders, and hands-on sales involvement. That drives up costs across the board. Account executives, solution engineers, and sales operations add overhead in the form of salaries and commission. Demos, onboarding, and procurement slow down time to close. Acquisition also often involves multichannel campaigns across email, paid ads, content, and events.
+
+CAC for small and middle-market B2B SaaS often [ranges from $300 to $5,000](https://firstpagesage.com/reports/b2b-saas-customer-acquisition-cost-2024-report/), depending on the subindustry and sales complexity. Enterprise tools can see CACs well above that, because even a $9,000 acquisition cost is acceptable if the customer is worth $100,000 over time. Higher CAC isn’t necessarily a problem in B2B as long as the LTV is high.
+
+In contrast, most B2C SaaS companies rely on scalable, self-serve channels, such as:
+
+*   App stores, paid social, influencer marketing  
+    
+*   Freemium-to-paid funnels  
+    
+*   Viral loops and referrals  
+    
+
+Because these don’t require sales teams or one-on-one demos, CAC tends to be lower. Consumer ecommerce SaaS companies see an [average CAC of $64](https://firstpagesage.com/marketing/average-cac-for-saas-businesses-by-industry-and-customer-type-fc/), for example. But the trade-off is that LTV is also usually lower, since individual users tend to churn faster and spend less than business customers.
+
+## How can you lower CAC in SaaS?
+
+Lowering CAC comes down to getting more qualified customers for the same (or less) investment. The most effective strategies focus on improving efficiency at each stage of acquisition, from targeting to [conversion](https://stripe.com/resources/more/checkout-flow-design-strategies-that-can-help-boost-conversion-and-customer-retention) to retention. Let’s take a closer look.
+
+### Optimize your acquisition mix
+
+Not all channels perform equally, and not all customers cost the same to acquire. If content marketing brings in paying users at $100 and paid search costs you $400, that tells you where to focus your efforts. If self-serve sign-ups convert faster and cost less than sales-led deals, consider leaning into product-led growth (PLG) where it fits. If certain customer segments retain better, shift spend toward finding more of them.
+
+The goal is to reallocate spending to channels and segments that pay off faster and more consistently.
+
+### Improve your conversion rates
+
+Every percentage point of improvement in your funnel reduces your effective CAC. Small changes, such as a clearer value proposition on your landing page, a faster sign-up flow with fewer steps, and well-timed nudges (e.g., a live chat, product tours, or social proof), can compound quickly. Getting more out of the traffic and leads you already have often beats pouring more money into the funnel.
+
+### Build referral and viral loops
+
+Referrals can be an efficient growth channel because they often bring in high-intent users at near-zero CAC. Make them easy and rewarding by:
+
+*   Incentivizing sharing with discounts or upgrades  
+    
+*   Building collaboration or team invites into the product  
+    
+*   Asking for reviews and testimonials at optimal moments in the customer journey  
+    
+
+Referred users typically convert faster and [churn](https://stripe.com/resources/more/how-to-calculate-churn-rates) less, which improves both CAC and LTV.
+
+### Increase LTV to absorb CAC
+
+Reducing CAC isn’t always about cutting spend. Sometimes, the better path is to raise LTV so your existing CAC becomes more sustainable. To do this, you can:
+
+*   Improve onboarding to increase activation and reduce early churn  
+    
+*   Increase [average revenue per user (ARPU)](https://stripe.com/resources/more/what-is-average-revenue-per-user-why-it-matters-and-how-to-calculate-it) through upsells, usage-based pricing, or better segmentation  
+    
+*   Improve retention by continually delivering value through new features, strong support, and clear success outcomes  
+    
+
+When customers stay longer and spend more, your CAC is spread across more revenue. This moves your [payback period](https://stripe.com/resources/more/what-is-the-cac-payback-period) forward and gives you more room to grow.
+
+### Automate and scale what works
+
+Manual acquisition doesn’t scale well. If you’re still doing it all by hand (e.g., cold outreach, one-off demos, ad hoc reporting), you’re likely paying too much per customer. Instead of working manually, try:
+
+*   Using marketing automation to nurture leads  
+    
+*   Creating self-service onboarding experiences that convert without sales help  
+    
+*   Investing in analytics that show you what’s working in real time  
+    
+
+The more you can productize your acquisition process, the lower your marginal cost per customer becomes.
+
+### Keep testing and refining
+
+Acquisition efficiency is something you fine-tune over time. Regularly test new channels and flows for creative, pricing and packaging, and free trial versus freemium versus demo request. Track CAC by cohort and by campaign, and analyze how costs shift as you scale. Monitor for early signs that a channel is getting saturated or that a new one is gaining traction. You’ll tend to see the most gains from making steady, compounding improvements.
+
+## What’s a good LTV/CAC ratio in SaaS?
+
+CAC tells you what it costs to get a customer, while LTV tells you what that customer’s value to the business is over time. Together, they define your unit economics and whether your growth is sustainable.
+
+SaaS businesses generally aim for a [3:1 LTV/CAC ratio](https://www.wallstreetprep.com/knowledge/ltv-cac-ratio/). In other words, for every $1 you spend to acquire a customer, you should earn about $3 in return. This ratio gives you enough margin to cover overhead, support, and reinvestment in growth.
+
+Here’s what different ratios indicate:
+
+*   1:1 indicates you’re breaking even.  
+    
+*   2:1 indicates you’re becoming sustainable.  
+    
+*   3:1 indicates you’re stable.  
+    
+*   4:1 and up indicates you’re highly efficient and could potentially be investing more in growth.  
+    
+
+A very high LTV/CAC ratio can mean you’re underinvesting in acquisition. For example, if each customer generates $1,500 LTV and only costs $200 to acquire, you might have room to scale faster.
+
+Companies should also look at how long it takes to recoup CAC. Many SaaS companies try for CAC payback in less than 12 months, which means a customer becomes profitable in their first year. High-performing companies often aim for a shorter timeline. The faster you recover CAC for your business, the sooner you can reinvest that revenue into acquiring more customers.
+
+### What moves the ratio
+
+You can improve LTV/CAC from either side. You can lower CAC with better targeting, improving funnel conversion, or leaning into lower-cost channels such as referrals. Or you can increase LTV by improving [retention](https://stripe.com/resources/more/retention-rate-vs-churn-rate-what-businesses-need-to-know), expanding ARPU, or delivering more long-term value.
+
+For example, let’s say your average customer pays $100 per month and stays for 24 months. That’s $2,400 in LTV. If it costs you $800 to acquire them, you’re right at 3:1. But if churn creeps up and they only stay 12 months, LTV drops to $1,200, and your ratio gets tighter.
+
+This metric is shaped by pricing, onboarding, product quality, support, and customer fit. Treat it as a pulse check on the health of your business’s growth model.
+
+The content in this article is for general information and education purposes only and should not be construed as legal or tax advice. Stripe does not warrant or guarantee the accurateness, completeness, adequacy, or currency of the information in the article. You should seek the advice of a competent attorney or accountant licensed to practice in your jurisdiction for advice on your particular situation.
+
+*   Something went wrong. Please try again or contact support.
+
+Create an account and start accepting payments—no contracts or banking details required. Or, contact us to design a custom package for your business.
+
+Collect and retain more revenue, automate revenue management workflows, and accept payments globally.
+
+Create and manage subscriptions, track usage, and issue invoices.

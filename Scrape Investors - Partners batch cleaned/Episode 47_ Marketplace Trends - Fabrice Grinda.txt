@@ -1,0 +1,343 @@
+# Episode 47: Marketplace Trends - Fabrice Grinda
+
+Given that I have been building and investing in marketplaces for 26 years you might think that everything that needed to be built has already been built, but nothing could be further from the truth. In many ways, we are still at the beginning of the marketplace revolution with lots of exciting new trends.
+
+In this episode, I cover:
+
+*   Cross border commerce.
+*   Live commerce.
+*   New goods verticals supported by service layers.
+*   High take rate business models based on convenience.
+*   Climate tech.
+*   AI enabled marketplaces.
+*   B2B marketplaces:
+    *   Marketplace for inputs.
+    *   SMB enablement.
+    *   Friendshoring.
+    *   B2B labor marketplaces.
+    *   Business infrastructure.
+    *   B2B recommerce.
+
+The episode was highly interactive with dozens of audience questions. Here are some of the questions that I answered:
+
+*   What types of marketplaces can function in real estate?
+*   What are the valuation multiples I am seeing at investment and exit?
+*   What is the best platform to build a marketplace on?
+
+For your reference I am including the slides I used during the episode.
+
+If you prefer, you can listen to the episode in the embedded podcast player.
+
+In addition to the above YouTube video and embedded podcast player, you can also listen to the podcast on [iTunes](https://podcasts.apple.com/us/podcast/47-marketplace-trends/id1532336635?i=1000680596586) and [Spotify](https://open.spotify.com/episode/6N7O89OitWhTLSJQywblzV?si=5d1becfb850b4fa7).
+
+If you prefer to read the content, here is a transcript of the episode.
+
+Hi, everyone. I hope you’re having a wonderful week. So the reason I wanted to do this episode specifically is, of course, the topic du jour has been AI, AI, all AI, all the time. And in many ways, there’s a sense that everything that needed to be done in marketplaces has been done. But I feel that nothing could be further from the truth.
+
+We’re still at the very beginning. And so I want to share some of the things that have been happening and why we’re still excited by the things that are happening in marketplaces and what is to come. So without any further ado, let’s get started. Welcome to episode 47, Marketplace Trends.
+
+So before I walk you through what our current thesis is in the marketplace space, I want to give you or share a few examples of the interesting things that have been happening in the world of marketplaces that are, I don’t know if it’s random, but like different new evolutions and innovations that we’re seeing that are like company specific, but can probably be generalized.
+
+So a few general trends. So first of all, as a general category, cross border commerce is finally becoming a reality, right? Like there is a dream in the early days that in Europe you could be a French company and you’re going to be selling across Europe. But the reality is didn’t happen until recently.
+
+But now you have companies like Vinted, for instance, where it’s a Lithuanian company and their leaders in like the UK and France, but frankly, they’re large across Europe. And what they do is they take their listings in some countries, auto translate them, put them in other countries. And when you’re actually having a chat with a buyer seller, it’s translated automatically.
+
+So it feels like it’s completely seamless. And they’ve integrated payments and shipping, et cetera. So they’ve actually created the first true international cross border CDC marketplace. We’re seeing it in other categories as well. We have Ovoko, which is doing it for car parts. Again, they’re mostly getting and securing car parts in Eastern Europe, and then they’re selling them in France.
+
+But frankly, across Europe, we’re investors in Wallapop, which is also using its leading position in the CDC classified market in Spain to attack in Portugal and Italy. And thinking about other markets. So cross border is finally becoming a reality. And frankly, even from the US. People now can ship from the US To other countries in much easier way than before. We’re seeing eBay now a large, an increasing percentage of revenues are like shipping from the US to outside the US And they’re helping their sellers shipping internationally as well. Second big development is we’re seeing live video commerce come of age right in China already.
+
+It’s been big for a long time. So you have Taobao live. Obviously, it’s the Alibaba CDC marketplace, where about 25 percent of the orders are coming from live video. In the US there was only one category where it was big in the past, which was Whatnot, which is in the collectibles category where people were coming in on a regular basis and buying collectibles.
+
+But other than Whatnot, nothing had really taken off. But we’re seeing now new iterations and innovations of that. We recently invested in Palmstreet and Palmstreet is a live commerce marketplace for rare plants. Now, rare plants seems very niche, but actually it’s a 5 billion category. And frankly, this is also the entry strategy for launching other categories.
+
+And since then, they’ve launched geckos, crystals, pottery, et cetera. And I’m sure they’ll expand more beyond that. Now, the reason live commerce works here is the sellers or prosumers and little stores, they, they have a story to tell. Each plant comes from somewhere, needs to be taken care in a specific way.
+
+And so most of the stores are doing like two streams per week. They’re selling like 10k plus a month. And doing really, really well. And the people that are buying these are creating a special emotional connection with the plants and the company is doing fantastic. We’re talking tens of millions of GMV already; launched not that long ago and growing really rapidly.
+
+So very excited about this one and thinking through what other categories this can be applied to on a go forward basis. New verticals are being created usually by adding a services layer. And I’ll give you a few examples of that in other verticals or categories that find other macro trends, like in the greenification of the world.
+
+But in this case this is a company called Alpaga. They’re a used restaurant equipment marketplace. So in the past, if you were opening a restaurant, you’d provide everything to you. And you’d use it until it was fully depreciated because actually there was no real place to go and sell the equipment, partly because there’s no one to install it, no one to ship it, et cetera.
+
+And so the innovation here is they’ve created a distributed network of installers and shippers for all the used restaurant equipment. So all of a sudden there’s an unlock. And to get supply, they work with commercial kitchens like Marriott, and they get the equipment from them. What happens and what they’ve realized is actually Restaurants change a lot.
+
+They change cuisine, they change scale, and the dishes that we’re offering may change over time. And so, if you’re opening a new restaurant, first of all, you’d rather not buy new and pay a discounted used price. And if you’re changing cuisine, etc., you’d rather actually be in a position to have flexibility.
+
+And so by working with installers and distributors, actually, they’re not charging for it. That’s a pass through. And these are not employees. They’re just like partners. They’ve been able to unlock and create a market again, growing to millions a month in sales and little by little starting to go international.
+
+Now, what’s interesting is There were a few offline brokers. You would think these offline brokers would feel that they’re being disrupted or that they’re that they’re being attacked by this company. But because they don’t actually like to do the shipping installation, they’re willing to put their inventory in Alpaga and, and grow with them.
+
+And so it’s been a successful symbiotic relationship, co-opting the current players to grow in the category. Next interesting trend is we’re seeing new business models emerge. So there’s a marketplace in France called La Bourse aux Livres, and they have a 90 percent take rate. You know, most marketplaces in B2B have like maybe three, five, 7 percent and in consumer C2C, they have 10%, 15%, 20%, maybe 25 percent take rate on the high end, because of course the sellers should be rewarded for the things that they’re selling.
+
+But  La Bourse aux Livres is actually not a, “Oh, we’re going to make you money play”, it’s a convenience play. If you’re a new parent, you have to change all your books every year. And there’s a lot of them and you just don’t have space in your home. And yes, you could sell it on Amazon one by one. You take the book, you scan it, you list it.
+
+And when it sells, you ship it, but it’s a fair amount of work. And they’ve realized that people were not willing to do it for a few dollars. And so what you do with la bourse au livre is, You scan all of your books, it takes you a minute for like 50 books. You put them in a box, they give you a shipping label, so you put the shipping label on and you ship it to them.
+
+They immediately give you a 10% value, a coupon to buy books on their platform, and they take care of selling it. And as a result, they become in very record time, again, millions in sales, profitable, which helps when you have a 90 percent take rate, it makes it easier to make the economics work. They become one of the leading, if not the leading used book marketplace in France, which they’re leveraging to become a distributor of new books.
+
+They’re leveraging to become a book publisher. And so if you think of some categories and I can think of a few, I mean, if you look at [Craigslist](https://www.craigslist.org/about/sites) versus the US, one of the bigger categories is free. And so you can imagine there are categories where people are willing to get rid of the stuff if they don’t do the heffert or a hassle.
+
+Now, can you build a marketplace on top of it? Well, if it’s like things like furniture, I’m not sure, because the storage and shipping costs may be too high. But doing it for books is genius, and I’m sure there’s other categories where people just want to get rid of things, and if you can find a way to make it convenient, etc.,
+
+you can have a very large take rate. Next big beggar trend has been climate tech, and obviously in the US This has been driven by the I.R.A., the Inflation Reduction Act. But frankly, it goes way beyond that, in the sense that people would like to save money on electricity bills and heating bills.
+
+And if the economics work, they’re going to do it. So we’re investors, a company called Tetra. And the innovation here is it makes it way easier to install your heat pump, right? Like the old way you would do this is you go to Angie’s List or Thumbtack, where you find different installers.
+
+You would get a quote, they would come and visit to quote you. And so you get 5, 10 contractors to come over, you get a quote, you don’t really know how to evaluate them, but you pick one, perhaps the best price. And then they do the work typically slowly over budget and you’re pretty unhappy and the experience is a lot of work.
+
+And also even for the contractors it’s a fair amount of work because 10 of them are coming in and only one is getting the job. And so the way Tetra is doing this. is they’ve kind of automated the process and they pick the subcontractor for you. So it looks to you, the consumer, as a Tetra is doing the work.
+
+Kind of like Uber, you don’t pick your driver, Uber picks your driver, but actually the drivers don’t work directly for Uber. And so what Tetra has done is they’ve automated the way by which they can price, then they’ve selected the very best subcontractors. And this way, they’re And no one’s coming to visit your home, by the way.
+
+And this way on time on budget, you get an amazing experience where you’re greenifying your home. So it kind of falls in that other trend of adding a services layer to change the outcome and create a category that didn’t really exist before. And it’s reinventing kind of the use cases of existing marketplaces, right?
+
+If you go to Upwork. to hire someone. You put a job, hundreds of people apply, you need to interview a bunch, you pick one. Again, you just want to voice people. It’s a lot of work. The new way and the modern way is really the marketplace should be picking for you because they know who is going to do the job best based on your specifications.
+
+If you did right. Obviously, this applies more to verticals and thus to horizontal sites, but that marketplace pick model of designing marketplaces is definitely a mega trend. Next thing I kind of touched upon it in the last podcast where I covered the trends in AI and what we’re doing and why we’re controlling in is AI is coming to marketplaces and everyone is using it, of course, to improve customer care to improve programming productivity, but it’s starting to come in in the UX UI itself.
+
+So the old way of listing things, right? You go to eBay you take a few photos of the item, you write a title. You write a description, you select a category, you select a price, then you listen, then you wait for it to sell, takes a while and the process is pretty cumbersome, especially on eBay, a bit less so invented.
+
+And so Hero or Hero Stuff has created a new way to sell where they’ve created a multi category system where you take a photo then it asks you to record a 30 second video where you tell the story. Oh, I bought it in three years ago. These are the specs, et cetera. And actually transcribes your voice to keywords, which it tags to then create a listing.
+
+And as a result, you can create a multi category, beautiful listing and like a minute without needing to do all that much work. And then it creates a little 15 second snippet video that you can post on TikTok and Instagram and elsewhere to sell. Now. Are they going to be able to get them in? I’m sure. But as I think through what is the future of used goods marketplaces, clearly, this is probably the UX UI that is going to make sense and going to resonate the most.
+
+And we’re seeing it with incumbents implementing it, too. So we’re investors in a company called Rebag. Rebag is the leading handbag marketplace. And as a result, they have all the history. They have all the data. They have everything it takes, basically, in order to build this. And so they created their AI called Clair and with Clair, you take a few photos, the handbag, it’ll tell you the model, the make, the condition and the price.
+
+And basically in like a minute, you can basically sell your handbag. Now, of course, you are still shipping the handbag to Rebag and they’re authenticating it afterwards. But it’s it works and it works really well. And of course, this is a case where the incumbent is both In a better position to do it because they have the data, but they’re also the implementing it, right?
+
+Like often incumbents are slow and we’re not implementing the latest technologies involvements. So all that to say, we’re really at the very beginning, like they’re still incumbent or existing categories that are being reinvented. And we’re seeing it reinvention across the board, like from cross border to life commerce to a implementation.
+
+And of course, the big one for us now is B2B. And so we have a full blown B2B marketplace thesis that I want to share right now. So the reason B2B has been the thing we’ve been focusing on the most and has been the most compelling is if you think of your consumer life, Your consumer life is extraordinary, right?
+
+Like in your consumer life, you I can get an Uber in like three minutes. I can order food and get it delivered on DoorDash in like 15 20 minutes. I can order food on Instacart. I, I can book on Booking. com or Airbnb. I can get anything delivered on Amazon in a major city in like maximum two days, often same day.
+
+It’s amazing. Our lives have been digitized when it comes to consumers, but in the B2B world, we’re still like pen and paper. And that’s true. Both that SMBs were doing managing their inventory through pen and paper, but frankly, even large enterprise, right?
+
+Like if you want to order petrochemicals, there’s no online catalog where you can see a list of what’s available. And I’m just saying a list, like not even a, not even a buy now button, pay online button. I’m just saying what is available and then it’s not connected to the factory. So you don’t see manufacturing capacity and delivery delays.
+
+Then of course, no online ordering, no online payment, no tracking the order and no ultimate financing of the order. And this needs to happen in every vertical, in every category, in every geography. You know, we’re like sub 1 percent penetration of digital in most B2B supply chains.
+
+And obviously this is going to have to go to 50, 60, 70 percent of the course of the coming decade. And so when you think of like most of GDP, are these ginormous B2B categories that haven’t been digitized, be it on the input category or SMBs and everything remains to be done. And as I said, these things are huge.
+
+I mean, construction 13 trillion a year, which I think petrochemicals, which I mentioned recently, it’s like 5 trillion a year. Energy, 2 trillion, I mean, trillions and trillions of dollars that have yet to be digitized that need to happen. And the reason there is a why now is there’s a transition in the leadership positions of all of these companies, large enterprise or SMBs, frankly, where they’re run and managed by these baby boomers who like to do things their own way.
+
+They’re not digital natives, and they did RF, RFPs or FQs. But as there is a ownership transition in the SMBs, and there’s a management transition of the larger enterprise to millennials and younger, we’re seeing a shift where they would much rather order an online marketplaces than do RFQs. Now, that’s not to say that B2B always works, right? Like there’s some categories where it doesn’t work. You ideally, of course, want both a high average order value and high frequency of purchase. So ACV for cars is an example of that. A work rise where you’re hiring oil services workers or solar workers, et cetera. If you have a low AOV and low frequency, of course, that doesn’t work. The economics don’t work.
+
+But ideally you want high frequency and IAOV. But at the very least you need one of those two to make the economics work. And even then it doesn’t always work, right? Like sometimes there’s categories where there is no willingness to pay. There’s like massive elasticity or of demand and supply.
+
+So you can’t take a take rate anywhere. Or maybe, There’s a too much concentration in the marketplace such that you’re not really building a marketplace, really building a distributor for the larger players. So part of the reason no one has been able to monetize distributing foods to restaurants is in the US, you have massive players like Cisco. So the Choco’s and recce’s of the world haven’t been really able to take a take rate. We’re investors in a gravel marketplace in Germany. And it’s a three sided marketplace between construction sites, the queries that provide the sand or the gravel, and the truck drivers.
+
+And when you look at it at a macro level, you’re like, yeah, queries, you know, they’re pretty, no one owns more than 1 percent of the market. It’s completely fragmented. Truckers are independent truckers typically, and the construction sites are not very big. This feels like a place where marketplace can work.
+
+And it does in Germany. It does not work in the US. though, because what happened is the private equity companies rolled up all of the queries in a zip code basis. So every single zip code is like only one or two queries. So it’s kind of either monopolistic, duopolistic or oligopolistic, and you have no pricing power.
+
+So in the US, even though at a macro level, it feels fragmented and actually is highly concentrated. Obviously, you’re not shipping gravel from California to New York. You’re only buying local queries. And so that fundamental nuance in the market means that it’s not possible to have a business model and have a take rate, and it makes it impossible to work.
+
+Same thing, sometimes the industry is just not ready, right? Like they’re not tech savvy. They’re not willing to transition, which is why, by the way, many of the founders of these companies, they’re not your typical 25 year old Stanford computer science grad.
+
+They’re more 45 or 50 year old. They’ve been in the industry forever. They understand the problems and they have the credibility and the legitimacy to change the behavior. But many of these have failed. Many will continue to fail.
+
+So here’s your current thesis. And it’s really five sub theses and then a few other trends that we’re seeing that are interesting.
+
+So one is digitizing inputs. So bringing all the instruments that go into making other things. So Knowde for petrochemicals. Schuttflix for gravel Material Bank. They could even be finished goods to give them something else. It could be machine parts, things like fictive.
+
+Number two, mega trend is SMB enablement. And I’ll talk more about that. Three is French orient. So moving supply chains from China, either to friendly countries like India or near shoring to Mexico or on shoring back to wherever you’re building. And I’ll again talk about that.
+
+Then labor marketplaces for that. They’re a bit less of a court thesis for us, but we’re definitely seeing a mega trend and then all the infrastructure that supports these. So let me go and dive deeper into each of these. So B2B marketplace for inputs.
+
+You talked about it earlier right now. You don’t have catalog, connectivity to the ERP, you still understand manufacturing delays, et cetera. And so we’re seeing this being developed in every category. So Knowde for petrochemicals, the founder came from the chemical industry.  Schuttflix, I said a three sided marketplace in Germany for gravel and Europe at large.
+
+Probably these go after very large categories. The business model, by the way, in some of these cases, the willingness to pay is so low, you cannot take a take rate. The reason their marketplace is they’re matching buyers and sellers. But actually, the business model may very well be a sass fee or a financing fee or a management fee for the shipping, etcetera.
+
+So the way you met you actually finance these matters in Europe were investors in Metaloop, which is a steel marketplace, but like the industries are, you know, reasonably infinite, very early days here. There’s been many, many death but there are categories where this makes a lot of sense.
+
+Number two, and this is probably where there’s been the most momentum to date, because in a way it looks the most like the consumer world. It’s helping SMBs do their job. And when you think of like, whatever, Luigi, who created his pizzeria, why did he create his pizzeria? He loves to cook pizza. He loves to chitchat with his customers.
+
+And yet, what is the job that he ends up doing today? Well, he’s creating a website. He’s negotiating with Uber and DoorDash. He’s answering comments in Google and Yelp and TripAdvisor. He’s managing a delivery fleet. He’s picking a, basically, there’s a call center and he’s picking up calls to get on to manage orders from the phone.
+
+He’s getting a POS. He’s managing his inventory. He’s managing his employees. He’s doing accounting. I mean, 90 percent of the job is actually not the reason he got into the business to begin with. And so a company like Slice, which to the untrained, uninitiated, may feel like it’s just, Oh, it’s a vertical of DoorDash.
+
+It’s like DoorDash for pizza. But actually, no, that’s not the genius. The genius is what they do for the pizzerias. They pick up the phone. They create the website. They, if you want, we’ll provide you with supplies. They provide the point of sale service, et cetera. And size is now huge. We’re talking like over a billion in GMV, 20,000 pizzerias on the platform, profitable, doing really well.
+
+And this is happening in every little major SMB category. So Momence is helping yoga studios and fitness studios like do bookings and create a website and it. Et cetera. Cents is helping dry cleaners by managing the delivery fleet. They provide a POS they provide you with supplies. Fresha is doing it for barbershops and beauty salons.
+
+Now, what’s interesting here is because some people have actually like, wait, why is it four different companies? Well, the reality is, what you need to do for each of these cases is actually rather different. Fresha, for instance, for barbershops, the hair salon owner has seats. They then sublet the seats to the hairdressers who are subcontractors, who then have their own clients.
+
+So you actually have to match the seats to the client, to the salon at the right timing. And the business models for all of these completely vary. Slice takes a per order fee plus a commission on the orders. Cents as a POS, where they charge 4% of the revenues. Fresha makes money on the POS, but gives everything else away for free.
+
+So it also really varies. Momence if I recall correctly, is a B2B SaaS fee. And so the approach varies. And by the way, it even varies within the same category. So we’re investors in Chowbus, which is a POS for the Chinese food industry. And you’d be like, wait a minute, why is Slice not doing Chinese food?
+
+Well, it turns out that their needs are pretty different. The owners of the Chinese food restaurants typically are Chinese. They’d rather speak to someone who speaks Chinese and, and understands them better. And the nuances are bigger than people expect. And so we’re seeing verticals even within like categories like food in the category.
+
+But these have grown already reasonably large. Fresha, like tens of thousands of barber shops on the platform they’re managing, or there’s billions of payment volume. going through the platform and doing really well. And yes, Lily, construction is really ripe for innovation, both on the general like construction sites, but also your experience as a consumer.
+
+When you want to like renovate your home, et cetera, like the current experience is horrendous. And so making it easy for the end user, it makes a lot of sense.
+
+Third big, big category we care about, and it also has a. geopolitical tailwind is moving supply chains out of China. Now, of course, we’re in the middle of Cold War II, hopefully it never turns into a hot war, where you have the West on one end and like China, Russia, Iran, North Korea on the other end by the real geopolitical competitions with China these days.
+
+And so for that reason, many companies are like wary of continuing to and are thinking through, “okay, where do we build ?”.And the issue is most countries don’t have the scale to produce millions or tens of millions of units. And so while you can go to Vietnam and Indonesia, Malaysia, et cetera, for most people, the only real answer is India.
+
+And that’s why now many iPhones are being built in India. And I think perhaps even more now in India than in China. But we’re helping factories in India basically take on this macro trend. And again, the little factories in India, they’re typically owned by mom and pops. They own one factory.
+
+And what does the factory owner want to do? He wants to manufacture. What does he not want to do? Well, find a client, answer RFQs and RFPs, deal with customs and invoicing, etc. And so we’re seeing a slew of marketplaces being created that does all of that for the little factory owners. So Zyod, for instance is a apparel marketplace in India that is helping the manufacturers in India sell brands in the West.
+
+And they’re doing the prototyping, they’re doing the invoicing. They appear, by the way, to the brand in the West as the seller, even though they’re actually basically picking the factory on their behalf. Now, the approaching invaders for category Ximkart is for ceramics and raw materials. And in that category, the buyers in the West actually want a direct connection to the underlying factory.
+
+And so the business model is different. You’re not taking commission. They’re actually just selling the products to the ceramics manufacturers in India or fuel to run the factories, et cetera.
+
+We’re seeing it with companies like Doocan in Upholstery, but this is a mega trend. Of course, nearshoring and moving things to Mexico, is a conjoined trends.
+
+But of course, doesn’t have the same scale is doing it in India. And some on shoring is happening as well for things like building chips of things that categories that are more sensitive and more strategic.
+
+Next big trend, of course, is to support all these is you need labor. That actually can do all these jobs.
+
+And so we’re investors in Trusted Health which is like traveling nurses. We’re investors in a job in town, which is like blue collar workers in Spain or WorkRise which is originally oil services workers for companies like Schlumberger, et cetera. But now is expanding to like things like solar construction, et cetera.
+
+But we’re seeing a rise of remote labor, writ large, especially when it comes to tech. We’re seeing a combination of like creative, talent agencies that are coming online. You’re seeing influencer management platforms, et cetera. And so plot labor marketplaces to support this general trend of digitizing B2B supply chains.
+
+Now, the reason we like it somewhat lost, even though it is a core mega trend is it’s harder sometimes to make the economics work here because people don’t necessarily work long enough. Now, or you maybe just charge a placement fee rather than charging a a percentage of the of the income, right? If it’s a staffing model, then maybe you can take 10 percent of the income forever.
+
+If you provide enough value, if the job was there long enough, and then it can work. But if you’re just placing someone. You know, you want to make sure you’re not just say a talent agency where you get a one-time fee, and that’s it. And even that’s way less scalable. And so creating tech scalable platforms in the category is really the key and many of them have not really scaled beyond certain time. They’re great businesses, but they don’t necessarily scale. That’s why it’s more of a secondary thesis for us. A lot of these hiring or employment sites feel more like advertising arbitrage “Oh, we know how to market better on Google to hire it to get candidates And so we sell them to you at this price and it costs us this money amount of money and we make money in between”. But that’s like an advertising arbitrage business. You know, I think zip recruiter probably falls in that category.
+
+It’s not really a marketplace because they need to require customers on both sides on a regular basis. But good business. It’s just not as exciting as like the business that have true network effects. Now, Workrise because they are in a way the linked in of the category they have true network effects.
+
+And so if you can build, if you can be the LinkedIn of the category, and so you’re a network and you just happen to have this job site on top of it, then it’s way, way more compelling, but hard to do. And only has happened in a few different categories.
+
+Fifth big mega trend, of course, is all the infrastructure that goes in supporting us, right? If you’re shipping from China or India to the US, you have a truckering company from the factory to distribution site. You have another trucking company in the distribution site to the harbor. Then you have like a you go in a container ship and it’s shipped to a harbor, let’s say in LA.
+
+Then it’s dropped off to the distribution site. Then it’s again trucks to work to the last mile picking and packing and then it’s again dropped off at the last mile to the customer. And so you have a whole bunch of companies that are helping with all this, like ShipBob is doing like last mile picking and packing, you have Shippo helping SMBs with payments. Flexport, which is the digital freight forwarder.
+
+Top of that, you need like payments to work. And so Rapyd, which is a marketplace payment solution out of Israel is doing really well. Stripe, of course, is well known at this point where they’re helping all the online SMBs basically pay for it or charge for everything. And we’re seeing a mega trend in the infrastructure of robotization and automation.
+
+So we’re investors in Figure, Figure AI is extraordinary. I mean, they’re building these humanoid robots that. Can work 20 hours a day. They replaced like hundreds of thousands of dollars a year of machine and machinist cost right now. They’re in the factory in BMW in Germany doing really, really well.
+
+And as they keep improving in terms of becoming cheaper and more productive, they will take on more and more roles and jobs, including at some point in the next 2-5 years coming into our home. So we’re on the verge of a robotics revolution that will transform the way we manufacture and the way we live and interact inside.
+
+So I can imagine you’re finally gonna have a combination of Jarvis meets the Jetsons, Jetsons robot at home to help you with everything. So like an embodied Jarvis if you want. Formic is another portfolio company. It helps companies automate. So they go in, they look at what can be automated, and they basically do a lot of the work for them.
+
+So other two other trends to mention in the B2B supply chain. So this falls, frankly, is a subcategory of the infrastructure of business. We’re investors, a company called Portless. And in fact, what they’re doing is commentizing another portfolio company, which is one of the best companies we have called Quincy. So Quincy is a affordable luxury company. They’re doing hundreds of millions of sales are extremely wealthy. They started by selling triple A grade cashmere from China into the US. So you get a beautiful, amazing cashmere sweater at $100 and like 20 or so.
+
+And what they were doing is they built these distribution centers where they would basically get the inventory in China, ship it to the US by plane, and distribute it. So from order to delivery is like five days, the inventory is not stuck on container ships for like 60, 90 days. But this is actually a common problem.
+
+All the direct to consumer brands in the world are like seeing so much of their inventory locked on container ships. And so Portless is creating a picking and packing warehouse in China, but launching now Vietnam, India, et cetera, to basically ship everything to the US by air at a cost effective way.
+
+And as a result, you’re unlocking, you’re turning your inventory a lot faster, which is making it way more viable and improving the economics dramatically. And frankly, the capital requirements, right? Like, the issue for many direct to consumer companies, is as they grow, they need more capital in order to have more inventory.
+
+But if you can turn your inventory faster, your capital requirements and your capital decrease and your capital efficiency improves dramatically. So another massive mega trend here.
+
+And last but not least, recommerce in B2B. So, of course, recommerce has been one of the bigger trends. You know, used goods marketplaces. So we’re investors in Vinted in the consumer side, right? They’re doing. Billions in GMV and crushing it in fashion in Europe, but we’re seeing it in like every major vertical. That’s a trend that’s in a way has been done in the consumer side, but we’re now seeing it come of age and appear in the B2B side as well.
+
+And so we have a company like Ghost, which is allowing people that have access to inventory. You know, in the past, if you have access fashion inventory, you go and sell it in like outlet stores like Century 21 or elsewhere. And now with Ghost, the, the brands and they can, can sell it to the small SMB stores who can just buy subunits in the past.
+
+You would only sell, Oh, I want to sell a million dollars worth of inventory. It’s easier to distribute by ghost makes it easy enough that now you can actually maximize the value of your access inventory. If you’re a store, you have access to this differentiated inventory that is inexpensive that you can then run like Black Friday promotions on, et cetera.
+
+And so recommerce for B2B is coming. Ghost is an example of that. They’re doing really well. And many more are yet to come. So I’ll pause here. This has really been what we’ve seen in Marketplace and Marketplace trends over the last, frankly, year or so. All that to say there’s a lot more yet to come.
+
+So. With that, I’ll pause. I’ll take questions.
+
+One question I think that was submitted prior to the show. So let me answer that. ” What are the marketplaces that can work in real estates? Are there examples that you see function? And what is it that you think can function?”
+
+So there’s been a number of business models in real estate. That have done actually reasonably well, but perhaps not as well as people expected. So the obvious ones that people know, of course, are Discovery of Real Estate. So you have the Zillow Trulia’s of the world. And again, they’re doing really well. Their business model is they charge the real estate sites and agencies in order to, to be listed there.
+
+And that’s an old school classified model. Does really well. Very high margin, but your effective T Crate on every, any one transaction is pretty low. Now, the business gets better in countries with no MLS. So in the U S all the listings are public. And so even though you have a few winners with like Zillow, which also owns Trulia, the ability to monetize is reasonably limited.
+
+In countries like in the UK, where there’s no MLS, essentially the leading real estate site is the leading cat of a player and wins.
+
+I’ll pause it for a second. I’ll answer the LinkedIn user. The presentation will be on my blog next Tuesday. I’m going to post this video with the transcription, both the actual video, a podcast audio version, a transcription of the conversation, and I will post also the PowerPoint on the blog. It should be live on Tuesday and it’s just fabricegrinda.com.
+
+Okay, so one, discovery sites, Zillow, Trulia. They work, well proven. Number two is online or technologically enabled brokerages. And so you think of compass in the real estate space. They do reasonably well as well, because of course, real estate brokerages or businesses that have been around and are viable.
+
+The issue, of course, is it’s kind of a tech enabled business. It’s not like a pure online company. And so they have done well, but maybe not as well as maybe others might have expected. So the multiples that they command. We’re not as extraordinary as the multiples you might see in pure online digital businesses that are very scalable with much higher margin.
+
+The number three category, of course, has been open door where they buy and sell the houses and that one has been harder, especially in an environment where real estate prices have not increased so much and where interest rates have been high. And again, it feels more of the traditional business that as a tech layer rather than pure online business.
+
+Now, the more interesting businesses, I think, have come around this. So we’re seeing property management companies like Belong that are modernizing the way you interact with the owners of the building you’re in. So if you want to rent the house, instead, you can just get a passcode to a virtual door to open if you need a service done.
+
+Everything’s done online as opposed to, like, finding the super. Paying your rent manually for your check, et cetera. So they’re modernizing the renter experience. And I think that’s really interesting and a beautiful business. And these happen in more countries. The penetration needs to increase and belonging is one of multiple examples here.
+
+There’s another one called Mynd, MYND which is actually was bought by another portfolio companies who are a virus called Roofstock, which allows you to buy investment, investment properties. Very interesting model as well. Other interesting model in real estate has been B2B discovery.
+
+And, so companies like Crexi that are doing really well. So all that aside, I think there’s a lot to be done in real estate, especially not the core transaction in the consumer residential area, but in all the services layer around it and in the B2B space and commercial real estate where very little is really done.
+
+Let me go through a few of the questions. “Examples of professional services, e. g. legal services.” There were a few basic sites, right? Like legal zoom or whatever worried like it helps you incorporate what we’re seeing right now. That’s more interesting. Is there’s a trends towards Oh, we will actually run an entire lawsuit for you.
+
+And share part of the revenues. It’s happening in a few verticals, both in the US and like Brazil and other countries. I don’t know the leading players here. I know we’re investors actually a few, but I didn’t leave the deals. So it is starting to happen, but it’s not happening in like, it’s, it’s happening for specifically lawsuits where there’s dollars attached, where you can get a percentage of the winnings.
+
+It’s not yet quite happening and like, Oh, we’re going to create all your, we’ve created an online legal firm and we’re creating your legal docs for a fractional report cost or whatever. It’s probably yet to come. AI will play a role in this, but we’re not quite there yet.
+
+“What are the valuation multiples that you’re seeing for investment exits given the 2023- 24 adjustment?”
+
+So we’re back basically both at investment and exit to 2019 multiples. So the median pre-seed right, now is like 1 at 5 pre. The median seed is like 3 at 9 pre to 3 at 12 pre. And at that point, if you’re a consumer marketplace with 15 percent take rate, you probably have 150k a month in GMV.
+
+If you’re a B2B SaaS company, you’re probably doing 25- 30k a month in MRR with like 90 percent margin. So the median series A is 718 pre, you’re doing 750k a month in GMV if you have a 15 percent take rate, maybe you’re doing 2 million if you have like a 5 percent take rate, and you’re doing 150k a month in MRR if you’re a B2B SaaS company.
+
+And the median B is like 15 million at 50 pre. You’re doing like 2. 5 million in GMV if you have a 15 percent take rate, maybe 7-10 million if you have like a lower take rate and 600-700k in MRR if you’re a B2B SaaS company. Now note this is the median. The mean is significantly higher. The reason the mean, like the mean A right now is probably 10 at 30 pre.
+
+And the reason the mean is higher is second time founders commit a higher price. And, there’s categories like crypto or AI that are very hot, where you’re raising at significantly higher prices. That said, we try to stick to the median, and we also shy away from the over hot categories where people are overpaying.
+
+Exit multiples are also compressed. Doesn’t bother me that much, by the way because, the entry multiple is lower, the exit multiple is lower, but there’s way less competition, right? In 21, any good idea now had like 20 people going after it, all amazing teams, everyone well-funded, and it would really lead to an uneconomic behavior.
+
+People were spending too much money, the economics were upside down. Now, yes, the entry valuation is lower and the exit valuation is lower, but you’re way more likely to win the entire category. So rather bullish for the cohort of companies. And we invested in 23, 24, 25. And I’m hoping that the exit markets really open again.
+
+There’s been a limitation. A, the IPO markets were closed and B, M& A was really limited. Like the antitrust was such that Meta, Google, others were not allowed to buy. I’m hoping that’s going to change. 25, 26. Obviously TBD too early to tell, but the, I’m hoping that it looks reasonably promising and there’s gonna be change in the general environment as rates go down.
+
+And as the administration changes, perhaps antitrust now that’s, that not clear, they will. Right. I’m sure that Trump is very anti liberal tech companies like Google Meta, et cetera. So you may not allow M&A either. But TBD we shall see. I’m cautiously optimistic.
+
+Filali: We met a few years ago at NOAH in London. MarocAnnonces’ is now profitable with +170 % revenue growth this year, considering spinning it off, standalone job board moving away from the other categories to generate zero revenue. Would love to hear your thoughts.
+
+The answer of course is it depends. Craigslist makes most of its revenues from jobs. And by part of the reason they got the jobs and the blue color job category winning is because people come in in the consumer to consumer goods category where they’re trading on a regular basis. And then they also happen to go in the other category. OLX’s strategy has always been we win CDC goods because people transact all the time, even if we don’t really make money there, though often we can make money there.
+
+And then we go in our case, CDC cars, BTC cars, CDC, real estate, et cetera. And then sometimes jobs. We never really got big into jobs. So it depends what your traffic sources are and why they’re coming there. If they’re coming there just for jobs and they know you as the job site, et cetera, then yes, it could just be a job site.
+
+But if you’re actually they’re coming there for buying and selling phones, and then they end up also using you for jobs, then then it might make sense to keep it and be cross category. And by the way, I think there are ways to monetize the other categories. The baguette trend in transactions and in CDC right now is like, you go transactional, you charge the buyer, you you do shipping and escrow and insurance, etc. And so you can monetize wallop up. And Spain is a great example of that where they went from a purely listing based model with the old model of like placement fees and bump up, et cetera, to going to being transactional. The vast majority of the revenues or transactional. And so, of course, the answer is it depends.
+
+But I could make a case for both, depending on where how much benefit free traffic you’re getting from the other categories. And even though you’re not monetizing a lot, maybe it doesn’t matter.
+
+When you look at these trends, you mostly look at the demands or issues in the US Market or also the European market.
+
+Many of these trends are global. Like life commerce became a trend in China before it became a trend in the  US. So I looked at it a global lens, but of course, 50 percent of our investments are in the  US I live in New York. I see more things in the  US But as I mentioned earlier, like cross border is a European trend more than a US trend where finally is coming of age. So I look at I guess the answer is both. I probably paid a bit more attention to the European market in the  US Market, but I definitely look at both and I’m excited to see what’s going on everywhere in the world. And the trends are, when things are in the air, they have a tendency to happen. People to happen everywhere all at once. So when someone pitches me a new innovative idea, usually within a month or two, 10 other people were pitching me the exact same idea, which suggests that like, yeah, the idea is in the air, the time has come, whether it’s cultural or tech or whatever it takes when a market is ready, like a lot of people will have the same idea at the same time.
+
+This is something that I’ve seen happen over and over and over again over the last 26 years that I’ve been doing this and I suspect will continue to happen. And clearly something that works in one country. works in another country. Now you don’t just do an old school rocket internet copy paste.
+
+You actually have to adapt to the nuances of the country and but at the end of the day, humans, we want to be entertained. We want to have a sense of purpose. We want to socialize and communicate and, and ideas that fulfill one or more of these needs. I have a tendency to work everywhere. Bloody.
+
+I should add this founder of  MarocAnnonces, Morocco’s # 1 platform for job seekers and a trusted hub for recruitment agencies with 5K+.
+
+Well, congratulations on leading the in Morocco, the market for jobs. I mean, usually These are extremely good positions to be in. Their winner takes most, no one’s going to come in and spend money to acquire both employers and, and potential candidates against you and the margins you should be able to command are very high. So congrats on the success and wish you continued success on a go forward basis.
+
+So I’ll pause here and let me know if you have any other questions before. I break and if not, I we will probably do a next episode early in next year where I’ll do another “ask me anything”. It’s like it’s been a year since we’ve done it. It will cover anything that may that may be of mine and relevant to you guys. Based on the expertise I have from Fabrice AI to the next crazy adventure I’m going on to the whatever trends I’m seeing in other categories, etcetera.
+
+Andrei Joosten, just logged in, to what extent do you see AI disrupting the marketplace space?
+
+This is something actually covered at length in the last episode, maybe two weeks ago or three weeks ago. It’s AI is definitely happening and having an impact on marketplaces in multiple ways. Now, every company in the space is using it to improve customer care. Every company is using it improve productivity of programmers and in some categories, they’re using it to change the flows.
+
+So the seller flows the most obvious where people are using it where you just take a photo of the item and poof, the listing is created, works extraordinarily well. And in, in things like comic books or trading cards and Some more portfolio companies like hip commerce or TCG player that was bought by eBay or using it for that, or call X in the collectible category.
+
+We’re seeing it in handbags with Rebag with Claire, we’re seeing it with Hero Stuff, which is creating like general listings. So that’s definitely one trend and the place where it hasn’t yet happened, but I suspect it will play a role is like considered purchases. So of course, if you know what you’re looking for, you just go to an Amazon type equivalent search.
+
+If you’d like to browse like Vinted. Just look at the listing. So that’s entertainment. You don’t really need AI to improve the flow because you don’t even know what you’re looking for. It’s like shopping as entertainment. Now, if you want to buy a car where it’s a considered purchase or a house there, an advisor like AI probably makes a lot more sense.
+
+So for travel, which currently uses human advisors may switch AI advisors or Curated.Com for high end like ski equipment. And I can see AI playing a very big role there. And I can also see AI being used to do better matching between supply and demand, whether it’s in job sites or buying and selling different categories.
+
+So it will improve dramatically here, but we’re in the early days of that part versus the UX, UI and the selling process is already being implemented. And most, most startups already, but definitely watched the last episode, which was episode 46 on the impact of AI on, on marketplaces and our AI thesis, which is a reasonably contrarian.
+
+Your last presentation about marketplace and AI. Give me the advice of using AI for customer support duration. Also for selling sellers and go focus on selling to reduce churn. I got a different question. What are you struggling? We are struggling on board sellers. For example, Apple and boarding tuck is five month.
+
+So in most marketplaces, getting sellers is is easier because they’re financially motivated being in the platform. Now, I don’t know exactly what you’re selling. I guess if if Apple is a supplier to you, I mean, being on boarded in there in in the app store is one thing. If they’re selling to to you because there is seller on your platform, that’s a different one.
+
+Look, the larger the enterprise, the longer the sales cycle. So I’m not completely surprised by that. But once you have them, it’s not, again, historically, it’s been harder to get buyers than sellers because the sellers are financially motivated to be there. And the issue is if your sellers are ginormous companies like Apple, you know, you’re pretty low down the priority list, might not be ideal from a marketplace perspective, right?
+
+Like marketplaces work better when. It’s fragmented sellers, ideally the, where you are meaningful to them and fragmented buyers, where you can show, find them stuff they can’t find elsewhere. And again, more compelling.
+
+We running in WooCommerce a new platform. We are thinking custom or Magento. So we can CTO bold. They’re unsure of what is the best source. We’re at 3.1 million in 23, expect eight, 10 million next year. So it could miracle. Miracle is too expensive, I would say, for your scale and probably too complicated. I’m going to give you a non standard answer, or a non obvious answer. You may want to consider Shopify.
+
+Rebag is on Shopify and they’re like nearly 200 million in revenues. Yes, Shopify is mostly on Rebag. The experience for buyers, right? Like, so it’s not, it doesn’t have marketplace components built in, but Shopify, you build in the marketplace components, you code those may make the most sense. I find that because they implement a lot of the tools that make your life easier.
+
+So many more of our startups are on Shopify that you can imagine, including the ones that hundreds of millions of revenues. Now, of course, as I said, Shopify doesn’t have any of the selling flows, et cetera. You’re gonna have to build these, but it is absolutely doable. And I would not probably spend that much time.
+
+Magento is good. But harder to code, harder to get off of growing fewer. Yeah, less support for it. So many companies we build around Magento. But I’d say these days, if I was going to build something, I’d probably go Shopify.
+
+I’ll pause for another 30 seconds. And if not, we’ll bring this show to an end. It’s fun, super engaged. I see over 100 people like currently watching, so it’s pretty good as well.
+
+Okay, I think we’re there. So happy holidays, everyone. I’ll see you in the new year when we’ll do a happy ask me anything session at some point in January.
+
+Thank you and take care.

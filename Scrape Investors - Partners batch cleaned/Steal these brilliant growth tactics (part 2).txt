@@ -1,0 +1,67 @@
+# Steal these brilliant growth tactics (part 2)
+
+👋 _Hi, it’s [Kyle](https://www.linkedin.com/in/kyle-poyar/) and I’m back with a new [Growth Unhinged](https://www.growthunhinged.com/), my newsletter that explores the unexpected behind the fastest-growing startups._
+
+I love to get inspired by what others are doing. It sets aside existing constraints and gets the creative juices flowing, inspiring dreams of _what if…_
+
+Last year I shared my [favorite growth tactics](https://www.growthunhinged.com/p/steal-these-brilliant-growth-tactics) based on my experience signing up for 100+ self-serve products ranging from Asana to Zapier. In the 12 months since then, I’ve tried out a whole lot more (with an emphasis on AI-native apps) and have learned from some of the smartest operators on the planet through this newsletter.
+
+I wanted to devote today’s _Growth Unhinged_ to highlighting the best of the best: my favorite retention move (ChartMogul), unconventional growth tactic (Clay), growth job description (FirmPilot), in-app upgrade prompt (Typeform)… even my favorite application of vibecoding for growth (Lovable).
+
+I hope these examples inspire your next growth experiment. After you’re done reading, join the conversation on [LinkedIn](https://www.linkedin.com/in/kyle-poyar/) and share your own go-to faves.
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!0rgT!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F01b24a25-ab28-460b-b71e-2e19b4f74788_1080x762.png)
+
+](https://substackcdn.com/image/fetch/$s_!0rgT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F01b24a25-ab28-460b-b71e-2e19b4f74788_1080x762.png)
+
+I used to think you'd want to give customers some time to experience the product, then push for an annual upgrade in months 6-12.
+
+**Turns out [the opposite is true](https://www.linkedin.com/posts/kyle-poyar_pricing-saas-ai-activity-7313898135460720640-0AZv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAXw0_0Brfz4sjgXAE3AbNJm64FYw2WdNVs).** Customers are 3-4x more likely to upgrade in month 2 than they are in month 9.
+
+[
+
+![table](https://substackcdn.com/image/fetch/$s_!kv-1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe43b197b-0456-41dd-96f9-1237772e463d_1096x657.jpeg "table")
+
+](https://substackcdn.com/image/fetch/$s_!kv-1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe43b197b-0456-41dd-96f9-1237772e463d_1096x657.jpeg)
+
+[Share](https://kylepoyar.substack.com/p/brilliant-growth-tactics-part-two?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+And the upgrade is valuable. Median net revenue retention on monthly plans ranges from 43% (<$25 products) to 76% ($250-$500 products). It's about 10-20 percentage points higher for annual plans.
+
+The data comes from my friends at ChartMogul who looked at the billing practices of 2,500+ SaaS companies. (Yes, I'm jealous of their [dataset](https://chartmogul.com/reports/saas-billing-report/)!)
+
+What to do with this data:
+
+*   **Make sure customers are able to not only activate in the first 30 days, but they're able to build a habit around your product.** If they're not seeing value, a nudge to upgrade from monthly to annual will fall flat.
+    
+*   **Ask for the annual upgrade much earlier than you think.** You can (and apparently should!) start campaigns toward the end of the first month.
+    
+*   **Push for annual not just as a** _**discount**_ **but as making an** _**investment**_ **in the product.** Of course, the discount is a motivation, but people already knew you offered an annual discount when they signed up. Shifting the mindset towards making a _smart investment_ puts the customer in a different frame of mind.
+    
+*   **Keep offering a monthly plan, especially in the early days.** Turns out that companies with a meaningful share of their customers on monthly plans (50%+) are [growing faster](https://chartmogul.com/reports/saas-billing-report/) than others, especially during the journey from $0 to $10M ARR.
+    
+
+I went to buy a new Typeform subscription last week (👀). After choosing a plan and checking out, I already agreed to a future upgrade. And, no, it wasn't because they made me jump through hoops.
+
+Typeform — like [more and more companies](https://www.growthunhinged.com/p/whats-changing-with-ai-monetization) — has a hybrid pricing strategy. They charge a subscription fee, but the subscription price goes up the more you use it. In Typeform's case, the price is tied to the number of monthly survey responses you collect.
+
+It sounds complicated, but Typeform makes it easy. Typeform [drops in this screen](https://www.linkedin.com/posts/kyle-poyar_plg-ux-lipostingdayapril-activity-7315420667414286338-I6X0/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAXw0_0Brfz4sjgXAE3AbNJm64FYw2WdNVs) after checkout: _"Never miss a response with auto-upgrade."_
+
+[
+
+![No alternative text description for this image](https://substackcdn.com/image/fetch/$s_!gRTB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe90498c2-a3d5-44d7-ac49-b8647c350003_800x531.jpeg "No alternative text description for this image")
+
+](https://substackcdn.com/image/fetch/$s_!gRTB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe90498c2-a3d5-44d7-ac49-b8647c350003_800x531.jpeg)
+
+What I love about their approach:
+
+*   **It felt like they were doing** _**me**_ **a favor.** The prompt came across as helpful, not sales-y. Of course, I'd want my surveys to stay open so I don't miss a response. Language like "get an automatic upgrade" sounds far better than "pay more or you lose your data". And I just needed to set the toggle to "on".
+    
+*   **They created loss aversion.** Anyone who's sent out a survey knows that getting responses takes a _ton_ of work. I'd hate to feel like that hard work was wasted if I'm getting more responses than I thought. Paying an extra $7.50 for 250 more responses ($0.03 each) came across as a bargain to have the peace of mind.
+    
+*   **It was transparent.** In a small amount of copy, Typeform told me exactly how much more I'd pay, when I'd pay it, when it would be billed, and how I could downgrade. (Once an upgrade happens, it stays on unless you proactively turn it off.)
+    
+
+> _PS: The survey in question? My inaugural [State of Monetization survey](https://form.typeform.com/to/NurV8Jvp). Whether you’re a SaaS or AI company, I want to hear from you! The survey will take about 5-10 minutes and provide an important pulse on evolving pricing models._

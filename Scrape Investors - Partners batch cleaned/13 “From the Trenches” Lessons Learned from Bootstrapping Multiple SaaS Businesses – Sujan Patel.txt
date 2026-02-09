@@ -1,0 +1,175 @@
+# 13 “From the Trenches” Lessons Learned from Bootstrapping Multiple SaaS Businesses – Sujan Patel
+
+Warning: this post is full of cliches.
+
+It’s full of things that might seem obvious from the outside. But the thing is, when you’re in the weeds of entrepreneurship, you get blinders on. That’s why it’s important for me to be aware of that and try to look at what I’ve accomplished from the outside. I recommend you do the same.
+
+In 2017, I was involved in 11 SaaS companies. I own and operate five of them, I’m a partner in one, and I’m an advisor or investor to another five SaaS startups. Through my company, [Ramp Ventures](http://rampventures.com/) – which acquires and grows companies – I’ve had the opportunity to thoroughly review 20-25 more SaaS companies in 2017 alone. And although we only ended up acquiring two of them, it gave me a really good overview of the world of a self-funded SaaS startup.
+
+I’m not going to share our SaaS companies’ revenue numbers for 2017. Instead, I’m going to let Biggie Smalls do the talking for me. In 2017, we “went from negative to positive.” And in 2016 “birthdays were the worst days, now we sip champagne when we’re thirsty.” In all seriousness, most of my companies went from 100-200 customers to thousands of customers (Mailshake alone achieved 10K+ customers).
+
+All of this gave me a pretty good view into the world of self-funded SaaS companies. From all that exposure, I’ve come up with 13 lessons I’ve learned from trying to grow my own businesses. Here they are, presented in no particular order besides how they’ve arrived in my mind:
+
+## 1\. Talk to your f’ing customer
+
+[Hiten Shah](https://twitter.com/hnshah?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) and [Steli Efti](https://twitter.com/Steli?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) who run the [Startup Chat podcast](https://thestartupchat.com/) say this all the time. And it sounds so simple, but this was the single biggest thing that helped us grow in 2017.
+
+It took a lot of work, but I learned a bunch of things I wouldn’t have learned otherwise. I would get on the phone and talk to people and hear them say, “Yeah, I love your software, but I’m stuck here. What the hell?”
+
+For me to figure out that one point where they’re stuck would have taken me ages, had I not actually talked to my customers. And that’s just one example. I learned what features they wanted me to [build](https://rtslabs.com/6-secrets-to-developing-a-successful-saas-solution/), how happy they were and how they were actually using my products. Not only could I help them solve their problems and figure out what features to add next, I was able to build out our marketing campaigns around the language they were using (as well as using their quotes and testimonials for social proof).
+
+## 2\. Communicate with your co-founders
+
+See? I told you a lot of this was going to be obvious.
+
+But here’s the thing. I thought I knew how important communication was – especially with people like your co-founders, investors, advisors and so on. But I still wasn’t always putting it into practice.
+
+One of my co-founders – and I won’t name names here – and I had an arrangement where he would do his thing, and I’d do mine. We basically didn’t communicate for a year and half while we were running the company. And it was all good while the company was growing, but when that growth slowed, he was pointing fingers at me and I was pointing fingers at him. We both blamed the other person, but ultimately, that didn’t matter. Infighting wasn’t helping us drive new business or grow.
+
+What we had to do – and eventually did – was start getting on the same page. We held weekly calls and did monthly check-ins until we were back on track, and we continue to stay in closer communication now than ever before.
+
+Being open with your co-founders, investors, advisors or partners is necessary, but it isn’t always easy. I have another co-founder who has a really idealistic way of thinking, and his vision for how we should grow the company is very different from how my other co-founders and I see it happening. It’s not that we’re right and he’s wrong. It’s just different, but what we’ve found is that there’s always a compromise in the middle we can hit.
+
+As an example, culture is really important to my idealistic co-founder, since he left his former company to start his own because he didn’t like the culture there. So that’s important to him. And it might be different than what I want, but knowing that helps me choose my battles. We compromise on the things that are important to all of us, which has helped us find a way to grow the company and make it profitable while making all of us happy.
+
+## 3\. Write monthly recaps
+
+This habit sounds simple, but it changed the way I run my business and hold myself accountable to my goals. Now, every co-founder or executive at my companies does it because it helps you get out of your day-to-day “execution” thinking and reflect on how your efforts play into your long term goals.
+
+What I found a lot – especially when I first started doing this – was that I’d have months where I did a bunch of work and thought, “This is going to be a good month!” But then, it’d turn out that a lot of the work I spent my time on wasn’t work that actually moved the needle. It wasn’t work that was in line with the goals we’d set.
+
+As an example, a while back – after about nine months of blogging – my agency, Web Profits, hit this huge traffic goal we had of passing 10,000 visitors. I was ecstatic, but when I went back and looked at the numbers, I found that over the same 2-3 month period, our leads – our primary goal – were at an all-time low. We’d failed to hit our goals, even though I thought I was doing a good job and working hard.
+
+It doesn’t matter what you put in your monthly recap. Just being aware of what you’re doing and how your efforts line up with your goals is going to get you to a very good point. It also forces you to keep your goals top-of-mind, which brings me to my next point…
+
+## 4\. Work backwards from your goal
+
+Stop trying to do something fancy. Stop trying to reinvent marketing or do something different than everyone in your space. Just set your goals and work backwards to figure out how you’re going to achieve them. That’s it. That’s your marketing plan.
+
+A lot of times, in a software business, you set these lofty goals. But then, you go back and build this fancy marketing plan that has nothing to do with the goals you’ve set.
+
+Let’s say your goal is to get 100 new customers in a month. So how are you going to do it? Are you going to run Facebook ads? Invest in [content marketing](https://sujanpatel.com/content-marketing-ebook/)? Build a [referral marketing program](https://sujanpatel.com/marketing/set-up-referral-marketing-program/)? Even more to the point, are you confident the steps you’ve described are going to get you to your goals? If you’ve only ever earned 10 new customers a month with your existing marketing channels, you can’t just expect to do the same things and magically see different results.
+
+It sounds so simple. Common sense tells you this is a “duh” thing. But after looking at the marketing plans of 25+ different companies in 2017, I can tell you with certainty that people forget. Don’t be that guy. Be ruthless about identifying your goals and sticking to the plan that’ll help you reach them.
+
+## 5\. Know the difference between right and right now
+
+Sometimes, doing what’s “right” won’t work right now.
+
+Let me give you an example. At Mailshake – and at most of the startups I’ve been a part of – we didn’t have enough traffic to do proper CRO involving quantitative data and statistical significance. We basically had enough visitors that we could pull off four tests a year. At that rate, it would have taken us 2-3 years to run all the tests we wanted to. Not a super promising start, since we wouldn’t get a lot of shots to get it right.
+
+What we did instead was listen to our customers, and we made changes to our sign-up flow that were qualitative in nature. We rolled them out, and we still saw a difference. We could see that things were going in the right direction, even if we didn’t have confidence intervals or other metrics to back us up. Any CRO would tell you that’s the wrong thing to do. But we didn’t have the perfect situation. We only had right now.
+
+In another instance, we didn’t have a big enough [email list](https://sujanpatel.com/podcast/email-list-from-scratch/) or the right software to properly segment our list. Rather than get hung up on that fact, we just emailed everyone our f’ing newsletter. The world didn’t stop. No one got pissed off. And we actually wound up bringing some churned customers back on, just because we were consistent about mailing.
+
+If I’d have done everything the “right” way, I would have bought into a marketing automation tool and worked with a dev team to get everything right. And it would have taken maybe a month to get everything set up. But at the time we were doing it, we only had about 200-300 customers that had churned over the course of our entire existence. So why would we do all that work – even though it’s the “right” thing to do – when our efforts might only affect a few hundred people?
+
+Doing proper CRO and email marketing are on our to-do lists (and in some cases, they’ve been done already). But the reality is that all companies – whether they’re self-funded, boot-strapped or even funded – are in a situation that they can’t control. Maybe you’re just starting off and your metrics aren’t the greatest. Maybe you had a great quarter and need to hire (or maybe you had a bad quarter and still need to hire).
+
+That’s how it is in the real world. You’re never going to be able to do what’s 100% right, 100% of the time. Do what’s right, right now, because you may never have the luxury of doing it perfectly.
+
+## 6\. Focus
+
+A lot of people call me out. They say, “Sujan, you’ve got your hands in so many companies that there’s no way you’re focused.” But actually, the reason I’m able to work on so many things is that each of my companies focuses on very few, very specific things that help us achieve our set goals.
+
+I talked about aligning your actions with your goals earlier, but it’s just as important that you don’t go after too many goals at once. Don’t try to do everything. Just try to do a few things really well.
+
+At most of my companies, we’re doing fewer than five things a year to help us achieve our goals. Most startups try to do too much, and that’s why they fail. If you’re self-funded and you’re growing, you’re not going to be able to get five channels working at the same time. You have budget limitations. You have bandwidth limitations. Start with one primary channel and maybe one ancillary channel. Do the 20% that really moves the needle, and take everything else off your plate.
+
+This one is especially tough when you see articles all over the web about how Airbnb, or Dropbox, or Slack, or some other startup unicorn drove huge results with unconventional channels. You’re not them. Do the math on your crazy ideas instead. Most of the time, you’ll find that they won’t move the needle or that the situational variables affecting your company make it impossible for you to replicate the success someone else has seen.
+
+You only really need one channel working to be successful. Figure out which one it is and get to work.
+
+## 7\. Stop wasting time
+
+Focusing isn’t just about paring your marketing channels down to a manageable number. It’s also about…
+
+**Networking**
+
+Stop networking for the sake of networking, and start building relationships. I can count on my hand how many people really impacted me this year. There have been a lot of people who helped me, but there are only about 4-5 people who have been critical to our growth. Rather than making networking a numbers game, just try to connect with people who will be beneficial to your growth.
+
+**Attending conferences**
+
+I went to a lot of conferences last year because I was speaking at them, so I’m not totally against conferences. But the more events I went to, the more I saw people who attend conference after conference and confuse that with taking action.
+
+A conference is a waste of time if a) you don’t learn things you actually need to know to achieve your goals, and b) you don’t do anything differently as a result. Get laser-focused on what you need to know next, and figure out how to get that information. That might mean attending a conference, but it might also mean reading a blog post or taking a web course for far less investment overall.
+
+**Trying to do things that require higher education**
+
+If you’re totally new to business, you might have to get your hands dirty. But once you’re at a point where you’re earning a few hundred thousand dollars to a few million a year, you need to get your finance, legal and back office work off your to-do list.
+
+Don’t do your own books. Hire a bookkeeper. They’re not that expensive. Hiring an outsourced CFO for my agency from day one was a savior. They helped prevent me from selling the wrong services and forced me to raise prices because some things weren’t profitable.
+
+If you’re not a lawyer, don’t draft your own [legal contracts and agreements](https://legalvision.co.nz/commercial-contracts/key-terms-every-business-contract-should-have/). A good lawyer can get something done in 30 minutes that’ll take you days to figure out (and you still might get it wrong). It’s the best $200-300 an hour you’ll spend. If you are a lawyer it’s worth checking out this article while your here on ‘[Personal Injury Lawyer Marketing: How to Get Clients](https://rankings.io/personal-injury-lawyer-marketing/)‘.
+
+**Daydreaming**
+
+Yeah, it’s fun to think about what you’ll do when you hit a certain revenue or some sales milestone. But all that time you’re spending daydreaming is time you’re not spending actually moving yourself closer to those goals.
+
+Get disciplined. Get focused. Daydreaming doesn’t move the needle.
+
+## 8\. Invest in SEO through content marketing
+
+If I’m being honest, I’d give the content we’ve produced for my company [LinkTexting.com](https://www.linktexting.com/) a solid C (although I’m harder on myself than I know most other people would be). But we’ve been doing it for about a year, and our Google traffic has tripled as a result.
+
+That’s the thing about SEO. It takes a while. It’s not something that’s going to pan out immediately. But it’s an investment in future performance. It’s something you have to lay the groundwork for from the start so that you can drive long-term gains.
+
+Now that we’re getting some traction, we’re going back in and updating articles that are getting traffic. And we’re continuing to produce content around target keywords that our customers will like. That approach means we’ve been able to put a modest investment into SEO, but then go back and double- or triple-down on things that are working.
+
+Our goal is to 10X this company in five years. We can afford to be patient and wait for long-term growth from SEO.
+
+## 9\. Get comfortable with hard
+
+Running a startup company is hard. And it’s just going to get harder. You have to get used to it.
+
+Servers will go down. Software will have bugs. People will quit, and laws will change. You could get sued. You could go blind for 4-5 days. Things won’t go as planned.
+
+That sounds extreme, but those are just a handful of the hard things that happened to me in 2017. My 2015 self would have quit. My 2013 self would have cried, quit and called his mom. But because I’ve been building a thick skin and getting comfortable with the fact that being an entrepreneur is hard, I made it through.
+
+Shit’s hard. Life is hard. You don’t have to get perfect at dealing with the hard stuff, but you do have to learn to get better at it. Getting sued isn’t an easy one to walk away from. The lawsuit I faced wasn’t a huge one, but it still knocked me down. I couldn’t have gotten through it without the toughness I’ve built over the years.
+
+If you want to get better at handling the hard stuff, try three things:
+
+*   **Read** [**_The Hard Thing About Hard Things_**](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) **by** [**Ben Horowitz**](https://twitter.com/bhorowitz?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)**.** The guy went through some crazy tough times and came out successful. He’s a great one to learn from if you’re trying to build up your tolerance to hard things.
+*   **Exercise your mind the same way you exercise your body.** You can do it with meditation or journaling – whatever works for you. I use an app called [Oak](https://www.oakmeditation.com/) by Kevin Rose. It’s just 3-5 minute variations on different types of breathing exercises, but it’s been a game-changer for me. Every morning, every evening or whenever I’m facing a hard situation, I just breathe and it calms me down.
+*   **Get some perspective**. Yes, entrepreneurship is hard. But get real. You’re not homeless. You’re not in a third-world country where access to safe food, water and shelter aren’t guaranteed. People around the world face greater challenges every day than you can even imagine. If they can do it, so can you.
+
+## 10\. Don’t believe everything you read, watch or hear
+
+…Except maybe this.
+
+Just kidding. I’m not exempt. These are my reflections, but the thing you have to remember is that when a founder writes about their journey, they’re writing it after the fact. Things look a lot easier from the outside or when someone else is breaking big challenges down for you in a digestible way.
+
+When you go through hard situations, they won’t seem as neat and tidy as they will when you read about others facing them. Like now, when I’m getting sued over four words in a 3,000+ word blog post. That knocked me down for 4-5 weeks. Words here don’t do justice to what it feels like to have your business threatened.
+
+We also have this tendency to believe that everything we read relates to us or is even an opportunity for us. You’re not Hotmail in 1997, or Airbnb in 2008, or Dropbox in 2010. All the articles in the world describing how you can “steal their growth strategies” don’t matter when you consider the different environments in which they grew and the competitive advantages they have that you don’t.
+
+That doesn’t mean we can’t learn from others’ experiences. But they aren’t the only experiences out there, and they won’t necessarily be predictive of your own.
+
+## 11\. Don’t do what funded companies do
+
+Their goals are different. The resources they have access to and the strategies they can use are different. You aren’t them, so don’t try to copy their moves.
+
+Instead, figure out what you want out of this. What’s reasonable for your circumstances? What kind of growth can you realistically drive? What exit do you want to have, if any?
+
+Don’t be afraid to pave your own way. There’s no one formula for success – and you won’t find yours if you try to tie it to what you see others doing.
+
+## 12\. Build a brand
+
+I try to be actionable and tactical. Your voice might be fun, quirky or stupid. Just find it. Having a defined brand is huge. It’s the one thing that separates you from everyone else, making you memorable in an increasing sea of competitors.
+
+You can build your voice through content, through speaking engagements or through a number of other channels. There’s no “right” place to build your brand. But it’s important that you figure out what yours is and how you’ll communicate it to your audience.
+
+## 13\. Don’t get too fancy
+
+Last year, I acquired a business that had a 70+ page marketing plan in 2016. With that much documentation, you’d think they’d be a sure winner. But actually, only 15-20% of the plan was completed, and just one of the dozens of strategies listed actually worked.
+
+You can be a master at spreadsheets. You can create the best [pitch deck](https://visme.co/blog/best-pitch-decks/) ever seen. But fancy doesn’t get results. Fancy doesn’t get you customers. Working backwards from goals you understand does.
+
+My rule of thumb is that, if you can’t write a problem, thesis or marketing plan on a napkin or sum it up in a short email to your co-founders or board, then you probably don’t understand it that well (and you almost certainly won’t be able to execute on it). That’s why, at [Mailshake](https://mailshake.com/), we’re focusing on 3-5 things, and I can explain each of them in 3-4 words.
+
+Don’t overcomplicate things, and don’t fall victim to jargon. Make a simple plan that you know you can execute successfully. Then, go out there and get it done.
+
+**What do you plan to do this year to grow your business? Share your thoughts in the comments:**
+
+Image: [Pixabay](https://pixabay.com/en/write-plan-business-startup-593333/)

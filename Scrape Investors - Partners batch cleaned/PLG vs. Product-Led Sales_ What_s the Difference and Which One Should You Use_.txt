@@ -1,0 +1,966 @@
+# PLG vs. Product-Led Sales: What's the Difference and Which One Should You Use?
+
+## What is product-led growth?
+
+Product-led growth (PLG) is a go-to-market strategy where your **product does the heavy lifting** **for** **acquisition, activation, and expansion**. Instead of leaning on traditional sales or marketing to bring users in and move them through the funnel, PLG companies build products that _sell themselves_.
+
+When done well, your product becomes the loudest voice in the room. 
+
+Users discover it, experience value quickly, and expand their usage often without ever talking to a human.
+
+[As Amazon Fmr Product Lead Shalaka Kharche puts it:](https://productsthatcount.com/amazon-fmr-product-lead-on-mastering-product-led-growth-and-innovation-strategies/)
+
+> “Product-led growth is a strategy where the product acts as your primary tool for marketing and sales. It’s a product-first ideology… Think of products like Zoom, Slack, HubSpot, Salesforce, Amazon Prime, and Netflix, where people can directly access those products before even buying them. And one thing to note is that PLG isn’t just a theory. **It actually came from necessity. It came from companies that couldn’t afford big sales teams, but their products were irresistible.** Atlassian, Jira, Dropbox,  they were the pioneers of the product-led growth course.”
+
+But as we’ve just said, in order to adopt PLG as your main growth strategy, you need to experiment a lot and design a product that is suitable for PLG… 
+
+_And that’s where many teams hit their first real wall._
+
+PLG isn’t something you _bolt on_ to a product that wasn’t designed for it. **It requires intentional decisions at almost every level,** from how you onboard new users, to how you package and price your plans, to how you define success metrics inside the product. 
+
+If you’re just hoping users will “figure it out” and upgrade, you’re setting yourself up for a quiet, slow churn.
+
+[In an interview with McKinsey, Miro’s co-founder and CEO, Andrey Khusid, says that](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/miros-andrey-khusid-product-led-growth-in-tech-and-beyond)…
+
+> “PLG is a customer-centric approach, plus experimentation. But it only works if you truly believe in it. You can’t just read the cookbook; you have to be excited about getting into the kitchen to make something special. That’s where it starts.”
+
+So, experimenting and believing in yourself (and your product) is crucial. 
+
+Got it.
+
+Anything else? Well… there are more tangible aspects and traits to PLG than those two, of course.
+
+Because while mindset matters, as Andrey Khusid says, (you have to _want_ to get into the kitchen), you still need the right ingredients and tools. 
+
+Product-led growth isn’t powered by vibes alone. 
+
+The companies doing it well tend to share **a specific set of characteristics that support this self-serve, value-first experience.**
+
+Let’s break those down 👇🏻
+
+### The key traits of PLG companies
+
+*   [**Freemium or free trial models:**](https://userguiding.com/blog/freemium)
+
+This is the front door of PLG.
+
+Whether it’s a limited free plan (freemium) or a time-boxed full version (free trial), the idea is the same: let people _try before they buy_.
+
+[According to ProductLed’s 2025 PLG benchmarks,](https://productled.com/blog/product-led-growth-benchmarks) **75% of companies begin their product-led growth journey** by offering free trials or freemium models.
+
+![Key insights from ProductLed’s PLG benchmarks.](https://cdn.prod.website-files.com/65e7297194523c404b923b44/68c16998f37f468c0b296470_ProductLed-PLG-benchmanrks-2025-key-insights-infographic.webp)
+
+Key insights from ProductLed’s PLG benchmarks.
+
+This sounds simple. But getting it right is anything but.
+
+Because offering a freemium or a free trial is more than removing a paywall. You need to **craft an experience where users can reach meaningful value** _within_ that trial period or free tier, too. 
+
+You also need to figure out…
+
+*   What features to expose, 
+*   How much usage to allow, and 
+*   When to introduce upgrade nudges.
+
+_Plus, there’s the issue of choosing the right model (free trial vs. freemium), which we won’t go into the specifics of here, but you can_ [_check out ProductLed’s related article for more information._](https://productled.com/blog/freemium-vs-free-trial)
+
+But as Wes Bush says, free trial and freemium models are only the tip of the PLG iceberg, and they alone don’t transform your business into a product-led one.
+
+*   [**Self-serve, product-led onboarding:**](https://userguiding.com/blog/product-led-onboarding)
+
+PLG products guide users to value **without a hand-holding sales process**. Onboarding is often frictionless, contextual, and tailored to the user’s goals, sometimes even personalized based on industry, role, or use case.
+
+For example, Toucan, a language learning browser extension, personalizes onboarding materials based on the user’s stated language goals. 
+
+If you select Spanish for travel and business, your initial experience includes sample sentences and vocabulary exercises that align with those contexts. It doesn’t just drop you into a generic dashboard.
+
+Same thing with Gumloop. 
+
+Instead of a generic product tour, it offers [**walkthroughs curated for different use cases.**](https://userguiding.com/blog/product-adoption-walkthrough) Each one walks users through the most relevant features by showing how they work in an example workflow that can be used in real life, too. 
+
+![Gumloop’s use case-based guided tutorials.](https://cdn.prod.website-files.com/65e7297194523c404b923b44/68c16ab35ab2d13f74bbad2a_gumloop-use-base-based-walkthroughs.webp)
+
+Gumloop’s use case-based guided tutorials.
+
+*   **Usage-based upgrades:**
+
+PLG companies often drive expansion through **value-based triggers**, not renewal dates or upsell emails. More seats, more storage, higher limits, additional features… these are all natural paths upward once a user starts getting value from the product.
+
+PLG also tends to create strong [net dollar retention](https://userguiding.com/blog/net-revenue-retention-nrr), especially when aligned with in-product nudges or contextual prompts.
+
+For example, maybe a team hits their user limit. Maybe they need to unlock more workflows, storage, or admin controls. Whatever the case, the product should surface that need right when it matters.
+
+_And boom. Hit with the upgrade offer._
+
+Miro, for example, triggers a pop-up modal to encourage the freemium user to upgrade **when they reach their feature usage limits,** but still try to use the features. 
+
+![Miro’s contextual upsell pop-up.](https://cdn.prod.website-files.com/65e7297194523c404b923b44/68c16b4d5245d32f24d67fd6_miro-contextual-upgrade-popup.webp)
+
+Miro’s contextual upsell pop-up.
+
+*   **Low or no-touch sales:**
+
+Finally, let’s talk sales.
+
+PLG doesn’t always mean _no_ sales team. But it does mean the product leads, and the sales team supports. In most PLG companies, **sales shows up late, often after the user is already activated and engaged.**
+
+Instead of pushing demos to cold leads, what a sales team in a PLG company does is to help power users navigate procurement or scale up more strategically. 
+
+Look at Slack. Or Figma. Or even Dropbox. 
+
+Most users started for free, got hooked, and only later did the buying conversation come up, often initiated by the user themselves.
+
+Here, we also need to talk about **top-down businesses ⬇️ and bottom-up businesses ⬆️**
+
+The traditional sales method is the top-down method, in which executives and managers decide on what tools to use, what subscriptions to get, etc. From a businesses perspective, this would mean selling/marketing the product to those people, which do not necessarily end up actually using it.
+
+**But with PLG, we get to see more bottom-up businesses** and sales strategies. 
+
+Makes sense, too, actually, considering how the main driver is the product itself and it’s gonna be used by the team members, not the executives. 
+
+Slack is a perfect example of a bottom-up selling strategy, [Wes Bush says in his book Product-led Growth.](https://productled.com/book/product-led-growth#chapter-4-audience-do-you-have-a-top-down-or-bottom-up-selling-strategy) 
+
+It usually starts with one person. They invite a teammate, then another, and before long, the whole team is using Slack. At some point, it becomes too useful to ignore, and that’s when a manager steps in and pays. 
+
+Here’s how Bush summarizes the advantages and disadvantages of bottom-up sales:
+
+![Benefits and disadvantages of bottom-up sales strategies.](https://cdn.prod.website-files.com/65e7297194523c404b923b44/68c16b9f6648f286b511a06e_bottom-up-sales-strategies-advantages-and-disadvantages.webp)
+
+Benefits and disadvantages of bottom-up sales strategies.
+
+*   [**Customer-centric product design:**](https://userguiding.com/blog/customer-centricity)
+
+In a product-led business, growth starts by deeply understanding what users are actually trying to achieve, their **“**[**jobs to be done.**](https://userguiding.com/blog/jobs-to-be-done-jtbd)**”** Instead of guessing what features might impress them, the product team prioritizes solving these jobs in the most frictionless way possible.
+
+![Customer-centric product design principles.](https://cdn.prod.website-files.com/65e7297194523c404b923b44/68c16d976251557ebf994030_customer-centric-product-design-principles.webp)
+
+Customer-centric product design principles.
+
+**👉 Clarity on the core job:** Every screen, feature, and interaction is evaluated by how directly it helps the user accomplish their goal. If something doesn’t move them closer to success, it’s either redesigned or removed.
+
+👉 [**Reducing time-to-value:**](https://userguiding.com/blog/time-to-value-ttv) From the moment a user signs up, the experience is streamlined to help them reach their first meaningful result quickly. The product guides them to that initial “Aha moment” without unnecessary steps, settings, or jargon.
+
+👉 **Continuous alignment with evolving needs:** JTBD research isn’t a one-off exercise. As users’ contexts and challenges change, the product adapts, refining workflows, adjusting onboarding, and improving features to stay relevant.
+
+👉 **Consistency across touchpoints:** Whether on a marketing page, in onboarding, or deep inside the app, the language, design, and flow are aligned with the same user goals.
+
+*   **Data-driven optimization:**
+
+Building on customer-centric design, data-driven optimization is what allows product-led companies to continually refine the user experience based on real behaviors.
+
+By collecting and analyzing product usage data, teams gain insight into how users actually interact with the product, where they succeed, and where they get stuck. This feedback loop is crucial because it highlights which features deliver value and which create friction.
+
+[Here are 10 PLG metrics to monitor.](https://userguiding.com/blog/product-led-growth-metrics) 👈🏻
+
+*   [**Built-in virality:**](https://userguiding.com/blog/product-virality)
+
+Virality in PLG means embedding natural, organic ways for users to share and invite others directly within the product experience. 
+
+Products designed with virality in mind often include collaboration features that encourage users to bring colleagues, teammates, or friends on board because the tool’s full value only emerges when used together. 
+
+This makes sense, especially after everything we’ve discussed about the bottom-up sales strategies of PLG companies.
+
+Zendesk, for example, i**ncludes inviting teammates as part of its onboarding process** and provides clear guidance on how to do it within the onboarding checklist and relevant feature page. They also **highlight different roles (agents and admins)** and why it’s important to add your team (even during trial) to get the most out of the platform. 
+
+![Zendesk’s team invitation onboarding task.](https://cdn.prod.website-files.com/65e7297194523c404b923b44/68c16eb90fc527db870ae329_zendesk-team-invitation-onboarding-task.webp)
+
+Zendesk’s team invitation onboarding task.
+
+### How does a product-led growth strategy work?
+
+At its core, PLG lets the product take center stage as the main driver of growth. Users discover, try, and get value from it largely on their own, and if the experience is great, they stick around, upgrade, and tell others.
+
+Here’s how it unfolds:
+
+**➡️ Acquisition stage: The friction-free first step**
+
+Potential users find your product through marketing, referrals, or organic search. Instead of filling out lengthy forms or scheduling demos, they can sign up instantly through a freemium or free trial model. 
+
+Minimal friction at this stage is crucial.
+
+As Wes Bush puts it:
+
+> “Help your users quickly realize value, you’ve got less than 7 minutes.”
+
+That means the signup process should be fast _and_ thoughtful. Every step should be designed to move the user toward their first experience of value.
+
+Amplitude is a great example of a traditionally sales-led company **adding a product-led growth layer at the customer acquisition stage.** Over a year ago, they launched a $49/month self-serve Plus plan, which is quite a shift from their previous $20K+ starting price.
+
+This move didn’t happen overnight, as Elena Verna explains. 
+
+Since 2015, Amplitude has had a free version that has given them tons of user data. They noticed customers wanted a more affordable paid option, so they spent over a year testing this new plan with free users before fully launching it.
+
+**➡️ Activation stage:** [**Guiding users to “aha”**](https://userguiding.com/blog/what-is-aha-moment-how-to-find-it)
+
+Acquisition gets people in the door, activation gets them to stay. This stage is about leading users to their **first moments of value** as quickly and clearly as possible.
+
+PLG products do this through:
+
+*   [Contextual onboarding tutorials that adapt to the user’s goals.](https://userguiding.com/blog/in-app-tutorials)
+*   [Checklists that map a clear path to early wins.](https://userguiding.com/blog/onboarding-checklists)
+*   [Tooltips and nudges that explain features in context.](https://userguiding.com/blog/tooltips)
+
+The goal is to help users achieve something meaningful, whether that’s publishing their first design in Figma or automating a workflow in Gumloop. 
+
+The faster that first win happens, the more likely the user is to return.
+
+Scott Martinis says you don’t have a lot of time before that value realization moment hits (or misses completely). If you cannot show **at least a hint of value within the first 15 minutes**… well…
+
+**➡️Retention stage: Building habits and loyalty**
+
+Activation is a moment; retention is a habit. This stage is about keeping users engaged over time so the product becomes a natural part of their workflow.
+
+Retention often means identifying **“leading indicators”,** small actions that predict long-term engagement, and encouraging them through product design.
+
+For example, for Netflix, a leading indicator of customer loyalty can be adding a lengthy series with multiple seasons to your watchlist. For Notion, creating multiple linked pages or databases in a workspace can be a leading indicator. 
+
+[PLG companies invest heavily in **personalized UX**](https://userguiding.com/blog/personalized-user-experience-examples) and **in-app engagement** to build habits and keep their users “hooked”. They use product data to surface relevant features at the right time, prompt users with reminders or content, and ensure that value delivery is continuous.
+
+⚠️ That said, [you need to understand that personalization](https://userguiding.com/blog/personalized-product-experience) can be creepy, annoying, and even irrelevant, too, when it’s done wrong. 
+
+So, not all “personalization” is good personalization. 
+
+Here are common myths about UX personalization [explained by Digital Product People:](https://www.linkedin.com/posts/digital-product-people_personalisation-the-secret-to-a-great-user-activity-7338837485831036928-9gpi?utm_source=share&utm_medium=member_desktop&rcm=ACoAADXlniMBHzTnnmEofAcIvk2BrQATACsUa9s)
+
+**➡️ Expansion stage: Users upgrade and grow**
+
+As users engage more deeply, their needs grow, and this is where **PLG monetization** kicks in. Because, in the end, products don’t really sell themselves entirely on their own, even within the PLG framework. You need a go-to-market strategy that revolves around your product and requires minimal human involvement.
+
+But still…
+
+You need monetization. This is a business model, not a charity cause. 
+
+And for that, Wes Bush says you need to create upgrade paths that just make sense, showing up right when users need more from your product.
+
+That might be reaching a storage cap in Dropbox, needing deeper insights through custom reports in Amplitude, or unlocking premium templates in a design tool like Canva. 
+
+Because the upgrade is tied directly to a value the user already experiences, the decision feels obvious.
+
+**➡️** [**Advocacy**](https://userguiding.com/blog/customer-advocacy) **stage: Happy users spread the word**
+
+The final (and arguably most powerful) stage is advocacy.
+
+If your product delivers real value, makes users look good, and fits naturally into their workflow, they’ll talk about it. They’ll refer others, leave reviews, and invite their teammates. 
+
+Sometimes, the best PLG strategy is just a great user saying, _“You’ve gotta try this.”_
+
+CLIQ is a successful case that generated this excitement 👇🏻
+
+Product-led sales (PLS) is a sales approach that **builds directly on the principles of product-led growth (PLG).** While PLG focuses on letting the product itself drive acquisition, activation, and expansion, PLS takes it a step further by using product usage signals to time and guide sales outreach. 
+
+So, instead of sales teams working separately, **product usage data** **becomes the main source of insights** that helps sales engage with users more effectively and at the right moments.
+
+Here’s what Elena Verna says about PLS:
+
+So, PLS requires close collaboration between product and sales teams. 
+
+### The key traits of product-led sales
+
+*   [**Product-qualified leads (PQLs):**](https://userguiding.com/blog/pqls-product-qualified-leads)
+
+At the core of product-led sales approach is the concept of product-qualified leads. Instead of relying on traditional lead generation based on company size or job title, PLS identifies leads based on how users engage with the product. 
+
+This means the sales team focuses on users who demonstrate **meaningful behavior patterns,** like frequent use of advanced features, inviting teammates, or hitting usage limits,  which signal readiness to buy or upgrade. 
+
+Because these signals come directly from the product, they provide a much more accurate and timely indication of intent than traditional methods.
+
+**But PQLs mean different things to different businesses.** 
+
+👉🏻 For Zoom, a PQL might be when a user creates several meeting links in quick succession, suggesting they’re hitting the free meeting time limits and could benefit from upgrading to a paid plan for longer sessions.
+
+👉🏻 And for Spotify, a PQL might be when a user frequently skips ads or songs during every listening session, indicating frustration with the free experience and a higher likelihood of upgrading to a premium, ad-free plan.
+
+So, each PQL reflects meaningful engagement **tied to the product’s core value.** 
+
+And when users hit these milestones (regardless of how they differ from product to product), they’re much more likely to convert into paying customers.
+
+Here’s how GitHub approaches PQLs, for example:
+
+📖 [Check out ProductLed’s guide on PQLs for more information.](https://productled.com/blog/product-qualified-leads)
+
+*   **Data-driven outreach with a human touch:**
+
+In product-led sales, teams rely on detailed product analytics to guide their outreach.
+
+Sales reps don’t just cold call randomly. Instead, they **send personalized messages** that reflect how users actually interact with the product. For example, if someone is using a specific feature a lot, the sales team might highlight premium features related to that or offer tips to get even more value.
+
+Even though the product handles most of the customer acquisition and activation, the human touch is still very important. 
+
+Salespeople step in when users face complex decisions or need help building relationships within their organization. They **focus on power users or decision-makers,** who are identified through signals from product usage. 
+
+Their job is to help these users…
+
+*   unlock more value,
+*    understand purchasing options, and 
+*   make it easier to roll the product out to their wider teams.
+
+So, personalized, product-driven, and **goal-oriented sales messaging** (like outreach emails, demo presentations and decks, etc.) are pretty important. 
+
+Ryan Estis says that your sales presentation or product demo **should be relevant to the particular customer you’re communicating with at that moment in time**. To earn someone’s attention (and ultimately their commitment to partnership), personalization and customization in your sales messaging are key.
+
+*   **Hyper-niche or complex solutions:**
+
+Product-led sales works particularly well for products that serve specialized or complex markets. In these cases, the product helps users explore and understand the value at their own pace, while sales teams step in to guide them through customization, integration, or advanced use cases that require more expertise. This **blend of self-service and expert support** helps convert users who might otherwise struggle to see the full potential on their own.
+
+💡 PLS also works **great for bigger accounts and enterprises**, as these customers often need tailored setups and customizations that a free trial or freemium can’t fully reveal. Sales teams use product usage data to identify engaged accounts and then step in to provide personalized demos, custom configurations, and dedicated onboarding.
+
+### How does product-led sales work?
+
+In product-led sales, the journey starts with users exploring the product on their own. 
+
+As users engage, their behavior generates important signals, like hitting key feature usage milestones, that show how deeply they’re adopting the product.
+
+Only after this point _(when we start to see meaningful product engagement and possible value realization moments)_ do sales step in with relevant, timely outreach based on real product data.
+
+User tests the product → engagement spikes → sales reaches out.
+
+Here’s how this simple flow translates into the full PLS process 👇🏻
+
+**➡️ Data collection: listening to how users interact with your product**
+
+Everything starts with tracking what users do inside the product. For example, a company like Miro might track when a user creates multiple boards, starts inviting teammates to collaborate in real time, or begins using advanced templates for workshops and brainstorming sessions.
+
+As we’ve mentioned before, PLS depends on tight collaboration between sales and product teams. The actual data collection at this stage (tracking feature usage, team invites, and other in-product behaviors)  is **usually already handled  and monitored by the product team** (or at least, it should be). 
+
+For sales, the key is to stay plugged into those reports and insights. 
+
+That means keeping regular touchpoints with product or data teams, reviewing their observations, and making sure you’re always working from the most up-to-date usage patterns.
+
+**➡️ Scoring leads: identifying Product Qualified Leads (PQLs)**
+
+This stage builds directly on the data collection process. 
+
+As sales and product teams review usage reports together, they’re not just looking at raw activity, but also define what counts as a Product-Qualified Lead (PQL) for your business. That means pinpointing the specific actions or engagement thresholds that signal a user is ready for a sales conversation.
+
+[As Elena Verna says on Jason Knight’s podcast,](https://oneknightinproduct.substack.com/p/episode-239-solopreneurship-memes) _“Product-Led Sales (PLS) is all about using self-service as a lever to_ **_fill up your sales pipeline with healthy, qualified leads.”_**
+
+To make this process scalable, many PLS companies **build automations into their analytics** and engagement monitoring systems. These automations flag users who meet PQL criteria in real time, automatically segment them, and send alerts or route them directly to the sales reps.
+
+Nico Druelle, founder of The Revenue Architects, says that cutting through the noise and volume of data to get the right PQA/PQL in front of the right rep at the right time is everything.
+
+**➡️ Triggering outreach: sales reaches out at the right time**
+
+Once a user crosses a PQL threshold, the sales team gets an automatic signal, often through CRM integrations and automations. This allows reps to step in _exactly_ when the user is showing strong buying intent.
+
+_The key is precision._ 
+
+Reach out too early and you risk disrupting the user’s self-service flow; reach out too late and you may lose the window to a competitor or to internal inertia. 
+
+That’s why many product-led sales teams set up automations that immediately pass high-priority usage events to sales. 
+
+Here’s how [**Kyle Poyar categorizes product signals**](https://www.growthunhinged.com/p/plg-and-sales-in-2023) _(a.k.a. sales’ queue for a reachout):_
+
+![Kyle Poyar’s 6 categories of product signals.](https://cdn.prod.website-files.com/65e7297194523c404b923b44/68c1748becab4797210b3dd3_product-signal-categories-kyle-poyar.webp)
+
+Kyle Poyar’s 6 categories of product signals.
+
+**➡️ Contextual sales conversations: tailoring outreach with product insights**
+
+When a sales rep contacts a prospect, they don’t start from zero. Instead, they leverage product data to **tailor their message to what the user is actually doing.**
+
+For instance, imagine a rep reaching out to a user of an analytics platform: 
+
+“Hi, I noticed your team has been running daily reports on over 50,000 data points and recently started using our advanced forecasting feature. How’s the new workflow working for you? Are you encountering any challenges with data limits or automation options in your current plan?”
+
+This kind of personalized outreach **demonstrates that the rep understands the user’s context and specific needs.** 
+
+It moves the conversation away from generic sales pitches toward a consultative dialogue about how upgrading or customizing the solution can solve real pain points and unlock more value.
+
+⚠️ What we should keep in mind here is that **sales outreach or conversations can take many different forms** depending on the scenario. Sometimes it’s a product demo, sometimes a personalized onboarding session, sometimes an expansion play (which we’ll get to in a minute), and sometimes it’s a feedback loop between the support team and the customer.
+
+So, don’t think of product-led sales as playing just one game, “selling” a product.
+
+While all of these interactions might ultimately lead to closed deals or upgrades, each one serves a distinct role and purpose in the broader map of sales activities.
+
+Kyle Poyar points out that there are actually several different plays where a sales interaction can happen:
+
+*   **Inbound hand raisers** (users request sales touchpoints like demos)
+*   **Sales assist** (account setup and onboarding help for high-fit accounts)
+*   **Warm outbound** (outreach to decision-makers in qualified accounts)
+*   **Sales - support loop** (customer feedback loop between and after support interactions)
+*   **Account consolidation** (merging multiple accounts into a unified paid plan)
+*   **Account expansion** (increasing seats, teams, or product usage)
+
+**➡️ Expansion and upsell: helping users grow within the product**
+
+PLS is more than the first sale. With PLS, you also aim to nurture power users, help them unlock more value, and [grow their product usage across their organization.](https://userguiding.com/blog/upsell-opportunities)
+
+PLS is different from the traditional top-down sales framework, as you don’t need to (and in fact, shouldn’t) go after each and every freemium user or accounts at lower tiers. 
+
+[Elena Verna says on Lenny’s Podcast that:](https://www.lennysnewsletter.com/p/the-ultimate-guide-to-product-led#transcript)
+
+> "Don't treat PLS as a traditional top-down sales process. Every single user is not an equal opportunity for you to chase after. 
+
+> You need to understand the right triggers and usage so they can help you automate the qualification process, almost automating some of the SDR efforts to determine the right time for your sales, for people that you’re paying a lot of money to intervene in this account and add value. 
+
+> Because sales interaction has to add value to the user journey."
+
+But expansion and upsell touchpoints are among the interactions where the human touch and personalized outreach are especially valuable.
+
+At this stage, **sales can work closely with the customer success team** to share advanced use cases, offer tips for getting the most out of premium features, and demonstrate how other customers in similar situations have achieved measurable wins.
+
+These success stories also act as powerful selling points, and give the user a clear, **aspirational vision of what’s possible** if they upgrade or expand.
+
+## Are PLG and PLS any different?
+
+The short answer is both yes and no. 
+
+PLG and PLS share a close, interdependent relationship, almost like the chicken and the egg. One can’t truly flourish without the other, yet they serve distinct roles within a company’s growth ecosystem.
+
+Let’s break down the key differences and connections in more detail:
+
+### 1- PLG is a team sport, and PLS is an important player  
+
+PLG is all about letting your product lead the way to acquire and retain customers. But while PLG can be incredibly effective, it doesn’t always work alone, **especially when dealing with complex products or big enterprise deals.**
+
+Some products require a more involved journey to realize their full value.
+
+Then there are the bigger deals. 
+
+For bigger commitments and enterprise accounts, self-checkouts and freemiums sound tacky. When a company is about to spend six or even seven figures on a solution, they have questions and concerns. 
+
+And PLS allows you to answer those questions and create a trustworthy, prestigious image.
+
+Elena Verna, too, points out some **real-world limitations of self-serve monetization**, such as credit card limits and payment declines, which often cap the size of purchases that can be made without sales involvement. 
+
+She says:
+
+> “Self-serve monetization has **a cap of about $10,000**. That's just how much we're able to process on the credit cards before they start getting flagged and declined by the banks.
+
+> Product-led sales converts the usage that you've generated via self-serve into a sales opportunity. And it **attaches a salesperson to close a much larger contract,** which can be $15,000, $20,000, $100,000, in order to bring an enterprise-level solution to a company that has already been using it in a self-serve manner.”
+
+So, it’s not like you just drop your leads and potential customers alone in the jungle (your product) without a cellphone and expect them to find their way out (self-checkout). 
+
+That’s not how successful PLG works. 
+
+Expecting customers, especially corporate-level customers, to discover value and close deals all on their own is a childish game and an unrealistic standard to put on your product.
+
+Collaboration is essential. _Sales teams, success teams, product teams…_ 
+
+[According to ProductLed’s benchmarks](https://productled.com/blog/product-led-growth-benchmarks), all teams collaborate and pitch in when it comes to PLG strategies. Product takes the lead, of course, with 49% involvement, and then followed by marketing, customer success, sales, and growth. 
+
+Without everyone on board (including sales, of course), you cannot become truly product-led. 
+
+![Table on how much different teams are involved in PLG strategies and processes.](https://cdn.prod.website-files.com/65e7297194523c404b923b44/68c1763190260be677f8087c_PLG-team-involvements.webp)
+
+Table on how much different teams are involved in PLG strategies and processes.
+
+### 2- PLG is a mindset, PLS is a procedure
+
+PLG influences the company culture and strategic outlook. It’s a mindset that prioritizes customer-centricity, seamless self-service, and rapid time-to-value. PLG drives changes in product development, marketing, and customer success to align with user empowerment and organic growth.
+
+PLS, by contrast, is **a concrete procedure within this mindset.** 
+
+It involves specific sales motions triggered by product usage data, such as identifying leads, scoring them, and engaging with timely outreach. 
+
+PLS also involves a lot of automation. 
+
+[Vincent Jong says that:](https://youtu.be/MIWw-kb5Erk?si=VkANGWRgUbRA7Yjp)
+
+> “In essence, product-led sales (PLS) is a combination of product-led growth approach with a sales team. So, **you're combining automation with humans.** You have a trial, people sign up, and then you qualify them and decide who you want to engage people on. That's a classic setup for that.”
+
+Another way to distinguish the PLG mindset from the PLS procedures is to look at how each value and idea within the PLG framework translates into business strategies and actionable plays with PLS.
+
+For example, PLG emphasizes prioritizing the customer and creating an accessible product experience. 
+
+PLS puts this into practice by offering free trials and freemium plans. 
+
+### 3- PLG is qualitative, PLS is quantitative
+
+As we’ve just said, PLG is more of an ideology, an approach. So, it relies heavily on qualitative data such as user feedback, interviews, personas, and insights into the overall user experience to shape strategies and optimize flows.
+
+PLS,  in contrast, is a more concrete, data-driven process. 
+
+It uses quantitative metrics like usage patterns, feature adoption rates, and engagement thresholds to identify high-potential leads and trigger timely sales actions.
+
+So, both PLG and PLS care deeply about how users interact with the product and listen closely to their behavior to take action, whether that’s initiating a sales conversation or improving the user experience.
+
+But how they look at the user input differs.
+
+### 4- PLG is inbound work, PLS is outbound work
+
+PLG primarily happens inside the company. 
+
+It’s about aligning your teams around a shared mindset focused on building an outstanding product and creating meaningful, self-service experiences. 
+
+This includes improving user onboarding, optimizing workflows, gathering feedback, and refining the product based on user behavior. These **internal efforts fuel organic growth by enabling users** to discover and realize value on their own.
+
+PLS includes more outward-facing work.
+
+It’s the moment when sales teams step outside the company walls to engage with users directly through targeted outreach and personalized conversations. 
+
+So, while PLG is about internal motivation, alignment, and product excellence (inbound work), PLS is about proactive, external engagement with customers (outbound efforts).
+
+### 5- PLG is worth it, so is PLS
+
+Neither approach alone guarantees success. 
+
+PLG without PLS can leave promising leads untapped, especially in complex sales cycles or enterprise deals. PLS without PLG risks pushing sales too early or broadly, missing the chance to leverage product value first.
+
+Together, PLG and PLS create a virtuous cycle: the product attracts and qualifies users, and sales nurtures and converts the highest-potential leads. 
+
+✅ This combination…
+
+*   Maximizes efficiency, 
+*   Shortens sales cycles, and
+*   Drives scalable, sustainable growth.
+
+### Key differences between PLG and PLS
+
+  
+|     | **PLG (Product-led Growth)** | **PLS (Product-led Sales** |
+| --- | --- | --- |
+| **Primary Motion** | Self-serve | Sales-assisted |
+| **Customer Contact/Activation** | User-initiated and automated | Sales engagement post activation |
+| **Lead Qualification** | Users self-qualify through usage | PQLs based on behavioral triggers |
+| **Target Audience** | SMBs, tech-savvy, user value | Personalized outreach, deal closing |
+| **Monetization** | Self-serve purchases (generally up to ~$10K) | Sales-driven contracts (generally bigger deals) |
+| **Tools** | Product analytics, onboarding tools | CRM and PLG signals |
+| **Success Metrics** | Adoption, activation and retention rates | PQL conversion, deal size, sales cycle |
+
+## When to use each approach
+
+**PLG makes sense if:**
+
+*   You’re targeting developers, designers, or other ICs who prefer trying before buying
+*   Your product has a strong self-serve UX, quick activation, and low learning curve
+*   Deals are SMB-sized with minimal procurement, legal, or security reviews
+*   You want scalable growth with minimal sales headcount and cost-per-acquisition
+*   Your goal is to acquire a large, active user base and let product experience drive conversions
+
+**Product-led sales makes sense if:**
+
+*   Deal sizes are larger and require multi-stakeholder sign-off
+*   Your product requires complex onboarding, integration, or customization
+*   Legal/security reviews or procurement steps make self-serve checkout impossible
+*   You want to grow existing customer accounts through cross-sell, upsell, or expansion into new teams/departments
+*   You have clear product signals (e.g., frequent feature use, hitting usage limits, adding multiple collaborators) that indicate a user is ready for sales engagement
+
+_But you know it’s not an either/or situation, right?_
+
+**You can go hybrid!** 
+
+Many companies start with PLG to attract and activate users at scale, then layer in PLS to move the highest-potential accounts upmarket.
+
+Kyle Poyar emphasizes that the **two motions should be** **part of a single user journey**, self-serve as the on-ramp, sales as the upgrade path for accounts that are already engaged. 
+
+## Common misconceptions about PLG and PLS
+
+### PLG means no sales team and go product team!!
+
+One of the biggest myths about product-led growth is that if the product is strong enough, it can completely replace the need for sales. While a great product can certainly guide users through discovery, activation, and even purchase, the reality is that **not every** [**customer journey**](https://userguiding.com/blog/customer-journey-map-guide) **is straightforward or self-contained**.
+
+Just like having an excellent product doesn’t eliminate the need for a support team, it doesn’t remove the role of sales.
+
+Many customers, especially in mid-market and enterprise, require one-on-one involvement to navigate **complex buying processes.** Think about contracts, security reviews, compliance paperwork, budget approvals, multi-stakeholder buy-ins... 
+
+These aren’t tasks your onboarding flow can handle on its own.
+
+Even among PLG-first companies, you’ll often find customer success and solutions engineering teams to guide users through setup and ensure long-term value. Sales plays a similar role, too.
+
+But instead of focusing on the setup (though sometimes sales can get involved in this process, too), it focuses on making the purchase process smooth, answering in-depth questions, and **aligning the deal structure with customer needs.**
+
+### You cannot have it all (both PLG and PLS in this case)
+
+Another misconception is that you must pick one path, be “pure” PLG, or go all-in on product-led sales. In reality, the **most successful companies often operate a** **hybrid model** that blends both.
+
+We’re not in the age of purely traditional sales-led growth anymore, but PLG alone isn’t always enough, especially in situations where self-serve funnels stall.
+
+You can have the smoothest onboarding, the most intuitive UI, and the best pricing page in the world, but **there will still be moments when users hesitate.** 
+
+Maybe they can’t figure out which plan fits their team. Maybe the integrations look complicated. Maybe they just need reassurance that your product will pass their security audit. That’s where PLS comes in, not to replace PLG, but to complete it.
+
+We’re not in a war between human touch and product automation. 
+
+_(At least not at the moment, not in this case.)_
+
+Instead, we’re in an era where the two work side by side.
+
+*   PLG brings people in, gets them to experience value, and gives sales the data to know who’s worth reaching out to.
+*   PLS steps in precisely when that human touch can move the deal forward, closing the gap between _interested_ and _invested_.
+
+### Sales involvement annoys users
+
+Bad sales involvement annoys users. Good sales involvement feels like rescue when you’re stuck in a confusing checkout.
+
+If you get a call 10 minutes after signing up for a free trial, yes, that’s annoying. But that’s not sales being inherently bad; that’s sales being _badly timed_.
+
+When the outreach is contextual, however, like when someone is comparing plan tiers for days, toggling add-ons, or trying to figure out an integration, at that moment, sales isn’t interrupting; they’re _solving_.
+
+Plus, good sales involvement is more than reading the pricing plans out loud in a Zoom meeting. Sales representatives’ job is to understand the user as well as to sell to them.
+
+**With sales conversations, you understand:**
+
+*   What the user is trying to achieve
+*   How they currently cope with the pain points your product addresses
+*   What they like about their current solutions and where they wish those solutions did more
+
+So, no. Sales involvement does not necessarily annoy users. 
+
+## Real-world examples of PLG and PLS
+
+### Calendly offers in-app onboarding and guidance as part of their PLG strategies 
+
+When we defined PLG and its key traits earlier, we said that self-serve onboarding is a cornerstone of the model. In PLG, the product itself is the main driver of acquisition and retention, with minimal human intervention, especially in the early stages of the customer journey.
+
+That’s why automated, self-serve onboarding is a must.
+
+Calendly delivers this through **a mix of strategies and onboarding materials.** 
+
+First, there’s the **onboarding checklist**: a set of recommended tasks for new users to complete, designed to help them explore the tool’s capabilities and get smooth results from their future interactions. These tasks range from basic setup to trying out key features, like meeting automations.
+
+Like many product-led businesses with a bottom-up sales strategy, Calendly also **prioritizes inviting other people into the workspace**. The final checklist task explains how to use Calendly with a team and the advantages this brings.
+
+⚠️ Team invitation is an essential part of the UX for Calendly. 
+
+After all, you can’t have meetings without another person involved. So, including it in the onboarding checklist feels natural and appropriate. For a photo-editing tool without collaboration features, however? We’d be annoyed. 
+
+Moral of the story: **Be mindful about when you push team invitations**.
+
+![Calendly’s onboarding checklist.](https://cdn.prod.website-files.com/65e7297194523c404b923b44/68c17dbe0eced0f8a596b0ff_calendly-onboarding-checklist.webp)
+
+Calendly’s onboarding checklist.
+
+The checklist tasks (some with sub-tasks) include short explanations of what each task is, how to complete it, and why it matters, often supported by short video tutorials. 
+
+So we get both written and video guidance, but no interactive walkthroughs.
+
+However, Calendly compensates for the lack of interactive guidance with **contextual tips and explanations** **throughout the UI.** 
+
+For example, instead of showing a bland “No upcoming meetings” message, the empty state of the scheduling page explains how events and links work: _“Single-use links can only be booked once.”_
+
+The same approach applies to menus. 
+
+On the event/link creation menu, each event type comes with a brief description and **suggested use cases.** This helps avoid confusion between similar-sounding features, for example, a collective event (multiple hosts, one invitee, great for panel interviews or group sales calls) versus a group event (one host, multiple invitees, ideal for webinars or online classes). 
+
+These subtle nudges **reduce mental load, clear up confusion,** and smooth the learning curve.
+
+![Calendly uses empty state for additional guidance and use case recommendations.](https://cdn.prod.website-files.com/65e7297194523c404b923b44/68c1858622281ee50d2e4a6a_calendly-inline-guidance-empty-state.webp)
+
+Calendly uses empty state for additional guidance and use case recommendations.
+
+Beyond free trials, freemiums, and in-app guidance, Calendly also shines in **contextual, timely upgrade promotion**, a tactic that could fit under either PLG or PLS, depending on your perspective.
+
+Instead of prompting an upgrade the moment you sign up, Calendly lets you explore the checklist, create and join meetings, and spend time in the product. The upgrade message **only appears when you try a premium feature** not included in your current plan.
+
+For example, the Workflows feature. 
+
+Attempt to use it, and you’ll see a pop-up that explains the feature’s value and suggests use cases. 
+
+The upsell copy is clear and concise, with two CTAs: one to upgrade directly to the next plan (Standard) and another to compare all plans first.
+
+![Calendly’s contextual upgrade promotion pop-up modal.](https://cdn.prod.website-files.com/65e7297194523c404b923b44/68c1863edefb27c4b2c60dff_calendly-in-app-upgrade-popup.webp)
+
+Calendly’s contextual upgrade promotion pop-up modal.
+
+**✨ What’s inspirational in this example?**
+
+*   Smart use of empty states for contextual guidance and pro tips.
+*   A variety of onboarding materials (written and video) organized into a structured checklist.
+*   Contextual, interest-based upsell promotion that appears at the right moment.
+
+### UserGuiding sends contextual onboarding emails (some of which are successful sales interventions) 
+
+[UserGuiding](https://userguiding.com/) is an all-in-one product adoption platform that helps businesses create and optimize product experiences. So it’s only fair that they’re a great example of their own craft, complete with polished in-app guidance and onboarding.
+
+Inside the platform, everything feels intentional: [**goal-oriented walkthroughs**,](https://userguiding.com/blog/product-adoption-walkthrough) **value-driven slideout video modals**, **checklists**, and a **resource center full of tutorials**. 
+
+![UserGuiding’s video onboarding for the knowledge base feature, triggered from a slideout modal.](https://cdn.prod.website-files.com/65e7297194523c404b923b44/68c186cf84b5bd4baa01b1ff_userguiding-knowledge-base-v.deo-onboarding.webp)
+
+UserGuiding’s video onboarding for the knowledge base feature, triggered from a slideout modal.
+
+But what UserGuiding also does exceptionally well is [reinforcing in-app onboarding with **contextual emails**](https://userguiding.com/blog/email-onboarding) that align with where a user is in their journey.
+
+When you first sign up, you get a **welcome email from the CEO, Osman Koç**. 
+
+Written in a warm, friendly tone, it speaks directly to a likely pain point and how UserGuiding can solve it. The email includes a clear CTA inviting you back into the platform to create your first guide. 
+
+It also **briefly promotes UserGuiding’s new freemium plan,** _Support Essentials_, and shares useful links for new trial users.
+
+![UserGuiding’s welcome email from the CEO.](https://cdn.prod.website-files.com/65e7297194523c404b923b44/68c1878d8c2f2142b5a64b73_userguiding-onboarding-email-from-the-ceo.webp)
+
+UserGuiding’s welcome email from the CEO.
+
+As onboarding continues inside the app, UserGuiding complements it with timely email touchpoints, sometimes from the product team, sometimes from the sales team.
+
+**Around the halfway point of the trial period,** by which time the user has likely tried several features and created a few guides and hotspots, the sales team steps in with a **gentle, contextual outreach**. 
+
+The goal isn’t to push a plan but to invite the user to book an interactive demo tailored to their use case:
+
+“Hey, we can dive into strategies tailored to your goals and features that can streamline your product’s value together to make the most of your trial.”
+
+![UserGuiding’s sales involvement email on the 6th day of the trial.](https://cdn.prod.website-files.com/65e7297194523c404b923b44/68cd224f661709f15c71f2a6_userguiding-sales-outreach-email-during-trial-period.avif)
+
+UserGuiding’s sales involvement email on the 6th day of the trial.
+
+This quick intervention doesn’t feel rushed or forced, as it’s timed so that the user has already experienced enough value to be receptive.
+
+**✨ What’s inspirational in this example?**
+
+*   In-app onboarding reinforced by off-app email sequences.
+*   Multiple touchpoints from different team members (including a personal welcome from the CEO).
+*   Contextual, well-timed sales outreach that feels helpful, not pushy.
+
+### Datadog mixes PLG and PLS strategies for its pricing plans 
+
+Datadog takes a balanced approach by combining **self-serve accessibility** with **sales-assisted flexibility**.
+
+On the PLG side, they offer both a **freemium plan** and **free trials for every paid plan**, with prompts to start a trial placed everywhere, from the homepage to banners, CTAs, and the pricing page. Their pricing is also fully transparent: each plan’s feature set is clearly listed so users can compare and decide for themselves.
+
+But Datadog also leans into PLS by actively encouraging sales contact for **better contract terms**. 
+
+![Datadog maintains transparency, even for additional discounts.](https://cdn.prod.website-files.com/65e7297194523c404b923b44/68c18812f6dfb4faa65f99c9_datadog-additional-discounts.webp)
+
+Datadog maintains transparency, even for additional discounts.
+
+Right on the pricing page, they state that **multiyear commitments and** **high-volume usage** **qualify for additional discounts**. This isn’t hidden in the fine print; it’s upfront and easy to act on, signaling to larger customers that it’s worth reaching out to sales.
+
+Plus, after acquisition, Datadog offers a range of **post-sales support and services**, some provided by the support team, others by customer success and sales teams. 
+
+It’s a reminder that in modern SaaS, PLG is a team sport.
+
+![Datadog’s additional post-sales services and support plans.](https://cdn.prod.website-files.com/65e7297194523c404b923b44/68c2d251584bf5e58c4e90e3_datadog-post-sales-enablement-services.webp)
+
+Datadog’s additional post-sales services and support plans.
+
+**✨ What’s inspirational in this example?**
+
+*   Proves PLG and PLS can work together.
+*   Demonstrates how to promote free trials and self-serve options alongside sales touchpoints without creating friction.
+
+### Miro exemplifies how to add a sales layer on top of PLG 
+
+[On HubSpot’s _The Science of Scaling_ podcast, Miro’s former CRO Sangeeta Chakraborty explains](https://www.hubspot.com/startups/science-of-scaling/sangeeta-chakraborty-miro) how the company transformed its large, PLG-driven user base into a strong enterprise revenue channel. 
+
+The key was **not** rushing into sales. 
+
+First, Miro doubled down on **product-led fit** and ensured the product had strong market presence, an engaged community, and a clear upgrade path from free to paid plans. Only after those foundations were set did they introduce a sales motion to capture larger, more complex opportunities.
+
+Chakraborty also pushed to **retire the idea of “post-sales.”** In Miro’s model, sales and customer success work hand in hand, so customer value keeps growing well beyond the initial deal.
+
+Chakraborty says:
+
+> “Here’s a company, enormously successful. We had this fantastic opportunity to actually better understand the customer. At this stage of growth, I would have expected that we would know a lot more, and so that is the experience I had. PLG companies have to figure out how to master (understanding customer) without slowing down the beauty of PLG without screwing with any of that motion. 
+
+> Because at the end of the day, **if you don’t understand an enterprise customer,** don’t know how to grow them or help them, **you lose the velocity that comes with PLG.”**
+
+**✨ What’s inspirational in this example?**
+
+*   Shows the importance of experimentation and openness to new frameworks, strategies, growth approaches, etc.
+*   Proves that sales can amplify (not replace) a strong PLG engine.
+
+### Grammarly _really_ stresses the product-led in product-led sales when encouraging upgrades  
+
+Grammarly is a standout PLG company with all the familiar hallmarks, a freemium plan, self-serve onboarding, and a customer-first product design. But where they differ from several other product-led companies is in how **they weave product-led thinking directly into their sales and upsell strategy**.
+
+On the in-app pricing page, Grammarly lists features under each plan; nothing unusual there. 
+
+The twist is in how they describe them. Instead of dry, technical labels, **they use language that speaks directly to user goals** and pain points:
+
+*   Instead of _Correctness_, they say “Write without mistakes.”
+*   Instead of _Clarity_, they say “Write fluently in English.”
+*   Instead of _Plagiarism check_, they say “Catch accidental plagiarism.”
+
+It’s a subtle but powerful shift from listing capabilities to promising real-world outcomes.
+
+![Grammarly’s pain point and user goal-focused upsell tooltips.](https://cdn.prod.website-files.com/65e7297194523c404b923b44/68c2ae378b4c5a8eb0d7cdfe_grammarly-productled-sales-example.webp)
+
+Grammarly’s pain point and user goal-focused upsell tooltips.
+
+And Grammarly doesn’t stop there. 
+
+Hover over any of these value statements, and you’ll see tooltips that expand on them with richer explanations and concrete examples. For instance, “Catch accidental plagiarism” becomes “Safeguard the integrity of your work.”
+
+With these tooltips, they add a much deeper emotional motivation touch to the user goal-oriented plan breakdowns. 
+
+**✨ What’s inspirational in this example?**
+
+*   Translates technical features into user goals and pain-point solutions.
+*   Turns upsell messaging into a mix of practical benefit and motivational appeal.
+*   Uses contextual tooltips to deepen understanding and emotional connection.
+
+### Zoom’s transition from B2C to B2B is actually a PLG success story 
+
+It’s been a while since you’ve heard the word COVID-19, right? 
+
+Sorry if that stirred up some unpleasant flashbacks, but we need to take a quick stroll down 2020 memory lane (don’t worry, purely for business purposes).
+
+Zoom was born in 2012, long before lockdowns, remote learning, or “you’re on mute” became part of daily life. Eric Yuan, founder and CEO, had been dreaming about a better video solution since his university days. 
+
+While working at WebEx, he saw firsthand how frustrated people were with glitchy video, bad audio, and clumsy collaboration tools. 
+
+And no, we’re not lining up this backstory to make a dramatic “cause and effect” reveal, Zoom was already his baby in the making. 
+
+_But it’s safe to say those WebEx years must have poured a little extra fuel on the fire…_
+
+He says:
+
+> “The goal was simple, a better service bringing happiness back to customers who want next generation communication, meaning they want to have better video collaboration experts.”
+
+Zoom’s growth was steady at first, but then… 2020 happened. The world basically moved onto Zoom overnight. Schools, boardrooms, therapy sessions, yoga classes.
+
+If it involved more than one human, there was a Zoom link for it.
+
+With that explosion came a whole new challenge: their user base wasn’t just freelancers and small teams anymore. Now they had universities, multinational corporations, and government agencies knocking at the door. This meant **new personas, new needs, and yes, new business models**. 
+
+Zoom **went from primarily B2C to heavily B2B** without ditching the self-serve magic that got them here in the first place.
+
+[Check out ProductPlan’s case study on Zoom’s product strategy and PLG success for more information.](https://www.productplan.com/learn/zoom-product-strategy-example/#:~:text=A%20master%20class%20for%20product,a%20product%20firsthand%20before%20committing.)
+
+**✨ What’s inspirational in this example?**
+
+*   Showcases of how a solid PLG foundation makes massive pivots possible _and_ successful.
+*   A reminder that evolving your audience means evolving your pricing, features, and onboarding, but you can still keep the core experience people love.
+
+### Zapier personalizes the onboarding experience as part of their PLG strategies 
+
+Zapier knows the golden rule: the faster a new user hits their “aha” moment, the less likely they are to churn, and the more likely they’ll stick around long enough to become a paying customer.
+
+That’s why they go the extra mile during your first session to make sure you see what’s most relevant to your needs. It starts with **a quick onboarding survey** where they ask about your role, your company, and the tools you already use (because you’ll probably be using Zapier to automate those).
+
+![Zapier’s onboarding survey for UX personalization.](https://cdn.prod.website-files.com/65e7297194523c404b923b44/68c2b02dbdd0b389343414c9_zapier-onboarding-survey.webp)
+
+Zapier’s onboarding survey for UX personalization.
+
+And here’s the smart part—they skip the email verification bottleneck entirely. You answer the survey, you get instant access. No “please confirm your inbox” nonsense. 
+
+[A recent fintech case study found that](https://medium.com/@rafhaelajie/uncovering-the-drop-off-a-case-study-on-low-email-verification-conversions-1-2-7a1ed6cf53c5) email verification causes the biggest drop-off in the entire onboarding process, with a whopping **30% reduction in user completions.**
+
+Zapier avoids that trap.
+
+Once you’re in, personalization kicks in. If you’ve told them you use HubSpot and Mailchimp, you won’t be digging through a sea of irrelevant templates, **you’ll immediately see the Zaps that connect those tools.**
+
+![Zapier’s personalized template recommendations.](https://cdn.prod.website-files.com/65e7297194523c404b923b44/68c2b0bf544de36d01f23276_zapier-personalized-template-recommendations.webp)
+
+Zapier’s personalized template recommendations.
+
+Zapier doesn’t have an onboarding checklist like Calendly or interactive walkthroughs like UserGuiding. However, they also offer some contextual in-app guidance here and there. 
+
+For example, the first time you open the Zap creation page, a modal pops up inviting you to watch their **onboarding video.** 
+
+![Zapier’s video onboarding modal.](https://cdn.prod.website-files.com/65e7297194523c404b923b44/68c2b16625966189078dfa9f_zapier-inapp-onboarding-video-walkthrough.webp)
+
+Zapier’s video onboarding modal.
+
+**✨ What’s inspirational in this example?**
+
+*   Boosts perceived value with onboarding personalization.
+*   Removes friction points between the signup and the product access, like email verification. 
+
+### Basecamp humanizes the company with a personal welcome message from their CEO as part of their customer-centric PLG mindset 
+
+Remember how we said that the CEO of UserGuiding welcomes you to the platform with an email? Well, we see a similar practice done by Basecamp’s CEO, Jason Fried, too. 
+
+Instead of an email, with a pop-up modal, though. 
+
+When you first sign up, you see Fried’s warm message introducing what to expect from the platform and highlighting how Basecamp guides you with examples to make onboarding smoother.
+
+![Basecamp’s welcome message from the CEO.](https://cdn.prod.website-files.com/65e7297194523c404b923b44/68c2b210a9a0830615ee3867_basecamp-welcome-message-from-the-ceo.webp)
+
+Basecamp’s welcome message from the CEO.
+
+At the end of the message, Fried even shares his personal email, saying: “If you ever need a hand, please contact me directly. I’m here for you.” Cute and reassuring, right?
+
+But surely, the CEO wouldn’t actually answer, would he?
+
+Well… you might be surprised.
+
+[Gina Allman from ProductLed took her chance and emailed the address](https://productled.com/blog/the-best-product-led-growth-examples) provided in the welcome message to see if it was really Fried himself.
+
+And yes!
+
+The CEO of Basecamp, Jason Fried, replied to Allman’s email within 10 minutes, saying: “Yup, that’s me.”
+
+![Jason Fried’s answer to Gina Allman’s control email.](https://cdn.prod.website-files.com/65e7297194523c404b923b44/68c2b3b066714bf1ebab9e38_Jason-fried-email-control.webp)
+
+Jason Fried’s answer to Gina Allman’s control email.
+
+As promised in the welcome message, the platform is packed with guidance: example materials, pro usage tips, and written tutorials.
+
+Here’s the onboarding checklist:
+
+![Basecamp’s onboarding checklist.](https://cdn.prod.website-files.com/65e7297194523c404b923b44/68c2b59388bebdad76a2f954_basecamp-onboarding-checklist.webp)
+
+Basecamp’s onboarding checklist.
+
+This checklist isn’t the typical “do 3 quick tasks to reach your first value moment.” Instead, it’s more like: “Here’s everything you can achieve with Basecamp, take your time and explore.” 
+
+It may look crowded and intimidating at first, but the Basecamp team’s excitement and support shine through. **Most tasks are short and manageable,** and each comes with sample pages, use cases, pro tips, and examples of how the Basecamp team uses the features.
+
+![An example task from the onboarding checklist. Basecamp uses the empty state around the UI to offer guidance and pro usage tips.](https://cdn.prod.website-files.com/65e7297194523c404b923b44/68c2b6168560c740b776f5dc_basecamp-empty-state-guidance.webp)
+
+An example task from the onboarding checklist. Basecamp uses the empty state around the UI to offer guidance and pro usage tips.
+
+The friendly, welcoming tone set by the CEO carries through all onboarding materials. And beyond the checklist, Basecamp also guides their users with **helpful inline tooltips.** They aren’t interactive, but they stand out visually with arrows and colors to explain features.
+
+Here’s an example one that explains what Pings are:
+
+![Basecamp introduces features and UI elements with inline tooltips.](https://cdn.prod.website-files.com/65e7297194523c404b923b44/68c2b6c390f56485e0798fc1_basecamp-tooltip-like-guidance.webp)
+
+Basecamp introduces features and UI elements with inline tooltips.
+
+**✨ What’s inspirational in this example?**
+
+*   Builds immediate trust with a personal message from the CEO.
+*   Ensures consistency in tone and support across the platform.
+*   Proves that onboarding can be thorough and even slightly intimidating without scaring users away, as long as guidance is clear, supportive, and not rushed.
+
+## What & who to follow for more content on PLG and PLS
+
+**👉🏻 For PLG strategies and insights, follow:**
+
+*   [**Wes Bush:**](https://www.linkedin.com/in/wesbush/) The go-to expert on PLG. Wes shares actionable frameworks, case studies, and tips to help companies scale through product-led strategies.
+
+Follow his work through the [ProductLed podcast](https://productled.com/podcast). 
+
+*   [**Ramli John:**](https://www.linkedin.com/in/ramlijohn/) Growth advisor with deep expertise in product-led onboarding. Ramli breaks down onboarding flows and strategies in a super digestible way.
+
+Follow his work through the [Delight Path substack](https://news.delightpath.com/).
+
+*   [**Kyle Poyar:**](https://www.linkedin.com/in/kyle-poyar/) Growth strategist focused on PLG. Kyle dives into growth loops, monetization, GTM, and anything product-led. 
+
+Follow his work through the [Growth Unhinged substack](https://www.growthunhinged.com/).
+
+**👉🏻 For PLS strategies and insights, follow:**
+
+*   [**Elena Verna:**](https://www.linkedin.com/in/elenaverna/) Expert at B2B growth and PLG, but she also shares insights on PLS. Elena offers frameworks, case studies, and lessons from companies successfully scaling through product-led approaches.
+
+Follow her work through [Elena’s Growth Scoop substack.](https://www.elenaverna.com/)
+
+*   [**Fred Melanson:**](https://www.linkedin.com/in/fred-melanson/) Focuses on PLS with real-life examples and case studies from companies successfully implementing product-led sales strategies.
+
+Follow his work through his LinkedIn page. 
+
+*   [**Mark Roberge:**](https://www.linkedin.com/in/markroberge/) Former HubSpot CRO, Mark delivers insights on sales, revenue growth, and aligning sales strategies with product-led growth.
+
+Follow his work through [Stage 2 Capital’s blog](https://www.stage2.capital/blog/author/mark-roberge).
+
+*   [**Nick Cegelski:**​​](https://www.linkedin.com/in/nick-cegelski/) Expert in sales demos, calls, and outreach strategies that are highly relevant for PLS.
+
+Follow his work through the [30 Minutes to President’s Club](https://www.30mpc.com/) (newsletter and podcast).
+
+*   [**Hannah Ajikawo:**](https://www.linkedin.com/in/hannah-ajikawo/) Guides how to build authentic customer relationships, deeply understand users, and personalize outreach to deliver real value. Even though she doesn’t explicitly mention PLS, her customer-centric approach is crucial for product-led sales success.
+
+Follow her work through the [Sell Like You Care newsletter](https://www.linkedin.com/newsletters/sell-like-you-care-6900063338156670976/).
+
+## Final thoughts…
+
+PLG and PLS aren’t rivals, they’re more like teammates.
+
+While PLG focuses on letting your product do the heavy lifting for acquisition and activation, PLS steps in to turn high-intent, high-value users into long-term, high-revenue customers. 
+
+Different tools, different goals.
+
+But when you combine them, the growth potential multiplies.
+
+And that’s why the most successful SaaS companies don’t pick one or the other.
+
+They design user journeys where self-serve and human-assisted touchpoints work together. They empower product, growth, sales, and success teams to **operate as a product-led organization.**
+
+Need more proof? Here’s what Wes Bush says about _his_ experience and observations:
+
+**Here’s your takeaway:** When you turn to product-led strategies and go beyond just PLG to build a _truly product-led_ organization, you can unlock massive growth. 
+
+Boomi went from $0 to multiple 8-figures with self-serve. Enzuzo doubled conversions in six months. Keap significantly boosted free-to-paid rates. 
+
+These are real success stories from real companies. Join them!

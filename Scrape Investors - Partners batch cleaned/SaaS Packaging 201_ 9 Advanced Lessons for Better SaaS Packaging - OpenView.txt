@@ -1,0 +1,108 @@
+# SaaS Packaging 201: 9 Advanced Lessons for Better SaaS Packaging
+
+_**Editor’s Note:**_ _This article first appeared in Kyle Poyar’s newsletter, Growth Unhinged, which_ _explores the unexpected behind today’s fastest-growing startups. [You can subscribe to get the latest from Kyle here.](https://www.growthunhinged.com/)_
+
+Do you find yourself debating whether to sell a new product as an add-on or include it in an existing package? Or perhaps questioning if it’s the right time to introduce a new package altogether?
+
+These are the Groundhog Day discussions of SaaS companies everywhere. Every stakeholder has their own opinion about what’s best, but there’s rarely data or a framework for decision-making when it comes to SaaS packaging.
+
+To help make these everyday decisions a little easier, I’m sharing my guiding principles for designing SaaS packages. These have been divided into strategic packaging principles and then more tactical advice. As a disclaimer, keep in mind that these principles may not apply to all situations and some may even be in conflict with others. Please use your best judgment about what’s best for your specific context.
+
+![SaaS Packaging Principles](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+## 1\. Good-Better-Best is the de-facto starting point.
+
+When it comes to SaaS packages, you could keep things extremely simple with a one-size-fits-all offering. But simple also means inflexible and lacking any upsell path (think: the classic [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) in investment banking).
+
+Alternatively, you could make packages extremely flexible and allow customers to build-their-own ideal package (think: [Twilio’s endless customization](https://www.twilio.com/en-us/pricing)). But that can overwhelm customers with decision paralysis and leave folks feeling nickel-and-dimed. Plus, it gives more line items for procurement to pick apart as they negotiate a discount.
+
+It’s no surprise, then, that two-thirds of SaaS companies meet in the middle with a Good-Better-Best packaging line-up. You can find this style of packaging at Salesforce, Figma, Airtable, Slack, Notion, and (almost) everywhere else. And there are good reasons why:
+
+*   It makes purchase decisions fairly easy for the buyer (and for sales).
+*   It allows you to differentiate pricing based on a customer’s sophistication and willingness-to-pay.
+*   It presents a clear upsell path as customers deepen their usage of the product.
+*   It helps fund new product development by providing a path to monetizing new products.
+
+When in doubt, default to Good-Better-Best.
+
+## 2\. Leave room for add-ons – but be selective about it.
+
+Not every feature or capability needs to be included in one of your pre-built packages. In my experience, offering selective add-ons can increase deal size and give sales more flexibility to expand an account over time.
+
+So, what makes a product a good fit for being sold as an add-on?
+
+*   **It’s polarizing**_._ Some people love it – and highly value it – but the average customer doesn’t need it. Bundling it for everyone wouldn’t increase the overall willingness to pay for the package and might leave some folks feeling oversold.
+*   **It appeals to a different buyer or budget.** You may be able to tap into different budgets outside of the scope of the initial purchase.
+*   **It’s something the customer could use a different vendor for.** Related to the point above, the customer may already be spending money on this feature through a different vendor or service provider. Charging for the feature, too, could help you tap into pre-existing budgets and maintain a low price for your core packages.
+*   **It’s needed at a different time.** Sometimes customers aren’t ready to adopt everything all at once. If you’re finding that customers defer adopting a feature until 6-12 months+ after the initial purchase, you may be better off selling that feature later.
+*   **It’s something you don’t want everyone to use.** While I’m not a fan of cost-plus pricing, there are certain capabilities that may require real costs or work from your team. You may wish to discourage folks from adopting them unless they’re actually willing to pay for them.
+
+Don’t go overboard with add-ons, though. The average customer shouldn’t need to purchase more than one or two add-ons during the initial transaction. Meanwhile, sales should be able to clearly communicate what each add-on provides and when they would plan to sell it.
+
+## 3\. Each package needs a job in your revenue generation.
+
+Too often teams get bogged down by the technical limitations or nitty-gritty features that are included in one plan versus the other.
+
+It’s important to zoom out and align on your North Star for each package. Everybody should know _who each package is for_, _what role it plays_ in your revenue generation, and _what its value proposition is_ to the customer. If you’re aligned on the job of each package, you’ll be much better equipped to decide what to do when you roll out that next feature.
+
+You’ll also need KPIs to assess whether each package is doing its job:
+
+*   Are the right percentage of customers buying it?
+*   Are customers successful if they start off on this package?
+*   Are customers who buy the entry package actually upgrading to premium packages later?
+
+## 4\. Turn packages into a competitive weapon.
+
+You want your packages to reinforce a conversation about what makes you uniquely valuable to customers. This means giving prospects a reason why they should buy each package over what your competitors are offering. It also means being able to monetize differentiated value/capabilities that your competitors can’t offer.
+
+Don’t mimic what your competitors are offering; reinforce why you’re better.
+
+## 5\. Avoid gating features that drive engagement and collaboration.
+
+It can be tempting to put all of your new features behind a paywall or only in your Enterprise plan. But I’d urge you to avoid gating features that create engagement, stickiness, and collaboration – especially if you monetize on the basis of usage. If you open up _access_ to experiencing value, you can monetize as customers _experience that value_ (ex: more usage, more user seats).
+
+Integrations with tools like Slack or Salesforce are classic examples. These features create long-term value in the form of greater expansion revenue and reduced churn, and are items you want the majority of your customers to use.
+
+## 6\. Be thoughtful about what’s an enterprise capability.
+
+[PLG companies](https://openviewpartners.com/product-led-growth/) tend to start with an affordable, self-service offering aimed at individual users or teams. Over time, they get pulled upmarket into enterprise deals. These enterprises tend to be asking for more scale, security, customization, and control – and are willing to pay for it.
+
+One of the first enterprise-specific features that PLG companies build is single sign-on (SSO). It’s my view that SSO is no longer \*just\* an enterprise feature. Having more customers adopt SSO is a good thing because it’s much easier for users to log-in and for admins to manage. More and more, SSO is a “check the box” requirement for many orgs and if you don’t offer it, you may not even be included in a customer’s evaluation.
+
+So, what is an enterprise capability that you can charge a premium for?
+
+*   More administrative privileges.
+*   Enterprise-specific integrations.
+*   On-prem or private cloud deployment.
+*   Advanced insights or analytics, particularly customized insights.
+*   Features that matter most to senior decision-makers (ex: VP or C-level), but don’t matter at the individual contributor or manager-level.
+
+(You can check out more examples in this great [enterprise-ready g](https://www.enterpriseready.io/) .)
+
+## 7\. Consider a [usage paywall](https://www.growthunhinged.com/p/the-gist-a-simple-way-to-boost-conversion) on entry-level or free plans.
+
+Usage paywalls create a compelling event for users to graduate to the next tier after they’ve experienced value from your product. Users get to experience a taste of your premium features – which drives engagement, stickiness, and habit formation – yet still have a clear reason to pay more over time.
+
+Yes, I’m talking about Zoom’s 40 minute time limit for free meetings. But there are far more examples, like DocuSign including 5 envelopes per month in their Personal tier or Airtable including 100 automation runs in their free plan.
+
+Usage paywalls drive notoriously high conversion rates among folks who encounter them. Why? Users already know the value of your product, they have an incredibly clear reason for paying, and this added friction creates urgency to finally pull out the credit card.
+
+![Usage-based Paywalls](https://openviewpartners.com/wp-content/plugins/lazy-load/images/1x1.trans.gif)
+
+## 8\. Plan your packages six months out.
+
+The decisions you make about your packages should not be restricted to where your product is today (nor the current capabilities of your Customer Success team, for that matter). You should design your strategy around what your capabilities will look like in the near future.
+
+Personally, I like to plan for six months out. And, yes, you can list “coming soon” capabilities on the pricing page as long as you’re transparent about it.
+
+## 9\. Ditch the prosumer/B2C-only tier.
+
+Single-user products see poor unit economics (low retention, low LTV:CAC, high support burden). Teams products look more like the B2B SaaS economics we know and love. Team revenue is worth $$$ – it should be valued accordingly.
+
+Ideally, all of your plans should have the option of being used with multiple users in an organization. SurveyMonkey actually takes this a step further, requiring their new Team plans to have multiple users. This helps you reach more champions in an org and enables your customers to discover more use cases, making the product stickier.
+
+This doesn’t mean that you should avoid individual users; in fact, that is the primary audience of most free plans. Rather, don’t maintain a paid plan that can \*only\* be used in single player mode, hurting your chance to scale from user to team.
+
+**—**
+
+The question of how to design your SaaS packages is never easy, and requires real research, analysis, debate, and testing. I hope these principles help you make better (and faster) decisions that set you up for long-term success. Let me know: what other SaaS packaging tips would you add to this list?

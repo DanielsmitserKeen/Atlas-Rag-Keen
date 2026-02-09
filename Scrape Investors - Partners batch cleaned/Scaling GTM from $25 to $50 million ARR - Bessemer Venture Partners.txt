@@ -1,0 +1,103 @@
+# Scaling GTM from $25 to $50 million ARR
+
+## These eight lessons will set you on the path towards repeatability and standardization as you transition from founder-led sales to a sales-led motion.
+
+Many founders can remember what it was like being their company’s sole sales rep in the earliest days of their journey from $0 to $10 million ARR. If this is a company’s infancy, we can consider the $10 million to $25 million stage the “teenage years” of go-to-market (GTM) maturation. One of the hallmarks of these teenage years is building the strategic bridge from founder-led sales to a sales-led GTM engine. As part of this [$10 million to $25 million](https://www.bvp.com/atlas/scaling-to-100-million-ramping-your-cloud-gtm-engine) phase, a company has to deliberately establish new teams and to introduce strategies to create a more structured sales and marketing playbook. 
+
+But what happens next? Scaling a company past $25 million to $50 million ARR is about growing up from the “teenage years” into “early adulthood.” This means introducing more standardization to ensure that the success of the GTM motion is repeatable. The goal is to “nail” the right GTM motion before scaling further. 
+
+In this piece, we’ll share eight GTM best practices for companies that are scaling from $25 million to $50 million in ARR with the hopes of growing to $100 million and beyond.
+
+## Lesson 1: Solidify your ideal customer profile to dictate your GTM rhythm
+
+![](https://www.bvp.com/assets/uploads/2022/12/praveen-rangnath_scaling-from-25m-to-50m-min.png)
+
+One of the most important parts of scaling from $25 million to $50 million ARR is crystallizing your [ideal customer profile (ICP)](https://www.bvp.com/atlas/scaling-from-1-to-10-million-arr#Product). Prior to this stage, you may still be experimenting with identity as you reach product-market fit, or you may have a good understanding of your end-user profile, but not the right buyer persona. 
+
+By $25 million ARR, you should have enough customers and deal experience that you can find patterns within the deals you’ve won to clearly identify the ICP. But refining your ICP isn’t just about reflecting on the past. Though it may sound counterintuitive, the profile of customers that have previously purchased your product is not necessarily who you may want to buy your product in the future. Refining your ICP requires balancing several factors: what your company offers (and why), what you want to be, and where you think the market is going. In this process, you should ask yourself questions such as: What are the reasons for past purchases? What prospects do (and do not) generate high close rates? Are metrics different depending on the buyer profile? Are there any future channels of market growth that our company can piggyback on? Hone your company on the customer profile that is the best fit for the business you want to build.
+
+Going forward, your ICP should dictate your entire GTM rhythm, which in turn allows you to improve on lead qualification as you decide which leads to pursue as well as which not to pursue. At the earliest stages, "a lead is a lead,” but now, the discipline to say “no” is required. The sales team should save their cycles for highly qualified Tier 1 ICP opportunities and deprioritize others. While it is important to be focused, companies should also keep in mind that this will be an iterative process. 
+
+[Imply](https://imply.io/), the real-time analytics database company, exemplified this best practice when they conducted a reflection exercise at this stage and decided to lean into becoming a developer-oriented company. This ICP decision affected the company’s product and hiring investments, and also led to a pivot in its marketing and messaging approach.
+
+## Lesson 2: Transition to standardized processes and documentation
+
+![](https://www.bvp.com/assets/uploads/2022/12/hector-hernandez_scaling-from-25m-to-50m-min.png)
+
+To get to $10 million ARR, it’s common for almost every deal to be an exception in some way, or reliant on “brute-force” tactics like offering services, CEO interaction, or product roadmap promises, all of which is perfectly appropriate for that stage. However, at $25 million ARR, you should be process driven, since you have a clear understanding of your ICP and how to convert that ICP down the sales funnel. 
+
+Transitioning to a “process-driven” environment means that sales is less reliant on “acts of heroism” and is instead putting structure in place to optimize the sales cycle. For instance, [Teleport](https://goteleport.com/), the infrastructure access company, is implementing configure-price-quote (CPQ) tools to ensure uniformity in invoicing and contracting processes at this stage, as well as consistent pricing and discounting rules. Sales teams also often adopt enablement tools that institutionalize best practices and ensure consistent messaging across GTM teams. Feedback collection, previously recorded across Google Sheets and notes from sales, can and should now be monitored centrally. 
+
+## Lesson 3: Refine specialization to cater to your ICP(s) 
+
+We’ve written previously about [how early specialization around segments can be introduced at the $10 million to $25 million stage](https://www.bvp.com/atlas/scaling-to-100-million-ramping-your-cloud-gtm-engine#Lesson-6-Start-specializing-your-sales-team). For example, a company may split segments by small and medium-sized businesses (SMB) vs. mid-market, or East vs. West Coast headquarters. Past $25 million ARR, we recommend layering on additional refinement to align even more closely to the business strategy and ICP. Using this same example, a company might layer on industry or vertical to further refine the segment focus. 
+
+Generally, this results in salespeople having a manageable number of accounts or leads to effectively pursue, and it also allows for more nuanced sales scripts and specialized selling to different buyer personas. [Procore](http://procore.com/), the vertical software company in construction, is a great example of a company that promoted more role specialization when they reached $25 million of ARR. At this stage, they hired a “Voice of the Customer” program manager who centrally managed key feedback inputs (e.g., closed won/loss data from sales, renewal feedback from customer success, product feedback form online) and consolidated them into a form that allowed for up- and down-voting on ideas to inform marketing, sales, success, and product. 
+
+Procore was also looking to double down on their ICP of SMB and mid-market logos while adding on an enterprise persona. To better serve their SMB/mid-market ICP, Procore created a dedicated customer education team to focus on content and product certifications, which helped drive a more self-serve sales motion among SMB/mid-market buyers. For the enterprise segment, Procore re-organized their customer success team to serve the more complex selling motion of these large buyers, which takes us to the next lesson. 
+
+The more refined you can get in segmenting, the more tailored your sales wedge will be, and conversion rates should increase as a result. 
+
+## Lesson 4: Formalize discrete functions across the go-to-market engine to map to overall strategy
+
+![](https://www.bvp.com/assets/uploads/2022/12/gabe-miller-smith_scaling-from-25m-to-50m-min.png)
+
+Up to $25 million ARR, a sale is a sale; however, over time you will want to bifurcate who manages new logo vs. expansion sales across the go-to-market organization and make sure that these ultimately are aligned with the overall business strategy. 
+
+[ServiceTitan](http://servicetitan.com/), the vertical software company for commercial and residential trades, had a strategy at this stage to first win market share, and then in the future to expand usage of its product suite across its customer base. To accomplish this, company leadership wanted the sales team to prioritize new logo acquisition. The company created a specialized Account Management function dedicated to expansion opportunities that freed up sales rep resources to focus on landing new opportunities. Whereas in the past one person handled both new logo acquisition and expansion, now the functions were formally separated and delineated.
+
+[Procore](http://procore.com/) took a more hybrid approach based on their business strategy. Because the company served both SMB/mid-market and now enterprise customers, Procore set tight rules of engagement across the GTM organization based on the customer segment: for enterprise logos, account executives (AEs) stayed on the account to help with continuity and drive relationship-based upsells; for mid-market and SMB accounts, the AEs handed off their accounts after three months to the customer success team so that the AEs could pursue more new logos. 
+
+There is no “correct” ownership strategy between new logo vs. expansion sales; however, at this stage they should be understood as discrete motions. Note that there could be even further refinement on the expansion side, which could include cross-sells (e.g. a new use case) vs. upsells (e.g. more seats). Procore even further split their generalist customer success team into specific groups responsible for onboarding, adoption, renewals, and expansion to optimize the customer experience and retention dynamics.
+
+## Lesson 5: Standardization unlocks the ability to track metrics at a highly granular level
+
+![](https://www.bvp.com/assets/uploads/2022/12/steve-letourneau_scaling-from-25m-to-50m-min.png)
+
+Companies that standardize their processes are able to report business metrics at a more granular level, which provides management teams with the clarity necessary to set broader strategy. Detailed tracking enables leaders to drill into the core reasons behind why things are happening to inform future decisions and to enhance productivity. 
+
+While your key metrics to track will be specific to your business, in general we suggest that GTM leaders start with leading indicators. These KPIs include number of opportunities created, number of meetings with ICP customers (which is especially important to predicting the success of ramping reps), pipeline open and pipeline coverage, and average opportunity size. For lagging indicators, we suggest that GTM leaders track the performance of both ramping and ramped sales reps (quota attainment YTD, conversion across stages, close rates). Productivity of reps on the segmented ICP level can then help to further refine where to hire, where to fire, and where to invest going forward.
+
+Note that many of the metrics that we refer to above should be tracked before reaching $25 million of ARR, but at this stage, the level of detail should be deeper. For example, at $1 million ARR it is common to look at total pipeline for the company, but at $25-50 million this pipeline should be segmented by your ICP targets. Similarly, whereas at $1 million ARR a company might look at blended pipeline coverage, by $25 million, pipeline coverage should also be segmented into new logo versus expansion business, as required coverage ratios to hit targets are often different. From these metrics, the goal is to then start looking at ways to double down precisely on areas that are working. For example, [Databook](https://trydatabook.com/)’s GTM leaders were extremely granular in their tracking of the leading indicator of new meetings with “Tier 1” ICPs, which not only improved forecasting and attainment accuracy, but also allowed them to further invest in strategies that were working.
+
+## Lesson 6: Align incentive structure to help power a flywheel
+
+![](https://www.bvp.com/assets/uploads/2022/12/zoe-diamadi_scaling-from-25m-to-50m-min.png)
+
+Pre-$25 million ARR, companies are just trying to get reps to triage any demand to spark the GTM flywheel. Almost any growth is good, even if it requires CEO involvement, or very favorable one-off pricing, or in some cases product roadmap promises. Often, reps are overperforming as lead velocity rate exceeds quota capacity, assuming there is substantial product market fit. However, by the $25-50 million stage, you will need to prepare for sustained growth over the long term. Sales reps often go after the easiest way to achieve quota, which may be at odds with high-quality revenue and the best way to grow your business for the long term. Therefore, at this stage you will want to introduce incentive structures that promote the right sales rep behaviors to drive the right kind of growth.
+
+These programs can include distinguishing the incentives for new versus expansion deals, new product versus existing product deals, seat-based versus usage-based pricing deals, and SMB versus enterprise deals, among others. Usually sales reps are rewarded with higher commissions, more quota retirement, or experiential/travel rewards for deals that drive the specific behavior that benefits the company most for the long term.
+
+For example, early on LinkedIn Elevate was happy to convert any sales opportunity available, but as the business grew, the enterprise reps were exclusively focusing on closing easy-to-convert product-led growth (PLG) deals in small enterprises instead of focusing on landing larger-potential companies as customers. To motivate the right behavior over time, LinkedIn Elevate created a new matrix system to incentivize reps to go after the high-touch enterprise accounts rather than just these “easier” customers. By doing so, LinkedIn Elevate distinguished between three motions—a self-service one to seed customers with very small teams using the product, a PLG motion to create the groundswell and land in multiple parts of a customer's organization, and an enterprise motion to drive expansion.
+
+## Lesson 7: Leverage a foundation to build network effects
+
+![](https://www.bvp.com/assets/uploads/2022/12/ross-biestman_scaling-from-25m-to-50m-min.png)
+
+Whether your company follows a direct sales model or PLG, there is opportunity to build the right network effects within your community of customers to complement your existing sales model at this stage. This may include engaging your existing customers through a customer advisory board, establishing partnerships that could lead to warm introductions, or setting up a strong referrals engine. 
+
+[ServiceTitan](http://servicetitan.com/) leveraged network effects while scaling by creating a customer advisory board and building out their Torch Network, which was a reference network led by customers. To encourage customers (or even non-quota internal employees) to actively refer ServiceTitan, they used incentives including referral bonuses, exclusive merchandise, and invitations to special events. They also made it a standard for sales reps to end sales calls with an ask for any referrals. Investment in the Torch Network positively impacted sales productivity, as ServiceTitan found that their referrals closed at an almost 90% rate, whereas it was 40-60% for other channels.
+
+We often see [partnership efforts being built around the $25 million ARR stage](https://www.bvp.com/atlas/building-a-robust-cloud-ecosystem) as well, with priority given to those partners that have strong technical or customer overlaps. Overall it is important to think about how to activate your community, which might span from freemium users in a developer-focused company to large paying customers in an enterprise-focused company, and to use that community to fuel growth.
+
+## Lesson 8: Reverse engineer to set up for the long-term 
+
+![](https://www.bvp.com/assets/uploads/2022/12/toni-rodoni_scaling-from-25m-to-50m-min.png)
+
+Refining the ICP, specializing the team, standardizing processes and granular metrics, and layering in the right incentives enable GTM teams to scale from $25-50 million ARR. However, laying the groundwork for future growth is often best done by reverse engineering: identify where you want to be at $100 million of ARR and work backwards. This was the best practice at Salesforce that enabled the company to scale into the cloud giant that it is today. As a CEO, you need to decide what strategies would drive the largest leverage, what bends the growth curve at different stages, and how those strategies ultimately line up with the total addressable market (TAM) and your company’s penetration capabilities. 
+
+While there are many strategies for achieving [Centaur status](https://www.bvp.com/atlas/the-centaur-report) (reaching $100 million of ARR), we often find that it involves diversifying pipeline and ARR, leveraging network effects for growth, and thinking about the Second Act. To prepare for $50 million ARR and beyond, the more diversified pipeline (and therefore diversified ARR) is, the more resilient your business will be. For GTM, it may make sense to implement a combination of both inbound and outbound sales, field marketing, and different customer acquisition channels. As the company continues to grow and evolve its ICP, think ahead to which specializations would make sense for your sales reps and pipeline, such as different geographies, product specializations, and industry verticals. While the exact strategies likely do not need to be cemented between $25 and 50 million ARR, you should experiment with different ideas such that at $50 million+ you know where to make investments. As you make these decisions, coordinate closely with marketing so that demand / lead generation and quota capacity ramp in parallel.  
+
+GTM and product are also inevitably intertwined when planning for long-term scale. The $25 to 50 million ARR stage is an ideal time for the product team to think about an extension, or a “[Second Act](https://www.bvp.com/atlas/six-product-strategies-to-catalyze-your-second-act)” to expand TAM. 
+
+During their growth stage, [Yotpo](https://www.yotpo.com/), the e-commerce marketing platform, built adjacent features like loyalty and rewards to support its core user-generated content product, allowing them to capture more of the e-commerce stack. Similarly, [Calendly](https://www.bvp.com/atlas/the-centaur-report#Centaur-study-How-Calendly-surpassed-100-million-ARR-through-the-power-of-product-led-growth) expanded from scheduling into advanced meeting capabilities to target more enterprise needs. The $25 to 50 million ARR stage is the time to think about expanding offerings because it will set you up nicely for future stages of growth. By $100 million ARR, your biggest asset will be your customer list—and you can scale most efficiently by selling expanded product offerings to your existing base.
+
+Reverse engineering the growth formula involves drilling down into what firm operations need to be scaled to reach $50 million, $100 million, or $200 million+ ARR. Prioritize those initiatives so that you do not need to slow down or rework operations along your growth journey.
+
+## Nail it before you scale it 
+
+We cannot overstate how important it is to [only ramp what works](https://www.bvp.com/atlas/10-laws-of-cloud#Law-3-Invest-behind-the-cloud-sales-and-marketing-learning-curve). This should be the first rule of running any GTM organization, and the $25 million to $50 million phase is a critical transition in the sales and marketing learning curve in which you should standardize on what is yielding results. Following the advice provided from GTM leaders from Databook, LinkedIn, Procore, Salesforce, ServiceTitan, and Teleport, by $50 million, you can secure a repeatable motion that sets up your organization’s scalable success over the long term. 
+
+_Thank you to all bright minds and leaders who contributed their expertise to this piece, including Gabe Miller-Smith (former Senior VP of Global Customer Success, Professional Services, and Support of Procore), Hector Hernandez (CRO of Teleport), Praveen Rangnath (CMO of Imply), Ross Biestman (CRO of ServiceTitan), Steve Letourneau (EVP Sales of Databook), Tony Rodoni (Former Executive VP of Salesforce), and Zoe Diamadi (former GM of LinkedIn Elevate)._
+
+###### If you have any questions or want to discuss the contents of this article further, please reach out to [Mary D’Onofrio](https://twitter.com/mcadonofrio), [Janelle Teng](https://twitter.com/NextBigTeng), and [Grace Ma](https://twitter.com/gracejhma).

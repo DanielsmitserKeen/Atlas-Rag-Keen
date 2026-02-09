@@ -1,0 +1,339 @@
+# Venture Confidential | Ep. #20, Feat. Leo Polovets of Susa Ventures
+
+**Peter Chapman**: All right. Leo, welcome to Venture Confidential.
+
+**Leo Polovets**: Thanks. Great to be here.
+
+**Peter**: I try to prepare for these by reading as much writing as I can that my guests were in. And I've got to be honest, I'm still working through [your blog](https://www.codingvc.com/ "Navigate to https://www.codingvc.com/").
+
+**Leo**: My bad. I need to write more succinctly.
+
+**Peter**: You've got a ton of content. What spawned the blog?
+
+**Leo**: I think a lot of it just came from when I joined the industry about five or six years ago. I felt there were a lot of things I wanted to know about, that I didn't see people writing about. Or when I talked to founders they asked a lot of the same questions.
+
+I felt like there was an answer, and if you asked an insider they knew the answer, but you couldn't just Google, "How much money should I raise?" or something like that. That was a lot of what inspired the blog.
+
+**Peter**: Let's start there. You had a long career as a software engineer, and then got into venture six years ago. What prompted that move?
+
+**Leo**: It was just a series of coincidences. What happened was I was at two startups early on when they were both roughly a dozen people when I joined. I like that phase of the companies a lot. I was there when they grew from 12 or 15 people to maybe 50 or 60. And when I was leaving the last company, which was about five years ago, I had been there for four years.
+
+I enjoyed it but I felt like I wanted to do something else, and I was thinking of starting a company. There's people that will just drop out of high school or college or whatever, dive in and figure it out. And then there's other people that are in the opposite side of the spectrum, where they like to over-prepare.
+
+I'm definitely on that side of the spectrum. I felt like I'd seen this 15-to-50 phase, but I didn't know what it was like when you just had one or two founders, or one or two founders and a couple of people. I wanted to learn more about that.
+
+Basically what happened is a week after I left this job that I had, one of my friends came up to me and said, "I'm starting this seed fund with a couple other people." All the other three people were on the business side, and they wanted somebody on the technical side to do tech due diligence and evaluate the technical founders.
+
+I thought, "This is great. I'll do this for six months or a year, meet investors, learn what pitching is like, meet a lot of founders in those early stages. And then I'll go start a company." And then six-to-12 months turn into two years, and three years. And now it's been five and a half. I ended up really liking it and also feeling like the really good founders I met are much better than I would have been.
+
+> I wish I was good enough to start a unicorn company, but I don't think I am. So I'd rather just work with people who are doing that and try to help them out.
+
+**Peter**: I love that you say you were hired to do technical due diligence. Because one of your early posts was about the futility of technical due diligence for early stage companies.
+
+**Leo**: I learned that lesson pretty quickly. The thing I discovered in my first few months was twofold. One is I think the market at seed stage doesn't support tech due diligence, because there's so many people. Many investors that I'll write a check after a meeting or two, that if I come up to a founder and say, "Can I do a four hour deep dive on your architecture with your CTO?"
+
+They'll be like, "No. We're busy. The other fund wrote us a check after an hour. Can you do that? Or we'll move on to somebody else." I think that was part of it. It was just hard to get founders to dedicate time to that.
+
+> The other thing that I learned after the first year or two is none of the founders we worked with had a hard time building whatever they said they were going to build.
+
+What they had a hard time with was figuring out what the right thing to build was. Or, when they build it, how do you get the first couple of customers? Or if you've never hired a salesperson before, how do you hire your first salesperson? Just all these challenges that were not tech related at all.
+
+We've had a couple investments where the technology is a risk, and we'll try to vet those more. We invested in a quantum computing company. But probably 95% of the companies I invested in the technology is not really the risk.
+
+**Peter**: What else did you learn during those first couple of years, your first gig in venture?
+
+**Leo**: I think there are a lot of myths in venture. A lot of these truisms where people talk about doing pro-rata or following the best funds, and I think there's some logic behind them. But a lot of science people aren't following that advice because of the logic behind it. They follow it because everyone says they should follow it.
+
+**Peter**: Sorry, I don't know what myths you're referring to. Can you spell those out?
+
+**Leo**: For example, for pro-rata and follow-on, people always talk about that being the really core thing that determines how well a fund does. And pro-rata is when you make an investment, later rounds you get diluted, and pro-rata lets you keep your stake by putting more money in future rounds.
+
+And this was really drilled into me when we were raising our first seed fund, and when we were looking at our first deals. Everyone said, "Make sure you get pro-rata rights. Make sure you reserve a lot for follow-on." And I think maybe a year or two into my venture career I did some modeling and realized the equity in a company is so much cheaper at seed stage that, for us, let's say we're saving two thirds of our fund for follow-on.
+
+It actually means we're a Series A fund that does some small checks at seed, then a seed fund that's really focused on seed. And the returns we've seen from the initial checks are so much better than the follow-on checks at the Series A or B. Especially at the best companies where they raise much higher valuations.
+
+We've went from having a lot of reserves to being much more about, "We'll invest more up front. We try to work with you more up front, we try to help more upfront." And then we'll do some follow-on investing afterwards, but we're really focused on the up front ownership.
+
+**Peter**: Where do you think this myth comes from?
+
+**Leo**: My guess is the Series A investors.
+
+**Peter**: Aha.
+
+**Leo**: And the reason is, we're a seed fund and we're usually buying five, seven or 10% of a company for maybe $500K to $1 million. At that stage, if we were going to buy 3%, we'd offer to buy 6%. Often that's pretty doable, if we just pay twice as much money. I think if you're a Series A investor and you have a 25% ownership target, you can't just double the amount and offer to buy 50% of the company.
+
+Because every founder would just say, "No. That's too dilutive." For them, they put in as much money as they can up front, which might be 25% ownership. There's still a lot more of the fund to deploy, so they end up deploying over the Series B-C-D and all the later stage rounds. And that's where the pro-rata kicks in. That's my guess.
+
+**Peter**: You're saying you get better returns the earlier you deploy, and Series A funds can't deploy all of the capital in Series A rounds. They need to do pro-rata.
+
+**Leo**: Yep.
+
+**Peter**: How are you different? Are you able to deploy all of your capital, or most of your capital, relatively early?.
+
+**Leo**: As an example, to make it concrete. Our second fund is $50 million. We think we'll have 30 or 35 investments. Let's say we reserved 3 to 1 for follow-on. That means we might be investing $12.5 into 30-ish companies, and it's like $400K a company. What we can do is invest $400K, maybe it buys us three, four or 5% in a company.
+
+And then we have a bunch of money, 3 to 1 reserved for future financings where we might get diluted but we have money to prevent that from happening. Instead what we can do is we can say, "We'll invest more up front." So maybe instead of 3 to 1 for follow-on, it's 1 to 1. Instead of investing $12 and a half million initially, we invest $25 million.
+
+So maybe instead of writing $400K checks, write $800K checks. Now instead of 3, 4, 5% we get 6, 8, 10% and then we can't keep it from diluting for as long, but the initial stake is a lot higher. And then also it's at a much lower average price.
+
+**Peter**: I guess what I'm wondering is, why do you follow-on at all? If you're price sensitive, you're trying to get the best returns, why have pro-rata reserves?
+
+**Leo**: I am probably more of the opinion that I would just do all initial checks. But I think that that does limit your fund size a lot, because there's only so much you can put in initially.
+
+I will say, I think the advantage of a bigger fund is you can hire more partners and you can hire more staff. You can have more services for portfolio companies.
+
+> There are a lot of things you get from a bigger fund that help you both stand out before you make an investment, and then also help after you make an investment. I think there's a lot of value to that.
+
+Then I do think there are some cases where if you're a lead investor and maybe a company needs a bridge round, you should be a big part of that. I think having some reserves for that is important. I don't think we've had personal experience with this that much but companies get recapped, or they have down rounds.
+
+They might have provisions where if you're not investing a little bit into the round you lose all of your preferred shares and they convert to common. I think that would be another case where having reserves would be very handy. But I don't think it needs to be 2 to 1 or 3 to 1, I think it could be 1 to 1. That's been working well for us so far.
+
+**Peter**: Got it. OK. You're talking about attention that we've explored a little bit on this podcast, which is fun size, right? You're saying that the best returns come from early stage investments. But one of the themes that's come up is you can do more with larger funds.
+
+You can hire more people, you can invest more in your program. You can do more across your portfolio. And a lot of the investors we talked to, talked about their own decision making process in terms of, "How big do I want this thing to be?"
+
+**Leo**: Yes. For us what we're really thinking about is we wanted to have bigger checks, where we can raise a bigger fund, and take more meaningful positions in companies. But also not be in a place where we're forced to lead every time. Because we felt like after our first fund our reputation was growing and in a good place but we had a lot more to go.
+
+And we didn't want to be in this place where we have to write a $2 million check in a seed round, and because we don't have the same reputation as other $2 million-check writers, maybe First Round or True. We only get to lead if all those other good funds passed.
+
+So we went from first funding being $25 million and like $2 or $300K checks, second fund being $50 million and maybe $750K checks. Where they're large enough to lead but they're also small enough to participate. I think we tried to deliberately pick a size like that where we could lead, but we didn't have to.
+
+And I think in the future, ideally as the reputation of the fund and the brand of the fund keeps growing, we can have larger and larger rounds. We think we can get the million or million and a half checks in next round, or next fund. So we might raise a bigger fund.
+
+**Peter**: I was excited to get you on the podcast because you wrote a lot about something that's near and dear to my heart, which is this quantitative evaluation of companies. You've got a series of articles about startups as risk functions and how you might model a startup's value based on how risky it is and it's expected returns. Where did this come from? Is this something that you came up with, or did you inherit this framework?
+
+**Leo**: I think it was something that I thought about implicitly for a while, and then especially as we had more and more seed stage companies that we invested in and that we passed on getting to Series A, and then sometimes struggling, I think that was what made this framework more explicit to me.
+
+Founders often think there's a magic number, or a magic target for a Series A, "If I hit a million in revenue all the Series A investors will be excited." And sometimes that's true, and sometimes you hit a million in revenue and investors are like, "This is not quite far enough. I want to see a million and a half." And I think the superficial interpretation of that is, "They want to see 50% more revenue."
+
+> But I think the deeper version is the reason a million's not enough, is there's something there you haven't proven out.
+
+Maybe it's that you haven't hired any execs and they want to see that you can hire a good VP of engineering or something, or maybe it's that your marketing is not scalable. And when they say, "I want to see a million and a half AR," what they usually mean is, "I want to make sure that your marketing is scalable." But they might say it more indirectly through the revenue proxy.
+
+As I was looking at all of these companies, trying to raise a Series A and sometimes succeeding, sometimes not. I think what I saw was when investors pass they might say it was the revenue or the traction, but what they really meant was, "There's some key risk I'm not comfortable with. And until you solve it, which I think will be at a later revenue target, I don't think I'm comfortable investing."
+
+**Peter**: They're just deferring the decision. They're just asking for time.
+
+**Leo**: I would say, sometimes they're just not interested.
+
+**Peter**: Sure.
+
+**Leo**: Sometimes they'll say, "Hit me up when you're at $5 million," because they think you never will be. Or if you are, you'll have raised already and you're not going to hit them up anyways. But I think there's other times where it might be, maybe they explicitly feel like, "I want to see you prove out marketing."
+
+Or maybe it's more implicit, where they see you at a million ARR, and they're thinking, "This is pretty good but I'm just not quite sure. I don't have enough conviction here." And I think that's usually where, maybe if you drill in or if they really think about it, they'll be able to give you a good sense of why it is that they're not comfortable with the investment. And it's usually related to some risk that's still outstanding.
+
+**Peter**: Are you suggesting that VCs are thinking about these risks and not voicing them? Or that they have a sense that there's more risk here, and they're bundling this all up into a request for more revenue?
+
+**Leo**: I think it's a couple of things. I think it's those two, which sometimes you might not put a finger to it but you just think as an investor, "I like this but it's a little too early."
+
+**Peter**: Yeah.
+
+**Leo**: And "too early" is the same as saying, "Get more revenue." It's a vague thing. And maybe just stop right there, because you're lazy or something. Or you're not sure what it is that you're looking for, you just know that it feels too early.
+
+Other times it might be that there's some feedback where you can say, "I think your marketing is immature. I want to see it proven out." There might be other times where you might say, "I think you suck at sales. I want you to hire a salesperson." But that's hard feedback to give to somebody if you've only met them once or twice.
+
+So you might just say, "I want to see the sales team grow a little bit. Come back when you're at a million and a half ARR." But really, they're saying, "I'm not sure I believe in you as a salesperson and I want to see if you can hire a better salesperson."
+
+**Peter**: When you talk about investments at Susa, do you talk about risk this explicitly?
+
+**Leo**: I think what we often focus on is what we think the biggest risks are. A good analogy is maybe triathlons. With a triathlon you have a swim, a bike and a run. A lot of times in the startup world you might have somebody that's an awesome runner and cyclist but they can't swim. They might present their seed round as, "I'm going to be even better at running."
+
+**Peter**: Right.
+
+**Leo**: And it's like, "You're going to drown on the swim leg. You need to fix that gap."
+
+**Peter**: Can we use an example here? What's a swim-bike-run startup story?
+
+**Leo**: The most simple one is a two prong example. Technical founders building a business. A lot of times there's very little risk in them building whatever they want to build, the real risk is, can they manage people if they haven't managed people before? Can they figure out the sales side if they haven't done sales before?
+
+And what I sometimes see is a really sharp technical founding team will raise money, and when investors have full confidence that they'll be able to build something, they want to see if something can be sold. And instead the founders will take the seed round, they'll go work really hard for a year and they'll come back and be like, "Look. We built this beautiful product. Ready to sell. And we want to raise it four times the valuation of the last round for Series A."
+
+And the investors look at it like, "I already knew you could build it, so you didn't really prove anything to me." Or, "You didn't really risk anything. What I wanted to see is that you could figure out the sales side a little bit."
+
+> You get way more credit for maybe building a prototype and then doing a lot on the sales side than building a beautiful product and not doing anything on sales.
+
+I think figuring out what the biggest risks are, especially the ones you could mitigate maybe in the course of the next round. I think that's something that's important for founders to think about. And not just from an investing standpoint but also from just growing the business. Because it doesn't matter how great your product is, if you're not selling it you're probably not going to do very well.
+
+But it's also important for investors, both in terms of what risks are they comfortable with? Some investors are comfortable with team risk, where maybe the team is inexperienced. Others might not be comfortable with that, but they're comfortable with, "The product's not live yet. We don't know if customers want it," or other things like that.
+
+So for the investor it's important to figure out, what risks are you comfortable with? And then also, whatever stage you're investing in now, the company has to make progress for the next round. So it's figuring out, what are the risks the company can address between now and the Series A? And are those meaningful enough risks to address to get you to a Series A?
+
+**Peter**: You listed one common risk, namely strong technical team that hasn't proven their sales execution ability. What are some other common risks you see at early stage companies?
+
+**Leo**: One common one is product-market fit. Which is, idea sounds great, you haven't launched it yet. In theory it sounds like something customers should love but you won't know until you actually ship something to them. Whether it's a prototype or an Excel spreadsheet version, or an actual product. That's one risk.
+
+Another one might be just around building the team. It could be on the management side, it could be on the recruiting side, Some people are great recruiters. They've built teams in the past. Other people, maybe they're fresh out of college. You can be really impressive, but when you have to go hire the 35-year-old senior engineer to work for you and you're 21, can you do that?
+
+And if you've never tried it there's a chance you can and a chance you can't. And if you can't, that's a pretty big risk. Because if you can't hire senior people for your company, the company is probably not going to go very far. Most of the time.
+
+**Peter**: You write that it's really important for founders to work on the riskiest stuff. You've got a proven technical team work on your sales. If you don't have proven product market fit, get some initial usage. Why is this hard for companies?
+
+**Leo**: I think the biggest thing is, in my mind a lot of it is about discomfort. People don't like to be uncomfortable. And there's two kinds of discomfort I've seen. One is, you really like something and you're really good at it and you don't want to let it go.
+
+And so this might be, this is probably what I would do if I was a CEO. Being an engineer, I like engineering and I'm pretty good at it. And so I'd want to do the coding. But the truth is, as the company grows, the CEO should not be coding.
+
+**Peter**: Yes.
+
+**Leo**: And the longer you don't let go of that the more the company suffers. So that's one form of discomfort, of not wanting to let go the things you're good at. The flip side is you don't want to try things you're either not good at or haven't tried. Maybe you've never tried sales, or you tried it before and you suck at it.
+
+And so you're like, "I'll just focus on building the product, and the product will be great. And then I'll figure sales out." And the problem is sometimes it's too late. Because maybe you're running out of money and you haven't proven anything on the sales side and it's hard to get funding.
+
+**Peter**: How do you coach your founder through that? How do you convince someone to do something that they fundamentally don't like and don't think they're good at?
+
+**Leo**: A lot of times you can try explaining it and giving this outside perspective of, "As an investor, we already invested, we believe in you. But what I think the later stage investors will zero in on are these two risks." And maybe it's sales, or maybe it's product market fit, or something like that.
+
+We think these are two high priority things to work on. And you don't have to be done today, but if you want to raise your next round in 15 months, you need to figure out a good answer to these two questions in the next 15 months. That's one thing that can help.
+
+The other thing that can help is sometimes if you introduce people to others that are way better at something you're not good at, then you realize how not good at it you are. Because I think in the absence of benchmarks and calibration it's easy to say, "I'm an engineer but I'm doing sales in my company. I sold four contracts this month for $10K each. And I'm really happy. And I feel like I'm an 'A' salesperson."
+
+And you might be. But if you get introduced to an "A" salesperson, and then they're like, "You sold four? In a typical month I sell 25." And then you're like, "I guess four is not that good." And maybe it turns out that four is really good, and maybe you are an "A" salesperson.
+
+But a lot of times meeting others that are really great in the role you're trying to figure out can be a good way to calibrate, are you actually good at it? If you're not good at it, based on who you're meeting, do you have the skills to be good at it? Or how long would it take you to learn to be good at it?
+
+**Peter**: Is this something you instrument through Susa?
+
+**Leo**: We definitely try to introduce people to things like that. I've seen this especially even if you are very self-aware, you might say, "I'm a good technical founder. I'm a good business founder. But I've never hired a marketer, or a VP of marketing."
+
+Whether you want to try marketing out yourself or not, you might still want to meet a good VP of marketing or two just to get a sense of, "What are the characteristics?" Because part of it is, if you're an engineer and you're interviewing a VP of marketing and you've never done that you might not even know what to ask. Or what to look for. 
+
+> Meeting good people in those roles is a great way to level up. Whether it's for yourself or whether it's for your recruiting efforts, or something else.
+
+**Peter**: As we're talking about discomfort, I'm reminded of one of your later articles about becoming your future self. Where you write about recognizing when you as a founder are becoming the bottleneck to your own company's growth. I'd love to talk a little bit about that. What happens at that juncture?
+
+**Leo**: I would say probably the biggest thing is actually if you're not aware you're becoming the bottleneck. Because usually if you are, then most people want to move out of the way or figure out how to how to solve the problem. Because I think everyone including myself has an ego and they want to be successful, but you can't really be successful if your company fails.
+
+I think founders do put their companies above their own egos most of the time. I think the bigger challenge is just thinking about, what are you doing that you shouldn't be doing? Or, what should you be doing that you're not doing yet?
+
+And the thought experiment I've given to some founders that seems to work pretty well is, "Maybe right now you're in a five-person company or a 20-person company. Imagine it's five years from now and it's a 500 person company. What do you think you're doing day to day?"
+
+If you're an engineer and a CEO, are you still coding when it's 500 people? Almost certainly not. And so figuring out, "What are you doing day to day?" At that stage and, "Which of those things are you not doing yet that maybe you should start preparing for or trying to do?"
+
+And then also, "What are the things you're doing today that you should stop by that stage, that maybe you can start delegating or automating?" Or something like that. Trying to think of it in terms of, "Here's where you want to be in the future, how can you get from today to there?" Maybe one small step at a time.
+
+**Peter**: Are you thinking about these things in terms of literally how you're spending your time? Or are you thinking about them in terms of habits, approaches, attitudes--?
+
+**Leo**: I think it's more in the "attitude" side, honestly. Because again. sometimes somebody is really good at selling. And they're the CEO and the company's got 15 employees and the CEO is still closing every sale. And that can work really well for a while. But at some point, a sales team of one is going to tap out at some point. You'll never have more than $2 million ARR extra every year from you selling.
+
+**Peter**: Sure.
+
+**Leo**: And at some point you have to think about recruiting salespeople, training them and hiring a sales VP. So part of it is just this mental shift of, "I know you're closing these $100K deals by yourself, and it's really rewarding, and you're closing one every two months. But the longer term view is you're also flatlining, because you're never going to close 20 $100K deals in a month. But a team could."
+
+So if you think about where you need to go as a sales leader or a CEO today vs. where you need to be in a few years, hopefully it's just shifting your attitude to realizing, "I can't do all this by myself. I need to start laying the groundwork for a team to take this over and hopefully do an even better job."
+
+**Peter**: You wrote that there's two choices here. You can either firmly decide to evolve, or you can gracefully accept that maybe it's time for you to step out of the way. Do you see both of these getting played out in your portfolio?
+
+**Leo**: I rarely see people step out of the way. At least at seed stage. I've seen more it at later stages where people have enjoyed the ride for four or five years as CTO or CEO and then they decide they really want to focus on product or biz dev or something. And they will maybe step aside into either a chairman role or maybe they go from CEO to VP of product.
+
+At earlier stages what I usually see is people either step up or they don't. And when they don't, they're like, "I know I need to build a sales team someday. I think I'm doing fine now. I'm just going to keep at it." And sometimes it works out and sometimes it doesn't. A lot of times though, you have to figure out the sales team piece at some point.
+
+In this example, if you never figure it out, it probably means maybe you never raise a Series A. It's a lifestyle business or maybe some company acquires you. I think there's other options at that point and they're not necessarily bad, but they take you off the venture, trying to be a company some day track.
+
+**Peter**: This is interesting because on the one hand it feels like the founder's own ego is an obstacle or can be an obstacle to them building a really large business.
+
+**Leo**: Yeah, absolutely.
+
+**Peter**: I'm wondering, is this a thought experiment that you run internally? Are you asking yourself these questions?
+
+**Leo**: I do think about them sometimes. I would say one thing I'm not good at is time management.
+
+**Peter**: I'm laughing because you're not the first person to say that in this room.
+
+**Leo**: And I think one of my biggest challenges has been the CEO that can sell by themselves for a while. I've been in this place where the time demands of the job have grown over time. I sometimes joke that my number of meetings every week goes up 5% quarter over quarter. So it's like that hockey stick.
+
+And I think I'm maybe now, or in the last year hitting this point where I can no longer say yes to every meeting. Three, four years ago it was like, "Sure. Maybe this meeting is a waste of time, but I'm not doing anything, so I'll just say yes." And then last year it was like, "Maybe this meeting is a waste of time, but I have just enough time to do it. So I'll say yes."
+
+Now it's like, "Now I have 50 hours of requests for 30 hours of slots. I need to start saying no." And that's something I'm not that great at and I'm trying to get better at. I think one thing I do sometimes think about is, "Right now my fund Susa's got a decent brand."
+
+> But if things keep going well, right now it's 50 requests for a meeting and 30 slots. Maybe in five years that's 200 requests.
+
+So instead of being like, "These 20 companies aren't a good fit. I'll meet with the other 30." I think it's a lot harder when maybe there's 170 companies that a lot of them do look like good fits. I think a do constantly think about, "What can I do better to manage my time better? Pick my meetings better, pick where I spend my time better."
+
+**Peter**: I'd love to keep running with this experiment. What is the Leo of five years doing differently from the Leo of today?
+
+**Leo**: I think it's probably being more explicit about, "These are areas that I'm just not the right investor." Maybe even being public and just saying, "Here are the four sectors I really like and I look for X, Y and Z. And if those are missing then it's just not a good fit." I think that's one direction.
+
+The thing I don't like about that direction is I do like the serendipity of the business, and I think just life in general, where sometimes something doesn't seem like a fit. But it turns out it is. Or something doesn't seem like a fit and it's not, but you maybe make another connection as a result of the first meeting. I all of that stuff a lot. I think that's part of why it's hard for me to say no.
+
+**Peter**: There's a balance between remaining open to possibility and focusing on what you're good at.
+
+**Leo**: Yeah, absolutely. And I think for me it's been especially tough personally, because I think a lot of my best life decisions have been more on that serendipity and being open to things. Even though I'm a pretty structured and methodical person. And because of the good luck I've had I realize it's luck, but I also don't want to lose other opportunities for luck.
+
+**Peter**: I read an article recently about lucky people. Did you read this article?
+
+**Leo**: I'm not sure I did. What was the article about?
+
+**Peter**: The title of the article was something like, "Luck is a function of remaining open." And it talked about all these experiments where they took people that called themselves lucky, and they took people that called themselves unlucky, and they would run them through the same scenarios where they would put a $20 bill on the street.
+
+And the lucky people would pick up the $20 bill, and the unlucky people would stroll by it. And I love this idea that luck is actually your ability to remain aware and open to possibility.
+
+**Leo**: Yeah. I don't think I read this article, but I definitely buy into that. I think in my mind it's two things. One is being open to things, and then two is just a greater surface area.
+
+**Peter**: Aha.
+
+**Leo**: Maybe it is the more meetings you take, or the more networking events you go to, or the more blog posts you write or podcasts you record, or any of this other stuff. Each one of those is a little bit more surface area for your next business partner or the next founder or investor you meet, to get to know you through one of those channels and reach out.
+
+**Peter**: Let's talk about this. Because this seems like a fundamental tension in venture. On the one hand, you want massive exposure. You don't know where your next deal is going to come from, you don't know where your next awesome relationship is going to come from. You just want to be talking to lots of people and keep a really open mind.
+
+On the other hand, no one has enough time, and we know that having a really focused thesis allows you to make smart plays in that space. How do you find the balance between those things?
+
+**Leo**: I might be delusional but I think our thesis makes it easier. My fund's focus is on companies that are building things with strong defenseability. It might be something like network effect, it could be proprietary data. Just some element where as your company grows it's harder and harder for another company to try to catch up.
+
+And I think that's a thesis that doesn't limit us on sectors a lot. We can look at pretty much any company or any business and feel like, well if it's a good business it should be defensible. But on the flip side, if something is not defensible and we don't think it will be over time, I don't think we have any regret if we pass.
+
+The struggle I have is, are there other filters like that where I think, "Almost no matter what I wouldn't have any regret if I pass on opportunities of this type." And the ones I struggle with are the ones where, half the opportunities of this type I might not regret, but half I might. And so maybe I should just meet with all of them so I don't have any regret.
+
+**Peter**: This seems like a very broad thesis. Surely lots and lots of venture funds are saying, "We want to invest in companies with strong defensive nodes. We want to invest in companies that are difficult to displace." Do you have a more specific version of that, or am I misreading?
+
+**Leo**: No, it's a general aversion. But I think when we talk to people who want to hear specifics, I think we also want to hear things that are plausible and we think, "This would be a good mote." And I'll give an example of a moat that I think is bad, which is sometimes I meet a founding team and I'll say, "What's your moat?"
+
+And they'll say, "We execute harder," or, "We work harder than everyone else." And it's like, "Yeah, OK. But that's not sustainable. And I'd bet if you lined up 100 teams, there's probably a couple that work even harder than you."
+
+> It's both not sustainable and just also not that special. And also, sometimes working smarter is better than working harder.
+
+But I think if I asked somebody, "What makes your business defensible?" And they just say something like, "I work really hard," That to me is a yellow or red flag.
+
+**Peter**: You wrote an essay about the importance of taking time off, and how the idea of working hard can be a bit of a trap. Is that something that you talk to your portfolio companies about?
+
+**Leo**: I will talk to CEOs that seem to work a lot and comment that they haven't taken vacation for a while. I'll definitely urge them to take a vacation, or if not a vacation, then at least a couple days. I think it's definitely hard to do when your company is four people and every single person is a single point of failure in like 12 processes.
+
+**Peter**: Yeah.
+
+**Leo**: But I think if you're like 15 people and you can't go away for four days without the business breaking, then probably the business is not doing that great. But also I think people, myself included, overestimate their importance. You might think, "My company will never get along without me if I'm gone for a week." And then you're gone for a week, and everyone is like, "Oh, you were gone for a week? I hardly noticed."
+
+The long the long view is, can you stay sane and healthy enough? And de-stressed enough to build your company over 10 years? And if that means taking a week off this week or next week because you're feeling burnt out, that might be a better investment than working through it. But then maybe the company shuts down in a few months because you lose all your energy.
+
+**Peter**: I want to come back to this theme of building your future self. You said that one of the things that Leo five years from now is doing differently is he is more deliberate about what meetings he takes. He's just saying "no" more. Maybe he's doing that through a really explicit investment thesis. What are some other things that you're trying to get better at, as an investor?
+
+**Leo**: Well I think part of this is also, delegating is not the right word, but basically expanding our team a bit more. Because I think as funds grow there's two paths to take. Which is you can write bigger checks, or you can do more investments. In my mind I think both have their appeal but I also like the direction of doing more investments, especially in areas we don't know well.
+
+A lot of my investments tend to be B2B and SaaS and enterprise, and I think for us to hire three more partners to focus on that would be a waste, because if we see 10 or 20 companies that we really like in those spaces over a year, it's probably not going to quadruple just because we have four times as many partners looking at the space. Because we're all looking at the same companies.
+
+**Peter**: You wouldn't be mitigating your biggest risk by hiring more enterprise partners.
+
+**Leo**: Exactly. But I think there's a lot of areas, like frontier tech, or I think we're OK on consumer but we could be a lot stronger. And I think there are a lot of areas like that where we could add a partner and have them just look at let's say biotech deals, or just frontier tech deals. In those cases I think those would be good time management for me, selfishly.
+
+Because right now if I see a biotech company I feel like it's a space I'm interested in but don't know that much about. So I end up spending some time on it, and occasionally we'll make an investment. But usually I'm spending a lot of time on it because it takes me a lot of time and a lot of research to figure things out.
+
+And if we had another investor on the team that was an expert in that stuff, I could hand it off to him or her and then I wouldn't feel like I was missing out. But I'd also feel like my fund had a great shot at this opportunity, and I don't necessarily have to spend my time on it because somebody else is better suited for it.
+
+**Peter**: Do you think we'll see a biotech-focused, Susa A partner in the next couple of years?
+
+**Leo**: I don't know if it would be biotech. Maybe more broadly something like hard science. Chemistry, physics, bio. It's something I'm interested in. I think it depends on whether we find the right person. And also, we do need the fund to grow a little bit to hire another partner too, but we're interested in hiring another partner or two over time.
+
+**Peter**: Awesome. Leo, I ask all my guests the same closing question. What do you wish you knew going into this?
+
+**Leo**: I think maybe going back to the earlier topic of all these myths in venture capital, I wish when I started I appreciated that just because somebody has experience or talks loudly doesn't mean they have all the right answers. Because I think people have good advice, but for me the important thing has been understanding why people are giving you a piece of advice or what the story behind it is.
+
+In the very early days, I'd just be like, "This VC is really experienced. He or she said I should do 'X' so I'm going to do 'X.'" And then it might have taken me a year or two to figure out, "Oh. 'X' is not the right fit for me." And I was just doing it because this investor said I should.
+
+> I assumed that it was good advice because they have 10 years of experience on me.
+
+I think that's probably true for founders too. I think investors will say, "You should do 'X,'" and the founder says, "The investor sees all these companies. I should do 'X.'" Sometimes founders think that. But a lot of times the investor has a very broad view of a bunch of companies but knows very little about any single space. And you know a lot about your space.
+
+So if your investor is saying, "Here's how you should sell to a chemical power plant manager," they actually probably don't know and you probably know better than them.
+
+> Listening to them just because they have a position of experience is not the right strategy. I wish I appreciated that a little bit more when I started in venture five years ago.
+
+**Peter**: Awesome. Leo, thank you much. This was fun. Where can our listeners find you, and who should be getting in touch with you?
+
+**Leo**: I'm on Twitter [@lpolovets](https://www.twitter.com/lpolovets "Navigate to https://www.twitter.com/lpolovets"), and then I have a blog at [CodingVC.com](https://www.codingvc.com/ "Navigate to https://www.codingvc.com") And since I've already mentioned I'm bad at saying no to people, people can just reach out if they want to talk about their startup or have a question that I might be able to answer for founders. I think especially my thinking style and writing tends to resonate most with technical founders, but I like founders of all kinds.

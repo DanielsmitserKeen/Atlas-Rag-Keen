@@ -1,0 +1,158 @@
+# 16 Ways to Measure Network Effects
+
+Network effects are one of the most important dynamics in software and marketplace businesses. But they’re often [spoken of](https://a16z.com/podcast/a16z-podcast-getting-network-effects/) in a binary way: either you have them, or you don’t. In practice, most companies’ [network effects](https://a16z.com/2016/03/07/all-about-network-effects/) are much more complex, falling along a spectrum of different [types](https://www.nfx.com/post/network-effects-manual) and [strengths](https://a16z.com/two-powerful-mental-models-network-effects-and-critical-mass/). They’re also [dynamic and evolve](https://a16z.com/2018/12/13/16-metrics-network-effects/) as product, users, and competition changes.
+
+For founders, it’s important to understand the nature of your company’s network effects — including deciding on the set of metrics that help you understand what’s working or not. So, building on our previous metrics lists ([here](https://a16z.com/16-startup-metrics/) and [here](https://a16z.com/16-more-startup-metrics/)), we’ve compiled a list dedicated to measuring and teasing apart network effects in particular. We share them below, divided into 5 main categories to measure network effects: **acquisition**, **competitors**, **engagement**, **marketplace**, and **economics-related** metrics.
+
+Every single network effect business [is different](https://a16z.com/2018/12/13/16-metrics-network-effects/) depending on the particular product, audience, and environment, so there’s no-one-size-fits-all list of measures. In general, however, for two-sided marketplaces matching supply and demand, pay special attention to the marketplace and unit economics sections; for social networks (including workplace ones), what matters most is engagement and activity. In the end though, it all comes down to the very definition of network effects: whether your product becomes more valuable as more people use it. Because only then can you go about creating and growing that value for users, and for your business.
+
+## Acquisition-Related Metrics
+
+### #1 Organic vs. paid users: What percentage of your new users are organic?
+
+In a business with network effects, the share of organic users relative to paid users (the ones you spend to acquire) should increase over time. This is because as the network grows and becomes more valuable for users to join, more users should _want_ to join on their own.
+
+For companies with **direct-side network effects** (also called **demand-side increasing returns**), such as Facebook, the organic share will grow as people get their friends to join the platform — because their own experiences also improve as a result. For two-sided marketplaces such as Airbnb, eBay, and others, the **organic share** of new users grows as more suppliers (housing, sellers) _and_ buyers want to join the network to get access — because of the potential revenue and variety of choice there.
+
+To be clear, this doesn’t mean that paid [acquisition](https://a16z.com/2018/08/08/growth-user-acquisition/) is a bad thing; many companies including the likes of Facebook and Uber spend money to acquire new users, especially in new markets. But any company seeking to grow a sustainable business will reduce their share of paid acquisition once they reach a critical mass of users. Bottom line: as any network grows larger and its value to users grows, it should become less dependent on paid acquisition.
+
+But there is a second layer of subtlety here, which is defining the relevant denominator of users for which the organic portion should be expanding. The right answer depends on the product and the use case: a company that has **local network effects** — for instance, for finding home-service providers nearby vs. globally — will show increasing organic new users, but only on a geography-by-geography basis. For small social networks designed to be used within a specific setting (like a school), the % organic should increase at the atomic unit of that particular network (i.e., the school).
+
+### #2 Sources of traffic: As the network grows, how much traffic/transactions on the network are generated internally, arising from the network itself vs. from external sources?
+
+Just as valuable networks should organically draw more users, valuable networks should also become a destination — where users want to spend more time on the platform (or marketplace).
+
+Measuring traffic sources is one way to help tease this apart, by separating — and tracking — how much traffic or transactions on the network is direct vs. arises from external sources. More traffic coming directly suggests users are finding the network more valuable over time as it grows.  
+
+A useful example to think about here is OpenTable, an online restaurant reservation company; initially, the typical user flow through the then-small network would be:
+
+outside research or discovery of a restaurant > decide on a restaurant > go to that restaurant’s website > book a reservation through their OpenTable widget
+
+As OpenTable’s [network grew](https://a16z.com/2017/07/24/opentable-ipo-story/), it became more useful to users, since users could see the availability of every participating restaurant, vs. a specific restaurant through its own website. The share of direct traffic increased as users _started_ their discovery process on OpenTable:
+
+research or discover restaurant on OpenTable > decide on a restaurant > skip the restaurant’s website and book a reservation directly on OpenTable
+
+A similar example is Medium: as the network grew and there was more content to read and more writers to follow, a greater percentage of read time originated from within the Medium site. These are also both classic examples of “[come for the tool, stay for the network](http://cdixon.org/2015/01/31/come-for-the-tool-stay-for-the-network/)” type businesses.
+
+### #3 Time series of paid CAC: How much do you need to spend to acquire supply?
+
+While **paid** **CAC (customer acquisition cost)** should theoretically decline over time in a business once the network effects “flywheel” starts accelerating, in reality, this also depends on a number of other factors: the competitiveness of marketing channels like Facebook, where prices can increase with more demand from more advertisers; the availability of substitute products; [viral loops](https://andrewchen.co/whats-your-viral-loop-understanding-the-engine-of-adoption/); and so on.
+
+For example, with ridesharing, there are a variety of substitutes available to drivers — the more constrained side of the market — which has made it more expensive over time to acquire that supply. But with a company like OpenTable, which aggregated demand onto a single platform, it became cheaper to acquire restaurants over time.
+
+By the way: it’s common to confuse network effects with virality, but the two concepts are different. Network effect businesses refer to increasing value of the product/service with each incremental user. And while network effect businesses often have a large viral growth component, which can impact CAC, the two concepts are not the same. Viral growth (users inviting other users) can exist in a non-network effect business. So, companies that are great at viral growth but don’t have network effects can grow quickly but flame out just as fast.
+
+## Competitor-Related Metrics
+
+### #4 Prevalence of multi-tenanting: How many of your users also use other similar services? How many users are active on similar services?
+
+It’s important to understand whether your users are also using similar services, including related services where the functionality may not be exactly the same.
+
+We’ve often observed that if a company is able to replicate a network, it can also layer on functionality that can obviate the need for another product. Even if it doesn’t wipe out the target company, such multi-tenanting can reduce usage and compress margins for all competitors. A marketplace for dog walkers and pet owners, for example, has the opportunity to move into pet health or food or other adjacent products, given it has built a network of pet owners from the core business. Facebook developed ephemeral Stories and added this feature into their various apps, including Instagram, in turn stymying the growth of Snapchat.
+
+Measuring such multi-tenanting can be tricky — it might mean polling your users and asking whether they use another service; digging deeper into churn or declines in usage (and figuring out whether those users are moving to a different service); or simply brute-force searching for users’ profiles on other platforms! But once you see how many users are multi-tenanting, there are ways to shore up your product so users are less tempted to go somewhere else. In ride-sharing, for example (which had high multi-tenanting on both sides), companies rolled out subscriptions on the rider side and bonuses on the driver side to boost retention and reduce usage of competitors’ services.
+
+Finally, even if you have a good sense of the overlap between your user base with another service’s, it’s important to consider _how active_ they are: are they merely maintaining a profile, or actively using it? Having a LinkedIn profile is ubiquitous among professionals, but knowing if those users are active or not is important to know for a new startup trying to create a professional services network, so they could target areas where those users are not served well by the current product. This is a common strategy for networks to “Trojan Horse” their way into building a competing network from the underserved segment of the market first.
+
+### #5 Switching or multi-homing costs: How easy is it for users to join a new (and even a non-existent) network? How much value can users get as a new user from joining a different network?
+
+Beyond the availability of substitutes, how easy it is for users of one network to sign up and complete the onboarding process for a competing network?
+
+The friction involved in signing up and becoming an active user varies from product to product. Products that have an onboarding process that requires high upfront investment may find it challenging to activate prospective new users — but it also serves as a moat against competitors, because once those users are active, they’re less likely to multi-tenant. Looking at the landscape of online personal styling services, a Stitch Fix customer for instance may find it tedious to try out a different service because of the upfront investment in explaining her preferences to a new stylist; inputting information around her taste and sizing; calibrating various styles received and returned; and so on.
+
+Conversely, if a product has a lower activation energy required of new users, it can more easily wedge its way into a market by getting users to multi-tenant and switch over: Because Uber already had millions’ of users’ credit card information for ride-sharing purposes, a user who was previously using another food delivery network could easily start using Uber Eats without much friction.
+
+Another important consideration here is how much value can users get _at the beginning_ when they join a new network — what’s the user experience with a cold start? For Facebook, even though users can easily join other social networks, their data, content, and networks are all on Facebook, so there’s high switching costs to inviting their network and rebuilding their social graph. On the other hand, for job listing marketplaces, an employer can easily upload their hiring specs to multiple sites and start receiving candidate applications from the get-go.
+
+Distilling switching or multi-homing costs into a quantifiable metric can be tricky, and any metric will be quite specific to that exact business and market. Potential metrics could be the time required to complete a competitor’s onboarding flow; or the ease of getting to the minimum threshold or “magic number” for a product to be useful (e.g. 10 friends for Facebook); and so on.  
+
+## Engagement-Related Metrics
+
+### #6 User retention cohorts: Is your user retention improving for newer cohorts?
+
+The classic definition of a network effect is that the value of a product or service to a user increases with the number of other users using the same product or service. This increase in user value should therefore be reflected in user retention cohorts: newer cohorts (who experience a product when the network is larger and more useful) should have better retention for any given time period than older cohorts that joined when the network was smaller.
+
+However, theory often differs from reality here, and we often see businesses that have declining cohort retention over time. This is because a major confounding factor to consider when evaluating user retention (metrics #6-8 on this list) is that the oldest user cohorts — especially for social network/community-based products — tend to be early adopters who are the most “ideal customers” for a product/service. Those early, often highly motivated users naturally translate into better retention cohorts for the oldest customers, rather than the newest.
+
+Other circumstances can also change the analysis of this metric: the presence of a competitor; network effects that are hyperlocal and thus “reset” for new users in every new geography; or even negative network effects, where value to users actually [decreases](https://a16z.com/2018/05/16/network-effects-positive-feedbacks-increasing-returns-complexity-silicon-valley-history-innovation/) at a certain threshold (perhaps due to crowding or contaminants in the network).
+
+### #7 Core action retention cohorts: Is retention, as defined by users taking a core action for the product, improving for newer cohorts?
+
+Digging deeper into the engagement funnel, you want to see if more users are taking the “core action” of your product. The core action can be one that actually corresponds to users deriving value from your product, and/or something that maps closely to your business model.
+
+For instance, if the core action of Nextdoor is users posting content on neighborhood newsfeeds, then as the network density grows, they should expect to see improving retention _as anchored on this core action_. This core action retention is more telling of network effects than just measuring top-level logins or app opens.
+
+### #8 Dollar retention & paid user retention cohorts: Are newer cohorts retaining better on a dollar basis, for every given time period, than older cohorts?
+
+Subscription and paid products need to pay attention to dollar retention and paid user retention. New user cohorts should be better retained — in terms of cohort revenue — than older cohorts. Why? Because paying for a product indicates how much users value that product, a product with network effects — which becomes more valuable over time — should have increasing dollar retention and paid user retention among newer cohorts.
+
+For instance, as the network coverage of Angie’s List — a home services directory — improves, we’d expect to see that new user subscriber cohorts are better retained, both in terms of dollar retention as well as the number of users who remain subscribed, given the greater utility of the site.
+
+### #9 Retention by location/geography: Are participants in the oldest markets — for businesses with local network effects — better retained, than those in newer markets?
+
+For local network effect businesses, the network effects exist on a per-market basis, and “resets” for new geographies. For Care.com users in Charlotte, for example, the presence of more babysitters available in New York City doesn’t impact the user experience; but having more babysitters available locally does improve the usefulness of the network there.
+
+As each geography matures and builds network density, retention should improve in those markets. Thus, the oldest or most established markets tend to have better retention than newer markets. We see this in practice in data shared by almost every local network effect business.
+
+### #10 Power user curves (aka L7 & L30 charts): Are users shifting to the right side of the power user curve? In other words, are they becoming more engaged over time?
+
+[Power users](https://a16z.com/2018/08/06/power-user-curve-l30-l7/) drive some of the most successful companies, by contributing a ton of value to the network. While DAU/MAU — dividing daily active users by monthly active users — is a common metric for measuring engagement, it has its shortcomings, and power user curves provide a more nuanced way to understand user engagement.
+
+In short, power user curves (commonly called L30 charts for 30 days of use, or L7 charts for 7 days of use) are histograms of users’ engagement, showing the total number of days users were active in doing a particular action in a given timeframe. In analyzing network effect businesses, seeing how often users take a specific action on a cohort basis allows you to see whether a product is really gaining utility with more users — aka the network effect. If a product is indeed more valuable with more users, then that should be reflected in a growing share of users shifting to higher-frequency engagement buckets, or a more right leaning power user curve, over time.
+
+## Marketplace Metrics
+
+### #11 Match rate (aka utilization rate, success rate, etc.): How successfully can the two sides of the marketplace find each other?
+
+The job of any marketplace is to facilitate the matching of supply with demand. It’s therefore important to measure your successful “match rate” — the rate at which buyers can find sellers, and vice versa. How to define this metric depends on the unique business.
+
+Match rates examples for particular businesses include:
+
+*   Driver utilization time for ridesharing — what % of the time are drivers driving around with a passenger, vs. empty?
+*   How often are employers actually filling their posted role in job marketplaces? And how often are job seekers finding jobs?
+
+A related metric is to measure “zeros”, or unsuccessful matches. For ridesharing, what percentage of users open the app but don’t end up requesting a ride? Those “zeros” could be due to too long of a wait time, surge pricing, or something else — all instances the marketplace was unable to clear demand. Marketplace operators should identify reasons why matches _don’t_ happen and take steps to remove or reduce these blockers through growing and incentivizing the more constrained side of the marketplace, improving product design, and other mechanisms.
+
+This metric is also closely related to the concept of multi-tenanting described above. If match rate is low, then users will naturally be incentivized to go elsewhere and use other products. For instance, it’s common for employers to post their job listings on a variety of sites — their own website, LinkedIn, Indeed, as well as other networks — simply because no single network has a high enough match rate. If there’s even incremental revenue potential or even just minimum utility, multi-tenanting will take place; just think about all of the delivery marketplace stickers you see in any given restaurant’s window!
+
+### #12 Market depth: Is there enough supply and does it fit users’ needs?
+
+The concept of “offer depth” or market depth originated from financial markets, where it’s defined as the market’s ability to sustain relatively large orders without price movements. The higher the number of buy and sell orders at each price, the greater the depth of the market.
+
+For consumer marketplaces, it’s important to measure market depth because it directly impacts the user experience. For heterogeneous supply marketplaces (where each supplier is different), market depth determines whether users will be able to find a match. When users open products like OfferUp or Airbnb, how many listings will they see, and how likely will they be to find an item they want to buy or home they want to rent? For homogenous supply marketplaces, market depth impacts ease of use. When users open Lime, how many bikes/scooters will they see near them? The greater the market depth, the easier (and less user effort required, in terms of walking) it is to use Lime.
+
+One of the primary jobs of any marketplace business is to reduce search costs — making it easy for participants to find and match with the other side. Failing to do this can result in a marketplace with negative network effects, where too much supply actually causes challenges in discovery. As consumers, we experience this as decision fatigue, or a paradox of choice. Conversion rates could fall in this scenario.
+
+A note on heterogeneous vs. homogeneous supply: “homogeneous supply” marketplaces typically hit an asymptote in network effects, where the value to users eventually plateaus with greater market depth. For instance, if there were 6 Lime scooters on a city block near me, this is no more valuable than if there were only 4 or 5 scooters available for me to use in my vicinity — user value is unchanged despite the addition of more supply. On the other hand, for heterogeneous marketplaces, there is no asymptote because every node on the supply side is different and potentially can add greater value. In the Airbnb example, a user’s tastes may be quite specific, so every additional listing on the platform is useful to see.
+
+### #13 Time to find a match (or inventory turnover, or days to turn): How long does it take for supply and demand to match?
+
+Typically, marketplaces have a curve for match rate, where over a long time horizon, a greater share of inventory clears. For product marketplaces, this is commonly referred to as inventory turnover.
+
+The inverse is days to turn, and this metric is more applicable for more traditional marketplaces, where the matching happens via users opting in — one side creates a listing and the other responds — in contrast to on-demand marketplaces, which do matching in a centralized, algorithmic (and less visible to users) way.
+
+For instance, for job marketplaces, how long does it take an employer to find an employee? How long does it take to receive the first application? For P2P marketplaces, how long does it take for each side to engage in a transaction? For Thumbtack, how long does it take users to receive the first quote? How long does it take on OfferUp for a seller to sell their product?
+
+### #14 Concentration or fragmentation of supply and demand: How concentrated is the marketplace on the supply and demand sides?
+
+Marketplaces where there is greater fragmentation on the supply and demand sides are more valuable and defensible. This means no participants on the demand or supply sides disproportionately account for a high share of transactions, which makes the business more sustainable and diversified. If demand or supply is too concentrated on a marketplace, there’s risk that a large buyer or seller can take a large share of transactions with them if they decide to leave the platform.
+
+There’s also greater value when a marketplace aggregates fragmented goods or providers, as those would otherwise have been more difficult to discover and access. This is basically like taking the advantages of a long tail (more variety and niches) and making it as easy to find as the head of the tail (beyond just popular hits).  
+
+Marketplaces can gauge concentration by measuring the % of GMV the top X sellers or buyers account for (e.g. the share of GMV each grocery chain contributes, in the case of Instacart).
+
+## Economics-Related Metrics
+
+### #15 Pricing power: How much are you able to charge for your product? What would your customers be willing to pay to stay on the network?
+
+As participants receive greater value from the network, they are willing to pay more to have access to network, in the form of subscriptions, listing fees, take rates, or other monetization mechanisms.
+
+Over the lifetime of a network effects business, the business can evolve from not being monetized at all, or potentially even subsidizing demand or supply; to turning on monetization; to having the ability to increase prices with minimal churn on either side.
+
+### #16 Unit economics: How is the business doing, basically?
+
+Improved network effects often appear in improved unit economics over time. This is a result of declining incentives that businesses need to offer to different sides of the market, lower share of paid users, and overall improvement in pricing power.
+
+For businesses with local network effects, the impact of network effects should show up in [unit economics](https://a16z.com/tag/unit-economics/) over time, on a market-by-market basis. This is because in a given market, CAC should decrease and the organic share of users should grow over time. For businesses like Thumbtack or Instacart, which have network effects at the local level, tracking the unit economics over time per market is helpful because you’ll see the relationship between market age, network density, and profitability.  
+
+![](https://a16z.com/wp-content/uploads/2023/04/16-network-effects-metrics_a16z.jpg)
