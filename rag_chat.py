@@ -292,6 +292,31 @@ st.markdown("""
         background-color: #ffffff !important;
         color: #000000 !important;
     }
+    
+    /* Source URL Links */
+    .source-link {
+        display: inline-block;
+        margin-top: 0.5rem;
+        padding: 0.5rem 1rem;
+        background: linear-gradient(135deg, #000000 0%, #333333 100%);
+        color: #ffffff !important;
+        text-decoration: none;
+        border-radius: 0.3rem;
+        font-weight: 600;
+        font-size: 0.9rem;
+        transition: all 0.2s ease;
+        border: none;
+    }
+    
+    .source-link:hover {
+        background: linear-gradient(135deg, #333333 0%, #555555 100%);
+        transform: translateY(-2px);
+        box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    }
+    
+    .source-link:active {
+        transform: translateY(0);
+    }
 </style>
 """, unsafe_allow_html=True)
 
@@ -458,7 +483,8 @@ Begin your answer in {language} now:"""
                 "preview": preview,
                 "similarity": chunk["similarity"],
                 "chunk_index": chunk["chunk_index"],
-                "file_type": chunk.get("file_type", "unknown")
+                "file_type": chunk.get("file_type", "unknown"),
+                "source_url": chunk.get("source_url")
             })
         
         return answer, sources
@@ -556,6 +582,7 @@ for message in st.session_state.messages:
                         <strong>Quote:</strong><br>
                         <em>"{source['preview']}"</em>
                     </div>
+                    {f'<a href="{source["source_url"]}" target="_blank" class="source-link">🔗 View Original Source</a>' if source.get('source_url') else ''}
                 </div>
                 """, unsafe_allow_html=True)
                 
@@ -613,6 +640,7 @@ if prompt := st.chat_input("Ask a question about AI adoption, investors, or tech
                                 <strong>Quote:</strong><br>
                                 <em>"{source['preview']}"</em>
                             </div>
+                            {f'<a href="{source["source_url"]}" target="_blank" class="source-link">🔗 View Original Source</a>' if source.get('source_url') else ''}
                         </div>
                         """, unsafe_allow_html=True)
                         
