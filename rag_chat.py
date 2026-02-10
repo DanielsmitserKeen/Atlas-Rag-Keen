@@ -13,12 +13,12 @@ load_dotenv()
 
 # Page config (must be first Streamlit command)
 st.set_page_config(
-    page_title="KEEN - SME Insights Chat",
+    page_title="KEEN - Insights Hub",
     page_icon="🎯",
     layout="wide",
     initial_sidebar_state="expanded",
     menu_items={
-        'About': "KEEN SME Insights Chat"
+        'About': "KEEN Insights Hub - RAG Chat + KPI Dashboard"
     }
 )
 
@@ -500,10 +500,13 @@ if "messages" not in st.session_state:
 # Header with clean styling
 st.markdown("""
 <div class="main-header">
-    <h1>SME Insights Chat</h1>
-    <p>Search across 20,214+ document chunks about AI adoption, investors, and technology trends</p>
+    <h1>KEEN Insights Hub</h1>
+    <p>RAG Chat + Portfolio KPI Dashboard</p>
 </div>
 """, unsafe_allow_html=True)
+
+# Create tabs for Chat and Dashboard
+tab1, tab2 = st.tabs(["💬 RAG Chat", "📊 KPI Dashboard"])
 
 # Sidebar with settings
 with st.sidebar:
@@ -558,115 +561,137 @@ with st.sidebar:
         st.session_state.messages = []
         st.rerun()
 
-# Display chat messages
-for message in st.session_state.messages:
-    with st.chat_message(message["role"]):
-        st.markdown(message["content"])
-        
-        # Show sources if available - DIRECTLY visible, not in expander
-        if "sources" in message and message["sources"]:
-            st.markdown("---")
-            st.markdown(f"### 📚 Sources ({len(message['sources'])})")
-            
-            for source in message["sources"]:
-                st.markdown(f"""
-                <div class="source-box">
-                    <div class="source-title">
-                        [Source {source['number']}] {source['filename']} 
-                        <span class="similarity-badge">{source['similarity']:.2%} relevance</span>
-                    </div>
-                    <div style="font-size: 0.9rem; color: #000000; margin-top: 0.3rem;">
-                        📄 {source.get('file_type', 'unknown').upper()} • Chunk {source['chunk_index']}
-                    </div>
-                    <div style="margin-top: 0.8rem; padding: 0.8rem; background-color: white; border-radius: 0.3rem; font-size: 0.95rem; line-height: 1.6; color: #000000;">
-                        <strong>Quote:</strong><br>
-                        <em>"{source['preview']}"</em>
-                    </div>
-                    {f'<a href="{source["source_url"]}" target="_blank" class="source-link">🔗 View Original Source</a>' if source.get('source_url') else ''}
-                </div>
-                """, unsafe_allow_html=True)
-                
-                # Add a "show full content" expander for each source
-                with st.expander(f"🔍 Show full text of Source {source['number']}"):
-                    st.text_area(
-                        "Full chunk content",
-                        source['content'],
-                        height=200,
-                        key=f"source_{message.get('timestamp', 0)}_{source['number']}",
-                        disabled=True
-                    )
-
-# Chat input
-if prompt := st.chat_input("Ask a question about AI adoption, investors, or technology..."):
-    # Add user message
-    st.session_state.messages.append({"role": "user", "content": prompt})
+# TAB 1: RAG CHAT
+with tab1:
+    st.markdown("<p style='color: #666; font-size: 0.95rem; margin-bottom: 1rem;'>Ask questions about AI adoption, investors, technology trends, and portfolio company KPIs</p>", unsafe_allow_html=True)
     
-    with st.chat_message("user"):
-        st.markdown(prompt)
-    
-    # Generate response
-    with st.chat_message("assistant"):
-        with st.spinner("Searching documents..."):
-            # Search for relevant chunks
-            relevant_chunks = search_documents(prompt, match_count, match_threshold)
+    # Display chat messages
+    for message in st.session_state.messages:
+        with st.chat_message(message["role"]):
+            st.markdown(message["content"])
             
-            if not relevant_chunks:
-                response = "I could not find relevant information. Try rephrasing your question or lowering the similarity threshold."
-                st.markdown(response)
-                st.session_state.messages.append({"role": "assistant", "content": response})
-            else:
-                # Generate answer
-                with st.spinner("Generating answer..."):
-                    answer, sources = generate_answer(prompt, relevant_chunks)
+            # Show sources if available - DIRECTLY visible, not in expander
+            if "sources" in message and message["sources"]:
+                st.markdown("---")
+                st.markdown(f"### 📚 Sources ({len(message['sources'])})")
                 
-                st.markdown(answer)
-                
-                # Show sources directly (not in expander)
-                if sources:
-                    st.markdown("---")
-                    st.markdown(f"### 📚 Sources ({len(sources)})")
-                    
-                    for source in sources:
-                        st.markdown(f"""
-                        <div class="source-box">
-                            <div class="source-title">
-                                [Source {source['number']}] {source['filename']} 
-                                <span class="similarity-badge">{source['similarity']:.2%} relevance</span>
-                            </div>
-                            <div style="font-size: 0.9rem; color: #000000; margin-top: 0.3rem;">
-                                📄 {source.get('file_type', 'unknown').upper()} • Chunk {source['chunk_index']}
-                            </div>
-                            <div style="margin-top: 0.8rem; padding: 0.8rem; background-color: white; border-radius: 0.3rem; font-size: 0.95rem; line-height: 1.6; color: #000000;">
-                                <strong>Quote:</strong><br>
-                                <em>"{source['preview']}"</em>
-                            </div>
-                            {f'<a href="{source["source_url"]}" target="_blank" class="source-link">🔗 View Original Source</a>' if source.get('source_url') else ''}
+                for source in message["sources"]:
+                    st.markdown(f"""
+                    <div class="source-box">
+                        <div class="source-title">
+                            [Source {source['number']}] {source['filename']} 
+                            <span class="similarity-badge">{source['similarity']:.2%} relevance</span>
                         </div>
-                        """, unsafe_allow_html=True)
-                        
-                        # Add a "show full content" expander for each source
-                        with st.expander(f"🔍 Show full text of Source {source['number']}"):
-                            st.text_area(
-                                "Full chunk content",
-                                source['content'],
-                                height=200,
-                                key=f"new_source_{source['number']}",
-                                disabled=True
-                            )
-                
-                # Save to session state
-                st.session_state.messages.append({
-                    "role": "assistant",
-                    "content": answer,
-                    "sources": sources,
-                    "timestamp": datetime.now().timestamp()
-                })
+                        <div style="font-size: 0.9rem; color: #000000; margin-top: 0.3rem;">
+                            📄 {source.get('file_type', 'unknown').upper()} • Chunk {source['chunk_index']}
+                        </div>
+                        <div style="margin-top: 0.8rem; padding: 0.8rem; background-color: white; border-radius: 0.3rem; font-size: 0.95rem; line-height: 1.6; color: #000000;">
+                            <strong>Quote:</strong><br>
+                            <em>"{source['preview']}"</em>
+                        </div>
+                        {f'<a href="{source["source_url"]}" target="_blank" class="source-link">🔗 View Original Source</a>' if source.get('source_url') else ''}
+                    </div>
+                    """, unsafe_allow_html=True)
+                    
+                    # Add a "show full content" expander for each source
+                    with st.expander(f"🔍 Show full text of Source {source['number']}"):
+                        st.text_area(
+                            "Full chunk content",
+                            source['content'],
+                            height=200,
+                            key=f"source_{message.get('timestamp', 0)}_{source['number']}",
+                            disabled=True
+                        )
 
-# Footer
-st.divider()
-st.markdown("""
-<div style="text-align: center; color: #000000; font-size: 0.9rem; padding: 1rem; background: #ffffff;">
-    <strong style="color: #000000;">💡 Tip:</strong> Each answer contains <span style="color: #000000; font-weight: 600;">[Source X]</span> references.<br>
-    Ask specific questions for best results.
-</div>
-""", unsafe_allow_html=True)
+    # Chat input
+    if prompt := st.chat_input("Ask a question about AI adoption, investors, technology, or company KPIs..."):
+        # Add user message
+        st.session_state.messages.append({"role": "user", "content": prompt})
+        
+        with st.chat_message("user"):
+            st.markdown(prompt)
+        
+        # Generate response
+        with st.chat_message("assistant"):
+            with st.spinner("Searching documents..."):
+                # Search for relevant chunks
+                relevant_chunks = search_documents(prompt, match_count, match_threshold)
+                
+                if not relevant_chunks:
+                    response = "I could not find relevant information. Try rephrasing your question or lowering the similarity threshold."
+                    st.markdown(response)
+                    st.session_state.messages.append({"role": "assistant", "content": response})
+                else:
+                    # Generate answer
+                    with st.spinner("Generating answer..."):
+                        answer, sources = generate_answer(prompt, relevant_chunks)
+                    
+                    st.markdown(answer)
+                    
+                    # Show sources directly (not in expander)
+                    if sources:
+                        st.markdown("---")
+                        st.markdown(f"### 📚 Sources ({len(sources)})")
+                        
+                        for source in sources:
+                            st.markdown(f"""
+                            <div class="source-box">
+                                <div class="source-title">
+                                    [Source {source['number']}] {source['filename']} 
+                                    <span class="similarity-badge">{source['similarity']:.2%} relevance</span>
+                                </div>
+                                <div style="font-size: 0.9rem; color: #000000; margin-top: 0.3rem;">
+                                    📄 {source.get('file_type', 'unknown').upper()} • Chunk {source['chunk_index']}
+                                </div>
+                                <div style="margin-top: 0.8rem; padding: 0.8rem; background-color: white; border-radius: 0.3rem; font-size: 0.95rem; line-height: 1.6; color: #000000;">
+                                    <strong>Quote:</strong><br>
+                                    <em>"{source['preview']}"</em>
+                                </div>
+                                {f'<a href="{source["source_url"]}" target="_blank" class="source-link">🔗 View Original Source</a>' if source.get('source_url') else ''}
+                            </div>
+                            """, unsafe_allow_html=True)
+                            
+                            # Add a "show full content" expander for each source
+                            with st.expander(f"🔍 Show full text of Source {source['number']}"):
+                                st.text_area(
+                                    "Full chunk content",
+                                    source['content'],
+                                    height=200,
+                                    key=f"new_source_{source['number']}",
+                                    disabled=True
+                                )
+                    
+                    # Save to session state
+                    st.session_state.messages.append({
+                        "role": "assistant",
+                        "content": answer,
+                        "sources": sources,
+                        "timestamp": datetime.now().timestamp()
+                    })
+    
+    # Footer
+    st.divider()
+    st.markdown("""
+    <div style="text-align: center; color: #000000; font-size: 0.9rem; padding: 1rem; background: #ffffff;">
+        <strong style="color: #000000;">💡 Tip:</strong> Each answer contains <span style="color: #000000; font-weight: 600;">[Source X]</span> references.<br>
+        Ask specific questions for best results. Try asking about company KPIs like "What is Doctify's growth rate?"
+    </div>
+    """, unsafe_allow_html=True)
+
+# TAB 2: KPI DASHBOARD
+with tab2:
+    st.markdown("<p style='color: #666; font-size: 0.95rem; margin-bottom: 1rem;'>Interactive portfolio company performance metrics</p>", unsafe_allow_html=True)
+    
+    # Read and embed the dashboard HTML
+    dashboard_path = "KeenKPIDashboard.html"
+    
+    if os.path.exists(dashboard_path):
+        with open(dashboard_path, 'r', encoding='utf-8') as f:
+            dashboard_html = f.read()
+        
+        # Display the dashboard using components.html
+        st.components.v1.html(dashboard_html, height=1200, scrolling=True)
+    else:
+        st.error(f"KPI Dashboard not found at {dashboard_path}")
+        st.info("Make sure KeenKPIDashboard.html is in the same directory as this app.")
+

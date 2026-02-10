@@ -1,0 +1,1348 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Keen KPI Dashboard - Growth 2024</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+            background: #ffffff;
+            padding: 0;
+            color: #1a1a1a;
+        }
+
+        .page-wrapper {
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+
+        .top-header {
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+            padding: 20px 60px;
+            border-bottom: 1px solid #e0e0e0;
+        }
+
+        .logo {
+            height: 100px;
+            width: auto;
+        }
+
+        .content-wrapper {
+            display: flex;
+            gap: 40px;
+            padding: 40px 60px;
+            flex: 1;
+        }
+
+        .sidebar {
+            width: 200px;
+            flex-shrink: 0;
+        }
+
+        .sidebar-menu {
+            position: sticky;
+            top: 40px;
+        }
+
+        .menu-title {
+            font-size: 0.75em;
+            font-weight: 600;
+            color: #999;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 15px;
+        }
+
+        .menu-item {
+            padding: 10px 15px;
+            margin-bottom: 5px;
+            cursor: pointer;
+            border-radius: 4px;
+            font-size: 0.9em;
+            color: #666;
+            transition: all 0.2s;
+            border-left: 3px solid transparent;
+        }
+
+        .menu-item:hover {
+            background: #f5f5f5;
+            color: #1a1a1a;
+        }
+
+        .menu-item.active {
+            background: #f0f0f0;
+            color: #1a1a1a;
+            font-weight: 500;
+            border-left-color: #1a1a1a;
+        }
+
+        .main-content {
+            flex: 1;
+            min-width: 0;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        .header {
+            margin-bottom: 50px;
+            border-bottom: 1px solid #e0e0e0;
+            padding-bottom: 20px;
+        }
+
+        .header h1 {
+            font-size: 1.5em;
+            color: #1a1a1a;
+            font-weight: 600;
+            letter-spacing: -0.5px;
+        }
+
+        .card {
+            background: #ffffff;
+            border: 1px solid #e0e0e0;
+            padding: 40px;
+        }
+
+        .chart-header {
+            margin-bottom: 10px;
+        }
+
+        .chart-title {
+            font-size: 1.1em;
+            color: #1a1a1a;
+            margin-bottom: 3px;
+            font-weight: 600;
+        }
+
+        .chart-subtitle {
+            font-size: 0.875em;
+            color: #666;
+            font-weight: 400;
+        }
+
+        .chart-container {
+            position: relative;
+            height: 550px;
+            width: 100%;
+            margin-top: 30px;
+        }
+
+        .controls {
+            display: flex;
+            gap: 15px;
+            align-items: center;
+            margin-top: 20px;
+            padding-top: 15px;
+            border-top: 1px solid #f0f0f0;
+        }
+
+        .year-selector {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+        }
+
+        .year-selector label {
+            font-weight: 500;
+            color: #666;
+            font-size: 0.875em;
+        }
+
+        .year-selector select {
+            padding: 6px 12px;
+            border: 1px solid #d0d0d0;
+            border-radius: 3px;
+            background: #ffffff;
+            color: #1a1a1a;
+            font-size: 0.875em;
+            cursor: pointer;
+            font-weight: 500;
+            transition: border-color 0.2s;
+        }
+
+        .year-selector select:hover {
+            border-color: #999;
+        }
+
+        .year-selector select:focus {
+            outline: none;
+            border-color: #666;
+        }
+
+        .your-position {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+            margin-left: 30px;
+            padding-left: 30px;
+            border-left: 1px solid #e0e0e0;
+        }
+
+        .your-position label {
+            font-weight: 500;
+            color: #666;
+            font-size: 0.875em;
+        }
+
+        .your-position input {
+            padding: 6px 12px;
+            border: 1px solid #d0d0d0;
+            border-radius: 3px;
+            background: #ffffff;
+            color: #1a1a1a;
+            font-size: 0.875em;
+            width: 100px;
+        }
+
+        .your-position input:focus {
+            outline: none;
+            border-color: #666;
+        }
+
+        @media (max-width: 768px) {
+            .top-header {
+                padding: 20px;
+            }
+            
+            .content-wrapper {
+                padding: 20px;
+            }
+            
+            .chart-container {
+                height: 400px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="page-wrapper">
+        <div class="top-header">
+            <img src="Keen-logo-color-RGB@2x.png" alt="Keen Venture Partners" class="logo">
+        </div>
+        
+        <div class="content-wrapper">
+            <div class="sidebar">
+                <div class="sidebar-menu">
+                    <div class="menu-title">Metrics</div>
+                    <div class="menu-item active" onclick="selectMetric('growth')">Revenue Growth</div>
+            <div class="menu-item" onclick="selectMetric('rule40')">Rule of 40</div>
+            <div class="menu-item" onclick="selectMetric('gross-margin')">Gross Margin</div>
+        </div>
+    </div>
+
+    <div class="main-content">
+        <div class="container">
+        <div class="header">
+            <h1>Keen Venture Partners KPI Dashboard</h1>
+        </div>
+
+        <div class="card">
+            <div class="chart-header">
+                <h2 class="chart-title" id="metricTitle">Revenue Growth</h2>
+                <p class="chart-subtitle" id="metricSubtitle">Percentile distribution by ARR range</p>
+            </div>
+            
+            <div class="controls">
+                <div class="year-selector">
+                    <label for="yearSelect">Select Year:</label>
+                    <select id="yearSelect" onchange="onYearChange()">
+                        <option value="2024" selected>2024</option>
+                        <option value="2023">2023</option>
+                    </select>
+                </div>
+                
+                <div class="your-position" id="yourPositionInputs" style="display: none;">
+                    <label for="arrInput">Your ARR ($M):</label>
+                    <input type="number" id="arrInput" placeholder="e.g., 5" min="0" step="0.1">
+                    
+                    <label for="growthInput" id="valueInputLabel" style="margin-left: 15px;">Your Growth (%):</label>
+                    <input type="number" id="growthInput" placeholder="e.g., 50" step="1">
+                    
+                    <button onclick="plotYourPosition()" style="margin-left: 10px; padding: 6px 15px; background: #1a1a1a; color: white; border: none; border-radius: 3px; cursor: pointer; font-size: 0.875em; font-weight: 500;">Plot Position</button>
+                    <button onclick="clearYourPosition()" style="margin-left: 5px; padding: 6px 15px; background: #999; color: white; border: none; border-radius: 3px; cursor: pointer; font-size: 0.875em;">Clear</button>
+                </div>
+                
+                <div class="company-selector" style="margin-top: 20px;">
+                    <label style="font-weight: 500; color: #1a1a1a; margin-bottom: 10px; display: block;">Portfolio Companies:</label>
+                    <div class="dropdown-container" style="position: relative; width: 300px;">
+                        <div class="dropdown-button" onclick="toggleDropdown()" style="
+                            padding: 8px 12px; 
+                            border: 1px solid #ddd; 
+                            border-radius: 4px; 
+                            background: white; 
+                            cursor: pointer; 
+                            display: flex; 
+                            justify-content: space-between; 
+                            align-items: center;
+                            min-height: 20px;
+                        ">
+                            <span id="selectedText">Select companies...</span>
+                            <span style="transform: rotate(0deg); transition: transform 0.2s;" id="dropdownArrow">▼</span>
+                        </div>
+                        <div class="dropdown-content" id="companyDropdown" style="
+                            display: none;
+                            position: absolute;
+                            top: 100%;
+                            left: 0;
+                            right: 0;
+                            background: white;
+                            border: 1px solid #ddd;
+                            border-top: none;
+                            border-radius: 0 0 4px 4px;
+                            max-height: 200px;
+                            overflow-y: auto;
+                            z-index: 1000;
+                            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+                        ">
+                            <!-- Company options will be added here -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="chart-container">
+                <canvas id="growthChart"></canvas>
+                    <!-- Percentile Explanation Legend -->
+                    <div class="percentile-explanation" style="margin-top: 80px; padding-top: 30px; border-top: 1px solid #eee; display: flex; align-items: center; justify-content: flex-start; gap: 48px;">
+                        <div style="display: flex; flex-direction: column; align-items: center;">
+                            <div style="position: relative; height: 120px; width: 40px;">
+                                <!-- Vertical line -->
+                                <div style="position: absolute; left: 50%; top: 20px; width: 3px; height: 80px; background: #1a1a1a; transform: translateX(-50%);"></div>
+                                <!-- Top dot (Upper Quartile) -->
+                                <div style="position: absolute; left: 50%; top: 20px; width: 16px; height: 16px; background: #1a1a1a; border-radius: 50%; transform: translate(-50%, -50%);"></div>
+                                <!-- Middle dot (Median) -->
+                                <div style="position: absolute; left: 50%; top: 60px; width: 16px; height: 16px; background: #1a1a1a; border-radius: 50%; transform: translate(-50%, -50%);"></div>
+                                <!-- Bottom dot (Lower Quartile) -->
+                                <div style="position: absolute; left: 50%; top: 100px; width: 16px; height: 16px; background: #1a1a1a; border-radius: 50%; transform: translate(-50%, -50%);"></div>
+                            </div>
+                        </div>
+                        <div style="display: flex; flex-direction: column; gap: 32px;">
+                            <div style="display: flex; align-items: center; gap: 10px;">
+                                <span style="display: inline-block; width: 16px; height: 16px; background: #1a1a1a; border-radius: 50%;"></span>
+                                <span style="font-size: 0.95em;">Upper Quartile (75th percentile): 25% of companies are above this value</span>
+                            </div>
+                            <div style="display: flex; align-items: center; gap: 10px;">
+                                <span style="display: inline-block; width: 16px; height: 16px; background: #1a1a1a; border-radius: 50%;"></span>
+                                <span style="font-size: 0.95em;">Median (50th percentile): Half of companies are above, half below</span>
+                            </div>
+                            <div style="display: flex; align-items: center; gap: 10px;">
+                                <span style="display: inline-block; width: 16px; height: 16px; background: #1a1a1a; border-radius: 50%;"></span>
+                                <span style="font-size: 0.95em;">Lower Quartile (25th percentile): 75% of companies are above this value</span>
+                            </div>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Company data by year and metric
+        const COMPANY_DATA = {
+            growth: {
+                '2023': {
+                    'Klima / Planet Wild': { value: 1651, bucket: '< 1M' },
+                    'Bodyguard': { value: 87, bucket: '1–5M' },
+                    'Plan A': { value: 45, bucket: '1–5M' },
+                    'Doctify': { value: 23.84, bucket: '5-10M' },
+                    'Feather': { value: 97, bucket: '5-10M' },
+                    'Beekeeper': { value: 26, bucket: '20-50M' }
+                },
+                '2024': {
+                    'Send.AI': { value: 212, bucket: '1–5M' },
+                    'Crisp': { value: 317, bucket: '1–5M' },
+                    'Plan A': { value: 45, bucket: '1–5M' },
+                    'Feather': { value: 40.78, bucket: '1–5M' },
+                    'Doctify': { value: 14.04, bucket: '10-20M' },
+                    'Beekeeper': { value: 24.14, bucket: '20-50M' }
+                }
+            },
+            'rule40': {
+                '2023': {
+                    'Klima / Planet Wild': { value: 1301, bucket: '< 1M' },
+                    'Bodyguard': { value: -150, bucket: '1M – 5M' },
+                    'Doctify': { value: -31.39, bucket: '5M – 20M' },
+                    'Feather': { value: 53.67, bucket: '5M – 20M' }
+                },
+                '2024': {
+                    'Send.AI': { value: 33, bucket: '1M – 5M' },
+                    'Bits of Stock': { value: 166, bucket: '1M – 5M' },
+                    'Bodyguard': { value: -49, bucket: '1M – 5M' },
+                    'Avalor AI': { value: 124, bucket: '1M – 5M' },
+                    'Plan A': { value: 2, bucket: '1M – 5M' },
+                    'Vesper': { value: -295, bucket: '1M – 5M' },
+                    'Doctify': { value: -21, bucket: '5M – 20M' },
+                    'Lucinity': { value: -3, bucket: '5M – 20M' },
+                    'Lendis': { value: -38, bucket: '5M – 20M' }
+                }
+            },
+            'gross-margin': {
+                '2023': {
+                    'Sibill': { value: 82.30, bucket: '<1M' },
+                    'Bodyguard': { value: 80, bucket: '1-5M' },
+                    'Doctify': { value: 93, bucket: '5-20M' },
+                    'Feather': { value: 90, bucket: '5-20M' },
+                    'Rescale': { value: 84.40, bucket: '20-50M' }
+                },
+                '2024': {
+                    'Send.AI': { value: 91.80, bucket: '1-5M' },
+                    'Crisp': { value: 31, bucket: '1-5M' },
+                    'Bodyguard': { value: 86, bucket: '1-5M' },
+                    'Doctify': { value: 89.77, bucket: '5-20M' },
+                    'Beekeeper': { value: 78, bucket: '20-50M' }
+                }
+            }
+        };
+        
+        // Selected companies (checked checkboxes)
+        let selectedCompanies = [];
+        
+        // Your position data - separate for each metric
+        let yourPositions = {
+            'growth': null,
+            'rule40': null,
+            'gross-margin': null
+        };
+        
+        // Current state
+        let currentMetric = 'growth';
+        let currentYear = '2024';
+        
+        // Data cache - stores all fetched data
+        let dataCache = {
+            '2024': {
+                'growth': null,
+                'rule40': null,
+                'gross-margin': null
+            },
+            '2023': {
+                'growth': null,
+                'rule40': null,
+                'gross-margin': null
+            }
+        };
+        
+        let isDataLoading = false;
+        let dataLoadPromise = null;
+
+        // GRAPH ENGINE - Reusable chart creator
+        class PercentileChartEngine {
+            constructor(canvasId) {
+                this.canvas = document.getElementById(canvasId);
+                this.ctx = this.canvas.getContext('2d');
+                this.chart = null;
+                this.chartData = null;
+            }
+
+            // Main method to create/update chart with data
+            createChart(inputData) {
+                this.chartData = this.processData(inputData);
+                
+                if (this.chart) {
+                    this.chart.destroy();
+                }
+                
+                this.chart = new Chart(this.ctx, {
+                    type: 'scatter',
+                    data: {
+                        datasets: [{
+                            label: 'Percentiles',
+                            data: this.chartData.scatterPoints,
+                            companyPoints: this.chartData.companyPoints,
+                            borderColor: 'rgba(147, 112, 219, 0)',
+                            backgroundColor: 'rgba(147, 112, 219, 0)',
+                            pointRadius: 0,
+                            pointHoverRadius: 0,
+                            borderWidth: 0
+                        }]
+                    },
+                    plugins: [this.createVerticalLinePlugin(), this.createLabelPlugin()],
+                    options: this.getChartOptions()
+                });
+            }
+
+            // Process input data into chart-ready format
+            processData(inputData) {
+                const labels = [];
+                const rangeData = [];
+                const scatterPoints = [];
+                const companyPoints = []; // Store individual company data points
+                
+                inputData.forEach((item, index) => {
+                    labels.push(item.label);
+                    
+                    const values = [
+                        item.percentile25,
+                        item.median,
+                        item.percentile75
+                    ].filter(v => v !== null && v !== undefined && !isNaN(v));
+                    
+                    rangeData.push({
+                        xIndex: index,
+                        values: values,
+                        percentile25: item.percentile25,
+                        median: item.median,
+                        percentile75: item.percentile75
+                    });
+                    
+                    // Extract company data points from the item
+                    // Check all properties for company names and values
+                    console.log('🔍 Processing item:', JSON.stringify(item, null, 2)); // Debug log - show full object
+                    Object.keys(item).forEach(key => {
+                        // Skip the standard percentile fields and range/label
+                        if (!['range', 'label', 'percentile25', 'median', 'percentile75'].includes(key)) {
+                            const value = item[key];
+                            console.log(`🏢 Checking company ${key}:`, value, 'type:', typeof value, 'isNaN:', isNaN(parseFloat(value))); // Debug log
+                            // Check if this is a company data point (has a value that's a number)
+                            if (value !== null && value !== undefined && !isNaN(parseFloat(value)) && value !== '') {
+                                const numericValue = parseFloat(value); // Value is already a percentage, no conversion needed
+                                companyPoints.push({
+                                    x: index,
+                                    y: numericValue,
+                                    name: key,
+                                    arrBucket: item.label
+                                });
+                                console.log(`✅ Added company point:`, {
+                                    name: key,
+                                    value: numericValue,
+                                    bucket: item.label,
+                                    x: index
+                                }); // Debug log
+                            }
+                        }
+                    });
+                    
+                    // Add scatter points for each percentile with type info
+                    if (item.percentile25 !== null && item.percentile25 !== undefined && !isNaN(item.percentile25)) {
+                        scatterPoints.push({x: index, y: item.percentile25, type: 'min'});
+                    }
+                    if (item.median !== null && item.median !== undefined && !isNaN(item.median)) {
+                        scatterPoints.push({x: index, y: item.median, type: 'median'});
+                    }
+                    if (item.percentile75 !== null && item.percentile75 !== undefined && !isNaN(item.percentile75)) {
+                        scatterPoints.push({x: index, y: item.percentile75, type: 'max'});
+                    }
+                });
+                
+                // Auto-calculate y-axis range including company points
+                const allValues = scatterPoints.map(p => p.y);
+                const companyValues = companyPoints.length > 0 ? companyPoints.map(p => p.y) : [];
+                const combinedValues = [...allValues, ...companyValues];
+                
+                console.log('📊 All percentile values:', allValues);
+                console.log('📊 All company values:', companyValues);
+                console.log('📊 Combined values for Y-axis:', combinedValues);
+                
+                // Ensure we have at least some values to work with
+                if (combinedValues.length === 0) {
+                    return {
+                        labels: labels,
+                        rangeData: rangeData,
+                        scatterPoints: scatterPoints,
+                        companyPoints: companyPoints,
+                        yMin: 0,
+                        yMax: 100
+                    };
+                }
+                
+                const minValue = Math.min(...combinedValues);
+                const maxValue = Math.max(...combinedValues);
+                const range = maxValue - minValue;
+                const padding = range > 0 ? range * 0.1 : 10;
+                
+                console.log(`📊 Y-axis calculation: min=${minValue}, max=${maxValue}, range=${range}, padding=${padding}`);
+                console.log(`📊 Final Y-axis: min=${Math.max(0, minValue - padding)}, max=${maxValue + padding}`);
+                
+                console.log('📊 Final company points:', companyPoints); // Debug log
+                
+                return {
+                    labels: labels,
+                    rangeData: rangeData,
+                    scatterPoints: scatterPoints,
+                    companyPoints: companyPoints,
+                    yMin: Math.floor((minValue - padding) / 5) * 5,
+                    yMax: Math.ceil((maxValue + padding) / 5) * 5
+                };
+            }
+
+            // Plugin to draw vertical lines connecting percentiles
+            createVerticalLinePlugin() {
+                const chartData = this.chartData;
+                
+                return {
+                    id: 'verticalLinePlugin',
+                    afterDatasetsDraw: function(chart) {
+                        const ctx = chart.ctx;
+                        
+                        ctx.save();
+                        ctx.strokeStyle = '#1a1a1a';
+                        ctx.lineWidth = 3;
+                        ctx.lineCap = 'round';
+                        
+                        // Draw vertical line for each category
+                        chartData.rangeData.forEach((range) => {
+                            if (range.values.length < 2) return;
+                            
+                            const xPos = chart.scales.x.getPixelForValue(range.xIndex);
+                            const minVal = Math.min(...range.values);
+                            const maxVal = Math.max(...range.values);
+                            
+                            const yMin = chart.scales.y.getPixelForValue(minVal);
+                            const yMax = chart.scales.y.getPixelForValue(maxVal);
+                            
+                            ctx.beginPath();
+                            ctx.moveTo(xPos, yMin);
+                            ctx.lineTo(xPos, yMax);
+                            ctx.stroke();
+                            
+                            // Draw small circles at endpoints
+                            ctx.fillStyle = '#1a1a1a';
+                            ctx.beginPath();
+                            ctx.arc(xPos, yMin, 4, 0, Math.PI * 2);
+                            ctx.fill();
+                            ctx.beginPath();
+                            ctx.arc(xPos, yMax, 4, 0, Math.PI * 2);
+                            ctx.fill();
+                        });
+                        
+                        ctx.restore();
+                    }
+                };
+            }
+
+            // Plugin to draw percentage labels
+            createLabelPlugin() {
+                const scatterPoints = this.chartData.scatterPoints;
+                const labels = this.chartData.labels;
+                
+                return {
+                    id: 'labelPlugin',
+                    afterDatasetsDraw: function(chart) {
+                        const ctx = chart.ctx;
+                        ctx.save();
+                        
+                        ctx.font = 'bold 13px Arial';
+                        ctx.fillStyle = '#000';
+                        
+                        // Draw labels for each scatter point
+                        scatterPoints.forEach((point) => {
+                            const xPos = chart.scales.x.getPixelForValue(point.x);
+                            const yPos = chart.scales.y.getPixelForValue(point.y);
+                            
+                            if (point.type === 'min') {
+                                // Bottom value - label below
+                                ctx.textAlign = 'center';
+                                ctx.textBaseline = 'top';
+                                ctx.fillText(Math.round(point.y) + '%', xPos, yPos + 10);
+                            } else if (point.type === 'max') {
+                                // Top value - label above
+                                ctx.textAlign = 'center';
+                                ctx.textBaseline = 'bottom';
+                                ctx.fillText(Math.round(point.y) + '%', xPos, yPos - 10);
+                            } else if (point.type === 'median') {
+                                // Median - draw dot and label to the right
+                                ctx.fillStyle = '#1a1a1a';
+                                ctx.beginPath();
+                                ctx.arc(xPos, yPos, 5, 0, Math.PI * 2);
+                                ctx.fill();
+                                
+                                ctx.fillStyle = '#1a1a1a';
+                                ctx.textAlign = 'left';
+                                ctx.textBaseline = 'middle';
+                                ctx.fillText(Math.round(point.y) + '%', xPos + 15, yPos);
+                            }
+                        });
+                        
+                        // Draw company data points
+                        if (chart.data.datasets[0].companyPoints && chart.data.datasets[0].companyPoints.length > 0) {
+                            console.log('🎨 Drawing', chart.data.datasets[0].companyPoints.length, 'company points');
+                            chart.data.datasets[0].companyPoints.forEach(company => {
+                                console.log('🎯 Drawing company:', company);
+                                const xPos = chart.scales.x.getPixelForValue(company.x);
+                                const yPos = chart.scales.y.getPixelForValue(company.y);
+                                
+                                // Draw blue dot for company
+                                ctx.fillStyle = '#4169E1'; // Royal blue
+                                ctx.beginPath();
+                                ctx.arc(xPos, yPos, 8, 0, Math.PI * 2); // Made dots bigger for visibility
+                                ctx.fill();
+                                
+                                // Draw company name
+                                ctx.font = 'bold 12px Arial';
+                                ctx.fillStyle = '#4169E1';
+                                ctx.textAlign = 'center';
+                                ctx.textBaseline = 'bottom';
+                                
+                                // Add background for better readability
+                                const textWidth = ctx.measureText(company.name).width;
+                                ctx.fillStyle = 'rgba(255, 255, 255, 0.9)';
+                                ctx.fillRect(xPos - textWidth/2 - 3, yPos - 25, textWidth + 6, 16);
+                                
+                                // Add border around text background
+                                ctx.strokeStyle = '#4169E1';
+                                ctx.lineWidth = 1;
+                                ctx.strokeRect(xPos - textWidth/2 - 3, yPos - 25, textWidth + 6, 16);
+                                
+                                ctx.fillStyle = '#4169E1';
+                                ctx.fillText(company.name, xPos, yPos - 12);
+                            });
+                        } else {
+                            console.log('❌ No company points to draw');
+                        }
+                        
+                        // Draw "You Are Here!" marker if position is set for current metric
+                        const currentPosition = yourPositions[currentMetric];
+                        if (currentPosition) {
+                            console.log('🎯 Drawing marker for:', currentPosition);
+                            console.log('📋 Available labels:', labels);
+                            
+                            // Find the bucket index
+                            const bucketIndex = labels.findIndex(label => {
+                                console.log(`Comparing: "${label}" with "${currentPosition.arrBucket}"`);
+                                return label === currentPosition.arrBucket;
+                            });
+                            
+                            console.log('📌 Bucket index found:', bucketIndex);
+                            
+                            if (bucketIndex !== -1) {
+                                const xPos = chart.scales.x.getPixelForValue(bucketIndex);
+                                const yPos = chart.scales.y.getPixelForValue(currentPosition.value);
+                                
+                                // Draw light blue dot at position
+                                ctx.fillStyle = '#87CEEB';
+                                ctx.beginPath();
+                                ctx.arc(xPos, yPos, 6, 0, Math.PI * 2);
+                                ctx.fill();
+                                
+                                // Draw "You!" text next to position
+                                ctx.font = 'bold 14px Arial';
+                                ctx.fillStyle = '#87CEEB';
+                                ctx.textAlign = 'left';
+                                ctx.textBaseline = 'middle';
+                                ctx.fillText('You!', xPos + 12, yPos);
+                            }
+                        }
+                        
+                        ctx.restore();
+                    }
+                };
+            }
+
+            // Chart configuration options
+            getChartOptions() {
+                const chartData = this.chartData;
+                
+                return {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            display: false
+                        },
+                        tooltip: {
+                            enabled: true,
+                            callbacks: {
+                                label: function(context) {
+                                    return context.parsed.y + '%';
+                                },
+                                title: function(context) {
+                                    const xValue = context[0].parsed.x;
+                                    return chartData.labels[xValue];
+                                }
+                            }
+                        }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: false,
+                            min: chartData.yMin,
+                            max: chartData.yMax,
+                            ticks: {
+                                callback: function(value) {
+                                    return value + '%';
+                                },
+                                stepSize: 20,
+                                font: {
+                                    size: 11,
+                                    family: '-apple-system, BlinkMacSystemFont, "Segoe UI"'
+                                },
+                                color: '#999'
+                            },
+                            grid: {
+                                display: false,
+                                drawBorder: false
+                            },
+                            border: {
+                                display: false
+                            }
+                        },
+                        x: {
+                            type: 'category',
+                            labels: chartData.labels,
+                            offset: true,
+                            grid: {
+                                display: false,
+                                drawBorder: false
+                            },
+                            border: {
+                                display: false
+                            },
+                            ticks: {
+                                font: {
+                                    size: 11,
+                                    weight: '500',
+                                    family: '-apple-system, BlinkMacSystemFont, "Segoe UI"'
+                                },
+                                color: '#1a1a1a',
+                                padding: 10,
+                                autoSkip: false,
+                                maxRotation: 0,
+                                minRotation: 0
+                            },
+                            title: {
+                                display: true,
+                                text: 'ARR Buckets',
+                                font: {
+                                    size: 12,
+                                    weight: '500',
+                                    family: '-apple-system, BlinkMacSystemFont, "Segoe UI"'
+                                },
+                                color: '#666',
+                                padding: {
+                                    top: 15
+                                }
+                            }
+                        }
+                    },
+                    layout: {
+                        padding: {
+                            top: 20,
+                            right: 20,
+                            bottom: 20,
+                            left: 100
+                        }
+                    }
+                };
+            }
+        }
+
+        // Initialize the chart engine
+        const chartEngine = new PercentileChartEngine('growthChart');
+
+        // Apps Script URL for fetching data
+        const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxcnVopVmHkPyH_h_NJsHXZK5fSD9eOYK7xqUBQ2DPtVJKPmnbL_IDbwb_K05L9GGEc/exec';
+
+        // Function to fetch data for a specific metric and year from API
+        async function fetchMetricData(metric, year) {
+            const sheetPrefix = {
+                'growth': 'Growth',
+                'rule40': 'Rule40',
+                'gross-margin': 'GrossMargin'
+            }[metric];
+            
+            const timestamp = new Date().getTime();
+            const apiUrl = `${APPS_SCRIPT_URL}?action=get${sheetPrefix}&year=${year}&t=${timestamp}&v=2`;
+            
+            console.log(`🔄 Fetching ${metric} data for ${year}:`, apiUrl);
+            
+            const response = await fetch(apiUrl);
+            
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+            
+            const responseText = await response.text();
+            const jsonResponse = JSON.parse(responseText);
+            
+            if (!jsonResponse.success) {
+                throw new Error(jsonResponse.error || 'Unknown error');
+            }
+            
+            const sheetData = jsonResponse.data;
+            
+            // Exclude non-ARR ranges
+            const excludedRanges = ['Subscription', 'Usage-Based Pricing', 'Hybrid', 'Average'];
+            const filteredData = sheetData.filter(item => !excludedRanges.includes(item.range));
+            
+            // Convert to chart-ready format
+            const chartData = filteredData.map(item => {
+                return {
+                    label: item.range,
+                    percentile25: item.percentile25 !== null ? item.percentile25 * 100 : null,
+                    median: item.median !== null ? item.median * 100 : null,
+                    percentile75: item.percentile75 !== null ? item.percentile75 * 100 : null
+                };
+            });
+            
+            return chartData;
+        }
+
+        // Function to preload ALL data for all metrics and years
+        async function preloadAllData() {
+            if (isDataLoading) {
+                return dataLoadPromise;
+            }
+            
+            isDataLoading = true;
+            console.log('🚀 Preloading all data...');
+            
+            const metrics = ['growth', 'rule40', 'gross-margin'];
+            const years = ['2024', '2023'];
+            
+            // Create array of all fetch promises
+            const fetchPromises = [];
+            
+            for (const year of years) {
+                for (const metric of metrics) {
+                    const promise = fetchMetricData(metric, year)
+                        .then(data => {
+                            dataCache[year][metric] = data;
+                            console.log(`✅ Cached ${metric} ${year}:`, data.length, 'data points');
+                        })
+                        .catch(error => {
+                            console.error(`❌ Error loading ${metric} ${year}:`, error);
+                            dataCache[year][metric] = null;
+                        });
+                    fetchPromises.push(promise);
+                }
+            }
+            
+            // Wait for all data to load
+            dataLoadPromise = Promise.all(fetchPromises).then(() => {
+                console.log('✅ All data preloaded successfully!');
+                isDataLoading = false;
+            });
+            
+            return dataLoadPromise;
+        }
+
+        // Function to render chart from cached data
+        function renderChartFromCache(metric, year) {
+            const cachedData = dataCache[year][metric];
+            
+            if (!cachedData) {
+                console.error(`❌ No cached data for ${metric} ${year}`);
+                return;
+            }
+            
+            console.log(`⚡ Rendering ${metric} ${year} from cache (instant!)`);
+            console.log('🔍 Raw cached data:', JSON.stringify(cachedData, null, 2)); // Show full raw data
+            
+            // Create a deep copy to avoid modifying the original cache
+            const chartData = JSON.parse(JSON.stringify(cachedData));
+            
+            // Add selected company data dynamically
+            addSelectedCompaniesToData(chartData, metric, year);
+            
+            chartEngine.createChart(chartData);
+        }
+
+        // Handler for year selection change
+        function onYearChange() {
+            currentYear = document.getElementById('yearSelect').value;
+            console.log('📅 Year changed to:', currentYear);
+            updateCompanyCheckboxes(); // Update available companies
+            renderChartFromCache(currentMetric, currentYear);
+        }
+
+        // Add selected company data to chart data
+        function addSelectedCompaniesToData(cachedData, metric, year) {
+            console.log(`🔥 DEBUG: addSelectedCompaniesToData called for ${metric} ${year}`);
+            console.log(`🔥 DEBUG: selectedCompanies:`, selectedCompanies);
+            console.log(`🔥 DEBUG: cachedData:`, cachedData);
+            console.log(`💼 Adding selected companies for ${metric} ${year}:`, selectedCompanies);
+            console.log(`💼 Available company data for ${metric} ${year}:`, COMPANY_DATA[metric] && COMPANY_DATA[metric][year]);
+            
+            // First, remove all company data from cached data
+            cachedData.forEach(bucket => {
+                Object.keys(bucket).forEach(key => {
+                    if (!['range', 'label', 'percentile25', 'median', 'percentile75'].includes(key)) {
+                        delete bucket[key];
+                    }
+                });
+            });
+            
+            const companyData = COMPANY_DATA[metric] && COMPANY_DATA[metric][year];
+            if (!companyData) {
+                console.log(`⚠️ No company data available for ${metric} ${year}`);
+                return;
+            }
+            
+            selectedCompanies.forEach(companyName => {
+                const company = companyData[companyName];
+                console.log(`💼 Processing company ${companyName}:`, company);
+                if (company) {
+                    let companyAdded = false;
+                    // Find the right bucket and add the company
+                    cachedData.forEach(bucket => {
+                        console.log(`💼 Checking bucket "${bucket.label}" against company bucket "${company.bucket}"`);
+                        if (bucket.label === company.bucket) {
+                            bucket[companyName] = company.value;
+                            companyAdded = true;
+                            console.log(`✅ Added ${companyName}: ${company.value}% to ${company.bucket} bucket`);
+                            console.log(`✅ Bucket after adding company:`, JSON.stringify(bucket, null, 2));
+                        }
+                    });
+                    if (!companyAdded) {
+                        console.log(`❌ Could not find matching bucket for ${companyName} (bucket: "${company.bucket}")`);
+                        console.log(`❌ Available buckets:`, cachedData.map(b => b.label));
+                    }
+                } else {
+                    console.log(`⚠️ Company ${companyName} not found in data for ${metric} ${year}`);
+                }
+            });
+            
+            console.log(`🔥 DEBUG: Final cachedData after adding companies:`, JSON.stringify(cachedData, null, 2));
+        }
+
+        // Create company dropdown options
+        function updateCompanyCheckboxes() {
+            const container = document.getElementById('companyDropdown');
+            container.innerHTML = '';
+            
+            const companyData = COMPANY_DATA[currentMetric] && COMPANY_DATA[currentMetric][currentYear];
+            if (!companyData) {
+                container.innerHTML = '<div style="padding: 8px; color: #999; font-style: italic;">No company data available</div>';
+                updateSelectedText();
+                return;
+            }
+            
+            Object.keys(companyData).forEach(companyName => {
+                const company = companyData[companyName];
+                const isChecked = selectedCompanies.includes(companyName);
+                
+                const optionDiv = document.createElement('div');
+                optionDiv.style.cssText = `
+                    padding: 8px 12px; 
+                    cursor: pointer; 
+                    display: flex; 
+                    align-items: center; 
+                    gap: 8px;
+                    border-bottom: 1px solid #f0f0f0;
+                `;
+                
+                optionDiv.innerHTML = `
+                    <input type="checkbox" ${isChecked ? 'checked' : ''} style="margin: 0;">
+                    <span>${companyName} <span style="color: #666;">(${company.value}%)</span></span>
+                `;
+                
+                optionDiv.addEventListener('click', function(e) {
+                    e.stopPropagation();
+                    const checkbox = optionDiv.querySelector('input[type="checkbox"]');
+                    checkbox.checked = !checkbox.checked;
+                    toggleCompany(companyName);
+                });
+                
+                optionDiv.addEventListener('mouseenter', function() {
+                    optionDiv.style.backgroundColor = '#f8f8f8';
+                });
+                
+                optionDiv.addEventListener('mouseleave', function() {
+                    optionDiv.style.backgroundColor = 'white';
+                });
+                
+                container.appendChild(optionDiv);
+            });
+            
+            updateSelectedText();
+        }
+
+        // Toggle dropdown visibility
+        function toggleDropdown() {
+            const dropdown = document.getElementById('companyDropdown');
+            const arrow = document.getElementById('dropdownArrow');
+            
+            if (dropdown.style.display === 'none') {
+                dropdown.style.display = 'block';
+                arrow.style.transform = 'rotate(180deg)';
+            } else {
+                dropdown.style.display = 'none';
+                arrow.style.transform = 'rotate(0deg)';
+            }
+        }
+
+        // Update selected companies text
+        function updateSelectedText() {
+            const selectedText = document.getElementById('selectedText');
+            if (selectedCompanies.length === 0) {
+                selectedText.textContent = 'Select companies...';
+                selectedText.style.color = '#999';
+            } else {
+                selectedText.textContent = `${selectedCompanies.length} selected: ${selectedCompanies.slice(0, 2).join(', ')}${selectedCompanies.length > 2 ? '...' : ''}`;
+                selectedText.style.color = '#1a1a1a';
+            }
+        }
+
+        // Close dropdown when clicking outside
+        document.addEventListener('click', function(e) {
+            const dropdown = document.getElementById('companyDropdown');
+            const container = e.target.closest('.dropdown-container');
+            
+            if (!container && dropdown.style.display === 'block') {
+                dropdown.style.display = 'none';
+                document.getElementById('dropdownArrow').style.transform = 'rotate(0deg)';
+            }
+        });
+
+        // Toggle company selection
+        function toggleCompany(companyName) {
+            const index = selectedCompanies.indexOf(companyName);
+            if (index === -1) {
+                selectedCompanies.push(companyName);
+                console.log(`✅ Selected: ${companyName}`);
+            } else {
+                selectedCompanies.splice(index, 1);
+                console.log(`❌ Deselected: ${companyName}`);
+            }
+            
+            updateSelectedText();
+            
+            // Re-render chart with updated selection
+            renderChartFromCache(currentMetric, currentYear);
+        }
+
+        // Handler for metric selection
+        function selectMetric(metric) {
+            currentMetric = metric;
+            
+            // Show/hide "Your Position" inputs for Growth and Gross Margin metrics
+            const yourPositionDiv = document.getElementById('yourPositionInputs');
+            const valueInputLabel = document.getElementById('valueInputLabel');
+            const valueInput = document.getElementById('growthInput');
+            
+            if (metric === 'growth') {
+                yourPositionDiv.style.display = 'flex';
+                valueInputLabel.textContent = 'Your Growth (%):';
+                valueInput.placeholder = 'e.g., 50';
+            } else if (metric === 'gross-margin') {
+                yourPositionDiv.style.display = 'flex';
+                valueInputLabel.textContent = 'Your Gross Margin (%):';
+                valueInput.placeholder = 'e.g., 80';
+            } else {
+                yourPositionDiv.style.display = 'none';
+                // Don't clear position when hiding - keep each metric's data separate
+            }
+            
+            // Load saved values for current metric
+            const savedPosition = yourPositions[currentMetric];
+            if (savedPosition) {
+                document.getElementById('arrInput').value = savedPosition.arr;
+                document.getElementById('growthInput').value = savedPosition.value;
+            } else {
+                document.getElementById('arrInput').value = '';
+                document.getElementById('growthInput').value = '';
+            }
+            
+            // Update active menu item
+            document.querySelectorAll('.menu-item').forEach(item => {
+                item.classList.remove('active');
+            });
+            event.target.classList.add('active');
+            
+            // Update titles
+            const metricConfig = {
+                'growth': {
+                    title: 'Growth of Revenue',
+                    subtitle: 'Percentile distribution by ARR range'
+                },
+                'rule40': {
+                    title: 'Rule of 40',
+                    subtitle: 'Percentile distribution by ARR range'
+                },
+                'gross-margin': {
+                    title: 'Gross Margin',
+                    subtitle: 'Percentile distribution by ARR range'
+                }
+            };
+            
+            const config = metricConfig[metric];
+            document.getElementById('metricTitle').textContent = config.title;
+            document.getElementById('metricSubtitle').textContent = config.subtitle;
+            
+            // Clear previous selections when switching metrics
+            selectedCompanies = [];
+            updateCompanyCheckboxes();
+            
+            // Render from cache instantly!
+            renderChartFromCache(metric, currentYear);
+        }
+
+        // Function to determine ARR bucket from ARR value based on current metric
+        function getARRBucket(arr, metric = currentMetric) {
+            if (metric === 'gross-margin') {
+                // Gross Margin has different bucket structure
+                if (arr < 1) return '<1M';
+                if (arr >= 1 && arr < 5) return '1-5M';
+                if (arr >= 5 && arr < 20) return '5-20M';  // Note: 5-20M instead of 5-10M and 10-20M
+                if (arr >= 20 && arr < 50) return '20-50M';
+                if (arr >= 50 && arr < 100) return '50-100M';
+                return '>100M';
+            } else {
+                // Growth and Rule of 40 use standard buckets
+                if (arr < 1) return '< 1M';
+                if (arr >= 1 && arr < 5) return '1–5M';
+                if (arr >= 5 && arr < 10) return '5-10M';
+                if (arr >= 10 && arr < 20) return '10-20M';
+                if (arr >= 20 && arr < 50) return '20-50M';
+                if (arr >= 50 && arr < 100) return '50-100M';
+                return '>100M';
+            }
+        }
+
+        // Function to plot user's position on the chart
+        function plotYourPosition() {
+            const arrInput = parseFloat(document.getElementById('arrInput').value);
+            const valueInput = parseFloat(document.getElementById('growthInput').value);
+            
+            if (isNaN(arrInput) || isNaN(valueInput)) {
+                const metricName = currentMetric === 'growth' ? 'Growth' : 'Gross Margin';
+                alert(`Please enter valid numbers for both ARR and ${metricName}`);
+                return;
+            }
+            
+            if (arrInput < 0) {
+                alert('ARR must be a positive number');
+                return;
+            }
+            
+            const arrBucket = getARRBucket(arrInput, currentMetric);
+            
+            yourPositions[currentMetric] = {
+                arr: arrInput,
+                value: valueInput,
+                arrBucket: arrBucket
+            };
+            
+            console.log(`📍 Your ${currentMetric} position:`, yourPositions[currentMetric]);
+            
+            // Redraw chart with position marker
+            chartEngine.chart.update();
+        }
+
+        // Function to clear user's position for current metric
+        function clearYourPosition() {
+            yourPositions[currentMetric] = null;
+            document.getElementById('arrInput').value = '';
+            document.getElementById('growthInput').value = '';
+            
+            if (chartEngine.chart) {
+                chartEngine.chart.update();
+            }
+        }
+
+        // Load data from sheet on page load
+        preloadAllData().then(() => {
+            // Render initial chart after data is loaded
+            renderChartFromCache(currentMetric, currentYear);
+        });
+        
+        // Show "Your Position" inputs by default since Growth is default metric
+        document.getElementById('yourPositionInputs').style.display = 'flex';
+        
+        // Test function with sample company data
+        function loadSampleDataWithCompanies() {
+            const sampleData = [
+                {
+                    label: "< 1M",
+                    percentile25: 49,
+                    median: 93,
+                    percentile75: 213,
+                    "Mollie": 103,
+                    "StudyPortals": 85
+                },
+                {
+                    label: "1–5M",
+                    percentile25: 23,
+                    median: 48,
+                    percentile75: 105,
+                    "Rescale": 75
+                },
+                {
+                    label: "5-10M",
+                    percentile25: 15,
+                    median: 30,
+                    percentile75: 61,
+                    "Beekeeper": 45
+                },
+                {
+                    label: "10-20M",
+                    percentile25: null,
+                    median: null,
+                    percentile75: null,
+                    "Doctify": 14
+                },
+                {
+                    label: "20-50M",
+                    percentile25: 10,
+                    median: 22,
+                    percentile75: 40,
+                    "Crisp": 35
+                },
+                {
+                    label: "50-100M",
+                    percentile25: 10,
+                    median: 13,
+                    percentile75: 24
+                },
+                {
+                    label: ">100M",
+                    percentile25: -6,
+                    median: 6,
+                    percentile75: 9,
+                    "Nextail": 8
+                }
+            ];
+            
+            console.log('✅ Loading sample data with companies:', sampleData);
+            chartEngine.createChart(sampleData);
+        }
+        
+        // Test function to manually check API response
+        async function testApiResponse() {
+            try {
+                const timestamp = new Date().getTime();
+                const apiUrl = `${APPS_SCRIPT_URL}?action=getGrowth&year=2024&t=${timestamp}&v=2`;
+                
+                console.log('🔄 Testing API:', apiUrl);
+                
+                const response = await fetch(apiUrl);
+                const responseText = await response.text();
+                console.log('📥 Raw API Response:', responseText);
+                
+                const jsonResponse = JSON.parse(responseText);
+                console.log('📊 Parsed API Response:', JSON.stringify(jsonResponse, null, 2));
+                
+                if (jsonResponse.success && jsonResponse.data) {
+                    console.log('✅ API Success - First item:', JSON.stringify(jsonResponse.data[0], null, 2));
+                    console.log('🏢 Company properties in first item:', Object.keys(jsonResponse.data[0]).filter(key => 
+                        !['range', 'label', 'percentile25', 'median', 'percentile75'].includes(key)
+                    ));
+                } else {
+                    console.error('❌ API Error:', jsonResponse.error);
+                }
+            } catch (error) {
+                console.error('❌ Test failed:', error);
+            }
+        }
+        
+        // Initialize on page load
+        window.addEventListener('load', function() {
+            updateCompanyCheckboxes();
+        });
+    </script>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,655 @@
+[
+  {
+    "filename": "KPI_Dashboard_growth_2023.txt",
+    "content": "Revenue Growth - Year 2023\n==================================================\n\nMetric: Revenue Growth\nDescription: Year-over-year revenue growth percentage\nYear: 2023\nNumber of Portfolio Companies Reported: 6\n\nCompany Performance:\n- Klima / Planet Wild: 1651% (ARR Bucket: < 1M)\n- Bodyguard: 87% (ARR Bucket: 1–5M)\n- Plan A: 45% (ARR Bucket: 1–5M)\n- Doctify: 23.84% (ARR Bucket: 5-10M)\n- Feather: 97% (ARR Bucket: 5-10M)\n- Beekeeper: 26% (ARR Bucket: 20-50M)\n\nARR Buckets Represented:\n1–5M, 20-50M, 5-10M, < 1M",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "metric": "growth",
+      "year": "2023",
+      "company_count": 6,
+      "date_added": "2026-02-10T12:06:56.494071"
+    }
+  },
+  {
+    "filename": "Company_Klima / Planet Wild_growth_2023.txt",
+    "content": "Company Performance Report: Klima / Planet Wild\n\nMetric: Revenue Growth\nYear: 2023\nValue: 1651%\nARR Bucket: < 1M\n\nDescription: \nKlima / Planet Wild reported a revenue growth of 1651% in 2023. \nThe company is in the < 1M ARR (Annual Recurring Revenue) bucket.\n\nYear-over-year revenue growth percentage\n\nThis data is from the Keen Venture Partners KPI Dashboard and represents portfolio company performance metrics.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "company": "Klima / Planet Wild",
+      "metric": "growth",
+      "year": "2023",
+      "value": 1651,
+      "arr_bucket": "< 1M",
+      "date_added": "2026-02-10T12:06:56.494071"
+    }
+  },
+  {
+    "filename": "Company_Bodyguard_growth_2023.txt",
+    "content": "Company Performance Report: Bodyguard\n\nMetric: Revenue Growth\nYear: 2023\nValue: 87%\nARR Bucket: 1–5M\n\nDescription: \nBodyguard reported a revenue growth of 87% in 2023. \nThe company is in the 1–5M ARR (Annual Recurring Revenue) bucket.\n\nYear-over-year revenue growth percentage\n\nThis data is from the Keen Venture Partners KPI Dashboard and represents portfolio company performance metrics.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "company": "Bodyguard",
+      "metric": "growth",
+      "year": "2023",
+      "value": 87,
+      "arr_bucket": "1–5M",
+      "date_added": "2026-02-10T12:06:56.494071"
+    }
+  },
+  {
+    "filename": "Company_Plan A_growth_2023.txt",
+    "content": "Company Performance Report: Plan A\n\nMetric: Revenue Growth\nYear: 2023\nValue: 45%\nARR Bucket: 1–5M\n\nDescription: \nPlan A reported a revenue growth of 45% in 2023. \nThe company is in the 1–5M ARR (Annual Recurring Revenue) bucket.\n\nYear-over-year revenue growth percentage\n\nThis data is from the Keen Venture Partners KPI Dashboard and represents portfolio company performance metrics.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "company": "Plan A",
+      "metric": "growth",
+      "year": "2023",
+      "value": 45,
+      "arr_bucket": "1–5M",
+      "date_added": "2026-02-10T12:06:56.494071"
+    }
+  },
+  {
+    "filename": "Company_Doctify_growth_2023.txt",
+    "content": "Company Performance Report: Doctify\n\nMetric: Revenue Growth\nYear: 2023\nValue: 23.84%\nARR Bucket: 5-10M\n\nDescription: \nDoctify reported a revenue growth of 23.84% in 2023. \nThe company is in the 5-10M ARR (Annual Recurring Revenue) bucket.\n\nYear-over-year revenue growth percentage\n\nThis data is from the Keen Venture Partners KPI Dashboard and represents portfolio company performance metrics.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "company": "Doctify",
+      "metric": "growth",
+      "year": "2023",
+      "value": 23.84,
+      "arr_bucket": "5-10M",
+      "date_added": "2026-02-10T12:06:56.494071"
+    }
+  },
+  {
+    "filename": "Company_Feather_growth_2023.txt",
+    "content": "Company Performance Report: Feather\n\nMetric: Revenue Growth\nYear: 2023\nValue: 97%\nARR Bucket: 5-10M\n\nDescription: \nFeather reported a revenue growth of 97% in 2023. \nThe company is in the 5-10M ARR (Annual Recurring Revenue) bucket.\n\nYear-over-year revenue growth percentage\n\nThis data is from the Keen Venture Partners KPI Dashboard and represents portfolio company performance metrics.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "company": "Feather",
+      "metric": "growth",
+      "year": "2023",
+      "value": 97,
+      "arr_bucket": "5-10M",
+      "date_added": "2026-02-10T12:06:56.494071"
+    }
+  },
+  {
+    "filename": "Company_Beekeeper_growth_2023.txt",
+    "content": "Company Performance Report: Beekeeper\n\nMetric: Revenue Growth\nYear: 2023\nValue: 26%\nARR Bucket: 20-50M\n\nDescription: \nBeekeeper reported a revenue growth of 26% in 2023. \nThe company is in the 20-50M ARR (Annual Recurring Revenue) bucket.\n\nYear-over-year revenue growth percentage\n\nThis data is from the Keen Venture Partners KPI Dashboard and represents portfolio company performance metrics.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "company": "Beekeeper",
+      "metric": "growth",
+      "year": "2023",
+      "value": 26,
+      "arr_bucket": "20-50M",
+      "date_added": "2026-02-10T12:06:56.494071"
+    }
+  },
+  {
+    "filename": "KPI_Dashboard_growth_2024.txt",
+    "content": "Revenue Growth - Year 2024\n==================================================\n\nMetric: Revenue Growth\nDescription: Year-over-year revenue growth percentage\nYear: 2024\nNumber of Portfolio Companies Reported: 6\n\nCompany Performance:\n- Send.AI: 212% (ARR Bucket: 1–5M)\n- Crisp: 317% (ARR Bucket: 1–5M)\n- Plan A: 45% (ARR Bucket: 1–5M)\n- Feather: 40.78% (ARR Bucket: 1–5M)\n- Doctify: 14.04% (ARR Bucket: 10-20M)\n- Beekeeper: 24.14% (ARR Bucket: 20-50M)\n\nARR Buckets Represented:\n10-20M, 1–5M, 20-50M",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "metric": "growth",
+      "year": "2024",
+      "company_count": 6,
+      "date_added": "2026-02-10T12:06:56.494071"
+    }
+  },
+  {
+    "filename": "Company_Send.AI_growth_2024.txt",
+    "content": "Company Performance Report: Send.AI\n\nMetric: Revenue Growth\nYear: 2024\nValue: 212%\nARR Bucket: 1–5M\n\nDescription: \nSend.AI reported a revenue growth of 212% in 2024. \nThe company is in the 1–5M ARR (Annual Recurring Revenue) bucket.\n\nYear-over-year revenue growth percentage\n\nThis data is from the Keen Venture Partners KPI Dashboard and represents portfolio company performance metrics.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "company": "Send.AI",
+      "metric": "growth",
+      "year": "2024",
+      "value": 212,
+      "arr_bucket": "1–5M",
+      "date_added": "2026-02-10T12:06:56.494071"
+    }
+  },
+  {
+    "filename": "Company_Crisp_growth_2024.txt",
+    "content": "Company Performance Report: Crisp\n\nMetric: Revenue Growth\nYear: 2024\nValue: 317%\nARR Bucket: 1–5M\n\nDescription: \nCrisp reported a revenue growth of 317% in 2024. \nThe company is in the 1–5M ARR (Annual Recurring Revenue) bucket.\n\nYear-over-year revenue growth percentage\n\nThis data is from the Keen Venture Partners KPI Dashboard and represents portfolio company performance metrics.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "company": "Crisp",
+      "metric": "growth",
+      "year": "2024",
+      "value": 317,
+      "arr_bucket": "1–5M",
+      "date_added": "2026-02-10T12:06:56.494071"
+    }
+  },
+  {
+    "filename": "Company_Plan A_growth_2024.txt",
+    "content": "Company Performance Report: Plan A\n\nMetric: Revenue Growth\nYear: 2024\nValue: 45%\nARR Bucket: 1–5M\n\nDescription: \nPlan A reported a revenue growth of 45% in 2024. \nThe company is in the 1–5M ARR (Annual Recurring Revenue) bucket.\n\nYear-over-year revenue growth percentage\n\nThis data is from the Keen Venture Partners KPI Dashboard and represents portfolio company performance metrics.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "company": "Plan A",
+      "metric": "growth",
+      "year": "2024",
+      "value": 45,
+      "arr_bucket": "1–5M",
+      "date_added": "2026-02-10T12:06:56.494071"
+    }
+  },
+  {
+    "filename": "Company_Feather_growth_2024.txt",
+    "content": "Company Performance Report: Feather\n\nMetric: Revenue Growth\nYear: 2024\nValue: 40.78%\nARR Bucket: 1–5M\n\nDescription: \nFeather reported a revenue growth of 40.78% in 2024. \nThe company is in the 1–5M ARR (Annual Recurring Revenue) bucket.\n\nYear-over-year revenue growth percentage\n\nThis data is from the Keen Venture Partners KPI Dashboard and represents portfolio company performance metrics.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "company": "Feather",
+      "metric": "growth",
+      "year": "2024",
+      "value": 40.78,
+      "arr_bucket": "1–5M",
+      "date_added": "2026-02-10T12:06:56.494071"
+    }
+  },
+  {
+    "filename": "Company_Doctify_growth_2024.txt",
+    "content": "Company Performance Report: Doctify\n\nMetric: Revenue Growth\nYear: 2024\nValue: 14.04%\nARR Bucket: 10-20M\n\nDescription: \nDoctify reported a revenue growth of 14.04% in 2024. \nThe company is in the 10-20M ARR (Annual Recurring Revenue) bucket.\n\nYear-over-year revenue growth percentage\n\nThis data is from the Keen Venture Partners KPI Dashboard and represents portfolio company performance metrics.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "company": "Doctify",
+      "metric": "growth",
+      "year": "2024",
+      "value": 14.04,
+      "arr_bucket": "10-20M",
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "Company_Beekeeper_growth_2024.txt",
+    "content": "Company Performance Report: Beekeeper\n\nMetric: Revenue Growth\nYear: 2024\nValue: 24.14%\nARR Bucket: 20-50M\n\nDescription: \nBeekeeper reported a revenue growth of 24.14% in 2024. \nThe company is in the 20-50M ARR (Annual Recurring Revenue) bucket.\n\nYear-over-year revenue growth percentage\n\nThis data is from the Keen Venture Partners KPI Dashboard and represents portfolio company performance metrics.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "company": "Beekeeper",
+      "metric": "growth",
+      "year": "2024",
+      "value": 24.14,
+      "arr_bucket": "20-50M",
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "KPI_Dashboard_rule40_2023.txt",
+    "content": "Rule of 40 - Year 2023\n==================================================\n\nMetric: Rule of 40\nDescription: Growth rate + profit margin (Rule of 40 benchmark)\nYear: 2023\nNumber of Portfolio Companies Reported: 4\n\nCompany Performance:\n- Klima / Planet Wild: 1301% (ARR Bucket: < 1M)\n- Bodyguard: -150% (ARR Bucket: 1M – 5M)\n- Doctify: -31.39% (ARR Bucket: 5M – 20M)\n- Feather: 53.67% (ARR Bucket: 5M – 20M)\n\nARR Buckets Represented:\n1M – 5M, 5M – 20M, < 1M",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "metric": "rule40",
+      "year": "2023",
+      "company_count": 4,
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "Company_Klima / Planet Wild_rule40_2023.txt",
+    "content": "Company Performance Report: Klima / Planet Wild\n\nMetric: Rule of 40\nYear: 2023\nValue: 1301%\nARR Bucket: < 1M\n\nDescription: \nKlima / Planet Wild reported a rule of 40 of 1301% in 2023. \nThe company is in the < 1M ARR (Annual Recurring Revenue) bucket.\n\nGrowth rate + profit margin (Rule of 40 benchmark)\n\nThis data is from the Keen Venture Partners KPI Dashboard and represents portfolio company performance metrics.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "company": "Klima / Planet Wild",
+      "metric": "rule40",
+      "year": "2023",
+      "value": 1301,
+      "arr_bucket": "< 1M",
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "Company_Bodyguard_rule40_2023.txt",
+    "content": "Company Performance Report: Bodyguard\n\nMetric: Rule of 40\nYear: 2023\nValue: -150%\nARR Bucket: 1M – 5M\n\nDescription: \nBodyguard reported a rule of 40 of -150% in 2023. \nThe company is in the 1M – 5M ARR (Annual Recurring Revenue) bucket.\n\nGrowth rate + profit margin (Rule of 40 benchmark)\n\nThis data is from the Keen Venture Partners KPI Dashboard and represents portfolio company performance metrics.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "company": "Bodyguard",
+      "metric": "rule40",
+      "year": "2023",
+      "value": -150,
+      "arr_bucket": "1M – 5M",
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "Company_Doctify_rule40_2023.txt",
+    "content": "Company Performance Report: Doctify\n\nMetric: Rule of 40\nYear: 2023\nValue: -31.39%\nARR Bucket: 5M – 20M\n\nDescription: \nDoctify reported a rule of 40 of -31.39% in 2023. \nThe company is in the 5M – 20M ARR (Annual Recurring Revenue) bucket.\n\nGrowth rate + profit margin (Rule of 40 benchmark)\n\nThis data is from the Keen Venture Partners KPI Dashboard and represents portfolio company performance metrics.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "company": "Doctify",
+      "metric": "rule40",
+      "year": "2023",
+      "value": -31.39,
+      "arr_bucket": "5M – 20M",
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "Company_Feather_rule40_2023.txt",
+    "content": "Company Performance Report: Feather\n\nMetric: Rule of 40\nYear: 2023\nValue: 53.67%\nARR Bucket: 5M – 20M\n\nDescription: \nFeather reported a rule of 40 of 53.67% in 2023. \nThe company is in the 5M – 20M ARR (Annual Recurring Revenue) bucket.\n\nGrowth rate + profit margin (Rule of 40 benchmark)\n\nThis data is from the Keen Venture Partners KPI Dashboard and represents portfolio company performance metrics.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "company": "Feather",
+      "metric": "rule40",
+      "year": "2023",
+      "value": 53.67,
+      "arr_bucket": "5M – 20M",
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "KPI_Dashboard_rule40_2024.txt",
+    "content": "Rule of 40 - Year 2024\n==================================================\n\nMetric: Rule of 40\nDescription: Growth rate + profit margin (Rule of 40 benchmark)\nYear: 2024\nNumber of Portfolio Companies Reported: 9\n\nCompany Performance:\n- Send.AI: 33% (ARR Bucket: 1M – 5M)\n- Bits of Stock: 166% (ARR Bucket: 1M – 5M)\n- Bodyguard: -49% (ARR Bucket: 1M – 5M)\n- Avalor AI: 124% (ARR Bucket: 1M – 5M)\n- Plan A: 2% (ARR Bucket: 1M – 5M)\n- Vesper: -295% (ARR Bucket: 1M – 5M)\n- Doctify: -21% (ARR Bucket: 5M – 20M)\n- Lucinity: -3% (ARR Bucket: 5M – 20M)\n- Lendis: -38% (ARR Bucket: 5M – 20M)\n\nARR Buckets Represented:\n1M – 5M, 5M – 20M",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "metric": "rule40",
+      "year": "2024",
+      "company_count": 9,
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "Company_Send.AI_rule40_2024.txt",
+    "content": "Company Performance Report: Send.AI\n\nMetric: Rule of 40\nYear: 2024\nValue: 33%\nARR Bucket: 1M – 5M\n\nDescription: \nSend.AI reported a rule of 40 of 33% in 2024. \nThe company is in the 1M – 5M ARR (Annual Recurring Revenue) bucket.\n\nGrowth rate + profit margin (Rule of 40 benchmark)\n\nThis data is from the Keen Venture Partners KPI Dashboard and represents portfolio company performance metrics.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "company": "Send.AI",
+      "metric": "rule40",
+      "year": "2024",
+      "value": 33,
+      "arr_bucket": "1M – 5M",
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "Company_Bits of Stock_rule40_2024.txt",
+    "content": "Company Performance Report: Bits of Stock\n\nMetric: Rule of 40\nYear: 2024\nValue: 166%\nARR Bucket: 1M – 5M\n\nDescription: \nBits of Stock reported a rule of 40 of 166% in 2024. \nThe company is in the 1M – 5M ARR (Annual Recurring Revenue) bucket.\n\nGrowth rate + profit margin (Rule of 40 benchmark)\n\nThis data is from the Keen Venture Partners KPI Dashboard and represents portfolio company performance metrics.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "company": "Bits of Stock",
+      "metric": "rule40",
+      "year": "2024",
+      "value": 166,
+      "arr_bucket": "1M – 5M",
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "Company_Bodyguard_rule40_2024.txt",
+    "content": "Company Performance Report: Bodyguard\n\nMetric: Rule of 40\nYear: 2024\nValue: -49%\nARR Bucket: 1M – 5M\n\nDescription: \nBodyguard reported a rule of 40 of -49% in 2024. \nThe company is in the 1M – 5M ARR (Annual Recurring Revenue) bucket.\n\nGrowth rate + profit margin (Rule of 40 benchmark)\n\nThis data is from the Keen Venture Partners KPI Dashboard and represents portfolio company performance metrics.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "company": "Bodyguard",
+      "metric": "rule40",
+      "year": "2024",
+      "value": -49,
+      "arr_bucket": "1M – 5M",
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "Company_Avalor AI_rule40_2024.txt",
+    "content": "Company Performance Report: Avalor AI\n\nMetric: Rule of 40\nYear: 2024\nValue: 124%\nARR Bucket: 1M – 5M\n\nDescription: \nAvalor AI reported a rule of 40 of 124% in 2024. \nThe company is in the 1M – 5M ARR (Annual Recurring Revenue) bucket.\n\nGrowth rate + profit margin (Rule of 40 benchmark)\n\nThis data is from the Keen Venture Partners KPI Dashboard and represents portfolio company performance metrics.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "company": "Avalor AI",
+      "metric": "rule40",
+      "year": "2024",
+      "value": 124,
+      "arr_bucket": "1M – 5M",
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "Company_Plan A_rule40_2024.txt",
+    "content": "Company Performance Report: Plan A\n\nMetric: Rule of 40\nYear: 2024\nValue: 2%\nARR Bucket: 1M – 5M\n\nDescription: \nPlan A reported a rule of 40 of 2% in 2024. \nThe company is in the 1M – 5M ARR (Annual Recurring Revenue) bucket.\n\nGrowth rate + profit margin (Rule of 40 benchmark)\n\nThis data is from the Keen Venture Partners KPI Dashboard and represents portfolio company performance metrics.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "company": "Plan A",
+      "metric": "rule40",
+      "year": "2024",
+      "value": 2,
+      "arr_bucket": "1M – 5M",
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "Company_Vesper_rule40_2024.txt",
+    "content": "Company Performance Report: Vesper\n\nMetric: Rule of 40\nYear: 2024\nValue: -295%\nARR Bucket: 1M – 5M\n\nDescription: \nVesper reported a rule of 40 of -295% in 2024. \nThe company is in the 1M – 5M ARR (Annual Recurring Revenue) bucket.\n\nGrowth rate + profit margin (Rule of 40 benchmark)\n\nThis data is from the Keen Venture Partners KPI Dashboard and represents portfolio company performance metrics.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "company": "Vesper",
+      "metric": "rule40",
+      "year": "2024",
+      "value": -295,
+      "arr_bucket": "1M – 5M",
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "Company_Doctify_rule40_2024.txt",
+    "content": "Company Performance Report: Doctify\n\nMetric: Rule of 40\nYear: 2024\nValue: -21%\nARR Bucket: 5M – 20M\n\nDescription: \nDoctify reported a rule of 40 of -21% in 2024. \nThe company is in the 5M – 20M ARR (Annual Recurring Revenue) bucket.\n\nGrowth rate + profit margin (Rule of 40 benchmark)\n\nThis data is from the Keen Venture Partners KPI Dashboard and represents portfolio company performance metrics.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "company": "Doctify",
+      "metric": "rule40",
+      "year": "2024",
+      "value": -21,
+      "arr_bucket": "5M – 20M",
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "Company_Lucinity_rule40_2024.txt",
+    "content": "Company Performance Report: Lucinity\n\nMetric: Rule of 40\nYear: 2024\nValue: -3%\nARR Bucket: 5M – 20M\n\nDescription: \nLucinity reported a rule of 40 of -3% in 2024. \nThe company is in the 5M – 20M ARR (Annual Recurring Revenue) bucket.\n\nGrowth rate + profit margin (Rule of 40 benchmark)\n\nThis data is from the Keen Venture Partners KPI Dashboard and represents portfolio company performance metrics.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "company": "Lucinity",
+      "metric": "rule40",
+      "year": "2024",
+      "value": -3,
+      "arr_bucket": "5M – 20M",
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "Company_Lendis_rule40_2024.txt",
+    "content": "Company Performance Report: Lendis\n\nMetric: Rule of 40\nYear: 2024\nValue: -38%\nARR Bucket: 5M – 20M\n\nDescription: \nLendis reported a rule of 40 of -38% in 2024. \nThe company is in the 5M – 20M ARR (Annual Recurring Revenue) bucket.\n\nGrowth rate + profit margin (Rule of 40 benchmark)\n\nThis data is from the Keen Venture Partners KPI Dashboard and represents portfolio company performance metrics.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "company": "Lendis",
+      "metric": "rule40",
+      "year": "2024",
+      "value": -38,
+      "arr_bucket": "5M – 20M",
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "KPI_Dashboard_gross-margin_2023.txt",
+    "content": "Gross Margin - Year 2023\n==================================================\n\nMetric: Gross Margin\nDescription: Gross profit margin percentage\nYear: 2023\nNumber of Portfolio Companies Reported: 5\n\nCompany Performance:\n- Sibill: 82.3% (ARR Bucket: <1M)\n- Bodyguard: 80% (ARR Bucket: 1-5M)\n- Doctify: 93% (ARR Bucket: 5-20M)\n- Feather: 90% (ARR Bucket: 5-20M)\n- Rescale: 84.4% (ARR Bucket: 20-50M)\n\nARR Buckets Represented:\n1-5M, 20-50M, 5-20M, <1M",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "metric": "gross-margin",
+      "year": "2023",
+      "company_count": 5,
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "Company_Sibill_gross-margin_2023.txt",
+    "content": "Company Performance Report: Sibill\n\nMetric: Gross Margin\nYear: 2023\nValue: 82.3%\nARR Bucket: <1M\n\nDescription: \nSibill reported a gross margin of 82.3% in 2023. \nThe company is in the <1M ARR (Annual Recurring Revenue) bucket.\n\nGross profit margin percentage\n\nThis data is from the Keen Venture Partners KPI Dashboard and represents portfolio company performance metrics.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "company": "Sibill",
+      "metric": "gross-margin",
+      "year": "2023",
+      "value": 82.3,
+      "arr_bucket": "<1M",
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "Company_Bodyguard_gross-margin_2023.txt",
+    "content": "Company Performance Report: Bodyguard\n\nMetric: Gross Margin\nYear: 2023\nValue: 80%\nARR Bucket: 1-5M\n\nDescription: \nBodyguard reported a gross margin of 80% in 2023. \nThe company is in the 1-5M ARR (Annual Recurring Revenue) bucket.\n\nGross profit margin percentage\n\nThis data is from the Keen Venture Partners KPI Dashboard and represents portfolio company performance metrics.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "company": "Bodyguard",
+      "metric": "gross-margin",
+      "year": "2023",
+      "value": 80,
+      "arr_bucket": "1-5M",
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "Company_Doctify_gross-margin_2023.txt",
+    "content": "Company Performance Report: Doctify\n\nMetric: Gross Margin\nYear: 2023\nValue: 93%\nARR Bucket: 5-20M\n\nDescription: \nDoctify reported a gross margin of 93% in 2023. \nThe company is in the 5-20M ARR (Annual Recurring Revenue) bucket.\n\nGross profit margin percentage\n\nThis data is from the Keen Venture Partners KPI Dashboard and represents portfolio company performance metrics.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "company": "Doctify",
+      "metric": "gross-margin",
+      "year": "2023",
+      "value": 93,
+      "arr_bucket": "5-20M",
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "Company_Feather_gross-margin_2023.txt",
+    "content": "Company Performance Report: Feather\n\nMetric: Gross Margin\nYear: 2023\nValue: 90%\nARR Bucket: 5-20M\n\nDescription: \nFeather reported a gross margin of 90% in 2023. \nThe company is in the 5-20M ARR (Annual Recurring Revenue) bucket.\n\nGross profit margin percentage\n\nThis data is from the Keen Venture Partners KPI Dashboard and represents portfolio company performance metrics.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "company": "Feather",
+      "metric": "gross-margin",
+      "year": "2023",
+      "value": 90,
+      "arr_bucket": "5-20M",
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "Company_Rescale_gross-margin_2023.txt",
+    "content": "Company Performance Report: Rescale\n\nMetric: Gross Margin\nYear: 2023\nValue: 84.4%\nARR Bucket: 20-50M\n\nDescription: \nRescale reported a gross margin of 84.4% in 2023. \nThe company is in the 20-50M ARR (Annual Recurring Revenue) bucket.\n\nGross profit margin percentage\n\nThis data is from the Keen Venture Partners KPI Dashboard and represents portfolio company performance metrics.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "company": "Rescale",
+      "metric": "gross-margin",
+      "year": "2023",
+      "value": 84.4,
+      "arr_bucket": "20-50M",
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "KPI_Dashboard_gross-margin_2024.txt",
+    "content": "Gross Margin - Year 2024\n==================================================\n\nMetric: Gross Margin\nDescription: Gross profit margin percentage\nYear: 2024\nNumber of Portfolio Companies Reported: 5\n\nCompany Performance:\n- Send.AI: 91.8% (ARR Bucket: 1-5M)\n- Crisp: 31% (ARR Bucket: 1-5M)\n- Bodyguard: 86% (ARR Bucket: 1-5M)\n- Doctify: 89.77% (ARR Bucket: 5-20M)\n- Beekeeper: 78% (ARR Bucket: 20-50M)\n\nARR Buckets Represented:\n1-5M, 20-50M, 5-20M",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "metric": "gross-margin",
+      "year": "2024",
+      "company_count": 5,
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "Company_Send.AI_gross-margin_2024.txt",
+    "content": "Company Performance Report: Send.AI\n\nMetric: Gross Margin\nYear: 2024\nValue: 91.8%\nARR Bucket: 1-5M\n\nDescription: \nSend.AI reported a gross margin of 91.8% in 2024. \nThe company is in the 1-5M ARR (Annual Recurring Revenue) bucket.\n\nGross profit margin percentage\n\nThis data is from the Keen Venture Partners KPI Dashboard and represents portfolio company performance metrics.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "company": "Send.AI",
+      "metric": "gross-margin",
+      "year": "2024",
+      "value": 91.8,
+      "arr_bucket": "1-5M",
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "Company_Crisp_gross-margin_2024.txt",
+    "content": "Company Performance Report: Crisp\n\nMetric: Gross Margin\nYear: 2024\nValue: 31%\nARR Bucket: 1-5M\n\nDescription: \nCrisp reported a gross margin of 31% in 2024. \nThe company is in the 1-5M ARR (Annual Recurring Revenue) bucket.\n\nGross profit margin percentage\n\nThis data is from the Keen Venture Partners KPI Dashboard and represents portfolio company performance metrics.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "company": "Crisp",
+      "metric": "gross-margin",
+      "year": "2024",
+      "value": 31,
+      "arr_bucket": "1-5M",
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "Company_Bodyguard_gross-margin_2024.txt",
+    "content": "Company Performance Report: Bodyguard\n\nMetric: Gross Margin\nYear: 2024\nValue: 86%\nARR Bucket: 1-5M\n\nDescription: \nBodyguard reported a gross margin of 86% in 2024. \nThe company is in the 1-5M ARR (Annual Recurring Revenue) bucket.\n\nGross profit margin percentage\n\nThis data is from the Keen Venture Partners KPI Dashboard and represents portfolio company performance metrics.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "company": "Bodyguard",
+      "metric": "gross-margin",
+      "year": "2024",
+      "value": 86,
+      "arr_bucket": "1-5M",
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "Company_Doctify_gross-margin_2024.txt",
+    "content": "Company Performance Report: Doctify\n\nMetric: Gross Margin\nYear: 2024\nValue: 89.77%\nARR Bucket: 5-20M\n\nDescription: \nDoctify reported a gross margin of 89.77% in 2024. \nThe company is in the 5-20M ARR (Annual Recurring Revenue) bucket.\n\nGross profit margin percentage\n\nThis data is from the Keen Venture Partners KPI Dashboard and represents portfolio company performance metrics.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "company": "Doctify",
+      "metric": "gross-margin",
+      "year": "2024",
+      "value": 89.77,
+      "arr_bucket": "5-20M",
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "Company_Beekeeper_gross-margin_2024.txt",
+    "content": "Company Performance Report: Beekeeper\n\nMetric: Gross Margin\nYear: 2024\nValue: 78%\nARR Bucket: 20-50M\n\nDescription: \nBeekeeper reported a gross margin of 78% in 2024. \nThe company is in the 20-50M ARR (Annual Recurring Revenue) bucket.\n\nGross profit margin percentage\n\nThis data is from the Keen Venture Partners KPI Dashboard and represents portfolio company performance metrics.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "company": "Beekeeper",
+      "metric": "gross-margin",
+      "year": "2024",
+      "value": 78,
+      "arr_bucket": "20-50M",
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "Top_Performers_growth_2023.txt",
+    "content": "Top Performers - Revenue Growth 2023\n==================================================\n\nThe highest performing companies by revenue growth in 2023:\n\n1. Klima / Planet Wild: 1651% (ARR: < 1M)\n2. Feather: 97% (ARR: 5-10M)\n3. Bodyguard: 87% (ARR: 1–5M)\n4. Plan A: 45% (ARR: 1–5M)\n5. Beekeeper: 26% (ARR: 20-50M)\n\n\nAnalysis:\nThese companies represent the top performers in revenue growth among Keen Venture Partners' portfolio companies for 2023.\nThe performance spans across different ARR buckets: 1–5M, 5-10M, 20-50M, < 1M.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "metric": "growth",
+      "year": "2023",
+      "report_type": "top_performers",
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "Top_Performers_growth_2024.txt",
+    "content": "Top Performers - Revenue Growth 2024\n==================================================\n\nThe highest performing companies by revenue growth in 2024:\n\n1. Crisp: 317% (ARR: 1–5M)\n2. Send.AI: 212% (ARR: 1–5M)\n3. Plan A: 45% (ARR: 1–5M)\n4. Feather: 40.78% (ARR: 1–5M)\n5. Beekeeper: 24.14% (ARR: 20-50M)\n\n\nAnalysis:\nThese companies represent the top performers in revenue growth among Keen Venture Partners' portfolio companies for 2024.\nThe performance spans across different ARR buckets: 1–5M, 20-50M.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "metric": "growth",
+      "year": "2024",
+      "report_type": "top_performers",
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "Top_Performers_rule40_2023.txt",
+    "content": "Top Performers - Rule of 40 2023\n==================================================\n\nThe highest performing companies by rule of 40 in 2023:\n\n1. Klima / Planet Wild: 1301% (ARR: < 1M)\n2. Feather: 53.67% (ARR: 5M – 20M)\n3. Doctify: -31.39% (ARR: 5M – 20M)\n4. Bodyguard: -150% (ARR: 1M – 5M)\n\n\nAnalysis:\nThese companies represent the top performers in rule of 40 among Keen Venture Partners' portfolio companies for 2023.\nThe performance spans across different ARR buckets: 5M – 20M, < 1M, 1M – 5M.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "metric": "rule40",
+      "year": "2023",
+      "report_type": "top_performers",
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "Top_Performers_rule40_2024.txt",
+    "content": "Top Performers - Rule of 40 2024\n==================================================\n\nThe highest performing companies by rule of 40 in 2024:\n\n1. Bits of Stock: 166% (ARR: 1M – 5M)\n2. Avalor AI: 124% (ARR: 1M – 5M)\n3. Send.AI: 33% (ARR: 1M – 5M)\n4. Plan A: 2% (ARR: 1M – 5M)\n5. Lucinity: -3% (ARR: 5M – 20M)\n\n\nAnalysis:\nThese companies represent the top performers in rule of 40 among Keen Venture Partners' portfolio companies for 2024.\nThe performance spans across different ARR buckets: 5M – 20M, 1M – 5M.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "metric": "rule40",
+      "year": "2024",
+      "report_type": "top_performers",
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "Top_Performers_gross-margin_2023.txt",
+    "content": "Top Performers - Gross Margin 2023\n==================================================\n\nThe highest performing companies by gross margin in 2023:\n\n1. Doctify: 93% (ARR: 5-20M)\n2. Feather: 90% (ARR: 5-20M)\n3. Rescale: 84.4% (ARR: 20-50M)\n4. Sibill: 82.3% (ARR: <1M)\n5. Bodyguard: 80% (ARR: 1-5M)\n\n\nAnalysis:\nThese companies represent the top performers in gross margin among Keen Venture Partners' portfolio companies for 2023.\nThe performance spans across different ARR buckets: 20-50M, 1-5M, 5-20M, <1M.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "metric": "gross-margin",
+      "year": "2023",
+      "report_type": "top_performers",
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "Top_Performers_gross-margin_2024.txt",
+    "content": "Top Performers - Gross Margin 2024\n==================================================\n\nThe highest performing companies by gross margin in 2024:\n\n1. Send.AI: 91.8% (ARR: 1-5M)\n2. Doctify: 89.77% (ARR: 5-20M)\n3. Bodyguard: 86% (ARR: 1-5M)\n4. Beekeeper: 78% (ARR: 20-50M)\n5. Crisp: 31% (ARR: 1-5M)\n\n\nAnalysis:\nThese companies represent the top performers in gross margin among Keen Venture Partners' portfolio companies for 2024.\nThe performance spans across different ARR buckets: 20-50M, 1-5M, 5-20M.",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "metric": "gross-margin",
+      "year": "2024",
+      "report_type": "top_performers",
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "ARR_Bucket_Analysis_growth_2023.txt",
+    "content": "Revenue Growth by ARR Bucket - 2023\n==================================================\n\nThis analysis shows revenue growth segmented by company size (ARR bucket) for 2023.\n\n\nARR Bucket: 1–5M\nCompanies: 2\nAverage Revenue Growth: 66.00%\nCompanies in bucket: Bodyguard, Plan A\n\n\nARR Bucket: 20-50M\nCompanies: 1\nAverage Revenue Growth: 26.00%\nCompanies in bucket: Beekeeper\n\n\nARR Bucket: 5-10M\nCompanies: 2\nAverage Revenue Growth: 60.42%\nCompanies in bucket: Doctify, Feather\n\n\nARR Bucket: < 1M\nCompanies: 1\nAverage Revenue Growth: 1651.00%\nCompanies in bucket: Klima / Planet Wild\n\n\nKey Insights:\n- Portfolio companies are tracked across 4 different ARR size segments\n- This allows for size-appropriate benchmarking and performance comparison\n- Data sourced from Keen Venture Partners KPI Dashboard 2023",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "metric": "growth",
+      "year": "2023",
+      "report_type": "arr_bucket_analysis",
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "ARR_Bucket_Analysis_growth_2024.txt",
+    "content": "Revenue Growth by ARR Bucket - 2024\n==================================================\n\nThis analysis shows revenue growth segmented by company size (ARR bucket) for 2024.\n\n\nARR Bucket: 10-20M\nCompanies: 1\nAverage Revenue Growth: 14.04%\nCompanies in bucket: Doctify\n\n\nARR Bucket: 1–5M\nCompanies: 4\nAverage Revenue Growth: 153.69%\nCompanies in bucket: Send.AI, Crisp, Plan A, Feather\n\n\nARR Bucket: 20-50M\nCompanies: 1\nAverage Revenue Growth: 24.14%\nCompanies in bucket: Beekeeper\n\n\nKey Insights:\n- Portfolio companies are tracked across 3 different ARR size segments\n- This allows for size-appropriate benchmarking and performance comparison\n- Data sourced from Keen Venture Partners KPI Dashboard 2024",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "metric": "growth",
+      "year": "2024",
+      "report_type": "arr_bucket_analysis",
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "ARR_Bucket_Analysis_rule40_2023.txt",
+    "content": "Rule of 40 by ARR Bucket - 2023\n==================================================\n\nThis analysis shows rule of 40 segmented by company size (ARR bucket) for 2023.\n\n\nARR Bucket: 1M – 5M\nCompanies: 1\nAverage Rule of 40: -150.00%\nCompanies in bucket: Bodyguard\n\n\nARR Bucket: 5M – 20M\nCompanies: 2\nAverage Rule of 40: 11.14%\nCompanies in bucket: Doctify, Feather\n\n\nARR Bucket: < 1M\nCompanies: 1\nAverage Rule of 40: 1301.00%\nCompanies in bucket: Klima / Planet Wild\n\n\nKey Insights:\n- Portfolio companies are tracked across 3 different ARR size segments\n- This allows for size-appropriate benchmarking and performance comparison\n- Data sourced from Keen Venture Partners KPI Dashboard 2023",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "metric": "rule40",
+      "year": "2023",
+      "report_type": "arr_bucket_analysis",
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "ARR_Bucket_Analysis_rule40_2024.txt",
+    "content": "Rule of 40 by ARR Bucket - 2024\n==================================================\n\nThis analysis shows rule of 40 segmented by company size (ARR bucket) for 2024.\n\n\nARR Bucket: 1M – 5M\nCompanies: 6\nAverage Rule of 40: -3.17%\nCompanies in bucket: Send.AI, Bits of Stock, Bodyguard, Avalor AI, Plan A, Vesper\n\n\nARR Bucket: 5M – 20M\nCompanies: 3\nAverage Rule of 40: -20.67%\nCompanies in bucket: Doctify, Lucinity, Lendis\n\n\nKey Insights:\n- Portfolio companies are tracked across 2 different ARR size segments\n- This allows for size-appropriate benchmarking and performance comparison\n- Data sourced from Keen Venture Partners KPI Dashboard 2024",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "metric": "rule40",
+      "year": "2024",
+      "report_type": "arr_bucket_analysis",
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "ARR_Bucket_Analysis_gross-margin_2023.txt",
+    "content": "Gross Margin by ARR Bucket - 2023\n==================================================\n\nThis analysis shows gross margin segmented by company size (ARR bucket) for 2023.\n\n\nARR Bucket: 1-5M\nCompanies: 1\nAverage Gross Margin: 80.00%\nCompanies in bucket: Bodyguard\n\n\nARR Bucket: 20-50M\nCompanies: 1\nAverage Gross Margin: 84.40%\nCompanies in bucket: Rescale\n\n\nARR Bucket: 5-20M\nCompanies: 2\nAverage Gross Margin: 91.50%\nCompanies in bucket: Doctify, Feather\n\n\nARR Bucket: <1M\nCompanies: 1\nAverage Gross Margin: 82.30%\nCompanies in bucket: Sibill\n\n\nKey Insights:\n- Portfolio companies are tracked across 4 different ARR size segments\n- This allows for size-appropriate benchmarking and performance comparison\n- Data sourced from Keen Venture Partners KPI Dashboard 2023",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "metric": "gross-margin",
+      "year": "2023",
+      "report_type": "arr_bucket_analysis",
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  },
+  {
+    "filename": "ARR_Bucket_Analysis_gross-margin_2024.txt",
+    "content": "Gross Margin by ARR Bucket - 2024\n==================================================\n\nThis analysis shows gross margin segmented by company size (ARR bucket) for 2024.\n\n\nARR Bucket: 1-5M\nCompanies: 3\nAverage Gross Margin: 69.60%\nCompanies in bucket: Send.AI, Crisp, Bodyguard\n\n\nARR Bucket: 20-50M\nCompanies: 1\nAverage Gross Margin: 78.00%\nCompanies in bucket: Beekeeper\n\n\nARR Bucket: 5-20M\nCompanies: 1\nAverage Gross Margin: 89.77%\nCompanies in bucket: Doctify\n\n\nKey Insights:\n- Portfolio companies are tracked across 3 different ARR size segments\n- This allows for size-appropriate benchmarking and performance comparison\n- Data sourced from Keen Venture Partners KPI Dashboard 2024",
+    "metadata": {
+      "source_type": "kpi_dashboard",
+      "metric": "gross-margin",
+      "year": "2024",
+      "report_type": "arr_bucket_analysis",
+      "date_added": "2026-02-10T12:06:56.495068"
+    }
+  }
+]
